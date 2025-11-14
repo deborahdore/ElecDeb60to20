@@ -14,9 +14,11 @@ data_path = 'data/'
 annotations_base_path = 'data/ann/'
 full_debates_file = "data/full_debates.csv"
 
+os.makedirs(os.path.join(data_path, "components"), exist_ok=True)
+
 
 def parse_annotations():
-    df = pd.read_csv(full_debates_file)
+    df = pd.read_csv(full_debates_file).sample(n=20)
 
     annotated_df = []
     previous_folder = ""
@@ -153,5 +155,5 @@ if __name__ == "__main__":
     print(dates)
     for date in dates:
         day, month, year = date.split("/")
-        output_file = os.path.join(annotations_base_path, year, f"{day}_{month.zfill(2)}.conll")
+        output_file = os.path.join(data_path, "components", f"{day}-{month}-{year}.conll")
         transform_to_conll(annotated_df[annotated_df['date'] == date], output_file)
