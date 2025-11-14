@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import rootutils
 from brat_parser import get_entities_relations_attributes_groups
+from tqdm import tqdm
 
 rootutils.setup_root(__file__, indicator=".project-root", pythonpath=True, cwd=True)
 
@@ -23,21 +24,23 @@ def parse_annotations():
     # all_relations = []
     # all_attributes = []
     # all_groups = []
-    for idx, row in df.iterrows():
+    for idx, row in tqdm(df.iterrows(), total=len(df)):
         date = row.date
         speaker = row.speaker
         speech = row.concatenated_speech
 
         # load all annotations for that date
-        year = date.split("/")[-1]
-        day = date.split("/")[0] + "_" + date.split("/")[1]
-        folder = os.path.join(annotations_base_path, year, day)
+        day, month, year = date.split("/")
+        folder = os.path.join(annotations_base_path, year, f"{day}_{month.zfill(2)}")
 
-        files = [
-            os.path.join(folder, file)
-            for file in os.listdir(folder)
-            if file.endswith(".ann")
-        ]
+        try:
+            files = [
+                os.path.join(folder, file)
+                for file in os.listdir(folder)
+                if file.endswith(".ann")
+            ]
+        except:
+            continue
 
         # reload annotation files only when folder changes
         if folder != previous_folder:
@@ -86,15 +89,16 @@ def parse_annotations():
             "speaker": speaker,
             "speech": " ".join(annotated_sentences)
         })
-    annotated_df = pd.DataFrame(annotated_df).to_csv(os.path.join(data_path, "annotated_full_debates.csv"), index=False)
+    annotated_df = pd.DataFrame(annotated_df)
+    annotated_df.to_csv(os.path.join(data_path, "annotated_full_debates.csv"), index=False)
     return annotated_df
 
 
 def transform_to_conll(annotated_df, output_file):
     # transform df to conll
     conll_lines = []
-    for entry in annotated_df:
-        speech = entry['speech']
+    for idx, entry in annotated_df.iterrows():
+        speech = entry.speech
         # speaker = entry['speaker']
 
         # Split into sentences
@@ -122,7 +126,7 @@ def transform_to_conll(annotated_df, output_file):
                 # Text content
                 else:
                     # Tokenize the text
-                    words = nltk.word_tokenize(part)
+                    words = part.split()
                     for i, word in enumerate(words):
                         if current_entity:
                             # Use BIO tagging scheme
@@ -133,21 +137,21 @@ def transform_to_conll(annotated_df, output_file):
                         else:
                             tag = "O"
 
-                        conll_lines.append(f"{word}\t{tag}")
+                        conll_lines.append(f"{word}\t_\t_\t{tag}")
 
-            # Blank line between sentences
-            conll_lines.append("")
+        # Blank line between rows
+        conll_lines.append("")
     # Write to file
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(conll_lines))
-    print(f"CoNLL format saved to: {output_path}")
+    print(f"CoNLL format saved to: {output_file}")
 
 
 if __name__ == "__main__":
     annotated_df = parse_annotations()
     dates = np.unique(annotated_df['date'].values).tolist()
+    print(dates)
     for date in dates:
         day, month, year = date.split("/")
-
-        output_file = os.path.join(annotations_base_path, year, f"{day}_{month}.conll")
+        output_file = os.path.join(annotations_base_path, year, f"{day}_{month.zfill(2)}.conll")
         transform_to_conll(annotated_df[annotated_df['date'] == date], output_file)
