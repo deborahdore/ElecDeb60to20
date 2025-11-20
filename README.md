@@ -1,20 +1,47 @@
 # ElecDeb60to20 Dataset
 
-In this repository is available the dataset named **ElecDeb60to20** that is split in different annotation types:
+**OFFICIAL AND UPDATED REPOSITORY FOR THE ELECDEB60TO20 DATASET**
 
-- Fallacy Annotation
-- Argument Component Annotations
-- Argument Relationship Annotations
+This dataset is a collection of televised debates of the US presidential campaign debates from **1960** to **2020** [[1](https://aclanthology.org/2023.emnlp-main.684)], [[2](https://aclanthology.org/P19-1463)], [[3](https://www.debates.org/voter-education/debate-transcripts/)].
 
-In addition, it is possible to explore the debates from the "speech turn" point of view in the folder `data/debates`.
+----
 
-This dataset is a collection of televised debates of the US presidential campaign debates from **1960** to **2020
-** [[1](https://aclanthology.org/2023.emnlp-main.684)], [[2](https://aclanthology.org/P19-1463)], [[3](https://www.debates.org/voter-education/debate-transcripts/)].
+The Dataset contains annotations for:
+- Argument Components (Claim/Premises) and their boundaries
+- Argument Components Relations (Support/Attack/Equivalent)
+- Fallacies
 
-The guidelines used to annotate the fallacy are
-provided [here](https://github.com/pierpaologoffredo/ElecDeb60to20/blob/main/guidelines/fallacy.pdf), whereas for the
-argumentative component and relationship
-are [here](https://github.com/pierpaologoffredo/ElecDeb60to20/blob/main/guidelines/annotation_guidelines.pdf).
+Guidelines:
+- [Argument Components](guidelines/component_guidelines.pdf)
+- [Argument Components Relations](guidelines/relation_guidelines.pdf)
+- [Fallacies](guidelines/fallacy_guidelines.pdf)
+
+## Argumentative Component
+
+The components are split into **Claims** and **Premises**.
+
+### **Claims**
+
+Being them the ultimate goal of an argument, in the context of political debates, claims can be a policy advocated by a
+party or a candidate to be undertaken which needs to be justified in order to be accepted by the audience.
+
+### **Premises**
+
+Premises are assertions made by the debaters for supporting their claims (i.e., reasons
+or justifications).
+
+## Argumentative Relationship
+
+The relationships are split into **Support** and **Attack**.
+
+### **Support**
+
+Links two components from a supporting argument component to a supported argument component.
+
+### **Attack**
+
+Holds when one argument component is in contradiction with another argument component
+
 
 ## Fallacy
 
@@ -44,37 +71,4 @@ Focus on **six** category of main fallacies and three of them are further divide
 4. **False Cause**
 5. **Slippery Slope**
 6. **Slogans**
-
-## Argumentative Component
-
-The components are split into:
-
-- Claims
-- Premises
-
-**Claims**
-
-Being them the ultimate goal of an argument, in the context of political debates, claims can be a policy advocated by a
-party or a candidate to be undertaken which needs to be justified in order to be accepted by the audience.
-
-**Premises**
-
-Premises are assertions made by the debaters for supporting their claims (i.e., reasons
-or justifications).
-
-## Argumentative Relationship
-
-The relationships are split into:
-
-- Support
-- Attack
-
-**Support**
-
-Links two components from a supporting argument component to a supported argument component.
-
-**Attack**
-
-Holds when one argument component is in contradiction with another argument component
-
 
