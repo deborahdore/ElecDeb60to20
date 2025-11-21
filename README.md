@@ -2,12 +2,7 @@
 
 **OFFICIAL AND UPDATED REPOSITORY FOR THE ELECDEB60TO20 DATASET**
 
-This dataset is a collection of televised debates of the US presidential campaign debates from **1960** to **2020
-** [[1](https://aclanthology.org/2023.emnlp-main.684)], [[2](https://aclanthology.org/P19-1463)], [[3](https://www.debates.org/voter-education/debate-transcripts/)].
-
-----
-
-The Dataset contains annotations for:
+This dataset is a collection of televised debates of the US presidential campaign debates from **1960** to **2020** [[1](https://aclanthology.org/2023.emnlp-main.684)], [[2](https://aclanthology.org/P19-1463)], [[3](https://www.debates.org/voter-education/debate-transcripts/)]. The Dataset contains annotations for:
 
 - Argument Components (Claim/Premises) and their boundaries
 - Argument Components Relations (Support/Attack/Equivalent)
