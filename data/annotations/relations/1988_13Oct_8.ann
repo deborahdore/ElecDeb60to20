@@ -20,24 +20,24 @@ T19	Claim 2556 2673	I think it has to be the woman, in the exercise of her own c
 T20	Premise 2675 2784	Who are we to say, well, under certain circumstances, it's all right, but under other circumstances it isn't?
 T21	Premise 2785 2829	That's a decision that only a woman can make
 T22	Premise 2831 2902	after consulting her conscience and consulting her religious principles
-R1	Support Arg1:T2 Arg2:T7	
-R2	Support Arg1:T3 Arg2:T7	
-R3	Support Arg1:T4 Arg2:T7	
-R4	Support Arg1:T5 Arg2:T7	
-R5	Support Arg1:T6 Arg2:T7	
-R6	Support Arg1:T7 Arg2:T8	
-R7	Support Arg1:T10 Arg2:T7	
-R8	Support Arg1:T9 Arg2:T7	
-R9	Support Arg1:T11 Arg2:T7	
-R10	Support Arg1:T12 Arg2:T7	
-R11	Support Arg1:T13 Arg2:T7	
-R12	Support Arg1:T15 Arg2:T14	
-R13	Support Arg1:T17 Arg2:T16	
-R14	Attack Arg1:T16 Arg2:T14	
-R15	Support Arg1:T16 Arg2:T19	
-R16	Support Arg1:T18 Arg2:T19	
-R17	Support Arg1:T20 Arg2:T19	
-R18	Support Arg1:T21 Arg2:T19	
-R19	Support Arg1:T22 Arg2:T19	
+R1	Support Arg1:T2 Arg2:T7
+R2	Support Arg1:T3 Arg2:T7
+R3	Support Arg1:T4 Arg2:T7
+R4	Support Arg1:T5 Arg2:T7
+R5	Support Arg1:T6 Arg2:T7
+R6	Support Arg1:T7 Arg2:T8
+R7	Support Arg1:T10 Arg2:T7
+R8	Support Arg1:T9 Arg2:T7
+R9	Support Arg1:T11 Arg2:T7
+R10	Support Arg1:T12 Arg2:T7
+R11	Support Arg1:T13 Arg2:T7
+R12	Support Arg1:T15 Arg2:T14
+R13	Support Arg1:T17 Arg2:T16
+R14	Attack Arg1:T16 Arg2:T14
+R15	Support Arg1:T16 Arg2:T19
+R16	Support Arg1:T18 Arg2:T19
+R17	Support Arg1:T20 Arg2:T19
+R18	Support Arg1:T21 Arg2:T19
+R19	Support Arg1:T22 Arg2:T19
 T23	Claim 2908 2996	I would hope that we would give to women in this country the right to make that decision
-R20	Support Arg1:T19 Arg2:T23	
+R20	Support Arg1:T19 Arg2:T23

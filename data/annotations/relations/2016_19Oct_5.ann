@@ -36,30 +36,30 @@ T377	Premise 2924 2967	he has campaigned for me around the country
 T378	Claim 2969 3056	you are the most dangerous person to run for president in the modern history of America
 T379	Claim 3058 3076	I think he's right
 T276	Premise 1752 1772	why does that matter
-R1	Support Arg1:T346 Arg2:T344	
-R2	Support Arg1:T347 Arg2:T344	
-R3	Support Arg1:T345 Arg2:T344	
-R4	Support Arg1:T357 Arg2:T356	
-R5	Support Arg1:T358 Arg2:T356	
-R6	Support Arg1:T359 Arg2:T356	
-R7	Support Arg1:T360 Arg2:T356	
-R8	Support Arg1:T363 Arg2:T362	
-R9	Attack Arg1:T261 Arg2:T361	
-R10	Support Arg1:T361 Arg2:T362	
-R11	Support Arg1:T351 Arg2:T352	
-R12	Support Arg1:T276 Arg2:T354	
-R13	Support Arg1:T353 Arg2:T354	
-R14	Support Arg1:T355 Arg2:T354	
-R15	Support Arg1:T349 Arg2:T348	
-R16	Support Arg1:T348 Arg2:T354	
-R17	Support Arg1:T369 Arg2:T355	
-R18	Support Arg1:T372 Arg2:T371	
-R19	Support Arg1:T373 Arg2:T374	
+R1	Support Arg1:T346 Arg2:T344
+R2	Support Arg1:T347 Arg2:T344
+R3	Support Arg1:T345 Arg2:T344
+R4	Support Arg1:T357 Arg2:T356
+R5	Support Arg1:T358 Arg2:T356
+R6	Support Arg1:T359 Arg2:T356
+R7	Support Arg1:T360 Arg2:T356
+R8	Support Arg1:T363 Arg2:T362
+R9	Attack Arg1:T261 Arg2:T361
+R10	Support Arg1:T361 Arg2:T362
+R11	Support Arg1:T351 Arg2:T352
+R12	Support Arg1:T276 Arg2:T354
+R13	Support Arg1:T353 Arg2:T354
+R14	Support Arg1:T355 Arg2:T354
+R15	Support Arg1:T349 Arg2:T348
+R16	Support Arg1:T348 Arg2:T354
+R17	Support Arg1:T369 Arg2:T355
+R18	Support Arg1:T372 Arg2:T371
+R19	Support Arg1:T373 Arg2:T374
 T1	Claim 2532 2564	No, you are the one that's unfit
-R20	Support Arg1:T374 Arg2:T1	
-R21	Support Arg1:T371 Arg2:T1	
-R22	Attack Arg1:T375 Arg2:T373	
-R23	Attack Arg1:T376 Arg2:T375	
-R24	Support Arg1:T377 Arg2:T378	
-R25	Support Arg1:T378 Arg2:T379	
-R26	Attack Arg1:T379 Arg2:T1	
+R20	Support Arg1:T374 Arg2:T1
+R21	Support Arg1:T371 Arg2:T1
+R22	Attack Arg1:T375 Arg2:T373
+R23	Attack Arg1:T376 Arg2:T375
+R24	Support Arg1:T377 Arg2:T378
+R25	Support Arg1:T378 Arg2:T379
+R26	Attack Arg1:T379 Arg2:T1

@@ -54,13 +54,13 @@ T54	Premise 8597 8684	that is a tremendous life-saving change which will help pe
 T55	Premise 8689 8790	allow them to develop the kinds of skills that will help them succeed in the hi-tech economy of today
 T80	Question 1161 1402	Senator, few hard working Americans would base their well-being on bonuses they hope to get five or ten years from now. Why do you, and you, Secretary Cheney, predict surpluses you cannot possibly guarantee to pay for your proposed programs?
 T56	Claim 2720 2811	I'm going to explain tonight how we're going to do all this and remain fiscally responsible
-R1	Support Arg1:T1 Arg2:T56	
-R2	Support Arg1:T2 Arg2:T56	
-R3	Support Arg1:T3 Arg2:T56	
-R4	Support Arg1:T8 Arg2:T4	
+R1	Support Arg1:T1 Arg2:T56
+R2	Support Arg1:T2 Arg2:T56
+R3	Support Arg1:T3 Arg2:T56
+R4	Support Arg1:T8 Arg2:T4
 T9	Claim 3964 4001	we have to make some kind of forecast
-R5	Support Arg1:T12 Arg2:T9	
-R6	Support Arg1:T11 Arg2:T9	
-R7	Attack Arg1:T13 Arg2:T5	
-R8	Support Arg1:T9 Arg2:T5	
-R9	Support Arg1:T15 Arg2:T14	
+R5	Support Arg1:T12 Arg2:T9
+R6	Support Arg1:T11 Arg2:T9
+R7	Attack Arg1:T13 Arg2:T5
+R8	Support Arg1:T9 Arg2:T5
+R9	Support Arg1:T15 Arg2:T14

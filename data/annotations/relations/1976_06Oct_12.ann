@@ -26,36 +26,36 @@ T25	Claim 3031 3235	The only thing I believe is that whatever the - the knowledg
 T26	Claim 3237 3279	This is uh - what the American people want
 T27	Premise 3281 3585	When something happens that endangers our security, or when something happens that threatens our stature in the world, or when American people are endangered by the actions of a foreign country, uh - just forty uh sailors on the Mayaguez, we obviously have to move aggressively and quickly to rescue them
 T28	Claim 3633 3775	I believe the president has an obligation to tell the American people the truth and not wait eighteen months later for the report to be issued
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T4 Arg2:T3	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T4 Arg2:T3
 T29	Claim 792 917	Somebody who sits in Washington, D.C., eighteen months after the Mayaguez incident, can be a very good grandstand quarterback
-R3	Support Arg1:T5 Arg2:T3	
-R4	Support Arg1:T6 Arg2:T5	
-R5	Support Arg1:T8 Arg2:T10	
-R6	Support Arg1:T9 Arg2:T10	
-R7	Support Arg1:T7 Arg2:T10	
-R8	Support Arg1:T29 Arg2:T11	
-R9	Support Arg1:T10 Arg2:T12	
-R10	Attack Arg1:T10 Arg2:T11	
-R11	Support Arg1:T13 Arg2:T12	
-R12	Support Arg1:T14 Arg2:T12	
+R3	Support Arg1:T5 Arg2:T3
+R4	Support Arg1:T6 Arg2:T5
+R5	Support Arg1:T8 Arg2:T10
+R6	Support Arg1:T9 Arg2:T10
+R7	Support Arg1:T7 Arg2:T10
+R8	Support Arg1:T29 Arg2:T11
+R9	Support Arg1:T10 Arg2:T12
+R10	Attack Arg1:T10 Arg2:T11
+R11	Support Arg1:T13 Arg2:T12
+R12	Support Arg1:T14 Arg2:T12
 T30	Premise 1962 2062	I had a responsibility, and so did the National Security Coun- Council, to meet the problem at hand.
-R13	Support Arg1:T30 Arg2:T15	
-R14	Support Arg1:T16 Arg2:T15	
-R15	Support Arg1:T8 Arg2:T16	
-R16	Support Arg1:T18 Arg2:T17	
-R17	Support Arg1:T19 Arg2:T17	
-R18	Support Arg1:T19 Arg2:T20	
-R19	Support Arg1:T17 Arg2:T20	
-R20	Support Arg1:T21 Arg2:T20	
-R21	Support Arg1:T22 Arg2:T20	
-R22	Attack Arg1:T23 Arg2:T20	
+R13	Support Arg1:T30 Arg2:T15
+R14	Support Arg1:T16 Arg2:T15
+R15	Support Arg1:T8 Arg2:T16
+R16	Support Arg1:T18 Arg2:T17
+R17	Support Arg1:T19 Arg2:T17
+R18	Support Arg1:T19 Arg2:T20
+R19	Support Arg1:T17 Arg2:T20
+R20	Support Arg1:T21 Arg2:T20
+R21	Support Arg1:T22 Arg2:T20
+R22	Attack Arg1:T23 Arg2:T20
 T31	Premise 2965 3029	I don't know what was right, or what was wrong, or what was done
-R23	Support Arg1:T31 Arg2:T23	
-R24	Support Arg1:T24 Arg2:T20	
-R25	Support Arg1:T25 Arg2:T17	
-R26	Support Arg1:T26 Arg2:T25	
-R27	Support Arg1:T27 Arg2:T26	
-R28	Support Arg1:T27 Arg2:T25	
-R29	Attack Arg1:T28 Arg2:T25	
-R30	Attack Arg1:T28 Arg2:T18	
+R23	Support Arg1:T31 Arg2:T23
+R24	Support Arg1:T24 Arg2:T20
+R25	Support Arg1:T25 Arg2:T17
+R26	Support Arg1:T26 Arg2:T25
+R27	Support Arg1:T27 Arg2:T26
+R28	Support Arg1:T27 Arg2:T25
+R29	Attack Arg1:T28 Arg2:T25
+R30	Attack Arg1:T28 Arg2:T18

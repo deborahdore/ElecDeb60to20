@@ -55,38 +55,38 @@ T498	Premise 9056 9103	Those would all, could all be challenged by men
 T499	Claim 9109 9190	the same would be true with regard to combat service in the military and so forth
 T1	Claim 942 1008	This is a contest between a Democrat in the mainstream of my party
 T2	Premise 1013 1096	exemplified by the actions that I have taken in the Oval Office the last four years
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T1 Arg2:T445	
-R3	Support Arg1:T450 Arg2:T445	
-R4	Support Arg1:T447 Arg2:T444	
-R5	Support Arg1:T448 Arg2:T444	
-R6	Support Arg1:T449 Arg2:T444	
-R7	Support Arg1:T447 Arg2:T446	
-R8	Support Arg1:T448 Arg2:T446	
-R9	Support Arg1:T449 Arg2:T446	
-R10	Support Arg1:T452 Arg2:T451	
-R11	Support Arg1:T446 Arg2:T453	
-R12	Support Arg1:T453 Arg2:T444	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T1 Arg2:T445
+R3	Support Arg1:T450 Arg2:T445
+R4	Support Arg1:T447 Arg2:T444
+R5	Support Arg1:T448 Arg2:T444
+R6	Support Arg1:T449 Arg2:T444
+R7	Support Arg1:T447 Arg2:T446
+R8	Support Arg1:T448 Arg2:T446
+R9	Support Arg1:T449 Arg2:T446
+R10	Support Arg1:T452 Arg2:T451
+R11	Support Arg1:T446 Arg2:T453
+R12	Support Arg1:T453 Arg2:T444
 T3	Claim 2972 3020	I believe that there is a fundamental difference
 T4	Claim 3027 3208	I think it has been evident in most of the answers that Mr. Carter has given tonight - that he seeks the solution to anything as another opportunity for a Federal Government program
-R13	Support Arg1:T4 Arg2:T3	
-R14	Support Arg1:T455 Arg2:T3	
-R15	Support Arg1:T456 Arg2:T455	
-R16	Support Arg1:T457 Arg2:T456	
-R17	Support Arg1:T463 Arg2:T464	
-R18	Support Arg1:T460 Arg2:T464	
-R19	Support Arg1:T459 Arg2:T464	
-R20	Support Arg1:T458 Arg2:T464	
+R13	Support Arg1:T4 Arg2:T3
+R14	Support Arg1:T455 Arg2:T3
+R15	Support Arg1:T456 Arg2:T455
+R16	Support Arg1:T457 Arg2:T456
+R17	Support Arg1:T463 Arg2:T464
+R18	Support Arg1:T460 Arg2:T464
+R19	Support Arg1:T459 Arg2:T464
+R20	Support Arg1:T458 Arg2:T464
 T5	Claim 4130 4175	I said many foolish things back in those days
-R21	Support Arg1:T464 Arg2:T466	
-R22	Support Arg1:T462 Arg2:T461	
-R23	Support Arg1:T467 Arg2:T461	
+R21	Support Arg1:T464 Arg2:T466
+R22	Support Arg1:T462 Arg2:T461
+R23	Support Arg1:T467 Arg2:T461
 T6	Premise 4047 4128	when I had quoted a Democratic President, as the President says, I was a Democrat
-R24	Support Arg1:T465 Arg2:T6	
+R24	Support Arg1:T465 Arg2:T6
 T7	Premise 4691 4816	I mentioned the radical departure of Governor Reagan from the principles or ideals of historical perspective of his own party
-R25	Support Arg1:T468 Arg2:T7	
-R26	Support Arg1:T469 Arg2:T468	
-R27	Support Arg1:T470 Arg2:T468	
-R28	Support Arg1:T471 Arg2:T468	
-R29	Support Arg1:T471 Arg2:T472	
-R30	Support Arg1:T473 Arg2:T472	
+R25	Support Arg1:T468 Arg2:T7
+R26	Support Arg1:T469 Arg2:T468
+R27	Support Arg1:T470 Arg2:T468
+R28	Support Arg1:T471 Arg2:T468
+R29	Support Arg1:T471 Arg2:T472
+R30	Support Arg1:T473 Arg2:T472

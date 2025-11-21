@@ -28,27 +28,27 @@ T311	Premise 2504 2539	the Soviets were no longer a factor
 T312	Premise 2541 2630	They used to fish in troubled waters whenever they had the opportunity in the Middle East
 T313	Claim 2418 2464	Iraq was the biggest military threat to Israel
 T1	Question 47 240	Once again in the Middle East, peace talks on the one hand, deadly confrontations on the other, and the flashpoint, Jerusalem, and then there's Syria. Is United States policy what it should be?
-R1	Support Arg1:T290 Arg2:T291	
-R2	Support Arg1:T289 Arg2:T291	
-R3	Support Arg1:T292 Arg2:T293	
-R4	Support Arg1:T287 Arg2:T286	
-R5	Support Arg1:T295 Arg2:T286	
-R6	Support Arg1:T293 Arg2:T287	
+R1	Support Arg1:T290 Arg2:T291
+R2	Support Arg1:T289 Arg2:T291
+R3	Support Arg1:T292 Arg2:T293
+R4	Support Arg1:T287 Arg2:T286
+R5	Support Arg1:T295 Arg2:T286
+R6	Support Arg1:T293 Arg2:T287
 T2	Premise 1459 1549	Secretary Albright has been in Paris meeting with prime minister Barak and chairman Arafat
-R7	Support Arg1:T2 Arg2:T287	
-R8	Support Arg1:T288 Arg2:T286	
-R9	Support Arg1:T303 Arg2:T302	
-R10	Support Arg1:T304 Arg2:T302	
-R11	Support Arg1:T305 Arg2:T302	
+R7	Support Arg1:T2 Arg2:T287
+R8	Support Arg1:T288 Arg2:T286
+R9	Support Arg1:T303 Arg2:T302
+R10	Support Arg1:T304 Arg2:T302
+R11	Support Arg1:T305 Arg2:T302
 T3	Premise 2466 2502	By virtue of the end of the Cold War
-R12	Support Arg1:T3 Arg2:T311	
+R12	Support Arg1:T3 Arg2:T311
 T4	Premise 2632 2772	With the end of the Soviet Union, the implosion of the empire, that created a vacuum if you will, and made it easier for us to operate there
-R13	Support Arg1:T311 Arg2:T4	
-R14	Support Arg1:T312 Arg2:T4	
-R15	Support Arg1:T4 Arg2:T300	
-R16	Support Arg1:T302 Arg2:T300	
-R17	Support Arg1:T313 Arg2:T302	
-R18	Support Arg1:T306 Arg2:T300	
-R19	Support Arg1:T307 Arg2:T306	
-R20	Support Arg1:T308 Arg2:T307	
-R21	Support Arg1:T310 Arg2:T309	
+R13	Support Arg1:T311 Arg2:T4
+R14	Support Arg1:T312 Arg2:T4
+R15	Support Arg1:T4 Arg2:T300
+R16	Support Arg1:T302 Arg2:T300
+R17	Support Arg1:T313 Arg2:T302
+R18	Support Arg1:T306 Arg2:T300
+R19	Support Arg1:T307 Arg2:T306
+R20	Support Arg1:T308 Arg2:T307
+R21	Support Arg1:T310 Arg2:T309

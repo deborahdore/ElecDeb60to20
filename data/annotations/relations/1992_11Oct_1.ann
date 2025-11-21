@@ -8,37 +8,37 @@ T7	Premise 1978 2166	where the people are more or less treated as objects to be 
 T8	Premise 2168 2369	The thing that separates my candidacy and makes it unique is that this came from millions of people in 50 states all over this country who wanted a candidate that worked and belonged to nobody but them
 T9	Claim 2434 2460	this comes from the people
 T10	Premise 2371 2429	I go into this race as their servant, and I belong to them
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T3 Arg2:T1	
-R3	Support Arg1:T7 Arg2:T6	
-R4	Support Arg1:T10 Arg2:T9	
-R5	Support Arg1:T8 Arg2:T9	
-R6	Equivalent Arg1:T4 Arg2:T9	
-R7	Support Arg1:T1 Arg2:T4	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T3 Arg2:T1
+R3	Support Arg1:T7 Arg2:T6
+R4	Support Arg1:T10 Arg2:T9
+R5	Support Arg1:T8 Arg2:T9
+R6	Equivalent Arg1:T4 Arg2:T9
+R7	Support Arg1:T1 Arg2:T4
 T11	Claim 2522 2714	The most important distinction in this campaign is that I represent real hope for change, a departure from trickle-down economics, a departure from tax and spend economics, to invest in growth
 T12	Claim 2891 2932	You've had your chance and it didn't work
 T13	Premise 2844 2889	Mr. Bush, for 12 years you've had it your way
-R8	Support Arg1:T13 Arg2:T12	
+R8	Support Arg1:T13 Arg2:T12
 T14	Claim 2934 2953	It's time to change
-R9	Support Arg1:T12 Arg2:T14	
+R9	Support Arg1:T12 Arg2:T14
 T15	Claim 3161 3211	I think one thing that distinguishes is experience
 T16	Claim 3213 3257	I think we've dramatically changed the world
-R10	Attack Arg1:T16 Arg2:T12	
+R10	Attack Arg1:T16 Arg2:T12
 T17	Premise 3351 3411	Kids go to bed at night without the same fear of nuclear war
-R11	Support Arg1:T17 Arg2:T16	
+R11	Support Arg1:T17 Arg2:T16
 T18	Claim 3413 3452	And change for change sake isn't enough
-R12	Attack Arg1:T18 Arg2:T14	
+R12	Attack Arg1:T18 Arg2:T14
 T19	Premise 3454 3585	We saw that message in the late 70s when heard a lot about change, and what happened, that misery index went right through the roof
-R13	Support Arg1:T19 Arg2:T18	
+R13	Support Arg1:T19 Arg2:T18
 T20	Claim 3591 3640	my economic program is the kind of change we want
 T21	Claim 3646 3724	the way we're going to get it done is we're going to have a brand new Congress
 T22	Premise 3726 3782	A lot of them are thrown out because of all the scandals
-R14	Support Arg1:T22 Arg2:T21	
+R14	Support Arg1:T22 Arg2:T21
 T23	Claim 3958 3995	I think it's experience at this level
-R15	Equivalent Arg1:T23 Arg2:T15	
+R15	Equivalent Arg1:T23 Arg2:T15
 T24	Claim 4201 4228	I believe experience counts
 T25	Claim 4234 4253	it's not everything
-R16	Attack Arg1:T25 Arg2:T24	
+R16	Attack Arg1:T25 Arg2:T24
 T26	Premise 4255 4351	Values, judgment, and the record that I have amassed in my state also should count for something
 T27	Premise 4353 4411	I've worked hard to create good jobs and to educate people
 T28	Premise 4413 4608	My state now ranks first in the country in job growth this year, fourth in income growth, fourth in reduction of poverty, third in overall economic performance, according to a major news magazine
@@ -62,9 +62,9 @@ T45	Premise 6054 6101	Mine is rooted in the real lives of real people
 T46	Claim 6107 6166	it will bring real results if we have the courage to change
 T47	Premise 6406 6479	He thinks, I think he said, that the country is coming apart at the seams
 T48	Claim 6486 6581	I know that the only way he can win is to make everybody believe the economy's worse than it is
-R17	Attack Arg1:T48 Arg2:T47	
+R17	Attack Arg1:T48 Arg2:T47
 T49	Claim 6587 6652	this country is not coming apart at the seams, for heaven's sakes
-R18	Attack Arg1:T49 Arg2:T47	
+R18	Attack Arg1:T49 Arg2:T47
 T50	Premise 6654 6688	We're the United States of America
 T51	Premise 6690 6774	In spite of the economic problems, we're the most respected economy around the world
 T52	Premise 6776 6799	Many would trade for it
@@ -86,35 +86,35 @@ T67	Premise 8306 8329	if it's time for action
 T68	Claim 8331 8368	I think I have experience that counts
 T69	Premise 8370 8451	If there's more time for gridlock and talk and finger pointing, I'm the wrong man
 T70	Claim 2955 3005	I want to bring that change to the American people
-R19	Support Arg1:T14 Arg2:T70	
+R19	Support Arg1:T14 Arg2:T70
 T71	Premise 3304 3349	the changes are mind-boggling for world peace
-R20	Support Arg1:T71 Arg2:T16	
-R21	Attack Arg1:T25 Arg2:T23	
-R22	Support Arg1:T26 Arg2:T25	
-R23	Support Arg1:T27 Arg2:T26	
-R24	Support Arg1:T28 Arg2:T27	
-R25	Support Arg1:T28 Arg2:T29	
-R26	Support Arg1:T30 Arg2:T32	
-R27	Support Arg1:T35 Arg2:T36	
-R28	Support Arg1:T37 Arg2:T36	
-R29	Support Arg1:T34 Arg2:T35	
-R30	Support Arg1:T38 Arg2:T36	
-R31	Support Arg1:T39 Arg2:T36	
-R32	Support Arg1:T36 Arg2:T40	
-R33	Support Arg1:T41 Arg2:T40	
-R34	Support Arg1:T42 Arg2:T41	
-R35	Support Arg1:T40 Arg2:T43	
-R36	Support Arg1:T45 Arg2:T46	
-R37	Support Arg1:T50 Arg2:T49	
-R38	Support Arg1:T51 Arg2:T49	
-R39	Support Arg1:T52 Arg2:T49	
-R40	Attack Arg1:T56 Arg2:T55	
-R41	Support Arg1:T59 Arg2:T58	
-R42	Support Arg1:T64 Arg2:T65	
-R43	Support Arg1:T67 Arg2:T68	
-R44	Support Arg1:T69 Arg2:T68	
-R45	Support Arg1:T65 Arg2:T63	
-R46	Support Arg1:T62 Arg2:T63	
-R47	Support Arg1:T61 Arg2:T63	
-R48	Support Arg1:T60 Arg2:T63	
-R49	Support Arg1:T66 Arg2:T68	
+R20	Support Arg1:T71 Arg2:T16
+R21	Attack Arg1:T25 Arg2:T23
+R22	Support Arg1:T26 Arg2:T25
+R23	Support Arg1:T27 Arg2:T26
+R24	Support Arg1:T28 Arg2:T27
+R25	Support Arg1:T28 Arg2:T29
+R26	Support Arg1:T30 Arg2:T32
+R27	Support Arg1:T35 Arg2:T36
+R28	Support Arg1:T37 Arg2:T36
+R29	Support Arg1:T34 Arg2:T35
+R30	Support Arg1:T38 Arg2:T36
+R31	Support Arg1:T39 Arg2:T36
+R32	Support Arg1:T36 Arg2:T40
+R33	Support Arg1:T41 Arg2:T40
+R34	Support Arg1:T42 Arg2:T41
+R35	Support Arg1:T40 Arg2:T43
+R36	Support Arg1:T45 Arg2:T46
+R37	Support Arg1:T50 Arg2:T49
+R38	Support Arg1:T51 Arg2:T49
+R39	Support Arg1:T52 Arg2:T49
+R40	Attack Arg1:T56 Arg2:T55
+R41	Support Arg1:T59 Arg2:T58
+R42	Support Arg1:T64 Arg2:T65
+R43	Support Arg1:T67 Arg2:T68
+R44	Support Arg1:T69 Arg2:T68
+R45	Support Arg1:T65 Arg2:T63
+R46	Support Arg1:T62 Arg2:T63
+R47	Support Arg1:T61 Arg2:T63
+R48	Support Arg1:T60 Arg2:T63
+R49	Support Arg1:T66 Arg2:T68

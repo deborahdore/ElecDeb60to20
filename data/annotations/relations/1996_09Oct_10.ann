@@ -50,20 +50,20 @@ T31	Premise 3819 4025	There's a family in the audience tonight, the McNeil famil
 T32	Premise 4027 4106	They're oldest son is a freshman at St Petersburg Junior High -- Junior College
 T33	Premise 4108 4314	Their younger son, Roderick, is a sophomore in the same high school that Don McNeil teaches at. Roderick is concerned that he may not be able to get the tuition he needs to go to college when the time comes
 T34	Claim 4316 4394	Our plan gives a $1500 tax credit to make that junior college essentially free
-R19	Support Arg1:T33 Arg2:T34	
-R20	Support Arg1:T32 Arg2:T34	
-R21	Support Arg1:T31 Arg2:T34	
-R22	Support Arg1:T34 Arg2:T30	
+R19	Support Arg1:T33 Arg2:T34
+R20	Support Arg1:T32 Arg2:T34
+R21	Support Arg1:T31 Arg2:T34
+R22	Support Arg1:T34 Arg2:T30
 T35	Claim 4400 4548	a $10,000 tax deduction to make it so that no American family, or almost no family, will have to pay taxes on the money they pay for college tuition
-R23	Support Arg1:T35 Arg2:T30	
+R23	Support Arg1:T35 Arg2:T30
 T36	Claim 4550 4638	This plan also gives tax breaks on the sale of a home, up to $500,000 in profit tax free
 T37	Claim 4640 4742	It gives the new break for first-time home buyers, and, again, all in the context of a balanced budget
 T38	Premise 4744 4792	We have seen progress during the last four years
 T39	Claim 4801 4838	policies like these have been working
-R24	Support Arg1:T37 Arg2:T36	
-R25	Support Arg1:T38 Arg2:T39	
+R24	Support Arg1:T37 Arg2:T36
+R25	Support Arg1:T38 Arg2:T39
 T40	Premise 4840 4941	This risky scheme that I've described tonight has been said by many objective observers to not add up
 T41	Claim 4943 4969	it would be a serious risk
-R26	Support Arg1:T40 Arg2:T41	
+R26	Support Arg1:T40 Arg2:T41
 T42	Claim 4971 5029	Our plan, by contrast, has been working and will work more
-R27	Equivalent Arg1:T39 Arg2:T42	
+R27	Equivalent Arg1:T39 Arg2:T42

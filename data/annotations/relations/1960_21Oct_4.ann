@@ -46,42 +46,42 @@ T252	Premise 5094 5125	we haven't had a moving economy
 T253	Premise 5178 5229	the Soviet Union made a breakthrough in outer space
 T254	Premise 5231 5379	Mr. George Allen, head of your Information Service, has said that that made the people of the world begin to wonder whether we were first in science
 T255	Premise 5381 5474	We're first in other areas of science but in space, which is the new science, we're not first
-R1	Support Arg1:T205 Arg2:T204	
-R2	Support Arg1:T207 Arg2:T206	
-R3	Support Arg1:T208 Arg2:T206	
-R4	Support Arg1:T213 Arg2:T212	
-R5	Attack Arg1:T212 Arg2:T211	
-R6	Support Arg1:T215 Arg2:T210	
-R8	Support Arg1:T217 Arg2:T216	
-R9	Attack Arg1:T218 Arg2:T216	
+R1	Support Arg1:T205 Arg2:T204
+R2	Support Arg1:T207 Arg2:T206
+R3	Support Arg1:T208 Arg2:T206
+R4	Support Arg1:T213 Arg2:T212
+R5	Attack Arg1:T212 Arg2:T211
+R6	Support Arg1:T215 Arg2:T210
+R8	Support Arg1:T217 Arg2:T216
+R9	Attack Arg1:T218 Arg2:T216
 T1	Claim 2089 2163	when he makes statements like this, what does this do to American prestige
-R10	Support Arg1:T1 Arg2:T209	
-R11	Support Arg1:T222 Arg2:T1	
-R12	Support Arg1:T225 Arg2:T223	
-R16	Support Arg1:T235 Arg2:T236	
-R17	Support Arg1:T240 Arg2:T239	
-R18	Support Arg1:T241 Arg2:T239	
-R19	Attack Arg1:T240 Arg2:T212	
+R10	Support Arg1:T1 Arg2:T209
+R11	Support Arg1:T222 Arg2:T1
+R12	Support Arg1:T225 Arg2:T223
+R16	Support Arg1:T235 Arg2:T236
+R17	Support Arg1:T240 Arg2:T239
+R18	Support Arg1:T241 Arg2:T239
+R19	Attack Arg1:T240 Arg2:T212
 T2	Claim 1900 1975	when he says as he did in January of this year that we have the worst slums
-R20	Support Arg1:T244 Arg2:T243	
-R21	Attack Arg1:T243 Arg2:T2	
-R22	Support Arg1:T245 Arg2:T243	
-R23	Support Arg1:T246 Arg2:T243	
-R24	Support Arg1:T243 Arg2:T238	
-R25	Support Arg1:T248 Arg2:T238	
+R20	Support Arg1:T244 Arg2:T243
+R21	Attack Arg1:T243 Arg2:T2
+R22	Support Arg1:T245 Arg2:T243
+R23	Support Arg1:T246 Arg2:T243
+R24	Support Arg1:T243 Arg2:T238
+R25	Support Arg1:T248 Arg2:T238
 T3	Claim 1621 1666	when he states that we're second in education
-R7	Attack Arg1:T210 Arg2:T3	
-R26	Attack Arg1:T248 Arg2:T3	
-R27	Support Arg1:T249 Arg2:T248	
-R28	Support Arg1:T250 Arg2:T247	
-R29	Support Arg1:T251 Arg2:T247	
-R30	Support Arg1:T252 Arg2:T247	
-R34	Support Arg1:T253 Arg2:T255	
+R7	Attack Arg1:T210 Arg2:T3
+R26	Attack Arg1:T248 Arg2:T3
+R27	Support Arg1:T249 Arg2:T248
+R28	Support Arg1:T250 Arg2:T247
+R29	Support Arg1:T251 Arg2:T247
+R30	Support Arg1:T252 Arg2:T247
+R34	Support Arg1:T253 Arg2:T255
 T4	Premise 2872 3075	Let's look at the reaction eh - reaction to Khrushchev and Eisenhower at the last U.N. session. Did Khrushchev gain because he took his shoe off and pounded the table and shouted and insulted? Not at all
-R13	Support Arg1:T4 Arg2:T232	
-R14	Support Arg1:T206 Arg2:T209	
-R15	Support Arg1:T224 Arg2:T225	
-R35	Support Arg1:T232 Arg2:T233	
-R36	Attack Arg1:T234 Arg2:T223	
-R31	Support Arg1:T254 Arg2:T255	
-R33	Support Arg1:T255 Arg2:T247	
+R13	Support Arg1:T4 Arg2:T232
+R14	Support Arg1:T206 Arg2:T209
+R15	Support Arg1:T224 Arg2:T225
+R35	Support Arg1:T232 Arg2:T233
+R36	Attack Arg1:T234 Arg2:T223
+R31	Support Arg1:T254 Arg2:T255
+R33	Support Arg1:T255 Arg2:T247

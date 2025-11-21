@@ -54,22 +54,22 @@ T2	Premise 882 1088	He has taken the position, when he first indicated in Octobe
 R51	Attack Arg1:T232 Arg2:T2
 R53	Attack Arg1:T239 Arg2:T241
 R55	Attack Arg1:T247 Arg2:T2
-R1	Support Arg1:T232 Arg2:T229	
+R1	Support Arg1:T232 Arg2:T229
 T3	Premise 1400 1644	I think the moment that you give to the union, on the one side, and to management, on the other side, the escape hatch of eventually going to government to get it settled, that most of these great strikes will end up being settled by government
 T4	Claim 1650 1709	that will be a - be in the end, in my opinion, wage control
 T5	Claim 1711 1738	it would mean price control
 T6	Claim 1741 1775	all the things that we do not want
-R3	Support Arg1:T3 Arg2:T4	
-R4	Support Arg1:T4 Arg2:T5	
-R5	Support Arg1:T5 Arg2:T6	
-R6	Support Arg1:T6 Arg2:T232	
+R3	Support Arg1:T3 Arg2:T4
+R4	Support Arg1:T4 Arg2:T5
+R5	Support Arg1:T5 Arg2:T6
+R6	Support Arg1:T6 Arg2:T232
 T7	Claim 1777 1924	I do believe, however, that we can give to the president of the United States powers, in addition to what he presently has in the fact finding area
-R8	Support Arg1:T7 Arg2:T176	
-R9	Support Arg1:T240 Arg2:T239	
+R8	Support Arg1:T7 Arg2:T176
+R9	Support Arg1:T240 Arg2:T239
 T8	Premise 2326 2530	Because in this critical year - period of the sixties we've got to move forward, all Americans must move forward together, and we have to get the greatest cooperation possible between labor and management
-R10	Support Arg1:T8 Arg2:T241	
-R11	Support Arg1:T245 Arg2:T241	
-R12	Attack Arg1:T252 Arg2:T253	
-R13	Attack Arg1:T261 Arg2:T262	
-R14	Support Arg1:T265 Arg2:T260	
-R15	Support Arg1:T268 Arg2:T266	
+R10	Support Arg1:T8 Arg2:T241
+R11	Support Arg1:T245 Arg2:T241
+R12	Attack Arg1:T252 Arg2:T253
+R13	Attack Arg1:T261 Arg2:T262
+R14	Support Arg1:T265 Arg2:T260
+R15	Support Arg1:T268 Arg2:T266

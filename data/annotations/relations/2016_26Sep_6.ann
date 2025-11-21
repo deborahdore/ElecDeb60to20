@@ -41,30 +41,31 @@ T1013	Premise 3122 3171	Hillary is hitting me with tremendous commercials
 T1014	Premise 3173 3207	Some of it's said in entertainment
 T1015	Premise 3869 3916	it's certainly not a nice thing that she's done
 T1016	Premise 3918 3950	It's hundreds of millions of ads
-R1	Support Arg1:T965 Arg2:T966	
-*	Equivalent T974 T965
-R2	Support Arg1:T973 Arg2:T966	
-R3	Support Arg1:T975 Arg2:T966	
-R4	Support Arg1:T984 Arg2:T980	
-*	Equivalent T977 T973
-R5	Support Arg1:T982 Arg2:T977	
-R6	Support Arg1:T981 Arg2:T977	
-R7	Attack Arg1:T978 Arg2:T973	
-*	Equivalent T988 T986 T994
-R8	Support Arg1:T987 Arg2:T989	
-*	Equivalent T989 T985
-R9	Support Arg1:T990 Arg2:T989	
-R10	Support Arg1:T991 Arg2:T987	
-*	Equivalent T997 T996
-R11	Support Arg1:T1005 Arg2:T1002	
-R12	Support Arg1:T1003 Arg2:T1002	
-R13	Support Arg1:T1007 Arg2:T1006	
-R14	Support Arg1:T1010 Arg2:T1009	
-R15	Support Arg1:T1011 Arg2:T1012	
-R16	Support Arg1:T1015 Arg2:T1012	
-R17	Support Arg1:T1016 Arg2:T1009	
+R1	Support Arg1:T965 Arg2:T966
+R2	Support Arg1:T973 Arg2:T966
+R3	Support Arg1:T975 Arg2:T966
+R4	Support Arg1:T984 Arg2:T980
+R5	Support Arg1:T982 Arg2:T977
+R6	Support Arg1:T981 Arg2:T977
+R7	Attack Arg1:T978 Arg2:T973
+R8	Support Arg1:T987 Arg2:T989
+R9	Support Arg1:T990 Arg2:T989
+R10	Support Arg1:T991 Arg2:T987
+R11	Support Arg1:T1005 Arg2:T1002
+R12	Support Arg1:T1003 Arg2:T1002
+R13	Support Arg1:T1007 Arg2:T1006
+R14	Support Arg1:T1010 Arg2:T1009
+R15	Support Arg1:T1011 Arg2:T1012
+R16	Support Arg1:T1015 Arg2:T1012
+R17	Support Arg1:T1016 Arg2:T1009
 T1	Claim 3952 4043	And the only gratifying thing is, I saw the polls come in today, and with all of that money
 T2	Premise 4102 4191	$200 million is spent, and I'm either winning or tied, and I've spent practically nothing
-R18	Support Arg1:T2 Arg2:T1	
-R19	Attack Arg1:T996 Arg2:T1000	
-R20	Support Arg1:T1006 Arg2:T1002	
+R18	Support Arg1:T2 Arg2:T1
+R19	Attack Arg1:T996 Arg2:T1000
+R20	Support Arg1:T1006 Arg2:T1002
+R21	Equivalent Arg1:T974 Arg2:T965
+R22	Equivalent Arg1:T977 Arg2:T973
+R23	Equivalent Arg1:T988 Arg2:T986
+R24	Equivalent Arg1:T988 Arg2:T994
+R25	Equivalent Arg1:T989 Arg2:T985
+R26	Equivalent Arg1:T997 Arg2:T996

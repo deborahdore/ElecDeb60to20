@@ -41,49 +41,49 @@ T607	Premise 3458 3504	an economic recovery that has become expansion
 T608	Premise 3506 3513	freedom
 T609	Premise 3532 3547	we are at peace
 T610	Premise 6176 6271	I want more than anything else to try to complete the new beginning that we charted 4 years ago
-R1	Support Arg1:T452 Arg2:T602	
-R2	Support Arg1:T456 Arg2:T457	
-R3	Support Arg1:T456 Arg2:T603	
-R4	Support Arg1:T603 Arg2:T457	
-R5	Support Arg1:T458 Arg2:T603	
-R6	Support Arg1:T460 Arg2:T459	
-R7	Support Arg1:T461 Arg2:T459	
-R8	Support Arg1:T604 Arg2:T464	
-R9	Support Arg1:T467 Arg2:T465	
-R10	Support Arg1:T462 Arg2:T459	
+R1	Support Arg1:T452 Arg2:T602
+R2	Support Arg1:T456 Arg2:T457
+R3	Support Arg1:T456 Arg2:T603
+R4	Support Arg1:T603 Arg2:T457
+R5	Support Arg1:T458 Arg2:T603
+R6	Support Arg1:T460 Arg2:T459
+R7	Support Arg1:T461 Arg2:T459
+R8	Support Arg1:T604 Arg2:T464
+R9	Support Arg1:T467 Arg2:T465
+R10	Support Arg1:T462 Arg2:T459
 T1	Premise 1125 1151	which is suffering so much
-R11	Support Arg1:T1 Arg2:T462	
-R12	Support Arg1:T463 Arg2:T460	
-R13	Support Arg1:T466 Arg2:T465	
-R14	Support Arg1:T467 Arg2:T466	
-R15	Support Arg1:T470 Arg2:T471	
-R16	Support Arg1:T472 Arg2:T471	
-R17	Support Arg1:T474 Arg2:T473	
-R18	Support Arg1:T474 Arg2:T475	
-R19	Support Arg1:T606 Arg2:T477	
-R20	Support Arg1:T477 Arg2:T473	
-R21	Support Arg1:T477 Arg2:T476	
-R22	Support Arg1:T477 Arg2:T478	
-R23	Support Arg1:T480 Arg2:T479	
-R24	Support Arg1:T607 Arg2:T481	
-R25	Support Arg1:T608 Arg2:T481	
-R26	Support Arg1:T609 Arg2:T481	
-R27	Support Arg1:T483 Arg2:T482	
-R28	Support Arg1:T610 Arg2:T484	
-R29	Support Arg1:T487 Arg2:T486	
-R30	Support Arg1:T488 Arg2:T487	
+R11	Support Arg1:T1 Arg2:T462
+R12	Support Arg1:T463 Arg2:T460
+R13	Support Arg1:T466 Arg2:T465
+R14	Support Arg1:T467 Arg2:T466
+R15	Support Arg1:T470 Arg2:T471
+R16	Support Arg1:T472 Arg2:T471
+R17	Support Arg1:T474 Arg2:T473
+R18	Support Arg1:T474 Arg2:T475
+R19	Support Arg1:T606 Arg2:T477
+R20	Support Arg1:T477 Arg2:T473
+R21	Support Arg1:T477 Arg2:T476
+R22	Support Arg1:T477 Arg2:T478
+R23	Support Arg1:T480 Arg2:T479
+R24	Support Arg1:T607 Arg2:T481
+R25	Support Arg1:T608 Arg2:T481
+R26	Support Arg1:T609 Arg2:T481
+R27	Support Arg1:T483 Arg2:T482
+R28	Support Arg1:T610 Arg2:T484
+R29	Support Arg1:T487 Arg2:T486
+R30	Support Arg1:T488 Arg2:T487
 T2	Claim 4896 4940	I realized what a job I had with that letter
 T3	Claim 4943 5026	I would be writing a letter to people who know everything there is to know about us
 T4	Premise 5028 5054	We know nothing about them
 T5	Premise 5056 5094	They would know all about our problems
 T6	Premise 5096 5226	They would know how we solved them, and whether our solution was beneficial to them down through the years or whether it hurt them
 T7	Premise 5228 5459	They would also know that we lived in a world with terrible weapons, nuclear weapons of terrible destructive power, aimed at each other, capable of crossing the ocean in a matter of minutes and destroying civilization as we knew it
-R31	Support Arg1:T3 Arg2:T2	
-R32	Support Arg1:T4 Arg2:T3	
-R33	Support Arg1:T5 Arg2:T3	
-R34	Support Arg1:T6 Arg2:T5	
-R35	Support Arg1:T7 Arg2:T5	
+R31	Support Arg1:T3 Arg2:T2
+R32	Support Arg1:T4 Arg2:T3
+R33	Support Arg1:T5 Arg2:T3
+R34	Support Arg1:T6 Arg2:T5
+R35	Support Arg1:T7 Arg2:T5
 T8	Claim 5491 5583	what are they going to say about us, what are those people 100 years from now going to think
 T9	Premise 5585 5636	They will know whether we used those weapons or not
-R36	Support Arg1:T5 Arg2:T9	
+R36	Support Arg1:T5 Arg2:T9
 T10	Claim 5645 5742	what they will say about us 100 years from now depends on how we keep our rendezvous with destiny

@@ -25,22 +25,22 @@ T601	Claim 2865 2882	that won't happen
 T602	Premise 2884 2946	Taking care of our economy, just putting it on automatic pilot
 T603	Claim 2757 2801	our children are going to live in the future
 T604	Claim -1 110; -1 110	George Bush has the experience, and with me a future committed to our family, a future committed to the freedom
-R1	Support Arg1:T579 Arg2:T578	
+R1	Support Arg1:T579 Arg2:T578
 T1	Premise 1000 1024	Cuts in national defense
-R2	Support Arg1:T1 Arg2:T578	
+R2	Support Arg1:T1 Arg2:T578
 T2	Premise 1026 1133	Back to the old economics of high interest rates, high inflation, and the old politics of high unemployment
-R3	Support Arg1:T2 Arg2:T578	
-R4	Support Arg1:T581 Arg2:T580	
-R5	Attack Arg1:T588 Arg2:T587	
+R3	Support Arg1:T2 Arg2:T578
+R4	Support Arg1:T581 Arg2:T580
+R5	Attack Arg1:T588 Arg2:T587
 T3	Premise 1680 1804	George Bush has the experience, and with me, the future, a future committed to our family, a future committed to the freedom
-R6	Support Arg1:T3 Arg2:T580	
-R7	Support Arg1:T582 Arg2:T580	
-R8	Support Arg1:T583 Arg2:T582	
-R9	Support Arg1:T584 Arg2:T582	
-R10	Support Arg1:T585 Arg2:T584	
-R11	Support Arg1:T587 Arg2:T586	
-R12	Support Arg1:T590 Arg2:T589	
+R6	Support Arg1:T3 Arg2:T580
+R7	Support Arg1:T582 Arg2:T580
+R8	Support Arg1:T583 Arg2:T582
+R9	Support Arg1:T584 Arg2:T582
+R10	Support Arg1:T585 Arg2:T584
+R11	Support Arg1:T587 Arg2:T586
+R12	Support Arg1:T590 Arg2:T589
 T4	Claim 2126 2247	Mike Dukakis and Lloyd Bentsen offer you experience, tempered, capable leadership, to meet those challenges of the future
-R13	Attack Arg1:T4 Arg2:T586	
+R13	Attack Arg1:T4 Arg2:T586
 T5	Claim 2249 2308	Our opposition says lower your sights, rest on your laurels
-R14	Attack Arg1:T5 Arg2:T580	
+R14	Attack Arg1:T5 Arg2:T580

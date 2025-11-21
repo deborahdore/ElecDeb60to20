@@ -36,47 +36,47 @@ T197	Premise 5262 5426	They've made $600 billion since 2001, and John McCain wan
 T313	Claim 26 28	No
 T1	Claim 685 788	of John McCain, the existing one for people making over $250,000, which is $130 billion this year alone
 T2	Claim 971 1133	And what we're not going to also hold up on, Gwen, is we cannot afford to hold up on providing for incentives for new jobs by an energy policy, creating new jobs.
-R1	Support Arg1:T169 Arg2:T165	
+R1	Support Arg1:T169 Arg2:T165
 T3	Premise 1848 1871	I call that unpatriotic
 T4	Premise 1873 1896	I call that unpatriotic
-*	Equivalent T4 T3
-R2	Support Arg1:T163 Arg2:T162	
-R3	Support Arg1:T164 Arg2:T1	
-R4	Attack Arg1:T3 Arg2:T172	
-R5	Support Arg1:T172 Arg2:T171	
-R6	Support Arg1:T170 Arg2:T171	
-R7	Support Arg1:T165 Arg2:T171	
-R8	Support Arg1:T2 Arg2:T171	
-R9	Support Arg1:T167 Arg2:T171	
-R10	Support Arg1:T166 Arg2:T171	
-R11	Support Arg1:T1 Arg2:T171	
-R12	Support Arg1:T162 Arg2:T171	
-R13	Support Arg1:T175 Arg2:T174	
-R14	Support Arg1:T177 Arg2:T176	
-R15	Support Arg1:T176 Arg2:T175	
+R2	Support Arg1:T163 Arg2:T162
+R3	Support Arg1:T164 Arg2:T1
+R4	Attack Arg1:T3 Arg2:T172
+R5	Support Arg1:T172 Arg2:T171
+R6	Support Arg1:T170 Arg2:T171
+R7	Support Arg1:T165 Arg2:T171
+R8	Support Arg1:T2 Arg2:T171
+R9	Support Arg1:T167 Arg2:T171
+R10	Support Arg1:T166 Arg2:T171
+R11	Support Arg1:T1 Arg2:T171
+R12	Support Arg1:T162 Arg2:T171
+R13	Support Arg1:T175 Arg2:T174
+R14	Support Arg1:T177 Arg2:T176
+R15	Support Arg1:T176 Arg2:T175
 T5	Premise 2547 2596	You know what I had to do in the state of Alaska?
 T6	Claim 2597 2800	I had to take on those oil companies and tell them, "No," you know, any of the greed there that has been kind of instrumental, I guess, in their mode of operation, that wasn't going to happen in my state
-R16	Support Arg1:T5 Arg2:T6	
+R16	Support Arg1:T5 Arg2:T6
 T7	Premise 2802 3205	And that's why Tillerson at Exxon and Mulva at ConocoPhillips, bless their hearts, they're doing what they need to do, as corporate CEOs, but they're not my biggest fans, because what I had to do up there in Alaska was to break up a monopoly up there and say, you know, the people are going to come first and we're going to make sure that we have value given to the people of Alaska with those resources
-R17	Support Arg1:T7 Arg2:T6	
+R17	Support Arg1:T7 Arg2:T6
 T8	Premise 3294 3428	not when it adversely affects the people who live in a state and, in this case, in a country who should be benefiting at the same time
-R18	Support Arg1:T6 Arg2:T178	
-R19	Attack Arg1:T178 Arg2:T8	
+R18	Support Arg1:T6 Arg2:T178
+R19	Attack Arg1:T178 Arg2:T8
 T9	Claim 3532 3671	that I then had to turn around, as a governor of an energy-producing state, and kind of undo in my own area of expertise, and that's energy
-R21	Attack Arg1:T9 Arg2:T179	
-R22	Support Arg1:T7 Arg2:T178	
-R20	Support Arg1:T184 Arg2:T185	
-R23	Support Arg1:T185 Arg2:T186	
-R24	Support Arg1:T186 Arg2:T187	
-R25	Support Arg1:T182 Arg2:T187	
-R26	Attack Arg1:T187 Arg2:T181	
-R27	Support Arg1:T189 Arg2:T188	
-R30	Support Arg1:T192 Arg2:T193	
-R31	Support Arg1:T193 Arg2:T194	
-R32	Support Arg1:T194 Arg2:T195	
-R33	Attack Arg1:T195 Arg2:T196	
-R28	Attack Arg1:T191 Arg2:T190	
-R29	Support Arg1:T188 Arg2:T183	
-R34	Support Arg1:T196 Arg2:T197	
+R21	Attack Arg1:T9 Arg2:T179
+R22	Support Arg1:T7 Arg2:T178
+R20	Support Arg1:T184 Arg2:T185
+R23	Support Arg1:T185 Arg2:T186
+R24	Support Arg1:T186 Arg2:T187
+R25	Support Arg1:T182 Arg2:T187
+R26	Attack Arg1:T187 Arg2:T181
+R27	Support Arg1:T189 Arg2:T188
+R30	Support Arg1:T192 Arg2:T193
+R31	Support Arg1:T193 Arg2:T194
+R32	Support Arg1:T194 Arg2:T195
+R33	Attack Arg1:T195 Arg2:T196
+R28	Attack Arg1:T191 Arg2:T190
+R29	Support Arg1:T188 Arg2:T183
+R34	Support Arg1:T196 Arg2:T197
 T10	Claim 5428 5489	If that is not proof of what I say, I'm not sure what can be.
-R35	Support Arg1:T197 Arg2:T10	
+R35	Support Arg1:T197 Arg2:T10
+R36	Equivalent Arg1:T4 Arg2:T3

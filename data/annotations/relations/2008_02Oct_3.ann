@@ -49,52 +49,52 @@ T158	Premise 5534 5575	20 million of you are going to be dropped
 T159	Premise 5577 5614	Twenty million of you will be dropped
 T160	Claim 5619 5733	you're going to have to place -- replace a $12,000 plan with a $5,000 check you just give to the insurance company
 T161	Claim 5735 5778	I call that the "Ultimate Bridge to Nowhere
-R1	Support Arg1:T106 Arg2:T107	
-R2	Attack Arg1:T107 Arg2:T108	
+R1	Support Arg1:T106 Arg2:T107
+R2	Attack Arg1:T107 Arg2:T108
 T1	Claim 864 1048	No one making less than $250,000 under Barack Obama's plan will see one single penny of their tax raised whether it's their capital gains tax, their income tax, investment tax, any tax
-R3	Support Arg1:T1 Arg2:T111	
-R4	Support Arg1:T111 Arg2:T110	
-R5	Support Arg1:T112 Arg2:T113	
-R6	Support Arg1:T113 Arg2:T114	
-R7	Support Arg1:T114 Arg2:T115	
-R8	Support Arg1:T115 Arg2:T116	
-R9	Attack Arg1:T116 Arg2:T117	
-R10	Support Arg1:T118 Arg2:T119	
-R11	Support Arg1:T119 Arg2:T120	
-R12	Support Arg1:T120 Arg2:T121	
-R13	Attack Arg1:T121 Arg2:T122	
-R14	Support Arg1:T123 Arg2:T122	
-R15	Support Arg1:T124 Arg2:T125	
-R16	Support Arg1:T125 Arg2:T126	
-R17	Attack Arg1:T128 Arg2:T127	
+R3	Support Arg1:T1 Arg2:T111
+R4	Support Arg1:T111 Arg2:T110
+R5	Support Arg1:T112 Arg2:T113
+R6	Support Arg1:T113 Arg2:T114
+R7	Support Arg1:T114 Arg2:T115
+R8	Support Arg1:T115 Arg2:T116
+R9	Attack Arg1:T116 Arg2:T117
+R10	Support Arg1:T118 Arg2:T119
+R11	Support Arg1:T119 Arg2:T120
+R12	Support Arg1:T120 Arg2:T121
+R13	Attack Arg1:T121 Arg2:T122
+R14	Support Arg1:T123 Arg2:T122
+R15	Support Arg1:T124 Arg2:T125
+R16	Support Arg1:T125 Arg2:T126
+R17	Attack Arg1:T128 Arg2:T127
 T2	Claim 2764 2948	An increased tax formula that Barack Obama is proposing in addition to nearly a trillion dollars in new spending that he's proposing is the backwards way of trying to grow our economy.
-R18	Support Arg1:T129 Arg2:T130	
-R19	Support Arg1:T130 Arg2:T131	
-R20	Support Arg1:T131 Arg2:T132	
-R21	Attack Arg1:T132 Arg2:T2	
-R22	Support Arg1:T135 Arg2:T136	
-R23	Support Arg1:T136 Arg2:T137	
-R24	Support Arg1:T138 Arg2:T137	
+R18	Support Arg1:T129 Arg2:T130
+R19	Support Arg1:T130 Arg2:T131
+R20	Support Arg1:T131 Arg2:T132
+R21	Attack Arg1:T132 Arg2:T2
+R22	Support Arg1:T135 Arg2:T136
+R23	Support Arg1:T136 Arg2:T137
+R24	Support Arg1:T138 Arg2:T137
 T3	Premise 3340 3381	That doesn't cost the government anything
 T4	Claim 3382 3707	as opposed to Barack Obama's plan to mandate health care coverage and have this universal government run program and unless you're pleased with the way the federal government has been running anything lately, I don't think that it's going to be real pleasing for Americans to consider health care being taken over by the feds
-R25	Support Arg1:T3 Arg2:T138	
-R26	Attack Arg1:T137 Arg2:T4	
-R27	Support Arg1:T139 Arg2:T140	
-R28	Attack Arg1:T140 Arg2:T4	
-R29	Support Arg1:T142 Arg2:T141	
-R30	Support Arg1:T143 Arg2:T141	
-R31	Support Arg1:T141 Arg2:T144	
+R25	Support Arg1:T3 Arg2:T138
+R26	Attack Arg1:T137 Arg2:T4
+R27	Support Arg1:T139 Arg2:T140
+R28	Attack Arg1:T140 Arg2:T4
+R29	Support Arg1:T142 Arg2:T141
+R30	Support Arg1:T143 Arg2:T141
+R31	Support Arg1:T141 Arg2:T144
 T5	Premise 4203 4497	We don't call a redistribution in my neighborhood Scranton, Claymont, Wilmington, the places I grew up, to give the fair to say that not giving Exxon Mobil another $4 billion tax cut this year as John calls for and giving it to middle class people to be able to pay to get their kids to college
-R32	Support Arg1:T5 Arg2:T146	
-R33	Support Arg1:T146 Arg2:T147	
-R34	Support Arg1:T148 Arg2:T149	
-R35	Support Arg1:T150 Arg2:T151	
-R36	Support Arg1:T152 Arg2:T153	
-R37	Attack Arg1:T153 Arg2:T151	
-R38	Support Arg1:T158 Arg2:T157	
-R39	Support Arg1:T159 Arg2:T158	
-R40	Support Arg1:T154 Arg2:T153	
-R41	Support Arg1:T155 Arg2:T157	
-R42	Support Arg1:T160 Arg2:T157	
-R43	Support Arg1:T157 Arg2:T161	
-R44	Attack Arg1:T161 Arg2:T153	
+R32	Support Arg1:T5 Arg2:T146
+R33	Support Arg1:T146 Arg2:T147
+R34	Support Arg1:T148 Arg2:T149
+R35	Support Arg1:T150 Arg2:T151
+R36	Support Arg1:T152 Arg2:T153
+R37	Attack Arg1:T153 Arg2:T151
+R38	Support Arg1:T158 Arg2:T157
+R39	Support Arg1:T159 Arg2:T158
+R40	Support Arg1:T154 Arg2:T153
+R41	Support Arg1:T155 Arg2:T157
+R42	Support Arg1:T160 Arg2:T157
+R43	Support Arg1:T157 Arg2:T161
+R44	Attack Arg1:T161 Arg2:T153

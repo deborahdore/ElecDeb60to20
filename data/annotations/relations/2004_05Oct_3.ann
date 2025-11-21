@@ -32,46 +32,46 @@ T399	Premise 4614 4663	He voted against a holiday for Martin Luther King
 T400	Premise 4665 4752	He voted against a resolution calling for the release of Nelson Mandela in South Africa
 T401	Claim 4862 4898	I think his record speaks for itself
 T402	Claim 4913 4940	it's not very distinguished
-R1	Equivalent Arg1:T375 Arg2:T374	
-R2	Support Arg1:T372 Arg2:T378	
-R3	Support Arg1:T379 Arg2:T378	
-R4	Support Arg1:T380 Arg2:T376	
-R5	Support Arg1:T370 Arg2:T369	
-R6	Support Arg1:T383 Arg2:T382	
-R7	Support Arg1:T385 Arg2:T384	
-R8	Support Arg1:T386 Arg2:T384	
-R9	Support Arg1:T387 Arg2:T381	
-R10	Support Arg1:T390 Arg2:T389	
-R11	Support Arg1:T391 Arg2:T390	
-R12	Support Arg1:T388 Arg2:T389	
-R13	Support Arg1:T394 Arg2:T395	
-R14	Support Arg1:T402 Arg2:T401	
+R1	Equivalent Arg1:T375 Arg2:T374
+R2	Support Arg1:T372 Arg2:T378
+R3	Support Arg1:T379 Arg2:T378
+R4	Support Arg1:T380 Arg2:T376
+R5	Support Arg1:T370 Arg2:T369
+R6	Support Arg1:T383 Arg2:T382
+R7	Support Arg1:T385 Arg2:T384
+R8	Support Arg1:T386 Arg2:T384
+R9	Support Arg1:T387 Arg2:T381
+R10	Support Arg1:T390 Arg2:T389
+R11	Support Arg1:T391 Arg2:T390
+R12	Support Arg1:T388 Arg2:T389
+R13	Support Arg1:T394 Arg2:T395
+R14	Support Arg1:T402 Arg2:T401
 T1	Claim 4268 4312	I'm surprised to hear him talk about records
-R15	Support Arg1:T395 Arg2:T1	
-R16	Support Arg1:T396 Arg2:T1	
-R17	Attack Arg1:T393 Arg2:T384	
-*	Equivalent T402 T384
-R18	Support Arg1:T397 Arg2:T1	
-R19	Support Arg1:T398 Arg2:T1	
-R20	Support Arg1:T399 Arg2:T1	
-R21	Support Arg1:T400 Arg2:T1	
+R15	Support Arg1:T395 Arg2:T1
+R16	Support Arg1:T396 Arg2:T1
+R17	Attack Arg1:T393 Arg2:T384
+R18	Support Arg1:T397 Arg2:T1
+R19	Support Arg1:T398 Arg2:T1
+R20	Support Arg1:T399 Arg2:T1
+R21	Support Arg1:T400 Arg2:T1
 T2	Question 136 555	Today, a senior member of Islamic Jihad was killed in Gaza. There have been suicide bombings, targeted assassinations, mortar attacks, all of this continuing at a time when the United States seems absent in the peace-making process.  What would your administration do?  First of all, do you agree that the United States is absent? Maybe you don't.  But what would your administration do to try to resolve that conflict?
 T3	Premise 1030 1552	I was in Jerusalem a couple of years ago, actually three years ago, in August of 2001, staying at the King David Hotel.  We left in the morning, headed to the airport to leave, and later in the day I found out that that same day, not far from where we were staying, the Sbarro Pizzeria was hit by a suicide bomber in Jerusalem. Fifteen people were killed. Six children were killed.  What are the Israeli people supposed to do? How can they continue to watch Israeli children killed by suicide bombers, killed by terrorists
-R22	Support Arg1:T3 Arg2:T375	
+R22	Support Arg1:T3 Arg2:T375
 T4	Claim 1555 1623	They have not only the right but the obligation to defend themselves
-R23	Equivalent Arg1:T4 Arg2:T375	
-R24	Equivalent Arg1:T377 Arg2:T4	
-R25	Support Arg1:T376 Arg2:T4	
-R26	Support Arg1:T384 Arg2:T383	
+R23	Equivalent Arg1:T4 Arg2:T375
+R24	Equivalent Arg1:T377 Arg2:T4
+R25	Support Arg1:T376 Arg2:T4
+R26	Support Arg1:T384 Arg2:T383
 T5	Premise 2922 2986	Your hometown newspaper has taken to calling you "Senator Gone."
-R27	Support Arg1:T5 Arg2:T385	
+R27	Support Arg1:T5 Arg2:T385
 T6	Premise 2987 3061	You've got one of the worst attendance records in the United States Senate
-R28	Support Arg1:T6 Arg2:T385	
+R28	Support Arg1:T6 Arg2:T385
 T7	Premise 3064 3287	Now, in my capacity as vice president, I am the president of Senate, the presiding officer. I'm up in the Senate most Tuesdays when they're in session.  The first time I ever met you was when you walked on the stage tonight
-R29	Support Arg1:T7 Arg2:T385	
-R30	Support Arg1:T392 Arg2:T381	
-R31	Support Arg1:T1 Arg2:T393	
+R29	Support Arg1:T7 Arg2:T385
+R30	Support Arg1:T392 Arg2:T381
+R31	Support Arg1:T1 Arg2:T393
 T8	Claim 4754 4822	 It's amazing to hear him criticize either my record or John Kerry's
-R32	Equivalent Arg1:T8 Arg2:T1	
-R33	Attack Arg1:T1 Arg2:T384	
-R34	Attack Arg1:T401 Arg2:T8	
+R32	Equivalent Arg1:T8 Arg2:T1
+R33	Attack Arg1:T1 Arg2:T384
+R34	Attack Arg1:T401 Arg2:T8
+R35	Equivalent Arg1:T402 Arg2:T384

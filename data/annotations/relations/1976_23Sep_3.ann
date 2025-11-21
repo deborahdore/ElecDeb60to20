@@ -45,41 +45,41 @@ T126	Premise 5996 6149	We expected one at the time of the Vietnam War, but it wa
 T127	Premise 5197 5341	since 1969, during a Republican administrations, we have had ten million people taken off of the tax rolls at the lower end of the taxpayer area
 T128	Premise 5347 5522	at the same time, assuming that I sign the tax bill that was mentioned by Mr. Gannon, we will in the last two tax bills have increased the minimum tax on all wealthy taxpayers
 T1	Premise 4273 4294	I'm elected president
-R1	Attack Arg1:T87 Arg2:T82	
-R2	Support Arg1:T88 Arg2:T90	
-R3	Support Arg1:T89 Arg2:T90	
-R5	Support Arg1:T91 Arg2:T87	
-R4	Support Arg1:T90 Arg2:T91	
-R6	Support Arg1:T95 Arg2:T94	
-R8	Support Arg1:T93 Arg2:T97	
-R10	Support Arg1:T107 Arg2:T105	
+R1	Attack Arg1:T87 Arg2:T82
+R2	Support Arg1:T88 Arg2:T90
+R3	Support Arg1:T89 Arg2:T90
+R5	Support Arg1:T91 Arg2:T87
+R4	Support Arg1:T90 Arg2:T91
+R6	Support Arg1:T95 Arg2:T94
+R8	Support Arg1:T93 Arg2:T97
+R10	Support Arg1:T107 Arg2:T105
 T2	Claim 2808 2920	the uh - the assumption that - that you uh - have described as different is in the rate of growth of our economy
 T3	Claim 2929 2977	No, they took that into account in those figures
-R11	Attack Arg1:T3 Arg2:T2	
-R12	Support Arg1:T99 Arg2:T98	
-R13	Attack Arg1:T100 Arg2:T90	
-R14	Support Arg1:T110 Arg2:T111	
-R15	Support Arg1:T110 Arg2:T108	
-R16	Support Arg1:T103 Arg2:T102	
-R17	Support Arg1:T114 Arg2:T93	
-R18	Support Arg1:T117 Arg2:T115	
-R19	Support Arg1:T115 Arg2:T118	
+R11	Attack Arg1:T3 Arg2:T2
+R12	Support Arg1:T99 Arg2:T98
+R13	Attack Arg1:T100 Arg2:T90
+R14	Support Arg1:T110 Arg2:T111
+R15	Support Arg1:T110 Arg2:T108
+R16	Support Arg1:T103 Arg2:T102
+R17	Support Arg1:T114 Arg2:T93
+R18	Support Arg1:T117 Arg2:T115
+R19	Support Arg1:T115 Arg2:T118
 T4	Premise 5082 5153	It seems to me that our tax structure today has rates that are too high
-R20	Support Arg1:T4 Arg2:T115	
-R21	Support Arg1:T121 Arg2:T119	
-R22	Support Arg1:T120 Arg2:T119	
-R23	Support Arg1:T123 Arg2:T122	
-R24	Support Arg1:T124 Arg2:T125	
-R25	Support Arg1:T125 Arg2:T122	
-R26	Support Arg1:T126 Arg2:T124	
-R27	Attack Arg1:T122 Arg2:T110	
-R7	Support Arg1:T96 Arg2:T97	
-R9	Support Arg1:T102 Arg2:T104	
-R28	Support Arg1:T105 Arg2:T104	
-R29	Support Arg1:T106 Arg2:T105	
-R30	Support Arg1:T1 Arg2:T108	
-R31	Support Arg1:T108 Arg2:T113	
-R32	Support Arg1:T105 Arg2:T108	
-R33	Support Arg1:T104 Arg2:T108	
-R34	Support Arg1:T127 Arg2:T119	
-R35	Support Arg1:T128 Arg2:T119	
+R20	Support Arg1:T4 Arg2:T115
+R21	Support Arg1:T121 Arg2:T119
+R22	Support Arg1:T120 Arg2:T119
+R23	Support Arg1:T123 Arg2:T122
+R24	Support Arg1:T124 Arg2:T125
+R25	Support Arg1:T125 Arg2:T122
+R26	Support Arg1:T126 Arg2:T124
+R27	Attack Arg1:T122 Arg2:T110
+R7	Support Arg1:T96 Arg2:T97
+R9	Support Arg1:T102 Arg2:T104
+R28	Support Arg1:T105 Arg2:T104
+R29	Support Arg1:T106 Arg2:T105
+R30	Support Arg1:T1 Arg2:T108
+R31	Support Arg1:T108 Arg2:T113
+R32	Support Arg1:T105 Arg2:T108
+R33	Support Arg1:T104 Arg2:T108
+R34	Support Arg1:T127 Arg2:T119
+R35	Support Arg1:T128 Arg2:T119

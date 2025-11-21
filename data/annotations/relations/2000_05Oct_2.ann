@@ -33,71 +33,71 @@ T113	Claim 3204 3254	It in effect lays out some 29 separate tax credits
 T1	Question 43 235	Gentlemen, this is the 21st Century. Yet on average an American working woman in our great nation earns 75 cents for each $1 earned by a working male. What do you males propose to do about it?
 R1	Support Arg1:T87 Arg2:T86
 R2	Support Arg1:T83 Arg2:T84
-R3	Support Arg1:T85 Arg2:T84	
-R4	Support Arg1:T81 Arg2:T84	
-R5	Support Arg1:T80 Arg2:T84	
+R3	Support Arg1:T85 Arg2:T84
+R4	Support Arg1:T81 Arg2:T84
+R5	Support Arg1:T80 Arg2:T84
 T2	Claim 1008 1259	Secondly, we're going to do everything we can using governmental support of business agencies such as the Small Business Administration to help women business owners have an opportunity to invest and begin businesses and make larger incomes themselves
-R6	Support Arg1:T2 Arg2:T84	
-R7	Equivalent Arg1:T85 Arg2:T89	
-R8	Support Arg1:T91 Arg2:T89	
-R9	Support Arg1:T92 Arg2:T90	
-R11	Support Arg1:T94 Arg2:T96	
-R10	Support Arg1:T95 Arg2:T93	
-R12	Support Arg1:T96 Arg2:T93	
-R13	Support Arg1:T90 Arg2:T93	
-R14	Support Arg1:T98 Arg2:T86	
-R15	Attack Arg1:T99 Arg2:T98	
-R16	Support Arg1:T97 Arg2:T99	
-R17	Support Arg1:T106 Arg2:T99	
+R6	Support Arg1:T2 Arg2:T84
+R7	Equivalent Arg1:T85 Arg2:T89
+R8	Support Arg1:T91 Arg2:T89
+R9	Support Arg1:T92 Arg2:T90
+R11	Support Arg1:T94 Arg2:T96
+R10	Support Arg1:T95 Arg2:T93
+R12	Support Arg1:T96 Arg2:T93
+R13	Support Arg1:T90 Arg2:T93
+R14	Support Arg1:T98 Arg2:T86
+R15	Attack Arg1:T99 Arg2:T98
+R16	Support Arg1:T97 Arg2:T99
+R17	Support Arg1:T106 Arg2:T99
 T3	Premise 2421 2540	You, in effect, as a stay-at-home mom get no tax advantage under the Gore tax plan as contrasted with the Bush proposal
-R18	Support Arg1:T3 Arg2:T107	
-R19	Support Arg1:T3 Arg2:T108	
-R20	Support Arg1:T101 Arg2:T102	
-R21	Support Arg1:T102 Arg2:T108	
-R22	Support Arg1:T103 Arg2:T102	
-R23	Support Arg1:T105 Arg2:T102	
-R24	Equivalent Arg1:T102 Arg2:T104	
-R25	Support Arg1:T113 Arg2:T100	
-R26	Support Arg1:T110 Arg2:T100	
-R27	Support Arg1:T111 Arg2:T100	
-R28	Support Arg1:T108 Arg2:T112	
+R18	Support Arg1:T3 Arg2:T107
+R19	Support Arg1:T3 Arg2:T108
+R20	Support Arg1:T101 Arg2:T102
+R21	Support Arg1:T102 Arg2:T108
+R22	Support Arg1:T103 Arg2:T102
+R23	Support Arg1:T105 Arg2:T102
+R24	Equivalent Arg1:T102 Arg2:T104
+R25	Support Arg1:T113 Arg2:T100
+R26	Support Arg1:T110 Arg2:T100
+R27	Support Arg1:T111 Arg2:T100
+R28	Support Arg1:T108 Arg2:T112
 T4	Premise 4001 4249	The first thing is the tax relief program that we've proposed, one of the many tax credits for the middle class includes a $500 tax credit for stay-at-home moms just as a way of saying we understand that you are performing a service for our society
-R29	Attack Arg1:T4 Arg2:T107	
+R29	Attack Arg1:T4 Arg2:T107
 T5	Claim 4251 4286	We want you to have that tax credit
-R30	Support Arg1:T4 Arg2:T5	
+R30	Support Arg1:T4 Arg2:T5
 T6	Claim 4296 4391	the number of 50 million Americans not benefitting from our tax cut program is absolutely wrong
-R31	Attack Arg1:T6 Arg2:T111	
+R31	Attack Arg1:T6 Arg2:T111
 T7	Premise 4393 4482	It's an estimate done on an earlier form of our tax cut program and it's just plain wrong
-R32	Support Arg1:T7 Arg2:T6	
+R32	Support Arg1:T7 Arg2:T6
 T8	Premise 4507 4596	Governor Bush says that his tax cut program, large as it is, gives a tax cut to everybody
 T9	Premise 4598 4810	as the newspapers indicated earlier this week, the Joint Committee on Taxation, again a nonpartisan group in Congress, says that 27 million Americans don't get what the governor said they would in the tax program
-R33	Attack Arg1:T9 Arg2:T8	
-R34	Attack Arg1:T9 Arg2:T108	
+R33	Attack Arg1:T9 Arg2:T8
+R34	Attack Arg1:T9 Arg2:T108
 T10	Claim 4812 4855	Al Gore and I want to live within our means
 T11	Claim 4857 4979	We are not going to give it all away in one big tax cut and certainly not to the 1% of the public that doesn't need it now
 T12	Claim 4981 5066	We're focusing our tax cut on the middle class in the areas they tell us they need it
-R35	Support Arg1:T12 Arg2:T11	
+R35	Support Arg1:T12 Arg2:T11
 T13	Premise 5068 5213	Tax credits for better and more expensive child care, tax credits for middle class families that don't have health insurance from their employers
-R36	Support Arg1:T13 Arg2:T12	
+R36	Support Arg1:T13 Arg2:T12
 T14	Premise 5215 5465	The tax deduction I talked about earlier. Very exciting deduction for up to $10,000 a year in the cost of a college tuition. A $3,000 tax credit for the cost -- well, actually for a family member who stays home with a parent or grandparent who is ill
-R37	Support Arg1:T14 Arg2:T12	
+R37	Support Arg1:T14 Arg2:T12
 T15	Premise 5471 5756	a very exciting tax credit program that I hope I'll have a chance to talk about later, Bernie, that encourages savings by people early in life and any time in life by having the federal government match savings for the 75 million Americans who make $100,000 or less up to $2,000 a year
-R38	Support Arg1:T15 Arg2:T12	
+R38	Support Arg1:T15 Arg2:T12
 T16	Premise 5772 5880	if a young couple making $50,000 a year saves $1,000, the government will put another $1,000 in that account
-R39	Support Arg1:T16 Arg2:T15	
+R39	Support Arg1:T16 Arg2:T15
 T17	Premise 5882 6003	By the time they retire, they'll not only have guaranteed Social Security, but more than $200,000 in that retirement fund
-R40	Support Arg1:T17 Arg2:T16	
+R40	Support Arg1:T17 Arg2:T16
 T18	Claim 6062 6114	You have to be a CPA to understand what he just said
 T19	Claim 6116 6252	The fact of the matter is the plan is so complex that the ordinary American is never going to ever figure out what they even qualify for
-R41	Support Arg1:T18 Arg2:T19	
+R41	Support Arg1:T18 Arg2:T19
 T20	Premise 6254 6465	It's a classic example of wanting to have a program, in this case a tax program, that will, in fact, direct people to live their lives in certain ways rather than empowering them to make decisions for themselves
-R42	Attack Arg1:T19 Arg2:T14	
-R43	Attack Arg1:T19 Arg2:T16	
-R44	Attack Arg1:T19 Arg2:T17	
-R45	Attack Arg1:T18 Arg2:T17	
-R46	Attack Arg1:T18 Arg2:T16	
-R47	Attack Arg1:T18 Arg2:T15	
-R48	Attack Arg1:T18 Arg2:T14	
-R49	Support Arg1:T20 Arg2:T19	
+R42	Attack Arg1:T19 Arg2:T14
+R43	Attack Arg1:T19 Arg2:T16
+R44	Attack Arg1:T19 Arg2:T17
+R45	Attack Arg1:T18 Arg2:T17
+R46	Attack Arg1:T18 Arg2:T16
+R47	Attack Arg1:T18 Arg2:T15
+R48	Attack Arg1:T18 Arg2:T14
+R49	Support Arg1:T20 Arg2:T19
 T21	Claim 6502 6556	They like tax credits, we like tax reform and tax cuts
-R50	Support Arg1:T19 Arg2:T21	
+R50	Support Arg1:T19 Arg2:T21

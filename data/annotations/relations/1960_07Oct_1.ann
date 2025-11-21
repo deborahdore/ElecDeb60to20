@@ -25,33 +25,33 @@ T27	Premise 5579 5650	we never used our influence when we could have used it mos
 T28	Premise 5541 5577	we never were on the side of freedom
 T29	Premise 5480 5539	Instead our aid continued to Batista, which was ineffective
 T30	Claim 5657 5687	today Cuba is lost for freedom
-R2	Support Arg1:T2 Arg2:T1	
-R4	Support Arg1:T17 Arg2:T14	
-R5	Support Arg1:T16 Arg2:T14	
-R6	Equivalent Arg1:T2 Arg2:T14	
-R7	Support Arg1:T13 Arg2:T12	
-R9	Support Arg1:T15 Arg2:T12	
-R10	Equivalent Arg1:T9 Arg2:T10	
-R11	Support Arg1:T6 Arg2:T7	
-R12	Equivalent Arg1:T6 Arg2:T14	
-R13	Equivalent Arg1:T6 Arg2:T2	
-R14	Support Arg1:T6 Arg2:T1	
-R15	Equivalent Arg1:T18 Arg2:T24	
-R18	Support Arg1:T23 Arg2:T25	
-R19	Attack Arg1:T22 Arg2:T15	
-R21	Attack Arg1:T26 Arg2:T15	
-R25	Attack Arg1:T30 Arg2:T1	
-R28	Support Arg1:T21 Arg2:T20	
-R29	Attack Arg1:T20 Arg2:T19	
+R2	Support Arg1:T2 Arg2:T1
+R4	Support Arg1:T17 Arg2:T14
+R5	Support Arg1:T16 Arg2:T14
+R6	Equivalent Arg1:T2 Arg2:T14
+R7	Support Arg1:T13 Arg2:T12
+R9	Support Arg1:T15 Arg2:T12
+R10	Equivalent Arg1:T9 Arg2:T10
+R11	Support Arg1:T6 Arg2:T7
+R12	Equivalent Arg1:T6 Arg2:T14
+R13	Equivalent Arg1:T6 Arg2:T2
+R14	Support Arg1:T6 Arg2:T1
+R15	Equivalent Arg1:T18 Arg2:T24
+R18	Support Arg1:T23 Arg2:T25
+R19	Attack Arg1:T22 Arg2:T15
+R21	Attack Arg1:T26 Arg2:T15
+R25	Attack Arg1:T30 Arg2:T1
+R28	Support Arg1:T21 Arg2:T20
+R29	Attack Arg1:T20 Arg2:T19
 T5	Claim 4142 4305	There also isn't any question but that the free people of Cuba - the people who want to be free - are going to be supported and that they will attain their freedom
 T8	Premise 3632 3850	that position is that the United States has a treaty - a treaty with all of the Organization of American States - which prohibits us from interfering in the internal affairs of any other state and prohibits them as wel
-R16	Attack Arg1:T3 Arg2:T2	
-R1	Support Arg1:T4 Arg2:T2	
-R3	Support Arg1:T14 Arg2:T2	
+R16	Attack Arg1:T3 Arg2:T2
+R1	Support Arg1:T4 Arg2:T2
+R3	Support Arg1:T14 Arg2:T2
 T11	Claim 3853 3941	For me to have made such a statement would been in direct uh - opposition to that treaty
-R8	Support Arg1:T11 Arg2:T13	
-R17	Support Arg1:T8 Arg2:T11	
-R20	Support Arg1:T25 Arg2:T22	
-R26	Support Arg1:T29 Arg2:T30	
-R24	Support Arg1:T28 Arg2:T30	
-R23	Support Arg1:T27 Arg2:T30	
+R8	Support Arg1:T11 Arg2:T13
+R17	Support Arg1:T8 Arg2:T11
+R20	Support Arg1:T25 Arg2:T22
+R26	Support Arg1:T29 Arg2:T30
+R24	Support Arg1:T28 Arg2:T30
+R23	Support Arg1:T27 Arg2:T30

@@ -42,32 +42,32 @@ T123	Premise 4563 4595	I want to lead a unified country
 T573	Premise 1001 1114	I just find it impossible to understand how an American can demonstrate against his own country in a foreign land
 T574	Premise 1118 1235	organizing demonstrations against it when young men are held prisoner in Hanoi or kids out of the ghetto were drafted
 T575	Premise 1446 1485	we'll just have to see how it plays out
-R1	Support Arg1:T84 Arg2:T83	
-R2	Equivalent Arg1:T87 Arg2:T85	
-R3	Attack Arg1:T90 Arg2:T89	
-R4	Support Arg1:T573 Arg2:T85	
-R5	Support Arg1:T574 Arg2:T573	
-R6	Attack Arg1:T93 Arg2:T94	
-R7	Support Arg1:T93 Arg2:T85	
-R9	Support Arg1:T97 Arg2:T575	
-R10	Support Arg1:T96 Arg2:T95	
-R11	Support Arg1:T95 Arg2:T93	
-R12	Support Arg1:T99 Arg2:T98	
-R13	Support Arg1:T102 Arg2:T101	
-R14	Support Arg1:T101 Arg2:T100	
-R16	Support Arg1:T106 Arg2:T104	
-R17	Support Arg1:T105 Arg2:T104	
-R18	Support Arg1:T107 Arg2:T108	
-R19	Support Arg1:T103 Arg2:T108	
-R20	Support Arg1:T109 Arg2:T110	
-R21	Support Arg1:T108 Arg2:T110	
-R22	Equivalent Arg1:T111 Arg2:T112	
-R23	Support Arg1:T113 Arg2:T114	
-R25	Support Arg1:T120 Arg2:T115	
-R27	Support Arg1:T122 Arg2:T121	
+R1	Support Arg1:T84 Arg2:T83
+R2	Equivalent Arg1:T87 Arg2:T85
+R3	Attack Arg1:T90 Arg2:T89
+R4	Support Arg1:T573 Arg2:T85
+R5	Support Arg1:T574 Arg2:T573
+R6	Attack Arg1:T93 Arg2:T94
+R7	Support Arg1:T93 Arg2:T85
+R9	Support Arg1:T97 Arg2:T575
+R10	Support Arg1:T96 Arg2:T95
+R11	Support Arg1:T95 Arg2:T93
+R12	Support Arg1:T99 Arg2:T98
+R13	Support Arg1:T102 Arg2:T101
+R14	Support Arg1:T101 Arg2:T100
+R16	Support Arg1:T106 Arg2:T104
+R17	Support Arg1:T105 Arg2:T104
+R18	Support Arg1:T107 Arg2:T108
+R19	Support Arg1:T103 Arg2:T108
+R20	Support Arg1:T109 Arg2:T110
+R21	Support Arg1:T108 Arg2:T110
+R22	Equivalent Arg1:T111 Arg2:T112
+R23	Support Arg1:T113 Arg2:T114
+R25	Support Arg1:T120 Arg2:T115
+R27	Support Arg1:T122 Arg2:T121
 T1	Premise 1568 1613	they all say, "Well, it was a long time ago."
 T2	Premise 1614 1674	Well, let's admit it then. Say, "I made a terrible mistake."
-R8	Support Arg1:T98 Arg2:T93	
-R15	Attack Arg1:T111 Arg2:T117	
-R24	Support Arg1:T121 Arg2:T115	
-R26	Support Arg1:T123 Arg2:T121	
+R8	Support Arg1:T98 Arg2:T93
+R15	Attack Arg1:T111 Arg2:T117
+R24	Support Arg1:T121 Arg2:T115
+R26	Support Arg1:T123 Arg2:T121

@@ -29,52 +29,52 @@ T7	Claim 3803 3885;3956 3985	You can't tell me that any one who uses beans inste
 T9	Claim 3987 4225;4231 4281	I believe that we should not compare what our figures may be to India or some other country that has serious problems but to remember that we are the most prosperous country in the world and that these people are not getting adequate food they're not getting in many cases adequate shelter
 T12	Premise 4334 4366;4398 4451;4466 4485	Mr. Nixon has continued to state these fantastic figures of what the Democratic budget platform would cost
 T11	Premise 4564 4599;4693 4762	Unless there was a severe recession larger than in any Administration in the history of the United States
-R2	Support Arg1:T402 Arg2:T381	
-R4	Equivalent Arg1:T395 Arg2:T396	
-R5	Support Arg1:T395 Arg2:T396	
-R8	Attack Arg1:T390 Arg2:T1	
-R9	Equivalent Arg1:T390 Arg2:T395	
-R10	Support Arg1:T391 Arg2:T389	
-R11	Support Arg1:T392 Arg2:T389	
-R14	Support Arg1:T388 Arg2:T2	
-R12	Equivalent Arg1:T3 Arg2:T397	
-R13	Equivalent Arg1:T398 Arg2:T4	
+R2	Support Arg1:T402 Arg2:T381
+R4	Equivalent Arg1:T395 Arg2:T396
+R5	Support Arg1:T395 Arg2:T396
+R8	Attack Arg1:T390 Arg2:T1
+R9	Equivalent Arg1:T390 Arg2:T395
+R10	Support Arg1:T391 Arg2:T389
+R11	Support Arg1:T392 Arg2:T389
+R14	Support Arg1:T388 Arg2:T2
+R12	Equivalent Arg1:T3 Arg2:T397
+R13	Equivalent Arg1:T398 Arg2:T4
 T8	Premise 3559 3648	Now I've seen a good many hundreds of thousands of people who are uh - not adequately fed
-R16	Support Arg1:T8 Arg2:T10	
-R17	Equivalent Arg1:T7 Arg2:T10	
-R18	Support Arg1:T408 Arg2:T7	
-R19	Support Arg1:T9 Arg2:T7	
-R20	Support Arg1:T9 Arg2:T10	
-R21	Support Arg1:T12 Arg2:T413	
-R22	Attack Arg1:T404 Arg2:T413	
-R23	Equivalent Arg1:T404 Arg2:T403	
-R24	Attack Arg1:T11 Arg2:T404	
+R16	Support Arg1:T8 Arg2:T10
+R17	Equivalent Arg1:T7 Arg2:T10
+R18	Support Arg1:T408 Arg2:T7
+R19	Support Arg1:T9 Arg2:T7
+R20	Support Arg1:T9 Arg2:T10
+R21	Support Arg1:T12 Arg2:T413
+R22	Attack Arg1:T404 Arg2:T413
+R23	Equivalent Arg1:T404 Arg2:T403
+R24	Attack Arg1:T11 Arg2:T404
 T5	Premise 466 639	as I pointed out in 1952, I made it very clear that as far as the Korean War was concerned, that I felt that the decision to go into the war in Korea was right and necessary
-R1	Support Arg1:T5 Arg2:T381	
+R1	Support Arg1:T5 Arg2:T381
 T6	Claim 734 810	I should point out here that Senator Kennedy has attacked our foreign policy
 T13	Premise 812 880	He's said that it's been a policy that has led to defeat and retreat
-R25	Support Arg1:T13 Arg2:T6	
+R25	Support Arg1:T13 Arg2:T6
 T14	Premise 1119 1180	In this Administration we've stopped them at Quemoy and Matsu
 T15	Premise 1182 1213	we've stopped them in Indochina
 T16	Premise 1215 1244	we've stopped them in Lebanon
 T17	Premise 1246 1292	we've stopped them in other parts of the world
-R3	Attack Arg1:T400 Arg2:T6	
-R26	Attack Arg1:T14 Arg2:T6	
-R27	Attack Arg1:T15 Arg2:T6	
-R28	Attack Arg1:T16 Arg2:T6	
-R29	Attack Arg1:T17 Arg2:T6	
-R30	Attack Arg1:T398 Arg2:T397	
-R31	Support Arg1:T396 Arg2:T397	
-R32	Support Arg1:T394 Arg2:T395	
-R6	Support Arg1:T390 Arg2:T397	
-R7	Support Arg1:T389 Arg2:T388	
-R33	Attack Arg1:T384 Arg2:T3	
-R15	Support Arg1:T382 Arg2:T383	
-R34	Support Arg1:T3 Arg2:T382	
+R3	Attack Arg1:T400 Arg2:T6
+R26	Attack Arg1:T14 Arg2:T6
+R27	Attack Arg1:T15 Arg2:T6
+R28	Attack Arg1:T16 Arg2:T6
+R29	Attack Arg1:T17 Arg2:T6
+R30	Attack Arg1:T398 Arg2:T397
+R31	Support Arg1:T396 Arg2:T397
+R32	Support Arg1:T394 Arg2:T395
+R6	Support Arg1:T390 Arg2:T397
+R7	Support Arg1:T389 Arg2:T388
+R33	Attack Arg1:T384 Arg2:T3
+R15	Support Arg1:T382 Arg2:T383
+R34	Support Arg1:T3 Arg2:T382
 T18	Premise 3028 3343	Mr. Nixon uh- I'll just give you the testimony of Mr. George Aiken - Senator George Aiken, the ranking minority member - Republican member - and former chairman of the Senate Agricultural Committee testifying in 1959 - said there were twenty-six million Americans who did not have the income to afford a decent diet
 T19	Premise 3345 3493	Mr. Benson, testifying on the food stamp plan in 1957, said there were twenty-five million Americans who could not afford a elementary low-cost diet
 T20	Premise 3499 3557	he defined that as someone who uses beans in place of meat
-R35	Support Arg1:T20 Arg2:T10	
-R36	Support Arg1:T19 Arg2:T10	
-R37	Support Arg1:T18 Arg2:T10	
-R38	Attack Arg1:T9 Arg2:T389	
+R35	Support Arg1:T20 Arg2:T10
+R36	Support Arg1:T19 Arg2:T10
+R37	Support Arg1:T18 Arg2:T10
+R38	Attack Arg1:T9 Arg2:T389

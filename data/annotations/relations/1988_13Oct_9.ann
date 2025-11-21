@@ -17,25 +17,25 @@ T16	Premise 2108 2126	most Democrats did
 T17	Premise 2127 2171	to get those reductions in strategic weapons
 T18	Premise 2173 2197	to get a test ban treaty
 T19	Premise 2203 2276	to really make progress on the reduction of conventional forces in Europe
-R1	Support Arg1:T3 Arg2:T2	
-R2	Attack Arg1:T4 Arg2:T3	
-R3	Support Arg1:T5 Arg2:T8	
-R4	Support Arg1:T6 Arg2:T8	
-R5	Support Arg1:T7 Arg2:T8	
-R6	Support Arg1:T9 Arg2:T8	
-R7	Support Arg1:T10 Arg2:T9	
-R8	Attack Arg1:T11 Arg2:T12	
-R9	Support Arg1:T14 Arg2:T15	
-R10	Support Arg1:T16 Arg2:T15	
-R11	Support Arg1:T17 Arg2:T15	
-R12	Support Arg1:T18 Arg2:T15	
-R13	Support Arg1:T19 Arg2:T15	
+R1	Support Arg1:T3 Arg2:T2
+R2	Attack Arg1:T4 Arg2:T3
+R3	Support Arg1:T5 Arg2:T8
+R4	Support Arg1:T6 Arg2:T8
+R5	Support Arg1:T7 Arg2:T8
+R6	Support Arg1:T9 Arg2:T8
+R7	Support Arg1:T10 Arg2:T9
+R8	Attack Arg1:T11 Arg2:T12
+R9	Support Arg1:T14 Arg2:T15
+R10	Support Arg1:T16 Arg2:T15
+R11	Support Arg1:T17 Arg2:T15
+R12	Support Arg1:T18 Arg2:T15
+R13	Support Arg1:T19 Arg2:T15
 T20	Premise 2282 2399	if we can do that and do it in a way that gets deeper cuts on the Soviet side, which is where they ought to come from
 T21	Premise 2406 2868	I think we have an opportunity over the long haul to begin to move some of our resources from the military to important domestic priorities that can provide college opportunity for that young woman whose mother wrote me from Texas just the other day, from Longview, Texas: two teachers, a mother and a father who have a child that's a freshman in college, an electrical engineering major, a very bright student and they can't afford to keep that child in college
-R14	Support Arg1:T21 Arg2:T15	
-R15	Support Arg1:T20 Arg2:T15	
+R14	Support Arg1:T21 Arg2:T15
+R15	Support Arg1:T20 Arg2:T15
 T22	Claim 2873 2921	I hope that we can begin to move those resources
-R16	Support Arg1:T22 Arg2:T15	
+R16	Support Arg1:T22 Arg2:T15
 T23	Claim 3097 3157	it certainly ought to be the long-term goal of all Americans
 T24	Premise 3224 3376	The defense budget today takes far less percentage of the gross national product than it did in President Kennedy's time, for example moved tremendously
 T25	Claim 3391 3446	I think we're facing a real opportunity for world peace
@@ -48,15 +48,15 @@ T31	Claim 3883 3939	while the President is negotiating with the Soviet Union
 T32	Claim 3997 4147	I think those that advocated the freeze missed the point that there was a better way and that better way has resulted in a principle asymmetrical cuts
 T33	Premise 4149 4229	The Soviets take out more than we do and the principle of intrusive verification
 T34	Premise 4235 4328	those two principles can now be applied to conventional forces, to strategic forces, provided
-R17	Support Arg1:T33 Arg2:T32	
-R18	Support Arg1:T34 Arg2:T32	
+R17	Support Arg1:T33 Arg2:T32
+R18	Support Arg1:T34 Arg2:T32
 T35	Claim 3941 3991	I simply do not want to make these unilateral cuts
-R19	Attack Arg1:T35 Arg2:T31	
-R20	Support Arg1:T32 Arg2:T35	
-R21	Support Arg1:T30 Arg2:T35	
-R22	Support Arg1:T28 Arg2:T30	
-R23	Support Arg1:T29 Arg2:T28	
-R24	Support Arg1:T27 Arg2:T28	
-R25	Support Arg1:T26 Arg2:T28	
-R26	Support Arg1:T25 Arg2:T28	
-R27	Support Arg1:T1 Arg2:T3	
+R19	Attack Arg1:T35 Arg2:T31
+R20	Support Arg1:T32 Arg2:T35
+R21	Support Arg1:T30 Arg2:T35
+R22	Support Arg1:T28 Arg2:T30
+R23	Support Arg1:T29 Arg2:T28
+R24	Support Arg1:T27 Arg2:T28
+R25	Support Arg1:T26 Arg2:T28
+R26	Support Arg1:T25 Arg2:T28
+R27	Support Arg1:T1 Arg2:T3

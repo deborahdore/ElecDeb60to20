@@ -42,32 +42,32 @@ T41	Claim 6584 6636	I believe that we must use clean, safe nuclear power
 T42	Claim 6638 6740	I believe that the more dependent we become on foreign oil, the less our national security is enhanced
 T43	Claim 6757 6955	I've made some proposals to strengthen the domestic oil industry by more incentive going in to look for, and find, and produce oil; made some incentives in terms of secondary and tertiary production
 T44	Claim 6961 7055	we're going to have to use more gas, more coal and more safe nuclear power for our energy base
-R1	Attack Arg1:T5 Arg2:T4	
-R2	Attack Arg1:T5 Arg2:T3	
-R3	Attack Arg1:T5 Arg2:T1	
-R4	Attack Arg1:T5 Arg2:T2	
-R5	Support Arg1:T5 Arg2:T6	
+R1	Attack Arg1:T5 Arg2:T4
+R2	Attack Arg1:T5 Arg2:T3
+R3	Attack Arg1:T5 Arg2:T1
+R4	Attack Arg1:T5 Arg2:T2
+R5	Support Arg1:T5 Arg2:T6
 T45	Claim 1408 1449	I think we can go far beyond this as well
 T46	Premise 1459 1612	we have opportunities now step-by-step to bring down the level of strategic weapons, get a test ban treaty, negotiate those conventional force reductions
-R6	Support Arg1:T46 Arg2:T45	
-R8	Support Arg1:T8 Arg2:T7	
-R7	Support Arg1:T7 Arg2:T9	
+R6	Support Arg1:T46 Arg2:T45
+R8	Support Arg1:T8 Arg2:T7
+R7	Support Arg1:T7 Arg2:T9
 T47	Premise 2034 2097	that can make progress now in bringing peace to the Middle East
-R9	Support Arg1:T47 Arg2:T9	
-R10	Support Arg1:T10 Arg2:T9	
-R11	Support Arg1:T11 Arg2:T10	
-R12	Support Arg1:T18 Arg2:T17	
-R13	Support Arg1:T19 Arg2:T17	
-R14	Support Arg1:T17 Arg2:T20	
-R15	Attack Arg1:T25 Arg2:T24	
-R16	Support Arg1:T29 Arg2:T28	
-R17	Support Arg1:T30 Arg2:T28	
-R18	Support Arg1:T31 Arg2:T28	
-R19	Support Arg1:T33 Arg2:T32	
-R20	Support Arg1:T34 Arg2:T32	
-R21	Support Arg1:T35 Arg2:T32	
-R22	Support Arg1:T38 Arg2:T37	
-R23	Support Arg1:T37 Arg2:T36	
-R24	Support Arg1:T42 Arg2:T43	
-R25	Support Arg1:T44 Arg2:T43	
-R26	Support Arg1:T41 Arg2:T43	
+R9	Support Arg1:T47 Arg2:T9
+R10	Support Arg1:T10 Arg2:T9
+R11	Support Arg1:T11 Arg2:T10
+R12	Support Arg1:T18 Arg2:T17
+R13	Support Arg1:T19 Arg2:T17
+R14	Support Arg1:T17 Arg2:T20
+R15	Attack Arg1:T25 Arg2:T24
+R16	Support Arg1:T29 Arg2:T28
+R17	Support Arg1:T30 Arg2:T28
+R18	Support Arg1:T31 Arg2:T28
+R19	Support Arg1:T33 Arg2:T32
+R20	Support Arg1:T34 Arg2:T32
+R21	Support Arg1:T35 Arg2:T32
+R22	Support Arg1:T38 Arg2:T37
+R23	Support Arg1:T37 Arg2:T36
+R24	Support Arg1:T42 Arg2:T43
+R25	Support Arg1:T44 Arg2:T43
+R26	Support Arg1:T41 Arg2:T43

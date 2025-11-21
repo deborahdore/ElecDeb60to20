@@ -35,38 +35,38 @@ T147	Claim 5390 5504	the Washington Post ran a long editorial today saying they 
 T148	Premise 5509 5606	they said he was the greatest quote "political chameleon" for changing his positions of all times
 T149	Claim 6017 6037	I think you're right
 T152	Claim 5875 6012	I'm interested in what we can trust him to do and what you can trust me to do and what you can trust Mr. Perot to do for the next 4 years
-R1	Support Arg1:T119 Arg2:T120	
-R2	Support Arg1:T119 Arg2:T121	
-R3	Support Arg1:T131 Arg2:T130	
-R4	Attack Arg1:T132 Arg2:T124	
+R1	Support Arg1:T119 Arg2:T120
+R2	Support Arg1:T119 Arg2:T121
+R3	Support Arg1:T131 Arg2:T130
+R4	Attack Arg1:T132 Arg2:T124
 T1	Premise 2893 3041	he raised the question of my father and said, well, your father, Prescott Bush, was against McCarthy, you should be ashamed of yourself, McCarthyism
-R5	Equivalent Arg1:T136 Arg2:T1	
+R5	Equivalent Arg1:T136 Arg2:T1
 T2	Claim 3519 3639	I am deeply troubled by someone who demonstrates and organizes demonstration in a foreign land when his country's at war
 T3	Premise 4941 5038	Thank goodness the networks have a fact check so I don't have to just go blue in the face anymore
-R6	Attack Arg1:T144 Arg2:T143	
+R6	Attack Arg1:T144 Arg2:T143
 T4	Claim 1151 1181	I couldn't agree with you more
 T5	Claim 1183 1211	couldn't agree with you more
-R7	Equivalent Arg1:T4 Arg2:T5	
-R8	Support Arg1:T115 Arg2:T4	
-R9	Support Arg1:T116 Arg2:T4	
-R10	Support Arg1:T110 Arg2:T4	
+R7	Equivalent Arg1:T4 Arg2:T5
+R8	Support Arg1:T115 Arg2:T4
+R9	Support Arg1:T116 Arg2:T4
+R10	Support Arg1:T110 Arg2:T4
 T6	Premise 2009 2052	It's so heavy they'd give you a broken back
-R11	Support Arg1:T122 Arg2:T123	
-R12	Support Arg1:T129 Arg2:T123	
-R13	Support Arg1:T6 Arg2:T123	
-R14	Support Arg1:T128 Arg2:T123	
-R16	Attack Arg1:T134 Arg2:T132	
-R15	Attack Arg1:T133 Arg2:T132	
-R17	Equivalent Arg1:T119 Arg2:T135	
-R18	Support Arg1:T127 Arg2:T126	
-R19	Support Arg1:T125 Arg2:T126	
-R20	Support Arg1:T139 Arg2:T138	
-R21	Support Arg1:T140 Arg2:T139	
-R22	Support Arg1:T141 Arg2:T138	
-R23	Support Arg1:T143 Arg2:T142	
-R24	Support Arg1:T145 Arg2:T144	
-R25	Attack Arg1:T147 Arg2:T135	
-R26	Support Arg1:T148 Arg2:T147	
+R11	Support Arg1:T122 Arg2:T123
+R12	Support Arg1:T129 Arg2:T123
+R13	Support Arg1:T6 Arg2:T123
+R14	Support Arg1:T128 Arg2:T123
+R16	Attack Arg1:T134 Arg2:T132
+R15	Attack Arg1:T133 Arg2:T132
+R17	Equivalent Arg1:T119 Arg2:T135
+R18	Support Arg1:T127 Arg2:T126
+R19	Support Arg1:T125 Arg2:T126
+R20	Support Arg1:T139 Arg2:T138
+R21	Support Arg1:T140 Arg2:T139
+R22	Support Arg1:T141 Arg2:T138
+R23	Support Arg1:T143 Arg2:T142
+R24	Support Arg1:T145 Arg2:T144
+R25	Attack Arg1:T147 Arg2:T135
+R26	Support Arg1:T148 Arg2:T147
 T7	Claim 5821 5869	I want to change the character of the presidency
 T8	Premise 5784 5819	I'm not interested in his character
-R27	Support Arg1:T8 Arg2:T7	
+R27	Support Arg1:T8 Arg2:T7

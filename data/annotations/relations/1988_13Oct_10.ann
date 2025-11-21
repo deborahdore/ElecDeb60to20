@@ -11,8 +11,8 @@ T10	Claim 2157 2203	we've had great success at revenue enforcement
 T11	Claim 2210 2307	the Vice President will probably tell you that it's going to take an army of IRS collectors again
 T12	Premise 2315 2561	his campaign manager, who used to be the secretary of the treasury, was taking great credit about a year ago and asking and receiving from the Congress substantial additional funds to hire internal revenue agents to go out and collect these funds
 T13	Claim 2610 2626	we agree on this
-R1	Support Arg1:T12 Arg2:T13	
-R2	Attack Arg1:T12 Arg2:T11	
+R1	Support Arg1:T12 Arg2:T13
+R2	Attack Arg1:T12 Arg2:T11
 T14	Claim 2687 2769	we must begin it's going to take at least the first year of the new administration
 T15	Premise 2776 2959	the Dorgan Task Force, the bipartisan task force estimated that we could collect about $35 billion in the fifth year, $105 billion over five years, the other study even more than that
 T16	Claim 3080 3167	you didn't predicate that lack of economists' support for what I call a flexible freeze
@@ -27,19 +27,19 @@ T24	Premise 3799 3816	the dynamics work
 T25	Claim 3822 3915	they don't work if you go raise taxes and then the Congress spends it continues to spend that
 T26	Premise 3917 3976	The American working man and woman are not taxed too little
 T27	Premise 3978 4028	The Federal Government continues to spend too much
-R3	Support Arg1:T9 Arg2:T10	
-R4	Support Arg1:T8 Arg2:T10	
-R5	Support Arg1:T7 Arg2:T10	
-R6	Support Arg1:T15 Arg2:T14	
-R8	Support Arg1:T3 Arg2:T2	
+R3	Support Arg1:T9 Arg2:T10
+R4	Support Arg1:T8 Arg2:T10
+R5	Support Arg1:T7 Arg2:T10
+R6	Support Arg1:T15 Arg2:T14
+R8	Support Arg1:T3 Arg2:T2
 T28	Claim 990 1010	I'm going to have to
-R9	Support Arg1:T1 Arg2:T28	
-R7	Support Arg1:T2 Arg2:T28	
-R10	Support Arg1:T4 Arg2:T28	
-R11	Support Arg1:T5 Arg2:T28	
-R12	Support Arg1:T6 Arg2:T28	
-R13	Support Arg1:T17 Arg2:T16	
-R14	Support Arg1:T19 Arg2:T18	
-R15	Support Arg1:T22 Arg2:T21	
-R16	Support Arg1:T23 Arg2:T22	
-R17	Support Arg1:T24 Arg2:T22	
+R9	Support Arg1:T1 Arg2:T28
+R7	Support Arg1:T2 Arg2:T28
+R10	Support Arg1:T4 Arg2:T28
+R11	Support Arg1:T5 Arg2:T28
+R12	Support Arg1:T6 Arg2:T28
+R13	Support Arg1:T17 Arg2:T16
+R14	Support Arg1:T19 Arg2:T18
+R15	Support Arg1:T22 Arg2:T21
+R16	Support Arg1:T23 Arg2:T22
+R17	Support Arg1:T24 Arg2:T22

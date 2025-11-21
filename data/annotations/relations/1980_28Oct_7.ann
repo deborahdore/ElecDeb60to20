@@ -55,54 +55,54 @@ T443	Premise 8110 8316	These commitments that the Democratic Party has historica
 T548	Claim 2735 2783	which would, in effect, very quickly bankrupt it
 T1	Claim 552 607	The Social Security system was based on a false premise
 T2	Premise 609 720	with regard to how fast the number of workers would increase and how fast the number of retirees would increase
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T1 Arg2:T389	
-R3	Support Arg1:T397 Arg2:T389	
-R4	Support Arg1:T398 Arg2:T389	
-R5	Support Arg1:T399 Arg2:T389	
-R6	Support Arg1:T396 Arg2:T395	
-R7	Support Arg1:T400 Arg2:T396	
-R8	Support Arg1:T391 Arg2:T392	
-R9	Support Arg1:T394 Arg2:T393	
-R10	Support Arg1:T396 Arg2:T393	
-R11	Support Arg1:T403 Arg2:T402	
-R12	Support Arg1:T406 Arg2:T548	
-R13	Support Arg1:T407 Arg2:T401	
-R14	Support Arg1:T408 Arg2:T401	
-R15	Support Arg1:T402 Arg2:T404	
-R16	Support Arg1:T404 Arg2:T405	
-R17	Support Arg1:T410 Arg2:T411	
-R18	Support Arg1:T412 Arg2:T411	
-R19	Support Arg1:T410 Arg2:T409	
-R20	Attack Arg1:T409 Arg2:T406	
-R21	Support Arg1:T414 Arg2:T409	
-R22	Support Arg1:T414 Arg2:T413	
-R23	Support Arg1:T415 Arg2:T413	
-R24	Support Arg1:T416 Arg2:T415	
-R25	Support Arg1:T418 Arg2:T417	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T1 Arg2:T389
+R3	Support Arg1:T397 Arg2:T389
+R4	Support Arg1:T398 Arg2:T389
+R5	Support Arg1:T399 Arg2:T389
+R6	Support Arg1:T396 Arg2:T395
+R7	Support Arg1:T400 Arg2:T396
+R8	Support Arg1:T391 Arg2:T392
+R9	Support Arg1:T394 Arg2:T393
+R10	Support Arg1:T396 Arg2:T393
+R11	Support Arg1:T403 Arg2:T402
+R12	Support Arg1:T406 Arg2:T548
+R13	Support Arg1:T407 Arg2:T401
+R14	Support Arg1:T408 Arg2:T401
+R15	Support Arg1:T402 Arg2:T404
+R16	Support Arg1:T404 Arg2:T405
+R17	Support Arg1:T410 Arg2:T411
+R18	Support Arg1:T412 Arg2:T411
+R19	Support Arg1:T410 Arg2:T409
+R20	Attack Arg1:T409 Arg2:T406
+R21	Support Arg1:T414 Arg2:T409
+R22	Support Arg1:T414 Arg2:T413
+R23	Support Arg1:T415 Arg2:T413
+R24	Support Arg1:T416 Arg2:T415
+R25	Support Arg1:T418 Arg2:T417
 T3	Claim 5190 5342	These constant suggestions that the basic Social Security System should be changed does call for concern and consternation among the aged of our country
-R26	Support Arg1:T422 Arg2:T3	
-R27	Support Arg1:T423 Arg2:T3	
-R28	Support Arg1:T424 Arg2:T3	
-R29	Support Arg1:T420 Arg2:T3	
-R30	Support Arg1:T421 Arg2:T420	
-R31	Support Arg1:T426 Arg2:T425	
-R32	Support Arg1:T427 Arg2:T425	
-R33	Support Arg1:T428 Arg2:T425	
-R34	Support Arg1:T429 Arg2:T425	
-R35	Support Arg1:T425 Arg2:T430	
+R26	Support Arg1:T422 Arg2:T3
+R27	Support Arg1:T423 Arg2:T3
+R28	Support Arg1:T424 Arg2:T3
+R29	Support Arg1:T420 Arg2:T3
+R30	Support Arg1:T421 Arg2:T420
+R31	Support Arg1:T426 Arg2:T425
+R32	Support Arg1:T427 Arg2:T425
+R33	Support Arg1:T428 Arg2:T425
+R34	Support Arg1:T429 Arg2:T425
+R35	Support Arg1:T425 Arg2:T430
 T4	Premise 5973 6085	Governor Reagan, as a matter of fact, began his political career campaigning around this nation against Medicare
 T5	Premise 5792 5971	In the past, the relationship between Social Security and Medicare has been very important to providing some modicum of aid for senior citizens in the retention of health benefits
-R37	Support Arg1:T433 Arg2:T431	
-R36	Support Arg1:T431 Arg2:T432	
-R38	Support Arg1:T434 Arg2:T432	
-R39	Attack Arg1:T432 Arg2:T4	
+R37	Support Arg1:T433 Arg2:T431
+R36	Support Arg1:T431 Arg2:T432
+R38	Support Arg1:T434 Arg2:T432
+R39	Attack Arg1:T432 Arg2:T4
 T6	Premise 7199 7237	it doesn't come out of the payroll tax
 T7	Premise 7239 7269	It comes out of a general fund
 T8	Claim 7275 7308	something should be done about it
-R40	Support Arg1:T435 Arg2:T8	
-R41	Support Arg1:T436 Arg2:T435	
-R42	Support Arg1:T438 Arg2:T437	
-R43	Support Arg1:T440 Arg2:T442	
-R44	Support Arg1:T441 Arg2:T442	
-R45	Support Arg1:T439 Arg2:T442	
+R40	Support Arg1:T435 Arg2:T8
+R41	Support Arg1:T436 Arg2:T435
+R42	Support Arg1:T438 Arg2:T437
+R43	Support Arg1:T440 Arg2:T442
+R44	Support Arg1:T441 Arg2:T442
+R45	Support Arg1:T439 Arg2:T442

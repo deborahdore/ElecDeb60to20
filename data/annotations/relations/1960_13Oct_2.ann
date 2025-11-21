@@ -29,46 +29,46 @@ T59	Premise 4204 4469	Mr. Nixon wants to do is commit us - as I understand him, 
 T60	Premise 4763 4881	We have attempted to persuade Chiang Kai-shek as late as January of 1959 to reduce the number of troops he has on them
 T463	Claim 2453 2476	it doesn't satisfy them
 T464	Premise 3384 3653	the chairman of the Senate Foreign Relations Committee, wrote to the President, he received back on the second of October, 1958 - "neither you nor any other American need feel the U.S. will be involved in military hostilities merely in the defense of Quemoy and Matsu."
-R1	Support Arg1:T27 Arg2:T28	
-R2	Support Arg1:T28 Arg2:T29	
-R4	Support Arg1:T32 Arg2:T30	
-R6	Equivalent Arg1:T31 Arg2:T30	
-R7	Attack Arg1:T32 Arg2:T33	
-R9	Support Arg1:T40 Arg2:T41	
-R10	Support Arg1:T39 Arg2:T41	
-R12	Support Arg1:T37 Arg2:T38	
-R13	Support Arg1:T35 Arg2:T37	
-R18	Support Arg1:T48 Arg2:T45	
-R19	Support Arg1:T48 Arg2:T46	
-R24	Support Arg1:T45 Arg2:T53	
-R25	Support Arg1:T46 Arg2:T53	
-R27	Attack Arg1:T51 Arg2:T48	
-R28	Support Arg1:T51 Arg2:T56	
-R29	Support Arg1:T56 Arg2:T57	
-R30	Support Arg1:T58 Arg2:T56	
-R31	Support Arg1:T57 Arg2:T54	
-R32	Support Arg1:T54 Arg2:T55	
-R33	Support Arg1:T60 Arg2:T54	
+R1	Support Arg1:T27 Arg2:T28
+R2	Support Arg1:T28 Arg2:T29
+R4	Support Arg1:T32 Arg2:T30
+R6	Equivalent Arg1:T31 Arg2:T30
+R7	Attack Arg1:T32 Arg2:T33
+R9	Support Arg1:T40 Arg2:T41
+R10	Support Arg1:T39 Arg2:T41
+R12	Support Arg1:T37 Arg2:T38
+R13	Support Arg1:T35 Arg2:T37
+R18	Support Arg1:T48 Arg2:T45
+R19	Support Arg1:T48 Arg2:T46
+R24	Support Arg1:T45 Arg2:T53
+R25	Support Arg1:T46 Arg2:T53
+R27	Attack Arg1:T51 Arg2:T48
+R28	Support Arg1:T51 Arg2:T56
+R29	Support Arg1:T56 Arg2:T57
+R30	Support Arg1:T58 Arg2:T56
+R31	Support Arg1:T57 Arg2:T54
+R32	Support Arg1:T54 Arg2:T55
+R33	Support Arg1:T60 Arg2:T54
 T1	Claim 1791 1845	it is something that would lead, in my opinion, to war
 T2	Premise 2005 2155	He wanted first uh - we know, Austria, and then he went on to the Sudetenland and then Danzig, and each time it was thought this is all that he wanted
 T3	Claim 2831 3037	I say that those of us who stand against surrender of territory - this or any others - in the face of blackmail, in the s- face of force by the Communists are standing for the course that will lead to peace
 T4	Claim 574 767	it would be completely irresponsible for a candidate for the presidency, or for a president himself, to indicate the course of action and the weapons he would use in the event of such an attack
-R35	Support Arg1:T33 Arg2:T1	
+R35	Support Arg1:T33 Arg2:T1
 T5	Claim 2478 2506	It only whets their appetite
-R37	Equivalent Arg1:T30 Arg2:T4	
-R41	Support Arg1:T2 Arg2:T463	
+R37	Equivalent Arg1:T30 Arg2:T4
+R41	Support Arg1:T2 Arg2:T463
 T6	Claim 3888 3956	the United States should go to war if these two islands are attacked
-R43	Equivalent Arg1:T6 Arg2:T29	
-R3	Support Arg1:T38 Arg2:T41	
-R5	Support Arg1:T41 Arg2:T463	
-R8	Attack Arg1:T463 Arg2:T42	
-R11	Support Arg1:T5 Arg2:T463	
-R14	Support Arg1:T463 Arg2:T3	
-R15	Support Arg1:T1 Arg2:T3	
+R43	Equivalent Arg1:T6 Arg2:T29
+R3	Support Arg1:T38 Arg2:T41
+R5	Support Arg1:T41 Arg2:T463
+R8	Attack Arg1:T463 Arg2:T42
+R11	Support Arg1:T5 Arg2:T463
+R14	Support Arg1:T463 Arg2:T3
+R15	Support Arg1:T1 Arg2:T3
 T7	Premise 3256 3358	The islands which Mr. Nixon is discussing are five or four miles, respectively, off the coast of China
-R16	Attack Arg1:T7 Arg2:T29	
-R17	Support Arg1:T7 Arg2:T51	
-R22	Support Arg1:T464 Arg2:T51	
-R20	Support Arg1:T47 Arg2:T6	
-R21	Equivalent Arg1:T53 Arg2:T6	
-R23	Attack Arg1:T55 Arg2:T59	
+R16	Attack Arg1:T7 Arg2:T29
+R17	Support Arg1:T7 Arg2:T51
+R22	Support Arg1:T464 Arg2:T51
+R20	Support Arg1:T47 Arg2:T6
+R21	Equivalent Arg1:T53 Arg2:T6
+R23	Attack Arg1:T55 Arg2:T59

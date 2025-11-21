@@ -20,30 +20,30 @@ T257	Premise 2958 3014	this weakened our relationships with Israel a great deal
 T258	Premise 3019 3095	put a cloud on the total commitment that our people feel toward the Israelis
 T175	Claim 680 789	that communique, calls for the normalization of relations between the United States and the People's Republic
 T1	Claim 3189 3354	I think we need to continue to be uh - strong and uh - I would certainly uh - pursue the uh - normalization of uh - relationships with the People's Republic of China
-R1	Support Arg1:T242 Arg2:T175	
-R2	Support Arg1:T244 Arg2:T242	
-R3	Support Arg1:T243 Arg2:T175	
-R4	Support Arg1:T244 Arg2:T175	
-R5	Support Arg1:T243 Arg2:T245	
-R6	Support Arg1:T245 Arg2:T175	
-R7	Support Arg1:T175 Arg2:T246	
-R8	Support Arg1:T245 Arg2:T247	
-R9	Support Arg1:T247 Arg2:T246	
-R10	Support Arg1:T239 Arg2:T246	
-R11	Support Arg1:T240 Arg2:T246	
-R12	Support Arg1:T246 Arg2:T241	
-R13	Support Arg1:T248 Arg2:T249	
-R14	Support Arg1:T253 Arg2:T256	
-R15	Support Arg1:T254 Arg2:T256	
-R16	Support Arg1:T255 Arg2:T256	
-R17	Support Arg1:T257 Arg2:T256	
-R18	Support Arg1:T258 Arg2:T256	
-R19	Support Arg1:T257 Arg2:T258	
-R20	Support Arg1:T1 Arg2:T246	
-R21	Support Arg1:T1 Arg2:T175	
+R1	Support Arg1:T242 Arg2:T175
+R2	Support Arg1:T244 Arg2:T242
+R3	Support Arg1:T243 Arg2:T175
+R4	Support Arg1:T244 Arg2:T175
+R5	Support Arg1:T243 Arg2:T245
+R6	Support Arg1:T245 Arg2:T175
+R7	Support Arg1:T175 Arg2:T246
+R8	Support Arg1:T245 Arg2:T247
+R9	Support Arg1:T247 Arg2:T246
+R10	Support Arg1:T239 Arg2:T246
+R11	Support Arg1:T240 Arg2:T246
+R12	Support Arg1:T246 Arg2:T241
+R13	Support Arg1:T248 Arg2:T249
+R14	Support Arg1:T253 Arg2:T256
+R15	Support Arg1:T254 Arg2:T256
+R16	Support Arg1:T255 Arg2:T256
+R17	Support Arg1:T257 Arg2:T256
+R18	Support Arg1:T258 Arg2:T256
+R19	Support Arg1:T257 Arg2:T258
+R20	Support Arg1:T1 Arg2:T246
+R21	Support Arg1:T1 Arg2:T175
 T2	Claim 3097 3171	There ought to be a clear, unequivocal commitment without change to Israel
-R22	Support Arg1:T258 Arg2:T2	
-R23	Support Arg1:T252 Arg2:T1	
-R24	Support Arg1:T252 Arg2:T251	
-R25	Support Arg1:T251 Arg2:T240	
-R26	Support Arg1:T251 Arg2:T241	
+R22	Support Arg1:T258 Arg2:T2
+R23	Support Arg1:T252 Arg2:T1
+R24	Support Arg1:T252 Arg2:T251
+R25	Support Arg1:T251 Arg2:T240
+R26	Support Arg1:T251 Arg2:T241

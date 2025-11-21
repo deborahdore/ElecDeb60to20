@@ -26,50 +26,50 @@ T193	Claim 4871 4959	the United States should meet its commitments to Que- to uh
 T194	Premise 5046 5141	these islands that we're now talking about are not worth the bones of a single American soldier
 T195	Premise 5147 5238	I know how difficult it is to sustain troops close to the shore under artillery bombardment
 T196	Claim 5255 5338	I think, we should make it very clear the disagreement between Mr. Nixon and myself
-R2	Support Arg1:T164 Arg2:T165	
-R4	Support Arg1:T165 Arg2:T166	
-R6	Support Arg1:T167 Arg2:T168	
-R7	Support Arg1:T168 Arg2:T169	
-R8	Support Arg1:T169 Arg2:T170	
-R10	Equivalent Arg1:T172 Arg2:T173	
+R2	Support Arg1:T164 Arg2:T165
+R4	Support Arg1:T165 Arg2:T166
+R6	Support Arg1:T167 Arg2:T168
+R7	Support Arg1:T168 Arg2:T169
+R8	Support Arg1:T169 Arg2:T170
+R10	Equivalent Arg1:T172 Arg2:T173
 T1	Premise 1896 2418	I noted, for example, in reading a - uh - a - a particular discussion that Senator Kennedy had with Dave Garroway shortly after the uh - his statement about regrets, that uh - he made the statement that he felt that these particular flights uh - were ones that shouldn't have occurred right at that time, and the indication was how would Mr. Khrushchev had felt if we had uh - had a flight over the uni- how would we have felt if Mr. Khrushchev ha - uh - had a flight over the United States while uh - he was visiting here
 T2	Claim 2455 2495	Communist espionage goes on all the time
 T3	Claim 2516 2705	the United States can't afford to have a es- an es - a espionage lack or should we s- uh - lag - or should I say uh - an intelligence lag - any more than we can afford to have a missile lag
-R18	Support Arg1:T2 Arg2:T3	
-R19	Attack Arg1:T2 Arg2:T1	
+R18	Support Arg1:T2 Arg2:T3
+R19	Attack Arg1:T2 Arg2:T1
 T5	Premise 3032 3090	he was in the minority was one which rejected his position
-R22	Support Arg1:T175 Arg2:T174	
-R23	Support Arg1:T183 Arg2:T182	
-R24	Attack Arg1:T181 Arg2:T168	
-R25	Attack Arg1:T182 Arg2:T173	
-R26	Attack Arg1:T178 Arg2:T1	
-R27	Attack Arg1:T179 Arg2:T2	
-R29	Support Arg1:T186 Arg2:T187	
-R30	Attack Arg1:T186 Arg2:T166	
-R31	Support Arg1:T189 Arg2:T190	
-R32	Support Arg1:T190 Arg2:T191	
-R33	Support Arg1:T191 Arg2:T192	
-R35	Support Arg1:T195 Arg2:T196	
+R22	Support Arg1:T175 Arg2:T174
+R23	Support Arg1:T183 Arg2:T182
+R24	Attack Arg1:T181 Arg2:T168
+R25	Attack Arg1:T182 Arg2:T173
+R26	Attack Arg1:T178 Arg2:T1
+R27	Attack Arg1:T179 Arg2:T2
+R29	Support Arg1:T186 Arg2:T187
+R30	Attack Arg1:T186 Arg2:T166
+R31	Support Arg1:T189 Arg2:T190
+R32	Support Arg1:T190 Arg2:T191
+R33	Support Arg1:T191 Arg2:T192
+R35	Support Arg1:T195 Arg2:T196
 T6	Premise 4048 4095	It still goes on, I would assume, on both sides
-R37	Support Arg1:T6 Arg2:T179	
+R37	Support Arg1:T6 Arg2:T179
 T7	Premise 1654 1712	I have been supporting the President's position throughout
-R39	Support Arg1:T165 Arg2:T7	
-R40	Support Arg1:T166 Arg2:T7	
-R42	Support Arg1:T7 Arg2:T173	
+R39	Support Arg1:T165 Arg2:T7
+R40	Support Arg1:T166 Arg2:T7
+R42	Support Arg1:T7 Arg2:T173
 T8	Premise 4111 4302	the Vice President - on May fifteenth after the U-2 flight - indicated that the flights were going on, even though the Administration and the President had canceled the flights on May twelfth
-R28	Attack Arg1:T186 Arg2:T185	
-R43	Attack Arg1:T193 Arg2:T187	
-R44	Attack Arg1:T194 Arg2:T185	
+R28	Attack Arg1:T186 Arg2:T185
+R43	Attack Arg1:T193 Arg2:T187
+R44	Attack Arg1:T194 Arg2:T185
 T9	Premise 4965 5044	as Admiral Yarnell has said, and he's been supported by most military authority
-R45	Support Arg1:T9 Arg2:T194	
+R45	Support Arg1:T9 Arg2:T194
 T10	Claim 5340 5386	He's extending the Administration's commitment
-R46	Support Arg1:T196 Arg2:T10	
-R47	Attack Arg1:T196 Arg2:T166	
-R1	Support Arg1:T166 Arg2:T163	
-R3	Support Arg1:T172 Arg2:T165	
-R5	Support Arg1:T170 Arg2:T165	
-R9	Support Arg1:T5 Arg2:T174	
+R46	Support Arg1:T196 Arg2:T10
+R47	Attack Arg1:T196 Arg2:T166
+R1	Support Arg1:T166 Arg2:T163
+R3	Support Arg1:T172 Arg2:T165
+R5	Support Arg1:T170 Arg2:T165
+R9	Support Arg1:T5 Arg2:T174
 T11	Claim 2772 2849	What I object to here is the constant reference to surrendering these islands
-R11	Support Arg1:T174 Arg2:T11	
-R12	Support Arg1:T192 Arg2:T187	
-R13	Support Arg1:T194 Arg2:T196	
+R11	Support Arg1:T174 Arg2:T11
+R12	Support Arg1:T192 Arg2:T187
+R13	Support Arg1:T194 Arg2:T196

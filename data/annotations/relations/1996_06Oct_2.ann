@@ -44,54 +44,54 @@ T63	Claim 2625 2678	we are clearly better off than we were four years ago
 T1	Claim 1196 1221	So some may be better off
 T2	Claim 3326 3348	some may be better off
 T3	Claim 200 218	I agree with that.
-R1	Support Arg1:T64 Arg2:T65	
-R2	Support Arg1:T65 Arg2:T70	
-R3	Support Arg1:T66 Arg2:T70	
-R4	Support Arg1:T67 Arg2:T70	
-R5	Support Arg1:T68 Arg2:T70	
-R6	Support Arg1:T69 Arg2:T70	
-R7	Support Arg1:T3 Arg2:T62	
+R1	Support Arg1:T64 Arg2:T65
+R2	Support Arg1:T65 Arg2:T70
+R3	Support Arg1:T66 Arg2:T70
+R4	Support Arg1:T67 Arg2:T70
+R5	Support Arg1:T68 Arg2:T70
+R6	Support Arg1:T69 Arg2:T70
+R7	Support Arg1:T3 Arg2:T62
 T4	Claim 244 301	I may be better off four years from now, but I don't know
-R8	Support Arg1:T71 Arg2:T70	
+R8	Support Arg1:T71 Arg2:T70
 T5	Premise 720 758	f you take a look, are you better off?
-R9	Attack Arg1:T5 Arg2:T72	
-R10	Support Arg1:T73 Arg2:T72	
-R11	Support Arg1:T74 Arg2:T72	
+R9	Attack Arg1:T5 Arg2:T72
+R10	Support Arg1:T73 Arg2:T72
+R11	Support Arg1:T74 Arg2:T72
 T6	Claim 932 960	But are the American people?
-R12	Attack Arg1:T6 Arg2:T72	
-R13	Support Arg1:T75 Arg2:T6	
-R14	Support Arg1:T76 Arg2:T6	
-R15	Support Arg1:T77 Arg2:T6	
-R16	Support Arg1:T72 Arg2:T1	
-R17	Attack Arg1:T80 Arg2:T79	
-R18	Support Arg1:T82 Arg2:T81	
-R19	Support Arg1:T79 Arg2:T81	
-R20	Support Arg1:T83 Arg2:T82	
-R21	Support Arg1:T85 Arg2:T84	
-R22	Attack Arg1:T81 Arg2:T80	
-R23	Support Arg1:T84 Arg2:T82	
-R24	Attack Arg1:T86 Arg2:T70	
-R25	Support Arg1:T87 Arg2:T94	
-R26	Support Arg1:T88 Arg2:T94	
-R27	Support Arg1:T89 Arg2:T94	
-R28	Support Arg1:T90 Arg2:T94	
-R29	Support Arg1:T91 Arg2:T94	
-R30	Support Arg1:T92 Arg2:T94	
-R31	Support Arg1:T93 Arg2:T94	
-R32	Support Arg1:T94 Arg2:T95	
-R33	Support Arg1:T95 Arg2:T96	
-R34	Support Arg1:T63 Arg2:T94	
-R35	Support Arg1:T98 Arg2:T63	
-R36	Support Arg1:T98 Arg2:T86	
-R37	Attack Arg1:T99 Arg2:T98	
-R38	Attack Arg1:T99 Arg2:T86	
+R12	Attack Arg1:T6 Arg2:T72
+R13	Support Arg1:T75 Arg2:T6
+R14	Support Arg1:T76 Arg2:T6
+R15	Support Arg1:T77 Arg2:T6
+R16	Support Arg1:T72 Arg2:T1
+R17	Attack Arg1:T80 Arg2:T79
+R18	Support Arg1:T82 Arg2:T81
+R19	Support Arg1:T79 Arg2:T81
+R20	Support Arg1:T83 Arg2:T82
+R21	Support Arg1:T85 Arg2:T84
+R22	Attack Arg1:T81 Arg2:T80
+R23	Support Arg1:T84 Arg2:T82
+R24	Attack Arg1:T86 Arg2:T70
+R25	Support Arg1:T87 Arg2:T94
+R26	Support Arg1:T88 Arg2:T94
+R27	Support Arg1:T89 Arg2:T94
+R28	Support Arg1:T90 Arg2:T94
+R29	Support Arg1:T91 Arg2:T94
+R30	Support Arg1:T92 Arg2:T94
+R31	Support Arg1:T93 Arg2:T94
+R32	Support Arg1:T94 Arg2:T95
+R33	Support Arg1:T95 Arg2:T96
+R34	Support Arg1:T63 Arg2:T94
+R35	Support Arg1:T98 Arg2:T63
+R36	Support Arg1:T98 Arg2:T86
+R37	Attack Arg1:T99 Arg2:T98
+R38	Attack Arg1:T99 Arg2:T86
 T7	Premise 3009 3076	Are you working harder to put food on the table, feed your children
 T8	Premise 3078 3122	Are your children getting a better education
 T9	Premise 2848 2940	We ask the people that are viewing tonight, are you better off than you were four years ago.
-R39	Support Arg1:T104 Arg2:T103	
-R40	Support Arg1:T9 Arg2:T7	
-R41	Support Arg1:T7 Arg2:T8	
-R42	Support Arg1:T100 Arg2:T9	
-R43	Support Arg1:T2 Arg2:T8	
-R44	Support Arg1:T2 Arg2:T101	
-R45	Support Arg1:T2 Arg2:T106	
+R39	Support Arg1:T104 Arg2:T103
+R40	Support Arg1:T9 Arg2:T7
+R41	Support Arg1:T7 Arg2:T8
+R42	Support Arg1:T100 Arg2:T9
+R43	Support Arg1:T2 Arg2:T8
+R44	Support Arg1:T2 Arg2:T101
+R45	Support Arg1:T2 Arg2:T106

@@ -18,28 +18,28 @@ T2	Question 8 136	Mr. Kemp, what, if anything, would a Dole/Kemp administration 
 T3	Premise 711 803	It certainly is for those of us like my wife and myself who have three adopted grandchildren
 T4	Premise 805 921	We thank God every night of our life that a young woman was given a choice, was given the opportunity to choose life
 T5	Claim 923 1064	This country should not be torn asunder over this debate, it has to be carried out with civility and respect, and Bob and I believe it can be
-R1	Support Arg1:T234 Arg2:T235	
+R1	Support Arg1:T234 Arg2:T235
 T6	Premise 1350 1431	I know it's a tragedy to many people both on the pro-choice and pro-life position
-R2	Support Arg1:T6 Arg2:T235	
-R3	Support Arg1:T229 Arg2:T1	
-R4	Support Arg1:T232 Arg2:T231	
-R5	Attack Arg1:T231 Arg2:T5	
-R6	Support Arg1:T233 Arg2:T231	
+R2	Support Arg1:T6 Arg2:T235
+R3	Support Arg1:T229 Arg2:T1
+R4	Support Arg1:T232 Arg2:T231
+R5	Attack Arg1:T231 Arg2:T5
+R6	Support Arg1:T233 Arg2:T231
 T7	Premise 651 681	this is a very emotional issue
-R7	Support Arg1:T3 Arg2:T7	
-R8	Support Arg1:T4 Arg2:T7	
-R9	Support Arg1:T7 Arg2:T231	
-R10	Support Arg1:T231 Arg2:T235	
+R7	Support Arg1:T3 Arg2:T7
+R8	Support Arg1:T4 Arg2:T7
+R9	Support Arg1:T7 Arg2:T231
+R10	Support Arg1:T231 Arg2:T235
 T8	Premise 1662 1957	President Clinton has made it clear that he will sign legislation outlawing procedures such as this if there is a -- an exception to protect the health of the mother where serious health consequences, such as the inability to have any further children, are involved and her doctor advises her so
-R11	Attack Arg1:T8 Arg2:T234	
-R12	Support Arg1:T8 Arg2:T236	
-R13	Support Arg1:T237 Arg2:T236	
-R14	Support Arg1:T238 Arg2:T236	
-R15	Support Arg1:T239 Arg2:T236	
-R16	Support Arg1:T240 Arg2:T241	
+R11	Attack Arg1:T8 Arg2:T234
+R12	Support Arg1:T8 Arg2:T236
+R13	Support Arg1:T237 Arg2:T236
+R14	Support Arg1:T238 Arg2:T236
+R15	Support Arg1:T239 Arg2:T236
+R16	Support Arg1:T240 Arg2:T241
 T9	Premise 2607 2647	We must use persuasion, not intimidation
-R17	Support Arg1:T9 Arg2:T241	
-R18	Attack Arg1:T242 Arg2:T237	
+R17	Support Arg1:T9 Arg2:T241
+R18	Attack Arg1:T242 Arg2:T237
 T10	Claim 2849 3102	to think that this administration vetoed the one chance they had to ban that practice without working with people in the Congress who would have loved to have had the opportunity to stop that gruesome practice is just unacceptable to the American people
-R19	Attack Arg1:T10 Arg2:T239	
-R20	Attack Arg1:T243 Arg2:T236	
+R19	Attack Arg1:T10 Arg2:T239
+R20	Attack Arg1:T243 Arg2:T236

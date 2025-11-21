@@ -71,28 +71,28 @@ T415	Premise 6710 6821	I did not want my child to grow up to be part of the firs
 T1	Claim 4204 4220	I'm not your man
 T2	Claim 1953 2066	Who has the perseverance, the character, the integrity, the maturity, to get the job done? I hope I'm that person
 T3	Premise 1681 1952	If in the next 5 minutes a television announcer came on and said, there is a major international crisis -- there is a major threat to the world or in this country a major threat -- my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?
-R1	Support Arg1:T3 Arg2:T2	
-R2	Support Arg1:T323 Arg2:T336	
-R3	Support Arg1:T409 Arg2:T337	
-R5	Support Arg1:T338 Arg2:T336	
-R6	Support Arg1:T339 Arg2:T336	
-R4	Support Arg1:T340 Arg2:T336	
+R1	Support Arg1:T3 Arg2:T2
+R2	Support Arg1:T323 Arg2:T336
+R3	Support Arg1:T409 Arg2:T337
+R5	Support Arg1:T338 Arg2:T336
+R6	Support Arg1:T339 Arg2:T336
+R4	Support Arg1:T340 Arg2:T336
 T4	Premise 2554 2600	Everybody says you can't do that with Congress
-R7	Attack Arg1:T343 Arg2:T4	
-R8	Support Arg1:T341 Arg2:T336	
-R9	Support Arg1:T368 Arg2:T367	
-R10	Support Arg1:T410 Arg2:T1	
-R11	Support Arg1:T365 Arg2:T366	
-R12	Support Arg1:T1 Arg2:T366	
-R13	Support Arg1:T367 Arg2:T366	
-R14	Support Arg1:T411 Arg2:T371	
-R15	Support Arg1:T372 Arg2:T411	
-R16	Support Arg1:T373 Arg2:T372	
-R17	Support Arg1:T412 Arg2:T372	
-R18	Support Arg1:T413 Arg2:T375	
-R19	Support Arg1:T376 Arg2:T413	
-R20	Support Arg1:T378 Arg2:T377	
-R21	Support Arg1:T379 Arg2:T377	
-R22	Support Arg1:T415 Arg2:T384	
-R23	Support Arg1:T384 Arg2:T385	
-R24	Equivalent Arg1:T385 Arg2:T386	
+R7	Attack Arg1:T343 Arg2:T4
+R8	Support Arg1:T341 Arg2:T336
+R9	Support Arg1:T368 Arg2:T367
+R10	Support Arg1:T410 Arg2:T1
+R11	Support Arg1:T365 Arg2:T366
+R12	Support Arg1:T1 Arg2:T366
+R13	Support Arg1:T367 Arg2:T366
+R14	Support Arg1:T411 Arg2:T371
+R15	Support Arg1:T372 Arg2:T411
+R16	Support Arg1:T373 Arg2:T372
+R17	Support Arg1:T412 Arg2:T372
+R18	Support Arg1:T413 Arg2:T375
+R19	Support Arg1:T376 Arg2:T413
+R20	Support Arg1:T378 Arg2:T377
+R21	Support Arg1:T379 Arg2:T377
+R22	Support Arg1:T415 Arg2:T384
+R23	Support Arg1:T384 Arg2:T385
+R24	Equivalent Arg1:T385 Arg2:T386

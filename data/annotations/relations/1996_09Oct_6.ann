@@ -16,26 +16,26 @@ T314	Premise 2321 2440	if the purpose of the tax code is to raise revenue. We ou
 T315	Claim 2463 2484	They can't go too low
 T316	Premise 2494 2520	there's not enough revenue
 T1	Question 8 215	Mr. Kemp, Senator Dole the other night criticized President Clinton for cutting defense spending and, thus, cutting jobs in California. Is that how defense spending should be seen, as a jobs program as well?
-R1	Support Arg1:T301 Arg2:T300	
-R2	Support Arg1:T302 Arg2:T300	
+R1	Support Arg1:T301 Arg2:T300
+R2	Support Arg1:T302 Arg2:T300
 T2	Premise 760 850	the type of changes that were made overnight in California caused very severe dislocations
-R3	Support Arg1:T2 Arg2:T303	
+R3	Support Arg1:T2 Arg2:T303
 T3	Premise 856 971	then, of course, the President ran out to California and announced, well, maybe we'll have another B-1or B-2 Bomber
-R4	Support Arg1:T3 Arg2:T303	
-R5	Support Arg1:T304 Arg2:T303	
-R6	Support Arg1:T305 Arg2:T306	
-R7	Attack Arg1:T308 Arg2:T301	
-R8	Support Arg1:T309 Arg2:T308	
-R9	Support Arg1:T310 Arg2:T307	
-R10	Support Arg1:T311 Arg2:T307	
-R11	Support Arg1:T312 Arg2:T307	
-R12	Attack Arg1:T307 Arg2:T306	
-R13	Attack Arg1:T313 Arg2:T312	
-R15	Support Arg1:T316 Arg2:T315	
+R4	Support Arg1:T3 Arg2:T303
+R5	Support Arg1:T304 Arg2:T303
+R6	Support Arg1:T305 Arg2:T306
+R7	Attack Arg1:T308 Arg2:T301
+R8	Support Arg1:T309 Arg2:T308
+R9	Support Arg1:T310 Arg2:T307
+R10	Support Arg1:T311 Arg2:T307
+R11	Support Arg1:T312 Arg2:T307
+R12	Attack Arg1:T307 Arg2:T306
+R13	Attack Arg1:T313 Arg2:T312
+R15	Support Arg1:T316 Arg2:T315
 T4	Premise 2628 2671	President Bush apologized for raising taxes
 T5	Premise 2526 2626	President Clinton apologized in Houston for saying, whoops, I raised your taxes and they're too high
-R17	Support Arg1:T4 Arg2:T315	
-R18	Support Arg1:T5 Arg2:T315	
+R17	Support Arg1:T4 Arg2:T315
+R18	Support Arg1:T5 Arg2:T315
 T6	Premise 3059 3276	In citing John F. Kennedy's tax cut in the 1960s, I want to also remind you that Mr. Kemp has pointed out in the past, Bob Dole was in the Congress then. He was one of those who voted against John F. Kennedy's tax cut
-R19	Attack Arg1:T6 Arg2:T314	
-R14	Support Arg1:T314 Arg2:T315	
+R19	Attack Arg1:T6 Arg2:T314
+R14	Support Arg1:T314 Arg2:T315

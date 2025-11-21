@@ -35,54 +35,54 @@ T455	Premise 3623 3692	It isn't the few people who live on them - they are not t
 T456	Claim 3694 3721	It's the principle involved
 T457	Premise 3723 3767	These two islands are in the area of freedom
 T458	Premise 3769 3808	The Nationalists have these two islands
-R1	Support Arg1:T417 Arg2:T418	
-R3	Equivalent Arg1:T426 Arg2:T425	
-R4	Equivalent Arg1:T425 Arg2:T415	
-R5	Equivalent Arg1:T426 Arg2:T415	
-R6	Equivalent Arg1:T425 Arg2:T417	
-R7	Equivalent Arg1:T417 Arg2:T426	
-R8	Support Arg1:T421 Arg2:T419	
-R9	Support Arg1:T422 Arg2:T419	
-R10	Support Arg1:T423 Arg2:T419	
-R11	Support Arg1:T427 Arg2:T428	
-R12	Support Arg1:T439 Arg2:T428	
-R13	Attack Arg1:T428 Arg2:T418	
-R14	Attack Arg1:T428 Arg2:T417	
-R15	Equivalent Arg1:T436 Arg2:T438	
-R16	Equivalent Arg1:T432 Arg2:T433	
-R20	Support Arg1:T430 Arg2:T428	
-R21	Support Arg1:T445 Arg2:T444	
-R22	Support Arg1:T443 Arg2:T444	
-R23	Attack Arg1:T442 Arg2:T441	
-R24	Support Arg1:T453 Arg2:T441	
-R25	Support Arg1:T454 Arg2:T440	
-R28	Support Arg1:T450 Arg2:T448	
-R30	Equivalent Arg1:T446 Arg2:T448	
-R31	Equivalent Arg1:T447 Arg2:T440	
+R1	Support Arg1:T417 Arg2:T418
+R3	Equivalent Arg1:T426 Arg2:T425
+R4	Equivalent Arg1:T425 Arg2:T415
+R5	Equivalent Arg1:T426 Arg2:T415
+R6	Equivalent Arg1:T425 Arg2:T417
+R7	Equivalent Arg1:T417 Arg2:T426
+R8	Support Arg1:T421 Arg2:T419
+R9	Support Arg1:T422 Arg2:T419
+R10	Support Arg1:T423 Arg2:T419
+R11	Support Arg1:T427 Arg2:T428
+R12	Support Arg1:T439 Arg2:T428
+R13	Attack Arg1:T428 Arg2:T418
+R14	Attack Arg1:T428 Arg2:T417
+R15	Equivalent Arg1:T436 Arg2:T438
+R16	Equivalent Arg1:T432 Arg2:T433
+R20	Support Arg1:T430 Arg2:T428
+R21	Support Arg1:T445 Arg2:T444
+R22	Support Arg1:T443 Arg2:T444
+R23	Attack Arg1:T442 Arg2:T441
+R24	Support Arg1:T453 Arg2:T441
+R25	Support Arg1:T454 Arg2:T440
+R28	Support Arg1:T450 Arg2:T448
+R30	Equivalent Arg1:T446 Arg2:T448
+R31	Equivalent Arg1:T447 Arg2:T440
 T1	Premise 371 517	the United States uh - has on occasion attempted uh - mostly in the middle fifties, to persuade Chiang Kai-shek to pull his troops back to Formosa
 T2	Premise 565 716	These islands are a few miles - five or six miles - off the coast of Red China, within a general harbor area and more than a hundred miles from Formosa
 T3	Claim 1200 1338	I believe that when you get into a w- if you're going to get into war for the defense of Formosa, it ought to be on a clearly defined line
 T4	Claim 2410 2458	I believe strongly we should d- do so in Formosa
 T5	Claim 3810 3908	We should not uh - force our Nationalist allies to get off of them and give them to the Communists
 T6	Premise 3959 4037	the Communists aren't after Quemoy and Matsu, they're a- they're after Formosa
-R34	Support Arg1:T2 Arg2:T417	
-R2	Support Arg1:T415 Arg2:T417	
-R32	Support Arg1:T1 Arg2:T415	
-R33	Attack Arg1:T419 Arg2:T417	
-R35	Attack Arg1:T419 Arg2:T3	
-R36	Attack Arg1:T437 Arg2:T435	
+R34	Support Arg1:T2 Arg2:T417
+R2	Support Arg1:T415 Arg2:T417
+R32	Support Arg1:T1 Arg2:T415
+R33	Attack Arg1:T419 Arg2:T417
+R35	Attack Arg1:T419 Arg2:T3
+R36	Attack Arg1:T437 Arg2:T435
 T7	Premise 2680 2739	as long as they are not essential to the defense of Formosa
 T8	Claim 2741 2902	it's been my judgment ever since 1954, at the time of the Eisenhower Doctrine for the Far East, that our line should be drawn in the sea around the island itself
-R17	Support Arg1:T7 Arg2:T8	
-R18	Support Arg1:T8 Arg2:T430	
+R17	Support Arg1:T7 Arg2:T8
+R18	Support Arg1:T8 Arg2:T430
 T9	Claim 2311 2362	I think that uh - we should protect our commitments
-R19	Support Arg1:T9 Arg2:T4	
-R37	Support Arg1:T432 Arg2:T433	
-R38	Support Arg1:T432 Arg2:T4	
-R39	Attack Arg1:T440 Arg2:T3	
-R40	Support Arg1:T444 Arg2:T440	
-R41	Support Arg1:T5 Arg2:T456	
-R27	Support Arg1:T458 Arg2:T5	
-R26	Support Arg1:T457 Arg2:T5	
-R42	Support Arg1:T6 Arg2:T450	
-R29	Support Arg1:T449 Arg2:T448	
+R19	Support Arg1:T9 Arg2:T4
+R37	Support Arg1:T432 Arg2:T433
+R38	Support Arg1:T432 Arg2:T4
+R39	Attack Arg1:T440 Arg2:T3
+R40	Support Arg1:T444 Arg2:T440
+R41	Support Arg1:T5 Arg2:T456
+R27	Support Arg1:T458 Arg2:T5
+R26	Support Arg1:T457 Arg2:T5
+R42	Support Arg1:T6 Arg2:T450
+R29	Support Arg1:T449 Arg2:T448

@@ -10,12 +10,12 @@ T120	Claim 947 1176	it is a fact that through most of these last twenty-five yea
 T121	Premise 668 794	I come out of the Democratic party, which in this century has produced Woodrow Wilson and Franklin Roosevelt and Harry Truman,
 T122	Premise 799 873	which supported and sustained these programs which I've discussed tonight.
 T123	Claim 1232 1266	I hope he would grant me the same.
-R1	Support Arg1:T112 Arg2:T115	
-R2	Support Arg1:T113 Arg2:T115	
-R3	Support Arg1:T114 Arg2:T115	
-R4	Attack Arg1:T115 Arg2:T111	
-R6	Support Arg1:T118 Arg2:T117	
-R7	Support Arg1:T119 Arg2:T117	
-R8	Support Arg1:T117 Arg2:T123	
-R9	Support Arg1:T121 Arg2:T123	
-R5	Support Arg1:T122 Arg2:T123	
+R1	Support Arg1:T112 Arg2:T115
+R2	Support Arg1:T113 Arg2:T115
+R3	Support Arg1:T114 Arg2:T115
+R4	Attack Arg1:T115 Arg2:T111
+R6	Support Arg1:T118 Arg2:T117
+R7	Support Arg1:T119 Arg2:T117
+R8	Support Arg1:T117 Arg2:T123
+R9	Support Arg1:T121 Arg2:T123
+R5	Support Arg1:T122 Arg2:T123

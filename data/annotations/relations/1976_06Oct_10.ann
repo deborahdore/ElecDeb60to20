@@ -30,30 +30,30 @@ T31	Claim 6948 6978	I hope Mr. Ford doesn't either
 T32	Premise 7313 7360	We were peaceful when Mr. Ford went into office
 T33	Premise 7366 7436	he and Mr. Kissinger and others tried to start a new Vietnam in Angola
 T34	Claim 7442 7624	it was only the outcry of the American people and the Congress when their secret deal was discovered that prevented our involvement in that conflagration which was taking place there
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T3 Arg2:T2	
-R3	Support Arg1:T4 Arg2:T3	
-R4	Support Arg1:T5 Arg2:T3	
-R5	Support Arg1:T5 Arg2:T1	
-R6	Support Arg1:T5 Arg2:T6	
-R7	Support Arg1:T6 Arg2:T1	
-R8	Support Arg1:T8 Arg2:T7	
-R9	Support Arg1:T9 Arg2:T7	
-R10	Support Arg1:T8 Arg2:T9	
-R11	Support Arg1:T9 Arg2:T10	
-R12	Support Arg1:T10 Arg2:T7	
-R13	Support Arg1:T7 Arg2:T11	
-R14	Support Arg1:T11 Arg2:T13	
-R15	Support Arg1:T13 Arg2:T1	
-R16	Support Arg1:T12 Arg2:T14	
-R17	Support Arg1:T14 Arg2:T15	
-R18	Support Arg1:T15 Arg2:T13	
-R19	Support Arg1:T14 Arg2:T13	
-R20	Support Arg1:T12 Arg2:T13	
-R21	Support Arg1:T13 Arg2:T16	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T3 Arg2:T2
+R3	Support Arg1:T4 Arg2:T3
+R4	Support Arg1:T5 Arg2:T3
+R5	Support Arg1:T5 Arg2:T1
+R6	Support Arg1:T5 Arg2:T6
+R7	Support Arg1:T6 Arg2:T1
+R8	Support Arg1:T8 Arg2:T7
+R9	Support Arg1:T9 Arg2:T7
+R10	Support Arg1:T8 Arg2:T9
+R11	Support Arg1:T9 Arg2:T10
+R12	Support Arg1:T10 Arg2:T7
+R13	Support Arg1:T7 Arg2:T11
+R14	Support Arg1:T11 Arg2:T13
+R15	Support Arg1:T13 Arg2:T1
+R16	Support Arg1:T12 Arg2:T14
+R17	Support Arg1:T14 Arg2:T15
+R18	Support Arg1:T15 Arg2:T13
+R19	Support Arg1:T14 Arg2:T13
+R20	Support Arg1:T12 Arg2:T13
+R21	Support Arg1:T13 Arg2:T16
 T35	Claim 3660 3707	we will do it with the highest moral principles
-R22	Support Arg1:T35 Arg2:T16	
-R23	Support Arg1:T1 Arg2:T35	
+R22	Support Arg1:T35 Arg2:T16
+R23	Support Arg1:T1 Arg2:T35
 T36	Claim 4159 4210	the United States must not spread itself too thinly
 T37	Premise 4213 4292	that was one of the problems that helped to create the circumstances in Vietnam
 T38	Claim 4439 4512	United States will take the leadership and try to resolve the differences
@@ -69,35 +69,35 @@ T45	Premise 5445 5511	I think the opportunities and the possibilities are gettin
 T46	Claim 5514 5617	e will have solved many of the internal domestic problems that exist in South Korea at the present time
 T47	Claim 6101 6163	He says we have to move from one area of the world to another.
 T48	Claim 6577 6736	what Mr. Ford said about unemployment, that - insinuating that under Johnson and Kennedy that unemployment could only be held down when this country is at war.
-R24	Support Arg1:T37 Arg2:T36	
-R25	Support Arg1:T39 Arg2:T38	
-R26	Attack Arg1:T36 Arg2:T38	
-R27	Support Arg1:T19 Arg2:T17	
-R28	Support Arg1:T41 Arg2:T17	
-R29	Support Arg1:T42 Arg2:T17	
-R30	Attack Arg1:T40 Arg2:T17	
-R31	Support Arg1:T17 Arg2:T43	
-R32	Support Arg1:T44 Arg2:T20	
-R33	Support Arg1:T45 Arg2:T18	
-R34	Support Arg1:T18 Arg2:T20	
-R35	Support Arg1:T38 Arg2:T20	
-R36	Support Arg1:T46 Arg2:T20	
-R37	Support Arg1:T45 Arg2:T46	
+R24	Support Arg1:T37 Arg2:T36
+R25	Support Arg1:T39 Arg2:T38
+R26	Attack Arg1:T36 Arg2:T38
+R27	Support Arg1:T19 Arg2:T17
+R28	Support Arg1:T41 Arg2:T17
+R29	Support Arg1:T42 Arg2:T17
+R30	Attack Arg1:T40 Arg2:T17
+R31	Support Arg1:T17 Arg2:T43
+R32	Support Arg1:T44 Arg2:T20
+R33	Support Arg1:T45 Arg2:T18
+R34	Support Arg1:T18 Arg2:T20
+R35	Support Arg1:T38 Arg2:T20
+R36	Support Arg1:T46 Arg2:T20
+R37	Support Arg1:T45 Arg2:T46
 T49	Premise 5671 5723	Mr. Ford didn't comment on the uh - prisons in Chile
-R38	Support Arg1:T49 Arg2:T21	
-R39	Support Arg1:T22 Arg2:T23	
-R40	Support Arg1:T23 Arg2:T21	
-R41	Support Arg1:T47 Arg2:T24	
+R38	Support Arg1:T49 Arg2:T21
+R39	Support Arg1:T22 Arg2:T23
+R40	Support Arg1:T23 Arg2:T21
+R41	Support Arg1:T47 Arg2:T24
 T50	Premise 4104 4152	as we move to one area of the world from another
-R42	Support Arg1:T50 Arg2:T36	
-R43	Attack Arg1:T47 Arg2:T50	
-R44	Support Arg1:T24 Arg2:T38	
-R45	Support Arg1:T25 Arg2:T24	
-R46	Support Arg1:T28 Arg2:T27	
-R47	Support Arg1:T25 Arg2:T26	
-R48	Support Arg1:T27 Arg2:T48	
-R49	Attack Arg1:T29 Arg2:T48	
-R50	Attack Arg1:T29 Arg2:T27	
-R51	Support Arg1:T31 Arg2:T29	
-R52	Support Arg1:T32 Arg2:T33	
-R53	Support Arg1:T33 Arg2:T34	
+R42	Support Arg1:T50 Arg2:T36
+R43	Attack Arg1:T47 Arg2:T50
+R44	Support Arg1:T24 Arg2:T38
+R45	Support Arg1:T25 Arg2:T24
+R46	Support Arg1:T28 Arg2:T27
+R47	Support Arg1:T25 Arg2:T26
+R48	Support Arg1:T27 Arg2:T48
+R49	Attack Arg1:T29 Arg2:T48
+R50	Attack Arg1:T29 Arg2:T27
+R51	Support Arg1:T31 Arg2:T29
+R52	Support Arg1:T32 Arg2:T33
+R53	Support Arg1:T33 Arg2:T34

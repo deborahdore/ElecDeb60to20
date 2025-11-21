@@ -27,53 +27,53 @@ T886	Claim 3804 3859	We've got to open up the possibilities of this research
 T887	Claim 3865 3904	when I am president, I'm going to do it
 T889	Premise 3486 3801	the lines of stem cells that he's made available, every scientist in the country will tell you, "Not adequate," because they're contaminated by mouse cells, and because there aren't 60 or 70 -- they're are only about 11 to 20 now -- and there aren't enough to be able to do the research because they're contaminated
 T1	Premise 3913 3923	we have to
-R1	Support Arg1:T860 Arg2:T861	
+R1	Support Arg1:T860 Arg2:T861
 T2	Premise 623 779	I was at a forum with Michael J. Fox the other day in New Hampshire, who's suffering from Parkinson's, and he wants us to do stem cell, embryonic stem cell.
 T3	Premise 785 827	this fellow stood up, and he was quivering
 T4	Premise 829 912	His whole body was shaking from the nerve disease, the muscular disease that he had
 T5	Premise 915 1041	And he said to me and to the whole hall, he said, "You know, don't take away my hope, because my hope is what keeps me going."
 T6	Premise 1043 1074	Chris Reeve is a friend of mine
 T7	Premise 1076 1219	Chris Reeve exercises every single day to keep those muscles alive for the day when he believes he can walk again, and I want him to walk again
-R2	Support Arg1:T2 Arg2:T3	
-R3	Support Arg1:T3 Arg2:T4	
-R4	Support Arg1:T4 Arg2:T5	
-R5	Support Arg1:T5 Arg2:T6	
-R6	Support Arg1:T6 Arg2:T7	
-R7	Support Arg1:T7 Arg2:T860	
-R8	Support Arg1:T863 Arg2:T862	
-R9	Support Arg1:T862 Arg2:T864	
-R10	Support Arg1:T864 Arg2:T865	
-R11	Support Arg1:T871 Arg2:T866	
-R12	Support Arg1:T865 Arg2:T866	
-R13	Support Arg1:T867 Arg2:T866	
-R14	Attack Arg1:T866 Arg2:T868	
-R15	Support Arg1:T869 Arg2:T870	
-R16	Support Arg1:T870 Arg2:T866	
-R17	Attack Arg1:T870 Arg2:T868	
-R18	Support Arg1:T873 Arg2:T874	
-R19	Support Arg1:T874 Arg2:T876	
-R20	Attack Arg1:T872 Arg2:T876	
-R21	Support Arg1:T872 Arg2:T877	
-R22	Support Arg1:T878 Arg2:T877	
-R23	Support Arg1:T879 Arg2:T877	
-R24	Support Arg1:T885 Arg2:T884	
-R25	Support Arg1:T880 Arg2:T872	
-R26	Support Arg1:T881 Arg2:T877	
-R27	Support Arg1:T883 Arg2:T884	
-R28	Support Arg1:T882 Arg2:T884	
-R29	Support Arg1:T884 Arg2:T877	
+R2	Support Arg1:T2 Arg2:T3
+R3	Support Arg1:T3 Arg2:T4
+R4	Support Arg1:T4 Arg2:T5
+R5	Support Arg1:T5 Arg2:T6
+R6	Support Arg1:T6 Arg2:T7
+R7	Support Arg1:T7 Arg2:T860
+R8	Support Arg1:T863 Arg2:T862
+R9	Support Arg1:T862 Arg2:T864
+R10	Support Arg1:T864 Arg2:T865
+R11	Support Arg1:T871 Arg2:T866
+R12	Support Arg1:T865 Arg2:T866
+R13	Support Arg1:T867 Arg2:T866
+R14	Attack Arg1:T866 Arg2:T868
+R15	Support Arg1:T869 Arg2:T870
+R16	Support Arg1:T870 Arg2:T866
+R17	Attack Arg1:T870 Arg2:T868
+R18	Support Arg1:T873 Arg2:T874
+R19	Support Arg1:T874 Arg2:T876
+R20	Attack Arg1:T872 Arg2:T876
+R21	Support Arg1:T872 Arg2:T877
+R22	Support Arg1:T878 Arg2:T877
+R23	Support Arg1:T879 Arg2:T877
+R24	Support Arg1:T885 Arg2:T884
+R25	Support Arg1:T880 Arg2:T872
+R26	Support Arg1:T881 Arg2:T877
+R27	Support Arg1:T883 Arg2:T884
+R28	Support Arg1:T882 Arg2:T884
+R29	Support Arg1:T884 Arg2:T877
 T8	Premise 3273 3412	he says he's allowed it, which means he's going to allow the destruction of life up to a certain amount and then he isn't going to allow it
 T9	Premise 3414 3450	I don't know how you draw that line.
-R30	Attack Arg1:T9 Arg2:T8	
-R31	Attack Arg1:T889 Arg2:T877	
-R32	Attack Arg1:T886 Arg2:T889	
-R33	Support Arg1:T1 Arg2:T887	
-R34	Support Arg1:T886 Arg2:T887	
+R30	Attack Arg1:T9 Arg2:T8
+R31	Attack Arg1:T889 Arg2:T877
+R32	Attack Arg1:T886 Arg2:T889
+R33	Support Arg1:T1 Arg2:T887
+R34	Support Arg1:T886 Arg2:T887
 T10	Claim 4002 4041	Those stem- cells lines already existed
 T11	Premise 4043 4101	The embryo had already been destroyed prior to my decision
 T12	Premise 4103 4185	I had to make the decision to destroy more life, so do we continue to destroy life
 T13	Claim 4189 4238	I made the decision to balance science and ethics
-R35	Support Arg1:T11 Arg2:T12	
-R36	Support Arg1:T12 Arg2:T13	
-R37	Support Arg1:T13 Arg2:T10	
-R38	Support Arg1:T11 Arg2:T10	
+R35	Support Arg1:T11 Arg2:T12
+R36	Support Arg1:T12 Arg2:T13
+R37	Support Arg1:T13 Arg2:T10
+R38	Support Arg1:T11 Arg2:T10

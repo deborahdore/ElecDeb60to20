@@ -36,47 +36,47 @@ T224	Claim 3623 3699	trained people in these newly developing countries can oper
 T225	Claim 3701 3837	We also have to have in mind something else with regard to this whole situation in the world, and that is: that as America moves forward
 T226	Claim 3839 3971	we not only must think in terms of fighting Communism, but we must also think primarily in terms of the interests of these countries
 T227	Claim 3973 4023	We must associate ourselves with their aspirations
-R2	Support Arg1:T202 Arg2:T203	
-R3	Support Arg1:T201 Arg2:T203	
-R4	Support Arg1:T200 Arg2:T201	
-R5	Support Arg1:T197 Arg2:T198	
-R6	Equivalent Arg1:T199 Arg2:T198	
-R7	Support Arg1:T196 Arg2:T195	
-R8	Support Arg1:T194 Arg2:T197	
-R10	Support Arg1:T190 Arg2:T191	
-R12	Support Arg1:T197 Arg2:T191	
-R13	Support Arg1:T187 Arg2:T186	
-R14	Support Arg1:T189 Arg2:T186	
-R16	Support Arg1:T188 Arg2:T189	
-R18	Support Arg1:T183 Arg2:T185	
-R21	Equivalent Arg1:T184 Arg2:T186	
-R22	Support Arg1:T223 Arg2:T224	
-R23	Support Arg1:T215 Arg2:T224	
-R24	Support Arg1:T224 Arg2:T213	
-R26	Equivalent Arg1:T227 Arg2:T226	
-R28	Support Arg1:T227 Arg2:T218	
-R29	Attack Arg1:T222 Arg2:T218	
-R30	Support Arg1:T221 Arg2:T224	
-R31	Support Arg1:T220 Arg2:T219	
-R32	Equivalent Arg1:T219 Arg2:T216	
-R33	Support Arg1:T217 Arg2:T219	
-R34	Equivalent Arg1:T217 Arg2:T216	
+R2	Support Arg1:T202 Arg2:T203
+R3	Support Arg1:T201 Arg2:T203
+R4	Support Arg1:T200 Arg2:T201
+R5	Support Arg1:T197 Arg2:T198
+R6	Equivalent Arg1:T199 Arg2:T198
+R7	Support Arg1:T196 Arg2:T195
+R8	Support Arg1:T194 Arg2:T197
+R10	Support Arg1:T190 Arg2:T191
+R12	Support Arg1:T197 Arg2:T191
+R13	Support Arg1:T187 Arg2:T186
+R14	Support Arg1:T189 Arg2:T186
+R16	Support Arg1:T188 Arg2:T189
+R18	Support Arg1:T183 Arg2:T185
+R21	Equivalent Arg1:T184 Arg2:T186
+R22	Support Arg1:T223 Arg2:T224
+R23	Support Arg1:T215 Arg2:T224
+R24	Support Arg1:T224 Arg2:T213
+R26	Equivalent Arg1:T227 Arg2:T226
+R28	Support Arg1:T227 Arg2:T218
+R29	Attack Arg1:T222 Arg2:T218
+R30	Support Arg1:T221 Arg2:T224
+R31	Support Arg1:T220 Arg2:T219
+R32	Equivalent Arg1:T219 Arg2:T216
+R33	Support Arg1:T217 Arg2:T219
+R34	Equivalent Arg1:T217 Arg2:T216
 T1	Claim 2475 2700	here in a country which if it is moving ahead, if it's developing its economy to the fullest - which we are not now - in my judgment, we'll have the resources to meet our military commitments and also our commitments overseas
 T2	Claim 3376 3544	it's also tremendously important to bear in mind that when you pour in money without pouring in technical assistance at w- as well, that you have a disastrous situation
 T3	Premise 1118 1217	We paid more military aid, more aid into Laos po- per - per person than in any country in the world
 T4	Premise 583 847	we passed an authorization - not an aid bill - which was the first time, really, since the Inter-American Bank which was founded a year ago was developed, that we really have looked at the needs of Latin America; that we have associated ourselves with those people
 T6	Claim 4025 4249	We must let them know that the great American ideals - of independence, of the right of people to be free, and of the right to progress - that these are ideals that belong not to ourselves alone, but they belong to everybody
-R1	Support Arg1:T209 Arg2:T208	
-R35	Support Arg1:T210 Arg2:T208	
+R1	Support Arg1:T209 Arg2:T208
+R35	Support Arg1:T210 Arg2:T208
 T7	Claim 859 1003	I believe that in the ca- that it's far better for the United States, instead of concentrating our aid, particularly in the underdeveloped world
 T8	Premise 1005 1116	on surplus military equipment - we poured three hundred million dollars of surplus military equipment into Laos
-R36	Attack Arg1:T8 Arg2:T7	
-R37	Support Arg1:T3 Arg2:T8	
-R38	Support Arg1:T205 Arg2:T7	
-R39	Support Arg1:T4 Arg2:T7	
-R9	Support Arg1:T186 Arg2:T1	
-R11	Support Arg1:T1 Arg2:T191	
-R15	Support Arg1:T212 Arg2:T213	
-R17	Attack Arg1:T213 Arg2:T2	
-R19	Support Arg1:T2 Arg2:T226	
-R20	Support Arg1:T6 Arg2:T218	
+R36	Attack Arg1:T8 Arg2:T7
+R37	Support Arg1:T3 Arg2:T8
+R38	Support Arg1:T205 Arg2:T7
+R39	Support Arg1:T4 Arg2:T7
+R9	Support Arg1:T186 Arg2:T1
+R11	Support Arg1:T1 Arg2:T191
+R15	Support Arg1:T212 Arg2:T213
+R17	Attack Arg1:T213 Arg2:T2
+R19	Support Arg1:T2 Arg2:T226
+R20	Support Arg1:T6 Arg2:T218

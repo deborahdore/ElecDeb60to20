@@ -52,54 +52,54 @@ T557	Premise 7454 7517	it wasn't me that turned it down, the Soviet Union disavo
 T214	Claim 7879 7951	this administration turned down the "walk in the woods'' agreement first
 T558	Claim 7957 8065	that would have been a perfect agreement from the standpoint of the United States in Europe and our security
 T1	Claim 2974 2976	No
-R1	Support Arg1:T181 Arg2:T180	
-R2	Support Arg1:T182 Arg2:T181	
-R3	Support Arg1:T435 Arg2:T434	
-R4	Support Arg1:T434 Arg2:T436	
-R5	Support Arg1:T437 Arg2:T436	
-R6	Support Arg1:T551 Arg2:T550	
-R7	Support Arg1:T438 Arg2:T550	
-R8	Support Arg1:T184 Arg2:T1	
-R9	Support Arg1:T185 Arg2:T184	
-R10	Support Arg1:T552 Arg2:T184	
-R11	Support Arg1:T553 Arg2:T184	
-R12	Support Arg1:T188 Arg2:T185	
-R13	Support Arg1:T554 Arg2:T189	
-R14	Support Arg1:T189 Arg2:T188	
-R15	Support Arg1:T555 Arg2:T190	
-R16	Support Arg1:T190 Arg2:T188	
-R17	Support Arg1:T191 Arg2:T188	
-R18	Support Arg1:T192 Arg2:T191	
-R19	Support Arg1:T187 Arg2:T186	
-R20	Support Arg1:T194 Arg2:T193	
-R21	Support Arg1:T195 Arg2:T193	
-R22	Support Arg1:T193 Arg2:T196	
-R23	Equivalent Arg1:T196 Arg2:T187	
-R24	Support Arg1:T199 Arg2:T198	
-R25	Support Arg1:T196 Arg2:T197	
-R26	Support Arg1:T186 Arg2:T197	
-R27	Support Arg1:T188 Arg2:T197	
+R1	Support Arg1:T181 Arg2:T180
+R2	Support Arg1:T182 Arg2:T181
+R3	Support Arg1:T435 Arg2:T434
+R4	Support Arg1:T434 Arg2:T436
+R5	Support Arg1:T437 Arg2:T436
+R6	Support Arg1:T551 Arg2:T550
+R7	Support Arg1:T438 Arg2:T550
+R8	Support Arg1:T184 Arg2:T1
+R9	Support Arg1:T185 Arg2:T184
+R10	Support Arg1:T552 Arg2:T184
+R11	Support Arg1:T553 Arg2:T184
+R12	Support Arg1:T188 Arg2:T185
+R13	Support Arg1:T554 Arg2:T189
+R14	Support Arg1:T189 Arg2:T188
+R15	Support Arg1:T555 Arg2:T190
+R16	Support Arg1:T190 Arg2:T188
+R17	Support Arg1:T191 Arg2:T188
+R18	Support Arg1:T192 Arg2:T191
+R19	Support Arg1:T187 Arg2:T186
+R20	Support Arg1:T194 Arg2:T193
+R21	Support Arg1:T195 Arg2:T193
+R22	Support Arg1:T193 Arg2:T196
+R23	Equivalent Arg1:T196 Arg2:T187
+R24	Support Arg1:T199 Arg2:T198
+R25	Support Arg1:T196 Arg2:T197
+R26	Support Arg1:T186 Arg2:T197
+R27	Support Arg1:T188 Arg2:T197
 T2	Claim 5743 5777	I don't admire Fidel Castro at all
 T3	Premise 5779 5797	And I've said that
-R28	Support Arg1:T3 Arg2:T2	
-R29	Support Arg1:T556 Arg2:T202	
-R30	Support Arg1:T205 Arg2:T204	
+R28	Support Arg1:T3 Arg2:T2
+R29	Support Arg1:T556 Arg2:T202
+R30	Support Arg1:T205 Arg2:T204
 T4	Premise 6109 6226	the Vice President of the United States said that I said the marines had died shamefully and died in shame in Lebanon
 T5	Claim 6228 6274	I demanded an apology from Vice President Bush
 T6	Claim 6283 6411	I had, instead, honored these young men, grieved for their families, and think they were wonderful Americans that honored us all
-R31	Support Arg1:T6 Arg2:T5	
-R32	Support Arg1:T208 Arg2:T207	
-R33	Support Arg1:T209 Arg2:T207	
-R34	Support Arg1:T557 Arg2:T210	
-R35	Support Arg1:T557 Arg2:T207	
-R36	Support Arg1:T212 Arg2:T211	
-R37	Support Arg1:T213 Arg2:T211	
-R38	Support Arg1:T558 Arg2:T214	
-R39	Support Arg1:T214 Arg2:T216	
-R40	Support Arg1:T215 Arg2:T216	
+R31	Support Arg1:T6 Arg2:T5
+R32	Support Arg1:T208 Arg2:T207
+R33	Support Arg1:T209 Arg2:T207
+R34	Support Arg1:T557 Arg2:T210
+R35	Support Arg1:T557 Arg2:T207
+R36	Support Arg1:T212 Arg2:T211
+R37	Support Arg1:T213 Arg2:T211
+R38	Support Arg1:T558 Arg2:T214
+R39	Support Arg1:T214 Arg2:T216
+R40	Support Arg1:T215 Arg2:T216
 T7	Claim 8260 8291	Now we have a runaway arms race
-R41	Support Arg1:T216 Arg2:T7	
-R42	Support Arg1:T217 Arg2:T216	
+R41	Support Arg1:T216 Arg2:T7
+R42	Support Arg1:T217 Arg2:T216
 T8	Claim 8430 8521	They're tough negotiators, but all previous Presidents have made progress. This one has not
-R43	Support Arg1:T8 Arg2:T216	
-R44	Support Arg1:T217 Arg2:T8	
+R43	Support Arg1:T8 Arg2:T216
+R44	Support Arg1:T217 Arg2:T8

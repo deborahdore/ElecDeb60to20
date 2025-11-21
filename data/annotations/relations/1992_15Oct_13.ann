@@ -18,14 +18,14 @@ T317	Premise 3680 3750	These are people that I just happen to know and have a hi
 T318	Claim 4011 4030	I can think of many
 T319	Premise 4103 4147	How about Sandra Day O'Connor as an example?
 T307	Premise 1296 1428	according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time
-R1	Support Arg1:T301 Arg2:T300	
-R2	Support Arg1:T306 Arg2:T302	
-R3	Support Arg1:T307 Arg2:T306	
-R4	Support Arg1:T308 Arg2:T303	
-R5	Support Arg1:T309 Arg2:T303	
-R6	Support Arg1:T310 Arg2:T303	
-R7	Support Arg1:T303 Arg2:T304	
-R8	Support Arg1:T302 Arg2:T304	
+R1	Support Arg1:T301 Arg2:T300
+R2	Support Arg1:T306 Arg2:T302
+R3	Support Arg1:T307 Arg2:T306
+R4	Support Arg1:T308 Arg2:T303
+R5	Support Arg1:T309 Arg2:T303
+R6	Support Arg1:T310 Arg2:T303
+R7	Support Arg1:T303 Arg2:T304
+R8	Support Arg1:T302 Arg2:T304
 T1	Premise 3639 3678	why do you keep picking military people
-R9	Attack Arg1:T1 Arg2:T316	
-R10	Support Arg1:T316 Arg2:T315	
+R9	Attack Arg1:T1 Arg2:T316
+R10	Support Arg1:T316 Arg2:T315

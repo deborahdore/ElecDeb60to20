@@ -42,39 +42,39 @@ T500	Claim 4444 4541	We are for more tax cuts for the middle class than they're 
 T501	Claim 4547 4597	we are not for more tax cuts for multimillionaires
 T502	Premise 4599 4607	They are
 T503	Claim 4614 4694	it is a fundamental difference in what we think needs to be done in this country
-R1	Attack Arg1:T464 Arg2:T463	
-R2	Support Arg1:T464 Arg2:T461	
-R3	Support Arg1:T462 Arg2:T461	
-R4	Support Arg1:T465 Arg2:T466	
-R5	Support Arg1:T467 Arg2:T468	
-R6	Support Arg1:T468 Arg2:T460	
-R7	Support Arg1:T471 Arg2:T467	
-R8	Support Arg1:T472 Arg2:T467	
-R9	Support Arg1:T473 Arg2:T467	
-R10	Support Arg1:T474 Arg2:T467	
-R11	Support Arg1:T475 Arg2:T467	
-R12	Support Arg1:T476 Arg2:T477	
-R13	Support Arg1:T478 Arg2:T477	
-R14	Support Arg1:T477 Arg2:T467	
-R15	Support Arg1:T480 Arg2:T479	
-*	Equivalent T483 T482
-R16	Support Arg1:T481 Arg2:T468	
-R17	Support Arg1:T484 Arg2:T468	
-R18	Support Arg1:T485 Arg2:T468	
-R19	Support Arg1:T488 Arg2:T486	
-R20	Attack Arg1:T487 Arg2:T486	
-R21	Attack Arg1:T492 Arg2:T491	
-R22	Support Arg1:T493 Arg2:T489	
-R23	Support Arg1:T490 Arg2:T489	
-R24	Support Arg1:T489 Arg2:T487	
-R25	Support Arg1:T494 Arg2:T489	
-R26	Support Arg1:T497 Arg2:T496	
-R27	Support Arg1:T499 Arg2:T498	
-R28	Support Arg1:T502 Arg2:T503	
+R1	Attack Arg1:T464 Arg2:T463
+R2	Support Arg1:T464 Arg2:T461
+R3	Support Arg1:T462 Arg2:T461
+R4	Support Arg1:T465 Arg2:T466
+R5	Support Arg1:T467 Arg2:T468
+R6	Support Arg1:T468 Arg2:T460
+R7	Support Arg1:T471 Arg2:T467
+R8	Support Arg1:T472 Arg2:T467
+R9	Support Arg1:T473 Arg2:T467
+R10	Support Arg1:T474 Arg2:T467
+R11	Support Arg1:T475 Arg2:T467
+R12	Support Arg1:T476 Arg2:T477
+R13	Support Arg1:T478 Arg2:T477
+R14	Support Arg1:T477 Arg2:T467
+R15	Support Arg1:T480 Arg2:T479
+R16	Support Arg1:T481 Arg2:T468
+R17	Support Arg1:T484 Arg2:T468
+R18	Support Arg1:T485 Arg2:T468
+R19	Support Arg1:T488 Arg2:T486
+R20	Attack Arg1:T487 Arg2:T486
+R21	Attack Arg1:T492 Arg2:T491
+R22	Support Arg1:T493 Arg2:T489
+R23	Support Arg1:T490 Arg2:T489
+R24	Support Arg1:T489 Arg2:T487
+R25	Support Arg1:T494 Arg2:T489
+R26	Support Arg1:T497 Arg2:T496
+R27	Support Arg1:T499 Arg2:T498
+R28	Support Arg1:T502 Arg2:T503
 T1	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
 T2	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
 T3	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
-R30	Support Arg1:T500 Arg2:T498	
-R31	Support Arg1:T501 Arg2:T503	
-R29	Attack Arg1:T2 Arg2:T501	
-R32	Attack Arg1:T3 Arg2:T500	
+R30	Support Arg1:T500 Arg2:T498
+R31	Support Arg1:T501 Arg2:T503
+R29	Attack Arg1:T2 Arg2:T501
+R32	Attack Arg1:T3 Arg2:T500
+R33	Equivalent Arg1:T483 Arg2:T482

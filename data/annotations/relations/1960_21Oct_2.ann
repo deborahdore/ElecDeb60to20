@@ -30,30 +30,30 @@ T175	Premise 4786 4930	His influence is strong enough today to prevent us from j
 T176	Claim 4932 4956	His influence is growing
 T177	Premise 4974 5019	this Administration has ignored Latin America
 T178	Premise 5021 5193	You yourself said, Mr. Vice President, a month ago, that if we had provided the kind of economic aid five years ago that we are now providing we might never have had Castro
-R2	Support Arg1:T152 Arg2:T146	
-R3	Support Arg1:T149 Arg2:T151	
-R4	Support Arg1:T150 Arg2:T151	
-R5	Support Arg1:T159 Arg2:T158	
-R6	Support Arg1:T157 Arg2:T154	
-R7	Support Arg1:T161 Arg2:T160	
-R8	Support Arg1:T156 Arg2:T162	
-R9	Support Arg1:T157 Arg2:T162	
-R11	Support Arg1:T166 Arg2:T165	
-R12	Support Arg1:T167 Arg2:T164	
-R13	Attack Arg1:T164 Arg2:T154	
-R14	Attack Arg1:T164 Arg2:T146	
-R15	Support Arg1:T165 Arg2:T164	
-R16	Support Arg1:T168 Arg2:T167	
-R17	Support Arg1:T169 Arg2:T168	
-R18	Support Arg1:T173 Arg2:T172	
-R19	Support Arg1:T175 Arg2:T173	
-R20	Support Arg1:T177 Arg2:T176	
-R21	Support Arg1:T178 Arg2:T177	
-R22	Support Arg1:T177 Arg2:T170	
+R2	Support Arg1:T152 Arg2:T146
+R3	Support Arg1:T149 Arg2:T151
+R4	Support Arg1:T150 Arg2:T151
+R5	Support Arg1:T159 Arg2:T158
+R6	Support Arg1:T157 Arg2:T154
+R7	Support Arg1:T161 Arg2:T160
+R8	Support Arg1:T156 Arg2:T162
+R9	Support Arg1:T157 Arg2:T162
+R11	Support Arg1:T166 Arg2:T165
+R12	Support Arg1:T167 Arg2:T164
+R13	Attack Arg1:T164 Arg2:T154
+R14	Attack Arg1:T164 Arg2:T146
+R15	Support Arg1:T165 Arg2:T164
+R16	Support Arg1:T168 Arg2:T167
+R17	Support Arg1:T169 Arg2:T168
+R18	Support Arg1:T173 Arg2:T172
+R19	Support Arg1:T175 Arg2:T173
+R20	Support Arg1:T177 Arg2:T176
+R21	Support Arg1:T178 Arg2:T177
+R22	Support Arg1:T177 Arg2:T170
 T1	Claim 792 823	Our policies are very different
-R23	Support Arg1:T146 Arg2:T1	
-R24	Support Arg1:T147 Arg2:T146	
-R1	Support Arg1:T151 Arg2:T146	
-R10	Support Arg1:T155 Arg2:T154	
-R25	Support Arg1:T158 Arg2:T154	
-R26	Attack Arg1:T176 Arg2:T173	
+R23	Support Arg1:T146 Arg2:T1
+R24	Support Arg1:T147 Arg2:T146
+R1	Support Arg1:T151 Arg2:T146
+R10	Support Arg1:T155 Arg2:T154
+R25	Support Arg1:T158 Arg2:T154
+R26	Attack Arg1:T176 Arg2:T173

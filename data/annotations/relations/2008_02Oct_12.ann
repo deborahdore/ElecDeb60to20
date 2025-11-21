@@ -32,34 +32,34 @@ T775	Claim 5071 5157	Or you support a ticket that supports policies that will ki
 T776	Premise 5159 5304	And that's what the track record shows, is a desire to increase taxes, increase spending, a trillion-dollar spending proposal that's on the table
 T777	Premise 5306 5376	That's going to hurt our country, and saying no to energy independence
 T778	Claim 5378 5407	Clear choices on November 4th
-R1	Support Arg1:T744 Arg2:T745	
-R2	Support Arg1:T745 Arg2:T746	
+R1	Support Arg1:T744 Arg2:T745
+R2	Support Arg1:T745 Arg2:T746
 T1	Claim 1015 1232	Had he been on the court, I suspect there would be a lot of changes that I don't like and the American people wouldn't like, including everything from Roe v. Wade to issues relating to civil rights and civil liberties
-R3	Support Arg1:T746 Arg2:T1	
-R4	Support Arg1:T1 Arg2:T748	
+R3	Support Arg1:T746 Arg2:T1
+R4	Support Arg1:T1 Arg2:T748
 T2	Claim 1360 1493	that's why I was the first chairman of the Judiciary Committee to forthrightly state that it matters what your judicial philosophy is
-R5	Support Arg1:T748 Arg2:T2	
-R6	Support Arg1:T749 Arg2:T2	
-R7	Support Arg1:T749 Arg2:T750	
-R8	Attack Arg1:T752 Arg2:T751	
-R9	Support Arg1:T753 Arg2:T752	
-R10	Support Arg1:T754 Arg2:T755	
-R11	Support Arg1:T755 Arg2:T756	
-R12	Support Arg1:T759 Arg2:T758	
-R13	Support Arg1:T758 Arg2:T760	
-R14	Support Arg1:T761 Arg2:T762	
-R15	Support Arg1:T760 Arg2:T763	
-R16	Support Arg1:T762 Arg2:T763	
-R17	Support Arg1:T764 Arg2:T765	
-R18	Support Arg1:T765 Arg2:T766	
-R19	Support Arg1:T766 Arg2:T767	
-R20	Support Arg1:T768 Arg2:T767	
-R21	Support Arg1:T769 Arg2:T770	
-R22	Support Arg1:T771 Arg2:T772	
-R23	Support Arg1:T772 Arg2:T773	
-R24	Support Arg1:T773 Arg2:T774	
-R25	Support Arg1:T774 Arg2:T770	
-R26	Attack Arg1:T770 Arg2:T775	
-R27	Support Arg1:T777 Arg2:T776	
-R28	Support Arg1:T776 Arg2:T775	
-R29	Support Arg1:T776 Arg2:T778	
+R5	Support Arg1:T748 Arg2:T2
+R6	Support Arg1:T749 Arg2:T2
+R7	Support Arg1:T749 Arg2:T750
+R8	Attack Arg1:T752 Arg2:T751
+R9	Support Arg1:T753 Arg2:T752
+R10	Support Arg1:T754 Arg2:T755
+R11	Support Arg1:T755 Arg2:T756
+R12	Support Arg1:T759 Arg2:T758
+R13	Support Arg1:T758 Arg2:T760
+R14	Support Arg1:T761 Arg2:T762
+R15	Support Arg1:T760 Arg2:T763
+R16	Support Arg1:T762 Arg2:T763
+R17	Support Arg1:T764 Arg2:T765
+R18	Support Arg1:T765 Arg2:T766
+R19	Support Arg1:T766 Arg2:T767
+R20	Support Arg1:T768 Arg2:T767
+R21	Support Arg1:T769 Arg2:T770
+R22	Support Arg1:T771 Arg2:T772
+R23	Support Arg1:T772 Arg2:T773
+R24	Support Arg1:T773 Arg2:T774
+R25	Support Arg1:T774 Arg2:T770
+R26	Attack Arg1:T770 Arg2:T775
+R27	Support Arg1:T777 Arg2:T776
+R28	Support Arg1:T776 Arg2:T775
+R29	Support Arg1:T776 Arg2:T778

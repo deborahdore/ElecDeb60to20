@@ -74,82 +74,82 @@ T521	Claim 8557 8590	A President can't know everything
 T522	Claim 8596 8701	a President has to know those things that are essential to his leadership and the enforcement of our laws
 T523	Premise 10003 10164	they were also weapons that -- or carriers -- that if they were sent out and there was a change, you could call them back before they had launched their missiles
 T51	Premise 5263 5290	strengthened our opposition
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T501 Arg2:T1	
-R3	Support Arg1:T502 Arg2:T1	
-R4	Support Arg1:T4 Arg2:T3	
-R5	Support Arg1:T5 Arg2:T3	
-R6	Support Arg1:T6 Arg2:T3	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T501 Arg2:T1
+R3	Support Arg1:T502 Arg2:T1
+R4	Support Arg1:T4 Arg2:T3
+R5	Support Arg1:T5 Arg2:T3
+R6	Support Arg1:T6 Arg2:T3
 T52	Claim 2637 2704	That's one of the big disagreements that we have with the President
-R7	Support Arg1:T8 Arg2:T52	
+R7	Support Arg1:T8 Arg2:T52
 T53	Claim 2894 2972	This brings up the whole question of what Presidential leadership is all about
-R8	Support Arg1:T52 Arg2:T53	
-R9	Support Arg1:T10 Arg2:T9	
-R10	Support Arg1:T11 Arg2:T9	
-R11	Support Arg1:T24 Arg2:T12	
-R12	Support Arg1:T25 Arg2:T12	
-R13	Support Arg1:T9 Arg2:T25	
-R14	Support Arg1:T9 Arg2:T24	
-R15	Support Arg1:T12 Arg2:T53	
-R18	Support Arg1:T504 Arg2:T14	
-R19	Support Arg1:T505 Arg2:T14	
-R20	Support Arg1:T506 Arg2:T14	
-R21	Support Arg1:T21 Arg2:T14	
-R22	Support Arg1:T20 Arg2:T491	
-R23	Support Arg1:T492 Arg2:T491	
-R24	Support Arg1:T493 Arg2:T491	
+R8	Support Arg1:T52 Arg2:T53
+R9	Support Arg1:T10 Arg2:T9
+R10	Support Arg1:T11 Arg2:T9
+R11	Support Arg1:T24 Arg2:T12
+R12	Support Arg1:T25 Arg2:T12
+R13	Support Arg1:T9 Arg2:T25
+R14	Support Arg1:T9 Arg2:T24
+R15	Support Arg1:T12 Arg2:T53
+R18	Support Arg1:T504 Arg2:T14
+R19	Support Arg1:T505 Arg2:T14
+R20	Support Arg1:T506 Arg2:T14
+R21	Support Arg1:T21 Arg2:T14
+R22	Support Arg1:T20 Arg2:T491
+R23	Support Arg1:T492 Arg2:T491
+R24	Support Arg1:T493 Arg2:T491
 T54	Claim 4729 4751	It's much more complex
-R25	Support Arg1:T54 Arg2:T15	
-R26	Support Arg1:T16 Arg2:T54	
-R27	Support Arg1:T17 Arg2:T54	
-R28	Support Arg1:T22 Arg2:T54	
-R29	Support Arg1:T23 Arg2:T54	
-R30	Support Arg1:T507 Arg2:T54	
-R31	Support Arg1:T18 Arg2:T508	
-R32	Support Arg1:T509 Arg2:T508	
-R33	Support Arg1:T510 Arg2:T508	
+R25	Support Arg1:T54 Arg2:T15
+R26	Support Arg1:T16 Arg2:T54
+R27	Support Arg1:T17 Arg2:T54
+R28	Support Arg1:T22 Arg2:T54
+R29	Support Arg1:T23 Arg2:T54
+R30	Support Arg1:T507 Arg2:T54
+R31	Support Arg1:T18 Arg2:T508
+R32	Support Arg1:T509 Arg2:T508
+R33	Support Arg1:T510 Arg2:T508
 T55	Claim 5152 5188	Strength requires knowledge, command
-R34	Support Arg1:T55 Arg2:T508	
-R36	Support Arg1:T19 Arg2:T55	
-R37	Support Arg1:T51 Arg2:T55	
-R38	Support Arg1:T512 Arg2:T55	
-R39	Support Arg1:T513 Arg2:T27	
-R41	Support Arg1:T31 Arg2:T30	
-R42	Support Arg1:T32 Arg2:T31	
-R43	Support Arg1:T514 Arg2:T32	
-R44	Support Arg1:T34 Arg2:T7	
-R45	Support Arg1:T35 Arg2:T36	
+R34	Support Arg1:T55 Arg2:T508
+R36	Support Arg1:T19 Arg2:T55
+R37	Support Arg1:T51 Arg2:T55
+R38	Support Arg1:T512 Arg2:T55
+R39	Support Arg1:T513 Arg2:T27
+R41	Support Arg1:T31 Arg2:T30
+R42	Support Arg1:T32 Arg2:T31
+R43	Support Arg1:T514 Arg2:T32
+R44	Support Arg1:T34 Arg2:T7
+R45	Support Arg1:T35 Arg2:T36
 T57	Claim 6862 6940	I was very interested to hear about Central America and our process down there
 T58	Claim 7271 7307	I can only tell you about the manual
-R46	Support Arg1:T7 Arg2:T37	
-R47	Support Arg1:T37 Arg2:T58	
-R48	Support Arg1:T519 Arg2:T37	
-R49	Support Arg1:T38 Arg2:T37	
-R50	Support Arg1:T518 Arg2:T37	
-R51	Support Arg1:T41 Arg2:T40	
-R52	Support Arg1:T520 Arg2:T41	
-R53	Support Arg1:T42 Arg2:T520	
-R54	Equivalent Arg1:T522 Arg2:T39	
-R55	Support Arg1:T44 Arg2:T43	
+R46	Support Arg1:T7 Arg2:T37
+R47	Support Arg1:T37 Arg2:T58
+R48	Support Arg1:T519 Arg2:T37
+R49	Support Arg1:T38 Arg2:T37
+R50	Support Arg1:T518 Arg2:T37
+R51	Support Arg1:T41 Arg2:T40
+R52	Support Arg1:T520 Arg2:T41
+R53	Support Arg1:T42 Arg2:T520
+R54	Equivalent Arg1:T522 Arg2:T39
+R55	Support Arg1:T44 Arg2:T43
 T59	Claim 9152 9223	I don't know which is worse, not knowing or knowing and not stopping it
 T60	Premise 9528 9634	You've been all over the country repeating something that, I will admit, the press has also been repeating
 T61	Claim 9638 9711	that I believed that nuclear missiles could be fired and then called back
-R59	Support Arg1:T61 Arg2:T60	
-R60	Attack Arg1:T48 Arg2:T61	
-R61	Support Arg1:T49 Arg2:T48	
-R62	Support Arg1:T47 Arg2:T49	
-R63	Support Arg1:T523 Arg2:T49	
+R59	Support Arg1:T61 Arg2:T60
+R60	Attack Arg1:T48 Arg2:T61
+R61	Support Arg1:T49 Arg2:T48
+R62	Support Arg1:T47 Arg2:T49
+R63	Support Arg1:T523 Arg2:T49
 T50	Claim 10171 10246	I hope that from here on you will no longer be saying that particular thing
 T62	Claim 10248 10273	which is absolutely false
-R64	Support Arg1:T62 Arg2:T50	
-R65	Support Arg1:T424 Arg2:T62	
-R66	Support Arg1:T49 Arg2:T62	
-R16	Attack Arg1:T13 Arg2:T12	
-R17	Attack Arg1:T503 Arg2:T12	
-R67	Attack Arg1:T14 Arg2:T12	
-R35	Attack Arg1:T40 Arg2:T515	
-R40	Support Arg1:T42 Arg2:T494	
-R56	Support Arg1:T45 Arg2:T46	
-R58	Support Arg1:T59 Arg2:T46	
-R57	Support Arg1:T39 Arg2:T46	
-R68	Support Arg1:T423 Arg2:T46	
+R64	Support Arg1:T62 Arg2:T50
+R65	Support Arg1:T424 Arg2:T62
+R66	Support Arg1:T49 Arg2:T62
+R16	Attack Arg1:T13 Arg2:T12
+R17	Attack Arg1:T503 Arg2:T12
+R67	Attack Arg1:T14 Arg2:T12
+R35	Attack Arg1:T40 Arg2:T515
+R40	Support Arg1:T42 Arg2:T494
+R56	Support Arg1:T45 Arg2:T46
+R58	Support Arg1:T59 Arg2:T46
+R57	Support Arg1:T39 Arg2:T46
+R68	Support Arg1:T423 Arg2:T46

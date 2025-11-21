@@ -47,22 +47,22 @@ T41	Premise 5144 5188	we've had 12 years of trickle down economics
 T45	Premise 5407 5453	we are in the grip of a failed economic theory
 T388	Claim 5694 5728	control American health care costs
 T389	Claim 5733 5773	bring the American people together again
-R1	Support Arg1:T1 Arg2:T2	
-R2	Support Arg1:T3 Arg2:T2	
-R3	Support Arg1:T5 Arg2:T4	
-R4	Support Arg1:T6 Arg2:T4	
-R5	Support Arg1:T7 Arg2:T4	
-R6	Support Arg1:T16 Arg2:T15	
+R1	Support Arg1:T1 Arg2:T2
+R2	Support Arg1:T3 Arg2:T2
+R3	Support Arg1:T5 Arg2:T4
+R4	Support Arg1:T6 Arg2:T4
+R5	Support Arg1:T7 Arg2:T4
+R6	Support Arg1:T16 Arg2:T15
 T48	Claim 2054 2143	Are you suggesting that if somebody has means that the national debt doesn't affect them?
-R7	Attack Arg1:T24 Arg2:T48	
-R8	Support Arg1:T27 Arg2:T26	
-R9	Support Arg1:T28 Arg2:T26	
-R10	Attack Arg1:T39 Arg2:T38	
-R11	Support Arg1:T41 Arg2:T38	
-R12	Support Arg1:T42 Arg2:T38	
-R13	Support Arg1:T43 Arg2:T38	
-R14	Support Arg1:T45 Arg2:T38	
-R15	Support Arg1:T44 Arg2:T38	
-R16	Support Arg1:T46 Arg2:T47	
-R17	Support Arg1:T388 Arg2:T47	
-R18	Support Arg1:T30 Arg2:T29	
+R7	Attack Arg1:T24 Arg2:T48
+R8	Support Arg1:T27 Arg2:T26
+R9	Support Arg1:T28 Arg2:T26
+R10	Attack Arg1:T39 Arg2:T38
+R11	Support Arg1:T41 Arg2:T38
+R12	Support Arg1:T42 Arg2:T38
+R13	Support Arg1:T43 Arg2:T38
+R14	Support Arg1:T45 Arg2:T38
+R15	Support Arg1:T44 Arg2:T38
+R16	Support Arg1:T46 Arg2:T47
+R17	Support Arg1:T388 Arg2:T47
+R18	Support Arg1:T30 Arg2:T29

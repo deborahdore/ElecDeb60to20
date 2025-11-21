@@ -44,52 +44,52 @@ T45	Premise 6010 6049	We're on the hunt after Osama bin Laden
 T46	Premise 6051 6113	We're using every asset at our disposal to get Osama bin Laden
 T47	Premise 6116 6189	My opponent said this war is a matter of intelligence and law enforcement
 T48	Claim 6191 6290	No, this war is a matter of using every asset at our disposal to keep the American people protected
-R1	Support Arg1:T4 Arg2:T5	
-R3	Attack Arg1:T21 Arg2:T20	
+R1	Support Arg1:T4 Arg2:T5
+R3	Attack Arg1:T21 Arg2:T20
 T19	Claim 2872 2894	That's not good enough
-R2	Support Arg1:T21 Arg2:T19	
-R4	Support Arg1:T16 Arg2:T17	
-R5	Support Arg1:T18 Arg2:T16	
-R6	Support Arg1:T24 Arg2:T17	
-R7	Support Arg1:T22 Arg2:T17	
-R8	Support Arg1:T19 Arg2:T17	
-R9	Support Arg1:T5 Arg2:T17	
+R2	Support Arg1:T21 Arg2:T19
+R4	Support Arg1:T16 Arg2:T17
+R5	Support Arg1:T18 Arg2:T16
+R6	Support Arg1:T24 Arg2:T17
+R7	Support Arg1:T22 Arg2:T17
+R8	Support Arg1:T19 Arg2:T17
+R9	Support Arg1:T5 Arg2:T17
 T23	Claim 2983 3005	That's not good enough
-R10	Support Arg1:T23 Arg2:T17	
-R11	Support Arg1:T6 Arg2:T7	
-R12	Support Arg1:T8 Arg2:T7	
-R13	Support Arg1:T9 Arg2:T7	
-R14	Support Arg1:T10 Arg2:T7	
-R15	Support Arg1:T12 Arg2:T11	
-R16	Support Arg1:T13 Arg2:T11	
-R17	Support Arg1:T14 Arg2:T11	
-R18	Support Arg1:T15 Arg2:T11	
-R19	Support Arg1:T11 Arg2:T7	
-R20	Support Arg1:T27 Arg2:T25	
-R21	Support Arg1:T28 Arg2:T25	
-R22	Support Arg1:T36 Arg2:T35	
-R23	Attack Arg1:T35 Arg2:T4	
+R10	Support Arg1:T23 Arg2:T17
+R11	Support Arg1:T6 Arg2:T7
+R12	Support Arg1:T8 Arg2:T7
+R13	Support Arg1:T9 Arg2:T7
+R14	Support Arg1:T10 Arg2:T7
+R15	Support Arg1:T12 Arg2:T11
+R16	Support Arg1:T13 Arg2:T11
+R17	Support Arg1:T14 Arg2:T11
+R18	Support Arg1:T15 Arg2:T11
+R19	Support Arg1:T11 Arg2:T7
+R20	Support Arg1:T27 Arg2:T25
+R21	Support Arg1:T28 Arg2:T25
+R22	Support Arg1:T36 Arg2:T35
+R23	Attack Arg1:T35 Arg2:T4
 T49	Premise 4361 4405	the Afghan people had elections this weekend
 T50	Premise 4411 4450	the first voter was a 19-year-old woman
 T51	Claim 4470 4493	Freedom is on the march
-R24	Support Arg1:T50 Arg2:T51	
-R25	Support Arg1:T49 Arg2:T51	
+R24	Support Arg1:T50 Arg2:T51
+R25	Support Arg1:T49 Arg2:T51
 T52	Premise 4496 4551	We held to account a terrorist regime in Saddam Hussein
-R26	Support Arg1:T52 Arg2:T51	
-R27	Support Arg1:T51 Arg2:T35	
-R28	Attack Arg1:T26 Arg2:T34	
-R29	Support Arg1:T29 Arg2:T26	
-R30	Support Arg1:T30 Arg2:T29	
-R31	Support Arg1:T31 Arg2:T30	
-R32	Support Arg1:T32 Arg2:T26	
-R33	Attack Arg1:T33 Arg2:T17	
-R34	Support Arg1:T42 Arg2:T41	
-R35	Support Arg1:T40 Arg2:T41	
-R36	Support Arg1:T37 Arg2:T41	
-R37	Support Arg1:T38 Arg2:T41	
-R38	Support Arg1:T39 Arg2:T41	
-R39	Attack Arg1:T43 Arg2:T42	
-R40	Support Arg1:T44 Arg2:T43	
-R41	Support Arg1:T45 Arg2:T44	
-R42	Support Arg1:T46 Arg2:T45	
-R43	Attack Arg1:T47 Arg2:T48	
+R26	Support Arg1:T52 Arg2:T51
+R27	Support Arg1:T51 Arg2:T35
+R28	Attack Arg1:T26 Arg2:T34
+R29	Support Arg1:T29 Arg2:T26
+R30	Support Arg1:T30 Arg2:T29
+R31	Support Arg1:T31 Arg2:T30
+R32	Support Arg1:T32 Arg2:T26
+R33	Attack Arg1:T33 Arg2:T17
+R34	Support Arg1:T42 Arg2:T41
+R35	Support Arg1:T40 Arg2:T41
+R36	Support Arg1:T37 Arg2:T41
+R37	Support Arg1:T38 Arg2:T41
+R38	Support Arg1:T39 Arg2:T41
+R39	Attack Arg1:T43 Arg2:T42
+R40	Support Arg1:T44 Arg2:T43
+R41	Support Arg1:T45 Arg2:T44
+R42	Support Arg1:T46 Arg2:T45
+R43	Attack Arg1:T47 Arg2:T48

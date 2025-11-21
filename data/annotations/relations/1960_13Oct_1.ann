@@ -22,32 +22,32 @@ T23	Premise 4198 4226	we've kept out of other wars
 T24	Claim 4242 4288	that doesn't indicate that we're trigger-happy
 T25	Premise 4132 4176	We had a war when we came into power in 1953
 T465	Premise 2166 2308	yesterday you used the words "trigger-happy" in referring to Vice President Richard Nixon's stand on defending the islands of Quemoy and Matsu
-R1	Support Arg1:T3 Arg2:T2	
-R2	Support Arg1:T4 Arg2:T2	
-R6	Support Arg1:T2 Arg2:T9	
-R7	Support Arg1:T1 Arg2:T9	
-R8	Support Arg1:T5 Arg2:T9	
-R11	Support Arg1:T6 Arg2:T9	
-R13	Support Arg1:T7 Arg2:T9	
-R14	Support Arg1:T8 Arg2:T9	
-R17	Equivalent Arg1:T14 Arg2:T13	
-R19	Support Arg1:T15 Arg2:T16	
-R20	Support Arg1:T23 Arg2:T24	
-R21	Support Arg1:T22 Arg2:T25	
-R22	Support Arg1:T22 Arg2:T24	
-R25	Support Arg1:T18 Arg2:T17	
-R26	Equivalent Arg1:T17 Arg2:T19	
+R1	Support Arg1:T3 Arg2:T2
+R2	Support Arg1:T4 Arg2:T2
+R6	Support Arg1:T2 Arg2:T9
+R7	Support Arg1:T1 Arg2:T9
+R8	Support Arg1:T5 Arg2:T9
+R11	Support Arg1:T6 Arg2:T9
+R13	Support Arg1:T7 Arg2:T9
+R14	Support Arg1:T8 Arg2:T9
+R17	Equivalent Arg1:T14 Arg2:T13
+R19	Support Arg1:T15 Arg2:T16
+R20	Support Arg1:T23 Arg2:T24
+R21	Support Arg1:T22 Arg2:T25
+R22	Support Arg1:T22 Arg2:T24
+R25	Support Arg1:T18 Arg2:T17
+R26	Equivalent Arg1:T17 Arg2:T19
 T10	Premise 3868 3927	There were three Democratic presidents who led us into war.
 T26	Claim 3928 4016	I do not mean by that that one party is a war party and the other party is a peace party
 T27	Claim 4022 4130	I do say that any statement to the effect that the Republican party is trigger-happy is belied by the record
-R29	Support Arg1:T10 Arg2:T27	
-R30	Support Arg1:T16 Arg2:T14	
-R3	Attack Arg1:T13 Arg2:T11	
+R29	Support Arg1:T10 Arg2:T27
+R30	Support Arg1:T16 Arg2:T14
+R3	Attack Arg1:T13 Arg2:T11
 T12	Premise 3789 3866	I would ask him to name one Republican president who led this nation into war
 T28	Premise 3733 3787	I would remind Senator Kennedy of the past fifty years
-R4	Attack Arg1:T26 Arg2:T27	
-R5	Support Arg1:T12 Arg2:T27	
-R9	Support Arg1:T28 Arg2:T12	
-R10	Equivalent Arg1:T21 Arg2:T24	
-R15	Support Arg1:T20 Arg2:T24	
-R12	Support Arg1:T17 Arg2:T9	
+R4	Attack Arg1:T26 Arg2:T27
+R5	Support Arg1:T12 Arg2:T27
+R9	Support Arg1:T28 Arg2:T12
+R10	Equivalent Arg1:T21 Arg2:T24
+R15	Support Arg1:T20 Arg2:T24
+R12	Support Arg1:T17 Arg2:T9

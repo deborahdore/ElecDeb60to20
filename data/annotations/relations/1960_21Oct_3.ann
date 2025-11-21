@@ -23,21 +23,21 @@ T200	Claim 3298 3345	We have moved in Latin America very effectively
 T201	Claim 3384 3488	Senator Kennedy complains very appropriately about our inadequate ra- radio broadcasts for Latin America
 T202	Premise 3490 3632	Let me point out again that his Congress - the Democratic Congress - has cut eighty million dollars off of the Voice of America appropriations
 T203	Premise 3639 3814	he has to get a better job out of his Congress if he's going to get us the money that we need to conduct the foreign affairs of this country in Latin America or any place else
-R1	Support Arg1:T180 Arg2:T179	
-R2	Support Arg1:T181 Arg2:T179	
-R3	Support Arg1:T182 Arg2:T184	
-R5	Support Arg1:T180 Arg2:T184	
-R7	Support Arg1:T187 Arg2:T186	
-R8	Support Arg1:T190 Arg2:T187	
-R9	Equivalent Arg1:T193 Arg2:T184	
-R10	Support Arg1:T195 Arg2:T179	
-R11	Support Arg1:T202 Arg2:T201	
-R12	Support Arg1:T196 Arg2:T200	
-R13	Support Arg1:T197 Arg2:T200	
-R14	Support Arg1:T198 Arg2:T200	
-R15	Support Arg1:T199 Arg2:T200	
-R4	Equivalent Arg1:T185 Arg2:T179	
-R6	Support Arg1:T186 Arg2:T182	
-R16	Support Arg1:T183 Arg2:T184	
-R17	Support Arg1:T189 Arg2:T190	
-R18	Support Arg1:T194 Arg2:T193	
+R1	Support Arg1:T180 Arg2:T179
+R2	Support Arg1:T181 Arg2:T179
+R3	Support Arg1:T182 Arg2:T184
+R5	Support Arg1:T180 Arg2:T184
+R7	Support Arg1:T187 Arg2:T186
+R8	Support Arg1:T190 Arg2:T187
+R9	Equivalent Arg1:T193 Arg2:T184
+R10	Support Arg1:T195 Arg2:T179
+R11	Support Arg1:T202 Arg2:T201
+R12	Support Arg1:T196 Arg2:T200
+R13	Support Arg1:T197 Arg2:T200
+R14	Support Arg1:T198 Arg2:T200
+R15	Support Arg1:T199 Arg2:T200
+R4	Equivalent Arg1:T185 Arg2:T179
+R6	Support Arg1:T186 Arg2:T182
+R16	Support Arg1:T183 Arg2:T184
+R17	Support Arg1:T189 Arg2:T190
+R18	Support Arg1:T194 Arg2:T193

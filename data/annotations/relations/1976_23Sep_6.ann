@@ -51,47 +51,47 @@ T286	Premise 5307 5516	we had last year a $65 billion deficit - the largest defi
 T287	Premise 5518 5621	We've got five hundred thousand more Americans out of jobs today than were out of work three months ago
 T288	Premise 5626 5843	since Mr. Ford's been in office two years, we've had a 50 percent increase in unemployment from five million people out of work to two and a half million more people out of work and a total of seven and a half million
 T289	Premise 5909 5986	He's got four times the size of the deficits that Mr. Nixon even had himself.
-R1	Support Arg1:T235 Arg2:T234	
-R2	Support Arg1:T236 Arg2:T234	
-R3	Support Arg1:T238 Arg2:T237	
-R4	Support Arg1:T237 Arg2:T239	
-R5	Support Arg1:T250 Arg2:T249	
-R6	Support Arg1:T245 Arg2:T244	
-R7	Support Arg1:T241 Arg2:T242	
-R8	Support Arg1:T246 Arg2:T244	
-R9	Support Arg1:T247 Arg2:T246	
-R10	Support Arg1:T251 Arg2:T246	
-R11	Support Arg1:T254 Arg2:T255	
-R12	Support Arg1:T253 Arg2:T255	
-R13	Support Arg1:T255 Arg2:T256	
-R14	Support Arg1:T252 Arg2:T256	
-R15	Support Arg1:T267 Arg2:T261	
-R17	Support Arg1:T268 Arg2:T261	
-R18	Support Arg1:T269 Arg2:T268	
-R19	Support Arg1:T272 Arg2:T271	
-R20	Support Arg1:T273 Arg2:T272	
-R21	Support Arg1:T274 Arg2:T272	
-R22	Support Arg1:T275 Arg2:T272	
+R1	Support Arg1:T235 Arg2:T234
+R2	Support Arg1:T236 Arg2:T234
+R3	Support Arg1:T238 Arg2:T237
+R4	Support Arg1:T237 Arg2:T239
+R5	Support Arg1:T250 Arg2:T249
+R6	Support Arg1:T245 Arg2:T244
+R7	Support Arg1:T241 Arg2:T242
+R8	Support Arg1:T246 Arg2:T244
+R9	Support Arg1:T247 Arg2:T246
+R10	Support Arg1:T251 Arg2:T246
+R11	Support Arg1:T254 Arg2:T255
+R12	Support Arg1:T253 Arg2:T255
+R13	Support Arg1:T255 Arg2:T256
+R14	Support Arg1:T252 Arg2:T256
+R15	Support Arg1:T267 Arg2:T261
+R17	Support Arg1:T268 Arg2:T261
+R18	Support Arg1:T269 Arg2:T268
+R19	Support Arg1:T272 Arg2:T271
+R20	Support Arg1:T273 Arg2:T272
+R21	Support Arg1:T274 Arg2:T272
+R22	Support Arg1:T275 Arg2:T272
 T1	Claim 5194 5300	The best thing to do is to look at the record uh - of Mr. Ford's Administration and Mr. Nixon's before his
-R23	Support Arg1:T286 Arg2:T1	
-R24	Support Arg1:T287 Arg2:T1	
-R25	Support Arg1:T288 Arg2:T1	
-R26	Support Arg1:T1 Arg2:T272	
+R23	Support Arg1:T286 Arg2:T1
+R24	Support Arg1:T287 Arg2:T1
+R25	Support Arg1:T288 Arg2:T1
+R26	Support Arg1:T1 Arg2:T272
 T2	Claim 5845 5907	We've also got uh - a comparison between himself and Mr. Nixon
-R27	Support Arg1:T289 Arg2:T2	
+R27	Support Arg1:T289 Arg2:T2
 T3	Premise 6057 6225	with a 14 percent increase in the cost of living in the last uh - two years, it means that - that women and young people have had to go to work when they didn't want to
-R28	Support Arg1:T279 Arg2:T3	
-R29	Support Arg1:T3 Arg2:T276	
-R30	Support Arg1:T284 Arg2:T1	
-R31	Support Arg1:T285 Arg2:T1	
-R32	Support Arg1:T1 Arg2:T280	
-R33	Support Arg1:T283 Arg2:T1	
-R34	Support Arg1:T240 Arg2:T237	
-R35	Support Arg1:T242 Arg2:T237	
+R28	Support Arg1:T279 Arg2:T3
+R29	Support Arg1:T3 Arg2:T276
+R30	Support Arg1:T284 Arg2:T1
+R31	Support Arg1:T285 Arg2:T1
+R32	Support Arg1:T1 Arg2:T280
+R33	Support Arg1:T283 Arg2:T1
+R34	Support Arg1:T240 Arg2:T237
+R35	Support Arg1:T242 Arg2:T237
 T4	Premise 1514 1563	We feel that with this improvement in the economy
 T5	Premise 1565 1615	we feel with more receipts and fewer disbursements
-R36	Support Arg1:T4 Arg2:T243	
-R37	Support Arg1:T5 Arg2:T243	
-R38	Support Arg1:T262 Arg2:T258	
-R39	Support Arg1:T263 Arg2:T258	
-R40	Support Arg1:T266 Arg2:T258	
+R36	Support Arg1:T4 Arg2:T243
+R37	Support Arg1:T5 Arg2:T243
+R38	Support Arg1:T262 Arg2:T258
+R39	Support Arg1:T263 Arg2:T258
+R40	Support Arg1:T266 Arg2:T258

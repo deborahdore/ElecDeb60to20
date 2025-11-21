@@ -22,35 +22,35 @@ T1	Premise 342 503	No president, through all of American history, has ever ceded
 T2	Claim 119 206	The president always has the right, and always has had the right, for preemptive strike
 T3	Premise 208 257	That was a great doctrine throughout the Cold War
 T4	Premise 263 339	it was always one of the things we argued about with respect to arms control
-R1	Support Arg1:T3 Arg2:T2	
-R2	Support Arg1:T4 Arg2:T2	
-R3	Support Arg1:T1 Arg2:T2	
+R1	Support Arg1:T3 Arg2:T2
+R2	Support Arg1:T4 Arg2:T2
+R3	Support Arg1:T1 Arg2:T2
 T5	Claim 538 771	you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons
-R4	Attack Arg1:T5 Arg2:T2	
+R4	Attack Arg1:T5 Arg2:T2
 T6	Premise 774 902	Here we have our own secretary of state who has had to apologize to the world for the presentation he made to the United Nations
 T7	Premise 905 1038	I mean, we can remember when President Kennedy in the Cuban missile crisis sent his secretary of state to Paris to meet with DeGaulle
 T8	Premise 1044 1288	in the middle of the discussion, to tell them about the missiles in Cuba, he said, "Here, let me show you the photos." And DeGaulle waved them off and said, "No, no, no, no. The word of the president of the United States is good enough for me."
 T9	Claim 1290 1391	How many leaders in the world today would respond to us, as a result of what we've done, in that way?
 T10	Claim 1395 1492	what is at test here is the credibility of the United States of America and how we lead the world
-R5	Support Arg1:T7 Arg2:T5	
-R6	Support Arg1:T8 Arg2:T5	
-R7	Attack Arg1:T6 Arg2:T5	
-R8	Attack Arg1:T10 Arg2:T9	
-R9	Support Arg1:T629 Arg2:T631	
-R10	Support Arg1:T630 Arg2:T631	
-R11	Support Arg1:T632 Arg2:T633	
-R12	Support Arg1:T633 Arg2:T634	
-R13	Support Arg1:T634 Arg2:T635	
-R14	Attack Arg1:T636 Arg2:T5	
-R15	Support Arg1:T637 Arg2:T636	
-R16	Attack Arg1:T640 Arg2:T638	
-R17	Attack Arg1:T640 Arg2:T633	
-R18	Support Arg1:T641 Arg2:T639	
+R5	Support Arg1:T7 Arg2:T5
+R6	Support Arg1:T8 Arg2:T5
+R7	Attack Arg1:T6 Arg2:T5
+R8	Attack Arg1:T10 Arg2:T9
+R9	Support Arg1:T629 Arg2:T631
+R10	Support Arg1:T630 Arg2:T631
+R11	Support Arg1:T632 Arg2:T633
+R12	Support Arg1:T633 Arg2:T634
+R13	Support Arg1:T634 Arg2:T635
+R14	Attack Arg1:T636 Arg2:T5
+R15	Support Arg1:T637 Arg2:T636
+R16	Attack Arg1:T640 Arg2:T638
+R17	Attack Arg1:T640 Arg2:T633
+R18	Support Arg1:T641 Arg2:T639
 T11	Claim 2874 2891	I wouldn't join i
-R19	Equivalent Arg1:T11 Arg2:T639	
-R20	Support Arg1:T643 Arg2:T639	
-R21	Attack Arg1:T639 Arg2:T644	
-R22	Support Arg1:T645 Arg2:T644	
-R23	Support Arg1:T646 Arg2:T644	
-R24	Attack Arg1:T647 Arg2:T644	
-R25	Attack Arg1:T648 Arg2:T644	
+R19	Equivalent Arg1:T11 Arg2:T639
+R20	Support Arg1:T643 Arg2:T639
+R21	Attack Arg1:T639 Arg2:T644
+R22	Support Arg1:T645 Arg2:T644
+R23	Support Arg1:T646 Arg2:T644
+R24	Attack Arg1:T647 Arg2:T644
+R25	Attack Arg1:T648 Arg2:T644

@@ -14,32 +14,32 @@ T6	Premise 1524 1598	Now, Donald has put forth the names of some people that he 
 T7	Claim 1599 1710	And among the ones that he has suggested are people who would reverse Roe v. Wade and reverse marriage equality
 T8	Claim 1712 1780	I think that would be a terrible mistake and would take us backwards
 T9	Claim 1781 1853	I want a Supreme Court that doesn’t always side with corporate interests
-R1	Support Arg1:T287 Arg2:T288	
-R2	Attack Arg1:T1 Arg2:T288	
-R3	Attack Arg1:T2 Arg2:T3	
-R4	Support Arg1:T6 Arg2:T7	
-R5	Attack Arg1:T8 Arg2:T7	
-R6	Attack Arg1:T5 Arg2:T7	
+R1	Support Arg1:T287 Arg2:T288
+R2	Attack Arg1:T1 Arg2:T288
+R3	Attack Arg1:T2 Arg2:T3
+R4	Support Arg1:T6 Arg2:T7
+R5	Attack Arg1:T8 Arg2:T7
+R6	Attack Arg1:T5 Arg2:T7
 T10	Claim 1855 2045	I want a Supreme Court that understands because you’re wealthy and you can give more money to something doesn’t mean you have any more rights or should have any more rights than anybody else
 T11	Claim 2046 2149	So I have very clear views about what I want to see to kind of change the balance on the Supreme Court.
 T12	Premise 2154 2406	I regret deeply that the Senate has not done its job and they have not permitted a vote on the person that President Obama, a highly qualified person, they’ve not given him a vote to be able to be have the full complement of nine Supreme Court justices
 T13	Claim 2408 2666	I think that was a dereliction of duty.I hope that they will see their way to doing it, but if I am so fortunate enough as to be president, I will immediately move to make sure that we fill that, we have nine justices that get to work on behalf of our people
-R7	Support Arg1:T10 Arg2:T11	
-R8	Support Arg1:T9 Arg2:T11	
-R9	Support Arg1:T5 Arg2:T11	
-R10	Attack Arg1:T13 Arg2:T12	
+R7	Support Arg1:T10 Arg2:T11
+R8	Support Arg1:T9 Arg2:T11
+R9	Support Arg1:T5 Arg2:T11
+R10	Attack Arg1:T13 Arg2:T12
 T14	Claim 3080 3145	But people that will respect the Constitution of the United State
-R11	Support Arg1:T290 Arg2:T291	
-R12	Support Arg1:T291 Arg2:T14	
-R13	Support Arg1:T14 Arg2:T289	
+R11	Support Arg1:T290 Arg2:T291
+R12	Support Arg1:T291 Arg2:T14
+R13	Support Arg1:T14 Arg2:T289
 T15	Claim 3152 3185	I think that this is so important
-R14	Support Arg1:T15 Arg2:T14	
+R14	Support Arg1:T15 Arg2:T14
 T16	Premise 3276 3355	They’ll respect the Second Amendment and what it stands for, what it represents
 T17	Claim 3215 3274	which is totally under siege by people like Hillary Clinton
-R15	Attack Arg1:T16 Arg2:T17	
+R15	Attack Arg1:T16 Arg2:T17
 T18	Claim 3456 3624	I will have in my race more than $100 million put in — of my money, meaning I’m not taking all of this big money from all of these different corporations like she’s doing
 T19	Claim 3743 3772	Pretty much self-funding mine
-R16	Support Arg1:T18 Arg2:T19	
+R16	Support Arg1:T18 Arg2:T19
 T20	Premise 3890 4015	.I ask Hillary, why doesn’t — she made $250 million by being in office. She used the power of her office to make a lot of money
 T21	Premise 4017 4314	Why isn’t she funding, not for $100 million, but why don’t you put $10 million or $20 million or $25 million or $30 million into your own campaign?It’s $30 million less for special interests that will tell you exactly what to do and it would really, I think, be a nice sign to the American public.
 T22	Premise 4315 4352	Why aren’t you putting some money in?
@@ -47,10 +47,10 @@ T23	Claim 4353 4373	You have a lot of it
 T24	Claim 4375 4445	You’ve made a lot of it because of the fact that you’ve been in office
 T25	Claim 4447 4507	Made a lot of it while you were secretary of state, actually
 T26	Premise 4509 4563	So why aren’t you putting money into your own campaign
-R17	Support Arg1:T20 Arg2:T21	
-R18	Attack Arg1:T19 Arg2:T21	
-R19	Support Arg1:T22 Arg2:T21	
-R20	Support Arg1:T24 Arg2:T23	
-R21	Support Arg1:T25 Arg2:T23	
-R22	Attack Arg1:T23 Arg2:T26	
-R23	Support Arg1:T292 Arg2:T293	
+R17	Support Arg1:T20 Arg2:T21
+R18	Attack Arg1:T19 Arg2:T21
+R19	Support Arg1:T22 Arg2:T21
+R20	Support Arg1:T24 Arg2:T23
+R21	Support Arg1:T25 Arg2:T23
+R22	Attack Arg1:T23 Arg2:T26
+R23	Support Arg1:T292 Arg2:T293

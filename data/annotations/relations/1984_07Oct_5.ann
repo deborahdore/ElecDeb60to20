@@ -28,7 +28,7 @@ T199	Claim 7644 7769	Does every woman in America have to present herself before 
 T200	Claim 7770 7784	It won't work.
 T201	Claim 7532 7586	if it's rape, how do you draw moral judgments on that?
 T202	Claim 7587 7643	If it's incest, how do you draw moral judgments on that?
-T314	Claim 9139 9266	There are a million and a half people out there standing in line waiting to adopt children who can't have them any other way.  
+T314	Claim 9139 9266	There are a million and a half people out there standing in line waiting to adopt children who can't have them any other way.
 T313	Claim 8591 8743	I don't think that any of us should be called upon here to stand and make a decision as to what other things might come under the self-defense tradition
 T152	Premise 1153 1276	there's been some reference without naming it here in the remarks of Mr. Mondale tied to injecting religion into government
 T153	Claim 1278 1324	With me, abortion is not a problem of religion
@@ -80,68 +80,68 @@ T124	Claim 9849 9918	the effect of these economic policies is like a massive gra
 T125	Claim 9920 9968	which has caused farm exports to drop 20 percent
 T580	Premise 9763 9816	Net farm income is off 50 percent in the last 3 years
 T581	Claim 9822 9843	every farmer knows it
-R1	Support Arg1:T150 Arg2:T151	
-R2	Attack Arg1:T153 Arg2:T152	
-R3	Support Arg1:T154 Arg2:T153	
-R4	Support Arg1:T156 Arg2:T155	
-R5	Support Arg1:T158 Arg2:T157	
-R6	Support Arg1:T159 Arg2:T157	
-R7	Support Arg1:T161 Arg2:T157	
-R8	Support Arg1:T162 Arg2:T157	
-R9	Support Arg1:T163 Arg2:T157	
-R10	Support Arg1:T164 Arg2:T155	
-R11	Support Arg1:T165 Arg2:T155	
-R12	Support Arg1:T564 Arg2:T167	
-R13	Support Arg1:T170 Arg2:T160	
-R14	Support Arg1:T564 Arg2:T172	
-R15	Support Arg1:T175 Arg2:T168	
-R16	Support Arg1:T168 Arg2:T173	
-R17	Support Arg1:T176 Arg2:T174	
-R18	Support Arg1:T178 Arg2:T177	
-R19	Attack Arg1:T177 Arg2:T160	
+R1	Support Arg1:T150 Arg2:T151
+R2	Attack Arg1:T153 Arg2:T152
+R3	Support Arg1:T154 Arg2:T153
+R4	Support Arg1:T156 Arg2:T155
+R5	Support Arg1:T158 Arg2:T157
+R6	Support Arg1:T159 Arg2:T157
+R7	Support Arg1:T161 Arg2:T157
+R8	Support Arg1:T162 Arg2:T157
+R9	Support Arg1:T163 Arg2:T157
+R10	Support Arg1:T164 Arg2:T155
+R11	Support Arg1:T165 Arg2:T155
+R12	Support Arg1:T564 Arg2:T167
+R13	Support Arg1:T170 Arg2:T160
+R14	Support Arg1:T564 Arg2:T172
+R15	Support Arg1:T175 Arg2:T168
+R16	Support Arg1:T168 Arg2:T173
+R17	Support Arg1:T176 Arg2:T174
+R18	Support Arg1:T178 Arg2:T177
+R19	Attack Arg1:T177 Arg2:T160
 T1	Claim 5200 5379	s it really the view of the American people, however you feel on the question of abortion, that government ought to be reaching into your livingrooms and making choices like this?
-R20	Support Arg1:T181 Arg2:T1	
-R21	Support Arg1:T566 Arg2:T1	
-R22	Support Arg1:T567 Arg2:T566	
-R23	Support Arg1:T567 Arg2:T181	
-R24	Support Arg1:T182 Arg2:T566	
-R25	Support Arg1:T182 Arg2:T181	
-R26	Support Arg1:T184 Arg2:T566	
-R27	Support Arg1:T184 Arg2:T181	
-R28	Support Arg1:T568 Arg2:T183	
-R29	Support Arg1:T183 Arg2:T566	
-R30	Support Arg1:T183 Arg2:T181	
-R31	Attack Arg1:T566 Arg2:T155	
-R32	Attack Arg1:T181 Arg2:T155	
-R33	Support Arg1:T186 Arg2:T566	
-R34	Support Arg1:T186 Arg2:T181	
-R35	Attack Arg1:T187 Arg2:T170	
-R36	Support Arg1:T189 Arg2:T187	
-R37	Support Arg1:T189 Arg2:T188	
-R38	Support Arg1:T569 Arg2:T191	
-R39	Support Arg1:T190 Arg2:T191	
-R40	Attack Arg1:T190 Arg2:T151	
-R41	Support Arg1:T570 Arg2:T192	
-R42	Support Arg1:T193 Arg2:T194	
-R43	Support Arg1:T198 Arg2:T196	
-R44	Support Arg1:T203 Arg2:T198	
-R45	Support Arg1:T197 Arg2:T198	
-R46	Support Arg1:T203 Arg2:T197	
-R47	Support Arg1:T201 Arg2:T197	
-R48	Support Arg1:T202 Arg2:T197	
-R49	Support Arg1:T200 Arg2:T199	
-R50	Support Arg1:T311 Arg2:T204	
-R51	Support Arg1:T311 Arg2:T313	
-R52	Support Arg1:T573 Arg2:T572	
-R53	Support Arg1:T574 Arg2:T315	
-R54	Support Arg1:T315 Arg2:T314	
-R55	Support Arg1:T575 Arg2:T574	
-R56	Support Arg1:T576 Arg2:T574	
-R57	Support Arg1:T574 Arg2:T577	
-R58	Support Arg1:T578 Arg2:T579	
-R59	Attack Arg1:T578 Arg2:T155	
-R60	Support Arg1:T580 Arg2:T581	
-R61	Support Arg1:T124 Arg2:T125	
-R62	Support Arg1:T124 Arg2:T123	
-R63	Support Arg1:T123 Arg2:T126	
-R64	Support Arg1:T126 Arg2:T127	
+R20	Support Arg1:T181 Arg2:T1
+R21	Support Arg1:T566 Arg2:T1
+R22	Support Arg1:T567 Arg2:T566
+R23	Support Arg1:T567 Arg2:T181
+R24	Support Arg1:T182 Arg2:T566
+R25	Support Arg1:T182 Arg2:T181
+R26	Support Arg1:T184 Arg2:T566
+R27	Support Arg1:T184 Arg2:T181
+R28	Support Arg1:T568 Arg2:T183
+R29	Support Arg1:T183 Arg2:T566
+R30	Support Arg1:T183 Arg2:T181
+R31	Attack Arg1:T566 Arg2:T155
+R32	Attack Arg1:T181 Arg2:T155
+R33	Support Arg1:T186 Arg2:T566
+R34	Support Arg1:T186 Arg2:T181
+R35	Attack Arg1:T187 Arg2:T170
+R36	Support Arg1:T189 Arg2:T187
+R37	Support Arg1:T189 Arg2:T188
+R38	Support Arg1:T569 Arg2:T191
+R39	Support Arg1:T190 Arg2:T191
+R40	Attack Arg1:T190 Arg2:T151
+R41	Support Arg1:T570 Arg2:T192
+R42	Support Arg1:T193 Arg2:T194
+R43	Support Arg1:T198 Arg2:T196
+R44	Support Arg1:T203 Arg2:T198
+R45	Support Arg1:T197 Arg2:T198
+R46	Support Arg1:T203 Arg2:T197
+R47	Support Arg1:T201 Arg2:T197
+R48	Support Arg1:T202 Arg2:T197
+R49	Support Arg1:T200 Arg2:T199
+R50	Support Arg1:T311 Arg2:T204
+R51	Support Arg1:T311 Arg2:T313
+R52	Support Arg1:T573 Arg2:T572
+R53	Support Arg1:T574 Arg2:T315
+R54	Support Arg1:T315 Arg2:T314
+R55	Support Arg1:T575 Arg2:T574
+R56	Support Arg1:T576 Arg2:T574
+R57	Support Arg1:T574 Arg2:T577
+R58	Support Arg1:T578 Arg2:T579
+R59	Attack Arg1:T578 Arg2:T155
+R60	Support Arg1:T580 Arg2:T581
+R61	Support Arg1:T124 Arg2:T125
+R62	Support Arg1:T124 Arg2:T123
+R63	Support Arg1:T123 Arg2:T126
+R64	Support Arg1:T126 Arg2:T127

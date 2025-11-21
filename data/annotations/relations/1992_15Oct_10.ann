@@ -59,41 +59,41 @@ T112	Claim 7869 8002	What I would do is to bring in the pension experts of the c
 T113	Claim 8012 8054	it's not just enough to have the guarantee
 T390	Premise 3907 3995	only in America would you have $2.8 trillion of it or 70% of it financed 5 years or less
 T392	Claim 7677 7730	we have to work out of so that surplus is building up
-R1	Support Arg1:T62 Arg2:T61	
-R2	Support Arg1:T49 Arg2:T48	
-R3	Support Arg1:T51 Arg2:T50	
-R4	Support Arg1:T53 Arg2:T52	
-R5	Support Arg1:T54 Arg2:T53	
+R1	Support Arg1:T62 Arg2:T61
+R2	Support Arg1:T49 Arg2:T48
+R3	Support Arg1:T51 Arg2:T50
+R4	Support Arg1:T53 Arg2:T52
+R5	Support Arg1:T54 Arg2:T53
 T2	Premise 3504 3637	Anybody that's ever built a successful business will tell you you optimize, optimize, optimize after you've put something into effect
-R6	Support Arg1:T72 Arg2:T64	
-R7	Support Arg1:T74 Arg2:T73	
-R8	Support Arg1:T77 Arg2:T78	
-R9	Support Arg1:T80 Arg2:T81	
-R10	Support Arg1:T79 Arg2:T81	
-R11	Support Arg1:T82 Arg2:T84	
-R12	Support Arg1:T83 Arg2:T84	
-R13	Support Arg1:T85 Arg2:T84	
-R14	Support Arg1:T86 Arg2:T84	
-R15	Support Arg1:T87 Arg2:T86	
-R16	Support Arg1:T88 Arg2:T75	
+R6	Support Arg1:T72 Arg2:T64
+R7	Support Arg1:T74 Arg2:T73
+R8	Support Arg1:T77 Arg2:T78
+R9	Support Arg1:T80 Arg2:T81
+R10	Support Arg1:T79 Arg2:T81
+R11	Support Arg1:T82 Arg2:T84
+R12	Support Arg1:T83 Arg2:T84
+R13	Support Arg1:T85 Arg2:T84
+R14	Support Arg1:T86 Arg2:T84
+R15	Support Arg1:T87 Arg2:T86
+R16	Support Arg1:T88 Arg2:T75
 T1	Premise 5541 5601	If we're $4 trillion down, we should have everything perfect
 T4	Premise 5607 5615	we don't
-R17	Attack Arg1:T4 Arg2:T1	
-R18	Support Arg1:T4 Arg2:T92	
-R19	Support Arg1:T92 Arg2:T93	
-R20	Equivalent Arg1:T75 Arg2:T93	
-R21	Support Arg1:T93 Arg2:T94	
-R22	Attack Arg1:T98 Arg2:T73	
-R23	Support Arg1:T102 Arg2:T98	
+R17	Attack Arg1:T4 Arg2:T1
+R18	Support Arg1:T4 Arg2:T92
+R19	Support Arg1:T92 Arg2:T93
+R20	Equivalent Arg1:T75 Arg2:T93
+R21	Support Arg1:T93 Arg2:T94
+R22	Attack Arg1:T98 Arg2:T73
+R23	Support Arg1:T102 Arg2:T98
 T3	Premise 6796 6920	I am convinced, having studied health care for a year hard and talking to hundreds and hundreds of people all across America
-R24	Support Arg1:T3 Arg2:T103	
-R25	Equivalent Arg1:T104 Arg2:T103	
-R26	Support Arg1:T105 Arg2:T103	
-R27	Support Arg1:T108 Arg2:T106	
-R28	Support Arg1:T107 Arg2:T108	
-R29	Support Arg1:T110 Arg2:T392	
-R30	Support Arg1:T392 Arg2:T109	
+R24	Support Arg1:T3 Arg2:T103
+R25	Equivalent Arg1:T104 Arg2:T103
+R26	Support Arg1:T105 Arg2:T103
+R27	Support Arg1:T108 Arg2:T106
+R28	Support Arg1:T107 Arg2:T108
+R29	Support Arg1:T110 Arg2:T392
+R30	Support Arg1:T392 Arg2:T109
 T5	Premise 8056 8231	We had a guarantee on the S&Ls, right? We had a guarantee -- and what happened? You picked up a $500-billion bill because of the dumb way the federal government deregulated it
 T6	Claim 8237 8343	I think we are going to have to change and strengthen the pension requirements on private retirement plans
-R31	Support Arg1:T5 Arg2:T113	
-R32	Support Arg1:T113 Arg2:T112	
+R31	Support Arg1:T5 Arg2:T113
+R32	Support Arg1:T113 Arg2:T112

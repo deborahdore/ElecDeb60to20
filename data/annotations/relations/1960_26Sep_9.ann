@@ -24,22 +24,22 @@ T376	Claim 3118 3160	It does not put a deficit on the Treasury.
 T377	Premise 3161 3255	The proposal advanced by you and by Mr. Javits would have cost six hundred millions of dollars
 T378	Premise 3258 3386	Mr. Rockefeller rejected it in New York, said he didn't agree with the financing at all, said it ought to be on Social Security.
 T379	Claim 3498 3543	One party is ready to move in these programs.
-R1	Support Arg1:T359 Arg2:T358	
-R2	Support Arg1:T361 Arg2:T359	
-R3	Support Arg1:T362 Arg2:T357	
-R4	Support Arg1:T363 Arg2:T359	
-R5	Support Arg1:T364 Arg2:T363	
-R6	Attack Arg1:T366 Arg2:T365	
-R7	Equivalent Arg1:T369 Arg2:T365	
-R9	Support Arg1:T371 Arg2:T374	
-R10	Support Arg1:T379 Arg2:T375	
-R11	Support Arg1:T378 Arg2:T379	
+R1	Support Arg1:T359 Arg2:T358
+R2	Support Arg1:T361 Arg2:T359
+R3	Support Arg1:T362 Arg2:T357
+R4	Support Arg1:T363 Arg2:T359
+R5	Support Arg1:T364 Arg2:T363
+R6	Attack Arg1:T366 Arg2:T365
+R7	Equivalent Arg1:T369 Arg2:T365
+R9	Support Arg1:T371 Arg2:T374
+R10	Support Arg1:T379 Arg2:T375
+R11	Support Arg1:T378 Arg2:T379
 T1	Claim 741 891	we get the opinion that in getting programs through the House or the Senate it's purely a question of legislative finagling and all that sort of thing
-R12	Attack Arg1:T358 Arg2:T1	
-R13	Attack Arg1:T1 Arg2:T357	
-R14	Support Arg1:T360 Arg2:T357	
-R15	Attack Arg1:T370 Arg2:T369	
-R8	Attack Arg1:T372 Arg2:T373	
-R16	Support Arg1:T377 Arg2:T378	
+R12	Attack Arg1:T358 Arg2:T1
+R13	Attack Arg1:T1 Arg2:T357
+R14	Support Arg1:T360 Arg2:T357
+R15	Attack Arg1:T370 Arg2:T369
+R8	Attack Arg1:T372 Arg2:T373
+R16	Support Arg1:T377 Arg2:T378
 T2	Claim 3544 3582	The other party gives them lip service
-R17	Support Arg1:T2 Arg2:T375	
+R17	Support Arg1:T2 Arg2:T375

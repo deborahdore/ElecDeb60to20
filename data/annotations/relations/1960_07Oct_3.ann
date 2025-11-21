@@ -31,41 +31,41 @@ T97	Claim 4265 4364	These are the questions in these areas that the North and So
 T98	Claim 4012 4074	These are the great questions: equality of education in school
 T99	Claim 4366 4475	What will be the leadership of the president in these areas to provide equality of opportunity for employment
 T100	Claim 4477 4613	Equality of opportunity in the field of housing, which could be done on all federal supported housing by a stroke of the president's pen
-R1	Support Arg1:T65 Arg2:T64	
-R4	Attack Arg1:T80 Arg2:T78	
-R5	Support Arg1:T82 Arg2:T81	
-R6	Equivalent Arg1:T81 Arg2:T83	
-R7	Equivalent Arg1:T76 Arg2:T75	
-R8	Equivalent Arg1:T76 Arg2:T74	
-R9	Equivalent Arg1:T75 Arg2:T74	
-R14	Support Arg1:T93 Arg2:T92	
-R15	Attack Arg1:T94 Arg2:T78	
-R16	Attack Arg1:T95 Arg2:T64	
-R17	Attack Arg1:T89 Arg2:T68	
-R18	Attack Arg1:T90 Arg2:T91	
-R19	Equivalent Arg1:T97 Arg2:T98	
-R20	Support Arg1:T87 Arg2:T86	
-R21	Support Arg1:T100 Arg2:T86	
-R22	Support Arg1:T99 Arg2:T86	
-R23	Support Arg1:T88 Arg2:T86	
+R1	Support Arg1:T65 Arg2:T64
+R4	Attack Arg1:T80 Arg2:T78
+R5	Support Arg1:T82 Arg2:T81
+R6	Equivalent Arg1:T81 Arg2:T83
+R7	Equivalent Arg1:T76 Arg2:T75
+R8	Equivalent Arg1:T76 Arg2:T74
+R9	Equivalent Arg1:T75 Arg2:T74
+R14	Support Arg1:T93 Arg2:T92
+R15	Attack Arg1:T94 Arg2:T78
+R16	Attack Arg1:T95 Arg2:T64
+R17	Attack Arg1:T89 Arg2:T68
+R18	Attack Arg1:T90 Arg2:T91
+R19	Equivalent Arg1:T97 Arg2:T98
+R20	Support Arg1:T87 Arg2:T86
+R21	Support Arg1:T100 Arg2:T86
+R22	Support Arg1:T99 Arg2:T86
+R23	Support Arg1:T88 Arg2:T86
 T1	Premise 2771 3035	when we have Khrushchev in this country - a man who has enslaved millions, a man who has slaughtered thousands - we cannot continue to have a situation where he can point the finger at the United States of America and say that we are denying rights to our citizens
 T2	Premise 1810 2011	I've heard them explain - try to explain - how they tell their children how they can go into a store and buy a loaf of bread but then can't go into that store and sit at the counter and get a Coca Cola
 T3	Premise 705 804	about one out of every four jobs is held by and is allotted by people who have government contracts
-R25	Support Arg1:T3 Arg2:T66	
-R26	Support Arg1:T66 Arg2:T67	
-R2	Support Arg1:T67 Arg2:T64	
-R24	Support Arg1:T80 Arg2:T79	
-R27	Support Arg1:T68 Arg2:T78	
+R25	Support Arg1:T3 Arg2:T66
+R26	Support Arg1:T66 Arg2:T67
+R2	Support Arg1:T67 Arg2:T64
+R24	Support Arg1:T80 Arg2:T79
+R27	Support Arg1:T68 Arg2:T78
 T4	Premise 1544 1601	I refer for example to our attitude on the sit-in strikes
-R3	Support Arg1:T4 Arg2:T81	
-R28	Support Arg1:T2 Arg2:T83	
-R29	Support Arg1:T83 Arg2:T85	
-R10	Attack Arg1:T74 Arg2:T72	
-R30	Support Arg1:T75 Arg2:T72	
-R31	Support Arg1:T76 Arg2:T72	
-R11	Support Arg1:T72 Arg2:T83	
-R12	Support Arg1:T73 Arg2:T83	
-R13	Support Arg1:T70 Arg2:T83	
-R32	Support Arg1:T1 Arg2:T70	
-R33	Support Arg1:T96 Arg2:T95	
-R34	Attack Arg1:T91 Arg2:T85	
+R3	Support Arg1:T4 Arg2:T81
+R28	Support Arg1:T2 Arg2:T83
+R29	Support Arg1:T83 Arg2:T85
+R10	Attack Arg1:T74 Arg2:T72
+R30	Support Arg1:T75 Arg2:T72
+R31	Support Arg1:T76 Arg2:T72
+R11	Support Arg1:T72 Arg2:T83
+R12	Support Arg1:T73 Arg2:T83
+R13	Support Arg1:T70 Arg2:T83
+R32	Support Arg1:T1 Arg2:T70
+R33	Support Arg1:T96 Arg2:T95
+R34	Attack Arg1:T91 Arg2:T85

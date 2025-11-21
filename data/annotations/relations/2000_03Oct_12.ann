@@ -38,46 +38,46 @@ T916	Premise 3150 3240	you are the ones who have the hardest time paying taxes, 
 T917	Premise 3242 3337	You are the ones who are making car payments and mortgage payments and doing right by your kids
 T918	Premise 3343 3404	a lot of times there are powerful forces that are against you
 T919	Premise 3555 3957	I know one thing about the position of president, it's the only position in our Constitution that is filled by an individual who is given the responsibility to fight not just for one state or one district or the well-connected or wealthy, but to fight for all of the people, including especially those who most need somebody who will stand up and take on whatever powerful forces might stand in the way
-R1	Support Arg1:T898 Arg2:T897	
-R2	Support Arg1:T899 Arg2:T897	
-R3	Support Arg1:T897 Arg2:T896	
-R4	Support Arg1:T897 Arg2:T895	
-R5	Support Arg1:T900 Arg2:T901	
-R6	Support Arg1:T899 Arg2:T900	
-R7	Support Arg1:T897 Arg2:T900	
-R8	Support Arg1:T880 Arg2:T881	
-R9	Support Arg1:T881 Arg2:T882	
-R10	Support Arg1:T884 Arg2:T883	
-R11	Support Arg1:T888 Arg2:T886	
-R12	Support Arg1:T888 Arg2:T889	
-R13	Support Arg1:T886 Arg2:T890	
-R14	Support Arg1:T889 Arg2:T890	
-R15	Support Arg1:T891 Arg2:T890	
-R16	Support Arg1:T887 Arg2:T891	
+R1	Support Arg1:T898 Arg2:T897
+R2	Support Arg1:T899 Arg2:T897
+R3	Support Arg1:T897 Arg2:T896
+R4	Support Arg1:T897 Arg2:T895
+R5	Support Arg1:T900 Arg2:T901
+R6	Support Arg1:T899 Arg2:T900
+R7	Support Arg1:T897 Arg2:T900
+R8	Support Arg1:T880 Arg2:T881
+R9	Support Arg1:T881 Arg2:T882
+R10	Support Arg1:T884 Arg2:T883
+R11	Support Arg1:T888 Arg2:T886
+R12	Support Arg1:T888 Arg2:T889
+R13	Support Arg1:T886 Arg2:T890
+R14	Support Arg1:T889 Arg2:T890
+R15	Support Arg1:T891 Arg2:T890
+R16	Support Arg1:T887 Arg2:T891
 T1	Claim 2272 2332	My intentions are to earn your vote and earn your confidence
-R17	Support Arg1:T885 Arg2:T883	
-R18	Support Arg1:T893 Arg2:T892	
-R19	Support Arg1:T894 Arg2:T892	
+R17	Support Arg1:T885 Arg2:T883
+R18	Support Arg1:T893 Arg2:T892
+R19	Support Arg1:T894 Arg2:T892
 T2	Premise 2334 2358	I'm asking for your vote
-R20	Support Arg1:T2 Arg2:T1	
+R20	Support Arg1:T2 Arg2:T1
 T3	Premise 2360 2387	I want you to be on my team
-R21	Support Arg1:T3 Arg2:T1	
-R22	Support Arg1:T912 Arg2:T913	
-R23	Support Arg1:T913 Arg2:T911	
-R24	Support Arg1:T914 Arg2:T911	
+R21	Support Arg1:T3 Arg2:T1
+R22	Support Arg1:T912 Arg2:T913
+R23	Support Arg1:T913 Arg2:T911
+R24	Support Arg1:T914 Arg2:T911
 T4	Premise 2857 2933	Will we use the prosperity to enrich all of our families and not just a few?
-R25	Attack Arg1:T914 Arg2:T4	
-R26	Support Arg1:T916 Arg2:T917	
-R28	Support Arg1:T916 Arg2:T915	
-R29	Support Arg1:T917 Arg2:T915	
-R27	Attack Arg1:T915 Arg2:T918	
-R30	Attack Arg1:T910 Arg2:T918	
-R31	Support Arg1:T915 Arg2:T910	
-R32	Support Arg1:T919 Arg2:T910	
-R33	Support Arg1:T907 Arg2:T909	
-R34	Support Arg1:T909 Arg2:T908	
-R35	Support Arg1:T908 Arg2:T902	
-R36	Support Arg1:T905 Arg2:T906	
-R37	Support Arg1:T906 Arg2:T903	
-R38	Support Arg1:T903 Arg2:T904	
-R39	Support Arg1:T902 Arg2:T903	
+R25	Attack Arg1:T914 Arg2:T4
+R26	Support Arg1:T916 Arg2:T917
+R28	Support Arg1:T916 Arg2:T915
+R29	Support Arg1:T917 Arg2:T915
+R27	Attack Arg1:T915 Arg2:T918
+R30	Attack Arg1:T910 Arg2:T918
+R31	Support Arg1:T915 Arg2:T910
+R32	Support Arg1:T919 Arg2:T910
+R33	Support Arg1:T907 Arg2:T909
+R34	Support Arg1:T909 Arg2:T908
+R35	Support Arg1:T908 Arg2:T902
+R36	Support Arg1:T905 Arg2:T906
+R37	Support Arg1:T906 Arg2:T903
+R38	Support Arg1:T903 Arg2:T904
+R39	Support Arg1:T902 Arg2:T903

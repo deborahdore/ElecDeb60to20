@@ -85,116 +85,116 @@ T534	Premise 6487 6578	you could fire them, and you could recall them if you dec
 T535	Claim 7573 7620	Make the Soviets pay for their irresponsibility
 T1	Claim 2183 2192	we're not
 T2	Claim 598 632	I retract nothing that I have said
-R2	Support Arg1:T524 Arg2:T2	
-R3	Support Arg1:T54 Arg2:T52	
-R4	Support Arg1:T55 Arg2:T53	
-R5	Support Arg1:T56 Arg2:T496	
-R7	Support Arg1:T495 Arg2:T496	
-R10	Support Arg1:T60 Arg2:T526	
-R11	Support Arg1:T527 Arg2:T526	
-R12	Support Arg1:T61 Arg2:T527	
+R2	Support Arg1:T524 Arg2:T2
+R3	Support Arg1:T54 Arg2:T52
+R4	Support Arg1:T55 Arg2:T53
+R5	Support Arg1:T56 Arg2:T496
+R7	Support Arg1:T495 Arg2:T496
+R10	Support Arg1:T60 Arg2:T526
+R11	Support Arg1:T527 Arg2:T526
+R12	Support Arg1:T61 Arg2:T527
 T3	Claim 1930 1961	I've made it very plain to them
-R13	Support Arg1:T3 Arg2:T65	
-R14	Support Arg1:T66 Arg2:T65	
+R13	Support Arg1:T3 Arg2:T65
+R14	Support Arg1:T66 Arg2:T65
 T4	Claim 2130 2152	they claim they're not
 T5	Claim 2158 2181	I made it plain to them
-R15	Support Arg1:T1 Arg2:T5	
-R16	Support Arg1:T5 Arg2:T63	
+R15	Support Arg1:T1 Arg2:T5
+R16	Support Arg1:T5 Arg2:T63
 T6	Premise 2240 2355	I just thought when I came into office it was time that there was some realistic talk to and about the Soviet Union
-R17	Support Arg1:T6 Arg2:T63	
-R18	Support Arg1:T68 Arg2:T72	
-R19	Support Arg1:T69 Arg2:T528	
-R20	Support Arg1:T70 Arg2:T72	
-R24	Equivalent Arg1:T73 Arg2:T72	
-R25	Support Arg1:T74 Arg2:T73	
-R26	Support Arg1:T75 Arg2:T74	
+R17	Support Arg1:T6 Arg2:T63
+R18	Support Arg1:T68 Arg2:T72
+R19	Support Arg1:T69 Arg2:T528
+R20	Support Arg1:T70 Arg2:T72
+R24	Equivalent Arg1:T73 Arg2:T72
+R25	Support Arg1:T74 Arg2:T73
+R26	Support Arg1:T75 Arg2:T74
 T7	Claim 3744 3852	But I am not going to pick out one and, in advance, hypothetically say, "Oh, yes, we would send troops there
-R27	Support Arg1:T529 Arg2:T7	
-R28	Support Arg1:T79 Arg2:T78	
-R29	Support Arg1:T80 Arg2:T79	
-R30	Support Arg1:T82 Arg2:T81	
-R31	Support Arg1:T530 Arg2:T85	
-R32	Support Arg1:T84 Arg2:T85	
-R33	Support Arg1:T83 Arg2:T530	
+R27	Support Arg1:T529 Arg2:T7
+R28	Support Arg1:T79 Arg2:T78
+R29	Support Arg1:T80 Arg2:T79
+R30	Support Arg1:T82 Arg2:T81
+R31	Support Arg1:T530 Arg2:T85
+R32	Support Arg1:T84 Arg2:T85
+R33	Support Arg1:T83 Arg2:T530
 T8	Premise 4497 4525	subject to full verification
-R34	Support Arg1:T81 Arg2:T8	
+R34	Support Arg1:T81 Arg2:T8
 T9	Claim 4882 4921	Where I part with the President is that
-R35	Support Arg1:T76 Arg2:T9	
-R37	Support Arg1:T77 Arg2:T86	
-R38	Support Arg1:T87 Arg2:T86	
-R40	Support Arg1:T90 Arg2:T91	
-R41	Support Arg1:T92 Arg2:T91	
-R43	Support Arg1:T93 Arg2:T532	
-R45	Support Arg1:T425 Arg2:T426	
-R46	Support Arg1:T426 Arg2:T93	
-R47	Support Arg1:T534 Arg2:T533	
+R35	Support Arg1:T76 Arg2:T9
+R37	Support Arg1:T77 Arg2:T86
+R38	Support Arg1:T87 Arg2:T86
+R40	Support Arg1:T90 Arg2:T91
+R41	Support Arg1:T92 Arg2:T91
+R43	Support Arg1:T93 Arg2:T532
+R45	Support Arg1:T425 Arg2:T426
+R46	Support Arg1:T426 Arg2:T93
+R47	Support Arg1:T534 Arg2:T533
 T10	Claim 6621 6655	A President must know those things
-R48	Support Arg1:T96 Arg2:T95	
-R49	Support Arg1:T97 Arg2:T96	
+R48	Support Arg1:T96 Arg2:T95
+R49	Support Arg1:T97 Arg2:T96
 T11	Claim 7350 7437	Where the Soviet Union has acted irresponsibly, as they have in many of those countries
 T12	Premise 7439 7470	especially, recently, in Poland
-R50	Support Arg1:T12 Arg2:T11	
-R51	Support Arg1:T98 Arg2:T97	
-R52	Support Arg1:T11 Arg2:T535	
-R53	Support Arg1:T535 Arg2:T98	
+R50	Support Arg1:T12 Arg2:T11
+R51	Support Arg1:T98 Arg2:T97
+R52	Support Arg1:T11 Arg2:T535
+R53	Support Arg1:T535 Arg2:T98
 T13	Claim 7660 7803	to make certain that we continue to look forward to progress toward greater independence by these nations and work with each of them separately
 T14	Claim 7859 7976	I'm not going to continue trying to respond to these repetitions of the falsehoods that have already been stated here
-R54	Support Arg1:T498 Arg2:T497	
-R55	Support Arg1:T499 Arg2:T497	
-R57	Support Arg1:T106 Arg2:T105	
-R59	Support Arg1:T101 Arg2:T105	
-R60	Support Arg1:T102 Arg2:T105	
-R61	Support Arg1:T103 Arg2:T105	
-R62	Support Arg1:T104 Arg2:T105	
-R63	Support Arg1:T107 Arg2:T105	
-R64	Support Arg1:T110 Arg2:T100	
-R67	Support Arg1:T111 Arg2:T112	
-R68	Support Arg1:T113 Arg2:T427	
-R69	Support Arg1:T112 Arg2:T427	
-R70	Support Arg1:T428 Arg2:T427	
-R71	Support Arg1:T116 Arg2:T115	
+R54	Support Arg1:T498 Arg2:T497
+R55	Support Arg1:T499 Arg2:T497
+R57	Support Arg1:T106 Arg2:T105
+R59	Support Arg1:T101 Arg2:T105
+R60	Support Arg1:T102 Arg2:T105
+R61	Support Arg1:T103 Arg2:T105
+R62	Support Arg1:T104 Arg2:T105
+R63	Support Arg1:T107 Arg2:T105
+R64	Support Arg1:T110 Arg2:T100
+R67	Support Arg1:T111 Arg2:T112
+R68	Support Arg1:T113 Arg2:T427
+R69	Support Arg1:T112 Arg2:T427
+R70	Support Arg1:T428 Arg2:T427
+R71	Support Arg1:T116 Arg2:T115
 T15	Premise 7982 8175	with regard to whether Mr. Mondale would be strong, as he said he would be, I know that he has a commercial out where he's appearing on the deck of the Nimitz and watching the F - 14's take off
-R74	Attack Arg1:T497 Arg2:T15	
+R74	Attack Arg1:T497 Arg2:T15
 T16	Claim 9029 9131	I accept your commitment to peace, but I want you to accept my commitment to a strong national defense
-R75	Attack Arg1:T16 Arg2:T105	
-R76	Support Arg1:T108 Arg2:T16	
-R77	Attack Arg1:T109 Arg2:T100	
-R78	Support Arg1:T109 Arg2:T111	
-R1	Support Arg1:T2 Arg2:T52	
-R65	Attack Arg1:T53 Arg2:T52	
+R75	Attack Arg1:T16 Arg2:T105
+R76	Support Arg1:T108 Arg2:T16
+R77	Attack Arg1:T109 Arg2:T100
+R78	Support Arg1:T109 Arg2:T111
+R1	Support Arg1:T2 Arg2:T52
+R65	Attack Arg1:T53 Arg2:T52
 T17	Premise 886 906	They don't like ours
-R66	Support Arg1:T17 Arg2:T53	
-R79	Support Arg1:T64 Arg2:T53	
+R66	Support Arg1:T17 Arg2:T53
+R79	Support Arg1:T64 Arg2:T53
 T18	Claim 956 995	they sure better not try to change ours
-R80	Support Arg1:T18 Arg2:T53	
-R6	Support Arg1:T496 Arg2:T55	
-R81	Support Arg1:T57 Arg2:T58	
-R9	Attack Arg1:T526 Arg2:T59	
-R8	Attack Arg1:T58 Arg2:T59	
-R82	Attack Arg1:T60 Arg2:T59	
-R83	Attack Arg1:T527 Arg2:T59	
-R84	Attack Arg1:T61 Arg2:T59	
-R85	Support Arg1:T58 Arg2:T65	
-R86	Support Arg1:T62 Arg2:T65	
-R87	Equivalent Arg1:T5 Arg2:T3	
+R80	Support Arg1:T18 Arg2:T53
+R6	Support Arg1:T496 Arg2:T55
+R81	Support Arg1:T57 Arg2:T58
+R9	Attack Arg1:T526 Arg2:T59
+R8	Attack Arg1:T58 Arg2:T59
+R82	Attack Arg1:T60 Arg2:T59
+R83	Attack Arg1:T527 Arg2:T59
+R84	Attack Arg1:T61 Arg2:T59
+R85	Support Arg1:T58 Arg2:T65
+R86	Support Arg1:T62 Arg2:T65
+R87	Equivalent Arg1:T5 Arg2:T3
 T19	Premise 2361 2387	we did get their attention
-R88	Support Arg1:T19 Arg2:T63	
+R88	Support Arg1:T19 Arg2:T63
 T20	Premise 2391 2422	Regions Vital to U.S. Interests
-R89	Support Arg1:T20 Arg2:T63	
-R90	Support Arg1:T528 Arg2:T68	
-R21	Support Arg1:T71 Arg2:T70	
-R22	Attack Arg1:T7 Arg2:T73	
+R89	Support Arg1:T20 Arg2:T63
+R90	Support Arg1:T528 Arg2:T68
+R21	Support Arg1:T71 Arg2:T70
+R22	Attack Arg1:T7 Arg2:T73
 T21	Claim 3016 3083	I am not going to make the decision as to what the tactics could be
-R23	Support Arg1:T21 Arg2:T7	
-R91	Support Arg1:T8 Arg2:T78	
-R36	Support Arg1:T86 Arg2:T9	
-R39	Attack Arg1:T531 Arg2:T86	
-R42	Attack Arg1:T88 Arg2:T89	
-R44	Attack Arg1:T90 Arg2:T526	
-R92	Support Arg1:T99 Arg2:T15	
-R56	Support Arg1:T111 Arg2:T110	
-R58	Support Arg1:T427 Arg2:T114	
-R72	Support Arg1:T115 Arg2:T114	
-R73	Support Arg1:T114 Arg2:T427	
-R93	Attack Arg1:T497 Arg2:T532	
-R94	Attack Arg1:T105 Arg2:T532	
+R23	Support Arg1:T21 Arg2:T7
+R91	Support Arg1:T8 Arg2:T78
+R36	Support Arg1:T86 Arg2:T9
+R39	Attack Arg1:T531 Arg2:T86
+R42	Attack Arg1:T88 Arg2:T89
+R44	Attack Arg1:T90 Arg2:T526
+R92	Support Arg1:T99 Arg2:T15
+R56	Support Arg1:T111 Arg2:T110
+R58	Support Arg1:T427 Arg2:T114
+R72	Support Arg1:T115 Arg2:T114
+R73	Support Arg1:T114 Arg2:T427
+R93	Attack Arg1:T497 Arg2:T532
+R94	Attack Arg1:T105 Arg2:T532

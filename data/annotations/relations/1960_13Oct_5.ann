@@ -14,22 +14,22 @@ T158	Claim 2184 2262	I could approach President Eisenhower in maintaining the di
 T159	Premise 2264 2333	in seeing to it that whenever any mother or father talks to his child
 T160	Premise 2335 2376	he can look at the man in the White House
 T161	Premise 2441 2539	there is a man who maintains the kind of standards personally that I would want my child to follow
-R2	Attack Arg1:T139 Arg2:T141	
-R3	Support Arg1:T149 Arg2:T148	
-R5	Support Arg1:T146 Arg2:T147	
-R4	Support Arg1:T150 Arg2:T148	
-R7	Support Arg1:T148 Arg2:T151	
-R11	Support Arg1:T157 Arg2:T158	
-R13	Support Arg1:T159 Arg2:T160	
-R14	Support Arg1:T160 Arg2:T161	
-R15	Support Arg1:T161 Arg2:T158	
+R2	Attack Arg1:T139 Arg2:T141
+R3	Support Arg1:T149 Arg2:T148
+R5	Support Arg1:T146 Arg2:T147
+R4	Support Arg1:T150 Arg2:T148
+R7	Support Arg1:T148 Arg2:T151
+R11	Support Arg1:T157 Arg2:T158
+R13	Support Arg1:T159 Arg2:T160
+R14	Support Arg1:T160 Arg2:T161
+R15	Support Arg1:T161 Arg2:T158
 T1	Premise 1511 1653	One thing I've noted as I've traveled around the country are the tremendous number of children who come out to see the presidential candidates
 T2	Claim 759 928	I really don't think there's anything that I could say to President Truman that's going to cause him, at the age of seventy-six, to change his particular speaking manner
-R17	Support Arg1:T139 Arg2:T2	
-R18	Support Arg1:T140 Arg2:T2	
+R17	Support Arg1:T139 Arg2:T2
+R18	Support Arg1:T140 Arg2:T2
 T3	Premise 1655 1764	I see mothers holding their babies up, so that they can see a man who might be president of the United States
-R1	Support Arg1:T155 Arg2:T3	
-R6	Support Arg1:T1 Arg2:T156	
-R8	Support Arg1:T3 Arg2:T156	
-R9	Support Arg1:T151 Arg2:T158	
-R10	Support Arg1:T156 Arg2:T158	
+R1	Support Arg1:T155 Arg2:T3
+R6	Support Arg1:T1 Arg2:T156
+R8	Support Arg1:T3 Arg2:T156
+R9	Support Arg1:T151 Arg2:T158
+R10	Support Arg1:T156 Arg2:T158

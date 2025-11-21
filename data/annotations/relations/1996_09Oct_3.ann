@@ -132,145 +132,145 @@ T225	Premise 18527 18561	It is not the President's position
 T226	Claim 18603 18624	We will save Medicare
 T227	Claim 18626 18710	We will stop efforts to hurt Medicare, and we'll do it within a balanced budget plan
 T1	Question 8 83	Mr. Kemp, do we have a serious race problem in the United States right now?
-R2	Support Arg1:T94 Arg2:T95	
-R1	Support Arg1:T96 Arg2:T95	
+R2	Support Arg1:T94 Arg2:T95
+R1	Support Arg1:T96 Arg2:T95
 T2	Claim 533 645	I think it's being split, Jim, not so much between white and black, although that's still a very serious problem
-R3	Support Arg1:T97 Arg2:T2	
+R3	Support Arg1:T97 Arg2:T2
 T3	Premise 677 1019	Our general economy, our national economy, our mainstream economy is democratic, is based on incentives, a small "d" Al, it's capitalism and incentives for working and saving and investing and producing, and families and the things that really lead to progress up that ladder that we call "The American Dream," but is what is really universal
-R4	Support Arg1:T3 Arg2:T97	
+R4	Support Arg1:T3 Arg2:T97
 T5	Premise 1025 1205	unfortunately, in urban America, and I was glad to hear the Vice President talk a little bit about it, uh there -- they have abandoned the inner cities. There's a socialist economy
-R5	Support Arg1:T5 Arg2:T97	
-R6	Support Arg1:T99 Arg2:T5	
+R5	Support Arg1:T5 Arg2:T97
+R6	Support Arg1:T99 Arg2:T5
 T4	Premise 1235 1264	There's mostly public housing
-R7	Support Arg1:T4 Arg2:T5	
-R8	Support Arg1:T100 Arg2:T5	
-R9	Support Arg1:T101 Arg2:T5	
-R10	Support Arg1:T101 Arg2:T102	
-R11	Support Arg1:T100 Arg2:T102	
-R12	Support Arg1:T4 Arg2:T102	
-R13	Support Arg1:T99 Arg2:T102	
+R7	Support Arg1:T4 Arg2:T5
+R8	Support Arg1:T100 Arg2:T5
+R9	Support Arg1:T101 Arg2:T5
+R10	Support Arg1:T101 Arg2:T102
+R11	Support Arg1:T100 Arg2:T102
+R12	Support Arg1:T4 Arg2:T102
+R13	Support Arg1:T99 Arg2:T102
 T6	Claim 1503 1561	That must change, and it will under Bob Dole and Jack Kemp
-R14	Support Arg1:T102 Arg2:T6	
-R15	Support Arg1:T105 Arg2:T104	
-R16	Support Arg1:T104 Arg2:T103	
-R17	Support Arg1:T106 Arg2:T104	
-R18	Support Arg1:T107 Arg2:T104	
-R19	Support Arg1:T108 Arg2:T104	
-R20	Support Arg1:T109 Arg2:T108	
-R21	Support Arg1:T110 Arg2:T104	
-R22	Attack Arg1:T111 Arg2:T108	
-R23	Support Arg1:T112 Arg2:T111	
-R24	Support Arg1:T113 Arg2:T111	
-R25	Support Arg1:T114 Arg2:T116	
-R26	Attack Arg1:T118 Arg2:T112	
-R27	Support Arg1:T119 Arg2:T118	
-R28	Support Arg1:T120 Arg2:T119	
-R29	Support Arg1:T121 Arg2:T119	
+R14	Support Arg1:T102 Arg2:T6
+R15	Support Arg1:T105 Arg2:T104
+R16	Support Arg1:T104 Arg2:T103
+R17	Support Arg1:T106 Arg2:T104
+R18	Support Arg1:T107 Arg2:T104
+R19	Support Arg1:T108 Arg2:T104
+R20	Support Arg1:T109 Arg2:T108
+R21	Support Arg1:T110 Arg2:T104
+R22	Attack Arg1:T111 Arg2:T108
+R23	Support Arg1:T112 Arg2:T111
+R24	Support Arg1:T113 Arg2:T111
+R25	Support Arg1:T114 Arg2:T116
+R26	Attack Arg1:T118 Arg2:T112
+R27	Support Arg1:T119 Arg2:T118
+R28	Support Arg1:T120 Arg2:T119
+R29	Support Arg1:T121 Arg2:T119
 T7	Question 3277 3421	Mr. Vice President, if re-elected, what would, what could we look forward to in the way of an inner city policy from a Clinton/Gore second term?
-R30	Support Arg1:T116 Arg2:T115	
-R31	Support Arg1:T117 Arg2:T115	
-R32	Support Arg1:T124 Arg2:T123	
-R33	Support Arg1:T128 Arg2:T127	
-R34	Support Arg1:T129 Arg2:T130	
-R35	Support Arg1:T126 Arg2:T130	
-R36	Attack Arg1:T133 Arg2:T118	
-R37	Support Arg1:T133 Arg2:T132	
-R38	Support Arg1:T134 Arg2:T133	
-R39	Support Arg1:T136 Arg2:T135	
-R40	Support Arg1:T138 Arg2:T137	
-R41	Support Arg1:T139 Arg2:T137	
-R42	Attack Arg1:T141 Arg2:T132	
-R43	Attack Arg1:T142 Arg2:T132	
+R30	Support Arg1:T116 Arg2:T115
+R31	Support Arg1:T117 Arg2:T115
+R32	Support Arg1:T124 Arg2:T123
+R33	Support Arg1:T128 Arg2:T127
+R34	Support Arg1:T129 Arg2:T130
+R35	Support Arg1:T126 Arg2:T130
+R36	Attack Arg1:T133 Arg2:T118
+R37	Support Arg1:T133 Arg2:T132
+R38	Support Arg1:T134 Arg2:T133
+R39	Support Arg1:T136 Arg2:T135
+R40	Support Arg1:T138 Arg2:T137
+R41	Support Arg1:T139 Arg2:T137
+R42	Attack Arg1:T141 Arg2:T132
+R43	Attack Arg1:T142 Arg2:T132
 T8	Premise 6147 6311	that empowerment zone that I mentioned in Detroit is creating jobs not only for Joann Crowder, who feels proud that she's off of welfare now, and we're proud of her
-R44	Support Arg1:T8 Arg2:T143	
-R45	Support Arg1:T144 Arg2:T143	
-R46	Attack Arg1:T143 Arg2:T133	
+R44	Support Arg1:T8 Arg2:T143
+R45	Support Arg1:T144 Arg2:T143
+R46	Attack Arg1:T143 Arg2:T133
 T9	Question 6443 6591	you said recently that one of the problems related to this was that all the capital was in the hands of the white people. What did you mean by that?
-R47	Support Arg1:T145 Arg2:T146	
+R47	Support Arg1:T145 Arg2:T146
 T10	Claim 7092 7150	Bill Clinton and my friend, Al Gore, defend the status quo
-R48	Support Arg1:T146 Arg2:T147	
-R49	Support Arg1:T149 Arg2:T147	
-R50	Support Arg1:T148 Arg2:T147	
+R48	Support Arg1:T146 Arg2:T147
+R49	Support Arg1:T149 Arg2:T147
+R50	Support Arg1:T148 Arg2:T147
 T11	Claim 7443 7725	by cutting and eliminating the Capital Gains, by cutting and eliminating the Estate Tax, by bringing the top tax rate down to something reasonable, like -- here he goes again -- I think in peacetime, it shouldn't be higher, Bob, and I don't think it should be higher than 25 percent
-R51	Support Arg1:T150 Arg2:T149	
-R52	Support Arg1:T151 Arg2:T150	
-R53	Support Arg1:T152 Arg2:T150	
-R54	Support Arg1:T153 Arg2:T150	
-R55	Attack Arg1:T154 Arg2:T150	
-R56	Support Arg1:T155 Arg2:T154	
-R57	Support Arg1:T156 Arg2:T154	
-R58	Attack Arg1:T156 Arg2:T157	
-R59	Support Arg1:T158 Arg2:T154	
-R60	Support Arg1:T159 Arg2:T154	
-R61	Support Arg1:T160 Arg2:T159	
-R62	Support Arg1:T161 Arg2:T154	
+R51	Support Arg1:T150 Arg2:T149
+R52	Support Arg1:T151 Arg2:T150
+R53	Support Arg1:T152 Arg2:T150
+R54	Support Arg1:T153 Arg2:T150
+R55	Attack Arg1:T154 Arg2:T150
+R56	Support Arg1:T155 Arg2:T154
+R57	Support Arg1:T156 Arg2:T154
+R58	Attack Arg1:T156 Arg2:T157
+R59	Support Arg1:T158 Arg2:T154
+R60	Support Arg1:T159 Arg2:T154
+R61	Support Arg1:T160 Arg2:T159
+R62	Support Arg1:T161 Arg2:T154
 T12	Premise 9194 9390	a $550-billion tax cut, this is something that Al does not want to mention, has to be viewed against the context of a $50-trillion U.S. economy output of goods and services over the next six years
-R63	Equivalent Arg1:T162 Arg2:T12	
-R64	Attack Arg1:T12 Arg2:T155	
-R65	Attack Arg1:T163 Arg2:T158	
-R66	Support Arg1:T162 Arg2:T163	
-R67	Support Arg1:T164 Arg2:T163	
-R68	Support Arg1:T165 Arg2:T163	
+R63	Equivalent Arg1:T162 Arg2:T12
+R64	Attack Arg1:T12 Arg2:T155
+R65	Attack Arg1:T163 Arg2:T158
+R66	Support Arg1:T162 Arg2:T163
+R67	Support Arg1:T164 Arg2:T163
+R68	Support Arg1:T165 Arg2:T163
 T13	Question 9732 9916	Mr. Vice President, what about Mr. Kemp's point that he's made a couple of times that what we need is to throw away the current -- the present tax code and write a whole new tax system
 T14	Premise 10262 10414	We already cut taxes on 15 million working families in this county, with an average of about $1,000 in tax relief to those making $25,000 a year or less
-R69	Support Arg1:T171 Arg2:T170	
-R70	Support Arg1:T173 Arg2:T172	
-R71	Support Arg1:T14 Arg2:T172	
-R72	Support Arg1:T169 Arg2:T172	
-R73	Support Arg1:T168 Arg2:T172	
-R74	Support Arg1:T167 Arg2:T172	
-R75	Support Arg1:T166 Arg2:T172	
-R76	Attack Arg1:T174 Arg2:T170	
-R77	Support Arg1:T170 Arg2:T172	
-R78	Support Arg1:T174 Arg2:T175	
-R79	Support Arg1:T177 Arg2:T178	
-R80	Support Arg1:T176 Arg2:T177	
-R81	Support Arg1:T180 Arg2:T179	
+R69	Support Arg1:T171 Arg2:T170
+R70	Support Arg1:T173 Arg2:T172
+R71	Support Arg1:T14 Arg2:T172
+R72	Support Arg1:T169 Arg2:T172
+R73	Support Arg1:T168 Arg2:T172
+R74	Support Arg1:T167 Arg2:T172
+R75	Support Arg1:T166 Arg2:T172
+R76	Attack Arg1:T174 Arg2:T170
+R77	Support Arg1:T170 Arg2:T172
+R78	Support Arg1:T174 Arg2:T175
+R79	Support Arg1:T177 Arg2:T178
+R80	Support Arg1:T176 Arg2:T177
+R81	Support Arg1:T180 Arg2:T179
 T15	Claim 11952 12017	we can bring down government -- the growth of government spending
-R82	Support Arg1:T183 Arg2:T184	
-R83	Support Arg1:T181 Arg2:T182	
-R84	Attack Arg1:T188 Arg2:T179	
-R85	Attack Arg1:T189 Arg2:T179	
-R86	Support Arg1:T185 Arg2:T189	
-R87	Support Arg1:T186 Arg2:T189	
+R82	Support Arg1:T183 Arg2:T184
+R83	Support Arg1:T181 Arg2:T182
+R84	Attack Arg1:T188 Arg2:T179
+R85	Attack Arg1:T189 Arg2:T179
+R86	Support Arg1:T185 Arg2:T189
+R87	Support Arg1:T186 Arg2:T189
 T16	Question 12822 12972	Mr. Kemp, is it really possible to balance the budget without reforming drastically the entitlements programs, including Social Security and Medicare?
 T17	Premise 13042 13187	the campaign being waged to scare the American senior citizens, in this state and my home state of, well, New York and California, about Medicare
-R88	Attack Arg1:T17 Arg2:T185	
-R89	Support Arg1:T190 Arg2:T191	
+R88	Attack Arg1:T17 Arg2:T185
+R89	Support Arg1:T190 Arg2:T191
 T18	Premise 13554 13901	Does anybody think that Bob Dole, who almost gave his life for his country, who has served in the Senate, who helped save Social Security, crawled out of a fox hole on Riva Ridge in Northern Italy in 1945 to save a wounded radioman? Does anybody think in this country that he could possibly want to move our country ahead and leave anybody behind?
-R90	Support Arg1:T18 Arg2:T191	
-R91	Attack Arg1:T191 Arg2:T189	
-R92	Support Arg1:T194 Arg2:T193	
-R93	Support Arg1:T193 Arg2:T192	
-R94	Support Arg1:T195 Arg2:T193	
-R95	Support Arg1:T196 Arg2:T193	
-R96	Support Arg1:T197 Arg2:T196	
-R97	Attack Arg1:T200 Arg2:T199	
-R98	Support Arg1:T201 Arg2:T202	
-R99	Support Arg1:T203 Arg2:T204	
-R100	Support Arg1:T202 Arg2:T204	
-R101	Support Arg1:T204 Arg2:T205	
+R90	Support Arg1:T18 Arg2:T191
+R91	Attack Arg1:T191 Arg2:T189
+R92	Support Arg1:T194 Arg2:T193
+R93	Support Arg1:T193 Arg2:T192
+R94	Support Arg1:T195 Arg2:T193
+R95	Support Arg1:T196 Arg2:T193
+R96	Support Arg1:T197 Arg2:T196
+R97	Attack Arg1:T200 Arg2:T199
+R98	Support Arg1:T201 Arg2:T202
+R99	Support Arg1:T203 Arg2:T204
+R100	Support Arg1:T202 Arg2:T204
+R101	Support Arg1:T204 Arg2:T205
 T19	Premise 15312 15440	Medicare is too important to senior citizens around this country to play the type of politics that is being played on this issue
 T20	Premise 15935 15983	That is the issue, not scaring people in America
-R102	Attack Arg1:T206 Arg2:T198	
-R103	Attack Arg1:T19 Arg2:T198	
-R104	Attack Arg1:T207 Arg2:T198	
-R105	Support Arg1:T210 Arg2:T212	
+R102	Attack Arg1:T206 Arg2:T198
+R103	Attack Arg1:T19 Arg2:T198
+R104	Attack Arg1:T207 Arg2:T198
+R105	Support Arg1:T210 Arg2:T212
 T21	Question 15994 16053	Mr. Vice President, Mr. Kemp has accused you of demagoguery
-R106	Support Arg1:T211 Arg2:T212	
-R107	Support Arg1:T216 Arg2:T213	
-R108	Support Arg1:T217 Arg2:T213	
-R109	Attack Arg1:T213 Arg2:T215	
-R110	Attack Arg1:T221 Arg2:T218	
-R111	Equivalent Arg1:T220 Arg2:T221	
-R112	Support Arg1:T222 Arg2:T220	
+R106	Support Arg1:T211 Arg2:T212
+R107	Support Arg1:T216 Arg2:T213
+R108	Support Arg1:T217 Arg2:T213
+R109	Attack Arg1:T213 Arg2:T215
+R110	Attack Arg1:T221 Arg2:T218
+R111	Equivalent Arg1:T220 Arg2:T221
+R112	Support Arg1:T222 Arg2:T220
 T22	Premise 17919 18067	you can't do it with a tax code and a regulatory code and people suing each other with frivolous suits, as this administration is allowing to happen
-R113	Attack Arg1:T223 Arg2:T222	
+R113	Attack Arg1:T223 Arg2:T222
 T23	Premise 18285 18490	I believe you were referring to the "Money" magazine interview, and the publisher of "Money" magazine just sent Mr. Kemp a letter two days ago asking him to please stop inaccurately citing "Money" magazine
-R114	Support Arg1:T23 Arg2:T223	
-R115	Support Arg1:T224 Arg2:T223	
-R116	Support Arg1:T225 Arg2:T223	
-R117	Support Arg1:T223 Arg2:T226	
-R118	Support Arg1:T227 Arg2:T226	
+R114	Support Arg1:T23 Arg2:T223
+R115	Support Arg1:T224 Arg2:T223
+R116	Support Arg1:T225 Arg2:T223
+R117	Support Arg1:T223 Arg2:T226
+R118	Support Arg1:T227 Arg2:T226
 T24	Premise 18766 19007	I would like to release the letter to our friends in the press of the letter I got from "Money" magazine, suggesting that Bill Clinton wanted and did lower the cost of living allowance for senior citizens as a way of reducing Social Security
-R119	Attack Arg1:T24 Arg2:T23	
+R119	Attack Arg1:T24 Arg2:T23

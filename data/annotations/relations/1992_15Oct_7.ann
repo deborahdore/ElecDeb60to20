@@ -32,28 +32,28 @@ T384	Claim 3564 3609	we need to do the reforms and the term limits
 T385	Claim 3417 3449	we have got to reform government
 T386	Claim 3451 3544	If you put term limits in and don't reform government, you won't get the benefits you thought
 T387	Premise 3678 3860	good people will go serve and then go back to their homes and not become foreign lobbyists and cash in at 30,000 bucks a month and then take time off to run some president's campaign
-R1	Support Arg1:T355 Arg2:T354	
-R2	Support Arg1:T356 Arg2:T355	
-R3	Support Arg1:T357 Arg2:T358	
-R4	Support Arg1:T359 Arg2:T358	
-R5	Support Arg1:T358 Arg2:T354	
-R6	Support Arg1:T360 Arg2:T359	
-R7	Support Arg1:T361 Arg2:T354	
-R8	Equivalent Arg1:T362 Arg2:T354	
-R9	Support Arg1:T367 Arg2:T362	
-R10	Support Arg1:T366 Arg2:T362	
-R11	Attack Arg1:T371 Arg2:T370	
-R12	Support Arg1:T372 Arg2:T371	
-R13	Support Arg1:T373 Arg2:T371	
-R14	Support Arg1:T375 Arg2:T373	
-R15	Support Arg1:T377 Arg2:T376	
-R16	Attack Arg1:T371 Arg2:T362	
+R1	Support Arg1:T355 Arg2:T354
+R2	Support Arg1:T356 Arg2:T355
+R3	Support Arg1:T357 Arg2:T358
+R4	Support Arg1:T359 Arg2:T358
+R5	Support Arg1:T358 Arg2:T354
+R6	Support Arg1:T360 Arg2:T359
+R7	Support Arg1:T361 Arg2:T354
+R8	Equivalent Arg1:T362 Arg2:T354
+R9	Support Arg1:T367 Arg2:T362
+R10	Support Arg1:T366 Arg2:T362
+R11	Attack Arg1:T371 Arg2:T370
+R12	Support Arg1:T372 Arg2:T371
+R13	Support Arg1:T373 Arg2:T371
+R14	Support Arg1:T375 Arg2:T373
+R15	Support Arg1:T377 Arg2:T376
+R16	Attack Arg1:T371 Arg2:T362
 T1	Premise 2289 2556	If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair figh
-R17	Support Arg1:T1 Arg2:T378	
-R18	Support Arg1:T379 Arg2:T378	
+R17	Support Arg1:T1 Arg2:T378
+R18	Support Arg1:T379 Arg2:T378
 T2	Claim 3546 3559	It takes both
-R20	Support Arg1:T386 Arg2:T2	
-R19	Support Arg1:T2 Arg2:T384	
-R21	Support Arg1:T385 Arg2:T386	
-R22	Support Arg1:T387 Arg2:T384	
-R23	Support Arg1:T383 Arg2:T382	
+R20	Support Arg1:T386 Arg2:T2
+R19	Support Arg1:T2 Arg2:T384
+R21	Support Arg1:T385 Arg2:T386
+R22	Support Arg1:T387 Arg2:T384
+R23	Support Arg1:T383 Arg2:T382

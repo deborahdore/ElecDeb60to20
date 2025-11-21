@@ -22,24 +22,24 @@ T177	Claim 3797 3814	I take the pledge
 T178	Claim 3816 3876	I've already taken the pledge on cutting the deficit in half
 T180	Premise 3903 4017	There's a great young group, Lead or Leave, college students, young people, who don't want us to spend their money
 T181	Claim 4019 4052	I took the pledge we'd cut it out
-R1	Support Arg1:T160 Arg2:T159	
-R2	Equivalent Arg1:T159 Arg2:T161	
+R1	Support Arg1:T160 Arg2:T159
+R2	Equivalent Arg1:T159 Arg2:T161
 T1	Premise 2543 2573	I don't have any speechwriters
 T2	Premise 2512 2541	I don't have any spin doctors
-R3	Support Arg1:T165 Arg2:T163	
-R4	Support Arg1:T166 Arg2:T167	
-R5	Support Arg1:T168 Arg2:T167	
-R6	Support Arg1:T169 Arg2:T167	
-R7	Support Arg1:T170 Arg2:T167	
-R8	Support Arg1:T163 Arg2:T167	
-R9	Support Arg1:T174 Arg2:T175	
-R10	Attack Arg1:T163 Arg2:T164	
-R11	Attack Arg1:T163 Arg2:T1	
-R12	Attack Arg1:T163 Arg2:T2	
+R3	Support Arg1:T165 Arg2:T163
+R4	Support Arg1:T166 Arg2:T167
+R5	Support Arg1:T168 Arg2:T167
+R6	Support Arg1:T169 Arg2:T167
+R7	Support Arg1:T170 Arg2:T167
+R8	Support Arg1:T163 Arg2:T167
+R9	Support Arg1:T174 Arg2:T175
+R10	Attack Arg1:T163 Arg2:T164
+R11	Attack Arg1:T163 Arg2:T1
+R12	Attack Arg1:T163 Arg2:T2
 T3	Claim 2639 2682	you don't have to wonder if it's me talking
-R13	Support Arg1:T164 Arg2:T3	
-R14	Support Arg1:T1 Arg2:T3	
-R15	Support Arg1:T2 Arg2:T3	
-R16	Support Arg1:T178 Arg2:T177	
-R17	Equivalent Arg1:T181 Arg2:T178	
-R18	Support Arg1:T180 Arg2:T181	
+R13	Support Arg1:T164 Arg2:T3
+R14	Support Arg1:T1 Arg2:T3
+R15	Support Arg1:T2 Arg2:T3
+R16	Support Arg1:T178 Arg2:T177
+R17	Equivalent Arg1:T181 Arg2:T178
+R18	Support Arg1:T180 Arg2:T181

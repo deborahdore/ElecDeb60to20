@@ -40,46 +40,46 @@ T560	Claim 4274 4395	if they don't do it, we're gonna ask for tougher authority 
 T561	Claim 4485 4553	I will do something to help you raise your kids without that garbage
 T562	Claim 4452 4479	Respect the First Amendment
 T1	Premise 722 815	Laura and I are proud parents of teenage girls, twin daughters, and I know what you're saying
-R1	Support Arg1:T1 Arg2:T526	
-R2	Attack Arg1:T540 Arg2:T541	
-R3	Support Arg1:T541 Arg2:T526	
+R1	Support Arg1:T1 Arg2:T526
+R2	Attack Arg1:T540 Arg2:T541
+R3	Support Arg1:T541 Arg2:T526
 T2	Claim 996 1034	there's things that government can do.
-R4	Support Arg1:T527 Arg2:T2	
-R5	Support Arg1:T528 Arg2:T2	
-R6	Support Arg1:T529 Arg2:T2	
-R7	Support Arg1:T530 Arg2:T529	
-R8	Support Arg1:T531 Arg2:T2	
-R9	Attack Arg1:T542 Arg2:T543	
-R10	Support Arg1:T545 Arg2:T531	
-R11	Support Arg1:T531 Arg2:T544	
-R12	Support Arg1:T546 Arg2:T538	
-R13	Support Arg1:T539 Arg2:T538	
-R14	Support Arg1:T538 Arg2:T537	
-R15	Support Arg1:T536 Arg2:T535	
-R16	Support Arg1:T536 Arg2:T534	
-R17	Support Arg1:T534 Arg2:T532	
-R18	Attack Arg1:T532 Arg2:T533	
-R19	Support Arg1:T547 Arg2:T548	
+R4	Support Arg1:T527 Arg2:T2
+R5	Support Arg1:T528 Arg2:T2
+R6	Support Arg1:T529 Arg2:T2
+R7	Support Arg1:T530 Arg2:T529
+R8	Support Arg1:T531 Arg2:T2
+R9	Attack Arg1:T542 Arg2:T543
+R10	Support Arg1:T545 Arg2:T531
+R11	Support Arg1:T531 Arg2:T544
+R12	Support Arg1:T546 Arg2:T538
+R13	Support Arg1:T539 Arg2:T538
+R14	Support Arg1:T538 Arg2:T537
+R15	Support Arg1:T536 Arg2:T535
+R16	Support Arg1:T536 Arg2:T534
+R17	Support Arg1:T534 Arg2:T532
+R18	Attack Arg1:T532 Arg2:T533
+R19	Support Arg1:T547 Arg2:T548
 T3	Claim 2726 2861	Parents now feel like you have to compete with the mass culture in order to raise your kids with the values that you want them to have.
 T5	Premise 3129 3236	when she was little, she brought a record home that had some awful lyrics in it and Tipper hit the ceiling.
 T6	Premise 3241 3351	that launched a campaign to try to get the record companies to put ratings that -- warning labels for parents.
 T7	Premise 3356 3418	I'm so proud of what she accomplished in getting them on there
-R20	Support Arg1:T550 Arg2:T3	
-R21	Support Arg1:T5 Arg2:T6	
-R22	Support Arg1:T6 Arg2:T7	
-R23	Support Arg1:T556 Arg2:T555	
-R24	Support Arg1:T7 Arg2:T549	
-R25	Support Arg1:T7 Arg2:T3	
-R26	Support Arg1:T553 Arg2:T3	
+R20	Support Arg1:T550 Arg2:T3
+R21	Support Arg1:T5 Arg2:T6
+R22	Support Arg1:T6 Arg2:T7
+R23	Support Arg1:T556 Arg2:T555
+R24	Support Arg1:T7 Arg2:T549
+R25	Support Arg1:T7 Arg2:T3
+R26	Support Arg1:T553 Arg2:T3
 T4	Premise 3735 3842	some parents are worried about those filters, that you will have to ask your kids how to put them on there.
-R27	Support Arg1:T554 Arg2:T4	
-R28	Support Arg1:T4 Arg2:T556	
-R29	Attack Arg1:T557 Arg2:T558	
-R30	Attack Arg1:T552 Arg2:T558	
-R31	Support Arg1:T552 Arg2:T559	
-R32	Support Arg1:T559 Arg2:T560	
-R33	Support Arg1:T560 Arg2:T552	
-R34	Attack Arg1:T560 Arg2:T558	
-R35	Support Arg1:T560 Arg2:T551	
-R36	Support Arg1:T551 Arg2:T562	
-R37	Support Arg1:T562 Arg2:T561	
+R27	Support Arg1:T554 Arg2:T4
+R28	Support Arg1:T4 Arg2:T556
+R29	Attack Arg1:T557 Arg2:T558
+R30	Attack Arg1:T552 Arg2:T558
+R31	Support Arg1:T552 Arg2:T559
+R32	Support Arg1:T559 Arg2:T560
+R33	Support Arg1:T560 Arg2:T552
+R34	Attack Arg1:T560 Arg2:T558
+R35	Support Arg1:T560 Arg2:T551
+R36	Support Arg1:T551 Arg2:T562
+R37	Support Arg1:T562 Arg2:T561

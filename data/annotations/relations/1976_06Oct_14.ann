@@ -11,19 +11,19 @@ T501	Premise 1649 1861	We need to have an active and aggressive action on the pa
 T502	Claim 1867 1896	Mr. Ford has just not done it
 T491	Claim 448 526	I will never uh - go along with the admission of Vietnam to the United Nations
 T1	Claim 1169 1208	This is what the families of MIAs want.
-R1	Support Arg1:T492 Arg2:T491	
-R2	Support Arg1:T492 Arg2:T493	
-R3	Support Arg1:T493 Arg2:T491	
-R4	Support Arg1:T494 Arg2:T1	
-R5	Attack Arg1:T1 Arg2:T495	
-R6	Support Arg1:T496 Arg2:T1	
-R7	Support Arg1:T497 Arg2:T1	
-R8	Attack Arg1:T1 Arg2:T498	
-R9	Support Arg1:T501 Arg2:T1	
-R10	Attack Arg1:T501 Arg2:T502	
-R11	Attack Arg1:T1 Arg2:T502	
-R12	Support Arg1:T498 Arg2:T502	
-R13	Support Arg1:T495 Arg2:T502	
-R14	Support Arg1:T499 Arg2:T492	
-R15	Support Arg1:T501 Arg2:T500	
-R16	Attack Arg1:T500 Arg2:T499	
+R1	Support Arg1:T492 Arg2:T491
+R2	Support Arg1:T492 Arg2:T493
+R3	Support Arg1:T493 Arg2:T491
+R4	Support Arg1:T494 Arg2:T1
+R5	Attack Arg1:T1 Arg2:T495
+R6	Support Arg1:T496 Arg2:T1
+R7	Support Arg1:T497 Arg2:T1
+R8	Attack Arg1:T1 Arg2:T498
+R9	Support Arg1:T501 Arg2:T1
+R10	Attack Arg1:T501 Arg2:T502
+R11	Attack Arg1:T1 Arg2:T502
+R12	Support Arg1:T498 Arg2:T502
+R13	Support Arg1:T495 Arg2:T502
+R14	Support Arg1:T499 Arg2:T492
+R15	Support Arg1:T501 Arg2:T500
+R16	Attack Arg1:T500 Arg2:T499

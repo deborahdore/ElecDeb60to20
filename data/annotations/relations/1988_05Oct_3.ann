@@ -25,25 +25,25 @@ T24	Premise 2840 2994	I am one who has just received the environmental award in 
 T25	Claim 3000 3066	I think we know well who's going to help clean up this environment
 T26	Premise 3068 3109	The record is there, the history is there
 T27	Claim 3115 3160	Dukakis and Bentsen will be committed to that
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T3 Arg2:T1	
-R3	Support Arg1:T4 Arg2:T1	
-R4	Support Arg1:T6 Arg2:T8	
-R5	Support Arg1:T7 Arg2:T8	
-R6	Support Arg1:T8 Arg2:T9	
-R7	Support Arg1:T10 Arg2:T11	
-R8	Support Arg1:T9 Arg2:T11	
-R10	Support Arg1:T12 Arg2:T15	
-R9	Attack Arg1:T18 Arg2:T13	
-R11	Support Arg1:T16 Arg2:T15	
-R12	Support Arg1:T17 Arg2:T15	
-R13	Equivalent Arg1:T18 Arg2:T11	
-R14	Attack Arg1:T19 Arg2:T15	
-R15	Support Arg1:T20 Arg2:T25	
-R16	Support Arg1:T22 Arg2:T21	
-R17	Support Arg1:T23 Arg2:T21	
-R18	Support Arg1:T24 Arg2:T21	
-R19	Support Arg1:T21 Arg2:T25	
-R20	Support Arg1:T26 Arg2:T25	
-R21	Support Arg1:T25 Arg2:T27	
-R22	Attack Arg1:T27 Arg2:T18	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T3 Arg2:T1
+R3	Support Arg1:T4 Arg2:T1
+R4	Support Arg1:T6 Arg2:T8
+R5	Support Arg1:T7 Arg2:T8
+R6	Support Arg1:T8 Arg2:T9
+R7	Support Arg1:T10 Arg2:T11
+R8	Support Arg1:T9 Arg2:T11
+R10	Support Arg1:T12 Arg2:T15
+R9	Attack Arg1:T18 Arg2:T13
+R11	Support Arg1:T16 Arg2:T15
+R12	Support Arg1:T17 Arg2:T15
+R13	Equivalent Arg1:T18 Arg2:T11
+R14	Attack Arg1:T19 Arg2:T15
+R15	Support Arg1:T20 Arg2:T25
+R16	Support Arg1:T22 Arg2:T21
+R17	Support Arg1:T23 Arg2:T21
+R18	Support Arg1:T24 Arg2:T21
+R19	Support Arg1:T21 Arg2:T25
+R20	Support Arg1:T26 Arg2:T25
+R21	Support Arg1:T25 Arg2:T27
+R22	Attack Arg1:T27 Arg2:T18

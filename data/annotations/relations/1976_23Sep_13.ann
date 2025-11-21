@@ -49,33 +49,33 @@ T602	Claim 4987 5062	The member of a labor union must have his rights strengthen
 T603	Claim 5067 5190	our children in their education should have an opportunity to improve themselves based on their talents and their abilities
 T604	Premise 1605 1666	We've lost the vision of what our country can and ought to be
 T605	Premise 1668 1720	This is not the America that we've known in the past
-R1	Support Arg1:T556 Arg2:T557	
-R2	Equivalent Arg1:T558 Arg2:T557	
-R3	Support Arg1:T559 Arg2:T558	
-R4	Support Arg1:T560 Arg2:T558	
-R5	Support Arg1:T561 Arg2:T558	
-R6	Support Arg1:T562 Arg2:T561	
-R7	Support Arg1:T561 Arg2:T563	
-R8	Support Arg1:T567 Arg2:T566	
-R9	Support Arg1:T565 Arg2:T564	
-R10	Support Arg1:T570 Arg2:T569	
-R11	Support Arg1:T569 Arg2:T568	
-R12	Support Arg1:T568 Arg2:T566	
-R13	Support Arg1:T604 Arg2:T569	
-R14	Support Arg1:T605 Arg2:T569	
+R1	Support Arg1:T556 Arg2:T557
+R2	Equivalent Arg1:T558 Arg2:T557
+R3	Support Arg1:T559 Arg2:T558
+R4	Support Arg1:T560 Arg2:T558
+R5	Support Arg1:T561 Arg2:T558
+R6	Support Arg1:T562 Arg2:T561
+R7	Support Arg1:T561 Arg2:T563
+R8	Support Arg1:T567 Arg2:T566
+R9	Support Arg1:T565 Arg2:T564
+R10	Support Arg1:T570 Arg2:T569
+R11	Support Arg1:T569 Arg2:T568
+R12	Support Arg1:T568 Arg2:T566
+R13	Support Arg1:T604 Arg2:T569
+R14	Support Arg1:T605 Arg2:T569
 T1	Claim 1822 1855	I've got confidence in my country
 T2	Claim 1021 1045	I believe in our country
-R15	Equivalent Arg1:T1 Arg2:T2	
-R16	Support Arg1:T572 Arg2:T1	
-R17	Support Arg1:T569 Arg2:T573	
-R18	Support Arg1:T604 Arg2:T571	
-R19	Support Arg1:T574 Arg2:T1	
-R20	Support Arg1:T575 Arg2:T1	
-R21	Support Arg1:T576 Arg2:T561	
-R22	Support Arg1:T580 Arg2:T578	
-R23	Support Arg1:T577 Arg2:T576	
-R24	Support Arg1:T583 Arg2:T582	
-R25	Support Arg1:T582 Arg2:T578	
+R15	Equivalent Arg1:T1 Arg2:T2
+R16	Support Arg1:T572 Arg2:T1
+R17	Support Arg1:T569 Arg2:T573
+R18	Support Arg1:T604 Arg2:T571
+R19	Support Arg1:T574 Arg2:T1
+R20	Support Arg1:T575 Arg2:T1
+R21	Support Arg1:T576 Arg2:T561
+R22	Support Arg1:T580 Arg2:T578
+R23	Support Arg1:T577 Arg2:T576
+R24	Support Arg1:T583 Arg2:T582
+R25	Support Arg1:T582 Arg2:T578
 T3	Claim 3099 3224	A president should never promise more than he can deliver and a president should always deliver everything that he's promised
 T4	Claim 3226 3271	A president can't be all things to all people
 T5	Claim 3273 3323	A president should be the same thing to all people
@@ -85,20 +85,20 @@ T8	Claim 3588 3617	It calls for more of the same
 T9	Premise 3619 3693	Governor Carter in his acceptance speech called for more and more programs
 T11	Claim 3733 3917	I think the real issue in this campaign, and that which you must decide on November second, is whether you should vote for his promise or my performance in two years in the White House
 T10	Claim 3695 3731	which means more and more government
-R26	Support Arg1:T591 Arg2:T592	
-R27	Support Arg1:T5 Arg2:T4	
+R26	Support Arg1:T591 Arg2:T592
+R27	Support Arg1:T5 Arg2:T4
 T12	Claim 3048 3097	One of the major issues in this campaign is trust
-R28	Support Arg1:T9 Arg2:T8	
-R29	Support Arg1:T10 Arg2:T9	
+R28	Support Arg1:T9 Arg2:T8
+R29	Support Arg1:T10 Arg2:T9
 T13	Claim 2975 3046	On November second all of you will make a very, very important decision
-R30	Support Arg1:T11 Arg2:T13	
-R31	Support Arg1:T585 Arg2:T594	
+R30	Support Arg1:T11 Arg2:T13
+R31	Support Arg1:T585 Arg2:T594
 T14	Claim 4733 4876	We should never forget that a government big enough to give us everything we want is a government big enough to take from us everything we have
-R32	Support Arg1:T601 Arg2:T561	
-R33	Support Arg1:T597 Arg2:T590	
-R34	Support Arg1:T598 Arg2:T590	
-R35	Support Arg1:T599 Arg2:T590	
-R36	Support Arg1:T600 Arg2:T590	
-R38	Support Arg1:T601 Arg2:T14	
-R37	Support Arg1:T602 Arg2:T14	
-R39	Support Arg1:T603 Arg2:T14	
+R32	Support Arg1:T601 Arg2:T561
+R33	Support Arg1:T597 Arg2:T590
+R34	Support Arg1:T598 Arg2:T590
+R35	Support Arg1:T599 Arg2:T590
+R36	Support Arg1:T600 Arg2:T590
+R38	Support Arg1:T601 Arg2:T14
+R37	Support Arg1:T602 Arg2:T14
+R39	Support Arg1:T603 Arg2:T14

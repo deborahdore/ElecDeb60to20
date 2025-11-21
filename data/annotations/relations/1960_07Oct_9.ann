@@ -22,34 +22,34 @@ T22	Claim 3475 3649	I believe that before we meet that crisis, that the next pre
 T23	Premise 3659 3779	come spring or late in the winter we're going to be face to face with the most serious Berlin crisis since l949 or fifty
 T24	Claim 3781 3850	On the question of the summit, I agree with the position of Mr. Nixon
 T25	Claim 3852 4078	I would not meet Mr. Khrushchev unless there were some agreements at the secondary level - foreign ministers or ambassadors - which would indicate that the meeting would have some hope of success, or a useful exchange of ideas
-R2	Support Arg1:T2 Arg2:T1	
-R3	Support Arg1:T3 Arg2:T1	
-R5	Support Arg1:T5 Arg2:T3	
-R6	Equivalent Arg1:T7 Arg2:T8	
-R7	Support Arg1:T9 Arg2:T8	
-R13	Support Arg1:T13 Arg2:T6	
-R14	Support Arg1:T14 Arg2:T13	
-R17	Support Arg1:T16 Arg2:T15	
-R18	Support Arg1:T17 Arg2:T18	
-R20	Equivalent Arg1:T19 Arg2:T18	
-R21	Support Arg1:T22 Arg2:T15	
-R23	Support Arg1:T23 Arg2:T22	
-R24	Equivalent Arg1:T24 Arg2:T14	
-R25	Support Arg1:T25 Arg2:T24	
-R26	Support Arg1:T25 Arg2:T14	
-R27	Equivalent Arg1:T25 Arg2:T13	
-R1	Support Arg1:T4 Arg2:T5	
+R2	Support Arg1:T2 Arg2:T1
+R3	Support Arg1:T3 Arg2:T1
+R5	Support Arg1:T5 Arg2:T3
+R6	Equivalent Arg1:T7 Arg2:T8
+R7	Support Arg1:T9 Arg2:T8
+R13	Support Arg1:T13 Arg2:T6
+R14	Support Arg1:T14 Arg2:T13
+R17	Support Arg1:T16 Arg2:T15
+R18	Support Arg1:T17 Arg2:T18
+R20	Equivalent Arg1:T19 Arg2:T18
+R21	Support Arg1:T22 Arg2:T15
+R23	Support Arg1:T23 Arg2:T22
+R24	Equivalent Arg1:T24 Arg2:T14
+R25	Support Arg1:T25 Arg2:T24
+R26	Support Arg1:T25 Arg2:T14
+R27	Equivalent Arg1:T25 Arg2:T13
+R1	Support Arg1:T4 Arg2:T5
 T26	Claim 844 966	I would be willing as president to meet with Mr. Khrushchev or any other world leader if it would serve the cause of peace
 T27	Claim 968 1203	I would not be able wou- would be willing to meet with him however, unless there were preparations for that conference which would give us some reasonable certainty - some reasonable certainty - that you were going to have some success
-R4	Attack Arg1:T27 Arg2:T26	
-R29	Support Arg1:T6 Arg2:T27	
-R30	Support Arg1:T7 Arg2:T6	
+R4	Attack Arg1:T27 Arg2:T26
+R29	Support Arg1:T6 Arg2:T27
+R30	Support Arg1:T7 Arg2:T6
 T28	Claim 1552 1743	if we're going to have another summit conference, there must be negotiations at the diplomatic level - the ambassadors, the Secretaries of State, and others at that level - prior to that time
 T29	Premise 1745 1861	which will delineate the issues and which will prepare the way for the heads of state to meet and make some progress
-R8	Support Arg1:T29 Arg2:T28	
-R10	Support Arg1:T28 Arg2:T11	
-R31	Support Arg1:T11 Arg2:T12	
+R8	Support Arg1:T29 Arg2:T28
+R10	Support Arg1:T28 Arg2:T11
+R31	Support Arg1:T11 Arg2:T12
 T10	Claim 2603 2629	my view is the same as his
-R9	Equivalent Arg1:T10 Arg2:T14	
-R11	Support Arg1:T20 Arg2:T22	
-R12	Support Arg1:T21 Arg2:T22	
+R9	Equivalent Arg1:T10 Arg2:T14
+R11	Support Arg1:T20 Arg2:T22
+R12	Support Arg1:T21 Arg2:T22

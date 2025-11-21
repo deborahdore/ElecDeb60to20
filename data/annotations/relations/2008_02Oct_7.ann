@@ -20,17 +20,17 @@ T316	Premise 2487 2632	That is basically the decision to be able to be able to b
 T317	Claim 2664 2873	I'm glad to hear the governor, I take her at her word, obviously, that she think there should be no civil rights distinction, none whatsoever, between a committed gay couple and a committed heterosexual couple
 T318	Claim 2875 2928	If that's the case, we really don't have a difference
 T319	Claim 2971 3086	Your question to him was whether he supported gay marriage and my answer is the same as his and it is that I do not
-R1	Support Arg1:T299 Arg2:T300	
-R2	Support Arg1:T300 Arg2:T301	
-R3	Support Arg1:T302 Arg2:T301	
-R4	Support Arg1:T301 Arg2:T303	
-R5	Support Arg1:T303 Arg2:T304	
-R6	Attack Arg1:T305 Arg2:T304	
-R7	Support Arg1:T306 Arg2:T305	
-R8	Support Arg1:T308 Arg2:T307	
-R9	Support Arg1:T309 Arg2:T307	
-R10	Attack Arg1:T310 Arg2:T307	
-R11	Support Arg1:T311 Arg2:T310	
-R12	Support Arg1:T315 Arg2:T314	
-R13	Support Arg1:T316 Arg2:T314	
-R14	Support Arg1:T318 Arg2:T317	
+R1	Support Arg1:T299 Arg2:T300
+R2	Support Arg1:T300 Arg2:T301
+R3	Support Arg1:T302 Arg2:T301
+R4	Support Arg1:T301 Arg2:T303
+R5	Support Arg1:T303 Arg2:T304
+R6	Attack Arg1:T305 Arg2:T304
+R7	Support Arg1:T306 Arg2:T305
+R8	Support Arg1:T308 Arg2:T307
+R9	Support Arg1:T309 Arg2:T307
+R10	Attack Arg1:T310 Arg2:T307
+R11	Support Arg1:T311 Arg2:T310
+R12	Support Arg1:T315 Arg2:T314
+R13	Support Arg1:T316 Arg2:T314
+R14	Support Arg1:T318 Arg2:T317

@@ -38,23 +38,23 @@ T127	Claim 3585 3651	My balanced budget covers mammograms for ladies, women on M
 T128	Claim 3656 3744	also gives respite care to the million-plus families who have someone with Alzheimerâ€™s
 T129	Premise 3746 3799	These things are paid for in the balanced budget plan
 T130	Premise 3801 3822	It'll move us forward
-R1	Support Arg1:T94 Arg2:T93	
-R2	Support Arg1:T100 Arg2:T91	
-R3	Support Arg1:T91 Arg2:T97	
-R4	Support Arg1:T93 Arg2:T97	
-R5	Support Arg1:T95 Arg2:T97	
-R6	Support Arg1:T96 Arg2:T97	
-R7	Support Arg1:T111 Arg2:T110	
-R8	Support Arg1:T114 Arg2:T103	
-R9	Support Arg1:T117 Arg2:T116	
-R10	Support Arg1:T118 Arg2:T116	
-R11	Support Arg1:T105 Arg2:T104	
-R12	Support Arg1:T106 Arg2:T104	
-R13	Support Arg1:T119 Arg2:T108	
-R14	Support Arg1:T108 Arg2:T109	
-R15	Support Arg1:T120 Arg2:T121	
-R16	Attack Arg1:T121 Arg2:T110	
-R17	Support Arg1:T123 Arg2:T124	
-R18	Support Arg1:T128 Arg2:T127	
-R19	Support Arg1:T129 Arg2:T127	
-R20	Support Arg1:T130 Arg2:T127	
+R1	Support Arg1:T94 Arg2:T93
+R2	Support Arg1:T100 Arg2:T91
+R3	Support Arg1:T91 Arg2:T97
+R4	Support Arg1:T93 Arg2:T97
+R5	Support Arg1:T95 Arg2:T97
+R6	Support Arg1:T96 Arg2:T97
+R7	Support Arg1:T111 Arg2:T110
+R8	Support Arg1:T114 Arg2:T103
+R9	Support Arg1:T117 Arg2:T116
+R10	Support Arg1:T118 Arg2:T116
+R11	Support Arg1:T105 Arg2:T104
+R12	Support Arg1:T106 Arg2:T104
+R13	Support Arg1:T119 Arg2:T108
+R14	Support Arg1:T108 Arg2:T109
+R15	Support Arg1:T120 Arg2:T121
+R16	Attack Arg1:T121 Arg2:T110
+R17	Support Arg1:T123 Arg2:T124
+R18	Support Arg1:T128 Arg2:T127
+R19	Support Arg1:T129 Arg2:T127
+R20	Support Arg1:T130 Arg2:T127

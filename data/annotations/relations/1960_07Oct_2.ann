@@ -26,39 +26,39 @@ T60	Claim 3741 3802	This seems to me is criticism that again is wrong on his par
 T61	Claim 3236 3488	when the president of the United States is doing something that's right, something that is for the purpose of defending the security of this country against surprise attack, he can never express regrets or apologize to anybody, including Mr. Khrushchev
 T62	Premise 3490 3606	Now in that connection Senator Kennedy has criticized the President on the ground not only of not expressing regrets
 T63	Premise 3620 3739	he allowed this flight to take place while the summit conference - or immediately before the summit conference occurred
-R3	Support Arg1:T40 Arg2:T37	
-R4	Support Arg1:T39 Arg2:T37	
-R5	Support Arg1:T38 Arg2:T37	
-R6	Equivalent Arg1:T43 Arg2:T41	
-R8	Equivalent Arg1:T49 Arg2:T41	
-R9	Support Arg1:T52 Arg2:T53	
-R13	Attack Arg1:T61 Arg2:T43	
-R14	Support Arg1:T62 Arg2:T60	
-R15	Attack Arg1:T60 Arg2:T41	
-R16	Support Arg1:T58 Arg2:T59	
-R17	Support Arg1:T57 Arg2:T59	
-R20	Attack Arg1:T56 Arg2:T43	
+R3	Support Arg1:T40 Arg2:T37
+R4	Support Arg1:T39 Arg2:T37
+R5	Support Arg1:T38 Arg2:T37
+R6	Equivalent Arg1:T43 Arg2:T41
+R8	Equivalent Arg1:T49 Arg2:T41
+R9	Support Arg1:T52 Arg2:T53
+R13	Attack Arg1:T61 Arg2:T43
+R14	Support Arg1:T62 Arg2:T60
+R15	Attack Arg1:T60 Arg2:T41
+R16	Support Arg1:T58 Arg2:T59
+R17	Support Arg1:T57 Arg2:T59
+R20	Attack Arg1:T56 Arg2:T43
 T1	Premise 989 1331	I believe Mr. Nixon himself said on May fifteenth that the flights would continue even though Mr. Herter testified before the Senate Foreign Relations Committee that they had been canceled as of May twelfth - that it would have been far better that if we had expressed regrets, if that would have saved the summit, and if the summit is useful
 T3	Premise 1355 1569	The point that is always left out is the fact that we expressed regrets to Castro this winter; that we expressed regrets - the Eisenhower Administration expressed regrets - for a flight over Southern Russia in 1958
 T5	Premise 2826 2970	First of all, he's wrong in thinking th- er- even suggesting that Mr. Khrushchev might have continued the conference if we had expressed regrets
 T6	Premise 294 441	I suggested that if the United States felt that it could save the summit conference that it would have been proper for us to have expressed regrets
-R1	Attack Arg1:T34 Arg2:T33	
-R2	Support Arg1:T1 Arg2:T31	
-R7	Support Arg1:T6 Arg2:T31	
+R1	Attack Arg1:T34 Arg2:T33
+R2	Support Arg1:T1 Arg2:T31
+R7	Support Arg1:T6 Arg2:T31
 T2	Claim 1338 1353	I believe it is
-R21	Support Arg1:T3 Arg2:T31	
-R22	Support Arg1:T41 Arg2:T42	
-R23	Support Arg1:T42 Arg2:T43	
-R24	Support Arg1:T44 Arg2:T43	
-R25	Support Arg1:T45 Arg2:T43	
-R26	Attack Arg1:T48 Arg2:T49	
+R21	Support Arg1:T3 Arg2:T31
+R22	Support Arg1:T41 Arg2:T42
+R23	Support Arg1:T42 Arg2:T43
+R24	Support Arg1:T44 Arg2:T43
+R25	Support Arg1:T45 Arg2:T43
+R26	Attack Arg1:T48 Arg2:T49
 T4	Premise 2416 2731	in my judgment if the summit was useful, if it would have brought us closer to peace, that rather than the lie that we told - which has been criticized by all responsible people afterwards - it would have been far better for us to follow the common diplomatic procedure of expressing regrets and then try to move on
-R27	Support Arg1:T4 Arg2:T43	
-R28	Support Arg1:T47 Arg2:T48	
+R27	Support Arg1:T4 Arg2:T43
+R28	Support Arg1:T47 Arg2:T48
 T7	Claim 2769 2824	I think Kenne- Senator Kennedy is wrong on three counts
-R29	Support Arg1:T5 Arg2:T7	
-R30	Attack Arg1:T53 Arg2:T5	
-R10	Support Arg1:T54 Arg2:T7	
-R11	Support Arg1:T63 Arg2:T60	
+R29	Support Arg1:T5 Arg2:T7
+R30	Attack Arg1:T53 Arg2:T5
+R10	Support Arg1:T54 Arg2:T7
+R11	Support Arg1:T63 Arg2:T60
 T8	Premise 3804 3871	We all remember Pearl Harbor. We lost three thousand American lives
-R12	Support Arg1:T8 Arg2:T59	
+R12	Support Arg1:T8 Arg2:T59

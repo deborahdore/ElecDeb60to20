@@ -27,20 +27,20 @@ T315	Claim 3830 3901	I believe we should indicate our desire to live at peace wi
 T316	Claim 3907 3999	until we're strong here, until we're moving here, I believe a summit could not be successful
 T317	Premise 4001 4174	I hope that before we do meet, there will be preliminary agreements on those four questions, or at least two of them, or even one of them, which would warrant such a meeting
 T318	Claim 4176 4276	I think if we had stuck by that position last winter, we would have been in a better position in May
-R1	Support Arg1:T298 Arg2:T295	
-R2	Support Arg1:T299 Arg2:T298	
-R3	Support Arg1:T304 Arg2:T302	
-R4	Support Arg1:T305 Arg2:T303	
-R6	Support Arg1:T308 Arg2:T310	
-R5	Support Arg1:T309 Arg2:T310	
-R7	Support Arg1:T312 Arg2:T311	
-R8	Support Arg1:T313 Arg2:T311	
-R10	Support Arg1:T316 Arg2:T302	
-R11	Support Arg1:T314 Arg2:T315	
-R12	Support Arg1:T300 Arg2:T295	
-R13	Support Arg1:T298 Arg2:T301	
-R14	Attack Arg1:T296 Arg2:T295	
-R15	Attack Arg1:T298 Arg2:T296	
-R9	Support Arg1:T316 Arg2:T311	
-R16	Support Arg1:T317 Arg2:T318	
-R17	Support Arg1:T318 Arg2:T311	
+R1	Support Arg1:T298 Arg2:T295
+R2	Support Arg1:T299 Arg2:T298
+R3	Support Arg1:T304 Arg2:T302
+R4	Support Arg1:T305 Arg2:T303
+R6	Support Arg1:T308 Arg2:T310
+R5	Support Arg1:T309 Arg2:T310
+R7	Support Arg1:T312 Arg2:T311
+R8	Support Arg1:T313 Arg2:T311
+R10	Support Arg1:T316 Arg2:T302
+R11	Support Arg1:T314 Arg2:T315
+R12	Support Arg1:T300 Arg2:T295
+R13	Support Arg1:T298 Arg2:T301
+R14	Attack Arg1:T296 Arg2:T295
+R15	Attack Arg1:T298 Arg2:T296
+R9	Support Arg1:T316 Arg2:T311
+R16	Support Arg1:T317 Arg2:T318
+R17	Support Arg1:T318 Arg2:T311

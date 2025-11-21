@@ -55,85 +55,85 @@ T298	Premise 8345 8364	They're coming back
 T299	Premise 8366 8421	They paid us back, and we got a dividend in the process
 T1	Question 8 136	Mr. Vice President, is the war in Bosnia really over, or is it going to break out again once the U.S. and the NATO troops leave?
 T2	Premise 144 178	The fighting has stopped in Bosnia
-R1	Support Arg1:T2 Arg2:T245	
-R2	Support Arg1:T251 Arg2:T245	
-R3	Support Arg1:T244 Arg2:T251	
-R4	Support Arg1:T247 Arg2:T246	
-R5	Support Arg1:T248 Arg2:T246	
-R6	Support Arg1:T250 Arg2:T249	
+R1	Support Arg1:T2 Arg2:T245
+R2	Support Arg1:T251 Arg2:T245
+R3	Support Arg1:T244 Arg2:T251
+R4	Support Arg1:T247 Arg2:T246
+R5	Support Arg1:T248 Arg2:T246
+R6	Support Arg1:T250 Arg2:T249
 T3	Premise 997 1216	As the President said the other night, there will always be troubles in this ol' world, but the United States of America can be counted on to provide the vision that the world looks for from the United States of America
-R7	Support Arg1:T3 Arg2:T249	
-R8	Support Arg1:T246 Arg2:T249	
-R9	Support Arg1:T245 Arg2:T249	
+R7	Support Arg1:T3 Arg2:T249
+R8	Support Arg1:T246 Arg2:T249
+R9	Support Arg1:T245 Arg2:T249
 T4	Premise 1383 1436	Bob Dole supported the deployment of troops in Bosnia
-R10	Attack Arg1:T252 Arg2:T249	
-R11	Support Arg1:T253 Arg2:T252	
-R12	Support Arg1:T254 Arg2:T252	
-R13	Support Arg1:T255 Arg2:T252	
-R14	Support Arg1:T256 Arg2:T252	
-R15	Support Arg1:T257 Arg2:T252	
+R10	Attack Arg1:T252 Arg2:T249
+R11	Support Arg1:T253 Arg2:T252
+R12	Support Arg1:T254 Arg2:T252
+R13	Support Arg1:T255 Arg2:T252
+R14	Support Arg1:T256 Arg2:T252
+R15	Support Arg1:T257 Arg2:T252
 T5	Premise 1855 1936	What's worse, they declared victory. They've declared victory in every deployment
-R16	Support Arg1:T5 Arg2:T252	
-R17	Support Arg1:T259 Arg2:T252	
-R18	Support Arg1:T258 Arg2:T252	
+R16	Support Arg1:T5 Arg2:T252
+R17	Support Arg1:T259 Arg2:T252
+R18	Support Arg1:T258 Arg2:T252
 T6	Claim 2246 2360	that's what our message would be to the world under Bob Dole as Commander-in-Chief of the United States of America
-R19	Support Arg1:T260 Arg2:T6	
-R20	Attack Arg1:T261 Arg2:T256	
+R19	Support Arg1:T260 Arg2:T6
+R20	Attack Arg1:T261 Arg2:T256
 T7	Premise 2680 2930	When the United States toward the repulsing of Saddam Hussein from Kuwait, three times as he's tried to get out of that box, Saddam Hussein has felt the sting of a swift, certain response from the United States of America under President Bill Clinton
-R21	Support Arg1:T7 Arg2:T262	
+R21	Support Arg1:T7 Arg2:T262
 T8	Question 2941 3052	Mr. Kemp, Senator Dole has criticized the President on Haiti, that he handled that wrong. What did he do wrong?
-R22	Attack Arg1:T263 Arg2:T247	
+R22	Attack Arg1:T263 Arg2:T247
 T9	Premise 3265 3299	it was maybe the right thing to do
 T10	Premise 3305 3345	we did not go in with enough information
-R23	Attack Arg1:T9 Arg2:T263	
-R24	Attack Arg1:T10 Arg2:T9	
-R25	Support Arg1:T10 Arg2:T263	
-R26	Support Arg1:T264 Arg2:T263	
-R27	Support Arg1:T265 Arg2:T263	
-R28	Support Arg1:T266 Arg2:T263	
-R29	Support Arg1:T267 Arg2:T263	
-R30	Equivalent Arg1:T268 Arg2:T267	
-R31	Attack Arg1:T269 Arg2:T268	
+R23	Attack Arg1:T9 Arg2:T263
+R24	Attack Arg1:T10 Arg2:T9
+R25	Support Arg1:T10 Arg2:T263
+R26	Support Arg1:T264 Arg2:T263
+R27	Support Arg1:T265 Arg2:T263
+R28	Support Arg1:T266 Arg2:T263
+R29	Support Arg1:T267 Arg2:T263
+R30	Equivalent Arg1:T268 Arg2:T267
+R31	Attack Arg1:T269 Arg2:T268
 T11	Premise 3980 4060	I say "restored" actually, it's the first real democracy that Haiti has ever had
-R32	Support Arg1:T11 Arg2:T269	
+R32	Support Arg1:T11 Arg2:T269
 T12	Premise 4066 4113	it happened with scarcely any shots being fired
-R33	Support Arg1:T12 Arg2:T269	
+R33	Support Arg1:T12 Arg2:T269
 T13	Premise 4234 4461	The planes were in the air and our negotiators were talking with the dictator down there. And when that dictator got the news from his spies outside the gate that all these planes were taking off, he said, let's get out of here
-R34	Support Arg1:T13 Arg2:T271	
+R34	Support Arg1:T13 Arg2:T271
 T14	Premise 4115 4209	I was in the Oval Office the night when President Clinton dispatched our troops from Ft  Bragg
-R35	Support Arg1:T14 Arg2:T13	
-R36	Support Arg1:T273 Arg2:T272	
-R37	Support Arg1:T274 Arg2:T272	
+R35	Support Arg1:T14 Arg2:T13
+R36	Support Arg1:T273 Arg2:T272
+R37	Support Arg1:T274 Arg2:T272
 T15	Question 5514 5601	Mr. Vice President, Mexico, we caused the problem, then had to go in and bail them out?
-R38	Support Arg1:T276 Arg2:T288	
-R39	Support Arg1:T277 Arg2:T288	
+R38	Support Arg1:T276 Arg2:T288
+R39	Support Arg1:T277 Arg2:T288
 T16	Claim 5746 5970	That used to be an integral part of this so-called "Supply Side Economics," but it may be something else that he now agrees with Bob Dole on, because Bob Dole voted to take us off the gold standard, a wise vote in my opinion
-R40	Support Arg1:T287 Arg2:T16	
-R41	Attack Arg1:T288 Arg2:T272	
-R42	Support Arg1:T278 Arg2:T288	
-R43	Support Arg1:T279 Arg2:T288	
-R44	Support Arg1:T280 Arg2:T281	
-R45	Support Arg1:T281 Arg2:T288	
+R40	Support Arg1:T287 Arg2:T16
+R41	Attack Arg1:T288 Arg2:T272
+R42	Support Arg1:T278 Arg2:T288
+R43	Support Arg1:T279 Arg2:T288
+R44	Support Arg1:T280 Arg2:T281
+R45	Support Arg1:T281 Arg2:T288
 T17	Claim 6671 6723	You know, people said it was a big risk at that time
-R46	Attack Arg1:T17 Arg2:T281	
-R47	Attack Arg1:T282 Arg2:T17	
-R48	Attack Arg1:T283 Arg2:T17	
-R49	Attack Arg1:T284 Arg2:T17	
-R50	Attack Arg1:T285 Arg2:T17	
-R51	Attack Arg1:T286 Arg2:T17	
-R52	Support Arg1:T290 Arg2:T289	
+R46	Attack Arg1:T17 Arg2:T281
+R47	Attack Arg1:T282 Arg2:T17
+R48	Attack Arg1:T283 Arg2:T17
+R49	Attack Arg1:T284 Arg2:T17
+R50	Attack Arg1:T285 Arg2:T17
+R51	Attack Arg1:T286 Arg2:T17
+R52	Support Arg1:T290 Arg2:T289
 T18	Claim 7212 7307	At that level, that is -- gives new meaning to the word "profitability" for U.S. foreign policy
-R55	Support Arg1:T18 Arg2:T289	
-R56	Support Arg1:T292 Arg2:T18	
-R53	Support Arg1:T291 Arg2:T18	
-R54	Attack Arg1:T293 Arg2:T291	
-R57	Support Arg1:T294 Arg2:T293	
+R55	Support Arg1:T18 Arg2:T289
+R56	Support Arg1:T292 Arg2:T18
+R53	Support Arg1:T291 Arg2:T18
+R54	Attack Arg1:T293 Arg2:T291
+R57	Support Arg1:T294 Arg2:T293
 T19	Premise 7959 8166	Years ago, we used to hear this phrase in American politics, the "Blame America First" crowd. I never liked that phrase, but if it was going to be applied today, it would have to be applied to this statement
-R58	Attack Arg1:T19 Arg2:T291	
-R59	Support Arg1:T19 Arg2:T293	
-R60	Support Arg1:T295 Arg2:T293	
-R61	Attack Arg1:T295 Arg2:T291	
-R62	Support Arg1:T296 Arg2:T295	
-R63	Support Arg1:T297 Arg2:T295	
-R64	Support Arg1:T298 Arg2:T295	
-R65	Support Arg1:T299 Arg2:T295	
+R58	Attack Arg1:T19 Arg2:T291
+R59	Support Arg1:T19 Arg2:T293
+R60	Support Arg1:T295 Arg2:T293
+R61	Attack Arg1:T295 Arg2:T291
+R62	Support Arg1:T296 Arg2:T295
+R63	Support Arg1:T297 Arg2:T295
+R64	Support Arg1:T298 Arg2:T295
+R65	Support Arg1:T299 Arg2:T295

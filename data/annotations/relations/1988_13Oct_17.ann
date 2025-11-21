@@ -26,23 +26,23 @@ T25	Claim 3058 3124	one of the reasons our selection of a running mate is so imp
 T26	Premise 3126 3290	it is such a test of the kinds of standards we'll set, is because it tells the American people in advance of the election just what kind of people we're looking for
 T27	Claim 3344 3506	I think that says a great deal to the American people about the standards we'll set and the quality of the people that we will pick to serve in our Administration
 T28	Premise 551 641	I think you see, I am one who I get kidded by being a little old fashioned on these things
-R1	Attack Arg1:T1 Arg2:T28	
-R2	Support Arg1:T2 Arg2:T1	
-R3	Attack Arg1:T4 Arg2:T8	
-R4	Support Arg1:T5 Arg2:T8	
-R5	Support Arg1:T7 Arg2:T6	
-R6	Support Arg1:T9 Arg2:T6	
-R7	Support Arg1:T10 Arg2:T6	
+R1	Attack Arg1:T1 Arg2:T28
+R2	Support Arg1:T2 Arg2:T1
+R3	Attack Arg1:T4 Arg2:T8
+R4	Support Arg1:T5 Arg2:T8
+R5	Support Arg1:T7 Arg2:T6
+R6	Support Arg1:T9 Arg2:T6
+R7	Support Arg1:T10 Arg2:T6
 T29	Claim 1578 1616	I will do my level best to clean it up
-R8	Support Arg1:T29 Arg2:T12	
-R9	Support Arg1:T13 Arg2:T29	
+R8	Support Arg1:T29 Arg2:T12
+R9	Support Arg1:T13 Arg2:T29
 T30	Claim 1619 1663	ecognizing that you can't legislate morality
-R10	Attack Arg1:T30 Arg2:T29	
-R11	Support Arg1:T17 Arg2:T16	
-R12	Support Arg1:T18 Arg2:T17	
-R13	Support Arg1:T20 Arg2:T19	
-R14	Support Arg1:T21 Arg2:T19	
-R15	Support Arg1:T22 Arg2:T19	
-R16	Support Arg1:T23 Arg2:T19	
-R17	Support Arg1:T26 Arg2:T25	
-R18	Support Arg1:T25 Arg2:T27	
+R10	Attack Arg1:T30 Arg2:T29
+R11	Support Arg1:T17 Arg2:T16
+R12	Support Arg1:T18 Arg2:T17
+R13	Support Arg1:T20 Arg2:T19
+R14	Support Arg1:T21 Arg2:T19
+R15	Support Arg1:T22 Arg2:T19
+R16	Support Arg1:T23 Arg2:T19
+R17	Support Arg1:T26 Arg2:T25
+R18	Support Arg1:T25 Arg2:T27

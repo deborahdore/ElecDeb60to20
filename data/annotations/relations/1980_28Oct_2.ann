@@ -79,67 +79,67 @@ T155	Premise 10253 10378	The size of government increased only one-sixth in Cali
 T26	Claim 3021 3024	Yes
 T27	Claim 4738 4804	since the United States remains vulnerable to such external shocks
 T28	Premise 9506 9519;9570 9662	In California he had the three largest tax increases in the history of that state under his administration
-R1	Support Arg1:T6 Arg2:T4	
-R2	Support Arg1:T12 Arg2:T11	
-R3	Support Arg1:T13 Arg2:T10	
-R5	Support Arg1:T7 Arg2:T5	
-R6	Support Arg1:T11 Arg2:T5	
-R4	Support Arg1:T6 Arg2:T8	
-R7	Support Arg1:T8 Arg2:T5	
-R8	Support Arg1:T11 Arg2:T9	
-R9	Support Arg1:T13 Arg2:T9	
+R1	Support Arg1:T6 Arg2:T4
+R2	Support Arg1:T12 Arg2:T11
+R3	Support Arg1:T13 Arg2:T10
+R5	Support Arg1:T7 Arg2:T5
+R6	Support Arg1:T11 Arg2:T5
+R4	Support Arg1:T6 Arg2:T8
+R7	Support Arg1:T8 Arg2:T5
+R8	Support Arg1:T11 Arg2:T9
+R9	Support Arg1:T13 Arg2:T9
 T29	Claim 628 678	it's important to put the situation in perspective
-R10	Support Arg1:T10 Arg2:T9	
-R11	Support Arg1:T9 Arg2:T29	
-R12	Support Arg1:T16 Arg2:T15	
+R10	Support Arg1:T10 Arg2:T9
+R11	Support Arg1:T9 Arg2:T29
+R12	Support Arg1:T16 Arg2:T15
 T18	Premise 1635 1840	I notice that Governor Reagan recently mentioned the Reagan-Kemp-Roth proposal. which his own running mate, George Bush, described as voodoo economics, and said that it would result in a 30% inflation rate
-R13	Support Arg1:T19 Arg2:T18	
-R14	Support Arg1:T18 Arg2:T20	
-R15	Support Arg1:T21 Arg2:T20	
-R16	Support Arg1:T22 Arg2:T20	
-R17	Support Arg1:T23 Arg2:T20	
-R18	Support Arg1:T24 Arg2:T20	
+R13	Support Arg1:T19 Arg2:T18
+R14	Support Arg1:T18 Arg2:T20
+R15	Support Arg1:T21 Arg2:T20
+R16	Support Arg1:T22 Arg2:T20
+R17	Support Arg1:T23 Arg2:T20
+R18	Support Arg1:T24 Arg2:T20
 T30	Claim 2641 2707	the unemployment rate still hangs high, as does the inflation rate
 T31	Claim 2565 2621	you have mentioned the creation of nine million new jobs
-R19	Support Arg1:T25 Arg2:T31	
-R20	Support Arg1:T101 Arg2:T100	
-R21	Support Arg1:T102 Arg2:T101	
+R19	Support Arg1:T25 Arg2:T31
+R20	Support Arg1:T101 Arg2:T100
+R21	Support Arg1:T102 Arg2:T101
 T32	Claim 3493 3538	One is conservation, which requires sacrifice
 T33	Claim 3026 3077	We have demanded that the American people sacrifice
-R22	Support Arg1:T33 Arg2:T26	
-R23	Support Arg1:T32 Arg2:T33	
-R24	Support Arg1:T105 Arg2:T104	
-R25	Support Arg1:T106 Arg2:T104	
-R26	Attack Arg1:T122 Arg2:T27	
-R27	Attack Arg1:T122 Arg2:T112	
-R28	Attack Arg1:T127 Arg2:T15	
-R29	Attack Arg1:T128 Arg2:T15	
-R30	Support Arg1:T133 Arg2:T132	
+R22	Support Arg1:T33 Arg2:T26
+R23	Support Arg1:T32 Arg2:T33
+R24	Support Arg1:T105 Arg2:T104
+R25	Support Arg1:T106 Arg2:T104
+R26	Attack Arg1:T122 Arg2:T27
+R27	Attack Arg1:T122 Arg2:T112
+R28	Attack Arg1:T127 Arg2:T15
+R29	Attack Arg1:T128 Arg2:T15
+R30	Support Arg1:T133 Arg2:T132
 T34	Premise 6155 6204	he has then accused the people of living too well
 T35	Premise 6209 6290	that we must share in scarcity, we must sacrifice and get used to doing with less
-R31	Support Arg1:T33 Arg2:T35	
-R32	Support Arg1:T119 Arg2:T118	
-R33	Support Arg1:T134 Arg2:T132	
-R34	Support Arg1:T134 Arg2:T119	
-R35	Attack Arg1:T135 Arg2:T107	
-R36	Support Arg1:T132 Arg2:T131	
-R37	Support Arg1:T121 Arg2:T120	
-R38	Support Arg1:T136 Arg2:T119	
-R39	Support Arg1:T137 Arg2:T136	
-R40	Support Arg1:T138 Arg2:T136	
-R41	Support Arg1:T136 Arg2:T139	
-R42	Support Arg1:T139 Arg2:T140	
-R43	Support Arg1:T142 Arg2:T141	
-R44	Support Arg1:T140 Arg2:T141	
-R45	Support Arg1:T143 Arg2:T142	
-R46	Support Arg1:T18 Arg2:T144	
-R47	Support Arg1:T148 Arg2:T147	
-R48	Support Arg1:T147 Arg2:T146	
-R49	Attack Arg1:T144 Arg2:T131	
-R50	Support Arg1:T145 Arg2:T144	
-R51	Support Arg1:T147 Arg2:T149	
-R52	Attack Arg1:T28 Arg2:T141	
-R53	Attack Arg1:T150 Arg2:T143	
-R54	Support Arg1:T151 Arg2:T150	
-R55	Support Arg1:T154 Arg2:T153	
-R56	Support Arg1:T155 Arg2:T153	
+R31	Support Arg1:T33 Arg2:T35
+R32	Support Arg1:T119 Arg2:T118
+R33	Support Arg1:T134 Arg2:T132
+R34	Support Arg1:T134 Arg2:T119
+R35	Attack Arg1:T135 Arg2:T107
+R36	Support Arg1:T132 Arg2:T131
+R37	Support Arg1:T121 Arg2:T120
+R38	Support Arg1:T136 Arg2:T119
+R39	Support Arg1:T137 Arg2:T136
+R40	Support Arg1:T138 Arg2:T136
+R41	Support Arg1:T136 Arg2:T139
+R42	Support Arg1:T139 Arg2:T140
+R43	Support Arg1:T142 Arg2:T141
+R44	Support Arg1:T140 Arg2:T141
+R45	Support Arg1:T143 Arg2:T142
+R46	Support Arg1:T18 Arg2:T144
+R47	Support Arg1:T148 Arg2:T147
+R48	Support Arg1:T147 Arg2:T146
+R49	Attack Arg1:T144 Arg2:T131
+R50	Support Arg1:T145 Arg2:T144
+R51	Support Arg1:T147 Arg2:T149
+R52	Attack Arg1:T28 Arg2:T141
+R53	Attack Arg1:T150 Arg2:T143
+R54	Support Arg1:T151 Arg2:T150
+R55	Support Arg1:T154 Arg2:T153
+R56	Support Arg1:T155 Arg2:T153

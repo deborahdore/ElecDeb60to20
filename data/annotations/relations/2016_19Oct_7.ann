@@ -31,23 +31,23 @@ T475	Claim 3154 3175	Doesn't work that way
 T312	Premise 291 420	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
 T323	Premise 422 479	Social Security is going to run out of money in the 2030s
 T325	Premise 485 555	at that time, recipients are going to take huge cuts in their benefits
-R1	Support Arg1:T444 Arg2:T312	
-R2	Support Arg1:T323 Arg2:T312	
-R3	Support Arg1:T325 Arg2:T312	
-R4	Support Arg1:T447 Arg2:T448	
-R5	Attack Arg1:T450 Arg2:T447	
-R6	Attack Arg1:T451 Arg2:T450	
-R7	Support Arg1:T453 Arg2:T452	
-R8	Support Arg1:T454 Arg2:T452	
-*	Equivalent T455 T452
-R9	Support Arg1:T456 Arg2:T457	
-R10	Support Arg1:T460 Arg2:T461	
-R11	Support Arg1:T462 Arg2:T461	
-R12	Support Arg1:T465 Arg2:T464	
-R13	Attack Arg1:T463 Arg2:T461	
-R14	Support Arg1:T470 Arg2:T469	
-R15	Support Arg1:T472 Arg2:T471	
-R16	Support Arg1:T473 Arg2:T471	
-R17	Attack Arg1:T475 Arg2:T474	
-R18	Attack Arg1:T474 Arg2:T471	
-R19	Support Arg1:T468 Arg2:T467	
+R1	Support Arg1:T444 Arg2:T312
+R2	Support Arg1:T323 Arg2:T312
+R3	Support Arg1:T325 Arg2:T312
+R4	Support Arg1:T447 Arg2:T448
+R5	Attack Arg1:T450 Arg2:T447
+R6	Attack Arg1:T451 Arg2:T450
+R7	Support Arg1:T453 Arg2:T452
+R8	Support Arg1:T454 Arg2:T452
+R9	Support Arg1:T456 Arg2:T457
+R10	Support Arg1:T460 Arg2:T461
+R11	Support Arg1:T462 Arg2:T461
+R12	Support Arg1:T465 Arg2:T464
+R13	Attack Arg1:T463 Arg2:T461
+R14	Support Arg1:T470 Arg2:T469
+R15	Support Arg1:T472 Arg2:T471
+R16	Support Arg1:T473 Arg2:T471
+R17	Attack Arg1:T475 Arg2:T474
+R18	Attack Arg1:T474 Arg2:T471
+R19	Support Arg1:T468 Arg2:T467
+R20	Equivalent Arg1:T455 Arg2:T452

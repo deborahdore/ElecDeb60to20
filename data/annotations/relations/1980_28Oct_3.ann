@@ -54,49 +54,49 @@ T212	Claim 10184 10266	this will give us an additional opportunity for jobs whic
 T213	Premise 9965 10050	in the downtown central cities, with the, with the new commitment on an energy policy
 T214	Premise 10052 10122	with a chance to revitalize homes and to make them more fuel efficient
 T215	Premise 10124 10182	with a chance for our synthetic fuels program, solar power
-R1	Support Arg1:T157 Arg2:T156	
-R2	Support Arg1:T158 Arg2:T157	
-R3	Support Arg1:T159 Arg2:T158	
+R1	Support Arg1:T157 Arg2:T156
+R2	Support Arg1:T158 Arg2:T157
+R3	Support Arg1:T159 Arg2:T158
 T1	Claim 1300 1500	For example, a business that would not have, for a period of time, an increase in the property tax reflecting its development of the unused property that it was making wouldn't be any loss to the city
-R4	Support Arg1:T162 Arg2:T1	
-R5	Support Arg1:T165 Arg2:T164	
-R6	Support Arg1:T1 Arg2:T174	
-R7	Support Arg1:T164 Arg2:T174	
-R8	Support Arg1:T169 Arg2:T168	
-R9	Support Arg1:T170 Arg2:T168	
-R10	Support Arg1:T171 Arg2:T168	
-R11	Support Arg1:T168 Arg2:T166	
-R12	Support Arg1:T172 Arg2:T166	
+R4	Support Arg1:T162 Arg2:T1
+R5	Support Arg1:T165 Arg2:T164
+R6	Support Arg1:T1 Arg2:T174
+R7	Support Arg1:T164 Arg2:T174
+R8	Support Arg1:T169 Arg2:T168
+R9	Support Arg1:T170 Arg2:T168
+R10	Support Arg1:T171 Arg2:T168
+R11	Support Arg1:T168 Arg2:T166
+R12	Support Arg1:T172 Arg2:T166
 T2	Claim 2491 2635	I talked to a man just briefly there who asked me one simple question: "Do I have reason to hope that I can someday take care of my family again
 T3	Premise 2637 2659	Nothing has been done.
-R13	Support Arg1:T3 Arg2:T2	
-R14	Support Arg1:T2 Arg2:T166	
-R15	Support Arg1:T177 Arg2:T175	
-R16	Support Arg1:T176 Arg2:T175	
+R13	Support Arg1:T3 Arg2:T2
+R14	Support Arg1:T2 Arg2:T166
+R15	Support Arg1:T177 Arg2:T175
+R16	Support Arg1:T176 Arg2:T175
 T4	Claim 3586 3631	I think that something can be done from there
-R17	Support Arg1:T4 Arg2:T175	
-R18	Support Arg1:T181 Arg2:T4	
-R19	Support Arg1:T185 Arg2:T178	
-R20	Support Arg1:T188 Arg2:T185	
-R21	Support Arg1:T189 Arg2:T183	
-R22	Support Arg1:T190 Arg2:T191	
-R23	Support Arg1:T184 Arg2:T191	
-R24	Support Arg1:T183 Arg2:T191	
-R25	Support Arg1:T187 Arg2:T186	
+R17	Support Arg1:T4 Arg2:T175
+R18	Support Arg1:T181 Arg2:T4
+R19	Support Arg1:T185 Arg2:T178
+R20	Support Arg1:T188 Arg2:T185
+R21	Support Arg1:T189 Arg2:T183
+R22	Support Arg1:T190 Arg2:T191
+R23	Support Arg1:T184 Arg2:T191
+R24	Support Arg1:T183 Arg2:T191
+R25	Support Arg1:T187 Arg2:T186
 T5	Claim 6189 6289	Those who suffered from discrimination because of race or sex certainly knew we had a racial problem
-R26	Support Arg1:T5 Arg2:T187	
+R26	Support Arg1:T5 Arg2:T187
 T6	Claim 6291 6347;6353 6383	We have gone a long way toward correcting these problems we still have a long way to go
-R27	Support Arg1:T190 Arg2:T6	
-R28	Support Arg1:T195 Arg2:T194	
-R29	Support Arg1:T198 Arg2:T197	
-R30	Support Arg1:T198 Arg2:T200	
-R31	Support Arg1:T199 Arg2:T200	
-R32	Support Arg1:T204 Arg2:T205	
-R33	Support Arg1:T205 Arg2:T203	
-R34	Support Arg1:T209 Arg2:T210	
-R35	Support Arg1:T213 Arg2:T212	
-R36	Support Arg1:T214 Arg2:T212	
-R37	Support Arg1:T215 Arg2:T212	
-R38	Support Arg1:T210 Arg2:T211	
-R39	Support Arg1:T212 Arg2:T211	
-R40	Support Arg1:T207 Arg2:T211	
+R27	Support Arg1:T190 Arg2:T6
+R28	Support Arg1:T195 Arg2:T194
+R29	Support Arg1:T198 Arg2:T197
+R30	Support Arg1:T198 Arg2:T200
+R31	Support Arg1:T199 Arg2:T200
+R32	Support Arg1:T204 Arg2:T205
+R33	Support Arg1:T205 Arg2:T203
+R34	Support Arg1:T209 Arg2:T210
+R35	Support Arg1:T213 Arg2:T212
+R36	Support Arg1:T214 Arg2:T212
+R37	Support Arg1:T215 Arg2:T212
+R38	Support Arg1:T210 Arg2:T211
+R39	Support Arg1:T212 Arg2:T211
+R40	Support Arg1:T207 Arg2:T211

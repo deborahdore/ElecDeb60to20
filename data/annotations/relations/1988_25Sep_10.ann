@@ -53,48 +53,48 @@ T752	Claim 6811 6954	I think those are very very serious questions of judgment, 
 T1	Claim 3006 3021	That's not true
 T2	Claim 3131 3146	That's not true
 T3	Claim 5141 5161	Now we have a chance
-R1	Support Arg1:T697 Arg2:T696	
-R2	Support Arg1:T698 Arg2:T696	
-R3	Support Arg1:T696 Arg2:T699	
-R4	Support Arg1:T701 Arg2:T700	
-R5	Support Arg1:T702 Arg2:T700	
-R6	Attack Arg1:T700 Arg2:T699	
-R7	Support Arg1:T704 Arg2:T703	
-R8	Support Arg1:T703 Arg2:T700	
-R9	Attack Arg1:T706 Arg2:T703	
-R10	Attack Arg1:T706 Arg2:T700	
-R11	Support Arg1:T706 Arg2:T705	
-R12	Attack Arg1:T705 Arg2:T703	
-R13	Attack Arg1:T705 Arg2:T700	
-R14	Support Arg1:T708 Arg2:T707	
-R15	Support Arg1:T709 Arg2:T707	
-R16	Support Arg1:T710 Arg2:T707	
-R17	Support Arg1:T711 Arg2:T707	
-R18	Support Arg1:T712 Arg2:T707	
-R19	Support Arg1:T713 Arg2:T707	
-R20	Support Arg1:T714 Arg2:T707	
+R1	Support Arg1:T697 Arg2:T696
+R2	Support Arg1:T698 Arg2:T696
+R3	Support Arg1:T696 Arg2:T699
+R4	Support Arg1:T701 Arg2:T700
+R5	Support Arg1:T702 Arg2:T700
+R6	Attack Arg1:T700 Arg2:T699
+R7	Support Arg1:T704 Arg2:T703
+R8	Support Arg1:T703 Arg2:T700
+R9	Attack Arg1:T706 Arg2:T703
+R10	Attack Arg1:T706 Arg2:T700
+R11	Support Arg1:T706 Arg2:T705
+R12	Attack Arg1:T705 Arg2:T703
+R13	Attack Arg1:T705 Arg2:T700
+R14	Support Arg1:T708 Arg2:T707
+R15	Support Arg1:T709 Arg2:T707
+R16	Support Arg1:T710 Arg2:T707
+R17	Support Arg1:T711 Arg2:T707
+R18	Support Arg1:T712 Arg2:T707
+R19	Support Arg1:T713 Arg2:T707
+R20	Support Arg1:T714 Arg2:T707
 T4	Premise 2327 2369	t can never be because we make concessions
-R21	Support Arg1:T4 Arg2:T715	
-R22	Support Arg1:T715 Arg2:T718	
-R23	Attack Arg1:T707 Arg2:T718	
-R24	Support Arg1:T720 Arg2:T719	
-R25	Support Arg1:T722 Arg2:T719	
-R26	Support Arg1:T1 Arg2:T726	
-R27	Attack Arg1:T726 Arg2:T724	
-R28	Attack Arg1:T721 Arg2:T706	
-R29	Attack Arg1:T723 Arg2:T725	
-R30	Support Arg1:T723 Arg2:T728	
-R31	Support Arg1:T722 Arg2:T728	
-R32	Attack Arg1:T2 Arg2:T728	
+R21	Support Arg1:T4 Arg2:T715
+R22	Support Arg1:T715 Arg2:T718
+R23	Attack Arg1:T707 Arg2:T718
+R24	Support Arg1:T720 Arg2:T719
+R25	Support Arg1:T722 Arg2:T719
+R26	Support Arg1:T1 Arg2:T726
+R27	Attack Arg1:T726 Arg2:T724
+R28	Attack Arg1:T721 Arg2:T706
+R29	Attack Arg1:T723 Arg2:T725
+R30	Support Arg1:T723 Arg2:T728
+R31	Support Arg1:T722 Arg2:T728
+R32	Attack Arg1:T2 Arg2:T728
 T5	Claim 3159 3226	I have long ago said I supported the president on this other matter
 T6	Premise 3232 3260	I've said mistakes were made
-R33	Attack Arg1:T6 Arg2:T5	
-R34	Support Arg1:T6 Arg2:T730	
-R35	Support Arg1:T732 Arg2:T731	
-R36	Attack Arg1:T730 Arg2:T731	
+R33	Attack Arg1:T6 Arg2:T5
+R34	Support Arg1:T6 Arg2:T730
+R35	Support Arg1:T732 Arg2:T731
+R36	Attack Arg1:T730 Arg2:T731
 T7	Claim 3467 3518;3519 3621	But the point is sometimes the action- (Laughter)   BUSH: - has to be taken by the Federal Government and when we took action, it had a favorable response
-R37	Support Arg1:T5 Arg2:T7	
-R38	Support Arg1:T728 Arg2:T7	
+R37	Support Arg1:T5 Arg2:T7
+R38	Support Arg1:T728 Arg2:T7
 T8	Premise 5274 5332	all he can talk about-he goes around ranting about Noriega
 T9	Claim 4412 4445	You're judged by the whole record
 T10	Claim 4447 4482	You're judged by the entire record.
@@ -104,37 +104,37 @@ T13	Premise 4507 4545	Are we doing better in anti-terrorism?
 T14	Premise 4546 4700	Should we have listened to my opponent who wanted to send the UN into the Persian Gulf or in spite of the mistakes of the past, are we doing better there?
 T15	Premise 4701 4778	How is our credibility with the GCC countries on the Western side of the Gulf
 T16	Premise 4780 4815	Is Iran talking to Iraq about peace
-R39	Support Arg1:T9 Arg2:T10	
-R40	Support Arg1:T11 Arg2:T10	
+R39	Support Arg1:T9 Arg2:T10
+R40	Support Arg1:T11 Arg2:T10
 T17	Premise 4842 4884	Are the Soviets coming out of Afghanistan?
-R41	Support Arg1:T12 Arg2:T10	
-R42	Support Arg1:T13 Arg2:T10	
-R43	Attack Arg1:T13 Arg2:T14	
-R44	Support Arg1:T15 Arg2:T10	
-R45	Support Arg1:T16 Arg2:T10	
-R46	Support Arg1:T17 Arg2:T10	
+R41	Support Arg1:T12 Arg2:T10
+R42	Support Arg1:T13 Arg2:T10
+R43	Attack Arg1:T13 Arg2:T14
+R44	Support Arg1:T15 Arg2:T10
+R45	Support Arg1:T16 Arg2:T10
+R46	Support Arg1:T17 Arg2:T10
 T18	Premise 4885 5098	How does it look in a program he called or some one of these marvelous Boston adjective up there and-about Angola-now, we have a chance-several Bostonians don't like it, but the rest of the country will understand
-R47	Support Arg1:T18 Arg2:T10	
-R48	Equivalent Arg1:T3 Arg2:T733	
-R49	Support Arg1:T733 Arg2:T735	
-R50	Support Arg1:T10 Arg2:T735	
-R51	Support Arg1:T737 Arg2:T8	
-R52	Support Arg1:T8 Arg2:T738	
-R53	Attack Arg1:T736 Arg2:T738	
-R54	Attack Arg1:T736 Arg2:T8	
-R55	Support Arg1:T739 Arg2:T740	
-R56	Support Arg1:T741 Arg2:T740	
-R57	Attack Arg1:T742 Arg2:T741	
-R58	Attack Arg1:T743 Arg2:T741	
-R59	Support Arg1:T742 Arg2:T743	
-R60	Support Arg1:T744 Arg2:T745	
-R61	Attack Arg1:T745 Arg2:T740	
+R47	Support Arg1:T18 Arg2:T10
+R48	Equivalent Arg1:T3 Arg2:T733
+R49	Support Arg1:T733 Arg2:T735
+R50	Support Arg1:T10 Arg2:T735
+R51	Support Arg1:T737 Arg2:T8
+R52	Support Arg1:T8 Arg2:T738
+R53	Attack Arg1:T736 Arg2:T738
+R54	Attack Arg1:T736 Arg2:T8
+R55	Support Arg1:T739 Arg2:T740
+R56	Support Arg1:T741 Arg2:T740
+R57	Attack Arg1:T742 Arg2:T741
+R58	Attack Arg1:T743 Arg2:T741
+R59	Support Arg1:T742 Arg2:T743
+R60	Support Arg1:T744 Arg2:T745
+R61	Attack Arg1:T745 Arg2:T740
 T19	Premise 6613 6693	Well, let's concede that the administration has been doing business with Noriega
-R62	Support Arg1:T19 Arg2:T751	
-R63	Attack Arg1:T752 Arg2:T751	
-R64	Attack Arg1:T750 Arg2:T752	
-R65	Support Arg1:T749 Arg2:T750	
-R66	Support Arg1:T748 Arg2:T749	
-R67	Support Arg1:T747 Arg2:T749	
-R68	Attack Arg1:T749 Arg2:T746	
-R69	Support Arg1:T746 Arg2:T745	
+R62	Support Arg1:T19 Arg2:T751
+R63	Attack Arg1:T752 Arg2:T751
+R64	Attack Arg1:T750 Arg2:T752
+R65	Support Arg1:T749 Arg2:T750
+R66	Support Arg1:T748 Arg2:T749
+R67	Support Arg1:T747 Arg2:T749
+R68	Attack Arg1:T749 Arg2:T746
+R69	Support Arg1:T746 Arg2:T745

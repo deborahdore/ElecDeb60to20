@@ -24,16 +24,16 @@ T782	Premise 1729 1759	I've broken up organized crime
 T783	Premise 1676 1727	I put people behind bars for the rest of their life
 T784	Premise 1587 1650	I ran one of the largest district attorney's offices in America
 T785	Premise 1544 1585	I'm also a former law enforcement officer
-R1	Support Arg1:T767 Arg2:T766	
-R2	Support Arg1:T768 Arg2:T767	
-R3	Support Arg1:T770 Arg2:T768	
-R4	Support Arg1:T771 Arg2:T767	
-R5	Attack Arg1:T772 Arg2:T763	
-R6	Support Arg1:T779 Arg2:T781	
+R1	Support Arg1:T767 Arg2:T766
+R2	Support Arg1:T768 Arg2:T767
+R3	Support Arg1:T770 Arg2:T768
+R4	Support Arg1:T771 Arg2:T767
+R5	Attack Arg1:T772 Arg2:T763
+R6	Support Arg1:T779 Arg2:T781
 T1	Premise 1946 2208	 I was hunting in Iowa last year with a sheriff from one of the counties there, and he pointed to a house in back of us, and said, "See the house over? We just did a drug bust a week earlier, and the guy we arrested had an AK-47 lying on the bed right beside him
-R7	Support Arg1:T1 Arg2:T779	
-R8	Support Arg1:T773 Arg2:T772	
-R9	Support Arg1:T774 Arg2:T778	
-R10	Support Arg1:T775 Arg2:T774	
-R11	Support Arg1:T778 Arg2:T777	
-R12	Support Arg1:T781 Arg2:T777	
+R7	Support Arg1:T1 Arg2:T779
+R8	Support Arg1:T773 Arg2:T772
+R9	Support Arg1:T774 Arg2:T778
+R10	Support Arg1:T775 Arg2:T774
+R11	Support Arg1:T778 Arg2:T777
+R12	Support Arg1:T781 Arg2:T777

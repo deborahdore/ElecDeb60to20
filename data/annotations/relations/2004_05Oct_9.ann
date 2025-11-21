@@ -7,15 +7,15 @@ T6	Premise 934 1251	He has moved and proposed and gotten through the Congress au
 T7	Claim 1254 1312	Here in the United States, we've made significant progress
 T8	Premise 1314 1384	I have not heard those numbers with respect to African- American women
 T9	Premise 1386 1735	I was not aware that it was -- that they're in epidemic there, because we have made progress in terms of the overall rate of AIDS infection, and I think primarily through a combination of education and public awareness as well as the development, as a result of research, of drugs that allow people to live longer lives even though they are infected
-R1	Support Arg1:T8 Arg2:T7	
-R2	Support Arg1:T9 Arg2:T7	
-R3	Support Arg1:T6 Arg2:T5	
+R1	Support Arg1:T8 Arg2:T7
+R2	Support Arg1:T9 Arg2:T7
+R3	Support Arg1:T6 Arg2:T5
 T10	Claim 1996 2045	John Kerry and I believe that needs to be doubled
 T11	Premise 2051 2161	I might add, on the first year of their commitment, they came up significantly short of what they had promised
 T12	Premise 2862 2951	we have 5 million Americans who've lost their health care coverage in the last four years
 T13	Premise 2953 3002	45 million Americans without health care coverage
 T14	Premise 3004 3056	We have children who don't have health care coverage
-R4	Attack Arg1:T10 Arg2:T6	
+R4	Attack Arg1:T10 Arg2:T6
 T15	Claim 3059 3195	If kids and adults don't have access to preventative care, if they're not getting the health care that they need day after day after day
 T16	Premise 3197 3408	the possibility of not only developing AIDS and having a problem -- having a problem -- a life-threatening problem, but the problem of developing other life-threatening diseases is there every day of their lives
-R5	Support Arg1:T16 Arg2:T15	
+R5	Support Arg1:T16 Arg2:T15

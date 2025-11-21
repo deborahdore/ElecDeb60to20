@@ -36,46 +36,46 @@ T97	Premise 4572 4691	the majority of Republicans - put them on record - against
 T98	Premise 4379 4436	which passed the Senate overwhelmingly, seventy to twelve
 T61	Claim 535 591	I think we should st- strengthen our conventional forces
 T467	Premise 597 719	we should attempt in January, February, and March of next year to increase the airlift capacity of our conventional forces
-R1	Support Arg1:T467 Arg2:T61	
-R3	Support Arg1:T63 Arg2:T64	
-R4	Support Arg1:T66 Arg2:T65	
-R5	Support Arg1:T67 Arg2:T65	
-R7	Support Arg1:T69 Arg2:T68	
-R9	Support Arg1:T70 Arg2:T69	
-R8	Support Arg1:T74 Arg2:T73	
-R11	Support Arg1:T75 Arg2:T73	
-R12	Support Arg1:T77 Arg2:T76	
-R13	Support Arg1:T76 Arg2:T80	
-R18	Support Arg1:T92 Arg2:T93	
-R19	Attack Arg1:T93 Arg2:T73	
-R20	Attack Arg1:T86 Arg2:T74	
-R21	Support Arg1:T87 Arg2:T86	
-R22	Support Arg1:T84 Arg2:T94	
-R23	Support Arg1:T96 Arg2:T97	
-R24	Support Arg1:T97 Arg2:T95	
-R25	Support Arg1:T98 Arg2:T96	
-R26	Support Arg1:T90 Arg2:T89	
-R27	Support Arg1:T91 Arg2:T89	
-R28	Support Arg1:T88 Arg2:T93	
-R29	Attack Arg1:T85 Arg2:T92	
-R30	Attack Arg1:T85 Arg2:T84	
-R31	Support Arg1:T85 Arg2:T89	
+R1	Support Arg1:T467 Arg2:T61
+R3	Support Arg1:T63 Arg2:T64
+R4	Support Arg1:T66 Arg2:T65
+R5	Support Arg1:T67 Arg2:T65
+R7	Support Arg1:T69 Arg2:T68
+R9	Support Arg1:T70 Arg2:T69
+R8	Support Arg1:T74 Arg2:T73
+R11	Support Arg1:T75 Arg2:T73
+R12	Support Arg1:T77 Arg2:T76
+R13	Support Arg1:T76 Arg2:T80
+R18	Support Arg1:T92 Arg2:T93
+R19	Attack Arg1:T93 Arg2:T73
+R20	Attack Arg1:T86 Arg2:T74
+R21	Support Arg1:T87 Arg2:T86
+R22	Support Arg1:T84 Arg2:T94
+R23	Support Arg1:T96 Arg2:T97
+R24	Support Arg1:T97 Arg2:T95
+R25	Support Arg1:T98 Arg2:T96
+R26	Support Arg1:T90 Arg2:T89
+R27	Support Arg1:T91 Arg2:T89
+R28	Support Arg1:T88 Arg2:T93
+R29	Attack Arg1:T85 Arg2:T92
+R30	Attack Arg1:T85 Arg2:T84
+R31	Support Arg1:T85 Arg2:T89
 T1	Claim 2273 2322	It may be necessary for us to begin testing again
 T2	Premise 2226 2271	We may be able to get satisfactory assurances
-R34	Support Arg1:T2 Arg2:T1	
+R34	Support Arg1:T2 Arg2:T1
 T3	Claim 2430 2649	make one last great effort to provide for control of nuclear testing, control of nuclear weapons, if possible, control of outer space, free from weapons, and also to begin again the subject of general disarmament levels
-R35	Equivalent Arg1:T81 Arg2:T3	
-R32	Support Arg1:T65 Arg2:T71	
-R36	Attack Arg1:T71 Arg2:T73	
-R37	Attack Arg1:T65 Arg2:T76	
-R38	Support Arg1:T65 Arg2:T3	
+R35	Equivalent Arg1:T81 Arg2:T3
+R32	Support Arg1:T65 Arg2:T71
+R36	Attack Arg1:T71 Arg2:T73
+R37	Attack Arg1:T65 Arg2:T76
+R38	Support Arg1:T65 Arg2:T3
 T4	Premise 3751 3872	extra mile and then some in making offers to the Soviet Union on control of tests, on disarmament, and in every other way
-R2	Support Arg1:T68 Arg2:T65	
-R6	Support Arg1:T1 Arg2:T3	
-R10	Equivalent Arg1:T3 Arg2:T65	
+R2	Support Arg1:T68 Arg2:T65
+R6	Support Arg1:T1 Arg2:T3
+R10	Equivalent Arg1:T3 Arg2:T65
 T5	Claim 2732 2755	I would make the effort
-R17	Equivalent Arg1:T5 Arg2:T3	
-R33	Support Arg1:T78 Arg2:T5	
-R14	Support Arg1:T79 Arg2:T5	
-R15	Support Arg1:T5 Arg2:T80	
-R16	Support Arg1:T4 Arg2:T93	
+R17	Equivalent Arg1:T5 Arg2:T3
+R33	Support Arg1:T78 Arg2:T5
+R14	Support Arg1:T79 Arg2:T5
+R15	Support Arg1:T5 Arg2:T80
+R16	Support Arg1:T4 Arg2:T93

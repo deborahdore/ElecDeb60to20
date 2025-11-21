@@ -39,35 +39,35 @@ T143	Claim 3480 3637	When he selected his vice presidential running mate, he sel
 T144	Claim 3995 4027	we haven't had an adequate staff
 T145	Claim 3962 3993	we have not had adequate powers
 T146	Claim 3845 3960	yet that very committee of which I am chairman has been handicapped by the fact that we have not had adequate funds
-R1	Support Arg1:T102 Arg2:T101	
-R2	Support Arg1:T104 Arg2:T101	
-R3	Support Arg1:T108 Arg2:T101	
-R4	Support Arg1:T106 Arg2:T105	
-R5	Support Arg1:T110 Arg2:T101	
-R6	Support Arg1:T111 Arg2:T109	
-R8	Support Arg1:T112 Arg2:T109	
-R9	Support Arg1:T119 Arg2:T118	
-R10	Support Arg1:T117 Arg2:T116	
-R13	Equivalent Arg1:T123 Arg2:T117	
-R14	Support Arg1:T123 Arg2:T122	
-R15	Support Arg1:T117 Arg2:T122	
-R16	Support Arg1:T120 Arg2:T101	
-R17	Support Arg1:T125 Arg2:T124	
-R18	Support Arg1:T129 Arg2:T124	
-R19	Support Arg1:T128 Arg2:T129	
-R20	Support Arg1:T132 Arg2:T124	
-R21	Attack Arg1:T143 Arg2:T141	
-R25	Support Arg1:T137 Arg2:T146	
-R26	Support Arg1:T139 Arg2:T140	
-R27	Equivalent Arg1:T140 Arg2:T137	
-R28	Support Arg1:T140 Arg2:T146	
-R29	Attack Arg1:T136 Arg2:T141	
-R30	Equivalent Arg1:T135 Arg2:T136	
-R31	Attack Arg1:T135 Arg2:T141	
-R32	Attack Arg1:T134 Arg2:T132	
-R33	Equivalent Arg1:T135 Arg2:T134	
+R1	Support Arg1:T102 Arg2:T101
+R2	Support Arg1:T104 Arg2:T101
+R3	Support Arg1:T108 Arg2:T101
+R4	Support Arg1:T106 Arg2:T105
+R5	Support Arg1:T110 Arg2:T101
+R6	Support Arg1:T111 Arg2:T109
+R8	Support Arg1:T112 Arg2:T109
+R9	Support Arg1:T119 Arg2:T118
+R10	Support Arg1:T117 Arg2:T116
+R13	Equivalent Arg1:T123 Arg2:T117
+R14	Support Arg1:T123 Arg2:T122
+R15	Support Arg1:T117 Arg2:T122
+R16	Support Arg1:T120 Arg2:T101
+R17	Support Arg1:T125 Arg2:T124
+R18	Support Arg1:T129 Arg2:T124
+R19	Support Arg1:T128 Arg2:T129
+R20	Support Arg1:T132 Arg2:T124
+R21	Attack Arg1:T143 Arg2:T141
+R25	Support Arg1:T137 Arg2:T146
+R26	Support Arg1:T139 Arg2:T140
+R27	Equivalent Arg1:T140 Arg2:T137
+R28	Support Arg1:T140 Arg2:T146
+R29	Attack Arg1:T136 Arg2:T141
+R30	Equivalent Arg1:T135 Arg2:T136
+R31	Attack Arg1:T135 Arg2:T141
+R32	Attack Arg1:T134 Arg2:T132
+R33	Equivalent Arg1:T135 Arg2:T134
 T1	Claim 2816 2851	I believe we can make uh - progress
 T2	Premise 3047 3166	Franklin Roosevelt said: "The pre - uh - the presidency of the United States is above all a place of moral leadership."
 T3	Premise 4036 4269	the special session of Congress and also in the session that preceded it, the Democratic Congress - in which there's a two-to-one Democratic majority - was asked by the President to give us the funds and give us the power to do a job
-R7	Attack Arg1:T103 Arg2:T102	
-R11	Support Arg1:T118 Arg2:T122	
+R7	Attack Arg1:T103 Arg2:T102
+R11	Support Arg1:T118 Arg2:T122

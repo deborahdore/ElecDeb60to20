@@ -37,34 +37,34 @@ T36	Premise 4321 4386	The platform suggests that it can be done through economic
 T37	Claim 4438 4475	it isn't going to be working that way
 T38	Premise 4477 4549	You can't add billions of dollars to our expenditures and not pay for it
 T39	Premise 4562 4644	it isn't paid for by my money, it isn't paid for by his, but by the people's money
-R1	Support Arg1:T2 Arg2:T1	
-R2	Support Arg1:T3 Arg2:T1	
-R3	Support Arg1:T4 Arg2:T1	
-R4	Support Arg1:T5 Arg2:T6	
-R5	Support Arg1:T1 Arg2:T6	
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T3 Arg2:T1
+R3	Support Arg1:T4 Arg2:T1
+R4	Support Arg1:T5 Arg2:T6
+R5	Support Arg1:T1 Arg2:T6
 T40	Premise 1462 1618	I would not want anyone to elect me uh - president of the United States - or vote for me - under the expectation that life would be easier if I were elected
-R6	Attack Arg1:T40 Arg2:T12	
-R7	Support Arg1:T13 Arg2:T12	
-R8	Support Arg1:T17 Arg2:T14	
-R9	Support Arg1:T16 Arg2:T14	
-R10	Support Arg1:T15 Arg2:T14	
-R11	Equivalent Arg1:T14 Arg2:T18	
-R12	Support Arg1:T18 Arg2:T19	
-R13	Support Arg1:T20 Arg2:T21	
-R14	Support Arg1:T22 Arg2:T23	
-R15	Equivalent Arg1:T26 Arg2:T40	
-R16	Attack Arg1:T26 Arg2:T25	
-R17	Attack Arg1:T27 Arg2:T28	
-R18	Support Arg1:T24 Arg2:T25	
-R19	Attack Arg1:T29 Arg2:T28	
-R20	Support Arg1:T30 Arg2:T31	
-R21	Support Arg1:T31 Arg2:T32	
-R22	Support Arg1:T32 Arg2:T33	
-R23	Support Arg1:T34 Arg2:T33	
-R24	Support Arg1:T35 Arg2:T33	
+R6	Attack Arg1:T40 Arg2:T12
+R7	Support Arg1:T13 Arg2:T12
+R8	Support Arg1:T17 Arg2:T14
+R9	Support Arg1:T16 Arg2:T14
+R10	Support Arg1:T15 Arg2:T14
+R11	Equivalent Arg1:T14 Arg2:T18
+R12	Support Arg1:T18 Arg2:T19
+R13	Support Arg1:T20 Arg2:T21
+R14	Support Arg1:T22 Arg2:T23
+R15	Equivalent Arg1:T26 Arg2:T40
+R16	Attack Arg1:T26 Arg2:T25
+R17	Attack Arg1:T27 Arg2:T28
+R18	Support Arg1:T24 Arg2:T25
+R19	Attack Arg1:T29 Arg2:T28
+R20	Support Arg1:T30 Arg2:T31
+R21	Support Arg1:T31 Arg2:T32
+R22	Support Arg1:T32 Arg2:T33
+R23	Support Arg1:T34 Arg2:T33
+R24	Support Arg1:T35 Arg2:T33
 T41	Claim 4032 4319	I think I should also add that as far as Senator Kennedy's proposals are concerned, if he intends to carry out his platform - the one adopted in Los Angeles - it is just impossible for him to make good on those promises without raising taxes or without having a rise in t- prices or both
-R25	Attack Arg1:T41 Arg2:T1	
-R26	Attack Arg1:T36 Arg2:T37	
-R27	Equivalent Arg1:T37 Arg2:T41	
-R28	Support Arg1:T38 Arg2:T37	
-R29	Support Arg1:T39 Arg2:T37	
+R25	Attack Arg1:T41 Arg2:T1
+R26	Attack Arg1:T36 Arg2:T37
+R27	Equivalent Arg1:T37 Arg2:T41
+R28	Support Arg1:T38 Arg2:T37
+R29	Support Arg1:T39 Arg2:T37

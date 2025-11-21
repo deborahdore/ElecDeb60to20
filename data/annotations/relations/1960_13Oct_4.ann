@@ -33,54 +33,54 @@ T134	Claim 4877 4904	the treaty is quite precise
 T135	Claim 4909 4929	I sustain the treaty
 T100	Claim 1056 1208	I don't think there was any implication in Secretary Dulles' statement that Quemoy and Matsu should not be defended in the event that they were attacked
 T101	Claim 1214 1267	that attack was a preliminary to an attack on Formosa
-R1	Support Arg1:T102 Arg2:T103	
-R2	Support Arg1:T100 Arg2:T101	
-R5	Support Arg1:T106 Arg2:T105	
-R9	Support Arg1:T110 Arg2:T111	
-R10	Support Arg1:T112 Arg2:T111	
-R11	Support Arg1:T108 Arg2:T112	
-R14	Support Arg1:T118 Arg2:T115	
-R15	Support Arg1:T116 Arg2:T117	
-R17	Support Arg1:T119 Arg2:T114	
-R18	Support Arg1:T114 Arg2:T113	
-R20	Support Arg1:T117 Arg2:T113	
-R21	Support Arg1:T118 Arg2:T113	
-R23	Support Arg1:T123 Arg2:T120	
-R24	Support Arg1:T121 Arg2:T123	
-R26	Support Arg1:T122 Arg2:T123	
-R28	Support Arg1:T125 Arg2:T126	
-R30	Support Arg1:T123 Arg2:T126	
-R32	Support Arg1:T133 Arg2:T131	
-R33	Support Arg1:T130 Arg2:T131	
-R37	Support Arg1:T127 Arg2:T128	
-R38	Equivalent Arg1:T124 Arg2:T135	
-R41	Support Arg1:T126 Arg2:T128	
-R42	Support Arg1:T123 Arg2:T134	
-R43	Support Arg1:T134 Arg2:T135	
+R1	Support Arg1:T102 Arg2:T103
+R2	Support Arg1:T100 Arg2:T101
+R5	Support Arg1:T106 Arg2:T105
+R9	Support Arg1:T110 Arg2:T111
+R10	Support Arg1:T112 Arg2:T111
+R11	Support Arg1:T108 Arg2:T112
+R14	Support Arg1:T118 Arg2:T115
+R15	Support Arg1:T116 Arg2:T117
+R17	Support Arg1:T119 Arg2:T114
+R18	Support Arg1:T114 Arg2:T113
+R20	Support Arg1:T117 Arg2:T113
+R21	Support Arg1:T118 Arg2:T113
+R23	Support Arg1:T123 Arg2:T120
+R24	Support Arg1:T121 Arg2:T123
+R26	Support Arg1:T122 Arg2:T123
+R28	Support Arg1:T125 Arg2:T126
+R30	Support Arg1:T123 Arg2:T126
+R32	Support Arg1:T133 Arg2:T131
+R33	Support Arg1:T130 Arg2:T131
+R37	Support Arg1:T127 Arg2:T128
+R38	Equivalent Arg1:T124 Arg2:T135
+R41	Support Arg1:T126 Arg2:T128
+R42	Support Arg1:T123 Arg2:T134
+R43	Support Arg1:T134 Arg2:T135
 T1	Claim 1752 1995	once you do this - follow this course of action - of indicating that you are not going to defend a particular area, the inevitable result is that it encourages a man who is determined to conquer the world to press you to the point of no return
 T2	Claim 2159 2312	I think the Senate was right, including a majority of the Democrats, a majority of the Republicans, when they rejected Senator Kennedy's position in 1955
 T3	Premise 4931 5137	Mr. Nixon would add a guarantee to islands five miles off the coast of the re- Republic of China when he's never really protested the Communists seizing Cuba, ninety miles off the coast of the United States
 T4	Claim 4791 4853	I would not ho- hand over these islands under any point of gun
-R46	Attack Arg1:T3 Arg2:T113	
-R49	Support Arg1:T105 Arg2:T1	
-R52	Equivalent Arg1:T118 Arg2:T105	
-R53	Attack Arg1:T121 Arg2:T100	
+R46	Attack Arg1:T3 Arg2:T113
+R49	Support Arg1:T105 Arg2:T1
+R52	Equivalent Arg1:T118 Arg2:T105
+R53	Attack Arg1:T121 Arg2:T100
 T6	Premise 3848 4040	What we're now talking about is the Vice President's determination to guarantee Quemoy and Matsu, which are four and five miles off the coast of Red China, which are not within the treaty area
 T7	Claim 1650 1707	first it will be Quemoy and Matsu, next it may be Formosa
-R56	Support Arg1:T103 Arg2:T7	
-R59	Attack Arg1:T6 Arg2:T1	
+R56	Support Arg1:T103 Arg2:T7
+R59	Attack Arg1:T6 Arg2:T1
 T8	Claim 4042 4196	I do not suggest that Chiang Kai-shek - and this Administration has been attempting since 1955 to persuade Chiang Kai-shek to lessen his troop commitments
-R60	Support Arg1:T132 Arg2:T8	
-R62	Support Arg1:T128 Arg2:T4	
-R63	Attack Arg1:T4 Arg2:T102	
-R64	Support Arg1:T123 Arg2:T134	
+R60	Support Arg1:T132 Arg2:T8
+R62	Support Arg1:T128 Arg2:T4
+R63	Attack Arg1:T4 Arg2:T102
+R64	Support Arg1:T123 Arg2:T134
 T9	Premise 630 973	first of all, referring to Secretary Dulles' press conference, I think if you read it all - and I know that you have - you will find that Secretary Dulles also indicated in that press conference that when the troops were withdrawn from Quemoy, that the implication was certainly of everything that he said, that Quemoy could better be defended
-R44	Support Arg1:T9 Arg2:T100	
-R65	Support Arg1:T99 Arg2:T100	
-R3	Support Arg1:T7 Arg2:T1	
-R4	Support Arg1:T107 Arg2:T105	
-R6	Equivalent Arg1:T111 Arg2:T2	
-R7	Support Arg1:T1 Arg2:T2	
-R8	Attack Arg1:T120 Arg2:T2	
-R12	Support Arg1:T123 Arg2:T124	
-R13	Support Arg1:T129 Arg2:T131	
+R44	Support Arg1:T9 Arg2:T100
+R65	Support Arg1:T99 Arg2:T100
+R3	Support Arg1:T7 Arg2:T1
+R4	Support Arg1:T107 Arg2:T105
+R6	Equivalent Arg1:T111 Arg2:T2
+R7	Support Arg1:T1 Arg2:T2
+R8	Attack Arg1:T120 Arg2:T2
+R12	Support Arg1:T123 Arg2:T124
+R13	Support Arg1:T129 Arg2:T131

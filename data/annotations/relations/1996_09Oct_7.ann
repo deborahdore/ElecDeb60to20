@@ -62,100 +62,100 @@ T382	Premise 9396 9476	Bob Dole said in February of this year this is the strong
 T383	Premise 9478 9571	The conservative business journal, "Barron's," says this is the strongest economy in 30 years
 T384	Claim 9573 9600	We've got good solid growth
 T1	Question 8 163	Mr. Vice President, some Democrats have charged that the environment would be in jeopardy if Mr. Kemp and Senator Dole are elected. Do you share that fear?
-R1	Support Arg1:T319 Arg2:T318	
-R2	Support Arg1:T320 Arg2:T321	
-R3	Support Arg1:T322 Arg2:T321	
-R4	Support Arg1:T323 Arg2:T321	
-R5	Support Arg1:T325 Arg2:T321	
-R6	Support Arg1:T326 Arg2:T321	
-R7	Support Arg1:T327 Arg2:T321	
-R8	Support Arg1:T328 Arg2:T321	
-R9	Support Arg1:T329 Arg2:T318	
-R10	Support Arg1:T321 Arg2:T330	
+R1	Support Arg1:T319 Arg2:T318
+R2	Support Arg1:T320 Arg2:T321
+R3	Support Arg1:T322 Arg2:T321
+R4	Support Arg1:T323 Arg2:T321
+R5	Support Arg1:T325 Arg2:T321
+R6	Support Arg1:T326 Arg2:T321
+R7	Support Arg1:T327 Arg2:T321
+R8	Support Arg1:T328 Arg2:T321
+R9	Support Arg1:T329 Arg2:T318
+R10	Support Arg1:T321 Arg2:T330
 T2	Claim 1622 1638	so will Bob Dole
-R11	Attack Arg1:T2 Arg2:T329	
+R11	Attack Arg1:T2 Arg2:T329
 T3	Premise 1662 1744	Franklin Roosevelt said in 1932 that the only thing we have to fear is fear itself
 T4	Premise 1746 1945	The only thing, Jim, they have to offer is fear. Fear of the environment, fear of the climate, fear of Medicare, fear of Newt, fear of Republicans, fear of Bob, and probably fear of cutting tax rates
-R12	Support Arg1:T3 Arg2:T4	
-R13	Attack Arg1:T4 Arg2:T318	
+R12	Support Arg1:T3 Arg2:T4
+R13	Attack Arg1:T4 Arg2:T318
 T5	Premise 1947 1974	They ain't seen nothing yet
-R14	Support Arg1:T5 Arg2:T4	
-R15	Support Arg1:T332 Arg2:T331	
-R17	Support Arg1:T333 Arg2:T334	
-R16	Support Arg1:T331 Arg2:T334	
-R18	Support Arg1:T336 Arg2:T335	
-R19	Support Arg1:T337 Arg2:T335	
+R14	Support Arg1:T5 Arg2:T4
+R15	Support Arg1:T332 Arg2:T331
+R17	Support Arg1:T333 Arg2:T334
+R16	Support Arg1:T331 Arg2:T334
+R18	Support Arg1:T336 Arg2:T335
+R19	Support Arg1:T337 Arg2:T335
 T6	Claim 2565 2614	we believe in democratic capitalism for everybody
-R20	Attack Arg1:T338 Arg2:T333	
-R21	Support Arg1:T340 Arg2:T339	
-R22	Support Arg1:T341 Arg2:T339	
-R23	Support Arg1:T339 Arg2:T338	
-R24	Support Arg1:T342 Arg2:T339	
+R20	Attack Arg1:T338 Arg2:T333
+R21	Support Arg1:T340 Arg2:T339
+R22	Support Arg1:T341 Arg2:T339
+R23	Support Arg1:T339 Arg2:T338
+R24	Support Arg1:T342 Arg2:T339
 T7	Question 3204 3380	Mr. Kemp, you mentioned it already before and you said on "Meet the Press" Sunday that the federal government engages in "regulation reign of terror." What exactly do you mean?
 T8	Premise 3420 3629	Regulations that take property or reduce the value of some farmer or rancher or homeowner's property for wetlands or endangered species and take that property or reduce its value without compensating the owner
-R25	Support Arg1:T8 Arg2:T343	
-R26	Support Arg1:T344 Arg2:T9	
+R25	Support Arg1:T8 Arg2:T343
+R26	Support Arg1:T344 Arg2:T9
 T9	Claim 3658 3672	It's happening
-R27	Attack Arg1:T348 Arg2:T345	
-R28	Support Arg1:T345 Arg2:T343	
-R29	Support Arg1:T9 Arg2:T343	
-R30	Support Arg1:T346 Arg2:T347	
-R31	Support Arg1:T343 Arg2:T347	
-R32	Support Arg1:T349 Arg2:T348	
-R33	Support Arg1:T350 Arg2:T348	
-R34	Support Arg1:T351 Arg2:T350	
-R35	Support Arg1:T352 Arg2:T350	
-R36	Attack Arg1:T348 Arg2:T8	
-R37	Support Arg1:T353 Arg2:T350	
-R38	Support Arg1:T354 Arg2:T355	
-R39	Support Arg1:T355 Arg2:T348	
-R40	Support Arg1:T357 Arg2:T356	
-R41	Support Arg1:T356 Arg2:T358	
-R42	Support Arg1:T358 Arg2:T359	
-R43	Support Arg1:T360 Arg2:T361	
+R27	Attack Arg1:T348 Arg2:T345
+R28	Support Arg1:T345 Arg2:T343
+R29	Support Arg1:T9 Arg2:T343
+R30	Support Arg1:T346 Arg2:T347
+R31	Support Arg1:T343 Arg2:T347
+R32	Support Arg1:T349 Arg2:T348
+R33	Support Arg1:T350 Arg2:T348
+R34	Support Arg1:T351 Arg2:T350
+R35	Support Arg1:T352 Arg2:T350
+R36	Attack Arg1:T348 Arg2:T8
+R37	Support Arg1:T353 Arg2:T350
+R38	Support Arg1:T354 Arg2:T355
+R39	Support Arg1:T355 Arg2:T348
+R40	Support Arg1:T357 Arg2:T356
+R41	Support Arg1:T356 Arg2:T358
+R42	Support Arg1:T358 Arg2:T359
+R43	Support Arg1:T360 Arg2:T361
 T10	Premise 5769 5878	When I went to Congress from Buffalo in 1970, you could almost walk across Lake Erie because of the pollution
-R44	Support Arg1:T10 Arg2:T361	
-R45	Attack Arg1:T362 Arg2:T361	
-R46	Support Arg1:T363 Arg2:T362	
-R47	Support Arg1:T364 Arg2:T363	
-R48	Support Arg1:T364 Arg2:T362	
-R49	Support Arg1:T365 Arg2:T364	
-R50	Support Arg1:T366 Arg2:T364	
+R44	Support Arg1:T10 Arg2:T361
+R45	Attack Arg1:T362 Arg2:T361
+R46	Support Arg1:T363 Arg2:T362
+R47	Support Arg1:T364 Arg2:T363
+R48	Support Arg1:T364 Arg2:T362
+R49	Support Arg1:T365 Arg2:T364
+R50	Support Arg1:T366 Arg2:T364
 T11	Claim 7118 7157	We believe that there is a new approach
 T12	Premise 7434 7525	We found that the inspectors were being rewarded on the basis of how many fines they issued
 T13	Premise 7284 7433	We think that the protection of job safety in the workplace is very, very important, but what we've said is look, start, start measuring the results.
 T14	Premise 7242 7282	Some people would like to eliminate OSHA
 T15	Premise 7197 7240	We're reinventing the way OSHA does its job
-R51	Support Arg1:T15 Arg2:T11	
-R52	Attack Arg1:T13 Arg2:T14	
-R53	Support Arg1:T13 Arg2:T11	
-R54	Support Arg1:T12 Arg2:T368	
+R51	Support Arg1:T15 Arg2:T11
+R52	Attack Arg1:T13 Arg2:T14
+R53	Support Arg1:T13 Arg2:T11
+R54	Support Arg1:T12 Arg2:T368
 T16	Premise 7555 7675	They used to go in and give somebody a fine if they didn't have a poster on the wall informing employees of their rights
 T17	Premise 7677 7834	To use this as an example of our new approach, now if they go in and see that poster is not there, they go out to the trunk of the car and give them a poster
 T18	Premise 7836 7907	It's the same approach that we're taking in all the regulatory agencies
-R57	Support Arg1:T16 Arg2:T11	
-R55	Support Arg1:T17 Arg2:T11	
-R56	Support Arg1:T18 Arg2:T11	
+R57	Support Arg1:T16 Arg2:T11
+R55	Support Arg1:T17 Arg2:T11
+R56	Support Arg1:T18 Arg2:T11
 T19	Claim 7941 7995	We want the protection with common sense, not nonsense
-R58	Support Arg1:T11 Arg2:T19	
-R59	Support Arg1:T11 Arg2:T364	
+R58	Support Arg1:T11 Arg2:T19
+R59	Support Arg1:T11 Arg2:T364
 T20	Premise 8130 8308	10% of all the emissions -- 10% of the all the hydrocarbon emissions oxides going into the air caused by 10% -- 100% of the all the emissions are caused by 10% of the automobiles
 T21	Premise 8310 8458	Now there is technology that would allow infrared technology to be used to identify those cars that are providing or the pollution in our atmosphere
 T22	Premise 8460 8617	It is not being able to be used because we are going to take every automobile driver in America, all 110 million automobiles, and charge them 17 or 20 or $25
-R60	Support Arg1:T20 Arg2:T371	
-R61	Support Arg1:T21 Arg2:T371	
-R62	Support Arg1:T22 Arg2:T371	
-R63	Support Arg1:T373 Arg2:T22	
-R64	Support Arg1:T374 Arg2:T371	
-R65	Support Arg1:T375 Arg2:T371	
-R66	Support Arg1:T371 Arg2:T376	
-R67	Attack Arg1:T377 Arg2:T376	
-R68	Support Arg1:T378 Arg2:T377	
-R69	Support Arg1:T379 Arg2:T377	
-R70	Support Arg1:T380 Arg2:T377	
-R71	Support Arg1:T381 Arg2:T377	
-R72	Support Arg1:T382 Arg2:T377	
-R73	Support Arg1:T383 Arg2:T377	
+R60	Support Arg1:T20 Arg2:T371
+R61	Support Arg1:T21 Arg2:T371
+R62	Support Arg1:T22 Arg2:T371
+R63	Support Arg1:T373 Arg2:T22
+R64	Support Arg1:T374 Arg2:T371
+R65	Support Arg1:T375 Arg2:T371
+R66	Support Arg1:T371 Arg2:T376
+R67	Attack Arg1:T377 Arg2:T376
+R68	Support Arg1:T378 Arg2:T377
+R69	Support Arg1:T379 Arg2:T377
+R70	Support Arg1:T380 Arg2:T377
+R71	Support Arg1:T381 Arg2:T377
+R72	Support Arg1:T382 Arg2:T377
+R73	Support Arg1:T383 Arg2:T377
 T23	Claim 9602 9655	Let's don't risk it on some $550-billion risky scheme
-R74	Attack Arg1:T23 Arg2:T377	
-R75	Support Arg1:T384 Arg2:T377	
+R74	Attack Arg1:T23 Arg2:T377
+R75	Support Arg1:T384 Arg2:T377
