@@ -35,33 +35,48 @@ def brat_to_conll(txt_path: str, ann_path: str, out_path: str):
 
     doc = nlp(text)
 
+    prev_tok = None
+    prev_bio = None
+
     with open(out_path, "w", encoding="utf-8") as out:
         for token in doc:
             tok_text = token.text
             start = token.idx
             end = start + len(tok_text)
 
-            if tok_text == "\n":
-                out.write("\n")
-                continue
-
             # BIO by majority voting on character labels
             span_labels = char2label[start:end]
             if all(l == "O" for l in span_labels):
                 bio = "O"
             else:
-                # If there is a B- tag inside token → use that
                 b_tags = [l for l in span_labels if l.startswith("B-")]
                 if b_tags:
                     bio = b_tags[0]
                 else:
-                    # otherwise use most common I-tag
                     i_tags = [l for l in span_labels if l.startswith("I-")]
                     bio = i_tags[0] if i_tags else "O"
 
-            out.write(f"{tok_text}\t_\t_\t{bio}\n")
+            # if current token is I-X but previous was O → previous becomes B-X
+            if bio.startswith("I-"):
+                label = bio[2:]
+                if prev_bio is not None and prev_bio == "O":
+                    prev_bio = "B-" + label
 
-        # Sentence separator
+            if prev_tok is not None:
+                if prev_tok != "\n":
+                    out.write(f"{prev_tok}\t_\t_\t{prev_bio}\n")
+                else:
+                    out.write("\n")
+
+            prev_tok = tok_text
+            prev_bio = bio
+
+        if prev_tok is not None:
+            if prev_tok != "\n":
+                out.write(f"{prev_tok}\t_\t_\t{prev_bio}\n")
+            else:
+                out.write("\n")
+
         out.write("\n")
 
     print(f"CoNLL written to {out_path}")
