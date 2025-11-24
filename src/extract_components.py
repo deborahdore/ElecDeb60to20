@@ -41,7 +41,7 @@ def brat_to_conll(txt_path: str, ann_path: str, out_path: str, punctuation: bool
             end = start + len(tok_text)
 
             if tok_text == "\n":
-                out.write(tok_text)
+                out.write("\n")
                 prev_bio = "O"
                 continue
 
@@ -60,8 +60,8 @@ def brat_to_conll(txt_path: str, ann_path: str, out_path: str, punctuation: bool
                 else:
                     bio = f"I-{ent_type}"
 
-            if punctuation and (token.text in {".", ",", ";", "!", "?"}) and prev_bio != "O":
-                bio = prev_bio
+            if punctuation and (token.text in {".", ";", "!", "?"}) and prev_bio != "O" and bio == "O":
+                bio = f"I-{prev_bio.split('-')[-1]}"
 
             out.write(f"{tok_text}\t_\t_\t{bio}\n")
             prev_bio = bio
