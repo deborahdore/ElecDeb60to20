@@ -1,5 +1,4 @@
-HINERFELD	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -90,8 +89,7 @@ K.	_	_	O
 Smith	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -419,8 +417,7 @@ Marvin	_	_	O
 Stone	_	_	O
 .	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -533,8 +530,7 @@ military	_	_	O
 power	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -840,8 +836,7 @@ of	_	_	I-Claim
 Europe	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Stone	_	_	O
 ,	_	_	O
@@ -858,8 +853,7 @@ the	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	O
@@ -958,8 +952,7 @@ the	_	_	O
 red	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Stone	_	_	O
 ,	_	_	O
@@ -1163,8 +1156,7 @@ in	_	_	I-Claim
 spending	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 same	_	_	O
 question	_	_	O
@@ -1187,8 +1179,7 @@ question	_	_	O
 repeated	_	_	O
 ?	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 President	_	_	O
@@ -1308,8 +1299,7 @@ military	_	_	O
 power	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Stone	_	_	O
 ,	_	_	O
@@ -1697,8 +1687,7 @@ at	_	_	I-Premise
 peace	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Stone	_	_	O
 ,	_	_	O
@@ -1712,8 +1701,7 @@ up	_	_	O
 for	_	_	O
 ?	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	O
@@ -1820,8 +1808,7 @@ the	_	_	O
 world	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Stone	_	_	O
 ,	_	_	O
@@ -2007,8 +1994,7 @@ the	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -2022,8 +2008,7 @@ or	_	_	O
 rebut	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 yes	_	_	O
 ,	_	_	O
@@ -2246,8 +2231,7 @@ of	_	_	I-Claim
 force	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -2261,8 +2245,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 there	_	_	B-Claim
@@ -2446,8 +2429,7 @@ in	_	_	I-Claim
 hand	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 gentlemen	_	_	O
@@ -2464,8 +2446,7 @@ President	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-ELLIS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2577,8 +2558,7 @@ second	_	_	O
 term	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Again	_	_	O
 it	_	_	O
 's	_	_	O
@@ -2956,8 +2936,7 @@ years	_	_	I-Claim
 ahead	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Ellis	_	_	O
 ,	_	_	O
@@ -2974,8 +2953,7 @@ Mr.	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-ELLIS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Mr.	_	_	O
@@ -3072,8 +3050,7 @@ to	_	_	O
 come	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 We	_	_	O
@@ -3318,8 +3295,7 @@ the	_	_	O
 Senate	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -3343,8 +3319,7 @@ question	_	_	O
 repeated	_	_	O
 ?	_	_	O
 
-ELLIS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -3459,8 +3434,7 @@ pursue	_	_	O
 `	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Ellis	_	_	O
 ,	_	_	O
@@ -3934,8 +3908,7 @@ that	_	_	I-Premise
 path	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 A	_	_	O
 follow	_	_	O
 -	_	_	O
@@ -3945,8 +3918,7 @@ Mr.	_	_	O
 Ellis	_	_	O
 ?	_	_	O
 
-ELLIS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 You	_	_	O
@@ -4009,8 +3981,7 @@ would	_	_	O
 shrink	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 .	_	_	O
 most	_	_	O
@@ -4215,14 +4186,12 @@ Government	_	_	I-Premise
 spending	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Claim
 Reagan	_	_	I-Claim
 's	_	_	I-Claim
@@ -4436,8 +4405,7 @@ number	_	_	I-Premise
 of	_	_	I-Premise
 employees	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 to	_	_	O
 interrupt	_	_	O
@@ -4446,8 +4414,7 @@ Mr.	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 in	_	_	O
 California	_	_	O
 .	_	_	O
@@ -4457,8 +4424,7 @@ you	_	_	O
 sir	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 has	_	_	O
@@ -4470,8 +4436,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 The	_	_	B-Claim
@@ -4610,8 +4575,7 @@ he	_	_	O
 wants	_	_	O
 ?	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 I	_	_	O
 wish	_	_	O
 that	_	_	O
@@ -4648,8 +4612,7 @@ William	_	_	O
 Hilliard	_	_	O
 .	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	O
@@ -4742,8 +4705,7 @@ this	_	_	O
 trend	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 have	_	_	I-Premise
 been	_	_	I-Premise
@@ -5158,8 +5120,7 @@ done	_	_	O
 .	_	_	O
 "	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Follow	_	_	O
 -	_	_	O
 up	_	_	O
@@ -5167,8 +5128,7 @@ up	_	_	O
 Mr.	_	_	O
 Hilliard	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	O
@@ -5259,8 +5219,7 @@ racial	_	_	O
 society	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 in	_	_	I-Claim
@@ -5440,8 +5399,7 @@ that	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Hilliard	_	_	O
 ,	_	_	O
@@ -5455,8 +5413,7 @@ President	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 .	_	_	O
@@ -5545,8 +5502,7 @@ this	_	_	O
 trend	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -5906,16 +5862,14 @@ to	_	_	I-Claim
 go	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Follow	_	_	O
 -	_	_	O
 up	_	_	O
 question	_	_	O
 ?	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 President	_	_	O
@@ -6018,8 +5972,7 @@ racial	_	_	O
 society	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Ours	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -6219,8 +6172,7 @@ the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -6232,8 +6184,7 @@ for	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 The	_	_	O
@@ -6444,8 +6395,7 @@ is	_	_	I-Premise
 %	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -6459,8 +6409,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 It	_	_	B-Premise
 's	_	_	I-Premise
 obvious	_	_	I-Premise
@@ -6675,8 +6624,7 @@ rich	_	_	I-Claim
 dividends	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -6686,8 +6634,7 @@ Barbara	_	_	O
 Walters	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -6815,8 +6762,7 @@ happens	_	_	O
 again	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Barbara	_	_	O
 ,	_	_	O
 one	_	_	B-Claim
@@ -7091,8 +7037,7 @@ all	_	_	I-Claim
 kinds	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Ms.	_	_	O
 Walters	_	_	O
 ,	_	_	O
@@ -7101,8 +7046,7 @@ follow	_	_	O
 up	_	_	O
 ?	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 While	_	_	O
 we	_	_	O
 are	_	_	O
@@ -7192,8 +7136,7 @@ Middle	_	_	O
 East	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 will	_	_	I-Claim
 maintain	_	_	I-Claim
@@ -7314,8 +7257,7 @@ carry	_	_	I-Claim
 out	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 repeat	_	_	O
@@ -7332,8 +7274,7 @@ Ms.	_	_	O
 Walters	_	_	O
 ?	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	O
@@ -7454,8 +7395,7 @@ happen	_	_	O
 again	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Barbara	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -7887,15 +7827,13 @@ carne	_	_	O
 home	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Follow	_	_	O
 up	_	_	O
 question	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -8036,8 +7974,7 @@ United	_	_	O
 States	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	O
 degree	_	_	O
 of	_	_	O
@@ -8251,8 +8188,7 @@ took	_	_	I-Premise
 place	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8274,8 +8210,7 @@ for	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -8461,8 +8396,7 @@ these	_	_	I-Claim
 commitments	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -8476,8 +8410,7 @@ that	_	_	O
 question	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	B-Claim
@@ -8588,8 +8521,7 @@ of	_	_	I-Claim
 mine	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 gentlemen	_	_	O
@@ -8704,8 +8636,7 @@ Marvin	_	_	O
 Stone	_	_	O
 .	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 -	_	_	O
@@ -8841,8 +8772,7 @@ you	_	_	O
 are	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	B-Claim
@@ -9202,8 +9132,7 @@ are	_	_	I-Premise
 not	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9232,8 +9161,7 @@ President	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-STONE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 President	_	_	O
@@ -9360,8 +9288,7 @@ you	_	_	O
 are	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9681,8 +9608,7 @@ disturbing	_	_	I-Claim
 thing	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -9694,8 +9620,7 @@ to	_	_	O
 rebut	_	_	O
 that	_	_	O
 .	_	_	O
-REAGAV	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9953,14 +9878,12 @@ arms	_	_	I-Claim
 limitation	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	B-Claim
@@ -10245,14 +10168,12 @@ quiet	_	_	I-Claim
 voice	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 the	_	_	O
@@ -10455,8 +10376,7 @@ SALT	_	_	I-Claim
 agreement	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -10470,8 +10390,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 ,	_	_	O
@@ -10652,8 +10571,7 @@ dangerous	_	_	O
 approach	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 to	_	_	O
@@ -10671,8 +10589,7 @@ President	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-HARRYELLIS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10796,8 +10713,7 @@ American	_	_	O
 families	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -11143,8 +11059,7 @@ into	_	_	I-Premise
 effect	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 repeat	_	_	O
@@ -11156,8 +11071,7 @@ Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-ELLIS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -11262,8 +11176,7 @@ fuel	_	_	O
 bills	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 not	_	_	O
@@ -11680,8 +11593,7 @@ we	_	_	I-Premise
 have	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -11689,8 +11601,7 @@ your	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 To	_	_	O
 repeat	_	_	O
 myself	_	_	O
@@ -11938,14 +11849,12 @@ oil	_	_	I-Claim
 companies	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -12229,8 +12138,7 @@ once	_	_	O
 were	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -12240,8 +12148,7 @@ at	_	_	O
 that	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 As	_	_	O
@@ -12423,8 +12330,7 @@ we	_	_	I-Claim
 can	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -12438,8 +12344,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 If	_	_	B-Claim
@@ -12664,8 +12569,7 @@ been	_	_	I-Premise
 drilled	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 Governor	_	_	O
@@ -12688,8 +12592,7 @@ William	_	_	O
 Hilliard	_	_	O
 .	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -12766,8 +12669,7 @@ Security	_	_	O
 system	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 Social	_	_	I-Premise
 Security	_	_	I-Premise
@@ -13058,8 +12960,7 @@ next	_	_	I-Premise
 administration	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 repeat	_	_	O
@@ -13070,8 +12971,7 @@ President	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-HILLIARD	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 President	_	_	O
@@ -13147,8 +13047,7 @@ Security	_	_	O
 System	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 As	_	_	B-Claim
 long	_	_	I-Claim
 as	_	_	I-Claim
@@ -13370,14 +13269,12 @@ will	_	_	I-Claim
 stay	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -13693,8 +13590,7 @@ change	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 's	_	_	O
@@ -13702,8 +13598,7 @@ rebuttal	_	_	O
 now	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 These	_	_	O
 constant	_	_	O
 suggestions	_	_	O
@@ -13984,13 +13879,11 @@ a	_	_	O
 proposal	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 When	_	_	B-Premise
 I	_	_	I-Premise
 opposed	_	_	I-Premise
@@ -14165,8 +14058,7 @@ their	_	_	I-Premise
 care	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -14180,8 +14072,7 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 this	_	_	I-Claim
@@ -14365,8 +14256,7 @@ we	_	_	I-Claim
 represent	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 Mr.	_	_	O
@@ -14392,8 +14282,7 @@ Barbara	_	_	O
 Waiters	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -14516,8 +14405,7 @@ greatest	_	_	O
 weakness	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Barbara	_	_	O
 ,	_	_	O
 reluctant	_	_	O
@@ -14865,8 +14753,7 @@ the	_	_	I-Premise
 past	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Barbara	_	_	O
 ,	_	_	O
 would	_	_	O
@@ -14879,8 +14766,7 @@ Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -14944,8 +14830,7 @@ greatest	_	_	O
 weakness	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Barbara	_	_	O
@@ -15298,14 +15183,12 @@ the	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 mentioned	_	_	O
 the	_	_	O
@@ -15525,14 +15408,12 @@ own	_	_	I-Premise
 party	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Mr.	_	_	O
@@ -15785,14 +15666,12 @@ against	_	_	I-Claim
 women	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 President	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Howard	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -16029,8 +15908,7 @@ the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -16041,8 +15919,7 @@ last	_	_	O
 word	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 my	_	_	O
@@ -16236,8 +16113,7 @@ that	_	_	O
 union	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 each	_	_	O
@@ -16260,8 +16136,7 @@ you	_	_	O
 first	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -16870,14 +16745,12 @@ this	_	_	O
 partnership	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O

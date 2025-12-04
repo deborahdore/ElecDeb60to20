@@ -1,5 +1,4 @@
-SIMPSON	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 and	_	_	O
@@ -83,7 +82,6 @@ Richmond	_	_	O
 ,	_	_	O
 Virginia	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 tonight	_	_	O
@@ -195,7 +193,6 @@ may	_	_	O
 have	_	_	O
 said	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -232,7 +229,6 @@ can	_	_	O
 ask	_	_	O
 anything	_	_	O
 .	_	_	O
- 	_	_	O
 After	_	_	O
 the	_	_	O
 debate	_	_	O
@@ -249,7 +245,6 @@ a	_	_	O
 closing	_	_	O
 statement	_	_	O
 .	_	_	O
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 President	_	_	O
@@ -268,17 +263,13 @@ get	_	_	O
 it	_	_	O
 on	_	_	O
 .	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 go	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 think	_	_	O
@@ -344,8 +335,7 @@ the	_	_	O
 US	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
@@ -536,7 +526,6 @@ sending	_	_	I-Claim
 jobs	_	_	I-Claim
 overseas	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 To	_	_	O
 those	_	_	O
 of	_	_	O
@@ -674,7 +663,6 @@ sound	_	_	I-Claim
 going	_	_	I-Claim
 south	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 If	_	_	B-Premise
 the	_	_	I-Premise
 people	_	_	I-Premise
@@ -706,7 +694,6 @@ a	_	_	I-Premise
 way	_	_	I-Premise
 street	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 One	_	_	O
 last	_	_	O
 point	_	_	O
@@ -843,10 +830,7 @@ cut	_	_	I-Premise
 it	_	_	I-Premise
 out	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -873,8 +857,7 @@ about	_	_	O
 this	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Carole	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -1137,7 +1120,6 @@ answer	_	_	I-Claim
 not	_	_	I-Claim
 protection	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -1165,16 +1147,12 @@ that	_	_	I-Claim
 have	_	_	I-Claim
 built	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -1289,7 +1267,6 @@ announced	_	_	I-Premise
 with	_	_	I-Premise
 Japan	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 what	_	_	O
 is	_	_	O
@@ -1349,7 +1326,6 @@ day	_	_	I-Claim
 to	_	_	I-Claim
 implement	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -1404,7 +1380,6 @@ moving	_	_	I-Premise
 plants	_	_	I-Premise
 overseas	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	O
 three	_	_	O
 ,	_	_	O
@@ -1452,7 +1427,6 @@ that	_	_	I-Claim
 stay	_	_	I-Claim
 here	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	B-Claim
 more	_	_	I-Claim
 trade	_	_	I-Claim
@@ -1467,10 +1441,7 @@ investment	_	_	I-Claim
 in	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -1592,8 +1563,7 @@ answer	_	_	O
 please	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 and	_	_	O
@@ -1797,7 +1767,6 @@ growing	_	_	O
 this	_	_	O
 economy	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	B-Premise
 ask	_	_	I-Premise
 everybody	_	_	I-Premise
@@ -1880,7 +1849,6 @@ on	_	_	I-Claim
 the	_	_	I-Claim
 deficit	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Let	_	_	O
 me	_	_	O
 also	_	_	O
@@ -1928,16 +1896,12 @@ to	_	_	O
 do	_	_	O
 that	_	_	O
 .	_	_	O
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2051,7 +2015,6 @@ to	_	_	I-Claim
 do	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Here	_	_	O
 's	_	_	O
 some	_	_	O
@@ -2123,7 +2086,6 @@ the	_	_	I-Claim
 executive	_	_	I-Claim
 branch	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 'd	_	_	I-Premise
 like	_	_	I-Premise
@@ -2178,7 +2140,6 @@ of	_	_	I-Premise
 that	_	_	I-Premise
 nature	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 've	_	_	I-Premise
 proposed	_	_	I-Premise
@@ -2286,7 +2247,6 @@ by	_	_	I-Premise
 that	_	_	I-Premise
 amount	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 if	_	_	B-Premise
 the	_	_	I-Premise
@@ -2356,7 +2316,6 @@ we	_	_	I-Claim
 have	_	_	I-Claim
 n't	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
@@ -2453,10 +2412,7 @@ growth	_	_	I-Claim
 at	_	_	I-Claim
 all	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 How	_	_	O
 about	_	_	O
 you	_	_	O
@@ -2465,8 +2421,7 @@ Mr.	_	_	O
 Perot	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -2585,7 +2540,6 @@ and	_	_	I-Premise
 a	_	_	I-Premise
 half	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 it	_	_	B-Claim
@@ -2639,7 +2593,6 @@ they	_	_	O
 did	_	_	O
 it	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -2775,7 +2728,6 @@ through	_	_	I-Claim
 the	_	_	I-Claim
 floor	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 whose	_	_	B-Premise
@@ -2824,7 +2776,6 @@ responsibility	_	_	O
 for	_	_	O
 this	_	_	O
 .	_	_	O
- 	_	_	O
 Put	_	_	O
 it	_	_	O
 to	_	_	O
@@ -2897,7 +2848,6 @@ they	_	_	I-Claim
 have	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	B-Premise
 I	_	_	I-Premise
 was	_	_	I-Premise
@@ -2940,10 +2890,7 @@ dropped	_	_	I-Premise
 on	_	_	I-Premise
 us	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 all	_	_	O
@@ -3068,8 +3015,7 @@ all	_	_	O
 proposals	_	_	O
 ?	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Who	_	_	O
 wants	_	_	O
 to	_	_	O
@@ -3098,8 +3044,7 @@ ahead	_	_	O
 sir	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -3187,8 +3132,7 @@ point	_	_	O
 is	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Like	_	_	O
 Jerry	_	_	O
 Brown	_	_	O
@@ -3198,8 +3142,7 @@ the	_	_	O
 number	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 --	_	_	O
 I	_	_	O
 could	_	_	O
@@ -3283,8 +3226,7 @@ the	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -3328,8 +3270,7 @@ to	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -3474,7 +3415,6 @@ been	_	_	I-Premise
 talking	_	_	I-Premise
 issues	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -3534,7 +3474,6 @@ side	_	_	I-Premise
 of	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 character	_	_	B-Claim
 is	_	_	I-Claim
@@ -3708,7 +3647,6 @@ something	_	_	O
 about	_	_	O
 character	_	_	O
 .	_	_	O
- 	_	_	O
 My	_	_	O
 argument	_	_	O
 with	_	_	O
@@ -3814,7 +3752,6 @@ do	_	_	O
 n't	_	_	O
 know	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 the	_	_	O
 big	_	_	O
@@ -3892,10 +3829,7 @@ you	_	_	O
 got	_	_	O
 to	_	_	O
 --	_	_	O
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -3911,8 +3845,7 @@ due	_	_	O
 respect	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 .	_	_	O
@@ -3923,15 +3856,13 @@ want	_	_	O
 to	_	_	O
 --	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -3939,14 +3870,12 @@ want	_	_	O
 to	_	_	O
 --	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 get	_	_	O
 wound	_	_	O
@@ -3957,8 +3886,7 @@ feel	_	_	O
 strongly	_	_	O
 --	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -3967,10 +3895,7 @@ do	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -4211,10 +4136,7 @@ get	_	_	O
 into	_	_	O
 that	_	_	O
 --	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Please	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -4225,8 +4147,7 @@ Washington	_	_	O
 Post	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 a	_	_	O
 minute	_	_	O
@@ -4321,8 +4242,7 @@ to	_	_	I-Premise
 you	_	_	I-Premise
 .	_	_	I-Premise
 
-SIMPSON	_	_	O
-:	_	_	O
+
 May	_	_	O
 I	_	_	O
 --	_	_	O
@@ -4386,8 +4306,7 @@ No	_	_	O
 "	_	_	O
 )	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Who	_	_	O
 wants	_	_	O
 to	_	_	O
@@ -4524,10 +4443,7 @@ your	_	_	O
 political	_	_	O
 parties	_	_	O
 ?	_	_	O
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 So	_	_	O
 your	_	_	O
 question	_	_	O
@@ -4589,8 +4505,7 @@ the	_	_	O
 needs	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -4604,30 +4519,26 @@ respond	_	_	O
 to	_	_	O
 --	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 agree	_	_	O
 with	_	_	O
 him	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 do	_	_	O
 it	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 President	_	_	O
 Bush	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 do	_	_	O
@@ -4718,8 +4629,7 @@ all	_	_	O
 have	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -4832,18 +4742,14 @@ else	_	_	I-Claim
 it	_	_	I-Claim
 is	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 ,	_	_	O
 too	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Ross	_	_	O
 had	_	_	O
 his	_	_	O
@@ -4851,13 +4757,11 @@ hand	_	_	O
 up	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Just	_	_	O
 no	_	_	O
 hedges	_	_	O
@@ -4937,7 +4841,6 @@ see	_	_	I-Premise
 on	_	_	I-Premise
 television	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 you	_	_	B-Claim
 do	_	_	I-Claim
@@ -4976,10 +4879,7 @@ choices	_	_	O
 ,	_	_	O
 right	_	_	O
 ?	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 a	_	_	O
 minute	_	_	O
@@ -5119,15 +5019,13 @@ like	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
 
-PEROT	_	_	O
-:	_	_	O
+
 May	_	_	O
 I	_	_	O
 finish	_	_	O
 ?	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -5135,22 +5033,19 @@ may	_	_	O
 finish	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Very	_	_	O
 briefly	_	_	O
 ?	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 very	_	_	O
 briefly	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -5282,10 +5177,7 @@ cut	_	_	I-Claim
 it	_	_	I-Claim
 out	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -5350,8 +5242,7 @@ Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 The	_	_	O
 cities	_	_	O
 .	_	_	O
@@ -5366,8 +5257,7 @@ and	_	_	O
 how	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 be	_	_	O
@@ -5380,13 +5270,11 @@ at	_	_	O
 it	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Please	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 not	_	_	O
@@ -5564,7 +5452,6 @@ Everyone	_	_	B-Premise
 knows	_	_	I-Premise
 that	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 here	_	_	B-Claim
 's	_	_	I-Claim
@@ -5622,7 +5509,6 @@ these	_	_	I-Claim
 deadly	_	_	I-Claim
 tenements	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Our	_	_	B-Claim
 enterprise	_	_	I-Claim
 zones	_	_	I-Claim
@@ -5675,7 +5561,6 @@ by	_	_	I-Claim
 the	_	_	I-Claim
 Congress	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	O
 we	_	_	B-Premise
 went	_	_	I-Premise
@@ -5837,10 +5722,7 @@ pass	_	_	I-Claim
 these	_	_	I-Claim
 programs	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -5864,8 +5746,7 @@ enterprise	_	_	I-Premise
 zones	_	_	I-Premise
 ?	_	_	I-Premise
 
-BUSH	_	_	O
-:	_	_	O
+
 Sure	_	_	B-Claim
 ,	_	_	O
 but	_	_	O
@@ -5940,8 +5821,7 @@ enterprise	_	_	I-Premise
 zones	_	_	I-Premise
 .	_	_	I-Premise
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -5953,8 +5833,7 @@ the	_	_	O
 bit	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 That	_	_	B-Premise
 bill	_	_	I-Premise
 pays	_	_	I-Premise
@@ -6194,7 +6073,6 @@ of	_	_	I-Premise
 that	_	_	I-Premise
 kind	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 can	_	_	I-Claim
 create	_	_	I-Claim
@@ -6313,10 +6191,7 @@ need	_	_	I-Claim
 in	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -6340,8 +6215,7 @@ deficit	_	_	O
 first	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 First	_	_	O
 you	_	_	B-Claim
 've	_	_	I-Claim
@@ -6514,7 +6388,6 @@ to	_	_	I-Claim
 work	_	_	I-Claim
 together	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -6596,7 +6469,6 @@ after	_	_	I-Claim
 the	_	_	I-Claim
 election	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 facts	_	_	I-Premise
 are	_	_	I-Premise
@@ -6665,7 +6537,6 @@ the	_	_	I-Claim
 inner	_	_	I-Claim
 cities	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -6744,10 +6615,7 @@ does	_	_	I-Claim
 the	_	_	I-Claim
 work	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -6806,8 +6674,7 @@ these	_	_	O
 guys	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 you	_	_	I-Premise
 ask	_	_	I-Premise
@@ -6877,8 +6744,7 @@ city	_	_	O
 not	_	_	O
 --	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Are	_	_	O
 you	_	_	O
 answering	_	_	O
@@ -6886,8 +6752,7 @@ my	_	_	O
 question	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 You	_	_	O
 want	_	_	O
 jobs	_	_	O
@@ -6911,8 +6776,7 @@ your	_	_	O
 question	_	_	O
 ?	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6946,8 +6810,7 @@ two	_	_	O
 gentlemen	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -7114,10 +6977,7 @@ work	_	_	I-Claim
 on	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -7242,14 +7102,12 @@ about	_	_	I-Premise
 it	_	_	I-Premise
 ?	_	_	I-Premise
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 support	_	_	I-Claim
 the	_	_	I-Claim
@@ -7413,7 +7271,6 @@ are	_	_	I-Premise
 building	_	_	I-Premise
 up	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 third	_	_	O
 thing	_	_	O
@@ -7510,7 +7367,6 @@ the	_	_	I-Claim
 waiting	_	_	I-Claim
 period	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 also	_	_	I-Claim
 believe	_	_	I-Claim
@@ -7585,7 +7441,6 @@ every	_	_	I-Claim
 police	_	_	I-Claim
 officer	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 In	_	_	B-Premise
 the	_	_	I-Premise
 communities	_	_	I-Premise
@@ -7670,10 +7525,7 @@ seen	_	_	I-Premise
 it	_	_	I-Premise
 happen	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -7681,8 +7533,7 @@ President	_	_	O
 Bush	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 you	_	_	I-Claim
@@ -7810,7 +7661,6 @@ n't	_	_	I-Premise
 go	_	_	I-Premise
 away	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 'll	_	_	I-Premise
 probably	_	_	I-Premise
@@ -7841,7 +7691,6 @@ kill	_	_	I-Claim
 police	_	_	I-Claim
 officers	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Virginia	_	_	B-Claim
 's	_	_	I-Claim
 in	_	_	I-Claim
@@ -7940,7 +7789,6 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 criminal	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 'm	_	_	I-Claim
 very	_	_	I-Claim
@@ -7989,7 +7837,6 @@ any	_	_	I-Claim
 previous	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 we	_	_	B-Claim
 've	_	_	I-Claim
@@ -8059,7 +7906,6 @@ drug	_	_	I-Premise
 -	_	_	I-Premise
 users	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 good	_	_	O
 news	_	_	O
@@ -8116,10 +7962,7 @@ neighborhood	_	_	I-Premise
 crime	_	_	I-Premise
 problem	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -8136,8 +7979,7 @@ unprecedented	_	_	O
 rates	_	_	O
 --	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -8150,8 +7992,7 @@ on	_	_	O
 this	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8161,8 +8002,7 @@ to	_	_	O
 that	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8176,8 +8016,7 @@ Excuse	_	_	O
 me	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 fact	_	_	I-Premise
 that	_	_	I-Premise
@@ -8213,8 +8052,7 @@ the	_	_	O
 street	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 On	_	_	O
 any	_	_	O
 program	_	_	O
@@ -8536,10 +8374,7 @@ years	_	_	I-Claim
 doing	_	_	I-Claim
 nothing	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -8556,8 +8391,6 @@ question	_	_	O
 up	_	_	O
 here	_	_	O
 .	_	_	O
- 
-	_	_	O
 AUDIENCE_QUESTION	_	_	O
 :	_	_	O
 Please	_	_	O
@@ -8586,8 +8419,7 @@ them	_	_	O
 enacted	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Any	_	_	O
 order	_	_	O
 ?	_	_	O
@@ -8599,14 +8431,12 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 strongly	_	_	I-Claim
 support	_	_	I-Claim
@@ -8759,7 +8589,6 @@ favor	_	_	I-Claim
 term	_	_	I-Claim
 limits	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 how	_	_	B-Premise
 to	_	_	I-Premise
@@ -8829,10 +8658,7 @@ the	_	_	I-Premise
 Constitution	_	_	I-Premise
 reads	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -8840,8 +8666,7 @@ Governor	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 know	_	_	I-Premise
 they	_	_	I-Premise
@@ -8982,7 +8807,6 @@ members	_	_	I-Premise
 of	_	_	I-Premise
 Congress	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -9083,7 +8907,6 @@ an	_	_	O
 unfair	_	_	O
 fight	_	_	O
 .	_	_	O
- 	_	_	O
 So	_	_	O
 that	_	_	O
 's	_	_	O
@@ -9114,10 +8937,7 @@ changes	_	_	I-Claim
 you	_	_	I-Claim
 want	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -9130,8 +8950,7 @@ term	_	_	O
 limitations	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Let	_	_	O
@@ -9283,7 +9102,6 @@ it	_	_	O
 tomorrow	_	_	O
 night	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 have	_	_	I-Claim
@@ -9381,7 +9199,6 @@ president	_	_	I-Premise
 's	_	_	I-Premise
 campaign	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 They	_	_	B-Claim
 're	_	_	I-Claim
 all	_	_	I-Claim
@@ -9414,10 +9231,7 @@ the	_	_	I-Claim
 system	_	_	I-Claim
 rotten	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -9478,8 +9292,7 @@ this	_	_	O
 problem	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 've	_	_	O
 had	_	_	O
@@ -9691,7 +9504,6 @@ comprehensive	_	_	I-Claim
 for	_	_	I-Claim
 everybody	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Employers	_	_	B-Premise
 would	_	_	I-Premise
 cover	_	_	I-Premise
@@ -9704,7 +9516,6 @@ cover	_	_	I-Premise
 the	_	_	I-Premise
 unemployed	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	O
 2	_	_	O
 ,	_	_	O
@@ -9818,7 +9629,6 @@ do	_	_	I-Premise
 anything	_	_	I-Premise
 wrong	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 you	_	_	I-Claim
@@ -9849,7 +9659,6 @@ to	_	_	I-Claim
 health	_	_	I-Claim
 care	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 key	_	_	I-Premise
 is	_	_	I-Premise
@@ -9953,7 +9762,6 @@ plus	_	_	I-Claim
 population	_	_	I-Claim
 growth	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -10023,7 +9831,6 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 This	_	_	O
 is	_	_	O
 very	_	_	O
@@ -10068,10 +9875,7 @@ It	_	_	B-Premise
 terribly	_	_	I-Premise
 important	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -10089,8 +9893,7 @@ care	_	_	O
 reform	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 just	_	_	O
 have	_	_	O
@@ -10280,7 +10083,6 @@ the	_	_	I-Claim
 health	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 my	_	_	B-Premise
 program	_	_	I-Premise
@@ -10390,7 +10192,6 @@ of	_	_	I-Claim
 insurance	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
@@ -10469,7 +10270,6 @@ the	_	_	O
 other	_	_	O
 point	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 medical	_	_	I-Claim
@@ -10579,16 +10379,12 @@ done	_	_	O
 ,	_	_	O
 too	_	_	O
 .	_	_	O
- 
-	_	_	O
-SIMPSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 have	_	_	I-Claim
 the	_	_	I-Claim
@@ -10702,7 +10498,6 @@ in	_	_	O
 the	_	_	O
 mirror	_	_	O
 .	_	_	O
- 	_	_	O
 You	_	_	B-Premise
 own	_	_	I-Premise
 this	_	_	I-Premise
@@ -10790,7 +10585,6 @@ a	_	_	I-Premise
 major	_	_	I-Premise
 nuisance	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 facts	_	_	O
 are	_	_	O
@@ -10816,7 +10610,6 @@ comes	_	_	I-Premise
 from	_	_	I-Premise
 you	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 there	_	_	B-Claim
@@ -10919,7 +10712,6 @@ industry	_	_	I-Claim
 Not	_	_	B-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 you	_	_	B-Claim
@@ -11100,8 +10892,6 @@ na	_	_	I-Claim
 be	_	_	I-Claim
 unhappy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
 SIMPSON_(continuing	_	_	O
 ):	_	_	O
 You	_	_	O
@@ -11113,8 +10903,7 @@ in	_	_	O
 there	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 One	_	_	O
 brief	_	_	O
 point	_	_	O

@@ -1,5 +1,4 @@
-BRUNO	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -68,17 +67,14 @@ Quayle	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Democratic	_	_	O
 Senator	_	_	O
 Al	_	_	O
 Gore	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 retired	_	_	O
 Vice	_	_	O
@@ -93,11 +89,9 @@ vice	_	_	O
 presidential	_	_	O
 nominee	_	_	O
 --	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 --	_	_	O
 for	_	_	O
 independent	_	_	O
@@ -105,11 +99,9 @@ candidate	_	_	O
 Ross	_	_	O
 Perot	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -182,7 +174,6 @@ they	_	_	O
 so	_	_	O
 choose	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -221,7 +212,6 @@ a	_	_	O
 closing	_	_	O
 statement	_	_	O
 .	_	_	O
- 	_	_	O
 Our	_	_	O
 radio	_	_	O
 and	_	_	O
@@ -292,7 +282,6 @@ let	_	_	O
 get	_	_	O
 started	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 we	_	_	O
 'll	_	_	O
@@ -306,10 +295,7 @@ his	_	_	O
 opening	_	_	O
 statement	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -490,18 +476,13 @@ to	_	_	I-Claim
 Jack	_	_	I-Claim
 Kennedy	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Harry	_	_	O
 Truman	_	_	O
 --	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 remember	_	_	O
@@ -523,8 +504,7 @@ they	_	_	O
 said	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Harry	_	_	B-Premise
 Truman	_	_	I-Premise
 ,	_	_	I-Premise
@@ -672,7 +652,6 @@ for	_	_	I-Claim
 a	_	_	I-Claim
 change	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Bill	_	_	B-Premise
 Clinton	_	_	I-Premise
 and	_	_	I-Premise
@@ -704,10 +683,7 @@ US	_	_	I-Premise
 of	_	_	I-Premise
 America	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -721,8 +697,7 @@ President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -833,7 +808,6 @@ US	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Let	_	_	B-Premise
 us	_	_	I-Premise
 look	_	_	I-Premise
@@ -924,7 +898,6 @@ to	_	_	I-Premise
 empower	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 In	_	_	B-Premise
 St.	_	_	I-Premise
 Louis	_	_	I-Premise
@@ -956,7 +929,6 @@ He	_	_	B-Claim
 is	_	_	I-Claim
 wrong	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 At	_	_	B-Claim
 some	_	_	I-Claim
 time	_	_	I-Claim
@@ -1051,7 +1023,6 @@ choice	_	_	O
 is	_	_	O
 yours	_	_	O
 .	_	_	O
- 	_	_	O
 You	_	_	B-Claim
 need	_	_	I-Claim
 to	_	_	I-Claim
@@ -1069,10 +1040,7 @@ trust	_	_	O
 Bill	_	_	O
 Clinton	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 ,	_	_	O
@@ -1085,8 +1053,7 @@ please	_	_	O
 sir	_	_	O
 ?	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Who	_	_	O
 am	_	_	O
 I	_	_	O
@@ -1101,7 +1068,6 @@ Laughter	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
- 	_	_	O
 I	_	_	B-Premise
 'm	_	_	I-Premise
 not	_	_	I-Premise
@@ -1151,7 +1117,6 @@ I	_	_	I-Premise
 an	_	_	I-Premise
 academic	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 centerpiece	_	_	I-Premise
 of	_	_	I-Premise
@@ -1237,7 +1202,6 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 know	_	_	I-Claim
@@ -1276,7 +1240,6 @@ an	_	_	I-Claim
 insider	_	_	I-Claim
 on	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 was	_	_	I-Premise
 the	_	_	I-Premise
@@ -1319,7 +1282,6 @@ thing	_	_	I-Premise
 of	_	_	I-Premise
 beauty	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 look	_	_	I-Premise
 back	_	_	I-Premise
@@ -1350,7 +1312,6 @@ ours	_	_	I-Premise
 as	_	_	I-Premise
 Americans	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Why	_	_	O
 am	_	_	O
 I	_	_	O
@@ -1380,10 +1341,7 @@ through	_	_	I-Premise
 tough	_	_	I-Premise
 times	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -1501,7 +1459,6 @@ discuss	_	_	O
 is	_	_	O
 this	_	_	O
 .	_	_	O
- 	_	_	O
 What	_	_	O
 role	_	_	O
 would	_	_	O
@@ -1533,7 +1490,6 @@ president	_	_	O
 if	_	_	O
 necessary	_	_	O
 ?	_	_	O
- 	_	_	O
 In	_	_	O
 the	_	_	O
 case	_	_	O
@@ -1581,10 +1537,7 @@ ahead	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 then	_	_	O
@@ -1654,7 +1607,6 @@ for	_	_	I-Premise
 the	_	_	I-Premise
 president	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 even	_	_	B-Premise
 as	_	_	I-Premise
@@ -1696,7 +1648,6 @@ in	_	_	I-Premise
 a	_	_	I-Premise
 crisis	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 President	_	_	B-Premise
 Bush	_	_	I-Premise
 was	_	_	I-Premise
@@ -1730,7 +1681,6 @@ each	_	_	I-Premise
 other	_	_	I-Premise
 before	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 A	_	_	B-Premise
 coup	_	_	I-Premise
 broke	_	_	I-Premise
@@ -1793,7 +1743,6 @@ situation	_	_	I-Premise
 was	_	_	I-Premise
 ended	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 've	_	_	I-Claim
 been	_	_	I-Claim
@@ -1845,21 +1794,16 @@ having	_	_	I-Premise
 strong	_	_	I-Premise
 beliefs	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 My	_	_	B-Premise
 association	_	_	I-Premise
 with	_	_	I-Premise
@@ -1983,16 +1927,12 @@ alive	_	_	I-Claim
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 understands	_	_	I-Claim
@@ -2143,7 +2083,6 @@ the	_	_	I-Premise
 White	_	_	I-Premise
 House	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 the	_	_	B-Claim
 teamwork	_	_	I-Claim
@@ -2178,7 +2117,6 @@ is	_	_	I-Premise
 one	_	_	I-Premise
 sample	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 I	_	_	O
 'd	_	_	O
@@ -2235,14 +2173,10 @@ country	_	_	O
 moving	_	_	O
 again	_	_	O
 ?	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Again	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2282,8 +2216,7 @@ President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 The	_	_	O
 answer	_	_	O
 to	_	_	O
@@ -2484,11 +2417,9 @@ an	_	_	I-Claim
 international	_	_	I-Claim
 crisis	_	_	I-Claim
 --	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 --	_	_	O
 and	_	_	I-Claim
 sit	_	_	I-Claim
@@ -2565,10 +2496,7 @@ next	_	_	I-Claim
 4	_	_	I-Claim
 years	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2599,8 +2527,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 I	_	_	O
@@ -2634,8 +2561,7 @@ I	_	_	O
 will	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2651,10 +2577,7 @@ want	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 thought	_	_	O
 anyone	_	_	O
@@ -2667,8 +2590,7 @@ wanted	_	_	O
 to	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 whatever	_	_	O
@@ -2686,8 +2608,7 @@ the	_	_	O
 candidates	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 want	_	_	O
@@ -2701,10 +2622,7 @@ Laughter	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 not	_	_	O
@@ -2725,8 +2643,7 @@ Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 let	_	_	O
@@ -2783,8 +2700,7 @@ it	_	_	O
 before	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Why	_	_	O
 does	_	_	O
 n't	_	_	O
@@ -2806,8 +2722,7 @@ s	_	_	O
 bill	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -2826,8 +2741,7 @@ come	_	_	O
 in	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 was	_	_	O
 very	_	_	O
@@ -2849,14 +2763,12 @@ listening	_	_	I-Premise
 to	_	_	I-Premise
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Good	_	_	O
 points	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 trickle	_	_	I-Premise
 -	_	_	I-Premise
@@ -3144,8 +3056,7 @@ your	_	_	O
 theory	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -3173,8 +3084,7 @@ the	_	_	O
 question	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -3186,8 +3096,7 @@ the	_	_	O
 answer	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 But	_	_	O
 the	_	_	O
 question	_	_	O
@@ -3227,8 +3136,7 @@ talked	_	_	O
 about	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -3241,8 +3149,7 @@ that	_	_	O
 question	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	O
 've	_	_	O
 talked	_	_	O
@@ -3266,8 +3173,7 @@ the	_	_	O
 worst	_	_	O
 economy-	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 wait	_	_	O
@@ -3280,16 +3186,14 @@ was	_	_	O
 about	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 in	_	_	O
 50	_	_	O
 years	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 be	_	_	O
@@ -3303,8 +3207,7 @@ I	_	_	O
 answer	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Why	_	_	O
 is	_	_	O
 he	_	_	O
@@ -3317,8 +3220,7 @@ the	_	_	O
 US	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 be	_	_	O
@@ -3326,8 +3228,7 @@ happy	_	_	O
 to	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -3339,8 +3240,7 @@ a	_	_	O
 point	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -3363,8 +3263,7 @@ answer	_	_	O
 yours	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 not	_	_	O
@@ -3448,8 +3347,7 @@ he	_	_	O
 said	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 You	_	_	O
 want	_	_	O
 me	_	_	O
@@ -3459,8 +3357,7 @@ your	_	_	O
 question	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 making	_	_	O
@@ -3474,8 +3371,7 @@ answer	_	_	O
 it	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Can	_	_	O
 we	_	_	O
 give	_	_	O
@@ -3492,21 +3388,16 @@ please	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 again	_	_	O
 ,	_	_	O
 audience	_	_	O
 --	_	_	O
- 	_	_	O
 (	_	_	O
 Simultaneous	_	_	O
 conversation	_	_	O
 )	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 (	_	_	O
 Inaudible	_	_	O
 )	_	_	O
@@ -3557,8 +3448,7 @@ the	_	_	I-Premise
 majority	_	_	I-Premise
 .	_	_	I-Premise
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 give	_	_	O
@@ -3571,8 +3461,7 @@ come	_	_	O
 in	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 But	_	_	O
 he	_	_	O
 was	_	_	O
@@ -3602,8 +3491,7 @@ debate	_	_	O
 tonight	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -3625,7 +3513,6 @@ Laughter	_	_	O
 ,	_	_	O
 applause	_	_	O
 )	_	_	O
- 	_	_	O
 The	_	_	B-Premise
 trickle	_	_	I-Premise
 downs	_	_	I-Premise
@@ -3760,14 +3647,10 @@ working	_	_	O
 for	_	_	O
 him	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 I	_	_	O
 was	_	_	O
 a	_	_	O
@@ -3788,7 +3671,6 @@ tonight	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 	_	_	O
 Let	_	_	O
 's	_	_	O
 move	_	_	O
@@ -3910,10 +3792,7 @@ with	_	_	O
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 lifeblood	_	_	I-Claim
 of	_	_	I-Claim
@@ -4021,16 +3900,14 @@ my	_	_	O
 answer	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 's	_	_	I-Claim
@@ -4186,7 +4063,6 @@ at	_	_	I-Premise
 the	_	_	I-Premise
 beginning	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 look	_	_	B-Premise
 at	_	_	I-Premise
@@ -4253,12 +4129,10 @@ this	_	_	I-Premise
 very	_	_	I-Premise
 carefully	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 Laughter	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 When	_	_	O
 are	_	_	O
 you	_	_	O
@@ -4287,17 +4161,13 @@ out	_	_	O
 of	_	_	O
 work	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 do	_	_	B-Claim
@@ -4314,7 +4184,6 @@ television	_	_	I-Claim
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -4360,15 +4229,11 @@ you	_	_	I-Premise
 supported	_	_	I-Premise
 that	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 That	_	_	O
 is	_	_	O
 a	_	_	O
@@ -4376,16 +4241,14 @@ program	_	_	O
 there	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 voted	_	_	I-Claim
 against	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 voted	_	_	I-Claim
 for	_	_	I-Claim
@@ -4395,13 +4258,11 @@ your	_	_	O
 record	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 Well	_	_	O
@@ -4536,13 +4397,11 @@ new	_	_	I-Premise
 spending	_	_	I-Premise
 .	_	_	I-Premise
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 is	_	_	O
 raising	_	_	O
@@ -4594,10 +4453,7 @@ worse	_	_	I-Claim
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 .	_	_	O
 We	_	_	O
@@ -4621,8 +4477,7 @@ the	_	_	O
 discussion	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -4726,8 +4581,7 @@ straightened	_	_	I-Premise
 out	_	_	I-Premise
 .	_	_	I-Premise
 
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 ,	_	_	O
@@ -4738,8 +4592,7 @@ to	_	_	O
 work	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -4930,7 +4783,6 @@ from	_	_	I-Premise
 George	_	_	I-Premise
 Bush	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 I	_	_	O
 want	_	_	O
@@ -5024,7 +4876,6 @@ into	_	_	I-Premise
 the	_	_	I-Premise
 US	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 When	_	_	O
 are	_	_	O
 you	_	_	O
@@ -5034,10 +4885,7 @@ stop	_	_	O
 that	_	_	O
 program	_	_	O
 ?	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 do	_	_	I-Claim
 not	_	_	I-Claim
@@ -5139,10 +4987,7 @@ just	_	_	I-Claim
 totally	_	_	I-Claim
 ridiculous	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 going	_	_	I-Claim
@@ -5179,8 +5024,7 @@ meet	_	_	O
 with	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -5188,8 +5032,7 @@ get	_	_	O
 back	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 talked	_	_	O
 with	_	_	O
@@ -5278,8 +5121,7 @@ Great	_	_	O
 Depression	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 that	_	_	O
@@ -5316,8 +5158,7 @@ new	_	_	I-Claim
 taxes	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 got	_	_	I-Claim
 that	_	_	I-Claim
@@ -5326,8 +5167,7 @@ wrong	_	_	I-Claim
 too	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 first	_	_	O
@@ -5340,8 +5180,7 @@ your	_	_	I-Claim
 plan	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -5349,8 +5188,7 @@ it	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 A	_	_	B-Claim
 hundred	_	_	I-Claim
 and	_	_	I-Claim
@@ -5372,8 +5210,7 @@ your	_	_	O
 plan	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Listen	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -5382,8 +5219,7 @@ we	_	_	O
 proposing	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 what	_	_	O
@@ -5407,7 +5243,6 @@ Clinton	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 you	_	_	O
 know	_	_	O
@@ -5472,15 +5307,11 @@ in	_	_	I-Claim
 new	_	_	I-Claim
 taxes	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 hope	_	_	O
@@ -5494,8 +5325,7 @@ in	_	_	O
 Tennessee	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -5503,8 +5333,7 @@ we	_	_	O
 not	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 and	_	_	O
 told	_	_	O
@@ -5512,8 +5341,7 @@ them	_	_	O
 that	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 You	_	_	O
 can	_	_	O
 say	_	_	O
@@ -5530,8 +5358,7 @@ it	_	_	O
 true	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 going	_	_	O
 to	_	_	O
@@ -5720,14 +5547,10 @@ n't	_	_	I-Claim
 pass	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 I	_	_	O
@@ -5880,7 +5703,6 @@ in	_	_	O
 defense	_	_	O
 industries	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 think	_	_	O
 we	_	_	O
@@ -5891,10 +5713,7 @@ Gore	_	_	O
 this	_	_	O
 time	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 and	_	_	I-Claim
@@ -6034,7 +5853,6 @@ defense	_	_	I-Claim
 of	_	_	I-Claim
 Europe	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -6057,7 +5875,6 @@ our	_	_	I-Claim
 national	_	_	I-Claim
 security	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 for	_	_	B-Premise
@@ -6139,17 +5956,13 @@ the	_	_	I-Premise
 next	_	_	I-Premise
 century	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 won	_	_	I-Claim
 the	_	_	I-Claim
@@ -6358,15 +6171,11 @@ we	_	_	I-Premise
 went	_	_	I-Premise
 forward	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 --	_	_	O
 Admiral	_	_	O
@@ -6375,8 +6184,7 @@ Stockdale	_	_	O
 please	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 thanks	_	_	O
@@ -6483,7 +6291,6 @@ that	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 So	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -6511,7 +6318,6 @@ military	_	_	I-Claim
 establishment	_	_	I-Claim
 prematurely	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 there	_	_	B-Claim
 's	_	_	I-Claim
@@ -6583,10 +6389,7 @@ of	_	_	O
 this	_	_	O
 puzzle	_	_	O
 .	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 ,	_	_	O
@@ -6603,8 +6406,7 @@ this	_	_	O
 topic	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6664,10 +6466,7 @@ classmates	_	_	I-Premise
 in	_	_	I-Premise
 Annapolis	_	_	I-Premise
 --	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 yes	_	_	O
@@ -6678,22 +6477,19 @@ known	_	_	O
 him	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 has	_	_	I-Premise
 endorsed	_	_	I-Premise
 --	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 --	_	_	O
 50	_	_	O
 years	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 the	_	_	I-Premise
 military	_	_	I-Premise
@@ -6862,12 +6658,10 @@ for	_	_	I-Premise
 the	_	_	I-Premise
 sunrise	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 I	_	_	O
 want	_	_	O
@@ -6962,7 +6756,6 @@ any	_	_	I-Premise
 fear	_	_	I-Premise
 tonight	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 you	_	_	O
 know	_	_	O
@@ -7025,7 +6818,6 @@ are	_	_	I-Premise
 serious	_	_	I-Premise
 problems	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Is	_	_	B-Premise
 n't	_	_	I-Premise
 it	_	_	I-Premise
@@ -7080,7 +6872,6 @@ the	_	_	I-Premise
 other	_	_	I-Premise
 half	_	_	I-Premise
 ?	_	_	I-Premise
- 	_	_	O
 Did	_	_	O
 n't	_	_	O
 the	_	_	O
@@ -7090,10 +6881,7 @@ a	_	_	O
 mistake	_	_	O
 there	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
@@ -7101,8 +6889,7 @@ Quayle	_	_	O
 please	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 president	_	_	I-Claim
 does	_	_	I-Claim
@@ -7124,33 +6911,27 @@ commitment	_	_	O
 to	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Is	_	_	O
 it	_	_	O
 an	_	_	O
 agreement	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
 commitment	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 .	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 talk	_	_	O
@@ -7162,8 +6943,7 @@ talk	_	_	O
 about	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 he	_	_	O
@@ -7172,8 +6952,7 @@ he	_	_	O
 'd	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 him	_	_	O
 talk	_	_	O
@@ -7181,8 +6960,7 @@ talk	_	_	O
 Senator	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Lighten	_	_	O
 up	_	_	O
 here	_	_	O
@@ -7194,16 +6972,12 @@ Laughter	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 talk	_	_	O
@@ -7425,7 +7199,6 @@ that	_	_	I-Premise
 he	_	_	I-Premise
 did	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 These	_	_	B-Premise
 are	_	_	I-Premise
 inconsistencies	_	_	I-Premise
@@ -7476,14 +7249,10 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 US	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -7525,16 +7294,12 @@ Laughter	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 you	_	_	O
 know	_	_	O
 what	_	_	O
 ?	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -7548,8 +7313,7 @@ that	_	_	O
 tonight	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 ,	_	_	O
@@ -7561,13 +7325,11 @@ me	_	_	O
 finish	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 He	_	_	B-Premise
 also	_	_	I-Premise
 said	_	_	I-Premise
@@ -7720,16 +7482,12 @@ going	_	_	O
 to	_	_	O
 be	_	_	O
 ?	_	_	O
- 	_	_	O
 (	_	_	O
 Laughter	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7743,14 +7501,12 @@ another	_	_	O
 topic	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -7758,8 +7514,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -7771,8 +7526,7 @@ to	_	_	O
 that	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 You	_	_	O
 'll	_	_	O
 get	_	_	O
@@ -7788,8 +7542,7 @@ n't	_	_	O
 worry	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -7818,8 +7571,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7850,8 +7602,7 @@ the	_	_	O
 agreement	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 Well	_	_	O
@@ -7873,8 +7624,7 @@ to	_	_	O
 it	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 But	_	_	O
 you	_	_	O
 'll	_	_	O
@@ -7919,7 +7669,6 @@ exchange	_	_	I-Premise
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 	_	_	O
 The	_	_	O
 only	_	_	O
 thing	_	_	O
@@ -7929,10 +7678,7 @@ ask	_	_	O
 of	_	_	O
 you	_	_	O
 --	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 enjoying	_	_	O
@@ -7941,10 +7687,7 @@ it	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 The	_	_	O
 only	_	_	O
 thing	_	_	O
@@ -7982,8 +7725,7 @@ to	_	_	O
 filibuster	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Look	_	_	O
 over	_	_	O
 there	_	_	O
@@ -7991,10 +7733,7 @@ there	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8021,7 +7760,6 @@ controversy	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 	_	_	O
 Everyone	_	_	O
 wants	_	_	O
 a	_	_	O
@@ -8100,7 +7838,6 @@ and	_	_	O
 clean	_	_	O
 water	_	_	O
 ?	_	_	O
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 Vice	_	_	O
@@ -8115,10 +7852,7 @@ to	_	_	O
 start	_	_	O
 first	_	_	O
 .	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Hal	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -8340,7 +8074,6 @@ sorts	_	_	I-Premise
 of	_	_	I-Premise
 taxes	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 No	_	_	O
 ,	_	_	O
 Hal	_	_	O
@@ -8367,20 +8100,15 @@ can	_	_	I-Claim
 have	_	_	I-Claim
 both	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 read	_	_	O
 Senator	_	_	O
@@ -8412,7 +8140,6 @@ climate	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -8427,7 +8154,6 @@ and	_	_	O
 so	_	_	O
 forth	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 also	_	_	O
 ,	_	_	O
@@ -8517,20 +8243,15 @@ overdo	_	_	I-Premise
 this	_	_	I-Premise
 thing	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 and	_	_	I-Claim
@@ -8601,7 +8322,6 @@ without	_	_	I-Premise
 environmental	_	_	I-Premise
 destruction	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Why	_	_	B-Premise
 is	_	_	I-Premise
 the	_	_	I-Premise
@@ -8671,7 +8391,6 @@ they	_	_	I-Premise
 're	_	_	I-Premise
 operating	_	_	I-Premise
 ?	_	_	I-Premise
- 	_	_	O
 Well	_	_	O
 ,	_	_	O
 maybe	_	_	O
@@ -8711,7 +8430,6 @@ greater	_	_	I-Claim
 environmental	_	_	I-Claim
 efficiency	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 This	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -8801,14 +8519,10 @@ will	_	_	I-Claim
 change	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 Discussion	_	_	O
@@ -8833,8 +8547,7 @@ go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8891,16 +8604,14 @@ foreign	_	_	I-Claim
 countries	_	_	I-Claim
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
 true	_	_	I-Claim
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Foreign	_	_	O
 aid	_	_	O
 --	_	_	O
@@ -8919,8 +8630,7 @@ page	_	_	I-Claim
 304	_	_	I-Claim
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -8928,8 +8638,7 @@ it	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 is	_	_	I-Claim
 there	_	_	I-Claim
@@ -8937,7 +8646,6 @@ there	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 It	_	_	B-Claim
 is	_	_	I-Claim
 in	_	_	I-Claim
@@ -8993,15 +8701,11 @@ in	_	_	I-Claim
 your	_	_	I-Claim
 book	_	_	I-Claim
 --	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 comes	_	_	I-Claim
 out	_	_	I-Claim
@@ -9017,8 +8721,7 @@ environmental	_	_	I-Claim
 projects	_	_	I-Claim
 .	_	_	I-Claim
 
-BRUNO	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -9032,8 +8735,7 @@ to	_	_	O
 answer	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 how	_	_	O
@@ -9066,8 +8768,7 @@ for	_	_	O
 this	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Dan	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9087,8 +8788,7 @@ it	_	_	I-Claim
 wrong	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -9098,8 +8798,7 @@ it	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 's	_	_	I-Claim
 no	_	_	I-Claim
@@ -9107,8 +8806,7 @@ such	_	_	I-Claim
 proposal	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -9118,8 +8816,7 @@ we	_	_	O
 find	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 him	_	_	O
 talk	_	_	O
@@ -9137,8 +8834,7 @@ Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 is	_	_	I-Claim
 no	_	_	I-Claim
@@ -9318,7 +9014,6 @@ every	_	_	I-Premise
 ten	_	_	I-Premise
 years	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 can	_	_	I-Claim
 not	_	_	I-Claim
@@ -9384,7 +9079,6 @@ guts	_	_	I-Premise
 to	_	_	I-Premise
 leave	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 earlier	_	_	B-Premise
 we	_	_	I-Premise
@@ -9469,12 +9163,10 @@ and	_	_	I-Claim
 the	_	_	I-Claim
 environment	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 It	_	_	B-Claim
 's	_	_	I-Claim
 time	_	_	I-Claim
@@ -9482,15 +9174,11 @@ for	_	_	I-Claim
 a	_	_	I-Claim
 change	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 ,	_	_	O
@@ -9504,8 +9192,7 @@ say	_	_	O
 here	_	_	O
 ?	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 that	_	_	O
@@ -9546,24 +9233,19 @@ Do	_	_	O
 you	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Deny	_	_	O
 it	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 --	_	_	O
 (	_	_	O
 Laughter	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 take	_	_	O
@@ -9575,10 +9257,7 @@ account	_	_	O
 Laughter	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9634,7 +9313,6 @@ died	_	_	I-Premise
 Jeers	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 He	_	_	B-Premise
 believed	_	_	I-Premise
 up	_	_	I-Premise
@@ -9655,10 +9333,7 @@ died	_	_	I-Premise
 last	_	_	I-Premise
 year	_	_	I-Premise
 --	_	_	I-Premise
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 ask	_	_	O
@@ -9670,8 +9345,7 @@ stop	_	_	O
 please	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 and	_	_	I-Premise
 just	_	_	I-Premise
@@ -9786,16 +9460,14 @@ this	_	_	I-Claim
 obligation	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Hal	_	_	O
 ,	_	_	O
 can	_	_	O
 I	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -9805,8 +9477,7 @@ a	_	_	I-Claim
 mandate	_	_	I-Claim
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 We	_	_	O
@@ -9816,8 +9487,7 @@ got	_	_	O
 time	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 to	_	_	I-Claim
 try	_	_	I-Claim
@@ -9841,8 +9511,7 @@ the	_	_	I-Claim
 process	_	_	I-Claim
 .	_	_	I-Claim
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 ,	_	_	O
@@ -9861,8 +9530,7 @@ much	_	_	O
 though	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 it	_	_	O
@@ -10018,10 +9686,7 @@ out	_	_	I-Claim
 of	_	_	I-Claim
 work	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -10135,7 +9800,6 @@ out	_	_	O
 of	_	_	O
 control	_	_	O
 .	_	_	O
- 	_	_	O
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -10159,7 +9823,6 @@ for	_	_	O
 every	_	_	O
 American	_	_	O
 ?	_	_	O
- 	_	_	O
 Let	_	_	O
 's	_	_	O
 see	_	_	O
@@ -10172,10 +9835,7 @@ to	_	_	O
 go	_	_	O
 now	_	_	O
 ?	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 it	_	_	O
@@ -10185,8 +9845,7 @@ Stockdale	_	_	O
 's	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 it	_	_	O
@@ -10205,8 +9864,7 @@ ahead	_	_	O
 sir	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -10376,16 +10034,12 @@ situation	_	_	I-Claim
 under	_	_	I-Claim
 control	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	O
 Clinton	_	_	O
 and	_	_	O
@@ -10521,7 +10175,6 @@ much	_	_	I-Claim
 money	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 There	_	_	B-Premise
 was	_	_	I-Premise
 a	_	_	I-Premise
@@ -10579,7 +10232,6 @@ leave	_	_	I-Claim
 Americans	_	_	I-Claim
 uninsured	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 what	_	_	O
 I	_	_	O
@@ -10634,17 +10286,13 @@ wait	_	_	O
 ,	_	_	O
 Dan	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Mr	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Hal	_	_	O
 ,	_	_	O
 President	_	_	B-Claim
@@ -10846,7 +10494,6 @@ it	_	_	I-Claim
 an	_	_	I-Claim
 emergency	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Remember	_	_	B-Premise
 when	_	_	I-Premise
 we	_	_	I-Premise
@@ -10904,10 +10551,7 @@ every	_	_	I-Claim
 single	_	_	I-Claim
 American	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 ,	_	_	O
@@ -10921,8 +10565,7 @@ discussion	_	_	O
 period	_	_	O
 ?	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -10934,8 +10577,7 @@ on	_	_	O
 this	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -10957,16 +10599,14 @@ to	_	_	O
 say	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 ,	_	_	O
 Senator	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 We	_	_	O
 still	_	_	O
 did	_	_	O
@@ -10990,8 +10630,7 @@ half	_	_	I-Claim
 years	_	_	I-Claim
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 did	_	_	I-Claim
 n't	_	_	I-Claim
@@ -11003,16 +10642,14 @@ half	_	_	I-Claim
 years	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 during	_	_	I-Claim
 the	_	_	I-Claim
 national	_	_	I-Claim
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 answer	_	_	O
@@ -11020,8 +10657,7 @@ the	_	_	O
 question	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 health	_	_	I-Claim
 insurance	_	_	I-Claim
@@ -11231,7 +10867,6 @@ get	_	_	I-Premise
 unpaid	_	_	I-Premise
 leave	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 pass	_	_	I-Claim
 legislation	_	_	I-Claim
@@ -11267,21 +10902,16 @@ Medical	_	_	O
 Leave	_	_	O
 Act	_	_	O
 ?	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Mr	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Pass	_	_	O
 our	_	_	O
 Family	_	_	O
@@ -11321,10 +10951,7 @@ health	_	_	O
 care	_	_	O
 and	_	_	O
 --	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Did	_	_	O
 you	_	_	O
 require	_	_	O
@@ -11336,8 +10963,7 @@ require	_	_	O
 it	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 My	_	_	O
 turn	_	_	O
 --	_	_	O
@@ -11349,8 +10975,7 @@ at	_	_	O
 Gore	_	_	O
 )	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Did	_	_	O
 you	_	_	O
 require	_	_	O
@@ -11362,10 +10987,7 @@ inaudible	_	_	O
 Simultaneous	_	_	O
 conversation	_	_	O
 )	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Lightenâ€	_	_	O
 ™	_	_	O
 up	_	_	O
@@ -11375,8 +10997,7 @@ My	_	_	O
 turn	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 a	_	_	O
@@ -11384,8 +11005,7 @@ free	_	_	O
 discussion	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Take	_	_	O
 a	_	_	O
 breath	_	_	O
@@ -11395,8 +11015,7 @@ Al	_	_	O
 Inhale	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 a	_	_	O
@@ -11406,7 +11025,6 @@ discussion	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Did	_	_	O
 you	_	_	O
 require	_	_	O
@@ -11420,10 +11038,7 @@ Yes	_	_	O
 or	_	_	O
 no	_	_	O
 ?	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	O
 offered	_	_	O
 incentives	_	_	O
@@ -11436,8 +11051,7 @@ or	_	_	O
 no	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 a	_	_	O
@@ -11448,8 +11062,7 @@ n't	_	_	O
 it	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Was	_	_	O
 small	_	_	O
 business	_	_	O
@@ -11459,13 +11072,11 @@ your	_	_	O
 proposal	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 And	_	_	O
@@ -11478,8 +11089,7 @@ problem	_	_	O
 is	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Did	_	_	O
 you	_	_	O
 require	_	_	O
@@ -11488,8 +11098,7 @@ of	_	_	O
 anyone	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 going	_	_	O
@@ -11502,8 +11111,7 @@ topic	_	_	O
 again	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Did	_	_	O
 you	_	_	O
 require	_	_	O
@@ -11512,8 +11120,7 @@ of	_	_	O
 anyone	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 because	_	_	O
 he	_	_	O
@@ -11739,17 +11346,13 @@ in	_	_	I-Premise
 this	_	_	I-Premise
 program	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	B-Premise
 ,	_	_	I-Premise
@@ -11908,10 +11511,7 @@ that	_	_	O
 another	_	_	O
 subject	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 fixing	_	_	O
@@ -11922,10 +11522,7 @@ one	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -11971,7 +11568,6 @@ about	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -12015,10 +11611,7 @@ we	_	_	I-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -12029,8 +11622,7 @@ of	_	_	O
 this	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Here	_	_	B-Premise
 goes	_	_	I-Premise
 Bill	_	_	I-Premise
@@ -12095,10 +11687,7 @@ tell	_	_	I-Claim
 the	_	_	I-Claim
 truth	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -12109,8 +11698,7 @@ I	_	_	O
 might	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 ,	_	_	O
@@ -12119,8 +11707,7 @@ Senator	_	_	O
 quickly	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -12210,8 +11797,7 @@ it	_	_	I-Premise
 voluntary	_	_	I-Premise
 .	_	_	I-Premise
 
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12229,8 +11815,7 @@ one	_	_	O
 up	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Family	_	_	B-Claim
 leave	_	_	I-Claim
 is	_	_	I-Claim
@@ -12243,10 +11828,7 @@ required	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 thanks	_	_	O
@@ -12274,7 +11856,6 @@ debate	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 	_	_	O
 Abortion	_	_	O
 rights	_	_	O
 has	_	_	O
@@ -12362,10 +11943,7 @@ Gore	_	_	O
 goes	_	_	O
 first	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 and	_	_	I-Claim
@@ -12382,7 +11960,6 @@ choose	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 That	_	_	B-Premise
 does	_	_	I-Premise
 n't	_	_	I-Premise
@@ -12436,7 +12013,6 @@ has	_	_	I-Claim
 consistently	_	_	I-Claim
 done	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 reason	_	_	O
 we	_	_	O
@@ -12534,7 +12110,6 @@ thing	_	_	I-Premise
 to	_	_	I-Premise
 do	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 ought	_	_	I-Claim
 to	_	_	I-Claim
@@ -12568,7 +12143,6 @@ of	_	_	I-Claim
 unwanted	_	_	I-Claim
 pregnancies	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 ,	_	_	O
 Dan	_	_	O
@@ -12600,10 +12174,7 @@ you	_	_	O
 say	_	_	O
 that	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
@@ -12612,8 +12183,7 @@ your	_	_	O
 turn	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 This	_	_	O
 issue	_	_	O
 is	_	_	O
@@ -12647,7 +12217,6 @@ years	_	_	I-Premise
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 --	_	_	O
 in	_	_	I-Premise
 public	_	_	I-Premise
@@ -12733,7 +12302,6 @@ period	_	_	I-Premise
 parental	_	_	I-Premise
 notification	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 was	_	_	I-Premise
 in	_	_	I-Premise
@@ -12860,16 +12428,12 @@ country	_	_	O
 of	_	_	O
 ours	_	_	O
 .	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -12895,13 +12459,9 @@ period	_	_	I-Claim
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 Period	_	_	O
 .	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 it	_	_	O
@@ -12910,10 +12470,7 @@ it	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -12964,10 +12521,7 @@ issue	_	_	I-Claim
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 You	_	_	O
 caught	_	_	O
 me	_	_	O
@@ -12989,8 +12543,7 @@ Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -13127,10 +12680,7 @@ make	_	_	O
 it	_	_	O
 completely	_	_	O
 --	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 do	_	_	O
@@ -13144,8 +12694,7 @@ waiting	_	_	O
 period	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 illegal	_	_	O
 under	_	_	O
@@ -13161,10 +12710,7 @@ to	_	_	O
 waffle	_	_	O
 around	_	_	O
 --	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 support	_	_	O
@@ -13176,8 +12722,7 @@ waiting	_	_	O
 period	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 finish	_	_	O
@@ -13235,8 +12780,7 @@ Say	_	_	O
 it	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 him	_	_	O
 say	_	_	O
@@ -13258,8 +12802,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -13336,10 +12879,7 @@ pro	_	_	I-Premise
 life	_	_	I-Premise
 position	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 simply	_	_	I-Claim
@@ -13347,8 +12887,7 @@ not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 In	_	_	B-Premise
 1987	_	_	I-Premise
 ,	_	_	I-Premise
@@ -13368,8 +12907,7 @@ the	_	_	I-Premise
 media	_	_	I-Premise
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 is	_	_	I-Claim
 simply	_	_	I-Claim
@@ -13377,8 +12915,7 @@ not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 wrote	_	_	I-Claim
 a	_	_	I-Claim
@@ -13403,15 +12940,13 @@ a	_	_	I-Claim
 record	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 some	_	_	I-Claim
 circumstances	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 going	_	_	O
@@ -13421,16 +12956,14 @@ it	_	_	O
 now	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Claim
 still	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 Bill	_	_	B-Premise
 Clinton	_	_	I-Premise
@@ -13497,17 +13030,13 @@ the	_	_	O
 NAFTA	_	_	O
 agreement	_	_	O
 --	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 wait	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 stick	_	_	O
@@ -13520,8 +13049,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 long	_	_	O
 did	_	_	O
@@ -13529,8 +13057,7 @@ he	_	_	O
 have	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 you	_	_	O
@@ -13554,8 +13081,7 @@ a	_	_	O
 while	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 long	_	_	O
 did	_	_	O
@@ -13584,8 +13110,7 @@ the	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 stay	_	_	O
@@ -13597,8 +13122,7 @@ a	_	_	O
 while	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Bill	_	_	O
 Clinton	_	_	O
 --	_	_	O
@@ -13621,8 +13145,7 @@ English	_	_	O
 language	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Does	_	_	O
 anybody	_	_	O
 have	_	_	O
@@ -13637,15 +13160,13 @@ on	_	_	O
 this	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Tell	_	_	O
 the	_	_	O
 truth	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13670,8 +13191,7 @@ The	_	_	O
 question	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Talk	_	_	O
 about	_	_	O
 waffling	_	_	O
@@ -13686,8 +13206,7 @@ up	_	_	O
 the	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13696,8 +13215,7 @@ you	_	_	O
 talk	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 issue	_	_	O
 of	_	_	O
@@ -13712,8 +13230,7 @@ abortion	_	_	O
 issue	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 let	_	_	O
 you	_	_	O
@@ -13741,8 +13258,7 @@ this	_	_	O
 now	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -13752,8 +13268,7 @@ it	_	_	O
 not	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 n't	_	_	O
 change	_	_	O
@@ -13761,8 +13276,7 @@ the	_	_	O
 subject	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 get	_	_	O
@@ -13780,8 +13294,7 @@ with	_	_	O
 it	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 n't	_	_	O
 change	_	_	O
@@ -13789,8 +13302,7 @@ the	_	_	O
 subject	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 answer	_	_	O
@@ -13800,16 +13312,14 @@ questions	_	_	O
 then	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 What	_	_	O
 you	_	_	O
 have	_	_	O
 done	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Answer	_	_	O
 my	_	_	O
 questions	_	_	O
@@ -13827,8 +13337,7 @@ support	_	_	O
 that	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 had	_	_	O
@@ -13837,16 +13346,14 @@ same	_	_	O
 position	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 support	_	_	O
 that	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 had	_	_	I-Claim
@@ -13876,8 +13383,7 @@ to	_	_	O
 choose	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 support	_	_	O
@@ -13890,16 +13396,14 @@ to	_	_	O
 have	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 still	_	_	O
 avoiding	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 about	_	_	O
 avoiding	_	_	O
@@ -13907,8 +13411,7 @@ the	_	_	O
 question	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 the	_	_	O
 question	_	_	O
@@ -13982,7 +13485,6 @@ agenda	_	_	I-Claim
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 And	_	_	O
 if	_	_	O
 you	_	_	O
@@ -14024,7 +13526,6 @@ woman	_	_	I-Claim
 to	_	_	I-Claim
 choose	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	O
 agree	_	_	O
 with	_	_	O
@@ -14090,15 +13591,11 @@ rape	_	_	I-Premise
 and	_	_	I-Premise
 incest	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Again	_	_	O
 ,	_	_	O
 ca	_	_	O
@@ -14117,8 +13614,7 @@ to	_	_	O
 choose	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Could	_	_	O
 we	_	_	O
 give	_	_	O
@@ -14141,8 +13637,7 @@ dares	_	_	O
 to	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -14296,10 +13791,7 @@ substantive	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -14317,7 +13809,6 @@ to	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 You	_	_	O
 'll	_	_	O
 have	_	_	O
@@ -14328,10 +13819,7 @@ the	_	_	O
 closing	_	_	O
 statements	_	_	O
 .	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	O
 need	_	_	O
 to	_	_	O
@@ -14339,8 +13827,7 @@ get	_	_	O
 on	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -14352,8 +13839,7 @@ another	_	_	O
 topic	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Just	_	_	O
 15	_	_	O
 seconds	_	_	O
@@ -14361,8 +13847,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 can	_	_	O
@@ -14373,8 +13858,7 @@ seconds	_	_	O
 also	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -14385,8 +13869,7 @@ on	_	_	O
 gentlemen	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 tell	_	_	O
@@ -14396,8 +13879,7 @@ what	_	_	O
 If	_	_	O
 --	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 not	_	_	O
@@ -14560,7 +14042,6 @@ help	_	_	O
 the	_	_	O
 cities	_	_	O
 ?	_	_	O
- 	_	_	O
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
@@ -14573,10 +14054,7 @@ to	_	_	O
 go	_	_	O
 first	_	_	O
 .	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Hal	_	_	O
@@ -14657,7 +14135,6 @@ reclaim	_	_	I-Premise
 their	_	_	I-Premise
 neighborhood	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 They	_	_	B-Premise
 wanted	_	_	I-Premise
 home	_	_	I-Premise
@@ -14741,7 +14218,6 @@ the	_	_	I-Claim
 American	_	_	I-Claim
 family	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 know	_	_	I-Premise
 some	_	_	I-Premise
@@ -14820,16 +14296,12 @@ in	_	_	I-Claim
 urban	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 enterprise	_	_	I-Claim
@@ -15133,18 +14605,14 @@ on	_	_	I-Claim
 the	_	_	I-Claim
 scene	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 ,	_	_	O
 please	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 George	_	_	B-Claim
 Bush	_	_	I-Claim
 's	_	_	I-Claim
@@ -15284,8 +14752,7 @@ and	_	_	O
 then	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -15294,8 +14761,7 @@ not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	O
 ,	_	_	O
@@ -15313,8 +14779,7 @@ passed	_	_	I-Claim
 ,	_	_	I-Claim
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 been	_	_	O
@@ -15323,8 +14788,7 @@ enterprise	_	_	O
 zones	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 George	_	_	I-Claim
 Bush	_	_	I-Claim
@@ -15417,18 +14881,14 @@ $	_	_	I-Premise
 a	_	_	I-Premise
 year	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 What	_	_	O
 plan	_	_	O
 is	_	_	O
 that	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 And	_	_	O
 if	_	_	B-Premise
 we	_	_	I-Premise
@@ -15446,8 +14906,7 @@ better	_	_	I-Claim
 off	_	_	I-Claim
 .	_	_	I-Claim
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 start	_	_	O
@@ -15461,8 +14920,7 @@ Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 What	_	_	O
 plan	_	_	O
 is	_	_	O
@@ -15673,7 +15131,6 @@ does	_	_	I-Claim
 n't	_	_	I-Claim
 work	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -15682,10 +15139,7 @@ about	_	_	O
 a	_	_	O
 story	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 respond	_	_	O
@@ -15695,8 +15149,7 @@ of	_	_	O
 that	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 've	_	_	O
 got	_	_	O
@@ -15706,8 +15159,7 @@ good	_	_	O
 example	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 respond	_	_	O
@@ -15717,8 +15169,7 @@ of	_	_	O
 that	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 when	_	_	O
 we	_	_	O
@@ -15831,10 +15282,7 @@ of	_	_	O
 the	_	_	O
 family	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Gore	_	_	O
 ,	_	_	O
@@ -15844,8 +15292,7 @@ to	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -15872,8 +15319,7 @@ raising	_	_	I-Claim
 taxes	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 want	_	_	O
@@ -15883,8 +15329,7 @@ to	_	_	O
 that	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 ,	_	_	O
@@ -15893,8 +15338,7 @@ Senator	_	_	O
 Admiral	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 George	_	_	B-Claim
 Bush	_	_	I-Claim
 and	_	_	I-Claim
@@ -16036,10 +15480,7 @@ in	_	_	I-Claim
 that	_	_	I-Claim
 way	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 can	_	_	O
@@ -16052,22 +15493,19 @@ cities	_	_	O
 sir	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Stick	_	_	O
 to	_	_	O
 the	_	_	O
 cities	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -16178,10 +15616,7 @@ you	_	_	O
 support	_	_	O
 families	_	_	O
 ?	_	_	O
- 
-	_	_	O
-QUAYLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 about	_	_	O
 supporting	_	_	O
@@ -16204,21 +15639,16 @@ Al	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 Do	_	_	O
 you	_	_	O
 support	_	_	O
 that	_	_	O
 ?	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 We	_	_	O
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 the	_	_	O
 parents	_	_	O
@@ -16228,8 +15658,7 @@ the	_	_	O
 parents	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 want	_	_	O
@@ -16238,8 +15667,7 @@ to	_	_	O
 answer	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 --	_	_	O
 public	_	_	O
 or	_	_	O
@@ -16247,22 +15675,19 @@ private	_	_	O
 schools	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Want	_	_	O
 me	_	_	O
 to	_	_	O
 answer	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 support	_	_	I-Claim
 the	_	_	I-Claim
@@ -16345,8 +15770,7 @@ is	_	_	I-Premise
 not	_	_	I-Premise
 --	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Al	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -16359,8 +15783,7 @@ it	_	_	O
 important	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 --	_	_	O
 under	_	_	I-Premise
 any	_	_	I-Premise
@@ -16379,8 +15802,7 @@ US	_	_	I-Claim
 taxpayer	_	_	I-Claim
 .	_	_	I-Claim
 
-QUAYLE	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 important	_	_	O
@@ -16406,15 +15828,13 @@ important	_	_	I-Claim
 issue	_	_	I-Claim
 .	_	_	I-Claim
 
-BRUNO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 him	_	_	O
 respond	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 he	_	_	B-Premise
 said	_	_	I-Premise
@@ -16510,15 +15930,11 @@ get	_	_	I-Claim
 an	_	_	I-Claim
 education	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Admiral	_	_	O
 Stockdale	_	_	O
 ,	_	_	O
@@ -16535,8 +15951,7 @@ this	_	_	O
 period	_	_	O
 ?	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 --	_	_	O
 I	_	_	B-Premise
@@ -16695,7 +16110,6 @@ schools	_	_	I-Premise
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 --	_	_	O
 we	_	_	I-Premise
 have	_	_	I-Premise
@@ -16767,22 +16181,17 @@ all	_	_	I-Premise
 those	_	_	I-Premise
 years	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Could	_	_	O
 I	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 to	_	_	O
@@ -16871,10 +16280,7 @@ to	_	_	O
 go	_	_	O
 first	_	_	O
 .	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -16895,10 +16301,7 @@ again	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -16942,8 +16345,7 @@ really	_	_	O
 necessary	_	_	O
 ?	_	_	O
 
-STOCKDALE	_	_	O
-:	_	_	O
+
 Nasty	_	_	O
 attacks	_	_	O
 --	_	_	O
@@ -17095,7 +16497,6 @@ about	_	_	I-Premise
 not	_	_	I-Premise
 character	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 He	_	_	B-Premise
 said	_	_	I-Premise
 ,	_	_	I-Premise
@@ -17161,7 +16562,6 @@ the	_	_	O
 Civil	_	_	O
 War	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 that	_	_	O
 is	_	_	O
@@ -17189,18 +16589,14 @@ of	_	_	I-Claim
 my	_	_	I-Claim
 boss	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 Senator	_	_	O
 Gore	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 This	_	_	B-Claim
 election	_	_	I-Claim
 is	_	_	I-Claim
@@ -17416,10 +16812,7 @@ too	_	_	O
 ,	_	_	O
 Dan	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 Vice	_	_	O
@@ -17427,8 +16820,7 @@ President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 answer	_	_	O
@@ -17436,14 +16828,12 @@ the	_	_	O
 question	_	_	O
 .	_	_	O
 
-BRUNO	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Hal	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -17481,7 +16871,6 @@ years	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 But	_	_	O
 I	_	_	O
 happen	_	_	O
@@ -17685,7 +17074,6 @@ that	_	_	I-Premise
 at	_	_	I-Premise
 all	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	O
 mean	_	_	O
 ,	_	_	O
@@ -17738,14 +17126,10 @@ misleading	_	_	I-Claim
 the	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -17812,10 +17196,7 @@ with	_	_	O
 Admiral	_	_	O
 Stockdale	_	_	O
 .	_	_	O
- 
-	_	_	O
-STOCKDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -18041,10 +17422,7 @@ the	_	_	I-Claim
 Perot	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -18052,7 +17430,6 @@ you	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 	_	_	O
 Senator	_	_	O
 Gore	_	_	O
 ,	_	_	O
@@ -18062,10 +17439,7 @@ statement	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 Three	_	_	B-Premise
 weeks	_	_	I-Premise
 from	_	_	I-Premise
@@ -18196,7 +17570,6 @@ to	_	_	I-Claim
 change	_	_	I-Claim
 direction	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Bill	_	_	B-Claim
 Clinton	_	_	I-Claim
 offers	_	_	I-Claim
@@ -18233,7 +17606,6 @@ US	_	_	I-Premise
 of	_	_	I-Premise
 America	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 He	_	_	B-Premise
 's	_	_	I-Premise
 moved	_	_	I-Premise
@@ -18284,7 +17656,6 @@ the	_	_	I-Premise
 private	_	_	I-Premise
 sector	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Is	_	_	O
 n't	_	_	O
 it	_	_	O
@@ -18317,7 +17688,6 @@ economy	_	_	O
 moving	_	_	O
 again	_	_	O
 ?	_	_	O
- 	_	_	O
 We	_	_	B-Claim
 simply	_	_	I-Claim
 can	_	_	I-Claim
@@ -18391,7 +17761,6 @@ much	_	_	I-Claim
 brighter	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Give	_	_	O
 us	_	_	O
 a	_	_	O
@@ -18415,22 +17784,17 @@ to	_	_	I-Claim
 get	_	_	I-Claim
 started	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 .	_	_	O
 )	_	_	O
- 
-	_	_	O
-BRUNO	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -18557,7 +17921,6 @@ getting	_	_	I-Premise
 an	_	_	I-Premise
 answer	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 was	_	_	I-Premise
 in	_	_	I-Premise
@@ -18653,7 +18016,6 @@ she	_	_	B-Premise
 have	_	_	I-Premise
 both	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 was	_	_	I-Premise
 in	_	_	I-Premise
@@ -18688,7 +18050,6 @@ God	_	_	I-Premise
 bless	_	_	I-Premise
 America	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Yes	_	_	O
 ,	_	_	O
 in	_	_	B-Claim
@@ -18773,7 +18134,6 @@ telling	_	_	I-Premise
 the	_	_	I-Premise
 truth	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 choice	_	_	O
 is	_	_	O
@@ -18821,10 +18181,7 @@ be	_	_	O
 your	_	_	O
 president	_	_	O
 ?	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
 

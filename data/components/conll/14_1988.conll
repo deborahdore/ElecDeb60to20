@@ -1,5 +1,4 @@
-WOODRUFF	_	_	O
-:	_	_	O
+
 On	_	_	O
 behalf	_	_	O
 of	_	_	O
@@ -153,8 +152,7 @@ nominee	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 For	_	_	O
 the	_	_	O
 next	_	_	O
@@ -305,8 +303,7 @@ Senate	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Your	_	_	O
 leader	_	_	O
 in	_	_	O
@@ -364,8 +361,7 @@ up	_	_	O
 close	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 The	_	_	O
 question	_	_	O
 goes	_	_	O
@@ -679,8 +675,7 @@ combined	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 -	_	_	O
@@ -771,8 +766,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 This	_	_	B-Claim
 debate	_	_	I-Claim
 tonight	_	_	I-Claim
@@ -920,8 +914,7 @@ be	_	_	I-Claim
 higher	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -1016,8 +1009,7 @@ or	_	_	O
 his	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1370,8 +1362,7 @@ our	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -1381,8 +1372,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 As	_	_	O
 you	_	_	O
 notice	_	_	O
@@ -1550,8 +1540,7 @@ it	_	_	I-Claim
 either	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 Margolis	_	_	O
 ,	_	_	O
@@ -1562,8 +1551,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -1690,8 +1678,7 @@ it	_	_	O
 responsibly	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -2012,8 +1999,7 @@ is	_	_	I-Claim
 over	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -2021,8 +2007,7 @@ your	_	_	O
 response	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Claim
 Bentsen	_	_	I-Claim
 ,	_	_	I-Claim
@@ -2214,8 +2199,7 @@ this	_	_	I-Claim
 century	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -2225,8 +2209,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 since	_	_	O
@@ -2296,8 +2279,7 @@ voting	_	_	O
 record	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
@@ -2625,14 +2607,12 @@ I	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 This	_	_	O
 late	_	_	O
 conversion	_	_	O
@@ -2855,8 +2835,7 @@ that	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 Brokaw	_	_	O
 ,	_	_	O
@@ -2867,8 +2846,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2991,8 +2969,7 @@ program	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 met	_	_	O
@@ -3341,8 +3318,7 @@ Scattered	_	_	O
 applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -3350,8 +3326,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 find	_	_	I-Claim
 that	_	_	I-Claim
@@ -3524,8 +3499,7 @@ in	_	_	I-Claim
 poverty	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -3535,8 +3509,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -3690,8 +3663,7 @@ Scattered	_	_	O
 applause	_	_	O
 )	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Gov.	_	_	O
 Dukakis	_	_	B-Claim
 and	_	_	I-Claim
@@ -4099,8 +4071,7 @@ to	_	_	I-Claim
 live	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -4108,8 +4079,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 's	_	_	I-Claim
 no	_	_	I-Claim
@@ -4309,8 +4279,7 @@ mainstream	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 Hume	_	_	O
 ,	_	_	O
@@ -4321,8 +4290,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-HUME	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -4488,8 +4456,7 @@ embarrassing	_	_	O
 Senator	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -4779,8 +4746,7 @@ in	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -4788,8 +4754,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Claim
 Bentsen	_	_	I-Claim
 is	_	_	I-Claim
@@ -4968,8 +4933,7 @@ political	_	_	I-Claim
 parties	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 ,	_	_	O
 your	_	_	O
@@ -5000,8 +4964,7 @@ possible	_	_	O
 Brit	_	_	O
 ?	_	_	O
 
-HUME	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5098,8 +5061,7 @@ and	_	_	O
 why	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 First	_	_	O
 -	_	_	O
 first	_	_	O
@@ -5450,14 +5412,12 @@ I	_	_	B-Claim
 prepared	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -5653,8 +5613,7 @@ that	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -5702,8 +5661,7 @@ again	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 Margolis	_	_	O
 ,	_	_	O
@@ -5713,8 +5671,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -5881,8 +5838,7 @@ workers	_	_	O
 rights	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 premise	_	_	I-Premise
 of	_	_	I-Premise
@@ -6213,14 +6169,12 @@ do	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -6416,8 +6370,7 @@ be	_	_	I-Claim
 employed	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 Margolis	_	_	O
 ,	_	_	O
@@ -6428,8 +6381,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -6561,8 +6513,7 @@ size	_	_	O
 farmer	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -6991,14 +6942,12 @@ Bentsen	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 talks	_	_	O
@@ -7236,8 +7185,7 @@ will	_	_	I-Claim
 reject	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 Brokaw	_	_	O
 ,	_	_	O
@@ -7248,8 +7196,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -7330,8 +7277,7 @@ their	_	_	O
 deal	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -7710,14 +7656,12 @@ products	_	_	I-Claim
 abroad	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 talks	_	_	O
@@ -7926,8 +7870,7 @@ the	_	_	I-Claim
 better	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -7937,8 +7880,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -8036,8 +7978,7 @@ Scattered	_	_	O
 applause	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 You	_	_	O
 are	_	_	O
 absolutely	_	_	O
@@ -8054,8 +7995,7 @@ No	_	_	O
 issue	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 But	_	_	O
 would	_	_	O
 you	_	_	O
@@ -8068,8 +8008,7 @@ of	_	_	O
 it	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 will	_	_	I-Claim
 address	_	_	I-Claim
@@ -8439,14 +8378,12 @@ on	_	_	I-Claim
 crime	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 interesting	_	_	I-Claim
@@ -8690,8 +8627,7 @@ against	_	_	I-Claim
 drugs	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 Hume	_	_	O
 ,	_	_	O
@@ -8702,8 +8638,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-HUME	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8769,8 +8704,7 @@ next	_	_	O
 Laughter	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -8969,14 +8903,12 @@ happens	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Once	_	_	O
 again	_	_	O
 I	_	_	B-Claim
@@ -9106,8 +9038,7 @@ Bentsen	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 ,	_	_	O
 question	_	_	O
@@ -9116,8 +9047,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-HUME	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9254,8 +9184,7 @@ Scattered	_	_	O
 laughter	_	_	O
 )	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 really	_	_	I-Claim
 must	_	_	I-Claim
@@ -9394,14 +9323,12 @@ after	_	_	I-Claim
 vote	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 He	_	_	O
 disbanded	_	_	O
 the	_	_	O
@@ -9570,8 +9497,7 @@ join	_	_	I-Claim
 me	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 Margolis	_	_	O
 ,	_	_	O
@@ -9582,8 +9508,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -9719,8 +9644,7 @@ the	_	_	O
 road	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -10041,14 +9965,12 @@ carried	_	_	I-Claim
 out	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 George	_	_	O
@@ -10213,8 +10135,7 @@ we	_	_	I-Claim
 will	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -10224,8 +10145,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -10365,8 +10285,7 @@ to	_	_	O
 do	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 When	_	_	B-Claim
 you	_	_	I-Claim
 look	_	_	I-Claim
@@ -10498,8 +10417,7 @@ States	_	_	O
 Laughter	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Some	_	_	B-Claim
 of	_	_	I-Claim
 Senator	_	_	I-Claim
@@ -10559,8 +10477,7 @@ world	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 -	_	_	O
 oh	_	_	O
@@ -10573,8 +10490,7 @@ go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 are	_	_	I-Claim
 the	_	_	I-Claim
@@ -10665,14 +10581,12 @@ will	_	_	I-Claim
 have	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -10954,8 +10868,7 @@ understand	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 Brokaw	_	_	O
 ,	_	_	O
@@ -10966,8 +10879,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -11038,8 +10950,7 @@ President	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 And	_	_	O
 if	_	_	O
 you	_	_	O
@@ -11096,8 +11007,7 @@ or	_	_	O
 so	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 try	_	_	O
@@ -11124,15 +11034,13 @@ this	_	_	O
 question	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 The	_	_	O
 third	_	_	O
 time	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Three	_	_	O
 times	_	_	O
 that	_	_	O
@@ -11481,14 +11389,12 @@ ever	_	_	I-Claim
 occur	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Premise
 ,	_	_	I-Premise
 I	_	_	I-Premise
@@ -11541,8 +11447,7 @@ in	_	_	O
 the	_	_	O
 -	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Please	_	_	O
 ,	_	_	O
 please	_	_	O
@@ -11561,8 +11466,7 @@ own	_	_	O
 candidate	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 That	_	_	O
 was	_	_	O
 really	_	_	O
@@ -11577,8 +11481,7 @@ and	_	_	O
 applause	_	_	O
 )	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 are	_	_	I-Claim
 the	_	_	I-Claim
@@ -11630,8 +11533,7 @@ well	_	_	I-Claim
 taken	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -11641,8 +11543,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Since	_	_	O
 you	_	_	O
 seem	_	_	O
@@ -11728,8 +11629,7 @@ due	_	_	O
 time	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Tom	_	_	B-Claim
 ,	_	_	I-Claim
 that	_	_	I-Claim
@@ -11993,14 +11893,12 @@ of	_	_	I-Claim
 hostages	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 's	_	_	I-Claim
 no	_	_	I-Claim
@@ -12126,8 +12024,7 @@ held	_	_	I-Claim
 illegally	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 Hume	_	_	O
 ,	_	_	O
@@ -12138,8 +12035,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 much	_	_	O
@@ -12266,8 +12162,7 @@ has	_	_	O
 now	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -12481,14 +12376,12 @@ that	_	_	I-Claim
 one	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 When	_	_	B-Claim
 you	_	_	I-Claim
 look	_	_	I-Claim
@@ -12654,8 +12547,7 @@ White	_	_	I-Claim
 House	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Brit	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -12665,8 +12557,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-HUME	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12778,8 +12669,7 @@ us	_	_	O
 why	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 In	_	_	O
 the	_	_	O
 last	_	_	O
@@ -13091,14 +12981,12 @@ that	_	_	I-Claim
 policy	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13380,13 +13268,11 @@ radical	_	_	I-Premise
 right	_	_	I-Premise
 .	_	_	I-Premise
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 My	_	_	O
 light	_	_	O
 was	_	_	O
@@ -13396,8 +13282,7 @@ on	_	_	O
 Judy	_	_	O
 .	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 Margolis	_	_	O
 ,	_	_	O
@@ -13408,8 +13293,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -13437,8 +13321,7 @@ just	_	_	O
 your	_	_	O
 -	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 John	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -13448,16 +13331,14 @@ hear	_	_	O
 you	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 hear	_	_	O
 now	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 can	_	_	O
 hear	_	_	O
@@ -13468,8 +13349,7 @@ Laughter	_	_	O
 .	_	_	O
 ]	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -13716,8 +13596,7 @@ Laughter	_	_	O
 .	_	_	O
 ]	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Nonetheless	_	_	O
 ,	_	_	O
 these	_	_	O
@@ -13803,21 +13682,18 @@ Partnership	_	_	O
 Act	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 All	_	_	O
 in	_	_	O
 two	_	_	O
 minutes	_	_	O
 ?	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 start	_	_	O
@@ -14050,8 +13926,7 @@ office	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Thousands	_	_	B-Premise
 of	_	_	I-Premise
 journalists	_	_	I-Premise
@@ -14179,14 +14054,12 @@ Vice	_	_	I-Claim
 Presidency	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 absolutely	_	_	I-Claim
@@ -14326,8 +14199,7 @@ it	_	_	I-Claim
 tonight	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 John	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -14337,8 +14209,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-MARGOLIS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -14444,8 +14315,7 @@ Fiscal	_	_	O
 Year	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 One	_	_	O
 of	_	_	O
 them	_	_	O
@@ -14899,13 +14769,11 @@ just	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 So	_	_	O
 ,	_	_	O
 those	_	_	O
@@ -14921,14 +14789,12 @@ work	_	_	O
 on	_	_	O
 .	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 way	_	_	I-Claim
 we	_	_	I-Claim
@@ -15124,8 +14990,7 @@ Executive	_	_	I-Claim
 Branch	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 Brokaw	_	_	O
 ,	_	_	O
@@ -15137,8 +15002,7 @@ Senator	_	_	O
 Bentsen	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -15257,8 +15121,7 @@ national	_	_	O
 ticket	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 Michael	_	_	B-Claim
 Dukakis	_	_	I-Claim
 was	_	_	I-Claim
@@ -15623,14 +15486,12 @@ our	_	_	I-Claim
 nation	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 One	_	_	O
 of	_	_	O
 the	_	_	O
@@ -15790,8 +15651,7 @@ important	_	_	I-Premise
 question	_	_	I-Premise
 .	_	_	I-Premise
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Tom	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -15802,8 +15662,7 @@ Senator	_	_	O
 Quayle	_	_	O
 .	_	_	O
 
-BROKAW	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Quayle	_	_	O
 ,	_	_	O
@@ -15851,8 +15710,7 @@ political	_	_	O
 philosophy	_	_	O
 ?	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 There	_	_	O
 are	_	_	O
 a	_	_	O
@@ -16034,8 +15892,7 @@ sense	_	_	O
 Laughter	_	_	O
 )	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 They	_	_	O
 sneer	_	_	O
 at	_	_	O
@@ -16108,14 +15965,12 @@ want	_	_	I-Claim
 to	_	_	I-Claim
 .	_	_	I-Claim
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ?	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 being	_	_	I-Claim
@@ -16384,8 +16239,7 @@ still	_	_	O
 on	_	_	O
 .	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Your	_	_	O
 light	_	_	O
 's	_	_	O
@@ -16393,14 +16247,12 @@ not	_	_	O
 working	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 sorry	_	_	O
@@ -16482,8 +16334,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-QUAYLE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -16796,8 +16647,7 @@ you	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-WOODRUFF	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Bentsen	_	_	O
 ,	_	_	O
@@ -16806,8 +16656,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-BENTSEN	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 just	_	_	I-Claim
 34	_	_	I-Claim

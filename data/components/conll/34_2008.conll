@@ -1,5 +1,4 @@
-IFILL	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -206,30 +205,24 @@ and	_	_	O
 Senator	_	_	O
 Biden	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 Nice	_	_	O
 to	_	_	O
 meet	_	_	O
 you	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 a	_	_	O
 pleasure	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Hey	_	_	O
 ,	_	_	O
 can	_	_	O
@@ -239,16 +232,14 @@ you	_	_	O
 Joe	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 (	_	_	O
 OFF	_	_	O
 -	_	_	O
 MIKE	_	_	O
 )	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -264,8 +255,7 @@ Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 Welcome	_	_	O
 to	_	_	O
 you	_	_	O
@@ -374,8 +364,7 @@ play	_	_	O
 out	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 begin	_	_	O
@@ -745,10 +734,7 @@ and	_	_	O
 corporate	_	_	O
 America	_	_	O
 .	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -758,8 +744,7 @@ Governor	_	_	O
 Palin	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -1115,10 +1100,7 @@ the	_	_	I-Premise
 country	_	_	I-Premise
 first	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 You	_	_	O
 both	_	_	O
 would	_	_	O
@@ -1162,10 +1144,7 @@ about	_	_	O
 here	_	_	O
 tonight	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -1285,10 +1264,7 @@ on	_	_	O
 the	_	_	O
 topic	_	_	O
 ?	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 You	_	_	O
 may	_	_	O
 ,	_	_	O
@@ -1297,8 +1273,7 @@ you	_	_	O
 like	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -1415,10 +1390,7 @@ two	_	_	I-Claim
 months	_	_	I-Claim
 ago	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Palin	_	_	O
 ,	_	_	O
@@ -1427,8 +1399,7 @@ may	_	_	O
 respond	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 John	_	_	O
 McCain	_	_	O
 ,	_	_	O
@@ -1731,10 +1702,7 @@ join	_	_	I-Claim
 him	_	_	I-Claim
 there	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 Senator	_	_	O
@@ -1768,10 +1736,7 @@ that	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 ...	_	_	O
 throughout	_	_	O
 the	_	_	O
@@ -1859,10 +1824,7 @@ doing	_	_	O
 about	_	_	O
 it	_	_	O
 ?	_	_	O
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 Darn	_	_	O
 right	_	_	O
 it	_	_	B-Claim
@@ -1952,10 +1914,7 @@ of	_	_	I-Claim
 that	_	_	I-Claim
 corruption	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 One	_	_	B-Claim
 thing	_	_	I-Claim
 that	_	_	I-Claim
@@ -2152,13 +2111,11 @@ advantage	_	_	I-Claim
 of	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Gwen	_	_	O
 ,	_	_	O
@@ -2474,10 +2431,7 @@ with	_	_	I-Claim
 Barack	_	_	I-Claim
 Obama	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 please	_	_	O
@@ -2500,8 +2454,7 @@ health	_	_	O
 care	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -2718,15 +2671,11 @@ harm	_	_	I-Claim
 our	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 charge	_	_	I-Claim
 is	_	_	I-Claim
@@ -2864,8 +2813,7 @@ much	_	_	I-Claim
 trouble	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 like	_	_	O
@@ -2882,8 +2830,7 @@ move	_	_	O
 on	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 still	_	_	O
@@ -3056,8 +3003,7 @@ finance	_	_	O
 reform	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 OK	_	_	O
 ,	_	_	O
 our	_	_	O
@@ -3177,8 +3123,7 @@ Senator	_	_	O
 Biden	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Gwen	_	_	O
 ,	_	_	O
@@ -3445,15 +3390,11 @@ under	_	_	I-Claim
 Ronald	_	_	I-Claim
 Reagan	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 take	_	_	I-Claim
@@ -3673,10 +3614,7 @@ grow	_	_	I-Claim
 our	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 are	_	_	O
@@ -3692,8 +3630,7 @@ care	_	_	O
 plan	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 am	_	_	I-Claim
 because	_	_	O
@@ -3911,8 +3848,7 @@ being	_	_	I-Claim
 offered	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -3921,8 +3857,7 @@ governor	_	_	O
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Gwen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4050,8 +3985,7 @@ small	_	_	I-Claim
 businesses	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 with	_	_	O
@@ -4281,10 +4215,7 @@ to	_	_	I-Claim
 Nowhere	_	_	I-Claim
 .	_	_	I-Claim
 "	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -4377,10 +4308,7 @@ able	_	_	O
 to	_	_	O
 keep	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -4696,15 +4624,11 @@ call	_	_	O
 that	_	_	O
 unpatriotic	_	_	O
 .	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 what	_	_	O
@@ -4714,13 +4638,11 @@ talking	_	_	O
 about	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -5093,10 +5015,7 @@ that	_	_	O
 's	_	_	O
 energy	_	_	O
 .	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 So	_	_	O
 ,	_	_	O
 Governor	_	_	O
@@ -5137,8 +5056,7 @@ we	_	_	O
 in	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 is	_	_	I-Claim
 not	_	_	I-Claim
@@ -5241,15 +5159,11 @@ keep	_	_	I-Claim
 ,	_	_	O
 either	_	_	O
 .	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Again	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -5530,10 +5444,7 @@ credit	_	_	O
 for	_	_	O
 it	_	_	O
 .	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Next	_	_	O
 question	_	_	O
 ,	_	_	O
@@ -5590,8 +5501,7 @@ you	_	_	O
 have	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -5838,10 +5748,7 @@ feel	_	_	I-Claim
 the	_	_	I-Claim
 effects	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Biden	_	_	O
 ,	_	_	O
@@ -5871,8 +5778,7 @@ the	_	_	O
 price	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 mortgage	_	_	B-Claim
@@ -6192,10 +6098,7 @@ and	_	_	I-Claim
 Governor	_	_	I-Claim
 Palin	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Palin	_	_	O
 ,	_	_	O
@@ -6204,8 +6107,7 @@ that	_	_	O
 so	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 is	_	_	I-Claim
 not	_	_	I-Claim
@@ -6351,10 +6253,7 @@ produce	_	_	I-Premise
 for	_	_	I-Premise
 us	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 're	_	_	I-Premise
 circulating	_	_	I-Premise
@@ -6498,10 +6397,7 @@ America	_	_	I-Claim
 's	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6552,8 +6448,7 @@ climate	_	_	O
 change	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Well	_	_	O
@@ -6878,10 +6773,7 @@ with	_	_	I-Premise
 climate	_	_	I-Premise
 change	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -6896,8 +6788,7 @@ the	_	_	O
 causes	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -7226,10 +7117,7 @@ in	_	_	I-Claim
 real	_	_	I-Claim
 trouble	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 clear	_	_	O
@@ -7268,8 +7156,7 @@ always	_	_	O
 supported	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 always	_	_	I-Claim
@@ -7282,8 +7169,7 @@ a	_	_	I-Claim
 fact	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 clear	_	_	O
@@ -7303,8 +7189,7 @@ Governor	_	_	O
 Palin	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 Senator	_	_	I-Claim
@@ -7569,10 +7454,7 @@ of	_	_	I-Premise
 your	_	_	I-Premise
 rallies	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 We	_	_	O
 do	_	_	O
 need	_	_	O
@@ -7599,8 +7481,7 @@ carbon	_	_	O
 emissions	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
@@ -7608,8 +7489,7 @@ I	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 And	_	_	O
@@ -7620,8 +7500,7 @@ coal	_	_	O
 issue	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 .	_	_	O
 Absolutely	_	_	O
@@ -7639,14 +7518,12 @@ number	_	_	O
 one	_	_	O
 ...	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 Clean	_	_	O
 coal	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -7654,15 +7531,13 @@ I	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 On	_	_	O
 clean	_	_	O
 coal	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -7834,10 +7709,7 @@ alternative	_	_	I-Premise
 energy	_	_	I-Premise
 sources	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 round	_	_	O
@@ -7877,8 +7749,7 @@ to	_	_	O
 couples	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 Do	_	_	O
@@ -8035,10 +7906,7 @@ heterosexual	_	_	I-Claim
 couples	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 would	_	_	O
@@ -8056,8 +7924,7 @@ the	_	_	O
 nation	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 not	_	_	B-Claim
@@ -8291,10 +8158,7 @@ definition	_	_	I-Claim
 of	_	_	I-Claim
 marriage	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 try	_	_	O
@@ -8311,8 +8175,7 @@ gay	_	_	I-Claim
 marriage	_	_	I-Claim
 ?	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 Barack	_	_	B-Claim
@@ -8427,10 +8290,7 @@ have	_	_	I-Claim
 a	_	_	I-Claim
 difference	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Is	_	_	O
 that	_	_	O
 what	_	_	O
@@ -8438,8 +8298,7 @@ your	_	_	O
 said	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Your	_	_	B-Claim
 question	_	_	I-Claim
 to	_	_	I-Claim
@@ -8467,8 +8326,7 @@ do	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 Wonderful	_	_	O
 .	_	_	O
 You	_	_	O
@@ -8488,10 +8346,7 @@ policy	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 You	_	_	O
 both	_	_	O
 have	_	_	O
@@ -8537,8 +8392,7 @@ be	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 am	_	_	I-Claim
 very	_	_	I-Claim
@@ -8637,10 +8491,7 @@ not	_	_	I-Premise
 do	_	_	I-Premise
 so	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 And	_	_	O
 Senator	_	_	O
 Biden	_	_	O
@@ -8844,15 +8695,11 @@ now	_	_	I-Claim
 in	_	_	I-Claim
 Iraq	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Gwen	_	_	O
 ,	_	_	O
 with	_	_	O
@@ -9129,15 +8976,11 @@ end	_	_	I-Claim
 this	_	_	I-Claim
 war	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Your	_	_	B-Claim
 plan	_	_	I-Claim
 is	_	_	I-Claim
@@ -9461,16 +9304,12 @@ is	_	_	I-Claim
 another	_	_	I-Claim
 story	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 John	_	_	B-Claim
 McCain	_	_	I-Claim
 voted	_	_	I-Claim
@@ -9713,10 +9552,7 @@ are	_	_	I-Claim
 the	_	_	I-Claim
 facts	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 move	_	_	O
@@ -9756,8 +9592,7 @@ Explain	_	_	O
 why	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 they	_	_	B-Claim
@@ -10068,10 +9903,7 @@ have	_	_	I-Claim
 actionable	_	_	I-Claim
 intelligence	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 nuclear	_	_	O
@@ -10090,8 +9922,7 @@ greater	_	_	O
 threat	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Both	_	_	B-Claim
 are	_	_	I-Claim
 extremely	_	_	I-Claim
@@ -10386,10 +10217,7 @@ being	_	_	I-Premise
 undertaken	_	_	I-Premise
 first	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 and	_	_	O
 senator	_	_	O
@@ -10437,8 +10265,7 @@ on	_	_	O
 that	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 and	_	_	I-Claim
@@ -10622,15 +10449,11 @@ would	_	_	I-Premise
 take	_	_	I-Premise
 place	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 clarify	_	_	O
@@ -10656,8 +10479,7 @@ with	_	_	I-Claim
 Ahmadinejad	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	O
 fact	_	_	O
 of	_	_	O
@@ -10955,10 +10777,7 @@ find	_	_	I-Claim
 that	_	_	I-Claim
 incredible	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -10971,13 +10790,11 @@ for	_	_	O
 Israel	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 What	_	_	O
 has	_	_	O
 this	_	_	O
@@ -11019,8 +10836,7 @@ the	_	_	O
 solution	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 A	_	_	B-Claim
 two	_	_	I-Claim
 -	_	_	I-Claim
@@ -11266,15 +11082,11 @@ friends	_	_	I-Claim
 in	_	_	I-Claim
 Israel	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Gwen	_	_	O
 ,	_	_	O
 no	_	_	B-Claim
@@ -11601,8 +11413,7 @@ this	_	_	I-Claim
 administration	_	_	I-Claim
 has	_	_	I-Claim
 .	_	_	I-Claim
-IFILL	_	_	O
-:	_	_	O
+
 Has	_	_	O
 this	_	_	O
 administration	_	_	O
@@ -11620,10 +11431,7 @@ says	_	_	O
 ,	_	_	O
 Governor	_	_	O
 ?	_	_	O
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -11896,10 +11704,7 @@ change	_	_	I-Claim
 is	_	_	I-Claim
 coming	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Just	_	_	O
 looking	_	_	O
 backwards	_	_	O
@@ -11907,8 +11712,7 @@ backwards	_	_	O
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 past	_	_	O
@@ -12075,10 +11879,7 @@ going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -12114,8 +11915,7 @@ into	_	_	O
 play	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Nuclear	_	_	B-Premise
 weaponry	_	_	I-Premise
 ,	_	_	I-Premise
@@ -12275,15 +12075,11 @@ also	_	_	O
 ,	_	_	O
 though	_	_	O
 ?	_	_	O
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Certainly	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 OK	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12466,10 +12262,7 @@ Afghanistan	_	_	I-Claim
 ,	_	_	I-Claim
 also	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -12490,8 +12283,7 @@ about	_	_	O
 Afghanistan	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 talk	_	_	O
@@ -12863,15 +12655,11 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	B-Claim
 ,	_	_	I-Claim
 first	_	_	I-Claim
@@ -12989,13 +12777,11 @@ but	_	_	I-Premise
 that	_	_	I-Premise
 .	_	_	I-Premise
 
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 our	_	_	B-Claim
@@ -13120,10 +12906,7 @@ Barack	_	_	I-Claim
 Obama	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -13187,8 +12970,7 @@ stomach	_	_	O
 for	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -13544,10 +13326,7 @@ stop	_	_	I-Claim
 this	_	_	I-Claim
 genocide	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -13556,8 +13335,7 @@ senator	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Oh	_	_	B-Claim
 ,	_	_	I-Claim
 yeah	_	_	I-Claim
@@ -13884,10 +13662,7 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 world	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Is	_	_	O
 there	_	_	O
 a	_	_	O
@@ -13905,8 +13680,7 @@ go	_	_	O
 in	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 There	_	_	B-Claim
@@ -13919,15 +13693,13 @@ be	_	_	I-Claim
 drawn	_	_	I-Claim
 .	_	_	I-Claim
 
-IFILL	_	_	O
-:	_	_	O
+
 What	_	_	O
 is	_	_	O
 it	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 line	_	_	I-Claim
 that	_	_	I-Claim
@@ -14185,15 +13957,11 @@ from	_	_	I-Claim
 the	_	_	I-Claim
 outset	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 beg	_	_	I-Claim
 to	_	_	I-Claim
@@ -14378,10 +14146,7 @@ win	_	_	I-Premise
 a	_	_	I-Premise
 war	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -14473,10 +14238,7 @@ were	_	_	O
 to	_	_	O
 happen	_	_	O
 .	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 God	_	_	O
 forbid	_	_	O
 that	_	_	O
@@ -14752,15 +14514,11 @@ he	_	_	I-Premise
 is	_	_	I-Premise
 suggesting	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 And	_	_	O
 heaven	_	_	O
 forbid	_	_	O
@@ -14954,10 +14712,7 @@ Washington	_	_	I-Claim
 ,	_	_	I-Claim
 DC	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-PALIN	_	_	O
-:	_	_	O
+
 So	_	_	B-Premise
 that	_	_	I-Premise
 people	_	_	I-Premise
@@ -15093,10 +14848,7 @@ hurt	_	_	O
 our	_	_	O
 economy	_	_	O
 .	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 respond	_	_	O
@@ -15308,15 +15060,11 @@ will	_	_	I-Claim
 change	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Say	_	_	B-Claim
 it	_	_	I-Claim
 ai	_	_	I-Claim
@@ -15668,10 +15416,7 @@ in	_	_	I-Claim
 that	_	_	I-Claim
 arena	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Everybody	_	_	O
 gets	_	_	O
 extra	_	_	O
@@ -15764,8 +15509,7 @@ worth	_	_	O
 now	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 In	_	_	O
 my	_	_	O
 comment	_	_	O
@@ -15810,8 +15554,7 @@ president	_	_	I-Claim
 does	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -15828,8 +15571,7 @@ they	_	_	O
 get	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -16019,13 +15761,11 @@ with	_	_	O
 you	_	_	O
 .	_	_	O
 
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Gwen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -16327,10 +16067,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 needs	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -16394,8 +16131,7 @@ Legislative	_	_	O
 Branch	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	B-Claim
 ,	_	_	I-Claim
 our	_	_	I-Claim
@@ -16564,10 +16300,7 @@ White	_	_	I-Premise
 House	_	_	I-Premise
 also	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Cheney	_	_	O
@@ -16579,8 +16312,7 @@ vice	_	_	O
 presidency	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Vice	_	_	B-Claim
 President	_	_	I-Claim
 Cheney	_	_	I-Claim
@@ -16782,10 +16514,7 @@ been	_	_	I-Premise
 very	_	_	I-Premise
 dangerous	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 talk	_	_	O
@@ -16862,8 +16591,7 @@ you	_	_	O
 governor	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 My	_	_	B-Claim
 experience	_	_	I-Claim
 as	_	_	I-Claim
@@ -17203,15 +16931,11 @@ a	_	_	I-Claim
 good	_	_	I-Claim
 ticket	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 're	_	_	I-Claim
 very	_	_	I-Claim
@@ -17228,8 +16952,7 @@ of	_	_	I-Claim
 discipline	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 Others	_	_	B-Claim
 talk	_	_	I-Claim
 about	_	_	I-Claim
@@ -17621,15 +17344,11 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 same	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 People	_	_	B-Claim
 are	_	_	I-Claim
 n't	_	_	I-Claim
@@ -17978,15 +17697,11 @@ of	_	_	I-Claim
 that	_	_	I-Claim
 reform	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 be	_	_	O
@@ -18283,10 +17998,7 @@ that	_	_	I-Claim
 kitchen	_	_	I-Claim
 table	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Final	_	_	O
 question	_	_	O
 tonight	_	_	O
@@ -18371,8 +18083,7 @@ changed	_	_	O
 circumstances	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -18632,15 +18343,11 @@ glad	_	_	I-Claim
 I	_	_	I-Claim
 did	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 There	_	_	O
 have	_	_	O
 been	_	_	O
@@ -18884,10 +18591,7 @@ the	_	_	I-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 come	_	_	O
@@ -18938,8 +18642,7 @@ number	_	_	O
 two	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 again	_	_	O
@@ -19211,15 +18914,11 @@ people	_	_	I-Claim
 's	_	_	I-Claim
 motives	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 do	_	_	I-Claim
 what	_	_	I-Claim
@@ -19470,10 +19169,7 @@ on	_	_	I-Claim
 November	_	_	I-Claim
 4th	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Palin	_	_	O
 ,	_	_	O
@@ -19489,8 +19185,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-PALIN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 again	_	_	O
@@ -19850,10 +19545,7 @@ Senator	_	_	I-Premise
 John	_	_	I-Premise
 McCain	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-IFILL	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -19863,8 +19555,7 @@ Senator	_	_	O
 Biden	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Gwen	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -20311,6 +20002,4 @@ protect	_	_	O
 our	_	_	O
 troops	_	_	O
 .	_	_	O
- 
-	_	_	O
 

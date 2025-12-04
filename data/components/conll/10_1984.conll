@@ -1,5 +1,4 @@
-RIDINGS	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -75,7 +74,6 @@ to	_	_	O
 face	_	_	O
 debate	_	_	O
 .	_	_	O
- 	_	_	O
 Our	_	_	O
 panelists	_	_	O
 are	_	_	O
@@ -137,13 +135,9 @@ is	_	_	O
 our	_	_	O
 moderator	_	_	O
 .	_	_	O
- 	_	_	O
 Barbara	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -248,7 +242,6 @@ debate	_	_	O
 goes	_	_	O
 on	_	_	O
 .	_	_	O
- 	_	_	O
 Further	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -277,7 +270,6 @@ Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
 ''	_	_	O
- 	_	_	O
 Since	_	_	O
 there	_	_	O
 will	_	_	O
@@ -400,7 +392,6 @@ program	_	_	O
 to	_	_	O
 speak	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 now	_	_	O
 I	_	_	O
@@ -468,7 +459,6 @@ in	_	_	O
 this	_	_	O
 debate	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 candidates	_	_	O
 were	_	_	O
@@ -524,7 +514,6 @@ situation	_	_	O
 has	_	_	O
 occurred	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 now	_	_	O
 let	_	_	O
@@ -540,22 +529,15 @@ from	_	_	O
 James	_	_	O
 Wieghart	_	_	O
 .	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Wieghart	_	_	O
 .	_	_	O
-  
-	_	_	O
-TOPIC	_	_	O
-:	_	_	O
+
 The	_	_	O
 Nation	_	_	O
 's	_	_	O
 Economy	_	_	O
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -629,8 +611,7 @@ us	_	_	O
 tonight	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
@@ -663,7 +644,6 @@ office	_	_	I-Premise
 in	_	_	I-Premise
 1981	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 It	_	_	O
 is	_	_	O
 true	_	_	O
@@ -781,7 +761,6 @@ no	_	_	I-Claim
 longer	_	_	I-Claim
 possible	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -835,7 +814,6 @@ on	_	_	I-Claim
 the	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Already	_	_	O
 ,	_	_	O
 we	_	_	B-Premise
@@ -899,7 +877,6 @@ raising	_	_	I-Premise
 tax	_	_	I-Premise
 rates	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Our	_	_	B-Claim
 tax	_	_	I-Claim
 cut	_	_	I-Claim
@@ -1001,7 +978,6 @@ count	_	_	I-Premise
 the	_	_	I-Premise
 military	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -1079,10 +1055,7 @@ a	_	_	I-Claim
 balanced	_	_	I-Claim
 budget	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1178,8 +1151,7 @@ relatively	_	_	O
 good	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 deficit	_	_	I-Claim
 is	_	_	I-Claim
@@ -1238,7 +1210,6 @@ has	_	_	O
 taken	_	_	O
 place	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -1356,7 +1327,6 @@ lines	_	_	I-Claim
 can	_	_	I-Claim
 meet	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Actually	_	_	O
 ,	_	_	O
 in	_	_	B-Premise
@@ -1387,10 +1357,7 @@ have	_	_	I-Claim
 been	_	_	I-Claim
 here	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -1506,10 +1473,7 @@ for	_	_	O
 economic	_	_	O
 growth	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 One	_	_	O
 of	_	_	O
 the	_	_	O
@@ -1669,7 +1633,6 @@ a	_	_	O
 healthy	_	_	O
 recovery	_	_	O
 .	_	_	O
- 	_	_	O
 Virtually	_	_	B-Premise
 every	_	_	I-Premise
 economic	_	_	I-Premise
@@ -1738,7 +1701,6 @@ even	_	_	I-Claim
 with	_	_	I-Claim
 growth	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	O
 that	_	_	O
 means	_	_	O
@@ -1883,7 +1845,6 @@ should	_	_	O
 be	_	_	O
 done	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 this	_	_	I-Claim
@@ -1903,10 +1864,7 @@ know	_	_	I-Claim
 the	_	_	I-Claim
 difference	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -1981,8 +1939,7 @@ the	_	_	O
 deficit	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 ,	_	_	O
 and	_	_	O
@@ -2125,10 +2082,7 @@ President	_	_	I-Claim
 's	_	_	I-Claim
 recommendations	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -2172,10 +2126,7 @@ minute	_	_	O
 for	_	_	O
 rebuttal	_	_	O
 .	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	B-Claim
@@ -2378,16 +2329,12 @@ now	_	_	I-Claim
 getting	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Premise
@@ -2516,10 +2463,7 @@ the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -2543,13 +2487,9 @@ Sawyer	_	_	O
 Ms.	_	_	O
 Sawyer	_	_	O
 ?	_	_	O
-  	_	_	O
 Leadership	_	_	O
 Qualities	_	_	O
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2726,10 +2666,7 @@ he	_	_	O
 does	_	_	O
 not	_	_	O
 .	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -2872,7 +2809,6 @@ must	_	_	I-Claim
 confront	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	B-Premise
 I	_	_	I-Premise
 was	_	_	I-Premise
@@ -2993,7 +2929,6 @@ the	_	_	I-Premise
 terrorists	_	_	I-Premise
 themselves	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -3119,10 +3054,7 @@ in	_	_	I-Premise
 that	_	_	I-Premise
 decision	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 said	_	_	O
@@ -3178,8 +3110,7 @@ get	_	_	O
 through	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -3338,8 +3269,7 @@ safer	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
 
-SAWYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -3394,8 +3324,7 @@ does	_	_	O
 not	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 whether	_	_	O
@@ -3555,7 +3484,6 @@ an	_	_	I-Claim
 orderly	_	_	I-Claim
 society	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 having	_	_	O
@@ -3673,7 +3601,6 @@ for	_	_	I-Claim
 that	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 also	_	_	I-Claim
@@ -3787,7 +3714,6 @@ on	_	_	I-Claim
 every	_	_	I-Claim
 issue	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 with	_	_	O
@@ -3872,10 +3798,7 @@ helped	_	_	I-Premise
 reduce	_	_	I-Premise
 unemployment	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 As	_	_	O
 a	_	_	O
 followup	_	_	O
@@ -3968,8 +3891,7 @@ with	_	_	O
 them	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Our	_	_	B-Claim
 policy	_	_	I-Claim
 was	_	_	I-Claim
@@ -4150,10 +4072,7 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -4165,8 +4084,7 @@ to	_	_	O
 rebut	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4389,16 +4307,12 @@ can	_	_	O
 draw	_	_	O
 conclusions	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4594,7 +4508,6 @@ out	_	_	I-Claim
 a	_	_	I-Claim
 solution	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 so	_	_	O
 ,	_	_	O
@@ -4635,10 +4548,7 @@ the	_	_	I-Premise
 next	_	_	I-Premise
 century	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4651,12 +4561,8 @@ with	_	_	O
 Fred	_	_	O
 Barnes	_	_	O
 .	_	_	O
- 	_	_	O
 Religion	_	_	O
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4690,8 +4596,7 @@ Presidential	_	_	O
 decisions	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4908,7 +4813,6 @@ a	_	_	I-Claim
 good	_	_	I-Claim
 Christian	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 it	_	_	B-Claim
@@ -4960,10 +4864,7 @@ prayers	_	_	I-Claim
 are	_	_	I-Claim
 answered	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 Given	_	_	O
 those	_	_	O
 beliefs	_	_	O
@@ -5015,8 +4916,7 @@ to	_	_	O
 do	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	O
 answer	_	_	O
 to	_	_	O
@@ -5220,10 +5120,7 @@ understands	_	_	I-Claim
 [	_	_	O
 Applause	_	_	O
 ]	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 May	_	_	O
 I	_	_	O
 ask	_	_	O
@@ -5252,10 +5149,7 @@ your	_	_	O
 second	_	_	O
 question	_	_	O
 .	_	_	O
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -5290,8 +5184,7 @@ as	_	_	O
 President	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -5406,7 +5299,6 @@ do	_	_	O
 n't	_	_	O
 know	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	B-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
@@ -5462,7 +5354,6 @@ together	_	_	I-Claim
 on	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	O
 bothers	_	_	O
 me	_	_	O
@@ -5515,7 +5406,6 @@ that	_	_	I-Claim
 a	_	_	I-Claim
 mistake	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	B-Premise
 the	_	_	I-Premise
 Republican	_	_	I-Premise
@@ -5577,7 +5467,6 @@ in	_	_	I-Claim
 our	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 This	_	_	B-Claim
 nation	_	_	I-Claim
 is	_	_	I-Claim
@@ -5668,10 +5557,7 @@ never	_	_	I-Claim
 cross	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -5689,8 +5575,7 @@ rebuttal	_	_	O
 now	_	_	O
 .	_	_	O
 
-BARNES	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 I	_	_	O
@@ -5699,8 +5584,7 @@ a	_	_	O
 followup	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5716,16 +5600,14 @@ sorry	_	_	O
 --	_	_	O
 --	_	_	O
 
-BARNES	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
 do	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 --	_	_	O
 --	_	_	O
 I	_	_	O
@@ -5735,8 +5617,7 @@ waived	_	_	O
 it	_	_	O
 .	_	_	O
 
-BARNES	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -5822,8 +5703,7 @@ object	_	_	O
 to	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 No	_	_	O
 .	_	_	O
 What	_	_	O
@@ -5972,10 +5852,7 @@ draw	_	_	I-Claim
 the	_	_	I-Claim
 line	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -5987,8 +5864,7 @@ President	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -6243,10 +6119,7 @@ in	_	_	I-Claim
 selecting	_	_	I-Claim
 her	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -6256,8 +6129,7 @@ rebuttal	_	_	O
 please	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 The	_	_	O
 platform	_	_	O
 to	_	_	O
@@ -6402,7 +6274,6 @@ those	_	_	O
 disputes	_	_	O
 occur	_	_	O
 ?	_	_	O
- 	_	_	O
 It	_	_	B-Claim
 seems	_	_	I-Claim
 to	_	_	I-Claim
@@ -6446,10 +6317,7 @@ n't	_	_	O
 want	_	_	O
 that	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -6480,16 +6348,11 @@ with	_	_	O
 Jim	_	_	O
 Wieghart	_	_	O
 .	_	_	O
- 	_	_	O
 Jim	_	_	O
 ?	_	_	O
-  	_	_	O
 Political	_	_	O
 Issues	_	_	O
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 After	_	_	O
 that	_	_	O
 discussion	_	_	O
@@ -6592,7 +6455,6 @@ to	_	_	O
 be	_	_	O
 narrowing	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -6650,10 +6512,7 @@ as	_	_	O
 a	_	_	O
 Democrat	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 My	_	_	O
 answer	_	_	O
 is	_	_	O
@@ -6741,7 +6600,6 @@ a	_	_	I-Claim
 safer	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 American	_	_	B-Premise
 people	_	_	I-Premise
@@ -6831,7 +6689,6 @@ to	_	_	I-Premise
 our	_	_	I-Premise
 children	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
@@ -6894,7 +6751,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 environment	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
@@ -6939,7 +6795,6 @@ Europe	_	_	I-Claim
 and	_	_	I-Claim
 Japan	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
@@ -7005,7 +6860,6 @@ at	_	_	I-Premise
 the	_	_	I-Premise
 Olympics	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 as	_	_	I-Claim
@@ -7024,10 +6878,7 @@ to	_	_	I-Claim
 our	_	_	I-Claim
 cause	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -7056,8 +6907,7 @@ rejecting	_	_	O
 it	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 tonight	_	_	O
@@ -7200,10 +7050,7 @@ to	_	_	I-Claim
 further	_	_	I-Claim
 strength	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -7259,8 +7106,7 @@ some	_	_	O
 specificity	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 again	_	_	O
@@ -7501,7 +7347,6 @@ away	_	_	I-Claim
 from	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 said	_	_	I-Claim
 that	_	_	I-Claim
@@ -7582,7 +7427,6 @@ have	_	_	I-Claim
 done	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 All	_	_	B-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
@@ -7626,7 +7470,6 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 see	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 they	_	_	I-Claim
@@ -7737,7 +7580,6 @@ some	_	_	I-Claim
 20	_	_	I-Claim
 years	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -7766,10 +7608,7 @@ want	_	_	I-Claim
 to	_	_	I-Claim
 go	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -7890,8 +7729,7 @@ might	_	_	O
 like	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 are	_	_	I-Claim
 tasks	_	_	I-Claim
@@ -8130,10 +7968,7 @@ I	_	_	O
 got	_	_	O
 more	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8165,8 +8000,7 @@ for	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 The	_	_	O
 President	_	_	O
 says	_	_	O
@@ -8362,16 +8196,12 @@ should	_	_	I-Claim
 not	_	_	I-Claim
 be	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Before	_	_	B-Premise
 I	_	_	I-Premise
 campaigned	_	_	I-Premise
@@ -8572,10 +8402,7 @@ the	_	_	I-Premise
 farmers	_	_	I-Premise
 have	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -8597,12 +8424,8 @@ questions	_	_	O
 .	_	_	O
 Diane	_	_	O
 ?	_	_	O
-  	_	_	O
 Abortion	_	_	O
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -8737,10 +8560,7 @@ appoint	_	_	O
 be	_	_	O
 prolife	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 believed	_	_	I-Claim
@@ -8987,7 +8807,6 @@ people	_	_	I-Claim
 going	_	_	I-Claim
 around	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Also	_	_	O
 ,	_	_	O
 there	_	_	O
@@ -9139,7 +8958,6 @@ unborn	_	_	I-Premise
 child	_	_	I-Premise
 .	_	_	I-Premise
 ''	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 this	_	_	B-Claim
@@ -9180,10 +8998,7 @@ living	_	_	I-Claim
 human	_	_	I-Claim
 being	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 A	_	_	O
 two	_	_	O
 -	_	_	O
@@ -9276,8 +9091,7 @@ be	_	_	O
 prosecuted	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	O
 laws	_	_	O
 regarding	_	_	O
@@ -9387,7 +9201,6 @@ some	_	_	I-Claim
 churches	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 it	_	_	B-Claim
@@ -9479,10 +9292,7 @@ of	_	_	I-Claim
 her	_	_	I-Claim
 own	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -9567,8 +9377,7 @@ unborn	_	_	O
 child	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 one	_	_	O
@@ -9737,7 +9546,6 @@ used	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 these	_	_	I-Claim
@@ -9784,7 +9592,6 @@ can	_	_	I-Claim
 not	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -9881,7 +9688,6 @@ the	_	_	I-Claim
 wrong	_	_	I-Claim
 direction	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 In	_	_	B-Premise
 America	_	_	I-Premise
 ,	_	_	I-Premise
@@ -9941,7 +9747,6 @@ people	_	_	I-Claim
 on	_	_	I-Claim
 Earth	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 One	_	_	O
 final	_	_	O
 point	_	_	O
@@ -9972,10 +9777,7 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 Union	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 But	_	_	O
 if	_	_	O
 I	_	_	O
@@ -10078,8 +9880,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 The	_	_	O
 basic	_	_	O
 decision	_	_	O
@@ -10209,8 +10010,7 @@ work	_	_	I-Claim
 Applause	_	_	O
 ]	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -10280,7 +10080,6 @@ people	_	_	O
 to	_	_	O
 refrain	_	_	O
 .	_	_	O
- 	_	_	O
 We	_	_	O
 have	_	_	O
 our	_	_	O
@@ -10292,10 +10091,7 @@ rebuttal	_	_	O
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Well	_	_	O
@@ -10390,7 +10186,6 @@ make	_	_	I-Claim
 that	_	_	I-Claim
 determination	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -10535,16 +10330,12 @@ any	_	_	I-Claim
 other	_	_	I-Claim
 way	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	I-Claim
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 agree	_	_	I-Claim
 with	_	_	I-Claim
@@ -10716,10 +10507,7 @@ policies	_	_	I-Claim
 as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sitting	_	_	O
@@ -10855,7 +10643,6 @@ as	_	_	O
 part	_	_	O
 two	_	_	O
 .	_	_	O
- 	_	_	O
 Having	_	_	O
 said	_	_	O
 that	_	_	O
@@ -10866,13 +10653,9 @@ it	_	_	O
 's	_	_	O
 yours	_	_	O
 .	_	_	O
-  	_	_	O
 Federal	_	_	O
 Taxation	_	_	O
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -10941,8 +10724,7 @@ Federal	_	_	O
 Government	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 my	_	_	I-Claim
 opinion	_	_	I-Claim
@@ -11083,7 +10865,6 @@ a	_	_	I-Claim
 flat	_	_	I-Claim
 tax	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	O
 does	_	_	O
 this	_	_	O
@@ -11188,7 +10969,6 @@ him	_	_	I-Premise
 to	_	_	I-Premise
 work	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 we	_	_	I-Claim
@@ -11231,10 +11011,7 @@ a	_	_	I-Claim
 tax	_	_	I-Claim
 increase	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 It	_	_	O
 sounds	_	_	O
 as	_	_	O
@@ -11332,8 +11109,7 @@ the	_	_	O
 recovery	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 The	_	_	O
 first	_	_	O
 thing	_	_	O
@@ -11417,7 +11193,6 @@ Americans	_	_	I-Claim
 largely	_	_	I-Claim
 untouched	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Up	_	_	B-Premise
 until	_	_	I-Premise
 about	_	_	I-Premise
@@ -11490,10 +11265,7 @@ that	_	_	I-Claim
 as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -11517,8 +11289,7 @@ or	_	_	O
 undertaxed	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -11724,7 +11495,6 @@ the	_	_	O
 tax	_	_	O
 cut	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -11888,7 +11658,6 @@ amount	_	_	O
 of	_	_	O
 money	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -12015,10 +11784,7 @@ across	_	_	I-Claim
 the	_	_	I-Claim
 board	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BARNES	_	_	O
-:	_	_	O
+
 I	_	_	O
 thought	_	_	O
 I	_	_	O
@@ -12112,8 +11878,7 @@ as	_	_	O
 President	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12248,7 +12013,6 @@ for	_	_	I-Claim
 a	_	_	I-Claim
 tax	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 With	_	_	B-Premise
 regard	_	_	I-Premise
 to	_	_	I-Premise
@@ -12344,10 +12108,7 @@ thing	_	_	I-Premise
 with	_	_	I-Premise
 him	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -12363,8 +12124,7 @@ for	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -12443,15 +12203,11 @@ again	_	_	O
 ''	_	_	O
 right	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 You	_	_	O
 remember	_	_	O
 the	_	_	O
@@ -12462,15 +12218,13 @@ said	_	_	O
 that	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Mm	_	_	O
 -	_	_	O
 hmm	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 You	_	_	O
 said	_	_	O
 it	_	_	O
@@ -12620,8 +12374,7 @@ that	_	_	O
 --	_	_	O
 --	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -12634,19 +12387,16 @@ is	_	_	O
 up	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 With	_	_	B-Premise
@@ -12758,16 +12508,14 @@ up	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
 
-WALTERS	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 Fine	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 gave	_	_	O
 you	_	_	O
@@ -12781,8 +12529,7 @@ time	_	_	O
 Laughter	_	_	O
 ]	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 We	_	_	O
 ca	_	_	O
 n't	_	_	O
@@ -12842,14 +12589,10 @@ with	_	_	O
 Jim	_	_	O
 Wieghart	_	_	O
 .	_	_	O
-  	_	_	O
 Social	_	_	O
 Welfare	_	_	O
 Programs	_	_	O
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -12973,7 +12716,6 @@ under	_	_	O
 your	_	_	O
 policies	_	_	O
 .	_	_	O
- 	_	_	O
 What	_	_	O
 relief	_	_	O
 can	_	_	O
@@ -13019,10 +12761,7 @@ your	_	_	O
 next	_	_	O
 term	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 some	_	_	O
@@ -13156,7 +12895,6 @@ of	_	_	I-Claim
 many	_	_	I-Claim
 programs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Claim
 are	_	_	I-Claim
 spending	_	_	I-Claim
@@ -13289,7 +13027,6 @@ the	_	_	I-Claim
 truly	_	_	I-Claim
 needy	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Some	_	_	O
 time	_	_	O
 ago	_	_	O
@@ -13408,7 +13145,6 @@ were	_	_	I-Premise
 so	_	_	I-Premise
 low	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 there	_	_	O
@@ -13490,10 +13226,7 @@ than	_	_	O
 13	_	_	O
 million	_	_	O
 .	_	_	O
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13528,13 +13261,11 @@ was	_	_	O
 uneven	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-WIEGHART	_	_	O
-:	_	_	O
+
 In	_	_	O
 that	_	_	O
 particular	_	_	O
@@ -13626,8 +13357,7 @@ their	_	_	O
 wherewithal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 had	_	_	O
 nothing	_	_	O
@@ -13788,7 +13518,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 recession	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 're	_	_	I-Claim
 not	_	_	I-Claim
@@ -13824,10 +13553,7 @@ across	_	_	I-Claim
 the	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -13931,8 +13657,7 @@ uneven	_	_	O
 recovery	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Number	_	_	O
 one	_	_	O
 ,	_	_	O
@@ -14042,7 +13767,6 @@ to	_	_	I-Claim
 get	_	_	I-Claim
 jobs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 next	_	_	O
 thing	_	_	O
@@ -14101,7 +13825,6 @@ get	_	_	I-Claim
 economic	_	_	I-Claim
 growth	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 There	_	_	B-Premise
 is	_	_	I-Premise
 no	_	_	I-Premise
@@ -14245,7 +13968,6 @@ they	_	_	B-Claim
 're	_	_	I-Claim
 hurting	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 One	_	_	O
 final	_	_	O
 point	_	_	O
@@ -14318,10 +14040,7 @@ the	_	_	I-Claim
 deficit	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WIEGHART	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -14360,8 +14079,7 @@ they	_	_	O
 are	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -14507,8 +14225,7 @@ that	_	_	I-Claim
 too	_	_	I-Claim
 .	_	_	I-Claim
 
-WALTERS	_	_	O
-:	_	_	O
+
 And	_	_	O
 now	_	_	O
 it	_	_	O
@@ -14525,8 +14242,7 @@ Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 The	_	_	B-Premise
@@ -14751,7 +14467,6 @@ it	_	_	I-Claim
 does	_	_	I-Claim
 n't	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 I	_	_	O
 have	_	_	O
@@ -14766,10 +14481,7 @@ to	_	_	O
 the	_	_	O
 disabled	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -14777,8 +14489,7 @@ Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -15007,10 +14718,7 @@ housing	_	_	I-Claim
 failure	_	_	I-Claim
 --	_	_	O
 --	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -15032,7 +14740,6 @@ credit	_	_	O
 for	_	_	O
 that	_	_	O
 .	_	_	O
- 	_	_	O
 We	_	_	O
 now	_	_	O
 start	_	_	O
@@ -15052,7 +14759,6 @@ for	_	_	O
 your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
- 	_	_	O
 We	_	_	O
 start	_	_	O
 with	_	_	O
@@ -15061,13 +14767,9 @@ Diane	_	_	O
 Diane	_	_	O
 Sawyer	_	_	O
 .	_	_	O
-  	_	_	O
 Presidential	_	_	O
 Campaign	_	_	O
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 Since	_	_	O
 we	_	_	O
 are	_	_	O
@@ -15143,10 +14845,7 @@ tonight	_	_	O
 [	_	_	O
 Laughter	_	_	O
 ]	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 want	_	_	O
@@ -15312,7 +15011,6 @@ science	_	_	I-Claim
 and	_	_	I-Claim
 training	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	O
 like	_	_	O
 President	_	_	O
@@ -15341,10 +15039,7 @@ of	_	_	O
 my	_	_	O
 campaign	_	_	O
 .	_	_	O
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 Follow	_	_	O
 up	_	_	O
 in	_	_	O
@@ -15370,8 +15065,7 @@ to	_	_	O
 answer	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Without	_	_	O
 any	_	_	O
 doubt	_	_	O
@@ -15513,7 +15207,6 @@ they	_	_	O
 've	_	_	O
 estimated	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 give	_	_	O
 us	_	_	O
@@ -15607,10 +15300,7 @@ be	_	_	O
 in	_	_	O
 charge	_	_	O
 .	_	_	O
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -15628,8 +15318,7 @@ debate	_	_	O
 tonight	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 now	_	_	O
@@ -15710,7 +15399,6 @@ dependent	_	_	I-Claim
 on	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 why	_	_	O
 I	_	_	B-Claim
@@ -15816,7 +15504,6 @@ of	_	_	I-Claim
 political	_	_	I-Claim
 dialog	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 to	_	_	O
@@ -15831,34 +15518,28 @@ a	_	_	O
 minute	_	_	O
 here	_	_	O
 ?	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 more	_	_	O
 time	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
 --	_	_	O
 --	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 You	_	_	O
 can	_	_	O
 keep	_	_	O
 going	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 All	_	_	O
@@ -15977,7 +15658,6 @@ lowering	_	_	I-Claim
 the	_	_	I-Claim
 deficit	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 again	_	_	O
@@ -16053,7 +15733,6 @@ that	_	_	I-Claim
 same	_	_	I-Claim
 line	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 As	_	_	B-Claim
 to	_	_	I-Claim
 what	_	_	I-Claim
@@ -16135,10 +15814,7 @@ efficient	_	_	I-Claim
 more	_	_	I-Claim
 economic	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-SAWYER	_	_	O
-:	_	_	O
+
 And	_	_	O
 to	_	_	O
 keep	_	_	O
@@ -16161,8 +15837,7 @@ to	_	_	O
 answer	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Why	_	_	O
 the	_	_	O
 deficits	_	_	O
@@ -16309,10 +15984,7 @@ another	_	_	O
 4	_	_	O
 years	_	_	O
 .	_	_	O
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -16336,8 +16008,7 @@ whatever	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -16513,7 +16184,6 @@ the	_	_	I-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Claim
 've	_	_	I-Claim
 got	_	_	I-Claim
@@ -16551,10 +16221,7 @@ make	_	_	I-Claim
 a	_	_	I-Claim
 judgment	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -16636,10 +16303,7 @@ Is	_	_	O
 that	_	_	O
 correct	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -16652,8 +16316,7 @@ with	_	_	O
 --	_	_	O
 --	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 want	_	_	O
@@ -16664,8 +16327,7 @@ your	_	_	O
 --	_	_	O
 --	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -16679,8 +16341,7 @@ confused	_	_	O
 now	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Technically	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -16723,14 +16384,12 @@ from	_	_	O
 here	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 waived	_	_	O
@@ -16745,13 +16404,9 @@ your	_	_	O
 closing	_	_	O
 statement	_	_	O
 .	_	_	O
- 	_	_	O
 Closing	_	_	O
 Statements	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -16762,13 +16417,11 @@ in	_	_	O
 that	_	_	O
 .	_	_	O
 
-WALTERS	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Four	_	_	O
 years	_	_	O
 ago	_	_	O
@@ -16916,7 +16569,6 @@ were	_	_	I-Claim
 years	_	_	I-Claim
 ago	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Claim
 question	_	_	I-Claim
 ,	_	_	I-Claim
@@ -16986,7 +16638,6 @@ for	_	_	O
 this	_	_	O
 job	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 we	_	_	O
 now	_	_	O
@@ -17061,7 +16712,6 @@ plus	_	_	I-Premise
 4	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Personal	_	_	B-Premise
 earnings	_	_	I-Premise
 after	_	_	I-Premise
@@ -17128,7 +16778,6 @@ the	_	_	I-Premise
 poverty	_	_	I-Premise
 line	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 have	_	_	I-Claim
 restored	_	_	I-Claim
@@ -17223,7 +16872,6 @@ country	_	_	I-Claim
 more	_	_	I-Claim
 secure	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 we	_	_	I-Claim
@@ -17296,7 +16944,6 @@ have	_	_	I-Claim
 at	_	_	I-Claim
 present	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Claim
 have	_	_	I-Claim
 --	_	_	I-Claim
@@ -17414,7 +17061,6 @@ who	_	_	I-Claim
 found	_	_	I-Claim
 those	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -17477,10 +17123,7 @@ over	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 ''	_	_	I-Claim
- 
-	_	_	O
-WALTERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -17497,10 +17140,7 @@ are	_	_	O
 now	_	_	O
 yours	_	_	O
 .	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -17606,7 +17246,6 @@ economists	_	_	I-Claim
 tell	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 is	_	_	O
 that	_	_	O
@@ -17682,7 +17321,6 @@ need	_	_	I-Claim
 new	_	_	I-Claim
 leadership	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Are	_	_	O
 we	_	_	O
 better	_	_	O
@@ -17795,7 +17433,6 @@ decency	_	_	O
 and	_	_	O
 fairness	_	_	O
 ?	_	_	O
- 	_	_	O
 I	_	_	B-Claim
 would	_	_	I-Claim
 rather	_	_	I-Claim
@@ -17905,7 +17542,6 @@ is	_	_	I-Claim
 all	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 America	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -17950,7 +17586,6 @@ our	_	_	I-Claim
 tax	_	_	I-Claim
 system	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -18021,7 +17656,6 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 our	_	_	I-Claim
@@ -18068,7 +17702,6 @@ all	_	_	I-Premise
 the	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 in	_	_	I-Claim
@@ -18117,7 +17750,6 @@ is	_	_	I-Claim
 quite	_	_	I-Claim
 different	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Claim
 question	_	_	I-Claim
 is	_	_	I-Claim
@@ -18178,10 +17810,7 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 children	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
- 
-	_	_	O
 

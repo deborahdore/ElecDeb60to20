@@ -1,5 +1,4 @@
-WALLACE	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -51,8 +50,7 @@ J.	_	_	O
 Trump	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 This	_	_	O
 debate	_	_	O
 is	_	_	O
@@ -106,8 +104,7 @@ those	_	_	O
 rules	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 No	_	_	O
 noise	_	_	O
 ,	_	_	O
@@ -138,8 +135,7 @@ Mr.	_	_	O
 Trump	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Which	_	_	O
 means	_	_	O
 that	_	_	O
@@ -165,8 +161,7 @@ quarter	_	_	O
 century	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -271,8 +266,7 @@ of	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -280,8 +274,7 @@ thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -312,8 +305,7 @@ be	_	_	O
 interpreted	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -366,8 +358,7 @@ right	_	_	I-Premise
 justices	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -375,8 +366,7 @@ thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 We	_	_	O
 now	_	_	O
 have	_	_	O
@@ -433,8 +423,7 @@ is	_	_	O
 guns	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -483,8 +472,7 @@ our	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 bring	_	_	O
@@ -570,8 +558,7 @@ to	_	_	O
 bear	_	_	O
 arms	_	_	O
 ?	_	_	O
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -656,8 +643,7 @@ to	_	_	I-Claim
 say	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -673,8 +659,7 @@ extremely	_	_	O
 upset	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -811,8 +796,7 @@ every	_	_	I-Claim
 year	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 bring	_	_	O
@@ -856,8 +840,7 @@ Why	_	_	O
 sir	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -917,8 +900,7 @@ gun	_	_	I-Claim
 violence	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -958,13 +940,11 @@ of	_	_	O
 abortion	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Right	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -1018,8 +998,7 @@ to	_	_	O
 abortion	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 if	_	_	B-Claim
@@ -1058,8 +1037,7 @@ individual	_	_	I-Claim
 states	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 'm	_	_	O
@@ -1073,8 +1051,7 @@ like	_	_	O
 to	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 If	_	_	B-Claim
 they	_	_	I-Claim
 overturned	_	_	I-Claim
@@ -1089,8 +1066,7 @@ the	_	_	I-Claim
 states	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 what	_	_	O
 I	_	_	O
@@ -1138,8 +1114,7 @@ v.	_	_	O
 Wade	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 if	_	_	B-Claim
@@ -1211,14 +1186,12 @@ a	_	_	I-Claim
 determination	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -1285,14 +1258,12 @@ in	_	_	I-Premise
 America	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
@@ -1346,8 +1317,7 @@ of	_	_	I-Claim
 thinking	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 going	_	_	O
@@ -1416,8 +1386,7 @@ abortions	_	_	O
 Why	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Because	_	_	O
 Roe	_	_	O
 v.	_	_	O
@@ -1468,8 +1437,7 @@ the	_	_	I-Premise
 case	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -1492,8 +1460,7 @@ birth	_	_	O
 abortions	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -1542,8 +1509,7 @@ the	_	_	I-Claim
 baby	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -1719,8 +1685,7 @@ that	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -1738,8 +1703,7 @@ another	_	_	O
 segment	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 ,	_	_	O
 honestly	_	_	O
@@ -1776,8 +1740,7 @@ has	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -1826,8 +1789,7 @@ of	_	_	O
 you	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -1869,8 +1831,7 @@ strong	_	_	I-Claim
 borders	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -1898,8 +1859,7 @@ is	_	_	O
 wrong	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -2028,8 +1988,7 @@ deport	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2043,8 +2002,7 @@ follow	_	_	O
 up	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Chris	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2053,13 +2011,11 @@ it	_	_	O
 's	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 I	_	_	O
@@ -2133,8 +2089,7 @@ a	_	_	I-Claim
 disaster	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -2150,8 +2105,7 @@ let	_	_	O
 me	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 are	_	_	I-Claim
 a	_	_	I-Claim
@@ -2169,8 +2123,7 @@ the	_	_	O
 way	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 wait	_	_	O
@@ -2183,8 +2136,7 @@ hear	_	_	O
 from	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 --	_	_	O
 well	_	_	O
@@ -2196,8 +2148,7 @@ one	_	_	O
 thing	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -2214,8 +2165,7 @@ Secretary	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 voted	_	_	I-Claim
 for	_	_	I-Claim
@@ -2227,15 +2177,13 @@ there	_	_	O
 are	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 wall	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 There	_	_	B-Premise
 are	_	_	I-Premise
 some	_	_	I-Premise
@@ -2312,14 +2260,12 @@ deported	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 President	_	_	B-Claim
 Obama	_	_	I-Claim
 has	_	_	I-Claim
@@ -2383,15 +2329,13 @@ big	_	_	I-Premise
 league	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 But	_	_	O
 what	_	_	O
 she	_	_	B-Claim
@@ -2416,8 +2360,7 @@ it	_	_	I-Claim
 is	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -2426,8 +2369,7 @@ want	_	_	O
 to	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 will	_	_	I-Claim
 not	_	_	I-Claim
@@ -2439,8 +2381,7 @@ That	_	_	O
 is	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -2449,8 +2390,7 @@ me	_	_	O
 Secretary	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 That	_	_	B-Premise
 is	_	_	I-Premise
 a	_	_	I-Premise
@@ -2458,14 +2398,12 @@ rank	_	_	I-Premise
 mischaracterization	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 will	_	_	I-Claim
 have	_	_	I-Claim
@@ -2496,8 +2434,7 @@ last	_	_	I-Claim
 president	_	_	I-Claim
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -2508,8 +2445,7 @@ Secretary	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 to	_	_	I-Claim
 sign	_	_	I-Claim
@@ -2527,8 +2463,7 @@ as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -2603,14 +2538,12 @@ the	_	_	O
 question	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 the	_	_	O
@@ -2629,8 +2562,7 @@ dream	_	_	O
 open	_	_	O
 borders	_	_	O
 ?	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 if	_	_	B-Premise
@@ -2702,8 +2634,7 @@ to	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 So	_	_	O
 I	_	_	B-Claim
 actually	_	_	I-Claim
@@ -2792,13 +2723,11 @@ elections	_	_	I-Premise
 before	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -2824,8 +2753,7 @@ to	_	_	O
 Putin	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 --	_	_	O
@@ -2872,8 +2800,7 @@ American	_	_	O
 people	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 So	_	_	B-Premise
 just	_	_	I-Premise
 to	_	_	I-Premise
@@ -2883,13 +2810,11 @@ the	_	_	I-Premise
 borders	_	_	I-Premise
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 She	_	_	B-Claim
 wants	_	_	I-Claim
 open	_	_	I-Claim
@@ -3011,15 +2936,13 @@ Look	_	_	O
 Putin	_	_	B-Claim
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 ,	_	_	O
 but	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 from	_	_	O
 everything	_	_	O
@@ -3034,8 +2957,7 @@ this	_	_	I-Claim
 person	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	O
@@ -3055,8 +2977,7 @@ United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 puppet	_	_	I-Claim
 .	_	_	I-Claim
@@ -3064,8 +2985,7 @@ No	_	_	B-Claim
 puppet	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 it	_	_	B-Claim
 's	_	_	I-Claim
@@ -3073,16 +2993,14 @@ pretty	_	_	I-Claim
 clear	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 're	_	_	I-Claim
 the	_	_	I-Claim
 puppet	_	_	I-Claim
 !	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 pretty	_	_	O
@@ -3093,8 +3011,7 @@ n't	_	_	I-Claim
 admit	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -3103,8 +3020,7 @@ the	_	_	O
 puppet	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 that	_	_	O
 the	_	_	I-Claim
@@ -3178,14 +3094,12 @@ this	_	_	I-Premise
 race	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -3198,8 +3112,7 @@ a	_	_	I-Claim
 stand	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 She	_	_	B-Claim
 has	_	_	I-Claim
 no	_	_	I-Claim
@@ -3216,8 +3129,7 @@ anybody	_	_	I-Claim
 else	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 am	_	_	I-Premise
 not	_	_	I-Premise
@@ -3225,24 +3137,21 @@ quoting	_	_	I-Premise
 myself	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 She	_	_	B-Claim
 has	_	_	I-Claim
 no	_	_	I-Claim
 idea	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 am	_	_	I-Premise
 quoting	_	_	I-Premise
 17	_	_	I-Premise
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Hillary	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -3251,8 +3160,7 @@ no	_	_	O
 idea	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 17	_	_	I-Premise
 intelligence	_	_	I-Premise
@@ -3266,8 +3174,7 @@ and	_	_	I-Premise
 civilian	_	_	I-Premise
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 our	_	_	O
 country	_	_	O
@@ -3276,14 +3183,12 @@ no	_	_	O
 idea	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 agencies	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 Yeah	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -3295,8 +3200,7 @@ doubt	_	_	O
 it	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 he	_	_	B-Claim
@@ -3326,8 +3230,7 @@ just	_	_	O
 absolutely	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 She	_	_	B-Claim
 does	_	_	I-Claim
 n't	_	_	I-Claim
@@ -3346,14 +3249,12 @@ the	_	_	I-Premise
 way	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 .	_	_	O
@@ -3365,14 +3266,12 @@ in	_	_	I-Premise
 Syria	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 He	_	_	B-Premise
 's	_	_	I-Premise
 outsmarted	_	_	I-Premise
@@ -3384,8 +3283,7 @@ the	_	_	I-Premise
 way	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 get	_	_	O
@@ -3395,8 +3293,7 @@ some	_	_	O
 questions	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 that	_	_	O
@@ -3404,8 +3301,7 @@ that	_	_	O
 fine	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 would	_	_	O
@@ -3460,8 +3356,7 @@ American	_	_	O
 election	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 By	_	_	O
 Russia	_	_	O
 or	_	_	O
@@ -3469,16 +3364,14 @@ anybody	_	_	O
 else	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 You	_	_	O
 condemn	_	_	O
 their	_	_	O
 interference	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Of	_	_	B-Claim
 course	_	_	I-Claim
 I	_	_	I-Claim
@@ -3500,8 +3393,7 @@ no	_	_	I-Claim
 idea	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 not	_	_	O
@@ -3515,8 +3407,7 @@ you	_	_	O
 condemn	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 never	_	_	I-Claim
 met	_	_	I-Claim
@@ -3546,8 +3437,7 @@ so	_	_	I-Premise
 bad	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 a	_	_	O
@@ -3575,8 +3465,7 @@ about	_	_	O
 seconds	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 she	_	_	O
 always	_	_	O
@@ -3584,8 +3473,7 @@ will	_	_	O
 be	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 --	_	_	O
 I	_	_	B-Claim
@@ -3622,12 +3510,10 @@ He	_	_	B-Premise
 's	_	_	I-Premise
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Wrong	_	_	O
 .	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 advocated	_	_	I-Premise
 more	_	_	I-Premise
@@ -3667,22 +3553,19 @@ is	_	_	I-Claim
 terrifying	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 have	_	_	I-Premise
 200	_	_	I-Premise
 generals	_	_	I-Premise
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Very	_	_	O
 quickly	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 and	_	_	I-Premise
 admirals	_	_	I-Premise
@@ -3739,13 +3622,11 @@ the	_	_	I-Premise
 century	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 she	_	_	B-Premise
@@ -3769,8 +3650,7 @@ another	_	_	I-Claim
 lie	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -3784,8 +3664,7 @@ were	_	_	I-Claim
 asked	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 There	_	_	O
 's	_	_	O
 no	_	_	O
@@ -3803,8 +3682,7 @@ from	_	_	O
 me	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 about	_	_	I-Claim
 a	_	_	I-Claim
@@ -3834,15 +3712,13 @@ That	_	_	O
 kind	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 defend	_	_	O
 yourselves	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 of	_	_	O
 language	_	_	O
@@ -3850,8 +3726,7 @@ language	_	_	O
 well	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 defend	_	_	O
 yourselves	_	_	O
@@ -3867,8 +3742,7 @@ defend	_	_	O
 yourself	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 United	_	_	I-Premise
 States	_	_	I-Premise
@@ -3951,8 +3825,7 @@ the	_	_	I-Claim
 peace	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 going	_	_	O
@@ -4051,13 +3924,11 @@ less	_	_	I-Claim
 regulation	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 going	_	_	O
@@ -4115,8 +3986,7 @@ Secretary	_	_	O
 Clinton	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -4217,8 +4087,7 @@ new	_	_	I-Premise
 businesses	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -4242,8 +4111,7 @@ Clinton	_	_	O
 's	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -4338,8 +4206,7 @@ Clinton	_	_	I-Claim
 plan	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 'd	_	_	O
@@ -4400,16 +4267,14 @@ they	_	_	O
 paying	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Time	_	_	O
 ,	_	_	O
 Mr.	_	_	O
 Trump	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 that	_	_	B-Claim
 's	_	_	I-Claim
@@ -4432,14 +4297,12 @@ again	_	_	I-Claim
 because	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 right	_	_	B-Premise
 now	_	_	I-Premise
@@ -4454,8 +4317,7 @@ percent	_	_	I-Premise
 GDP	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4472,15 +4334,13 @@ Chris	_	_	O
 because	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 You	_	_	O
 ca	_	_	O
 n't	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 the	_	_	O
 fact	_	_	O
@@ -4535,13 +4395,11 @@ or	_	_	I-Claim
 less	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Cutting	_	_	B-Premise
 taxes	_	_	I-Premise
 on	_	_	I-Premise
@@ -4566,8 +4424,7 @@ been	_	_	I-Claim
 promised	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -4605,21 +4462,18 @@ since	_	_	I-Premise
 1949	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 Correct	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -4694,8 +4548,7 @@ the	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -4735,8 +4588,7 @@ created	_	_	I-Premise
 percent	_	_	I-Premise
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Over	_	_	B-Claim
 a	_	_	I-Claim
 10	_	_	I-Claim
@@ -4745,8 +4597,7 @@ year	_	_	I-Claim
 period	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 ...	_	_	O
 growth	_	_	B-Premise
 is	_	_	O
@@ -4792,8 +4643,7 @@ response	_	_	O
 sir	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 So	_	_	O
 I	_	_	B-Claim
 just	_	_	I-Claim
@@ -4829,8 +4679,7 @@ low	_	_	I-Claim
 number	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 you	_	_	O
@@ -4860,8 +4709,7 @@ the	_	_	O
 economy	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	B-Claim
 will	_	_	I-Claim
@@ -4872,8 +4720,7 @@ as	_	_	I-Claim
 NAFTA	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 ...	_	_	O
 which	_	_	O
 is	_	_	O
@@ -4886,8 +4733,7 @@ ahead	_	_	O
 briefly	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -4969,14 +4815,12 @@ I	_	_	I-Claim
 president	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 the	_	_	O
@@ -4992,8 +4836,7 @@ to	_	_	O
 work	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -5007,8 +4850,7 @@ just	_	_	O
 say	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 're	_	_	I-Premise
 going	_	_	I-Premise
@@ -5073,8 +4915,7 @@ American	_	_	I-Premise
 products	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
@@ -5085,8 +4926,7 @@ Mr.	_	_	O
 Trump	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 ask	_	_	O
@@ -5120,16 +4960,14 @@ last	_	_	I-Claim
 years	_	_	I-Claim
 ?	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
 voted	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 were	_	_	I-Claim
 very	_	_	I-Claim
@@ -5192,8 +5030,7 @@ out	_	_	I-Premise
 badly	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -5221,8 +5058,7 @@ numerous	_	_	I-Claim
 times	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -5298,16 +5134,14 @@ apartment	_	_	I-Claim
 buildings	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Give	_	_	O
 me	_	_	O
 a	_	_	O
 break	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 on	_	_	O
 the	_	_	O
@@ -5396,8 +5230,7 @@ that	_	_	I-Claim
 decision	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -5467,8 +5300,7 @@ phenomenal	_	_	I-Claim
 company	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -5560,8 +5392,7 @@ their	_	_	I-Claim
 consent	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -5604,19 +5435,16 @@ did	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 At	_	_	O
 the	_	_	O
 last	_	_	O
@@ -5698,8 +5526,7 @@ be	_	_	I-Premise
 assaulted	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 did	_	_	I-Claim
 not	_	_	I-Claim
@@ -5713,8 +5540,7 @@ say	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 In	_	_	O
 fact	_	_	O
 ,	_	_	O
@@ -5724,8 +5550,7 @@ on	_	_	O
 to	_	_	O
 say	_	_	O
 ...	_	_	O
-WALLACE	_	_	O
-:	_	_	O
+
 Her	_	_	O
 two	_	_	O
 minutes	_	_	O
@@ -5741,8 +5566,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 did	_	_	I-Claim
 not	_	_	I-Claim
@@ -5750,8 +5574,7 @@ say	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 her	_	_	O
@@ -5759,8 +5582,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 He	_	_	B-Premise
 went	_	_	I-Premise
 on	_	_	I-Premise
@@ -5824,14 +5646,12 @@ this	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Nobody	_	_	B-Claim
 has	_	_	I-Claim
 more	_	_	I-Claim
@@ -5845,15 +5665,13 @@ do	_	_	I-Claim
 Nobody	_	_	B-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Please	_	_	O
 ,	_	_	O
 everybody	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 frankly	_	_	O
 ,	_	_	O
@@ -5877,14 +5695,12 @@ slightly	_	_	O
 different	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 every	_	_	O
@@ -5933,13 +5749,11 @@ for	_	_	I-Claim
 anything	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Wrong	_	_	B-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 went	_	_	I-Claim
 after	_	_	I-Claim
@@ -6028,8 +5842,7 @@ were	_	_	I-Claim
 Mexican	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 So	_	_	O
 sad	_	_	O
 when	_	_	O
@@ -6053,15 +5866,13 @@ on	_	_	O
 tape	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 During	_	_	O
 the	_	_	O
 last	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 other	_	_	I-Claim
 things	_	_	I-Claim
@@ -6093,13 +5904,11 @@ other	_	_	O
 things	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 but	_	_	O
 those	_	_	O
@@ -6114,8 +5923,7 @@ are	_	_	I-Claim
 false	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 In	_	_	O
 this	_	_	O
 bucket	_	_	O
@@ -6161,8 +5969,7 @@ people	_	_	O
 have	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 everything	_	_	O
@@ -6199,14 +6006,12 @@ been	_	_	I-Claim
 proven	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 we	_	_	O
 have	_	_	O
@@ -6223,8 +6028,7 @@ healthier	_	_	O
 lunches	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -6240,8 +6044,7 @@ open	_	_	O
 discussion	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -6254,8 +6057,7 @@ And	_	_	O
 you	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 specific	_	_	O
@@ -6275,8 +6077,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -6295,8 +6096,7 @@ there	_	_	O
 is	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 that	_	_	O
@@ -6307,8 +6107,7 @@ very	_	_	O
 well	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 ask	_	_	O
@@ -6316,8 +6115,7 @@ Mr.	_	_	O
 Trump	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 There	_	_	O
 is	_	_	O
 a	_	_	O
@@ -6331,8 +6129,7 @@ good	_	_	O
 work	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 been	_	_	O
@@ -6341,8 +6138,7 @@ well	_	_	O
 studied	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 and	_	_	O
 the	_	_	O
@@ -6350,8 +6146,7 @@ high	_	_	O
 rankings	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Please	_	_	O
 let	_	_	O
 me	_	_	O
@@ -6360,8 +6155,7 @@ Trump	_	_	O
 speak	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 and	_	_	O
 it	_	_	O
@@ -6378,8 +6172,7 @@ know	_	_	O
 it	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Please	_	_	O
 let	_	_	O
 Mr.	_	_	O
@@ -6387,8 +6180,7 @@ Trump	_	_	O
 speak	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 a	_	_	I-Claim
@@ -6450,14 +6242,12 @@ their	_	_	I-Claim
 money	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 very	_	_	O
@@ -6558,14 +6348,12 @@ was	_	_	I-Claim
 astonishing	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 because	_	_	O
 it	_	_	B-Premise
@@ -6579,8 +6367,7 @@ American	_	_	I-Premise
 experience	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 They	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -6592,8 +6379,7 @@ them	_	_	I-Claim
 anymore	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -6661,8 +6447,7 @@ to	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Was	_	_	B-Premise
 n't	_	_	I-Premise
 some	_	_	I-Premise
@@ -6678,8 +6463,7 @@ lawsuits	_	_	I-Premise
 sir	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -6720,8 +6504,7 @@ American	_	_	O
 flag	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Right	_	_	O
 .	_	_	O
 But	_	_	O
@@ -6746,8 +6529,7 @@ your	_	_	I-Claim
 foundation	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 was	_	_	I-Claim
 .	_	_	I-Claim
@@ -6761,8 +6543,7 @@ the	_	_	O
 way	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 ...	_	_	O
 instead	_	_	B-Claim
 of	_	_	I-Claim
@@ -6777,8 +6558,7 @@ yourself	_	_	I-Claim
 sir	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 the	_	_	O
 money	_	_	O
@@ -6818,8 +6598,7 @@ disabled	_	_	I-Claim
 vets	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -6828,8 +6607,7 @@ into	_	_	O
 one	_	_	O
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 of	_	_	O
@@ -6916,14 +6694,12 @@ out	_	_	O
 there	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 So	_	_	O
 let	_	_	O
 me	_	_	O
@@ -6995,21 +6771,18 @@ of	_	_	I-Premise
 dollars	_	_	I-Premise
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 We	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
 explain	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -7019,8 +6792,7 @@ heard	_	_	O
 this	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Most	_	_	B-Claim
 of	_	_	I-Claim
 her	_	_	I-Claim
@@ -7035,8 +6807,7 @@ I	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -7045,8 +6816,7 @@ we	_	_	O
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 what	_	_	O
@@ -7056,8 +6826,7 @@ have	_	_	O
 done	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Folks	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7065,8 +6834,7 @@ heard	_	_	O
 this	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	B-Claim
 know	_	_	I-Claim
@@ -7094,8 +6862,7 @@ States	_	_	I-Claim
 senator	_	_	I-Claim
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Folks	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7103,8 +6870,7 @@ heard	_	_	O
 this	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 because	_	_	O
 your	_	_	B-Premise
@@ -7128,16 +6894,14 @@ more	_	_	I-Premise
 so	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
 know	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 You	_	_	O
 should	_	_	O
 have	_	_	O
@@ -7183,16 +6947,14 @@ as	_	_	I-Premise
 Trump	_	_	I-Premise
 ...	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Made	_	_	B-Claim
 with	_	_	I-Claim
 Chinese	_	_	I-Claim
 steel	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 will	_	_	O
@@ -7204,14 +6966,12 @@ sat	_	_	O
 there	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 If	_	_	B-Claim
 you	_	_	I-Claim
 do	_	_	I-Claim
@@ -7229,8 +6989,7 @@ the	_	_	I-Claim
 laws	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -7352,8 +7111,7 @@ this	_	_	O
 election	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 will	_	_	I-Claim
 look	_	_	I-Claim
@@ -7381,8 +7139,7 @@ the	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 sir	_	_	O
@@ -7391,8 +7148,7 @@ there	_	_	O
 's	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 If	_	_	O
 you	_	_	O
 look	_	_	O
@@ -7458,13 +7214,11 @@ to	_	_	I-Claim
 vote	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Chris	_	_	O
 ,	_	_	O
 she	_	_	B-Claim
@@ -7494,8 +7248,7 @@ other	_	_	I-Claim
 things	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 sir	_	_	O
@@ -7605,8 +7358,7 @@ that	_	_	O
 principle	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 What	_	_	O
 I	_	_	O
 'm	_	_	O
@@ -7631,8 +7383,7 @@ suspense	_	_	I-Claim
 OK	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Chris	_	_	O
@@ -7675,16 +7426,14 @@ against	_	_	I-Claim
 him	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Should	_	_	O
 have	_	_	O
 gotten	_	_	O
 it	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 --	_	_	O
@@ -7712,13 +7461,11 @@ really	_	_	I-Claim
 troubling	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 So	_	_	O
 that	_	_	B-Claim
 is	_	_	I-Claim
@@ -7798,8 +7545,7 @@ even	_	_	I-Claim
 finished	_	_	I-Claim
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 .	_	_	O
@@ -7814,8 +7560,7 @@ on	_	_	O
 folks	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 it	_	_	I-Claim
 just	_	_	I-Claim
@@ -7890,8 +7635,7 @@ of	_	_	I-Claim
 position	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 what	_	_	I-Claim
@@ -7942,14 +7686,12 @@ a	_	_	I-Claim
 disgrace	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -7965,8 +7707,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 ,	_	_	O
@@ -8002,8 +7743,7 @@ hot	_	_	O
 spots	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8104,8 +7844,7 @@ reconstitute	_	_	I-Claim
 itself	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -8148,8 +7887,7 @@ something	_	_	O
 else	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -8215,8 +7953,7 @@ in	_	_	I-Claim
 Mosul	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ,	_	_	O
 your	_	_	O
@@ -8226,8 +7963,7 @@ are	_	_	O
 up	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 The	_	_	O
 point	_	_	O
 is	_	_	O
@@ -8242,8 +7978,7 @@ be	_	_	O
 Iran	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8287,13 +8022,11 @@ what	_	_	I-Claim
 is	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Wrong	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 a	_	_	I-Claim
 very	_	_	I-Claim
@@ -8302,13 +8035,11 @@ fact	_	_	I-Claim
 that	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Wrong	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 before	_	_	I-Claim
 the	_	_	I-Claim
@@ -8359,13 +8090,11 @@ of	_	_	I-Claim
 Iraq	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Wrong	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	B-Premise
 can	_	_	I-Premise
@@ -8422,8 +8151,7 @@ for	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 Chris	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -8433,8 +8161,7 @@ gain	_	_	I-Claim
 anything	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 has	_	_	I-Claim
 all	_	_	I-Claim
@@ -8443,8 +8170,7 @@ conspiracy	_	_	I-Claim
 theories	_	_	I-Claim
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Iran	_	_	B-Claim
 is	_	_	I-Claim
 taking	_	_	I-Claim
@@ -8452,8 +8178,7 @@ over	_	_	I-Claim
 Iraq	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -8461,8 +8186,7 @@ it	_	_	O
 's	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Iran	_	_	B-Claim
 is	_	_	I-Claim
 taking	_	_	I-Claim
@@ -8476,8 +8200,7 @@ gain	_	_	O
 anything	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 This	_	_	B-Premise
 conspiracy	_	_	I-Premise
 theory	_	_	I-Premise
@@ -8494,8 +8217,7 @@ some	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 If	_	_	O
 they	_	_	O
 did	_	_	O
@@ -8504,8 +8226,7 @@ by	_	_	O
 surprise	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 ,	_	_	O
 wait	_	_	O
@@ -8522,14 +8243,12 @@ open	_	_	O
 discussion	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 He	_	_	O
 says	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 could	_	_	I-Claim
 have	_	_	I-Claim
@@ -8542,8 +8261,7 @@ by	_	_	I-Claim
 surprise	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 ,	_	_	O
 please	_	_	O
@@ -8553,8 +8271,7 @@ Trump	_	_	O
 speak	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 unfit	_	_	O
 ,	_	_	O
@@ -8568,8 +8285,7 @@ he	_	_	I-Claim
 talks	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8629,8 +8345,7 @@ You	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	B-Claim
@@ -8651,8 +8366,7 @@ has	_	_	O
 said	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Which	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -8660,8 +8374,7 @@ big	_	_	I-Claim
 mistake	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 as	_	_	O
 he	_	_	B-Premise
@@ -8697,8 +8410,7 @@ he	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 turn	_	_	O
@@ -8770,8 +8482,7 @@ fact	_	_	O
 there	_	_	O
 are	_	_	O
 ...	_	_	O
-TRUMP	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 a	_	_	I-Claim
@@ -8781,8 +8492,7 @@ I	_	_	O
 mean	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 a	_	_	I-Claim
@@ -8792,8 +8502,7 @@ but	_	_	O
 there	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 it	_	_	B-Claim
 's	_	_	I-Claim
@@ -8801,8 +8510,7 @@ a	_	_	I-Claim
 mess	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 There	_	_	O
 are	_	_	O
 a	_	_	O
@@ -8810,8 +8518,7 @@ quarter	_	_	O
 of	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Have	_	_	O
 you	_	_	O
 seen	_	_	O
@@ -8823,13 +8530,11 @@ seen	_	_	O
 it	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Have	_	_	O
 you	_	_	O
 seen	_	_	O
@@ -8840,8 +8545,7 @@ to	_	_	O
 Aleppo	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ,	_	_	O
 if	_	_	O
@@ -8852,8 +8556,7 @@ my	_	_	O
 question	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 OK	_	_	O
 ,	_	_	O
 so	_	_	O
@@ -8869,8 +8572,7 @@ at	_	_	O
 it	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 there	_	_	B-Premise
@@ -8889,8 +8591,7 @@ being	_	_	I-Premise
 slaughtered	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
@@ -8902,13 +8603,11 @@ being	_	_	I-Claim
 slaughtered	_	_	I-Claim
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 because	_	_	B-Premise
 of	_	_	I-Premise
@@ -8916,8 +8615,7 @@ bad	_	_	I-Premise
 decisions	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 If	_	_	O
 I	_	_	O
 may	_	_	O
@@ -8989,8 +8687,7 @@ up	_	_	I-Claim
 sir	_	_	O
 ?	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Aleppo	_	_	B-Claim
@@ -9045,14 +8742,12 @@ what	_	_	I-Premise
 happened	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 ...	_	_	O
 in	_	_	B-Premise
 many	_	_	I-Premise
@@ -9115,8 +8810,7 @@ great	_	_	O
 job	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -9182,8 +8876,7 @@ the	_	_	I-Premise
 conflict	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Chris	_	_	O
@@ -9233,8 +8926,7 @@ the	_	_	O
 general	_	_	O
 .	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Folks	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9247,8 +8939,7 @@ final	_	_	O
 segment	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 just	_	_	O
@@ -9256,14 +8947,12 @@ have	_	_	O
 to	_	_	O
 ...	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Real	_	_	O
 quick	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 so	_	_	O
@@ -9299,13 +8988,11 @@ in	_	_	I-Claim
 countries	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 We	_	_	O
 should	_	_	O
 have	_	_	O
@@ -9368,8 +9055,7 @@ fire	_	_	I-Claim
 anymore	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trump	_	_	O
 ,	_	_	O
@@ -9404,8 +9090,7 @@ until	_	_	O
 tonight	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -9611,14 +9296,12 @@ very	_	_	I-Premise
 sloppy	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -9690,8 +9373,7 @@ for	_	_	I-Claim
 decades	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 yeah	_	_	O
@@ -9709,8 +9391,7 @@ before	_	_	O
 Hillary	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 started	_	_	I-Premise
 off	_	_	I-Premise
@@ -9726,8 +9407,7 @@ business	_	_	I-Premise
 man	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 We	_	_	O
 've	_	_	O
 heard	_	_	O
@@ -9735,8 +9415,7 @@ this	_	_	O
 before	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -9767,13 +9446,11 @@ the	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Time	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -9785,8 +9462,7 @@ just	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-WALLACE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -9802,8 +9478,7 @@ of	_	_	O
 time	_	_	O
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Because	_	_	O
 I	_	_	B-Claim
 did	_	_	I-Claim
@@ -9845,13 +9520,11 @@ it	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 And	_	_	O
 frankly	_	_	B-Claim
 ,	_	_	I-Claim
@@ -9865,8 +9538,7 @@ it	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -9984,8 +9656,7 @@ their	_	_	I-Premise
 benefits	_	_	I-Premise
 .	_	_	I-Premise
 
-TRUMP	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'm	_	_	I-Claim
 cutting	_	_	I-Claim
@@ -10012,8 +9683,7 @@ of	_	_	I-Premise
 growth	_	_	I-Premise
 .	_	_	I-Premise
 
-WALLACE	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -10025,8 +9695,7 @@ the	_	_	I-Claim
 entitlements	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -10083,8 +9752,7 @@ replace	_	_	I-Claim
 Obamacare	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 And	_	_	O
 ,	_	_	O
 Secretary	_	_	O
@@ -10150,8 +9818,7 @@ both	_	_	O
 programs	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Chris	_	_	O
@@ -10232,16 +9899,14 @@ Trust	_	_	I-Premise
 Fund	_	_	I-Premise
 ...	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 Such	_	_	O
 a	_	_	O
 nasty	_	_	O
 woman	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 by	_	_	I-Premise
 making	_	_	I-Premise
@@ -10303,8 +9968,7 @@ Security	_	_	I-Claim
 system	_	_	I-Claim
 .	_	_	I-Claim
 
-TRUMP	_	_	O
-:	_	_	O
+
 Your	_	_	B-Claim
 husband	_	_	I-Claim
 disagrees	_	_	I-Claim
@@ -10312,8 +9976,7 @@ with	_	_	I-Claim
 you	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 ...	_	_	O
 the	_	_	O
 long	_	_	O
@@ -10368,8 +10031,7 @@ harder	_	_	I-Claim
 decisions	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 --	_	_	O
@@ -10443,8 +10105,7 @@ closing	_	_	I-Premise
 statements	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -10521,8 +10182,7 @@ your	_	_	I-Claim
 ambition	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Secretary	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -10530,8 +10190,7 @@ thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-TRUMP	_	_	O
-:	_	_	O
+
 She	_	_	B-Claim
 's	_	_	I-Claim
 raising	_	_	I-Claim
@@ -10552,8 +10211,7 @@ that	_	_	I-Claim
 way	_	_	I-Claim
 .	_	_	I-Claim
 
-WALLACE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 both	_	_	O

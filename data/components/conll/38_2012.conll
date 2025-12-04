@@ -1,5 +1,4 @@
-RADDATZ	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -141,7 +140,6 @@ follow	_	_	O
 up	_	_	O
 questions	_	_	O
 .	_	_	O
- 	_	_	O
 By	_	_	O
 coin	_	_	O
 toss	_	_	O
@@ -204,11 +202,9 @@ Congressman	_	_	O
 Paul	_	_	O
 Ryan	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 OK	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -243,7 +239,6 @@ both	_	_	O
 of	_	_	O
 you	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -300,10 +295,7 @@ no	_	_	I-Premise
 protesters	_	_	I-Premise
 there	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 it	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -329,8 +321,7 @@ President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 What	_	_	O
 is	_	_	O
 was	_	_	O
@@ -435,7 +426,6 @@ be	_	_	I-Claim
 made	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	B-Claim
 you	_	_	I-Claim
 're	_	_	I-Claim
@@ -495,7 +485,6 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 day	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 On	_	_	B-Premise
 Iraq	_	_	I-Premise
 ,	_	_	I-Premise
@@ -544,7 +533,6 @@ left	_	_	I-Premise
 troops	_	_	I-Premise
 there	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 With	_	_	B-Premise
 regard	_	_	I-Premise
 to	_	_	I-Premise
@@ -585,7 +573,6 @@ to	_	_	I-Premise
 it	_	_	I-Premise
 depends	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 When	_	_	B-Premise
 it	_	_	I-Premise
 came	_	_	I-Premise
@@ -634,7 +621,6 @@ bin	_	_	I-Premise
 Laden	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 Prior	_	_	B-Premise
 to	_	_	I-Premise
 the	_	_	I-Premise
@@ -729,7 +715,6 @@ if	_	_	I-Premise
 need	_	_	I-Premise
 be	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 lastly	_	_	O
 ,	_	_	O
@@ -767,16 +752,12 @@ is	_	_	I-Claim
 another	_	_	I-Claim
 war	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	O
 mourn	_	_	O
 the	_	_	O
@@ -790,8 +771,7 @@ were	_	_	O
 murdered	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 When	_	_	B-Premise
 you	_	_	I-Premise
 take	_	_	I-Premise
@@ -867,7 +847,6 @@ the	_	_	I-Premise
 YouTube	_	_	I-Premise
 video	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 if	_	_	B-Claim
@@ -930,7 +909,6 @@ cell	_	_	I-Premise
 with	_	_	I-Premise
 arms	_	_	I-Premise
 ?	_	_	I-Premise
- 	_	_	O
 This	_	_	B-Claim
 is	_	_	I-Claim
 becoming	_	_	I-Claim
@@ -964,7 +942,6 @@ this	_	_	I-Premise
 an	_	_	I-Premise
 issue	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 With	_	_	B-Premise
 respect	_	_	I-Premise
 to	_	_	I-Premise
@@ -1050,7 +1027,6 @@ are	_	_	O
 talking	_	_	O
 about	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 when	_	_	O
@@ -1102,7 +1078,6 @@ hard	_	_	O
 to	_	_	O
 get	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 with	_	_	O
@@ -1147,10 +1122,7 @@ what	_	_	I-Claim
 happening	_	_	I-Claim
 here	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 This	_	_	O
 Benghazi	_	_	O
 issue	_	_	O
@@ -1207,8 +1179,7 @@ less	_	_	I-Claim
 safe	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 just	_	_	O
 want	_	_	O
@@ -1261,8 +1232,7 @@ the	_	_	O
 crisis	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 On	_	_	O
 that	_	_	O
 same	_	_	O
@@ -1385,7 +1355,6 @@ for	_	_	I-Claim
 individual	_	_	I-Claim
 rights	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 should	_	_	I-Claim
@@ -1461,14 +1430,10 @@ less	_	_	O
 willing	_	_	O
 to	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 With	_	_	O
 all	_	_	O
 due	_	_	O
@@ -1482,8 +1447,7 @@ of	_	_	I-Claim
 malarkey	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 why	_	_	O
 is	_	_	O
@@ -1491,8 +1455,7 @@ that	_	_	O
 so	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Because	_	_	O
 not	_	_	B-Claim
 a	_	_	I-Claim
@@ -1508,14 +1471,12 @@ of	_	_	O
 all	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Be	_	_	O
 specific	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 will	_	_	O
 be	_	_	O
@@ -1625,7 +1586,6 @@ talking	_	_	I-Claim
 about	_	_	I-Claim
 here	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	O
 --	_	_	O
 this	_	_	B-Premise
@@ -1710,7 +1670,6 @@ stop	_	_	I-Premise
 inaudible	_	_	I-Premise
 )	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1730,10 +1689,7 @@ all	_	_	O
 the	_	_	O
 time	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Can	_	_	O
 we	_	_	O
 talk	_	_	O
@@ -1746,15 +1702,13 @@ to	_	_	O
 Libya	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 sure	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 were	_	_	O
 you	_	_	O
@@ -1801,8 +1755,7 @@ inaudible	_	_	O
 )	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Because	_	_	O
 that	_	_	B-Claim
 was	_	_	I-Claim
@@ -1888,8 +1841,7 @@ happen	_	_	I-Premise
 again	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 they	_	_	O
 wanted	_	_	O
@@ -1898,8 +1850,7 @@ security	_	_	O
 there	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Premise
@@ -2041,10 +1992,7 @@ not	_	_	I-Claim
 presidential	_	_	I-Claim
 leadership	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Ryan	_	_	O
 ,	_	_	O
@@ -2101,8 +2049,7 @@ Taliban	_	_	O
 corpses	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 gosh	_	_	O
@@ -2122,16 +2069,14 @@ apologize	_	_	O
 for	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Burning	_	_	O
 Korans	_	_	O
 ,	_	_	O
 immediately	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 What	_	_	O
 --	_	_	O
 what	_	_	B-Claim
@@ -2244,7 +2189,6 @@ were	_	_	I-Premise
 not	_	_	I-Premise
 honored	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 this	_	_	O
@@ -2298,7 +2242,6 @@ a	_	_	O
 Marine	_	_	O
 detachment	_	_	O
 ?	_	_	O
- 	_	_	O
 Of	_	_	O
 course	_	_	O
 there	_	_	O
@@ -2374,10 +2317,7 @@ we	_	_	O
 had	_	_	O
 four	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 move	_	_	O
@@ -2403,13 +2343,11 @@ national	_	_	O
 security	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 ...	_	_	O
 this	_	_	O
 country	_	_	O
@@ -2500,8 +2438,7 @@ Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 can	_	_	I-Claim
 not	_	_	I-Claim
@@ -2621,7 +2558,6 @@ the	_	_	I-Premise
 central	_	_	I-Premise
 bank	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Mitt	_	_	B-Premise
 Romney	_	_	I-Premise
 proposed	_	_	I-Premise
@@ -2681,7 +2617,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 administration	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Imagine	_	_	O
 what	_	_	O
 would	_	_	O
@@ -2745,7 +2680,6 @@ in	_	_	I-Premise
 Washington	_	_	I-Premise
 ,	_	_	I-Premise
 D.C.	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 talk	_	_	O
 about	_	_	O
@@ -2776,7 +2710,6 @@ these	_	_	I-Premise
 mixed	_	_	I-Premise
 signals	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 so	_	_	O
 ,	_	_	O
@@ -2854,7 +2787,6 @@ sanctions	_	_	I-Claim
 in	_	_	I-Claim
 place	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
@@ -2915,17 +2847,13 @@ on	_	_	I-Claim
 this	_	_	I-Claim
 issue	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 incredible	_	_	O
@@ -3038,10 +2966,7 @@ want	_	_	O
 to	_	_	O
 do	_	_	O
 ?	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -3049,8 +2974,7 @@ prevent	_	_	I-Claim
 war	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 interesting	_	_	O
@@ -3146,7 +3070,6 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 Iranians	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 number	_	_	O
 two	_	_	O
@@ -3207,7 +3130,6 @@ view	_	_	I-Premise
 and	_	_	I-Premise
 theirs	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 When	_	_	B-Premise
 my	_	_	I-Premise
 friend	_	_	I-Premise
@@ -3278,7 +3200,6 @@ building	_	_	I-Claim
 a	_	_	I-Claim
 weapon	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 all	_	_	O
 this	_	_	O
@@ -3353,24 +3274,19 @@ going	_	_	O
 to	_	_	O
 war	_	_	O
 .	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ?	_	_	O
 Let	_	_	O
 's	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Let	_	_	B-Premise
 's	_	_	I-Premise
 look	_	_	I-Premise
@@ -3480,7 +3396,6 @@ daily	_	_	I-Premise
 talk	_	_	I-Premise
 show	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 They	_	_	B-Premise
 see	_	_	I-Premise
 ,	_	_	I-Premise
@@ -3503,7 +3418,6 @@ walked	_	_	I-Premise
 them	_	_	I-Premise
 back	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 They	_	_	B-Premise
 are	_	_	I-Premise
 not	_	_	I-Premise
@@ -3536,10 +3450,7 @@ they	_	_	B-Premise
 going	_	_	I-Premise
 faster	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -3611,10 +3522,7 @@ nuclear	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	O
 can	_	_	O
 debate	_	_	O
@@ -3658,14 +3566,10 @@ it	_	_	O
 all	_	_	O
 about	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -3681,10 +3585,7 @@ Israelis	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -3730,8 +3631,7 @@ this	_	_	O
 administration	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 But	_	_	O
 what	_	_	O
 --	_	_	O
@@ -3741,10 +3641,7 @@ do	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Let	_	_	B-Premise
 me	_	_	I-Premise
 tell	_	_	I-Premise
@@ -3755,8 +3652,7 @@ ayatollah	_	_	I-Premise
 sees	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 have	_	_	I-Claim
 to	_	_	I-Claim
@@ -3764,8 +3660,7 @@ have	_	_	I-Claim
 credibility	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 ayatollah	_	_	I-Premise
 sees	_	_	I-Premise
@@ -3923,7 +3818,6 @@ was	_	_	I-Premise
 going	_	_	I-Premise
 on	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 This	_	_	O
 is	_	_	O
 a	_	_	O
@@ -3938,10 +3832,7 @@ here	_	_	O
 the	_	_	O
 deal	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 does	_	_	O
 that	_	_	O
@@ -3953,8 +3844,7 @@ of	_	_	O
 stuff	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -3965,15 +3855,13 @@ simply	_	_	I-Claim
 inaccurate	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 Irish	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	O
 --	_	_	O
 it	_	_	O
@@ -3982,17 +3870,13 @@ is	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 	_	_	O
 We	_	_	O
 Irish	_	_	O
 call	_	_	O
 it	_	_	O
 malarkey	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Thanks	_	_	O
 for	_	_	O
 the	_	_	O
@@ -4003,10 +3887,7 @@ OK	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 We	_	_	O
 Irish	_	_	O
 call	_	_	O
@@ -4117,16 +3998,12 @@ is	_	_	I-Premise
 totally	_	_	I-Premise
 isolated	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -4140,8 +4017,7 @@ living	_	_	O
 in	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Thank	_	_	B-Premise
 heavens	_	_	I-Premise
 we	_	_	I-Premise
@@ -4160,15 +4036,13 @@ their	_	_	I-Premise
 opposition	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 god	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 They	_	_	B-Premise
 've	_	_	I-Premise
 given	_	_	I-Premise
@@ -4208,8 +4082,7 @@ for	_	_	I-Claim
 itself	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 tell	_	_	O
@@ -4218,8 +4091,7 @@ American	_	_	O
 people	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 By	_	_	O
 the	_	_	O
 way	_	_	O
@@ -4229,10 +4101,7 @@ they	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 worse	_	_	O
@@ -4245,8 +4114,7 @@ Middle	_	_	O
 East	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 they	_	_	B-Claim
 are	_	_	I-Claim
@@ -4260,16 +4128,14 @@ nuclear	_	_	I-Claim
 weapon	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 Of	_	_	B-Claim
 course	_	_	I-Claim
 they	_	_	I-Claim
 are	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	O
 're	_	_	O
 --	_	_	O
@@ -4296,8 +4162,7 @@ a	_	_	I-Premise
 weapon	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	B-Premise
 are	_	_	I-Premise
 acting	_	_	I-Premise
@@ -4312,8 +4177,7 @@ want	_	_	I-Premise
 one	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4414,10 +4278,7 @@ matters	_	_	I-Claim
 That	_	_	B-Claim
 matters	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 about	_	_	O
 Bob	_	_	O
@@ -4443,8 +4304,7 @@ generations	_	_	O
 .	_	_	O
 "	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 is	_	_	I-Claim
 right	_	_	I-Claim
@@ -4464,14 +4324,12 @@ with	_	_	I-Premise
 precision	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 And	_	_	O
 what	_	_	O
 it	_	_	O
@@ -4641,10 +4499,7 @@ that	_	_	B-Claim
 the	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4657,10 +4512,7 @@ Russia	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4692,8 +4544,7 @@ armed	_	_	O
 Iran	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 tell	_	_	O
@@ -4711,13 +4562,11 @@ what	_	_	I-Claim
 worse	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Quickly	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 A	_	_	I-Claim
 nuclear	_	_	I-Claim
 -	_	_	I-Claim
@@ -4754,10 +4603,7 @@ themselves	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 to	_	_	I-Premise
 wiping	_	_	I-Premise
@@ -4797,15 +4643,13 @@ as	_	_	I-Premise
 well	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 ca	_	_	I-Claim
 n't	_	_	I-Claim
@@ -4814,8 +4658,7 @@ with	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 War	_	_	B-Claim
 should	_	_	I-Claim
 always	_	_	I-Claim
@@ -4919,10 +4762,7 @@ does	_	_	I-Claim
 n't	_	_	I-Claim
 bluff	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5026,10 +4866,7 @@ will	_	_	O
 it	_	_	O
 take	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -5212,7 +5049,6 @@ the	_	_	I-Premise
 bottom	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 it	_	_	B-Claim
 should	_	_	I-Claim
@@ -5260,7 +5096,6 @@ are	_	_	I-Premise
 takers	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 These	_	_	B-Premise
 people	_	_	I-Premise
 are	_	_	I-Premise
@@ -5330,7 +5165,6 @@ any	_	_	I-Premise
 tax	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 've	_	_	I-Premise
 had	_	_	I-Premise
@@ -5452,10 +5286,7 @@ the	_	_	I-Claim
 super	_	_	I-Claim
 wealthy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	B-Claim
 're	_	_	I-Claim
 pushing	_	_	I-Claim
@@ -5527,16 +5358,12 @@ take	_	_	O
 some	_	_	O
 responsibility	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Joe	_	_	B-Premise
 and	_	_	I-Premise
 I	_	_	I-Premise
@@ -5571,28 +5398,24 @@ is	_	_	I-Premise
 today	_	_	I-Premise
 ?	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 sure	_	_	O
 do	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	I-Premise
 's	_	_	I-Premise
 10	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 You	_	_	B-Premise
 know	_	_	I-Premise
 what	_	_	I-Premise
@@ -5609,13 +5432,11 @@ in	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 how	_	_	I-Claim
@@ -5628,10 +5449,7 @@ America	_	_	I-Claim
 .	_	_	I-Claim
 Look	_	_	O
 ...	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -5653,8 +5471,7 @@ going	_	_	I-Premise
 down	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 (	_	_	O
 inaudible	_	_	O
 )	_	_	O
@@ -5666,8 +5483,7 @@ answer	_	_	O
 inaudible	_	_	O
 )	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 did	_	_	O
@@ -5859,7 +5675,6 @@ a	_	_	I-Claim
 debt	_	_	I-Claim
 crisis	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Make	_	_	B-Claim
 trade	_	_	I-Claim
 work	_	_	I-Claim
@@ -5897,10 +5712,7 @@ our	_	_	I-Premise
 job	_	_	I-Premise
 creators	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 He	_	_	O
 talks	_	_	O
 about	_	_	O
@@ -6047,7 +5859,6 @@ for	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 When	_	_	B-Premise
 Mark	_	_	I-Premise
 told	_	_	I-Premise
@@ -6107,7 +5918,6 @@ he	_	_	I-Premise
 has	_	_	I-Premise
 consistently	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 This	_	_	B-Premise
 is	_	_	I-Premise
 a	_	_	I-Premise
@@ -6178,14 +5988,10 @@ the	_	_	O
 right	_	_	O
 way	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 always	_	_	O
@@ -6200,8 +6006,7 @@ does	_	_	O
 Romney	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 want	_	_	I-Claim
 everybody	_	_	I-Claim
@@ -6253,8 +6058,7 @@ Romney	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 president	_	_	O
 ?	_	_	O
@@ -6272,8 +6076,7 @@ say	_	_	O
 here	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	O
 idea	_	_	O
 --	_	_	O
@@ -6472,7 +6275,6 @@ are	_	_	I-Premise
 working	_	_	I-Premise
 today	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 've	_	_	I-Premise
@@ -6611,7 +6413,6 @@ of	_	_	O
 the	_	_	O
 way	_	_	O
 .	_	_	O
- 	_	_	O
 Stop	_	_	O
 talking	_	_	O
 about	_	_	O
@@ -6639,7 +6440,6 @@ you	_	_	O
 take	_	_	O
 responsibility	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 by	_	_	O
@@ -6736,7 +6536,6 @@ n't	_	_	I-Premise
 afford	_	_	I-Premise
 that	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 now	_	_	B-Premise
 ,	_	_	I-Premise
@@ -6760,16 +6559,12 @@ that	_	_	I-Premise
 they	_	_	I-Premise
 created	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 not	_	_	O
@@ -6896,10 +6691,7 @@ growing	_	_	I-Premise
 at	_	_	I-Premise
 1.3	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 When	_	_	O
 could	_	_	O
 you	_	_	O
@@ -6910,8 +6702,7 @@ below	_	_	O
 percent	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 what	_	_	O
@@ -7006,19 +6797,14 @@ just	_	_	O
 how	_	_	O
 stimulus	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Go	_	_	O
 ahead	_	_	O
 .	_	_	O
@@ -7026,8 +6812,7 @@ Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ,	_	_	O
 look	_	_	O
@@ -7036,8 +6821,7 @@ His	_	_	B-Premise
 colleague	_	_	I-Premise
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Crony	_	_	O
 capitalism	_	_	O
 and	_	_	O
@@ -7045,8 +6829,7 @@ corporate	_	_	O
 welfare	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 runs	_	_	I-Premise
 an	_	_	I-Premise
@@ -7064,8 +6847,7 @@ into	_	_	I-Premise
 this	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 the	_	_	O
@@ -7077,8 +6859,7 @@ inspector	_	_	O
 general	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Months	_	_	B-Premise
 and	_	_	I-Premise
 months	_	_	I-Premise
@@ -7150,14 +6931,10 @@ dollars	_	_	I-Premise
 You	_	_	O
 know	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 did	_	_	O
 ask	_	_	O
@@ -7168,8 +6945,7 @@ money	_	_	O
 correct	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Sure	_	_	B-Claim
 he	_	_	I-Claim
 did	_	_	I-Claim
@@ -7179,8 +6955,7 @@ the	_	_	O
 way	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 On	_	_	B-Premise
 two	_	_	I-Premise
 occasions	_	_	I-Premise
@@ -7314,7 +7089,6 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 program	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 all	_	_	O
 this	_	_	O
@@ -7349,10 +7123,7 @@ little	_	_	O
 more	_	_	O
 candid	_	_	O
 .	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Was	_	_	O
 it	_	_	O
 a	_	_	O
@@ -7375,13 +7146,11 @@ in	_	_	O
 China	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Was	_	_	O
 it	_	_	O
 a	_	_	O
@@ -7408,8 +7177,7 @@ interest	_	_	O
 groups	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -7501,8 +7269,7 @@ a	_	_	I-Premise
 percent	_	_	I-Premise
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Where	_	_	O
 are	_	_	O
 the	_	_	O
@@ -7515,8 +7282,7 @@ were	_	_	O
 being	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -7539,8 +7305,7 @@ quite	_	_	O
 enough	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 By	_	_	O
 the	_	_	O
 way	_	_	O
@@ -7556,8 +7321,7 @@ I	_	_	O
 entertain	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 appreciate	_	_	O
 that	_	_	O
@@ -7567,10 +7331,7 @@ Joe	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 talk	_	_	O
@@ -7615,14 +7376,10 @@ programs	_	_	O
 to	_	_	O
 survive	_	_	O
 ?	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Ryan	_	_	O
 ?	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 Medicare	_	_	B-Premise
@@ -7707,7 +7464,6 @@ a	_	_	I-Premise
 Florida	_	_	I-Premise
 senior	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 After	_	_	B-Premise
 my	_	_	I-Premise
 dad	_	_	I-Premise
@@ -7771,7 +7527,6 @@ there	_	_	I-Premise
 for	_	_	I-Premise
 her	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 will	_	_	I-Claim
 honor	_	_	I-Claim
@@ -7792,7 +7547,6 @@ for	_	_	I-Claim
 my	_	_	I-Claim
 generation	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 You	_	_	O
 see	_	_	O
 ,	_	_	O
@@ -7835,7 +7589,6 @@ I	_	_	I-Claim
 are	_	_	I-Claim
 proposing	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Look	_	_	O
 what	_	_	O
 --	_	_	O
@@ -7891,10 +7644,7 @@ Medicare	_	_	I-Claim
 and	_	_	I-Claim
 Obamacare	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	O
 they	_	_	B-Premise
@@ -7958,7 +7708,6 @@ have	_	_	I-Premise
 medical	_	_	I-Premise
 training	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 Social	_	_	O
 Security	_	_	O
@@ -8017,7 +7766,6 @@ that	_	_	I-Claim
 from	_	_	I-Claim
 happening	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 They	_	_	B-Claim
 have	_	_	I-Claim
 n't	_	_	I-Claim
@@ -8121,7 +7869,6 @@ and	_	_	I-Claim
 the	_	_	I-Claim
 sick	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Choice	_	_	O
 and	_	_	O
 competition	_	_	O
@@ -8158,10 +7905,7 @@ they	_	_	I-Claim
 get	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
@@ -8170,8 +7914,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -8275,7 +8018,6 @@ this	_	_	I-Claim
 all	_	_	I-Claim
 out	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 It	_	_	B-Claim
 also	_	_	I-Claim
 gave	_	_	I-Claim
@@ -8351,7 +8093,6 @@ in	_	_	I-Claim
 number	_	_	O
 one	_	_	O
 .	_	_	O
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -8446,7 +8187,6 @@ were	_	_	I-Premise
 I	_	_	I-Premise
 there	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Who	_	_	B-Premise
 you	_	_	I-Premise
 believe	_	_	I-Premise
@@ -8493,7 +8233,6 @@ cost	_	_	I-Premise
 of	_	_	I-Premise
 Medicare	_	_	I-Premise
 ?	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 they	_	_	B-Premise
 got	_	_	I-Premise
@@ -8525,7 +8264,6 @@ on	_	_	I-Premise
 this	_	_	I-Premise
 one	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 with	_	_	B-Claim
 regard	_	_	I-Claim
@@ -8578,7 +8316,6 @@ in	_	_	I-Premise
 the	_	_	I-Premise
 market	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Their	_	_	B-Claim
 ideas	_	_	I-Claim
 are	_	_	I-Claim
@@ -8597,10 +8334,7 @@ guarantee	_	_	I-Claim
 of	_	_	I-Claim
 Medicare	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Here	_	_	O
 's	_	_	O
 the	_	_	O
@@ -8658,8 +8392,7 @@ of	_	_	I-Premise
 this	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -8668,8 +8401,7 @@ they	_	_	I-Claim
 said	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 7.4	_	_	B-Premise
 million	_	_	I-Premise
 seniors	_	_	I-Premise
@@ -8694,32 +8426,28 @@ benefit	_	_	I-Premise
 cut	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 did	_	_	I-Claim
 n't	_	_	I-Claim
 happen	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 What	_	_	O
 we	_	_	O
 're	_	_	O
 saying	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 More	_	_	B-Premise
 people	_	_	I-Premise
 signed	_	_	I-Premise
 up	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 These	_	_	B-Premise
 are	_	_	I-Premise
 from	_	_	I-Premise
@@ -8728,8 +8456,7 @@ own	_	_	I-Premise
 actuaries	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 More	_	_	O
 --	_	_	O
 more	_	_	O
@@ -8746,26 +8473,21 @@ the	_	_	I-Premise
 change	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 What	_	_	O
 --	_	_	O
 there	_	_	O
 's	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Nobody	_	_	O
 is	_	_	O
 ...	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -8774,8 +8496,7 @@ I	_	_	O
 know	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 this	_	_	O
@@ -8784,10 +8505,7 @@ is	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -8826,8 +8544,7 @@ each	_	_	O
 other	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 do	_	_	O
@@ -8840,8 +8557,7 @@ minutes	_	_	O
 then	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
@@ -8881,10 +8597,7 @@ promises	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 programs	_	_	O
 for	_	_	O
@@ -8893,8 +8606,7 @@ of	_	_	O
 us	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 But	_	_	O
 let	_	_	O
 --	_	_	O
@@ -8941,25 +8653,20 @@ a	_	_	O
 voucher	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Hundred	_	_	O
 percent	_	_	O
 coverage	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 what	_	_	O
 ...	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 what	_	_	O
@@ -8973,8 +8680,7 @@ we	_	_	B-Claim
 saying	_	_	I-Claim
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -8983,8 +8689,7 @@ that	_	_	O
 up	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 income	_	_	I-Claim
 adjusts	_	_	I-Claim
@@ -9054,10 +8759,7 @@ senator	_	_	I-Premise
 from	_	_	I-Premise
 Oregon	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -9068,16 +8770,14 @@ endorses	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 a	_	_	O
 plan	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Not	_	_	O
 one	_	_	O
 Democrat	_	_	O
@@ -9087,8 +8787,7 @@ inaudible	_	_	O
 )	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Our	_	_	B-Premise
 partner	_	_	I-Premise
 is	_	_	I-Premise
@@ -9098,8 +8797,7 @@ from	_	_	I-Premise
 Oregon	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 And	_	_	O
 he	_	_	B-Premise
 said	_	_	I-Premise
@@ -9113,8 +8811,7 @@ inaudible	_	_	O
 )	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	O
 --	_	_	O
 we	_	_	O
@@ -9135,15 +8832,13 @@ budget	_	_	I-Premise
 director	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Who	_	_	B-Premise
 disavows	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 This	_	_	O
 idea	_	_	O
 --	_	_	O
@@ -9170,17 +8865,13 @@ point	_	_	O
 ,	_	_	O
 Martha	_	_	O
 .	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Which	_	_	B-Premise
 was	_	_	I-Premise
 rejected	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 If	_	_	O
 we	_	_	O
 do	_	_	O
@@ -9237,8 +8928,7 @@ math	_	_	I-Premise
 thing	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ,	_	_	O
 if	_	_	O
@@ -9280,8 +8970,7 @@ the	_	_	I-Claim
 bat	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 And	_	_	O
 it	_	_	B-Claim
 would	_	_	I-Claim
@@ -9290,8 +8979,7 @@ seniors	_	_	I-Claim
 choices	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 All	_	_	O
 --	_	_	O
 all	_	_	O
@@ -9299,8 +8987,7 @@ all	_	_	O
 all	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	O
 has	_	_	O
 a	_	_	O
@@ -9309,23 +8996,18 @@ restricted	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Seniors	_	_	B-Claim
 are	_	_	I-Claim
 not	_	_	I-Claim
 denied	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	B-Claim
 are	_	_	I-Claim
 not	_	_	I-Claim
@@ -9353,10 +9035,7 @@ lost	_	_	O
 Medicare	_	_	O
 Advantage	_	_	O
 .	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Because	_	_	O
 it	_	_	B-Claim
 's	_	_	I-Claim
@@ -9368,10 +9047,7 @@ now	_	_	I-Claim
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Because	_	_	B-Premise
 we	_	_	I-Premise
 've	_	_	I-Premise
@@ -9380,8 +9056,7 @@ the	_	_	I-Premise
 law	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
@@ -9418,8 +9093,7 @@ Ryan	_	_	O
 suggests	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9618,10 +9292,7 @@ of	_	_	I-Claim
 Social	_	_	I-Claim
 Security	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 A	_	_	B-Premise
 voucher	_	_	I-Premise
 is	_	_	I-Premise
@@ -9694,10 +9365,7 @@ from	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Make	_	_	B-Premise
 a	_	_	I-Premise
 big	_	_	I-Premise
@@ -9707,8 +9375,7 @@ small	_	_	I-Premise
 ideas	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 were	_	_	O
 one	_	_	O
@@ -9732,8 +9399,7 @@ Social	_	_	O
 Security	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 For	_	_	B-Premise
 younger	_	_	I-Premise
 people	_	_	I-Premise
@@ -9772,8 +9438,7 @@ Security	_	_	I-Premise
 system	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	O
 saw	_	_	O
 how	_	_	O
@@ -9782,8 +9447,7 @@ that	_	_	O
 worked	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -9807,8 +9471,7 @@ and	_	_	I-Premise
 above	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 What	_	_	O
 Mitt	_	_	O
 Romney	_	_	O
@@ -9816,8 +9479,7 @@ is	_	_	O
 proposing	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	B-Premise
 the	_	_	I-Premise
@@ -9857,13 +9519,11 @@ over	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	B-Premise
 would	_	_	I-Premise
 n't	_	_	I-Premise
@@ -9887,22 +9547,17 @@ Now	_	_	O
 here	_	_	O
 's	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Quickly	_	_	O
 ,	_	_	O
 Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Quickly	_	_	O
 .	_	_	O
 The	_	_	O
@@ -10007,7 +9662,6 @@ the	_	_	I-Claim
 wrong	_	_	I-Claim
 way	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 These	_	_	O
 --	_	_	O
 look	_	_	O
@@ -10051,7 +9705,6 @@ you	_	_	I-Premise
 can	_	_	I-Premise
 do	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 folks	_	_	O
@@ -10105,10 +9758,7 @@ and	_	_	O
 the	_	_	O
 president	_	_	O
 ?	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 statistic	_	_	I-Claim
 was	_	_	I-Claim
@@ -10120,8 +9770,7 @@ more	_	_	O
 importantly	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 --	_	_	O
@@ -10134,10 +9783,7 @@ right	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 This	_	_	B-Claim
 is	_	_	I-Claim
 what	_	_	I-Claim
@@ -10181,10 +9827,7 @@ to	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Medicare	_	_	O
 beneficiaries	_	_	O
 --	_	_	O
@@ -10196,10 +9839,7 @@ beneficiaries	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 going	_	_	O
@@ -10214,10 +9854,7 @@ move	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 ...	_	_	O
 very	_	_	O
 simple	_	_	O
@@ -10226,10 +9863,7 @@ question	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 're	_	_	I-Claim
 not	_	_	I-Claim
@@ -10269,10 +9903,7 @@ it	_	_	I-Claim
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 are	_	_	I-Claim
 jeopardizing	_	_	I-Claim
@@ -10340,10 +9971,7 @@ out	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 why	_	_	O
@@ -10363,8 +9991,7 @@ income	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -10404,8 +10031,7 @@ you	_	_	O
 this	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 gave	_	_	O
 you	_	_	O
@@ -10422,8 +10048,7 @@ of	_	_	O
 Medicare	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 OK	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -10461,8 +10086,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 middle	_	_	I-Claim
 class	_	_	I-Claim
@@ -10618,7 +10242,6 @@ $	_	_	I-Premise
 8	_	_	I-Premise
 million	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -10704,7 +10327,6 @@ on	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 They	_	_	B-Premise
 're	_	_	I-Premise
 saying	_	_	I-Premise
@@ -10786,7 +10408,6 @@ $	_	_	I-Premise
 a	_	_	I-Premise
 year	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 This	_	_	B-Premise
 is	_	_	I-Premise
 unconscionable	_	_	I-Premise
@@ -10843,15 +10464,11 @@ next	_	_	I-Claim
 10	_	_	I-Claim
 years	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Our	_	_	B-Claim
 entire	_	_	I-Claim
 premise	_	_	I-Claim
@@ -10926,8 +10543,7 @@ business	_	_	I-Claim
 income	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 if	_	_	B-Premise
@@ -11053,7 +10669,6 @@ coming	_	_	I-Claim
 to	_	_	I-Claim
 you	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 That	_	_	O
 's	_	_	O
 why	_	_	O
@@ -11151,7 +10766,6 @@ above	_	_	I-Premise
 40	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Two	_	_	B-Premise
 -	_	_	I-Premise
 thirds	_	_	I-Premise
@@ -11207,7 +10821,6 @@ deficit	_	_	I-Claim
 spending	_	_	I-Claim
 increases	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	B-Claim
 we	_	_	I-Claim
 are	_	_	I-Claim
@@ -11271,7 +10884,6 @@ high	_	_	I-Claim
 income	_	_	I-Claim
 earners	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 He	_	_	B-Claim
 'll	_	_	I-Claim
 keep	_	_	I-Claim
@@ -11308,10 +10920,7 @@ was	_	_	I-Premise
 n't	_	_	I-Premise
 correct	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -11375,8 +10984,7 @@ tell	_	_	O
 voters	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Different	_	_	O
 than	_	_	O
 this	_	_	O
@@ -11399,8 +11007,7 @@ understand	_	_	O
 the	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 have	_	_	O
@@ -11430,8 +11037,7 @@ Republican	_	_	O
 Congress	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 know	_	_	O
@@ -11442,8 +11048,7 @@ you	_	_	O
 doing	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 --	_	_	O
 look	_	_	O
@@ -11559,17 +11164,13 @@ base	_	_	I-Claim
 of	_	_	I-Claim
 taxation	_	_	I-Claim
 ...	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 translate	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 so	_	_	I-Claim
 we	_	_	I-Claim
@@ -11603,8 +11204,7 @@ the	_	_	O
 framework	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 I	_	_	O
@@ -11619,16 +11219,14 @@ to	_	_	O
 this	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 'll	_	_	O
 get	_	_	O
 time	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -11657,16 +11255,14 @@ successful	_	_	O
 Look	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 No	_	_	O
 specifics	_	_	O
 ,	_	_	O
 again	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Mitt	_	_	O
 --	_	_	O
 what	_	_	B-Claim
@@ -11694,8 +11290,7 @@ do	_	_	I-Claim
 it	_	_	I-Claim
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 guarantee	_	_	O
@@ -11706,8 +11301,7 @@ add	_	_	O
 up	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 Six	_	_	B-Premise
@@ -11730,8 +11324,7 @@ here	_	_	O
 's	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
@@ -11739,19 +11332,13 @@ Biden	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ...	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 ..	_	_	O
 let	_	_	O
 me	_	_	O
@@ -11766,8 +11353,7 @@ to	_	_	O
 translate	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 come	_	_	O
@@ -11781,8 +11367,7 @@ then	_	_	O
 right	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -11964,7 +11549,6 @@ That	_	_	I-Premise
 fair	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 This	_	_	O
 is	_	_	O
 --	_	_	O
@@ -12016,10 +11600,7 @@ They	_	_	O
 exempt	_	_	O
 that	_	_	O
 .	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 there	_	_	O
@@ -12121,8 +11702,7 @@ at	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Is	_	_	O
 he	_	_	O
 wrong	_	_	O
@@ -12130,8 +11710,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 is	_	_	I-Claim
 wrong	_	_	I-Claim
@@ -12142,15 +11721,13 @@ They	_	_	O
 're	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 How	_	_	O
 's	_	_	O
 that	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 You	_	_	O
 can	_	_	O
 --	_	_	O
@@ -12175,15 +11752,13 @@ class	_	_	I-Claim
 taxpayers	_	_	I-Claim
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Not	_	_	B-Claim
 mathematically	_	_	I-Claim
 possible	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 is	_	_	I-Claim
 mathematically	_	_	I-Claim
@@ -12204,8 +11779,7 @@ we	_	_	I-Claim
 proposing	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 has	_	_	I-Claim
 never	_	_	I-Claim
@@ -12214,8 +11788,7 @@ done	_	_	I-Claim
 before	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 been	_	_	I-Claim
@@ -12228,8 +11801,7 @@ times	_	_	I-Claim
 actually	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 has	_	_	I-Claim
 never	_	_	I-Claim
@@ -12238,8 +11810,7 @@ done	_	_	I-Claim
 before	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 Jack	_	_	B-Premise
 Kennedy	_	_	I-Premise
 lowered	_	_	I-Premise
@@ -12253,8 +11824,7 @@ Ronald	_	_	O
 Reagan	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 now	_	_	O
@@ -12266,10 +11836,7 @@ Kennedy	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Ronald	_	_	B-Premise
 Reagan	_	_	I-Premise
 --	_	_	I-Premise
@@ -12278,15 +11845,13 @@ and	_	_	I-Premise
 Democrats	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 amazing	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Republican	_	_	I-Premise
 and	_	_	I-Premise
 Democrats	_	_	I-Premise
@@ -12297,15 +11862,13 @@ on	_	_	I-Premise
 this	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -12322,8 +11885,7 @@ bipartisan	_	_	O
 deals	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 But	_	_	O
 we	_	_	B-Claim
 told	_	_	I-Claim
@@ -12337,15 +11899,13 @@ to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 Republicans	_	_	O
 and	_	_	O
 Democrats	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 When	_	_	B-Premise
 we	_	_	I-Premise
 did	_	_	I-Premise
@@ -12370,10 +11930,7 @@ cut	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 what	_	_	O
@@ -12381,8 +11938,7 @@ we	_	_	O
 said	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 said	_	_	I-Premise
 here	_	_	I-Premise
@@ -12405,16 +11961,14 @@ That	_	_	O
 exactly	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Fill	_	_	O
 in	_	_	O
 the	_	_	O
 detail	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 how	_	_	I-Claim
@@ -12440,10 +11994,7 @@ way	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	B-Premise
 's	_	_	I-Premise
 coming	_	_	I-Premise
@@ -12462,8 +12013,7 @@ Come	_	_	O
 on	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Mitt	_	_	B-Premise
 Romney	_	_	I-Premise
 was	_	_	I-Premise
@@ -12518,8 +12068,7 @@ compromise	_	_	I-Premise
 principles	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 saw	_	_	O
@@ -12527,8 +12076,7 @@ what	_	_	O
 happened	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 He	_	_	B-Premise
 found	_	_	I-Premise
 common	_	_	I-Premise
@@ -12541,8 +12089,7 @@ the	_	_	I-Premise
 budget	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	O
 saw	_	_	O
 --	_	_	O
@@ -12555,8 +12102,7 @@ great	_	_	O
 job	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -12564,10 +12110,7 @@ President	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 four	_	_	I-Premise
 times	_	_	I-Premise
@@ -12576,8 +12119,7 @@ raising	_	_	I-Premise
 taxes	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Why	_	_	O
 is	_	_	O
 n't	_	_	O
@@ -12589,10 +12131,7 @@ Massachusetts	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -12624,8 +12163,7 @@ term	_	_	O
 deficit	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Just	_	_	B-Claim
 let	_	_	I-Claim
 the	_	_	I-Claim
@@ -12710,8 +12248,7 @@ the	_	_	O
 childcare	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 declare	_	_	O
@@ -12721,8 +12258,7 @@ off	_	_	O
 limits	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Why	_	_	O
 do	_	_	O
 they	_	_	O
@@ -12730,8 +12266,7 @@ do	_	_	O
 that	_	_	O
 ?	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 declare	_	_	O
@@ -12741,8 +12276,7 @@ off	_	_	O
 limits	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -12752,15 +12286,13 @@ close	_	_	I-Claim
 loopholes	_	_	I-Claim
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Home	_	_	O
 mortgage	_	_	O
 deduction	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 on	_	_	I-Claim
 high	_	_	I-Claim
@@ -12769,15 +12301,13 @@ interest	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Home	_	_	O
 mortgage	_	_	O
 deduction	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 For	_	_	O
 higher	_	_	O
 -	_	_	O
@@ -12787,8 +12317,7 @@ people	_	_	O
 Here	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 guarantee	_	_	O
@@ -12813,8 +12342,7 @@ impacted	_	_	O
 Guarantee	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 This	_	_	B-Premise
 taxes	_	_	I-Premise
 a	_	_	I-Premise
@@ -12845,8 +12373,7 @@ an	_	_	I-Claim
 actor	_	_	I-Claim
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Ninety	_	_	B-Premise
 -	_	_	I-Premise
 seven	_	_	I-Premise
@@ -12869,8 +12396,7 @@ be	_	_	I-Premise
 affected	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 Joe	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -12892,8 +12418,7 @@ small	_	_	O
 businesses	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Does	_	_	O
 it	_	_	O
 tax	_	_	O
@@ -12905,8 +12430,7 @@ American	_	_	O
 businesses	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 It	_	_	B-Premise
 taxes	_	_	I-Premise
 a	_	_	I-Premise
@@ -12915,14 +12439,12 @@ small	_	_	I-Premise
 businesses	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Small	_	_	O
 businesses	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 who	_	_	I-Premise
 are	_	_	I-Premise
@@ -12932,8 +12454,7 @@ job	_	_	I-Premise
 creators	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 wish	_	_	O
 I	_	_	O
@@ -12953,8 +12474,7 @@ fund	_	_	O
 guys	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 're	_	_	O
@@ -12970,8 +12490,7 @@ defense	_	_	O
 budget	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Think	_	_	O
 about	_	_	O
 it	_	_	O
@@ -12979,8 +12498,7 @@ this	_	_	O
 way	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 're	_	_	O
@@ -12992,8 +12510,7 @@ defense	_	_	O
 budget	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -13015,8 +12532,7 @@ they	_	_	I-Claim
 proposing	_	_	I-Claim
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	B-Claim
 're	_	_	I-Claim
 going	_	_	I-Claim
@@ -13028,8 +12544,7 @@ $	_	_	I-Claim
 billion	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 not	_	_	O
@@ -13037,19 +12552,13 @@ not	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 talking	_	_	O
 about	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 So	_	_	O
 no	_	_	O
 massive	_	_	O
@@ -13057,8 +12566,7 @@ defense	_	_	O
 increases	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -13078,8 +12586,7 @@ defense	_	_	O
 now	_	_	O
 ?	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13096,8 +12603,7 @@ math	_	_	O
 question	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 So	_	_	O
 --	_	_	O
 right	_	_	O
@@ -13105,8 +12611,7 @@ right	_	_	O
 OK	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -13114,8 +12619,7 @@ do	_	_	O
 that	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 So	_	_	O
 they	_	_	O
 proposed	_	_	O
@@ -13170,8 +12674,7 @@ trillion	_	_	O
 cut	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 put	_	_	O
@@ -13184,15 +12687,13 @@ aside	_	_	O
 OK	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Right	_	_	O
 ,	_	_	O
 OK	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 put	_	_	O
@@ -13205,8 +12706,7 @@ wants	_	_	O
 that	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -13217,8 +12717,7 @@ to	_	_	O
 that	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 want	_	_	O
@@ -13238,15 +12737,13 @@ defense	_	_	O
 spending	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Two	_	_	O
 trillion	_	_	O
 dollars	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 You	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -13266,8 +12763,7 @@ talking	_	_	O
 about	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 what	_	_	O
 --	_	_	O
@@ -13280,8 +12776,7 @@ an	_	_	O
 increase	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Who	_	_	O
 's	_	_	O
 cutting	_	_	O
@@ -13292,8 +12787,7 @@ $	_	_	O
 trillion	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 're	_	_	I-Premise
 going	_	_	I-Premise
@@ -13321,8 +12815,7 @@ Fighter	_	_	I-Premise
 out	_	_	I-Premise
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Drawing	_	_	O
 down	_	_	O
 in	_	_	O
@@ -13333,8 +12826,7 @@ one	_	_	O
 war	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 these	_	_	I-Premise
 cuts	_	_	I-Premise
@@ -13391,7 +12883,6 @@ on	_	_	I-Claim
 our	_	_	I-Claim
 military	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 we	_	_	B-Claim
 're	_	_	I-Claim
@@ -13422,10 +12913,7 @@ a	_	_	I-Claim
 trillion	_	_	I-Claim
 dollars	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Quickly	_	_	O
 ,	_	_	O
 Vice	_	_	O
@@ -13441,8 +12929,7 @@ move	_	_	O
 on	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -13532,10 +13019,7 @@ a	_	_	I-Premise
 long	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 tell	_	_	O
@@ -13547,10 +13031,7 @@ meant	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 've	_	_	I-Claim
 been	_	_	I-Claim
@@ -13563,8 +13044,7 @@ long	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 And	_	_	O
 so	_	_	O
 the	_	_	B-Premise
@@ -13632,10 +13112,7 @@ is	_	_	I-Claim
 more	_	_	I-Claim
 UAVs	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Some	_	_	O
 of	_	_	O
 the	_	_	O
@@ -13644,10 +13121,7 @@ military	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Not	_	_	O
 some	_	_	O
 of	_	_	O
@@ -13681,8 +13155,7 @@ a	_	_	I-Premise
 fact	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Who	_	_	B-Premise
 answers	_	_	I-Premise
 to	_	_	I-Premise
@@ -13691,8 +13164,7 @@ civilian	_	_	I-Premise
 leader	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 They	_	_	B-Premise
 made	_	_	I-Premise
 the	_	_	I-Premise
@@ -13700,8 +13172,7 @@ recommendation	_	_	I-Premise
 first	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 Let	_	_	O
@@ -13712,8 +13183,7 @@ to	_	_	O
 Afghanistan	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 get	_	_	O
@@ -13724,8 +13194,7 @@ a	_	_	O
 second	_	_	O
 ?	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -13794,7 +13263,6 @@ trying	_	_	I-Premise
 to	_	_	I-Premise
 help	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -13836,10 +13304,7 @@ more	_	_	O
 American	_	_	O
 lives	_	_	O
 ?	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -13883,7 +13348,6 @@ their	_	_	I-Premise
 2014	_	_	I-Premise
 transition	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 when	_	_	B-Claim
@@ -13995,7 +13459,6 @@ front	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 then	_	_	B-Premise
 to	_	_	I-Premise
@@ -14027,7 +13490,6 @@ short	_	_	I-Claim
 of	_	_	I-Claim
 amazing	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	B-Claim
 we	_	_	I-Claim
 do	_	_	I-Claim
@@ -14105,7 +13567,6 @@ shooting	_	_	I-Premise
 at	_	_	I-Premise
 us	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 want	_	_	I-Claim
@@ -14152,17 +13613,13 @@ pad	_	_	I-Premise
 for	_	_	I-Premise
 terrorists	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -14262,7 +13719,6 @@ was	_	_	I-Premise
 our	_	_	I-Premise
 purpose	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -14332,7 +13788,6 @@ the	_	_	I-Premise
 year	_	_	I-Premise
 2014	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 My	_	_	B-Premise
 friend	_	_	I-Premise
 and	_	_	I-Premise
@@ -14450,7 +13905,6 @@ that	_	_	I-Claim
 exist	_	_	I-Claim
 there	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 are	_	_	I-Claim
@@ -14526,7 +13980,6 @@ their	_	_	I-Premise
 own	_	_	I-Premise
 security	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 It	_	_	B-Claim
 's	_	_	I-Claim
 their	_	_	I-Claim
@@ -14536,10 +13989,7 @@ not	_	_	I-Claim
 America	_	_	I-Claim
 's	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 --	_	_	O
 what	_	_	O
@@ -14552,8 +14002,7 @@ Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -14749,10 +14198,7 @@ here	_	_	I-Premise
 at	_	_	I-Premise
 home	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 go	_	_	O
@@ -14792,10 +14238,7 @@ justify	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 know	_	_	O
@@ -14805,8 +14248,7 @@ say	_	_	O
 that	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -14816,10 +14258,7 @@ know	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Because	_	_	O
 we	_	_	B-Claim
 do	_	_	I-Claim
@@ -14857,10 +14296,7 @@ sure	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 But	_	_	O
 you	_	_	O
 agree	_	_	O
@@ -14869,8 +14305,7 @@ the	_	_	O
 timeline	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	O
 do	_	_	O
 agree	_	_	O
@@ -14918,8 +14353,7 @@ to	_	_	O
 do	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 will	_	_	I-Claim
 leave	_	_	I-Claim
@@ -14927,8 +14361,7 @@ in	_	_	I-Claim
 2014	_	_	I-Claim
 .	_	_	I-Claim
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 what	_	_	B-Premise
 we	_	_	I-Premise
@@ -14974,10 +14407,7 @@ over	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ,	_	_	O
 that	_	_	O
@@ -14987,8 +14417,7 @@ bizarre	_	_	O
 statement	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 why	_	_	O
@@ -15013,10 +14442,7 @@ that	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Forty	_	_	B-Premise
 -	_	_	I-Premise
 nine	_	_	I-Premise
@@ -15038,8 +14464,7 @@ this	_	_	I-Premise
 position	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 And	_	_	O
 we	_	_	O
 're	_	_	O
@@ -15052,10 +14477,7 @@ to	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Forty	_	_	B-Premise
 -	_	_	I-Premise
 nine	_	_	I-Premise
@@ -15088,8 +14510,7 @@ responsibilities	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 really	_	_	O
@@ -15101,10 +14522,7 @@ timeline	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Which	_	_	O
 is	_	_	O
 --	_	_	O
@@ -15114,10 +14532,7 @@ is	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 --	_	_	O
@@ -15152,8 +14567,7 @@ this	_	_	O
 timeline	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -15254,18 +14668,14 @@ step	_	_	I-Claim
 up	_	_	I-Claim
 .	_	_	I-Claim
 "	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 go	_	_	O
 back	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 the	_	_	I-Claim
@@ -15275,8 +14685,7 @@ it	_	_	I-Claim
 works	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 go	_	_	O
@@ -15372,15 +14781,13 @@ troops	_	_	O
 home	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	O
 military	_	_	O
 reason	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 ...	_	_	O
 before	_	_	O
 the	_	_	O
@@ -15389,8 +14796,7 @@ had	_	_	O
 ended	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 was	_	_	O
 bringing	_	_	O
@@ -15488,10 +14894,7 @@ for	_	_	O
 that	_	_	O
 is	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 military	_	_	I-Premise
 follows	_	_	I-Premise
@@ -15520,8 +14923,7 @@ fighting	_	_	I-Premise
 season	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 There	_	_	B-Claim
@@ -15629,20 +15031,14 @@ draw	_	_	I-Premise
 down	_	_	I-Premise
 forces	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 ...	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 try	_	_	O
@@ -15759,7 +15155,6 @@ it	_	_	I-Premise
 goes	_	_	I-Premise
 down	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 so	_	_	O
 when	_	_	O
@@ -15799,7 +15194,6 @@ That	_	_	B-Premise
 the	_	_	I-Premise
 problem	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Yes	_	_	O
 ,	_	_	O
 we	_	_	B-Premise
@@ -15841,16 +15235,12 @@ them	_	_	I-Claim
 less	_	_	I-Claim
 safe	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Fighting	_	_	O
 season	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 're	_	_	I-Premise
 sending	_	_	I-Premise
@@ -15878,8 +15268,7 @@ month	_	_	I-Premise
 ago	_	_	I-Premise
 .	_	_	I-Premise
 
-BIDEN	_	_	O
-:	_	_	O
+
 Because	_	_	O
 we	_	_	O
 turned	_	_	O
@@ -15887,8 +15276,7 @@ it	_	_	O
 over	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 But	_	_	O
 we	_	_	B-Premise
 took	_	_	I-Premise
@@ -15897,8 +15285,7 @@ people	_	_	I-Premise
 out	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 we	_	_	B-Premise
 turned	_	_	I-Premise
@@ -15978,8 +15365,7 @@ them	_	_	I-Premise
 out	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 The	_	_	O
 calendar	_	_	O
 works	_	_	O
@@ -15989,8 +15375,7 @@ every	_	_	O
 year	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 It	_	_	O
 does	_	_	O
 work	_	_	O
@@ -16007,8 +15392,7 @@ staying	_	_	O
 there	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Spring	_	_	O
 ,	_	_	O
 summer	_	_	O
@@ -16074,10 +15458,7 @@ that	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
@@ -16095,16 +15476,14 @@ trained	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 Not	_	_	O
 in	_	_	O
 the	_	_	O
 east	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 move	_	_	O
@@ -16117,16 +15496,14 @@ another	_	_	O
 war	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Not	_	_	O
 in	_	_	O
 the	_	_	O
 east	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 R.C.	_	_	O
 East	_	_	O
 --	_	_	O
@@ -16134,8 +15511,7 @@ R.C.	_	_	O
 East	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 R.C.	_	_	O
 East	_	_	B-Premise
 is	_	_	I-Premise
@@ -16148,8 +15524,7 @@ the	_	_	I-Premise
 world	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
@@ -16169,8 +15544,7 @@ to	_	_	O
 the	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 --	_	_	O
@@ -16207,8 +15581,7 @@ the	_	_	O
 trainees	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 .	_	_	O
 We	_	_	B-Claim
@@ -16233,8 +15606,7 @@ whole	_	_	O
 problem	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
@@ -16257,8 +15629,7 @@ the	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 move	_	_	O
@@ -16342,8 +15713,7 @@ President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Different	_	_	B-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
@@ -16414,7 +15784,6 @@ a	_	_	I-Premise
 regional	_	_	I-Premise
 war	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	B-Premise
 're	_	_	I-Premise
 in	_	_	I-Premise
@@ -16469,7 +15838,6 @@ potentially	_	_	I-Premise
 regional	_	_	I-Premise
 wars	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Premise
 are	_	_	I-Premise
 working	_	_	I-Premise
@@ -16537,7 +15905,6 @@ that	_	_	I-Premise
 follows	_	_	I-Premise
 on	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 all	_	_	O
 this	_	_	O
@@ -16585,7 +15952,6 @@ on	_	_	O
 the	_	_	O
 ground	_	_	O
 ?	_	_	O
- 	_	_	O
 The	_	_	B-Claim
 last	_	_	I-Claim
 thing	_	_	I-Claim
@@ -16628,7 +15994,6 @@ are	_	_	O
 the	_	_	O
 facts	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 every	_	_	B-Premise
@@ -16680,7 +16045,6 @@ are	_	_	I-Premise
 doing	_	_	I-Premise
 now	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Are	_	_	O
 they	_	_	O
 proposing	_	_	O
@@ -16726,7 +16090,6 @@ they	_	_	I-Premise
 're	_	_	I-Premise
 saying	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 are	_	_	I-Claim
 doing	_	_	I-Claim
@@ -16772,16 +16135,12 @@ Bashar	_	_	I-Claim
 Assad	_	_	I-Claim
 falls	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Nobody	_	_	B-Claim
 is	_	_	I-Claim
 proposing	_	_	I-Claim
@@ -16869,7 +16228,6 @@ three	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Hillary	_	_	B-Premise
 Clinton	_	_	I-Premise
 went	_	_	I-Premise
@@ -16922,7 +16280,6 @@ reset	_	_	I-Premise
 not	_	_	I-Premise
 working	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 so	_	_	O
 where	_	_	O
@@ -16972,7 +16329,6 @@ into	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 the	_	_	B-Premise
 longer	_	_	I-Premise
@@ -17064,7 +16420,6 @@ Bashar	_	_	I-Premise
 Assad	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 gave	_	_	I-Claim
 Russia	_	_	I-Claim
@@ -17084,10 +16439,7 @@ Syrians	_	_	I-Premise
 are	_	_	I-Premise
 dead	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 What	_	_	O
 would	_	_	O
 my	_	_	O
@@ -17106,8 +16458,7 @@ the	_	_	O
 question	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -17130,8 +16481,7 @@ these	_	_	I-Claim
 things	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 --	_	_	O
@@ -17280,10 +16630,7 @@ in	_	_	I-Claim
 our	_	_	I-Claim
 interest	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 happens	_	_	O
 if	_	_	O
@@ -17315,8 +16662,7 @@ he	_	_	O
 does	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Then	_	_	B-Premise
 Iran	_	_	I-Premise
 keeps	_	_	I-Premise
@@ -17362,8 +16708,7 @@ the	_	_	O
 reset	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 So	_	_	O
 what	_	_	O
 would	_	_	O
@@ -17376,8 +16721,7 @@ that	_	_	O
 credibility	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Premise
@@ -17448,10 +16792,7 @@ reformer	_	_	I-Claim
 .	_	_	I-Claim
 And	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 your	_	_	O
@@ -17460,10 +16801,7 @@ criteria	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 we	_	_	O
 should	_	_	O
@@ -17479,8 +16817,7 @@ to	_	_	I-Claim
 Russia	_	_	I-Claim
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 your	_	_	O
@@ -17489,10 +16826,7 @@ criteria	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 should	_	_	I-Claim
 not	_	_	I-Claim
@@ -17516,13 +16850,11 @@ about	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 Russia	_	_	O
 ...	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 They	_	_	B-Premise
 're	_	_	I-Premise
 --	_	_	I-Premise
@@ -17541,8 +16873,7 @@ over	_	_	I-Premise
 Iraq	_	_	I-Premise
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	B-Premise
 opposition	_	_	I-Premise
@@ -17551,8 +16882,7 @@ being	_	_	I-Premise
 armed	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 to	_	_	I-Premise
 help	_	_	I-Premise
@@ -17613,8 +16943,7 @@ well	_	_	O
 again	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 ask	_	_	O
@@ -17624,15 +16953,13 @@ quick	_	_	O
 question	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
 ...	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 your	_	_	O
@@ -17641,24 +16968,20 @@ for	_	_	O
 intervention	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 In	_	_	O
 Syria	_	_	O
 ?	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Worldwide	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 What	_	_	B-Claim
 is	_	_	I-Claim
 in	_	_	I-Claim
@@ -17671,16 +16994,14 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 How	_	_	O
 about	_	_	O
 humanitarian	_	_	O
 interests	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 What	_	_	B-Claim
 is	_	_	I-Claim
 in	_	_	I-Claim
@@ -17707,14 +17028,12 @@ our	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 No	_	_	O
 humanitarian	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Each	_	_	B-Premise
 situation	_	_	I-Premise
 will	_	_	I-Premise
@@ -17753,8 +17072,7 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -17771,8 +17089,7 @@ time	_	_	O
 here	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 means	_	_	I-Claim
 like	_	_	I-Claim
@@ -17816,8 +17133,7 @@ security	_	_	I-Claim
 interests	_	_	I-Claim
 .	_	_	I-Claim
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -17924,15 +17240,11 @@ in	_	_	O
 this	_	_	O
 country	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 ...	_	_	O
 please	_	_	O
 talk	_	_	O
@@ -17947,10 +17259,7 @@ could	_	_	O
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -18008,8 +17317,7 @@ in	_	_	I-Premise
 life	_	_	I-Premise
 .	_	_	I-Premise
 
-RYAN	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -18132,7 +17440,6 @@ begins	_	_	I-Claim
 at	_	_	I-Claim
 conception	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 That	_	_	O
 's	_	_	O
 why	_	_	O
@@ -18254,7 +17561,6 @@ churches	_	_	I-Claim
 Catholic	_	_	I-Claim
 hospitals	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Our	_	_	B-Claim
 church	_	_	I-Claim
 should	_	_	I-Claim
@@ -18350,17 +17656,13 @@ is	_	_	I-Claim
 pretty	_	_	I-Claim
 extreme	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 My	_	_	B-Premise
 religion	_	_	I-Premise
 defines	_	_	I-Premise
@@ -18620,7 +17922,6 @@ is	_	_	I-Premise
 a	_	_	I-Premise
 fact	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 That	_	_	B-Premise
 is	_	_	I-Premise
 a	_	_	I-Premise
@@ -18710,16 +18011,12 @@ with	_	_	I-Claim
 my	_	_	I-Claim
 friend	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 All	_	_	O
 I	_	_	O
 'm	_	_	O
@@ -18790,10 +18087,7 @@ and	_	_	O
 religious	_	_	O
 liberty	_	_	O
 .	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 on	_	_	O
@@ -18803,10 +18097,7 @@ issue	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 why	_	_	O
 would	_	_	O
@@ -18829,8 +18120,7 @@ a	_	_	O
 difference	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -18864,8 +18154,7 @@ be	_	_	O
 worried	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -18900,8 +18189,7 @@ this	_	_	I-Claim
 determination	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 court	_	_	I-Premise
 --	_	_	I-Premise
@@ -19029,10 +18317,7 @@ the	_	_	O
 Supreme	_	_	O
 Court	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 Was	_	_	O
 there	_	_	O
 a	_	_	O
@@ -19042,8 +18327,7 @@ on	_	_	O
 them	_	_	O
 ?	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 was	_	_	I-Claim
 no	_	_	I-Claim
@@ -19067,8 +18351,7 @@ an	_	_	I-Premise
 agenda	_	_	I-Premise
 .	_	_	I-Premise
 
-RADDATZ	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 --	_	_	O
@@ -19126,7 +18409,6 @@ serve	_	_	O
 as	_	_	O
 well	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 recently	_	_	O
 spoke	_	_	O
@@ -19174,7 +18456,6 @@ the	_	_	O
 country	_	_	O
 .	_	_	O
 "	_	_	O
- 	_	_	O
 What	_	_	O
 would	_	_	O
 you	_	_	O
@@ -19203,15 +18484,11 @@ by	_	_	O
 the	_	_	O
 tone	_	_	O
 ?	_	_	O
- 	_	_	O
 Vice	_	_	O
 President	_	_	O
 Biden	_	_	O
 ?	_	_	O
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 would	_	_	I-Premise
 say	_	_	I-Premise
@@ -19345,7 +18622,6 @@ not	_	_	I-Claim
 taking	_	_	I-Claim
 responsibility	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 would	_	_	I-Claim
 also	_	_	I-Claim
@@ -19424,7 +18700,6 @@ it	_	_	B-Claim
 an	_	_	I-Claim
 abomination	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 the	_	_	O
 bottom	_	_	O
@@ -19526,7 +18801,6 @@ of	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 'd	_	_	I-Claim
 ask	_	_	I-Claim
@@ -19577,7 +18851,6 @@ interests	_	_	I-Claim
 very	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 there	_	_	B-Claim
 are	_	_	I-Claim
@@ -19597,16 +18870,12 @@ not	_	_	I-Claim
 very	_	_	I-Claim
 appealing	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -19649,7 +18918,6 @@ and	_	_	I-Claim
 their	_	_	I-Claim
 safety	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 then	_	_	B-Claim
 I	_	_	I-Claim
@@ -19685,7 +18953,6 @@ blame	_	_	I-Claim
 and	_	_	I-Claim
 defame	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 You	_	_	O
 see	_	_	O
 ,	_	_	O
@@ -19730,7 +18997,6 @@ doing	_	_	I-Claim
 right	_	_	I-Claim
 now	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Look	_	_	B-Claim
 at	_	_	I-Claim
 all	_	_	I-Claim
@@ -19790,7 +19056,6 @@ to	_	_	I-Premise
 lose	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Or	_	_	B-Premise
 remember	_	_	I-Premise
 when	_	_	I-Premise
@@ -19831,7 +19096,6 @@ the	_	_	I-Premise
 middle	_	_	I-Premise
 class	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Or	_	_	O
 remember	_	_	B-Premise
 when	_	_	I-Premise
@@ -19869,7 +19133,6 @@ another	_	_	I-Premise
 $	_	_	I-Premise
 2,400	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Or	_	_	O
 remember	_	_	B-Premise
 when	_	_	I-Premise
@@ -19910,7 +19173,6 @@ trillion	_	_	I-Premise
 dollar	_	_	I-Premise
 deficits	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 A	_	_	B-Premise
 debt	_	_	I-Premise
 crisis	_	_	I-Premise
@@ -19938,7 +19200,6 @@ do	_	_	I-Claim
 n't	_	_	I-Claim
 have	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Leaders	_	_	O
 run	_	_	O
 to	_	_	O
@@ -19990,7 +19251,6 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 table	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Premise
 've	_	_	I-Premise
 got	_	_	I-Premise
@@ -20089,7 +19349,6 @@ estimate	_	_	I-Premise
 speeches	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 You	_	_	O
 see	_	_	O
 ,	_	_	O
@@ -20111,7 +19370,6 @@ not	_	_	I-Claim
 getting	_	_	I-Claim
 leadership	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Mitt	_	_	B-Claim
 Romney	_	_	I-Claim
 is	_	_	I-Claim
@@ -20134,7 +19392,6 @@ record	_	_	I-Premise
 of	_	_	I-Premise
 bipartisanship	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 what	_	_	O
 do	_	_	O
@@ -20161,7 +19418,6 @@ country	_	_	I-Claim
 biggest	_	_	I-Claim
 problems	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 what	_	_	B-Claim
 I	_	_	I-Claim
@@ -20178,15 +19434,11 @@ settle	_	_	I-Claim
 for	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-BIDEN	_	_	O
-:	_	_	O
+
 Martha	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 can	_	_	I-Claim
 do	_	_	I-Claim
@@ -20195,8 +19447,7 @@ than	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 I	_	_	O
@@ -20206,8 +19457,7 @@ equal	_	_	O
 time	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 will	_	_	O
 get	_	_	O
@@ -20224,8 +19474,7 @@ seconds	_	_	O
 really	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 two	_	_	I-Claim
 budgets	_	_	I-Claim
@@ -20326,7 +19575,6 @@ enough	_	_	O
 of	_	_	O
 this	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 idea	_	_	O
 that	_	_	O
@@ -20356,10 +19604,7 @@ card	_	_	O
 He	_	_	O
 did	_	_	O
 ...	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 going	_	_	O
@@ -20379,10 +19624,7 @@ minute	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 going	_	_	O
@@ -20393,8 +19635,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Not	_	_	O
 raising	_	_	O
 taxes	_	_	O
@@ -20412,8 +19653,7 @@ our	_	_	O
 budget	_	_	O
 ...	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 not	_	_	O
@@ -20422,10 +19662,7 @@ raised	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RYAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 by	_	_	O
 3	_	_	O
@@ -20456,8 +19693,7 @@ spending	_	_	O
 cut	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 --	_	_	O
@@ -20522,8 +19758,7 @@ else	_	_	O
 could	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 Honesty	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -20677,14 +19912,10 @@ sometimes	_	_	O
 and	_	_	O
 then	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -20727,8 +19958,7 @@ seconds	_	_	O
 here	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 he	_	_	B-Claim
@@ -20744,8 +19974,7 @@ that	_	_	O
 OK	_	_	O
 .	_	_	O
 
-RADDATZ	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 did	_	_	I-Claim
 n't	_	_	I-Claim
@@ -20759,8 +19988,7 @@ have	_	_	I-Claim
 40	_	_	I-Claim
 .	_	_	I-Claim
 
-BIDEN	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 all	_	_	O
@@ -20840,7 +20068,6 @@ the	_	_	I-Premise
 same	_	_	I-Premise
 responsibility	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	B-Premise
 at	_	_	I-Premise
 my	_	_	I-Premise
@@ -20881,10 +20108,7 @@ the	_	_	I-Claim
 top	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 OK	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -20921,8 +20145,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -21054,7 +20277,6 @@ n't	_	_	I-Premise
 take	_	_	I-Premise
 responsibility	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 He	_	_	B-Premise
 's	_	_	I-Premise
 talking	_	_	I-Premise
@@ -21161,7 +20383,6 @@ peace	_	_	I-Claim
 of	_	_	I-Claim
 mind	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 president	_	_	I-Claim
@@ -21237,16 +20458,12 @@ is	_	_	O
 all	_	_	O
 about	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 Congressman	_	_	O
 Ryan	_	_	O
 ?	_	_	O
 
-RYAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -21363,7 +20580,6 @@ jobs	_	_	I-Claim
 we	_	_	I-Claim
 need	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Twenty	_	_	B-Premise
 -	_	_	I-Premise
 three	_	_	I-Premise
@@ -21420,7 +20636,6 @@ for	_	_	I-Claim
 every	_	_	I-Claim
 American	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Mitt	_	_	B-Claim
 Romney	_	_	I-Claim
 --	_	_	O
@@ -21470,7 +20685,6 @@ the	_	_	O
 White	_	_	O
 House	_	_	O
 ?	_	_	O
- 	_	_	O
 The	_	_	O
 choice	_	_	O
 is	_	_	O
@@ -21542,7 +20756,6 @@ our	_	_	I-Claim
 founding	_	_	I-Claim
 principles	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 choice	_	_	O
 is	_	_	O
@@ -21566,10 +20779,7 @@ vote	_	_	O
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
- 
-	_	_	O
-RADDATZ	_	_	O
-:	_	_	O
+
 And	_	_	O
 thank	_	_	O
 you	_	_	O
@@ -21582,8 +20792,7 @@ very	_	_	O
 much	_	_	O
 .	_	_	O
 
-BIDEN	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O

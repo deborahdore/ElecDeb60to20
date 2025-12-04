@@ -1,5 +1,4 @@
-LEHRER	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -60,8 +59,7 @@ Republican	_	_	O
 nominee	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 This	_	_	O
 debate	_	_	O
 and	_	_	O
@@ -175,7 +173,6 @@ or	_	_	O
 the	_	_	O
 candidates	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 segments	_	_	O
 as	_	_	O
@@ -225,7 +222,6 @@ minute	_	_	O
 closing	_	_	O
 statements	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 audience	_	_	O
 here	_	_	O
@@ -285,11 +281,9 @@ and	_	_	O
 Governor	_	_	O
 Romney	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 APPLAUSE	_	_	O
 )	_	_	O
- 	_	_	O
 Gentlemen	_	_	O
 ,	_	_	O
 welcome	_	_	O
@@ -333,10 +327,7 @@ creating	_	_	O
 new	_	_	O
 jobs	_	_	O
 ?	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 two	_	_	O
@@ -365,8 +356,7 @@ go	_	_	O
 first	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -432,7 +422,6 @@ to	_	_	O
 marry	_	_	O
 me	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	O
@@ -468,11 +457,9 @@ of	_	_	O
 million	_	_	O
 people	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -514,7 +501,6 @@ had	_	_	I-Premise
 frozen	_	_	I-Premise
 up	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 because	_	_	B-Premise
 of	_	_	I-Premise
@@ -570,7 +556,6 @@ begun	_	_	I-Premise
 to	_	_	I-Premise
 rise	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 we	_	_	B-Premise
 all	_	_	I-Premise
@@ -606,7 +591,6 @@ we	_	_	I-Claim
 're	_	_	I-Claim
 going	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Governor	_	_	B-Premise
 Romney	_	_	I-Premise
 has	_	_	I-Premise
@@ -643,7 +627,6 @@ a	_	_	I-Premise
 different	_	_	I-Premise
 view	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -738,7 +721,6 @@ these	_	_	I-Claim
 critical	_	_	I-Claim
 investments	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -810,10 +792,7 @@ having	_	_	O
 that	_	_	O
 debate	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Romney	_	_	O
 ,	_	_	O
@@ -821,8 +800,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -907,14 +885,11 @@ me	_	_	O
 So	_	_	O
 I	_	_	O
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 	_	_	O
 Congratulations	_	_	O
 .	_	_	O
- 	_	_	O
 This	_	_	B-Premise
 is	_	_	I-Premise
 obviously	_	_	I-Premise
@@ -974,7 +949,6 @@ help	_	_	I-Premise
 me	_	_	I-Premise
 ?	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 Ann	_	_	B-Premise
 yesterday	_	_	I-Premise
 was	_	_	I-Premise
@@ -1039,7 +1013,6 @@ help	_	_	I-Premise
 us	_	_	I-Premise
 ?	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 the	_	_	O
 answer	_	_	O
@@ -1097,7 +1070,6 @@ going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 My	_	_	B-Premise
 plan	_	_	I-Premise
 has	_	_	I-Premise
@@ -1124,7 +1096,6 @@ about	_	_	I-Claim
 million	_	_	I-Claim
 jobs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Number	_	_	B-Premise
 two	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1149,7 +1120,6 @@ when	_	_	I-Premise
 they	_	_	I-Premise
 cheat	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	B-Premise
 three	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1180,7 +1150,6 @@ from	_	_	I-Premise
 that	_	_	I-Premise
 now	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	B-Premise
 four	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1191,7 +1160,6 @@ a	_	_	I-Premise
 balanced	_	_	I-Premise
 budget	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	B-Premise
 five	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1247,10 +1215,7 @@ a	_	_	I-Premise
 year	_	_	I-Premise
 low	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1335,10 +1300,7 @@ again	_	_	I-Claim
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1369,8 +1331,7 @@ yours	_	_	O
 is	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -1513,7 +1474,6 @@ our	_	_	I-Claim
 young	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	O
 it	_	_	O
 comes	_	_	O
@@ -1592,7 +1552,6 @@ the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 On	_	_	B-Premise
 energy	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1659,10 +1618,7 @@ make	_	_	I-Claim
 those	_	_	I-Claim
 investments	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 So	_	_	O
 all	_	_	B-Claim
 of	_	_	I-Claim
@@ -1848,10 +1804,7 @@ of	_	_	I-Claim
 this	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Both	_	_	O
 of	_	_	O
 you	_	_	O
@@ -1911,10 +1864,7 @@ he	_	_	O
 just	_	_	O
 said	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 sure	_	_	O
@@ -2025,7 +1975,6 @@ or	_	_	I-Premise
 I	_	_	I-Premise
 am	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 people	_	_	I-Premise
 who	_	_	I-Premise
@@ -2100,7 +2049,6 @@ It	_	_	B-Claim
 been	_	_	I-Claim
 crushing	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 At	_	_	B-Premise
 the	_	_	I-Premise
 same	_	_	I-Premise
@@ -2144,10 +2092,7 @@ are	_	_	I-Claim
 being	_	_	I-Claim
 crushed	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 And	_	_	O
 so	_	_	O
 the	_	_	I-Claim
@@ -2297,7 +2242,6 @@ really	_	_	I-Premise
 help	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 second	_	_	I-Premise
 area	_	_	I-Premise
@@ -2370,7 +2314,6 @@ account	_	_	I-Premise
 for	_	_	I-Premise
 growth	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 third	_	_	O
 area	_	_	O
@@ -2412,7 +2355,6 @@ of	_	_	I-Claim
 his	_	_	I-Claim
 policies	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2485,7 +2427,6 @@ in	_	_	I-Claim
 from	_	_	I-Claim
 Canada	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 by	_	_	O
@@ -2542,7 +2483,6 @@ create	_	_	I-Claim
 those	_	_	I-Claim
 jobs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 finally	_	_	O
 ,	_	_	O
@@ -2611,7 +2551,6 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 deficit	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 I	_	_	B-Premise
 do	_	_	I-Premise
@@ -2665,15 +2604,11 @@ simply	_	_	O
 not	_	_	O
 accurate	_	_	O
 .	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2843,7 +2778,6 @@ hire	_	_	I-Premise
 more	_	_	I-Premise
 workers	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 Governor	_	_	B-Claim
@@ -2928,7 +2862,6 @@ to	_	_	I-Claim
 identify	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 I	_	_	O
 'm	_	_	O
@@ -2942,16 +2875,12 @@ here	_	_	O
 ,	_	_	O
 Jim	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 When	_	_	B-Claim
 you	_	_	I-Claim
 add	_	_	I-Claim
@@ -3004,8 +2933,7 @@ military	_	_	I-Claim
 spending	_	_	I-Claim
 .	_	_	I-Claim
 
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -3143,10 +3071,7 @@ for	_	_	I-Claim
 economic	_	_	I-Claim
 growth	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -3165,10 +3090,7 @@ taxes	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Just	_	_	O
 --	_	_	O
 let	_	_	O
@@ -3185,18 +3107,14 @@ inaudible	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 What	_	_	O
 is	_	_	O
 the	_	_	O
 difference	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -3217,14 +3135,12 @@ is	_	_	I-Claim
 inaccurate	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 So	_	_	O
 if	_	_	B-Claim
 the	_	_	I-Claim
@@ -3428,7 +3344,6 @@ high	_	_	I-Claim
 income	_	_	I-Claim
 Americans	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 number	_	_	O
 three	_	_	O
@@ -3511,7 +3426,6 @@ middle	_	_	I-Premise
 income	_	_	I-Premise
 families	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 There	_	_	B-Premise
 are	_	_	I-Premise
 all	_	_	I-Premise
@@ -3583,10 +3497,7 @@ lower	_	_	O
 the	_	_	O
 rates	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 reason	_	_	O
@@ -3662,10 +3573,7 @@ people	_	_	I-Claim
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 where	_	_	O
@@ -3687,10 +3595,7 @@ his	_	_	O
 own	_	_	O
 plan	_	_	O
 ?	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 for	_	_	B-Premise
@@ -3791,7 +3696,6 @@ It	_	_	B-Premise
 's	_	_	I-Premise
 arithmetic	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 Governor	_	_	O
@@ -3865,7 +3769,6 @@ businesses	_	_	I-Claim
 and	_	_	I-Claim
 families	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 I	_	_	O
 have	_	_	O
@@ -3920,7 +3823,6 @@ millionaires	_	_	I-Premise
 to	_	_	I-Premise
 boot	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 the	_	_	O
 reason	_	_	O
@@ -3970,10 +3872,7 @@ or	_	_	I-Premise
 in	_	_	I-Premise
 energy	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 we	_	_	O
 do	_	_	O
@@ -4096,7 +3995,6 @@ getting	_	_	I-Claim
 business	_	_	I-Claim
 income	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 that	_	_	B-Claim
 kind	_	_	I-Claim
@@ -4173,16 +4071,12 @@ be	_	_	I-Claim
 a	_	_	I-Claim
 mistake	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4202,8 +4096,7 @@ is	_	_	O
 these	_	_	O
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Just	_	_	O
 for	_	_	O
 the	_	_	O
@@ -4215,10 +4108,7 @@ record	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 ...	_	_	O
 the	_	_	O
 small	_	_	O
@@ -4229,8 +4119,7 @@ talking	_	_	O
 about	_	_	O
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 .	_	_	O
@@ -4252,8 +4141,7 @@ first	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 fun	_	_	O
@@ -4263,8 +4151,7 @@ n't	_	_	O
 it	_	_	O
 ?	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 OK	_	_	O
@@ -4339,10 +4226,7 @@ ahead	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 You	_	_	O
 bet	_	_	O
 .	_	_	O
@@ -4572,7 +4456,6 @@ cost	_	_	I-Premise
 700,000	_	_	I-Premise
 jobs	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -4673,10 +4556,7 @@ this	_	_	I-Claim
 budget	_	_	I-Claim
 balanced	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4885,10 +4765,7 @@ the	_	_	I-Premise
 Great	_	_	I-Premise
 Depression	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Bill	_	_	B-Premise
 Clinton	_	_	I-Premise
 tried	_	_	I-Premise
@@ -5013,8 +4890,7 @@ the	_	_	I-Claim
 deficit	_	_	I-Claim
 .	_	_	I-Claim
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -5035,10 +4911,7 @@ word	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -5055,8 +4928,7 @@ next	_	_	O
 segment	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -5093,10 +4965,7 @@ comment	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 first	_	_	O
@@ -5181,7 +5050,6 @@ not	_	_	I-Claim
 my	_	_	I-Claim
 plan	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -5242,7 +5110,6 @@ more	_	_	I-Claim
 people	_	_	I-Claim
 working	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 My	_	_	B-Claim
 priority	_	_	I-Claim
 is	_	_	I-Claim
@@ -5349,7 +5216,6 @@ the	_	_	I-Premise
 year	_	_	I-Premise
 before	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Going	_	_	B-Claim
 forward	_	_	I-Claim
 with	_	_	I-Claim
@@ -5371,10 +5237,7 @@ are	_	_	I-Claim
 struggling	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -5478,10 +5341,7 @@ in	_	_	O
 this	_	_	O
 country	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Good	_	_	O
 .	_	_	O
 I	_	_	O
@@ -5591,7 +5451,6 @@ simply	_	_	I-Claim
 not	_	_	I-Claim
 moral	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 how	_	_	O
 do	_	_	O
@@ -5665,7 +5524,6 @@ done	_	_	I-Premise
 that	_	_	I-Premise
 way	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Claim
 presidents	_	_	I-Claim
 would	_	_	I-Claim
@@ -5718,7 +5576,6 @@ the	_	_	I-Claim
 same	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	O
 things	_	_	O
 would	_	_	O
@@ -5783,7 +5640,6 @@ on	_	_	I-Premise
 my	_	_	I-Premise
 list	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	O
 apologize	_	_	O
 ,	_	_	O
@@ -5802,17 +5658,13 @@ by	_	_	O
 the	_	_	O
 way	_	_	O
 .	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 I	_	_	O
 like	_	_	O
 it	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Good	_	_	O
 .	_	_	O
 OK	_	_	O
@@ -5898,7 +5750,6 @@ That	_	_	O
 number	_	_	O
 one	_	_	O
 .	_	_	O
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -5930,10 +5781,7 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 state	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Number	_	_	O
 three	_	_	O
 ,	_	_	O
@@ -5986,7 +5834,6 @@ a	_	_	I-Claim
 balanced	_	_	I-Claim
 budget	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 president	_	_	I-Premise
 said	_	_	I-Premise
@@ -6040,10 +5887,7 @@ prior	_	_	I-Premise
 presidents	_	_	I-Premise
 combined	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -6051,8 +5895,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 When	_	_	B-Premise
 I	_	_	I-Premise
 walked	_	_	I-Premise
@@ -6178,7 +6021,6 @@ helping	_	_	I-Premise
 us	_	_	I-Premise
 grow	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 77	_	_	B-Premise
 government	_	_	I-Premise
@@ -6259,7 +6101,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 system	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 worked	_	_	I-Premise
@@ -6293,7 +6134,6 @@ since	_	_	I-Premise
 Dwight	_	_	I-Premise
 Eisenhower	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -6346,7 +6186,6 @@ revenue	_	_	I-Premise
 we	_	_	I-Premise
 raise	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 the	_	_	B-Premise
 way	_	_	I-Premise
@@ -6461,7 +6300,6 @@ and	_	_	O
 I	_	_	O
 have	_	_	O
 .	_	_	O
- 	_	_	O
 Let	_	_	O
 --	_	_	O
 let	_	_	O
@@ -6520,7 +6358,6 @@ he	_	_	B-Premise
 said	_	_	I-Premise
 no	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 if	_	_	B-Claim
@@ -6553,14 +6390,10 @@ that	_	_	I-Premise
 Governor	_	_	I-Premise
 Romney	_	_	I-Premise
 ...	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 ...	_	_	O
 talked	_	_	I-Premise
 about	_	_	I-Premise
@@ -6606,8 +6439,7 @@ with	_	_	I-Claim
 disabilities	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -6616,8 +6448,7 @@ I	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 --	_	_	O
 and	_	_	O
@@ -6634,8 +6465,7 @@ move	_	_	I-Claim
 forward	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Way	_	_	O
 over	_	_	O
 the	_	_	O
@@ -6643,13 +6473,11 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -6666,8 +6494,7 @@ Simpson	_	_	O
 Bowles	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Simpson	_	_	B-Claim
 -	_	_	I-Claim
 Bowles	_	_	I-Claim
@@ -6680,8 +6507,7 @@ grabbed	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6695,8 +6521,7 @@ Simpson	_	_	O
 Bowles	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 my	_	_	I-Claim
@@ -6746,8 +6571,7 @@ for	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-OBAMA	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 what	_	_	I-Claim
@@ -6779,8 +6603,7 @@ trillion	_	_	I-Claim
 plan	_	_	I-Claim
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 you	_	_	O
 've	_	_	O
@@ -6797,10 +6620,7 @@ years	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 You	_	_	B-Premise
 've	_	_	I-Premise
 been	_	_	I-Premise
@@ -6869,8 +6689,7 @@ dollar	_	_	I-Claim
 debt	_	_	I-Claim
 .	_	_	I-Claim
 
-ROMNEY	_	_	O
-:	_	_	O
+
 I	_	_	O
 mean	_	_	O
 ,	_	_	O
@@ -7031,7 +6850,6 @@ on	_	_	I-Premise
 anyone	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -7132,7 +6950,6 @@ taxed	_	_	I-Premise
 as	_	_	I-Premise
 individuals	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	B-Claim
 raise	_	_	I-Claim
 taxes	_	_	I-Claim
@@ -7169,7 +6986,6 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 environment	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	O
 'll	_	_	O
 make	_	_	O
@@ -7177,14 +6993,10 @@ one	_	_	O
 more	_	_	O
 point	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 (	_	_	O
 inaudible	_	_	O
 )	_	_	O
@@ -7197,19 +7009,16 @@ a	_	_	O
 moment	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7220,8 +7029,7 @@ discussion	_	_	O
 before	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 About	_	_	O
 the	_	_	O
 idea	_	_	O
@@ -7244,8 +7052,7 @@ to	_	_	O
 cuts	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 has	_	_	I-Claim
 to	_	_	I-Claim
@@ -7274,18 +7081,14 @@ revenue	_	_	I-Premise
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Look	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -7411,10 +7214,7 @@ they	_	_	I-Claim
 're	_	_	I-Claim
 working	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 But	_	_	O
 --	_	_	O
 but	_	_	O
@@ -7450,10 +7250,7 @@ have	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 If	_	_	O
 --	_	_	O
 if	_	_	B-Premise
@@ -7520,7 +7317,6 @@ help	_	_	I-Claim
 the	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 oil	_	_	I-Premise
 industry	_	_	I-Premise
@@ -7554,7 +7350,6 @@ do	_	_	I-Premise
 n't	_	_	I-Premise
 get	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 does	_	_	B-Premise
@@ -7628,7 +7423,6 @@ break	_	_	I-Claim
 for	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	B-Premise
 it	_	_	I-Premise
 comes	_	_	I-Premise
@@ -7673,7 +7467,6 @@ the	_	_	I-Premise
 corporate	_	_	I-Premise
 rate	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -7717,7 +7510,6 @@ shipping	_	_	I-Claim
 jobs	_	_	I-Claim
 overseas	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Right	_	_	B-Premise
 now	_	_	I-Premise
 ,	_	_	I-Premise
@@ -7751,7 +7543,6 @@ that	_	_	I-Premise
 raises	_	_	I-Premise
 revenue	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 so	_	_	O
 if	_	_	B-Premise
@@ -7795,10 +7586,7 @@ go	_	_	I-Claim
 to	_	_	I-Claim
 college	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 It	_	_	B-Premise
 means	_	_	I-Premise
 that	_	_	I-Premise
@@ -7885,7 +7673,6 @@ budgets	_	_	B-Claim
 reflect	_	_	I-Claim
 choices	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Ultimately	_	_	O
 ,	_	_	O
 we	_	_	B-Premise
@@ -7924,7 +7711,6 @@ bunch	_	_	I-Claim
 of	_	_	I-Claim
 stuff	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 magnitude	_	_	I-Claim
@@ -7960,7 +7746,6 @@ help	_	_	I-Claim
 us	_	_	I-Claim
 grow	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 As	_	_	B-Premise
 I	_	_	I-Premise
 indicated	_	_	I-Premise
@@ -7992,7 +7777,6 @@ Medicaid	_	_	I-Premise
 over	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8048,7 +7832,6 @@ a	_	_	I-Claim
 big	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 governors	_	_	B-Premise
 are	_	_	I-Premise
@@ -8093,10 +7876,7 @@ not	_	_	I-Claim
 getting	_	_	I-Claim
 help	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -8129,8 +7909,7 @@ to	_	_	O
 schools	_	_	O
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Come	_	_	O
 back	_	_	O
 to	_	_	O
@@ -8138,10 +7917,7 @@ to	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 ...	_	_	O
 to	_	_	O
 oil	_	_	O
@@ -8212,10 +7988,7 @@ years	_	_	I-Premise
 .	_	_	I-Premise
 Now	_	_	O
 ...	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 time	_	_	I-Claim
@@ -8224,8 +7997,7 @@ end	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-ROMNEY	_	_	O
-:	_	_	O
+
 And	_	_	O
 in	_	_	B-Premise
 one	_	_	I-Premise
@@ -8294,10 +8066,7 @@ and	_	_	I-Claim
 so	_	_	I-Claim
 forth	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8440,7 +8209,6 @@ America	_	_	I-Premise
 energy	_	_	I-Premise
 secure	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 second	_	_	I-Premise
 topic	_	_	I-Premise
@@ -8489,16 +8257,12 @@ a	_	_	O
 new	_	_	O
 accountant	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 --	_	_	O
 but	_	_	O
@@ -8522,10 +8286,7 @@ case	_	_	I-Claim
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 What	_	_	O
 we	_	_	O
 do	_	_	O
@@ -8628,7 +8389,6 @@ you	_	_	I-Claim
 think	_	_	I-Claim
 best	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 remember	_	_	I-Premise
@@ -8691,7 +8451,6 @@ for	_	_	I-Premise
 our	_	_	I-Premise
 poor	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 --	_	_	O
 so	_	_	O
@@ -8751,7 +8510,6 @@ states	_	_	I-Claim
 do	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 by	_	_	O
@@ -8783,17 +8541,13 @@ to	_	_	I-Premise
 help	_	_	I-Premise
 them	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 go	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 --	_	_	O
 but	_	_	O
@@ -8822,8 +8576,7 @@ federal	_	_	I-Claim
 government	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 (	_	_	O
 inaudible	_	_	O
 )	_	_	O
@@ -8848,13 +8601,11 @@ of	_	_	O
 it	_	_	O
 ...	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ?	_	_	O
@@ -8901,8 +8652,7 @@ Social	_	_	O
 Security	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -8995,7 +8745,6 @@ deficits	_	_	I-Claim
 right	_	_	I-Claim
 now	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 You	_	_	B-Premise
 know	_	_	I-Premise
 ,	_	_	I-Premise
@@ -9078,7 +8827,6 @@ alone	_	_	I-Premise
 by	_	_	I-Premise
 choice	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 reason	_	_	I-Claim
@@ -9124,7 +8872,6 @@ could	_	_	I-Premise
 not	_	_	I-Premise
 go	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 that	_	_	B-Claim
 's	_	_	I-Claim
@@ -9185,10 +8932,7 @@ counting	_	_	I-Premise
 on	_	_	I-Premise
 this	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 So	_	_	O
 my	_	_	B-Claim
 approach	_	_	I-Claim
@@ -9341,7 +9085,6 @@ throughout	_	_	I-Premise
 the	_	_	I-Premise
 system	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 the	_	_	B-Claim
 way	_	_	I-Claim
@@ -9393,10 +9136,7 @@ for	_	_	I-Claim
 the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 We	_	_	O
 'll	_	_	O
 follow	_	_	O
@@ -9419,10 +9159,7 @@ Security	_	_	O
 and	_	_	O
 entitlements	_	_	O
 .	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Jim	_	_	O
@@ -9511,7 +9248,6 @@ listen	_	_	I-Claim
 any	_	_	I-Claim
 further	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 for	_	_	B-Claim
 younger	_	_	I-Claim
@@ -9576,7 +9312,6 @@ he	_	_	I-Premise
 's	_	_	I-Premise
 not	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 on	_	_	B-Premise
 Medicare	_	_	I-Premise
@@ -9680,7 +9415,6 @@ under	_	_	I-Premise
 that	_	_	I-Premise
 scenario	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Premise
 also	_	_	I-Premise
 have	_	_	I-Premise
@@ -9698,7 +9432,6 @@ more	_	_	I-Premise
 Medicare	_	_	I-Premise
 patients	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 This	_	_	O
 --	_	_	O
 we	_	_	B-Claim
@@ -9741,7 +9474,6 @@ recipients	_	_	O
 of	_	_	O
 Medicare	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 you	_	_	B-Premise
@@ -9796,7 +9528,6 @@ a	_	_	I-Premise
 good	_	_	I-Premise
 trade	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -9832,7 +9563,6 @@ to	_	_	I-Claim
 improve	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 the	_	_	B-Claim
 idea	_	_	I-Claim
@@ -9862,7 +9592,6 @@ opinion	_	_	I-Claim
 a	_	_	I-Claim
 mistake	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 with	_	_	B-Claim
 regards	_	_	I-Claim
@@ -9891,16 +9620,12 @@ without	_	_	I-Claim
 any	_	_	I-Claim
 question	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -9965,10 +9690,7 @@ His	_	_	O
 running	_	_	O
 mate	_	_	O
 ...	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 do	_	_	O
@@ -9977,8 +9699,7 @@ support	_	_	O
 that	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -9990,8 +9711,7 @@ explain	_	_	O
 why	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Again	_	_	O
 ,	_	_	O
 that	_	_	O
@@ -10000,14 +9720,12 @@ for	_	_	O
 future	_	_	O
 ...	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 I	_	_	O
 understand	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 ...	_	_	O
 people	_	_	O
 ,	_	_	O
@@ -10019,8 +9737,7 @@ current	_	_	O
 retirees	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 For	_	_	O
 --	_	_	O
 so	_	_	O
@@ -10088,7 +9805,6 @@ own	_	_	I-Premise
 health	_	_	I-Premise
 insurance	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	O
 problem	_	_	O
 is	_	_	O
@@ -10122,7 +9838,6 @@ $	_	_	I-Claim
 a	_	_	I-Claim
 year	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 in	_	_	B-Premise
@@ -10210,10 +9925,7 @@ system	_	_	I-Premise
 will	_	_	I-Premise
 collapse	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	O
 what	_	_	B-Premise
@@ -10369,7 +10081,6 @@ keep	_	_	I-Claim
 them	_	_	I-Claim
 healthier	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 primary	_	_	I-Claim
@@ -10423,10 +10134,7 @@ the	_	_	I-Claim
 long	_	_	I-Claim
 term	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 We	_	_	O
 'll	_	_	O
 talk	_	_	O
@@ -10453,8 +10161,7 @@ system	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 What	_	_	B-Claim
 I	_	_	I-Claim
 support	_	_	I-Claim
@@ -10485,8 +10192,7 @@ that	_	_	I-Claim
 program	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 And	_	_	O
 what	_	_	O
 about	_	_	O
@@ -10496,10 +10202,7 @@ vouchers	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 So	_	_	O
 that	_	_	O
 's	_	_	O
@@ -10554,7 +10257,6 @@ plan	_	_	I-Claim
 Their	_	_	O
 choice	_	_	O
 .	_	_	O
- 	_	_	O
 They	_	_	O
 get	_	_	O
 to	_	_	O
@@ -10608,10 +10310,7 @@ least	_	_	I-Claim
 two	_	_	I-Claim
 plans	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 And	_	_	O
 by	_	_	O
 the	_	_	O
@@ -10729,7 +10428,6 @@ their	_	_	O
 own	_	_	O
 choice	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 other	_	_	O
 thing	_	_	O
@@ -10797,7 +10495,6 @@ I	_	_	I-Claim
 put	_	_	I-Claim
 forward	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 by	_	_	O
@@ -10902,10 +10599,7 @@ believe	_	_	I-Premise
 in	_	_	I-Premise
 competition	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 if	_	_	O
@@ -11017,7 +10711,6 @@ come	_	_	I-Claim
 from	_	_	I-Claim
 somewhere	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 when	_	_	B-Claim
 you	_	_	I-Claim
@@ -11057,7 +10750,6 @@ they	_	_	I-Claim
 're	_	_	I-Claim
 stuck	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 this	_	_	B-Premise
 is	_	_	I-Premise
@@ -11089,7 +10781,6 @@ that	_	_	I-Premise
 we	_	_	I-Premise
 took	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 One	_	_	O
 last	_	_	O
 point	_	_	O
@@ -11116,8 +10807,7 @@ Medicare	_	_	I-Claim
 and	_	_	I-Claim
 Medicaid	_	_	I-Claim
 ...	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Talk	_	_	O
 about	_	_	O
 that	_	_	O
@@ -11125,10 +10815,7 @@ in	_	_	O
 a	_	_	O
 minute	_	_	O
 .	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 ...	_	_	O
 but	_	_	O
 --	_	_	O
@@ -11138,19 +10825,16 @@ but	_	_	O
 overall	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 OK	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 so	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 --	_	_	O
@@ -11170,8 +10854,7 @@ on	_	_	O
 Medicare	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Is	_	_	O
 that	_	_	O
 a	_	_	O
@@ -11185,10 +10868,7 @@ topic	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -11206,15 +10886,13 @@ to	_	_	O
 it	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 But	_	_	O
 all	_	_	O
 I	_	_	O
@@ -11227,8 +10905,7 @@ very	_	_	O
 quickly	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 get	_	_	O
@@ -11237,8 +10914,7 @@ to	_	_	O
 Medicare	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 ...	_	_	O
 before	_	_	O
 we	_	_	O
@@ -11247,8 +10923,7 @@ the	_	_	O
 economy	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 get	_	_	O
@@ -11259,10 +10934,7 @@ Medicare	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 president	_	_	I-Premise
 said	_	_	I-Premise
@@ -11282,14 +10954,12 @@ a	_	_	I-Premise
 profit	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 If	_	_	B-Claim
 that	_	_	I-Claim
 's	_	_	I-Claim
@@ -11310,8 +10980,7 @@ can	_	_	I-Claim
 purchase	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 a	_	_	O
 minute	_	_	O
@@ -11319,8 +10988,7 @@ minute	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 my	_	_	O
 experience	_	_	O
@@ -11344,8 +11012,7 @@ lower	_	_	I-Premise
 cost	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -11373,13 +11040,11 @@ the	_	_	O
 two	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 ...	_	_	O
 of	_	_	O
 you	_	_	O
@@ -11387,18 +11052,15 @@ on	_	_	O
 Medicare	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Absolutely	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -11488,10 +11150,7 @@ care	_	_	O
 ,	_	_	O
 OK	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Regulation	_	_	B-Claim
 is	_	_	I-Claim
 essential	_	_	I-Claim
@@ -11585,8 +11244,7 @@ become	_	_	I-Claim
 excessive	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Is	_	_	O
 it	_	_	O
 excessive	_	_	O
@@ -11597,8 +11255,7 @@ you	_	_	O
 think	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 some	_	_	I-Claim
 places	_	_	I-Claim
@@ -11611,18 +11268,14 @@ places	_	_	I-Claim
 no	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Like	_	_	O
 where	_	_	O
 ?	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 it	_	_	B-Premise
@@ -11771,7 +11424,6 @@ since	_	_	I-Premise
 Dodd-	_	_	I-Premise
 Frank	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 there	_	_	O
 's	_	_	O
@@ -11787,10 +11439,7 @@ Dodd	_	_	O
 -	_	_	O
 Frank	_	_	O
 ...	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 want	_	_	O
@@ -11801,8 +11450,7 @@ Dodd	_	_	O
 Frank	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11860,8 +11508,7 @@ limits	_	_	I-Premise
 for	_	_	I-Premise
 ...	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 here	_	_	O
@@ -11872,10 +11519,7 @@ specific	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 let	_	_	O
 's	_	_	O
@@ -11898,10 +11542,7 @@ talk	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -11934,8 +11575,7 @@ just	_	_	O
 said	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 this	_	_	O
@@ -12035,7 +11675,6 @@ they	_	_	I-Premise
 were	_	_	I-Premise
 n't	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 you	_	_	B-Premise
 also	_	_	I-Premise
@@ -12076,7 +11715,6 @@ entire	_	_	I-Premise
 system	_	_	I-Premise
 vulnerable	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 what	_	_	O
 did	_	_	O
@@ -12177,10 +11815,7 @@ other	_	_	I-Premise
 taxpayer	_	_	I-Premise
 bailouts	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 In	_	_	B-Premise
 the	_	_	I-Premise
 meantime	_	_	I-Premise
@@ -12226,7 +11861,6 @@ Dodd	_	_	I-Claim
 -	_	_	I-Claim
 Frank	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -12274,7 +11908,6 @@ roll	_	_	I-Claim
 it	_	_	I-Claim
 back	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 so	_	_	O
 the	_	_	O
@@ -12325,10 +11958,7 @@ what	_	_	I-Claim
 I	_	_	I-Claim
 believe	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -12510,7 +12140,6 @@ qualified	_	_	I-Premise
 mortgage	_	_	I-Premise
 was	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 It	_	_	B-Premise
 's	_	_	I-Premise
 been	_	_	I-Premise
@@ -12597,7 +12226,6 @@ a	_	_	I-Claim
 clear	_	_	I-Claim
 regulation	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
 make	_	_	I-Claim
@@ -12630,10 +12258,7 @@ get	_	_	I-Claim
 good	_	_	I-Claim
 jobs	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -12708,8 +12333,7 @@ Governor	_	_	O
 Romney	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 You	_	_	O
 want	_	_	O
 it	_	_	O
@@ -12726,8 +12350,7 @@ repealed	_	_	O
 Why	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 sure	_	_	I-Claim
 do	_	_	I-Claim
@@ -12848,7 +12471,6 @@ deal	_	_	I-Premise
 with	_	_	I-Premise
 cost	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 unfortunately	_	_	O
@@ -12959,7 +12581,6 @@ n't	_	_	I-Claim
 want	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Second	_	_	O
 reason	_	_	O
 ,	_	_	O
@@ -12988,7 +12609,6 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 seniors	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Number	_	_	O
 three	_	_	O
 ,	_	_	O
@@ -13021,7 +12641,6 @@ like	_	_	I-Premise
 that	_	_	I-Premise
 idea	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Fourth	_	_	O
 ,	_	_	O
 there	_	_	B-Premise
@@ -13129,7 +12748,6 @@ has	_	_	I-Claim
 killed	_	_	I-Claim
 jobs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 best	_	_	I-Claim
@@ -13186,10 +12804,7 @@ $	_	_	I-Premise
 additional	_	_	I-Premise
 premium	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13199,8 +12814,7 @@ against	_	_	O
 repeal	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 four	_	_	B-Premise
@@ -13382,7 +12996,6 @@ hit	_	_	I-Premise
 the	_	_	I-Premise
 limit	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 we	_	_	B-Claim
 did	_	_	I-Claim
@@ -13413,7 +13026,6 @@ in	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 let	_	_	O
 me	_	_	O
@@ -13527,7 +13139,6 @@ on	_	_	I-Premise
 actual	_	_	I-Premise
 care	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -13576,7 +13187,6 @@ the	_	_	I-Claim
 individual	_	_	I-Claim
 market	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -13587,10 +13197,7 @@ I	_	_	O
 make	_	_	O
 before	_	_	O
 ...	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Two	_	_	O
 minutes	_	_	O
 --	_	_	O
@@ -13602,8 +13209,7 @@ up	_	_	O
 sir	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13623,7 +13229,6 @@ was	_	_	O
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 	_	_	O
 ...	_	_	O
 the	_	_	O
 irony	_	_	O
@@ -13713,10 +13318,7 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 cold	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Your	_	_	O
 five	_	_	O
 seconds	_	_	O
@@ -13752,10 +13354,7 @@ wrong	_	_	O
 about	_	_	O
 Obamacare	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13768,10 +13367,7 @@ statement	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -13892,7 +13488,6 @@ drove	_	_	I-Claim
 it	_	_	I-Claim
 through	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	B-Premise
 we	_	_	I-Premise
 did	_	_	I-Premise
@@ -13974,10 +13569,7 @@ $	_	_	I-Premise
 716	_	_	I-Premise
 billion	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 We	_	_	B-Premise
 did	_	_	I-Premise
 n't	_	_	I-Premise
@@ -14087,7 +13679,6 @@ people	_	_	I-Premise
 from	_	_	I-Premise
 coverage	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 for	_	_	B-Premise
 those	_	_	I-Premise
@@ -14168,7 +13759,6 @@ was	_	_	I-Premise
 swept	_	_	I-Premise
 aside	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 something	_	_	I-Claim
@@ -14210,10 +13800,7 @@ from	_	_	I-Claim
 both	_	_	I-Claim
 parties	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Premise
 Romney	_	_	I-Premise
 said	_	_	I-Premise
@@ -14313,7 +13900,6 @@ the	_	_	I-Premise
 same	_	_	I-Premise
 plan	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 It	_	_	O
 --	_	_	O
 when	_	_	B-Premise
@@ -14368,7 +13954,6 @@ the	_	_	I-Premise
 system	_	_	I-Premise
 overall	_	_	I-Premise
 ?	_	_	I-Premise
- 	_	_	O
 Because	_	_	O
 there	_	_	O
 --	_	_	O
@@ -14439,7 +14024,6 @@ the	_	_	I-Premise
 trend	_	_	I-Premise
 line	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Or	_	_	O
 ,	_	_	O
 alternatively	_	_	B-Claim
@@ -14468,7 +14052,6 @@ of	_	_	I-Claim
 doing	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 at	_	_	B-Premise
 Cleveland	_	_	I-Premise
@@ -14594,7 +14177,6 @@ they	_	_	I-Premise
 engaged	_	_	I-Premise
 in	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 so	_	_	O
@@ -14632,7 +14214,6 @@ that	_	_	I-Claim
 we	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	O
 fact	_	_	O
@@ -14723,7 +14304,6 @@ getting	_	_	I-Premise
 a	_	_	I-Premise
 rebate	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Let	_	_	O
 me	_	_	O
 make	_	_	O
@@ -14788,10 +14368,7 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 states	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 But	_	_	O
 the	_	_	B-Premise
 fact	_	_	I-Premise
@@ -14868,14 +14445,12 @@ health	_	_	I-Claim
 insurance	_	_	I-Claim
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 ...	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 ...	_	_	O
 at	_	_	B-Premise
 a	_	_	I-Premise
@@ -14887,8 +14462,7 @@ vitally	_	_	I-Premise
 important	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 let	_	_	O
@@ -14901,13 +14475,11 @@ would	_	_	O
 do	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 ...	_	_	O
 if	_	_	O
 Obamacare	_	_	O
@@ -14923,10 +14495,7 @@ it	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 actually	_	_	O
@@ -15070,14 +14639,10 @@ ought	_	_	I-Premise
 to	_	_	I-Premise
 have	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 my	_	_	I-Claim
 opinion	_	_	I-Claim
@@ -15155,7 +14720,6 @@ I	_	_	I-Premise
 could	_	_	I-Premise
 describe	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 This	_	_	B-Premise
 is	_	_	I-Premise
 the	_	_	I-Premise
@@ -15216,7 +14780,6 @@ the	_	_	I-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 In	_	_	B-Claim
 order	_	_	I-Claim
 to	_	_	I-Claim
@@ -15314,10 +14877,7 @@ Clinic	_	_	I-Premise
 ,	_	_	I-Premise
 others	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 But	_	_	O
 the	_	_	B-Claim
 right	_	_	I-Claim
@@ -15374,10 +14934,7 @@ always	_	_	I-Claim
 work	_	_	I-Claim
 best	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
@@ -15505,7 +15062,6 @@ under	_	_	I-Claim
 90	_	_	I-Claim
 days	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 that	_	_	B-Premise
 's	_	_	I-Premise
@@ -15581,7 +15137,6 @@ take	_	_	I-Premise
 everybody	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 that	_	_	B-Premise
@@ -15648,10 +15203,7 @@ preexisting	_	_	I-Claim
 conditions	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 It	_	_	B-Premise
 just	_	_	I-Premise
 reminds	_	_	I-Premise
@@ -15817,7 +15369,6 @@ much	_	_	O
 from	_	_	O
 them	_	_	O
 ?	_	_	O
- 	_	_	O
 No	_	_	B-Claim
 .	_	_	I-Claim
 The	_	_	B-Claim
@@ -15883,10 +15434,7 @@ across	_	_	I-Claim
 the	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 going	_	_	O
@@ -15895,8 +15443,7 @@ move	_	_	O
 to	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 No	_	_	O
 .	_	_	O
 I	_	_	O
@@ -15909,15 +15456,13 @@ to	_	_	O
 that	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 but	_	_	O
 ...	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Which	_	_	O
 is	_	_	O
 --	_	_	O
@@ -16277,7 +15822,6 @@ at	_	_	I-Premise
 that	_	_	I-Premise
 time	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Claim
 federal	_	_	I-Claim
 government	_	_	I-Claim
@@ -16322,10 +15866,7 @@ more	_	_	I-Claim
 vibrant	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 That	_	_	O
 is	_	_	O
 a	_	_	O
@@ -16420,8 +15961,7 @@ federal	_	_	O
 government	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -16432,8 +15972,7 @@ are	_	_	I-Claim
 differences	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 And	_	_	O
 do	_	_	O
 you	_	_	O
@@ -16441,8 +15980,7 @@ you	_	_	O
 yeah	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 first	_	_	I-Claim
 role	_	_	I-Claim
@@ -16533,7 +16071,6 @@ people	_	_	I-Claim
 can	_	_	I-Claim
 succeed	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -16571,10 +16108,7 @@ their	_	_	I-Premise
 own	_	_	I-Premise
 decisions	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 But	_	_	O
 as	_	_	B-Premise
 Abraham	_	_	I-Premise
@@ -16689,7 +16223,6 @@ those	_	_	I-Claim
 same	_	_	I-Claim
 principles	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 when	_	_	B-Premise
 it	_	_	I-Premise
@@ -16769,7 +16302,6 @@ a	_	_	I-Premise
 real	_	_	I-Premise
 difference	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 what	_	_	B-Premise
 I	_	_	I-Premise
@@ -16866,7 +16398,6 @@ government	_	_	I-Claim
 can	_	_	I-Claim
 help	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 It	_	_	B-Premise
 ca	_	_	I-Premise
 n't	_	_	I-Premise
@@ -16912,10 +16443,7 @@ a	_	_	I-Premise
 skilled	_	_	I-Premise
 workforce	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Two	_	_	O
 minutes	_	_	O
 ,	_	_	O
@@ -16931,8 +16459,7 @@ Your	_	_	O
 view	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -16996,7 +16523,6 @@ on	_	_	I-Claim
 their	_	_	I-Claim
 own	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 role	_	_	I-Premise
 of	_	_	I-Premise
@@ -17029,10 +16555,7 @@ of	_	_	I-Claim
 those	_	_	I-Claim
 documents	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 First	_	_	O
 ,	_	_	O
 life	_	_	O
@@ -17166,7 +16689,6 @@ by	_	_	I-Premise
 one	_	_	I-Premise
 another	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Premise
 're	_	_	I-Premise
 a	_	_	I-Premise
@@ -17240,7 +16762,6 @@ for	_	_	I-Premise
 our	_	_	I-Premise
 citizens	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 we	_	_	B-Premise
 also	_	_	I-Premise
@@ -17315,7 +16836,6 @@ it	_	_	B-Claim
 not	_	_	I-Claim
 working	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	O
 proof	_	_	O
@@ -17381,16 +16901,12 @@ n't	_	_	I-Premise
 find	_	_	I-Premise
 work	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 know	_	_	I-Claim
 that	_	_	I-Claim
@@ -17412,8 +16928,7 @@ new	_	_	I-Claim
 path	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -17461,8 +16976,7 @@ in	_	_	O
 America	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -17631,7 +17145,6 @@ of	_	_	I-Claim
 their	_	_	I-Claim
 choice	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 all	_	_	B-Claim
 federal	_	_	I-Claim
@@ -17682,10 +17195,7 @@ their	_	_	I-Claim
 their	_	_	I-Claim
 student	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 How	_	_	O
 do	_	_	O
 you	_	_	O
@@ -17713,8 +17223,7 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -17764,8 +17273,7 @@ right	_	_	I-Claim
 now	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 think	_	_	O
@@ -17793,8 +17301,7 @@ federal	_	_	O
 government	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -17930,10 +17437,7 @@ to	_	_	I-Claim
 20	_	_	I-Claim
 percent	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 When	_	_	B-Claim
 it	_	_	I-Claim
 comes	_	_	I-Claim
@@ -18001,8 +17505,7 @@ training	_	_	I-Premise
 programs	_	_	I-Premise
 ...	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 --	_	_	O
@@ -18013,8 +17516,7 @@ agree	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
@@ -18025,10 +17527,7 @@ point	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-OBAMA	_	_	O
-:	_	_	O
+
 The	_	_	O
 --	_	_	O
 where	_	_	I-Premise
@@ -18161,7 +17660,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 system	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 said	_	_	I-Premise
@@ -18218,7 +17716,6 @@ make	_	_	I-Claim
 a	_	_	I-Claim
 difference	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Governor	_	_	B-Premise
 Romney	_	_	I-Premise
 ,	_	_	I-Premise
@@ -18303,7 +17800,6 @@ have	_	_	I-Premise
 that	_	_	I-Premise
 option	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 for	_	_	B-Claim
 us	_	_	I-Claim
@@ -18352,10 +17848,7 @@ the	_	_	I-Claim
 long	_	_	I-Claim
 term	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 We	_	_	O
 're	_	_	O
 running	_	_	O
@@ -18372,8 +17865,7 @@ CROSSTALK)_LEHRER	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -18531,7 +18023,6 @@ $	_	_	B-Premise
 90	_	_	I-Premise
 billion	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 these	_	_	B-Premise
 businesses	_	_	I-Premise
@@ -18582,7 +18073,6 @@ to	_	_	I-Premise
 your	_	_	I-Premise
 campaigns	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Look	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -18655,7 +18145,6 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Claim
 right	_	_	I-Claim
 answer	_	_	I-Claim
@@ -18728,7 +18217,6 @@ being	_	_	I-Premise
 more	_	_	I-Premise
 successful	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -18809,10 +18297,7 @@ of	_	_	O
 our	_	_	O
 kids	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -18821,10 +18306,7 @@ gentlemen	_	_	O
 (	_	_	O
 CROSSTALK	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 (	_	_	O
@@ -18877,8 +18359,7 @@ poor	_	_	O
 job	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 You	_	_	O
 've	_	_	O
 done	_	_	O
@@ -18887,8 +18368,7 @@ great	_	_	O
 job	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -19016,10 +18496,7 @@ that	_	_	O
 ?	_	_	O
 Governor	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ROMNEY	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -19098,8 +18575,7 @@ taxes	_	_	I-Premise
 times	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 But	_	_	O
 what	_	_	O
 would	_	_	O
@@ -19109,8 +18585,7 @@ as	_	_	O
 president	_	_	O
 ?	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 We	_	_	O
 --	_	_	O
 as	_	_	B-Claim
@@ -19276,16 +18751,12 @@ of	_	_	I-Premise
 real	_	_	I-Premise
 concern	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 And	_	_	O
 Republicans	_	_	B-Premise
 and	_	_	I-Premise
@@ -19344,14 +18815,12 @@ it	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ?	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -19399,7 +18868,6 @@ them	_	_	I-Premise
 (	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
- 	_	_	O
 But	_	_	O
 ,	_	_	O
 look	_	_	O
@@ -19558,7 +19026,6 @@ and	_	_	I-Premise
 bin	_	_	I-Premise
 Laden	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 we	_	_	O
 've	_	_	O
@@ -19628,7 +19095,6 @@ have	_	_	I-Claim
 a	_	_	I-Claim
 plan	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Number	_	_	O
 two	_	_	O
 ,	_	_	O
@@ -19707,7 +19173,6 @@ to	_	_	I-Claim
 be	_	_	I-Claim
 had	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 When	_	_	O
 --	_	_	O
 when	_	_	O
@@ -19750,15 +19215,11 @@ needed	_	_	I-Claim
 to	_	_	I-Claim
 have	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 And	_	_	O
 so	_	_	O
 part	_	_	B-Claim
@@ -19833,8 +19294,7 @@ his	_	_	I-Claim
 party	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 That	_	_	O
 brings	_	_	O
 us	_	_	O
@@ -19874,8 +19334,7 @@ Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-OBAMA	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Jim	_	_	O
@@ -20026,7 +19485,6 @@ during	_	_	I-Premise
 a	_	_	I-Premise
 recession	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 auto	_	_	I-Premise
 workers	_	_	I-Premise
@@ -20171,7 +19629,6 @@ in	_	_	I-Premise
 our	_	_	I-Premise
 future	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 All	_	_	I-Claim
 those	_	_	I-Claim
 things	_	_	I-Claim
@@ -20240,7 +19697,6 @@ the	_	_	I-Premise
 same	_	_	I-Premise
 rules	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -20342,10 +19798,7 @@ a	_	_	I-Claim
 second	_	_	I-Claim
 term	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Romney	_	_	O
 ,	_	_	O
@@ -20356,8 +19809,7 @@ minute	_	_	O
 closing	_	_	O
 .	_	_	O
 
-ROMNEY	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -20408,7 +19860,6 @@ last	_	_	O
 four	_	_	O
 years	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 --	_	_	O
 I	_	_	B-Claim
@@ -20461,7 +19912,6 @@ for	_	_	I-Claim
 your	_	_	I-Claim
 children	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 there	_	_	B-Premise
 really	_	_	I-Premise
@@ -20508,7 +19958,6 @@ those	_	_	O
 two	_	_	O
 paths	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 they	_	_	B-Premise
 lead	_	_	I-Premise
@@ -20545,7 +19994,6 @@ at	_	_	I-Premise
 the	_	_	I-Premise
 record	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 There	_	_	B-Claim
 's	_	_	I-Claim
 no	_	_	I-Claim
@@ -20580,7 +20028,6 @@ prices	_	_	I-Claim
 going	_	_	I-Claim
 up	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 'll	_	_	I-Claim
 get	_	_	I-Claim
@@ -20588,7 +20035,6 @@ incomes	_	_	I-Claim
 up	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 You	_	_	B-Claim
 'll	_	_	I-Claim
 see	_	_	I-Claim
@@ -20607,7 +20053,6 @@ above	_	_	I-Premise
 8	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 If	_	_	B-Claim
 I	_	_	I-Claim
 'm	_	_	I-Claim
@@ -20629,7 +20074,6 @@ with	_	_	I-Claim
 rising	_	_	I-Claim
 incomes	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 If	_	_	B-Claim
 the	_	_	I-Claim
 president	_	_	I-Claim
@@ -20691,7 +20135,6 @@ $	_	_	I-Claim
 per	_	_	I-Claim
 family	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 If	_	_	B-Claim
 I	_	_	I-Claim
 'm	_	_	I-Claim
@@ -20746,7 +20189,6 @@ health	_	_	I-Claim
 care	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 If	_	_	B-Claim
 the	_	_	I-Claim
 president	_	_	I-Claim
@@ -20793,7 +20235,6 @@ accept	_	_	I-Claim
 Medicare	_	_	I-Claim
 patients	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 'll	_	_	I-Claim
 restore	_	_	I-Claim
@@ -20804,7 +20245,6 @@ billion	_	_	I-Claim
 to	_	_	I-Claim
 Medicare	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 finally	_	_	O
 ,	_	_	O
@@ -20835,7 +20275,6 @@ be	_	_	I-Premise
 even	_	_	I-Premise
 devastating	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
 not	_	_	I-Claim
@@ -20860,12 +20299,9 @@ class	_	_	I-Claim
 working	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Jim	_	_	O
 .	_	_	O
- 
-	_	_	O
 

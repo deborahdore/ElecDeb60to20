@@ -1,5 +1,4 @@
-FREDERICK	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -337,8 +336,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 since	_	_	O
@@ -485,8 +483,7 @@ those	_	_	O
 things	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -1000,8 +997,7 @@ of	_	_	I-Claim
 1976	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 ,	_	_	O
@@ -1012,8 +1008,7 @@ to	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Claim
 Carter	_	_	I-Claim
 again	_	_	I-Claim
@@ -1349,8 +1344,7 @@ negotiating	_	_	I-Claim
 position	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trewhitt	_	_	O
 ,	_	_	O
@@ -1361,8 +1355,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1493,8 +1486,7 @@ Soviet	_	_	O
 Union	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -2000,8 +1992,7 @@ to	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	B-Claim
@@ -2365,8 +2356,7 @@ this	_	_	I-Premise
 world	_	_	I-Premise
 .	_	_	I-Premise
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Valeriani	_	_	O
 ,	_	_	O
@@ -2377,8 +2367,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-VALERIANI	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -2499,8 +2488,7 @@ White	_	_	O
 House	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -3087,8 +3075,7 @@ the	_	_	I-Claim
 world	_	_	I-Claim
 .	_	_	I-Claim
 
-VALERIANI	_	_	O
-:	_	_	O
+
 How	_	_	O
 specifically	_	_	O
 ,	_	_	O
@@ -3120,8 +3107,7 @@ that	_	_	O
 mean	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -3430,8 +3416,7 @@ of	_	_	I-Claim
 state	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 ,	_	_	O
@@ -3442,8 +3427,7 @@ a	_	_	O
 response	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Claim
 Carter	_	_	I-Claim
 again	_	_	I-Claim
@@ -3757,8 +3741,7 @@ foreign	_	_	O
 policy	_	_	O
 .	_	_	O
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Frankel	_	_	O
 ,	_	_	O
@@ -3769,8 +3752,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -3950,8 +3932,7 @@ in	_	_	O
 Europe	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -4413,14 +4394,12 @@ Ford	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ?	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -4506,8 +4485,7 @@ of	_	_	O
 Communism	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -4643,8 +4621,7 @@ their	_	_	I-Premise
 freedom	_	_	I-Premise
 .	_	_	I-Premise
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -4655,8 +4632,7 @@ your	_	_	O
 response	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 (	_	_	O
 chuckle	_	_	O
 )	_	_	O
@@ -5097,8 +5073,7 @@ international	_	_	I-Claim
 trade	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERIC	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trewhitt	_	_	O
 ,	_	_	O
@@ -5109,8 +5084,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5243,8 +5217,7 @@ Serviette	_	_	O
 Union	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 would	_	_	I-Claim
 never	_	_	I-Claim
@@ -5847,8 +5820,7 @@ be	_	_	I-Claim
 changed	_	_	I-Claim
 .	_	_	I-Claim
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -5921,8 +5893,7 @@ it	_	_	O
 correctly	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 If	_	_	O
 -	_	_	O
 Iran	_	_	O
@@ -6016,14 +5987,12 @@ oil	_	_	I-Claim
 embargo	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 uh	_	_	O
@@ -6328,8 +6297,7 @@ as	_	_	I-Claim
 ours	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Valeriani	_	_	O
 ,	_	_	O
@@ -6340,8 +6308,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-VALERIANI	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -6431,8 +6398,7 @@ for	_	_	O
 it	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Our	_	_	B-Claim
 relationship	_	_	I-Claim
 with	_	_	I-Claim
@@ -6671,8 +6637,7 @@ this	_	_	I-Claim
 administration	_	_	I-Claim
 .	_	_	I-Claim
 
-VALERIANI	_	_	O
-:	_	_	O
+
 And	_	_	O
 sir	_	_	O
 ,	_	_	O
@@ -6685,8 +6650,7 @@ mainland	_	_	O
 Chinese	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 is	_	_	I-Claim
 no	_	_	I-Claim
@@ -6760,14 +6724,12 @@ the	_	_	I-Claim
 like	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -7060,8 +7022,7 @@ on	_	_	I-Claim
 Taiwan	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Frankel	_	_	O
 ,	_	_	O
@@ -7072,8 +7033,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -7201,8 +7161,7 @@ other	_	_	O
 directions	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 always	_	_	B-Premise
@@ -7744,8 +7703,7 @@ I	_	_	I-Claim
 elected	_	_	I-Claim
 .	_	_	I-Claim
 
-FRANKEL	_	_	O
-:	_	_	O
+
 If	_	_	O
 I	_	_	O
 hear	_	_	O
@@ -7826,8 +7784,7 @@ spending	_	_	O
 Ever	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 let	_	_	O
 me	_	_	O
@@ -8016,14 +7973,12 @@ come	_	_	I-Claim
 first	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -8331,8 +8286,7 @@ never	_	_	I-Premise
 better	_	_	I-Premise
 .	_	_	I-Premise
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trewhitt	_	_	O
 ,	_	_	O
@@ -8343,8 +8297,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -8479,8 +8432,7 @@ SALT	_	_	O
 negotiations	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 First	_	_	O
 we	_	_	O
 have	_	_	O
@@ -8911,8 +8863,7 @@ do	_	_	I-Claim
 so	_	_	I-Claim
 .	_	_	I-Claim
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -9028,8 +8979,7 @@ that	_	_	O
 context	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -9223,14 +9173,12 @@ all	_	_	I-Claim
 parties	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	B-Claim
@@ -9609,8 +9557,7 @@ next	_	_	I-Claim
 president	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Valeriani	_	_	O
 ,	_	_	O
@@ -9621,8 +9568,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-VALERIANI	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -9696,8 +9642,7 @@ campaign	_	_	O
 rhetoric	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 it	_	_	B-Claim
@@ -10088,14 +10033,12 @@ been	_	_	I-Claim
 realized	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Claim
 Carter	_	_	I-Claim
 uh	_	_	I-Claim
@@ -10385,8 +10328,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Frankel	_	_	O
 ,	_	_	O
@@ -10397,8 +10339,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10683,8 +10624,7 @@ the	_	_	O
 world	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -11139,8 +11079,7 @@ moral	_	_	I-Claim
 principles	_	_	I-Claim
 .	_	_	I-Claim
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -11218,8 +11157,7 @@ in	_	_	O
 Rhodesia	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 hope	_	_	O
@@ -11522,14 +11460,12 @@ present	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 notice	_	_	O
 that	_	_	O
@@ -11916,8 +11852,7 @@ place	_	_	I-Claim
 there	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -11994,8 +11929,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -12058,8 +11992,7 @@ in	_	_	O
 1974	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 here	_	_	O
@@ -12304,14 +12237,12 @@ foreseeable	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
@@ -12472,8 +12403,7 @@ year	_	_	O
 ago	_	_	O
 .	_	_	O
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Valeriani	_	_	O
 ,	_	_	O
@@ -12484,8 +12414,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-VALERIANI	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -12558,8 +12487,7 @@ that	_	_	O
 report	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 White	_	_	I-Claim
 House	_	_	I-Claim
@@ -12904,14 +12832,12 @@ best	_	_	I-Claim
 evidence	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -13225,8 +13151,7 @@ be	_	_	I-Claim
 issued	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 at	_	_	O
@@ -13252,8 +13177,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-FRANKEL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -13288,8 +13212,7 @@ handle	_	_	O
 that	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -13514,14 +13437,12 @@ from	_	_	I-Claim
 continuing	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Again	_	_	B-Claim
 Governor	_	_	I-Claim
 Carter	_	_	I-Claim
@@ -13797,8 +13718,7 @@ do	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trewhitt	_	_	O
 ,	_	_	O
@@ -13811,8 +13731,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-TREWHITT	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13857,8 +13776,7 @@ that	_	_	O
 country	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 restate	_	_	O
@@ -13964,14 +13882,12 @@ our	_	_	I-Claim
 MIAs	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 One	_	_	B-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
@@ -14190,8 +14106,7 @@ done	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 Governor	_	_	O
@@ -14250,8 +14165,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 purpose	_	_	I-Premise
 of	_	_	I-Premise
@@ -14785,14 +14699,12 @@ United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
 
-FREDERICK	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 As	_	_	O
 we	_	_	O
 have	_	_	O

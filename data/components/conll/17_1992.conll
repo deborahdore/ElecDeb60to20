@@ -1,5 +1,4 @@
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -30,8 +29,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -51,8 +49,7 @@ family	_	_	O
 is	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 A	_	_	B-Claim
 family	_	_	I-Claim
 involves	_	_	I-Claim
@@ -224,8 +221,7 @@ production	_	_	I-Premise
 ever	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 President	_	_	O
 Bush	_	_	O
 ,	_	_	O
@@ -233,8 +229,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -328,8 +323,7 @@ same	_	_	I-Premise
 thing	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -342,8 +336,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 I	_	_	I-Premise
 had	_	_	I-Premise
@@ -511,8 +504,7 @@ do	_	_	I-Claim
 n't	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 ,	_	_	O
@@ -532,8 +524,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -574,8 +565,7 @@ of	_	_	O
 baseball	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -726,8 +716,7 @@ the	_	_	I-Claim
 addicts	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -735,8 +724,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Anytime	_	_	B-Premise
 you	_	_	I-Premise
 think	_	_	I-Premise
@@ -829,8 +817,7 @@ genetically	_	_	I-Premise
 damaged	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -838,8 +825,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Like	_	_	O
 Mr.	_	_	O
 Perot	_	_	O
@@ -888,8 +874,7 @@ of	_	_	I-Claim
 him	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Next	_	_	O
 question	_	_	O
 is	_	_	O
@@ -913,8 +898,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -956,8 +940,7 @@ end	_	_	O
 it	_	_	O
 ?	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 This	_	_	O
 is	_	_	O
 a	_	_	O
@@ -1016,8 +999,7 @@ the	_	_	I-Premise
 3rd	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -1025,8 +1007,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 grew	_	_	I-Premise
 up	_	_	I-Premise
@@ -1067,8 +1048,7 @@ of	_	_	I-Claim
 God	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1076,8 +1056,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -1119,8 +1098,7 @@ rights	_	_	I-Claim
 legislation	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Time	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -1160,8 +1138,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1205,8 +1182,7 @@ much	_	_	O
 inaction	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Coming	_	_	O
 from	_	_	O
 the	_	_	O
@@ -1259,8 +1235,7 @@ cancer	_	_	I-Premise
 victim	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 ,	_	_	O
@@ -1268,8 +1243,7 @@ Mr.	_	_	O
 Perot	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 First	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -1414,8 +1388,7 @@ about	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -1423,8 +1396,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Over	_	_	B-Premise
 150,000	_	_	I-Premise
 Americans	_	_	I-Premise
@@ -1508,8 +1480,7 @@ and	_	_	I-Claim
 treatment	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 for	_	_	O
@@ -1530,8 +1501,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -1580,8 +1550,7 @@ in	_	_	O
 Washington	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Two	_	_	B-Claim
 ways	_	_	I-Claim
 .	_	_	I-Claim
@@ -1604,16 +1573,14 @@ historical	_	_	I-Claim
 event	_	_	I-Claim
 --	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Ross	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -1631,8 +1598,7 @@ that	_	_	I-Claim
 simple	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 ,	_	_	O
@@ -1640,8 +1606,7 @@ President	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -1682,8 +1647,7 @@ it	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 ,	_	_	O
@@ -1703,8 +1667,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -1751,8 +1714,7 @@ socialized	_	_	O
 medicine	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Bush	_	_	O
 made	_	_	O
@@ -1760,8 +1722,7 @@ that	_	_	O
 charge	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 he	_	_	O
@@ -1809,8 +1770,7 @@ going	_	_	O
 bonkers	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 thought	_	_	I-Claim
 the	_	_	I-Claim
@@ -1973,8 +1933,7 @@ of	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 President	_	_	O
 Bush	_	_	O
 ,	_	_	O
@@ -1982,8 +1941,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2103,8 +2061,7 @@ technical	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Perot	_	_	O
 ,	_	_	O
@@ -2112,8 +2069,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 got	_	_	I-Claim
 the	_	_	I-Claim
@@ -2159,8 +2115,7 @@ the	_	_	I-Claim
 best	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -2222,8 +2177,7 @@ are	_	_	O
 first	_	_	O
 .	_	_	O
 
-PEROT	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -2308,8 +2262,7 @@ the	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Clinton	_	_	O
 ,	_	_	O
@@ -2318,8 +2271,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'd	_	_	I-Claim
 like	_	_	I-Claim
@@ -2361,8 +2313,7 @@ are	_	_	I-Claim
 watching	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 President	_	_	O
 Bush	_	_	O
 ,	_	_	O
@@ -2371,8 +2322,7 @@ opposing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -2505,8 +2455,7 @@ are	_	_	I-Claim
 free	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Do	_	_	O
 n't	_	_	O
 go	_	_	O

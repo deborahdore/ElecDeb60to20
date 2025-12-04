@@ -1,5 +1,4 @@
-RIDINGS	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -109,8 +108,7 @@ tonight	_	_	O
 Sandy	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -275,8 +273,7 @@ Mr.	_	_	O
 Mashek	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 John	_	_	O
 Adams	_	_	O
 ,	_	_	O
@@ -403,8 +400,7 @@ own	_	_	O
 ideas	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -840,8 +836,7 @@ doing	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 Well	_	_	O
 some	_	_	O
 Republicans	_	_	O
@@ -900,8 +895,7 @@ principle	_	_	O
 begin	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 owe	_	_	I-Claim
 my	_	_	I-Claim
@@ -1111,8 +1105,7 @@ United	_	_	O
 States	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -1174,8 +1167,7 @@ like	_	_	O
 that	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -1624,8 +1616,7 @@ those	_	_	I-Claim
 problems	_	_	I-Claim
 .	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 Despite	_	_	O
 the	_	_	O
 historic	_	_	O
@@ -1668,8 +1659,7 @@ Ferraro	_	_	O
 ticket	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -1825,8 +1815,7 @@ those	_	_	I-Claim
 polls	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
@@ -1839,8 +1828,7 @@ to	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2039,8 +2027,7 @@ delivering	_	_	I-Claim
 leadership	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -2050,8 +2037,7 @@ minute	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -2251,14 +2237,12 @@ start	_	_	I-Claim
 tonight	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 White	_	_	O
 .	_	_	O
 
-WHITE	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -2343,8 +2327,7 @@ of	_	_	O
 those	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 With	_	_	B-Premise
 reference	_	_	I-Premise
 to	_	_	I-Premise
@@ -2786,8 +2769,7 @@ particular	_	_	I-Claim
 area	_	_	I-Claim
 .	_	_	I-Claim
 
-WHITE	_	_	O
-:	_	_	O
+
 In	_	_	O
 the	_	_	O
 area	_	_	O
@@ -2838,8 +2820,7 @@ those	_	_	O
 goals	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 not	_	_	I-Claim
@@ -2992,8 +2973,7 @@ of	_	_	I-Claim
 discrimination	_	_	I-Claim
 .	_	_	I-Claim
 
-WHITE	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -3062,8 +3042,7 @@ so	_	_	O
 forth	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 Mr.	_	_	I-Claim
@@ -3527,8 +3506,7 @@ of	_	_	I-Claim
 despair	_	_	I-Claim
 .	_	_	I-Claim
 
-WHITE	_	_	O
-:	_	_	O
+
 Along	_	_	O
 those	_	_	O
 lines	_	_	O
@@ -3601,8 +3579,7 @@ than	_	_	O
 they	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Mr.	_	_	B-Claim
 White	_	_	I-Claim
 ,	_	_	I-Claim
@@ -3739,8 +3716,7 @@ lotta	_	_	I-Claim
 opportunity	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -3748,8 +3724,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 vice	_	_	I-Premise
 -	_	_	I-Premise
@@ -3856,8 +3831,7 @@ law	_	_	I-Claim
 With	_	_	O
 reference	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 -	_	_	O
@@ -3915,8 +3889,7 @@ I	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 just	_	_	O
 have	_	_	O
@@ -4026,16 +3999,14 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 maybe	_	_	O
@@ -4152,14 +4123,12 @@ all	_	_	I-Claim
 Americans	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Miss	_	_	O
 Quarles	_	_	O
 .	_	_	O
 
-QUARLES	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -4230,8 +4199,7 @@ their	_	_	O
 votes	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 believe	_	_	I-Claim
@@ -4666,8 +4634,7 @@ for	_	_	I-Claim
 all	_	_	I-Claim
 .	_	_	I-Claim
 
-QUARLES	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -4723,8 +4690,7 @@ is	_	_	O
 murder	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -4876,8 +4842,7 @@ moral	_	_	I-Claim
 standpoint	_	_	I-Claim
 .	_	_	I-Claim
 
-QUARLES	_	_	O
-:	_	_	O
+
 So	_	_	O
 you	_	_	O
 believe	_	_	O
@@ -4888,8 +4853,7 @@ to	_	_	O
 murder	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -4900,8 +4864,7 @@ president	_	_	I-Claim
 position	_	_	I-Claim
 .	_	_	I-Claim
 
-QUARLES	_	_	O
-:	_	_	O
+
 Fine	_	_	O
 .	_	_	O
 Congresswoman	_	_	O
@@ -4955,8 +4918,7 @@ their	_	_	O
 vote	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -5448,8 +5410,7 @@ our	_	_	I-Claim
 Constitution	_	_	I-Claim
 .	_	_	I-Claim
 
-QUARLES	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -5494,8 +5455,7 @@ Catholic	_	_	O
 church	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 tell	_	_	O
@@ -5692,8 +5652,7 @@ my	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -5703,8 +5662,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	B-Claim
 respect	_	_	I-Claim
@@ -5843,8 +5801,7 @@ legislate	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -5852,8 +5809,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -5929,8 +5885,7 @@ and	_	_	O
 state	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 questioning	_	_	O
@@ -5939,8 +5894,7 @@ Mr.	_	_	O
 Boyd	_	_	O
 .	_	_	O
 
-BOYD	_	_	O
-:	_	_	O
+
 Like	_	_	O
 many	_	_	O
 Americans	_	_	O
@@ -6072,8 +6026,7 @@ the	_	_	O
 election	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -6305,8 +6258,7 @@ cleared	_	_	I-Claim
 up	_	_	I-Claim
 .	_	_	I-Claim
 
-BOYD	_	_	O
-:	_	_	O
+
 Since	_	_	O
 that	_	_	O
 famous	_	_	O
@@ -6395,8 +6347,7 @@ your	_	_	O
 accountant	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -6523,8 +6474,7 @@ care	_	_	I-Premise
 of	_	_	I-Premise
 .	_	_	I-Premise
 
-BOYD	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -6598,8 +6548,7 @@ wealthy	_	_	O
 taxpayers	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	O
 that	_	_	O
 figure	_	_	O
@@ -7100,8 +7049,7 @@ in	_	_	I-Claim
 taxes	_	_	I-Claim
 .	_	_	I-Claim
 
-BOYD	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 -	_	_	O
@@ -7147,8 +7095,7 @@ New	_	_	O
 Englander	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 really	_	_	O
@@ -7336,8 +7283,7 @@ money	_	_	O
 back	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -7346,8 +7292,7 @@ rebuttal	_	_	O
 please	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
@@ -7591,16 +7536,14 @@ have	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -7788,8 +7731,7 @@ full	_	_	I-Claim
 disclosure	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -7822,8 +7764,7 @@ Mr.	_	_	O
 Mashek	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -7882,8 +7823,7 @@ stop	_	_	O
 it	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Terrorism	_	_	B-Claim
 is	_	_	I-Claim
 very	_	_	I-Claim
@@ -8291,8 +8231,7 @@ eliminate	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 You	_	_	O
 mention	_	_	O
 Khomeini	_	_	O
@@ -8335,8 +8274,7 @@ of	_	_	O
 terrorism	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	O
 we	_	_	O
 've	_	_	O
@@ -8486,8 +8424,7 @@ Persian	_	_	I-Claim
 Gulf	_	_	I-Claim
 .	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -8519,8 +8456,7 @@ such	_	_	O
 attacks	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 first	_	_	O
@@ -9052,8 +8988,7 @@ some	_	_	I-Claim
 action	_	_	I-Claim
 ?	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 Some	_	_	O
 Democrats	_	_	O
 cringe	_	_	O
@@ -9084,8 +9019,7 @@ the	_	_	O
 world	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 they	_	_	I-Claim
@@ -9219,16 +9153,14 @@ other	_	_	I-Claim
 governments	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9431,14 +9363,12 @@ the	_	_	O
 Italians	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 just	_	_	O
@@ -9606,14 +9536,12 @@ else	_	_	I-Claim
 child	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 White	_	_	O
 .	_	_	O
 
-WHITE	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -9686,8 +9614,7 @@ Central	_	_	O
 America	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 would	_	_	I-Claim
 advocate	_	_	I-Claim
@@ -9985,8 +9912,7 @@ any	_	_	I-Claim
 instance	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 A	_	_	O
 follow	_	_	O
 -	_	_	O
@@ -9995,8 +9921,7 @@ up	_	_	O
 please	_	_	O
 .	_	_	O
 
-WHITE	_	_	O
-:	_	_	O
+
 Many	_	_	O
 times	_	_	O
 in	_	_	O
@@ -10054,8 +9979,7 @@ own	_	_	O
 borders	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -10196,8 +10120,7 @@ this	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-WHITE	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -10756,8 +10679,7 @@ Ronald	_	_	I-Claim
 Reagan	_	_	I-Claim
 .	_	_	I-Claim
 
-WHITE	_	_	O
-:	_	_	O
+
 Considering	_	_	O
 this	_	_	O
 country	_	_	O
@@ -10817,8 +10739,7 @@ from	_	_	O
 Nicaragua	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 support	_	_	I-Claim
 what	_	_	I-Claim
@@ -11027,14 +10948,12 @@ support	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 spent	_	_	O
 time	_	_	O
@@ -11264,15 +11183,13 @@ the	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11461,14 +11378,12 @@ Mr.	_	_	I-Claim
 Mondale	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Miss	_	_	O
 Quarles	_	_	O
 .	_	_	O
 
-QUARLES	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
@@ -11542,8 +11457,7 @@ month	_	_	O
 ago	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12077,8 +11991,7 @@ Who	_	_	O
 knows	_	_	O
 .	_	_	O
 
-QUARLES	_	_	O
-:	_	_	O
+
 You	_	_	O
 were	_	_	O
 once	_	_	O
@@ -12116,8 +12029,7 @@ were	_	_	O
 president	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -12375,8 +12287,7 @@ those	_	_	I-Claim
 countries	_	_	I-Claim
 .	_	_	I-Claim
 
-QUARLES	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -12420,8 +12331,7 @@ not	_	_	O
 cheating	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -12959,8 +12869,7 @@ guess	_	_	O
 my	_	_	O
 -	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12985,8 +12894,7 @@ President	_	_	O
 Bush	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -13224,8 +13132,7 @@ of	_	_	I-Claim
 negotiation	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 ,	_	_	O
 he	_	_	O
@@ -13258,8 +13165,7 @@ Forgive	_	_	O
 me	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 -	_	_	O
 You	_	_	O
@@ -13293,8 +13199,7 @@ follow	_	_	O
 up	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -13305,8 +13210,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-QUARLES	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -13375,8 +13279,7 @@ Mondale	_	_	O
 sic	_	_	O
 ]	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 first	_	_	I-Claim
@@ -13622,16 +13525,14 @@ doing	_	_	O
 Sander	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 another	_	_	O
 minute	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 I	_	_	O
@@ -13795,8 +13696,7 @@ as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Our	_	_	O
 last	_	_	O
 series	_	_	O
@@ -13810,8 +13710,7 @@ Mr.	_	_	O
 Boyd	_	_	O
 .	_	_	O
 
-BOYD	_	_	O
-:	_	_	O
+
 Congresswoman	_	_	O
 Ferraro	_	_	O
 ,	_	_	O
@@ -13895,8 +13794,7 @@ a	_	_	O
 woman	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Are	_	_	O
 you	_	_	O
 saying	_	_	O
@@ -13917,8 +13815,7 @@ love	_	_	O
 peace	_	_	O
 ?	_	_	O
 
-BOYD	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 not	_	_	O
@@ -13937,8 +13834,7 @@ I	_	_	O
 asked	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -14313,8 +14209,7 @@ control	_	_	I-Claim
 negotiations	_	_	I-Claim
 .	_	_	I-Claim
 
-BOYD	_	_	O
-:	_	_	O
+
 For	_	_	O
 my	_	_	O
 follow	_	_	O
@@ -14356,8 +14251,7 @@ foreign	_	_	O
 policy	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -14491,8 +14385,7 @@ of	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
 
-BOYD	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -14563,8 +14456,7 @@ strategy	_	_	O
 wrong	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -15010,8 +14902,7 @@ arms	_	_	I-Claim
 control	_	_	I-Claim
 .	_	_	I-Claim
 
-BOYD	_	_	O
-:	_	_	O
+
 And	_	_	O
 now	_	_	O
 ,	_	_	O
@@ -15041,8 +14932,7 @@ your	_	_	O
 opponent	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 none	_	_	O
@@ -15223,8 +15113,7 @@ it	_	_	O
 there	_	_	O
 .	_	_	O
 
-BOYD	_	_	O
-:	_	_	O
+
 Nothing	_	_	O
 on	_	_	O
 the	_	_	O
@@ -15235,8 +15124,7 @@ Congresswoman	_	_	O
 Ferraro	_	_	O
 ?	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -15367,8 +15255,7 @@ national	_	_	I-Claim
 security	_	_	I-Claim
 .	_	_	I-Claim
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 -	_	_	O
 President	_	_	O
@@ -15378,14 +15265,12 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -15416,8 +15301,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	B-Claim
 ,	_	_	I-Claim
 in	_	_	I-Claim
@@ -15933,8 +15817,7 @@ very	_	_	O
 much	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -15970,8 +15853,7 @@ now	_	_	O
 please	_	_	O
 .	_	_	O
 
-FERRARO	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 somebody	_	_	O

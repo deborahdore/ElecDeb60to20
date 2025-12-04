@@ -1,5 +1,4 @@
-MCGEE	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -325,10 +324,7 @@ Vice	_	_	O
 President	_	_	O
 Nixon	_	_	O
 .	_	_	O
- 
-	_	_	O
-NIVEN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -384,8 +380,7 @@ the	_	_	O
 Communists	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 first	_	_	O
 of	_	_	O
@@ -849,8 +844,7 @@ one	_	_	I-Claim
 bit	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -861,8 +855,7 @@ to	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 In	_	_	B-Claim
 the	_	_	I-Claim
 first	_	_	I-Claim
@@ -1179,8 +1172,7 @@ uh	_	_	I-Claim
 revolution	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Morgan	_	_	O
 ,	_	_	O
@@ -1192,8 +1184,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-MORGAN	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 last	_	_	O
@@ -1237,8 +1228,7 @@ so	_	_	O
 then	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	B-Premise
 Morgan	_	_	I-Premise
 ,	_	_	I-Premise
@@ -1722,15 +1712,13 @@ move	_	_	I-Claim
 on	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 Kenne-	_	_	O
@@ -2043,8 +2031,7 @@ United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Spivak	_	_	O
 with	_	_	O
@@ -2056,8 +2043,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-SPIVAK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -2120,8 +2106,7 @@ become	_	_	O
 president	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 My	_	_	B-Claim
 intentions	_	_	I-Claim
 in	_	_	I-Claim
@@ -2695,14 +2680,12 @@ every	_	_	I-Claim
 opportunity	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	B-Claim
@@ -3015,8 +2998,7 @@ do	_	_	I-Claim
 so	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Levy	_	_	O
 with	_	_	O
@@ -3027,8 +3009,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-LEVY	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -3096,8 +3077,7 @@ the	_	_	O
 standpoint	_	_	O
 of	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 let	_	_	O
 me	_	_	O
@@ -3675,15 +3655,13 @@ views	_	_	I-Claim
 clearly	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Claim
 Kennedy	_	_	I-Claim
 has	_	_	I-Claim
@@ -4023,8 +4001,7 @@ he	_	_	I-Claim
 talks	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Morgan	_	_	O
 with	_	_	O
@@ -4036,8 +4013,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-MORGAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -4101,8 +4077,7 @@ we	_	_	O
 should	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	B-Claim
 Morgan	_	_	I-Claim
 ,	_	_	I-Claim
@@ -4681,14 +4656,12 @@ do	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Of	_	_	B-Claim
 course	_	_	I-Claim
 Mr.	_	_	I-Claim
@@ -5048,8 +5021,7 @@ the	_	_	I-Claim
 facts	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Spivak	_	_	O
 with	_	_	O
@@ -5060,8 +5032,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-SPIVAK	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 uh	_	_	O
@@ -5103,8 +5074,7 @@ our	_	_	O
 economy	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 We	_	_	B-Claim
@@ -5700,15 +5670,13 @@ do	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Premise
 Kennedy	_	_	I-Premise
 has	_	_	I-Premise
@@ -6013,8 +5981,7 @@ our	_	_	I-Claim
 ideals	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Levy	_	_	O
 with	_	_	O
@@ -6089,10 +6056,7 @@ at	_	_	O
 what	_	_	O
 point	_	_	O
 ?	_	_	O
- 
-	_	_	O
-NIXON	_	_	O
-:	_	_	O
+
 To	_	_	B-Claim
 combat	_	_	I-Claim
 unemployment	_	_	I-Claim
@@ -6578,14 +6542,12 @@ to	_	_	I-Claim
 come	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Mr.	_	_	B-Claim
 Nixon	_	_	I-Claim
@@ -6946,8 +6908,7 @@ our	_	_	I-Premise
 economy	_	_	I-Premise
 .	_	_	I-Premise
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Niven	_	_	O
 with	_	_	O
@@ -6958,8 +6919,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-NIVEN	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 while	_	_	O
@@ -7025,8 +6985,7 @@ such	_	_	O
 decline	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	O
 understood	_	_	O
@@ -7618,15 +7577,13 @@ the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 first	_	_	O
 of	_	_	O
@@ -7949,8 +7906,7 @@ advocating	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Spivak	_	_	O
 with	_	_	O
@@ -7962,8 +7918,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-SPIVAK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -8038,8 +7993,7 @@ laid	_	_	O
 down	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 of	_	_	O
@@ -8441,14 +8395,12 @@ make	_	_	I-Claim
 propaganda	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 no	_	_	I-Claim
@@ -8767,8 +8719,7 @@ of	_	_	I-Claim
 ideas	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Levy	_	_	O
 with	_	_	O
@@ -8779,8 +8730,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-LEVY	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -8877,15 +8827,13 @@ it	_	_	O
 necessary	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 right	_	_	O
 .	_	_	O
 
-LEVY	_	_	O
-:	_	_	O
+
 Is	_	_	O
 this	_	_	O
 what	_	_	O
@@ -8895,8 +8843,7 @@ in	_	_	O
 mind	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -9448,15 +9395,13 @@ its	_	_	I-Claim
 responsibilities	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	I-Claim
 I	_	_	I-Claim
 think	_	_	I-Claim
@@ -9760,8 +9705,7 @@ people	_	_	I-Claim
 money	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Niven	_	_	O
 with	_	_	O
@@ -9773,8 +9717,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-NIVEN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -9851,8 +9794,7 @@ the	_	_	O
 country	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 did	_	_	I-Claim
 .	_	_	I-Claim
@@ -10397,14 +10339,12 @@ do	_	_	I-Claim
 so	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -10780,8 +10720,7 @@ severe	_	_	I-Claim
 recession	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Morgan	_	_	O
 with	_	_	O
@@ -10792,8 +10731,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-MORGAN	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 Saturday	_	_	O
@@ -10849,8 +10787,7 @@ as	_	_	O
 appeasement	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -11380,15 +11317,13 @@ island	_	_	I-Claim
 itself	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 disagree	_	_	I-Claim
 completely	_	_	I-Claim
@@ -11673,8 +11608,7 @@ be	_	_	I-Claim
 elected	_	_	I-Claim
 .	_	_	I-Claim
 
-MCGEE	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -11714,8 +11648,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-LEVY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -11782,8 +11715,7 @@ not	_	_	O
 important	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Because	_	_	O
 that	_	_	B-Claim
 's	_	_	I-Claim
@@ -12280,16 +12212,12 @@ as	_	_	I-Claim
 he	_	_	I-Claim
 believes	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-MCGEE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O

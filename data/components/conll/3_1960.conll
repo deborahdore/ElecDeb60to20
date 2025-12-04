@@ -1,5 +1,4 @@
-SHADEL	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -144,8 +143,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -153,8 +151,7 @@ Mr.	_	_	O
 Shadel	_	_	O
 .	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 And	_	_	O
 good	_	_	O
 evening	_	_	O
@@ -166,8 +163,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -175,8 +171,7 @@ Mr.	_	_	O
 Shadel	_	_	O
 .	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 And	_	_	O
 now	_	_	O
 to	_	_	O
@@ -481,8 +476,7 @@ defend	_	_	O
 Berlin	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 McGee	_	_	O
 ,	_	_	O
@@ -646,8 +640,7 @@ West	_	_	I-Claim
 Berlin	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -659,8 +652,7 @@ to	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 As	_	_	O
@@ -938,8 +930,7 @@ over	_	_	I-Claim
 Berlin	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -954,8 +945,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-FREMD	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -1046,8 +1036,7 @@ nuclear	_	_	O
 weapons	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Von	_	_	O
 Fremd	_	_	O
@@ -1556,8 +1545,7 @@ to	_	_	I-Claim
 peace	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -1568,8 +1556,7 @@ to	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 The	_	_	O
@@ -1962,8 +1949,7 @@ so	_	_	I-Claim
 where	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Cater	_	_	O
 has	_	_	O
@@ -1975,8 +1961,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-CATER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -2063,8 +2048,7 @@ this	_	_	O
 period	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	O
 think	_	_	O
@@ -2535,8 +2519,7 @@ nuclear	_	_	I-Claim
 war	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -2545,8 +2528,7 @@ your	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 I	_	_	O
@@ -2916,8 +2898,7 @@ offshore	_	_	I-Claim
 islands	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -2931,8 +2912,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-DRUMMOND	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
@@ -3038,8 +3018,7 @@ this	_	_	O
 subject	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Mr.	_	_	O
 Drummond	_	_	O
@@ -3556,14 +3535,12 @@ of	_	_	I-Claim
 freedom	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -3954,8 +3931,7 @@ United	_	_	I-Premise
 States	_	_	I-Premise
 .	_	_	I-Premise
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Von	_	_	O
 Fremd	_	_	O
@@ -3967,8 +3943,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-FREMD	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -4061,8 +4036,7 @@ an	_	_	O
 apology	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4180,8 +4154,7 @@ to	_	_	O
 him	_	_	O
 .	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 Any	_	_	O
 comment	_	_	O
 ,	_	_	O
@@ -4190,8 +4163,7 @@ Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -4504,8 +4476,7 @@ follow	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Cater	_	_	O
 's	_	_	O
@@ -4517,8 +4488,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-CATER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -4689,8 +4659,7 @@ foreign	_	_	O
 policy	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -5220,14 +5189,12 @@ more	_	_	I-Claim
 aggression	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 number	_	_	O
 one	_	_	O
@@ -5611,8 +5578,7 @@ Administration	_	_	O
 commitment	_	_	O
 .	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Drummond	_	_	O
 's	_	_	O
@@ -5623,8 +5589,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-DRUMMOND	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Mr.	_	_	O
@@ -5745,8 +5710,7 @@ about	_	_	O
 it	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 the	_	_	O
 que-	_	_	O
@@ -5945,15 +5909,13 @@ any	_	_	I-Claim
 way	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	O
 welcome	_	_	O
@@ -6255,8 +6217,7 @@ presidential	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 McGee	_	_	O
 has	_	_	O
@@ -6268,8 +6229,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-MCGEE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -6327,8 +6287,7 @@ they	_	_	O
 do	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 McGee	_	_	O
 ,	_	_	O
@@ -6806,16 +6765,14 @@ the	_	_	I-Claim
 Soviets	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 your	_	_	O
 comment	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -7209,8 +7166,7 @@ n't	_	_	I-Premise
 happen	_	_	I-Premise
 .	_	_	I-Premise
 
-SHADEL	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -7223,8 +7179,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-CATER	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Mr.	_	_	O
@@ -7286,8 +7241,7 @@ do	_	_	O
 that	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	O
 I	_	_	O
@@ -7829,15 +7783,13 @@ public	_	_	O
 record	_	_	O
 .	_	_	O
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Claim
 Kennedy	_	_	I-Claim
 has	_	_	I-Claim
@@ -8243,8 +8195,7 @@ interest	_	_	I-Claim
 rate	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Next	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -8257,8 +8208,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-DRUMMOND	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Mr.	_	_	O
@@ -8356,8 +8306,7 @@ it	_	_	O
 up	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Drummond	_	_	O
 ,	_	_	O
@@ -8917,14 +8866,12 @@ and	_	_	I-Premise
 peace	_	_	I-Premise
 .	_	_	I-Premise
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 first	_	_	O
 may	_	_	O
@@ -9279,8 +9226,7 @@ employment	_	_	I-Claim
 today	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 McGee	_	_	O
 has	_	_	O
@@ -9292,8 +9238,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-MCGEE	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Senator	_	_	O
@@ -9418,8 +9363,7 @@ be	_	_	O
 cut	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Mr.	_	_	O
@@ -9696,15 +9640,13 @@ country	_	_	I-Claim
 forward	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Senator	_	_	B-Claim
 Kennedy	_	_	I-Claim
 's	_	_	I-Claim
@@ -10040,8 +9982,7 @@ not	_	_	I-Premise
 less	_	_	I-Premise
 .	_	_	I-Premise
 
-SHADEL	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 if	_	_	O
@@ -10079,8 +10020,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-FREMD	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -10152,8 +10092,7 @@ our	_	_	O
 shores	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -10535,14 +10474,12 @@ spoke	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Just	_	_	O
 to	_	_	O
 uh	_	_	O
@@ -10925,8 +10862,7 @@ their	_	_	I-Claim
 own	_	_	I-Claim
 .	_	_	I-Claim
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Drummond	_	_	O
 's	_	_	O
@@ -10937,8 +10873,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-DRUMMOND	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -11020,8 +10955,7 @@ is	_	_	O
 falling	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11592,15 +11526,13 @@ of	_	_	I-Premise
 vitality	_	_	I-Premise
 .	_	_	I-Premise
 
-SHADEL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O

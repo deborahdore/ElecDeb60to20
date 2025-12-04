@@ -7,7 +7,6 @@ October	_	_	O
 ,	_	_	O
 2000</strong	_	_	O
 >	_	_	O
- 	_	_	O
 <	_	_	O
 strong	_	_	O
 >	_	_	O
@@ -19,10 +18,7 @@ Bush	_	_	O
 Presidential	_	_	O
 Debate</strong	_	_	O
 >	_	_	O
- 
-	_	_	O
-MODERATOR	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -268,8 +264,7 @@ enormous	_	_	O
 power	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 ,	_	_	I-Claim
@@ -619,15 +614,13 @@ United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 Jim	_	_	O
@@ -969,8 +962,7 @@ our	_	_	I-Claim
 values	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Should	_	_	O
 the	_	_	O
 people	_	_	O
@@ -1025,8 +1017,7 @@ as	_	_	O
 president	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -1212,15 +1203,13 @@ respect	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 A	_	_	O
 humble	_	_	O
 nation	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 agree	_	_	I-Claim
 with	_	_	I-Claim
@@ -1456,8 +1445,7 @@ can	_	_	I-Premise
 represent	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Does	_	_	O
 that	_	_	O
 give	_	_	O
@@ -1487,8 +1475,7 @@ the	_	_	O
 world	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -1661,8 +1648,7 @@ our	_	_	I-Claim
 generosity	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 go	_	_	O
@@ -1723,8 +1709,7 @@ over	_	_	O
 there	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 first	_	_	I-Claim
 priority	_	_	I-Claim
@@ -2022,13 +2007,11 @@ to	_	_	I-Claim
 shepherd	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -2432,8 +2415,7 @@ Middle	_	_	O
 East	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 So	_	_	O
 you	_	_	O
 do	_	_	O
@@ -2479,8 +2461,7 @@ particular	_	_	O
 situation	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -2582,8 +2563,7 @@ to	_	_	I-Claim
 Israel	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 You	_	_	O
 agree	_	_	O
 with	_	_	O
@@ -2592,8 +2572,7 @@ that	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
@@ -2723,8 +2702,7 @@ Middle	_	_	I-Claim
 East	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 People	_	_	B-Premise
 watching	_	_	I-Premise
 here	_	_	I-Premise
@@ -2771,8 +2749,7 @@ any	_	_	O
 difference	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 n't	_	_	O
@@ -2787,8 +2764,7 @@ few	_	_	O
 exchanges	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 hard	_	_	O
@@ -2820,8 +2796,7 @@ situation	_	_	I-Claim
 better	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Saddam	_	_	O
 Hussein	_	_	O
 ,	_	_	O
@@ -2835,8 +2810,7 @@ of	_	_	O
 there	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -2928,8 +2902,7 @@ on	_	_	I-Claim
 him	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 You	_	_	O
 feel	_	_	O
 that	_	_	O
@@ -2942,14 +2915,12 @@ Clinton	_	_	O
 administration	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 when	_	_	B-Premise
@@ -3267,8 +3238,7 @@ allowed	_	_	I-Claim
 to	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Did	_	_	O
 he	_	_	O
 state	_	_	O
@@ -3289,8 +3259,7 @@ are	_	_	O
 you	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 of	_	_	I-Claim
@@ -3308,8 +3277,7 @@ be	_	_	I-Claim
 tougher	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 go	_	_	O
@@ -3351,8 +3319,7 @@ military	_	_	O
 intervention	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -3484,8 +3451,7 @@ done	_	_	I-Claim
 however	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 But	_	_	O
 you	_	_	O
 think	_	_	O
@@ -3526,8 +3492,7 @@ military	_	_	O
 power	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -3786,8 +3751,7 @@ winning	_	_	I-Premise
 war	_	_	I-Premise
 .	_	_	I-Premise
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -4105,8 +4069,7 @@ that	_	_	O
 wrong	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Trying	_	_	O
 to	_	_	O
 figure	_	_	O
@@ -4198,8 +4161,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -4291,8 +4253,7 @@ have	_	_	O
 happened	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Can	_	_	O
 you	_	_	O
 run	_	_	O
@@ -4302,15 +4263,13 @@ list	_	_	O
 again	_	_	O
 ?	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 Lebanon	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 thought	_	_	I-Claim
 that	_	_	I-Claim
@@ -4319,38 +4278,32 @@ a	_	_	I-Claim
 mistake	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Grenada	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 supported	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Panama	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 supported	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Persian	_	_	O
 Gulf	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -4362,13 +4315,11 @@ supported	_	_	B-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Somalia	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Of	_	_	O
 course	_	_	O
 ,	_	_	O
@@ -4429,42 +4380,35 @@ very	_	_	I-Claim
 seriously	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Bosnia	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 yes	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Haiti	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 And	_	_	O
 then	_	_	O
 Kosovo	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 We	_	_	O
 talked	_	_	O
 about	_	_	O
@@ -4481,16 +4425,14 @@ you	_	_	O
 Lebanon	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Make	_	_	O
 a	_	_	O
 couple	_	_	O
 comments	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 ,	_	_	O
 absolutely	_	_	O
@@ -4500,8 +4442,7 @@ sure	_	_	O
 Somalia	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Started	_	_	B-Premise
 off	_	_	I-Premise
 as	_	_	I-Premise
@@ -4623,35 +4564,29 @@ supported	_	_	I-Claim
 either	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 What	_	_	O
 about	_	_	O
 Lebanon	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Grenada	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Panama	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 Some	_	_	B-Claim
@@ -4674,8 +4609,7 @@ I	_	_	O
 mean	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 ,	_	_	O
@@ -4745,8 +4679,7 @@ to	_	_	O
 intervene	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -4895,8 +4828,7 @@ into	_	_	I-Claim
 Rwanda	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 have	_	_	O
@@ -4918,8 +4850,7 @@ about	_	_	O
 genocide	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -5256,8 +5187,7 @@ humanitarian	_	_	I-Claim
 mission	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 So	_	_	O
 what	_	_	O
 would	_	_	O
@@ -5304,8 +5234,7 @@ at	_	_	O
 risk	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5589,8 +5518,7 @@ was	_	_	I-Premise
 before	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
@@ -5626,8 +5554,7 @@ defined	_	_	O
 it	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -5998,8 +5925,7 @@ towns	_	_	I-Premise
 back	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 You	_	_	O
 said	_	_	O
 in	_	_	O
@@ -6046,8 +5972,7 @@ become	_	_	O
 president	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 First	_	_	O
 let	_	_	O
 me	_	_	O
@@ -6270,8 +6195,7 @@ Columbia	_	_	I-Premise
 But	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 The	_	_	O
 use	_	_	O
 of	_	_	O
@@ -6339,8 +6263,7 @@ radar	_	_	O
 screen	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -6507,8 +6430,7 @@ strategy	_	_	I-Claim
 obvious	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -6808,8 +6730,7 @@ our	_	_	I-Claim
 military	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 In	_	_	O
 the	_	_	O
 non	_	_	O
@@ -6904,8 +6825,7 @@ poor	_	_	O
 countries	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6915,13 +6835,11 @@ World	_	_	O
 debt	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	B-Premise
 's	_	_	I-Premise
 a	_	_	I-Premise
@@ -7173,8 +7091,7 @@ is	_	_	I-Premise
 good	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 think	_	_	O
@@ -7186,8 +7103,7 @@ obligations	_	_	O
 properly	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -7557,8 +7473,7 @@ leadership	_	_	I-Premise
 role	_	_	I-Premise
 .	_	_	I-Premise
 
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 comment	_	_	O
@@ -7970,8 +7885,7 @@ own	_	_	I-Claim
 course	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Lets	_	_	O
 move	_	_	O
 on	_	_	O
@@ -7984,8 +7898,7 @@ move	_	_	O
 on	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Far	_	_	O
 be	_	_	O
 it	_	_	O
@@ -7999,8 +7912,7 @@ otherwise	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 First	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -8048,8 +7960,7 @@ of	_	_	O
 government	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -8298,8 +8209,7 @@ the	_	_	I-Claim
 century	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -8542,8 +8452,7 @@ federal	_	_	I-Claim
 consequence	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	O
 could	_	_	O
@@ -8553,21 +8462,18 @@ federal	_	_	O
 law	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yeah	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 would	_	_	O
 agree	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 would	_	_	I-Claim
 agree	_	_	I-Claim
@@ -8771,8 +8677,7 @@ of	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 a	_	_	O
@@ -8782,8 +8687,7 @@ of	_	_	O
 that	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -8793,16 +8697,14 @@ n't	_	_	I-Claim
 really	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 On	_	_	O
 hate	_	_	O
 crimes	_	_	O
 laws	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 We	_	_	B-Premise
@@ -9046,8 +8948,7 @@ with	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 What	_	_	O
 --	_	_	O
 if	_	_	O
@@ -9099,8 +9000,7 @@ this	_	_	O
 country	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	B-Claim
 me	_	_	I-Claim
 tell	_	_	I-Claim
@@ -9420,8 +9320,7 @@ a	_	_	I-Premise
 child	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
@@ -9439,8 +9338,7 @@ as	_	_	O
 president	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -9519,8 +9417,7 @@ of	_	_	O
 education	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 one	_	_	O
@@ -9538,8 +9435,7 @@ this	_	_	O
 up	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9602,8 +9498,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -9620,10 +9515,7 @@ statute	_	_	O
 We	_	_	O
 do	_	_	O
 .	_	_	O
- 
-	_	_	O
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 talking	_	_	O
@@ -9637,8 +9529,7 @@ to	_	_	O
 deal	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	O
 --	_	_	O
 well	_	_	O
@@ -9680,8 +9571,7 @@ death	_	_	O
 penalty	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 They	_	_	O
 were	_	_	O
 prosecuted	_	_	O
@@ -9698,8 +9588,7 @@ in	_	_	O
 Texas	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 In	_	_	O
 this	_	_	O
 case	_	_	O
@@ -9761,20 +9650,17 @@ in	_	_	O
 Texas	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 May	_	_	O
 I	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Sure	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -9940,8 +9826,7 @@ of	_	_	I-Premise
 opposition	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 would	_	_	O
@@ -9950,13 +9835,11 @@ that	_	_	O
 bill	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 support	_	_	O
@@ -9967,8 +9850,7 @@ crimes	_	_	O
 law	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 would	_	_	I-Claim
 support	_	_	I-Claim
@@ -10100,8 +9982,7 @@ of	_	_	I-Claim
 Texas	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 New	_	_	O
 subject	_	_	O
 ,	_	_	O
@@ -10144,8 +10025,7 @@ on	_	_	O
 that	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'm	_	_	I-Claim
 not	_	_	I-Claim
@@ -10278,15 +10158,13 @@ a	_	_	I-Claim
 woman	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 agree	_	_	I-Claim
 with	_	_	I-Claim
@@ -10345,15 +10223,13 @@ another	_	_	I-Claim
 view	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Is	_	_	O
 that	_	_	O
 right	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 not	_	_	O
@@ -10453,8 +10329,7 @@ a	_	_	I-Claim
 woman	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Do	_	_	O
 you	_	_	O
 believe	_	_	O
@@ -10475,8 +10350,7 @@ other	_	_	O
 Americans	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 I	_	_	B-Claim
@@ -10502,8 +10376,7 @@ same	_	_	I-Claim
 rights	_	_	I-Claim
 .	_	_	I-Claim
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 there	_	_	B-Premise
@@ -10591,19 +10464,16 @@ that	_	_	O
 law	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 The	_	_	O
 question	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -10614,8 +10484,7 @@ logical	_	_	O
 response	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -10760,8 +10629,7 @@ for	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Special	_	_	O
 rights	_	_	O
 ,	_	_	O
@@ -10774,8 +10642,7 @@ and	_	_	O
 lesbians	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	B-Premise
@@ -10821,8 +10688,7 @@ United	_	_	I-Claim
 States	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 New	_	_	O
 subject	_	_	O
 ,	_	_	O
@@ -10860,8 +10726,7 @@ of	_	_	O
 guns	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11208,13 +11073,11 @@ and	_	_	I-Claim
 others	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	B-Claim
@@ -11601,8 +11464,7 @@ society	_	_	I-Claim
 safe	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -11627,8 +11489,7 @@ the	_	_	O
 differences	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11649,16 +11510,14 @@ handgun	_	_	I-Claim
 purchases	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 that	_	_	O
 mean	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 A	_	_	B-Premise
 photo	_	_	I-Premise
 license	_	_	I-Premise
@@ -11681,8 +11540,7 @@ Los	_	_	O
 Angeles	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Excuse	_	_	O
 me	_	_	O
 ,	_	_	O
@@ -11709,13 +11567,11 @@ the	_	_	O
 gun	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Correct	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -11725,8 +11581,7 @@ issue	_	_	O
 the	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 The	_	_	O
 state	_	_	O
 .	_	_	O
@@ -11921,8 +11776,7 @@ that	_	_	I-Claim
 tragedy	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Back	_	_	O
 to	_	_	O
 the	_	_	O
@@ -11954,8 +11808,7 @@ Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -12252,8 +12105,7 @@ prosperous	_	_	I-Premise
 society	_	_	I-Premise
 .	_	_	I-Premise
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 also	_	_	I-Claim
 believe	_	_	I-Claim
@@ -12499,8 +12351,7 @@ wrong	_	_	I-Claim
 hands	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -12636,8 +12487,7 @@ that	_	_	B-Claim
 important	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 .	_	_	O
@@ -12692,8 +12542,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -12740,8 +12589,7 @@ There	_	_	O
 some	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Some	_	_	O
 of	_	_	O
 the	_	_	O
@@ -12749,8 +12597,7 @@ the	_	_	O
 million	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Some	_	_	B-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
@@ -13108,15 +12955,13 @@ care	_	_	I-Premise
 insurance	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 's	_	_	I-Claim
 one	_	_	I-Claim
@@ -13442,8 +13287,7 @@ top	_	_	I-Claim
 priority	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 did	_	_	O
@@ -13460,8 +13304,7 @@ about	_	_	O
 Texas	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -13725,15 +13568,13 @@ reducing	_	_	I-Premise
 uninsured	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Is	_	_	O
 he	_	_	O
 right	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -14017,8 +13858,7 @@ set	_	_	I-Premise
 up	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 let	_	_	O
@@ -14039,8 +13879,7 @@ charges	_	_	O
 correct	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 If	_	_	B-Claim
 he	_	_	I-Claim
 's	_	_	I-Claim
@@ -14314,8 +14153,7 @@ and	_	_	I-Premise
 Democrats	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 put	_	_	O
@@ -14365,8 +14203,7 @@ as	_	_	O
 president	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 yes	_	_	I-Claim
@@ -14641,15 +14478,13 @@ you	_	_	O
 know	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 ask	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -14676,8 +14511,7 @@ to	_	_	O
 you	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 What	_	_	O
 is	_	_	O
 not	_	_	O
@@ -14686,8 +14520,7 @@ true	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	I-Claim
 we	_	_	I-Claim
 spent	_	_	I-Claim
@@ -15041,8 +14874,7 @@ for	_	_	I-Claim
 America	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 ,	_	_	O
@@ -15102,8 +14934,7 @@ that	_	_	O
 way	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
@@ -15463,13 +15294,11 @@ our	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	B-Premise
@@ -15521,8 +15350,7 @@ cleaner	_	_	I-Premise
 now	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Explain	_	_	O
 what	_	_	O
 a	_	_	O
@@ -15538,8 +15366,7 @@ follow	_	_	O
 this	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 A	_	_	B-Premise
 brown	_	_	I-Premise
 field	_	_	I-Premise
@@ -15886,8 +15713,7 @@ this	_	_	O
 issue	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Where	_	_	O
 do	_	_	O
 you	_	_	O
@@ -15927,8 +15753,7 @@ is	_	_	O
 it	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'm	_	_	I-Claim
 really	_	_	I-Claim
@@ -16061,8 +15886,7 @@ would	_	_	I-Claim
 make	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 say	_	_	O
@@ -16073,8 +15897,7 @@ fundamental	_	_	O
 difference	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -16091,23 +15914,20 @@ an	_	_	O
 example	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 on	_	_	O
 one	_	_	O
 second	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 ,	_	_	O
 sure	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 We	_	_	O
 've	_	_	O
 talked	_	_	O
@@ -16153,8 +15973,7 @@ differences	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -16308,8 +16127,7 @@ that	_	_	I-Premise
 was	_	_	I-Premise
 --	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 That	_	_	O
 was	_	_	O
 out	_	_	O
@@ -16318,8 +16136,7 @@ the	_	_	O
 west	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Out	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
@@ -16376,8 +16193,7 @@ acted	_	_	I-Claim
 unilaterally	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Would	_	_	O
 you	_	_	O
 believe	_	_	O
@@ -16407,8 +16223,7 @@ you	_	_	O
 think	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Sure	_	_	B-Claim
 ,	_	_	I-Claim
 absolutely	_	_	I-Claim
@@ -16434,16 +16249,14 @@ have	_	_	I-Claim
 input	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 What	_	_	O
 about	_	_	O
 global	_	_	O
 warming	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -16563,8 +16376,7 @@ that	_	_	I-Premise
 position	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Global	_	_	O
 warming	_	_	O
 ,	_	_	O
@@ -16579,15 +16391,13 @@ I	_	_	O
 think	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 99	_	_	O
 to	_	_	O
 nothing	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	O
@@ -16862,8 +16672,7 @@ for	_	_	I-Claim
 them	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -16913,8 +16722,7 @@ a	_	_	O
 different	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Both	_	_	O
 of	_	_	O
 you	_	_	O
@@ -16940,8 +16748,7 @@ that	_	_	O
 thought	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 've	_	_	O
 been	_	_	O
@@ -16952,8 +16759,7 @@ not	_	_	O
 to	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -16986,13 +16792,11 @@ moment	_	_	O
 ago	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Twice	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Now	_	_	O
 you	_	_	O
 just	_	_	O
@@ -17005,8 +16809,7 @@ sorry	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 an	_	_	O
@@ -17017,8 +16820,7 @@ the	_	_	O
 way	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 an	_	_	O
@@ -17037,8 +16839,7 @@ so	_	_	O
 now	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -17051,8 +16852,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 You	_	_	O
 are	_	_	O
 n't	_	_	O
@@ -17089,8 +16889,7 @@ found	_	_	O
 out	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Of	_	_	O
 course	_	_	O
 they	_	_	O
@@ -17106,8 +16905,7 @@ the	_	_	O
 rules	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Yeah	_	_	O
 ,	_	_	O
 right	_	_	O
@@ -17119,8 +16917,7 @@ Go	_	_	O
 ahead	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	O
 the	_	_	O
 heck	_	_	O
@@ -17297,8 +17094,7 @@ west	_	_	O
 however	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 New	_	_	O
 question	_	_	O
 .	_	_	O
@@ -17382,8 +17178,7 @@ November	_	_	O
 7	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -17529,13 +17324,11 @@ last	_	_	O
 debate	_	_	O
 --	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 EITC	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 The	_	_	O
 Earned	_	_	O
 Income	_	_	O
@@ -17545,16 +17338,14 @@ Credit	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 all	_	_	O
 right	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 A	_	_	O
 lot	_	_	O
 of	_	_	O
@@ -17726,15 +17517,13 @@ are	_	_	I-Premise
 about	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Gore	_	_	O
 ?	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 got	_	_	I-Premise
 some	_	_	I-Premise
@@ -18002,8 +17791,7 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Does	_	_	O
 that	_	_	O
 resolve	_	_	O
@@ -18013,8 +17801,7 @@ issue	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 going	_	_	O
@@ -18030,8 +17817,7 @@ n't	_	_	O
 it	_	_	O
 ?	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Does	_	_	O
 it	_	_	O
 resolve	_	_	O
@@ -18040,8 +17826,7 @@ for	_	_	O
 you	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Depends	_	_	O
 on	_	_	O
 what	_	_	O
@@ -18055,8 +17840,7 @@ the	_	_	O
 campaign	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Your	_	_	O
 folks	_	_	O
 are	_	_	O
@@ -18066,8 +17850,7 @@ awful	_	_	O
 things	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 they	_	_	O
@@ -18089,8 +17872,7 @@ own	_	_	O
 words	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -18104,8 +17886,7 @@ serial	_	_	O
 exaggerator	_	_	O
 --	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -18117,8 +17898,7 @@ those	_	_	O
 words	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -18127,15 +17907,13 @@ campaign	_	_	O
 ads	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Maybe	_	_	O
 they	_	_	O
 have	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 And	_	_	O
 your	_	_	O
 campaign	_	_	O
@@ -18160,8 +17938,7 @@ a	_	_	O
 bumbler	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Wait	_	_	O
 a	_	_	O
 minute	_	_	O
@@ -18170,8 +17947,7 @@ minute	_	_	O
 LAUGHTER	_	_	O
 )	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 I	_	_	O
 mean	_	_	O
 ,	_	_	O
@@ -18186,8 +17962,7 @@ is	_	_	O
 this	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -18205,8 +17980,7 @@ we	_	_	O
 should	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 in	_	_	O
@@ -18214,8 +17988,7 @@ your	_	_	O
 commercial	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 understand	_	_	O
 .	_	_	O
@@ -18232,8 +18005,7 @@ my	_	_	O
 commercials	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 n't	_	_	O
@@ -18242,13 +18014,11 @@ the	_	_	O
 commercial	_	_	O
 ?	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Your	_	_	O
 --	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 that	_	_	O
@@ -18325,8 +18095,7 @@ average	_	_	I-Claim
 person	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	B-Premise
 's	_	_	I-Premise
 the	_	_	I-Premise
@@ -18343,8 +18112,7 @@ about	_	_	I-Premise
 LAUGHTER	_	_	O
 )	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -18358,8 +18126,7 @@ explaining	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -18383,8 +18150,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-GORE	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 one	_	_	O
@@ -18765,8 +18531,7 @@ your	_	_	O
 support	_	_	O
 .	_	_	O
 
-MODERATOR	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Bush	_	_	O
 ,	_	_	O
@@ -18774,8 +18539,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 ,	_	_	O
 thank	_	_	O

@@ -1,5 +1,4 @@
-RIDINGS	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -120,13 +119,9 @@ is	_	_	O
 our	_	_	O
 moderator	_	_	O
 .	_	_	O
- 	_	_	O
 Ed	_	_	O
 .	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Dorothy	_	_	O
 Ridings	_	_	O
 ,	_	_	O
@@ -271,13 +266,9 @@ to	_	_	O
 Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
-  	_	_	O
 Central	_	_	O
 America	_	_	O
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -381,8 +372,7 @@ too	_	_	O
 late	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -545,7 +535,6 @@ to	_	_	I-Premise
 achieve	_	_	I-Premise
 a	_	_	I-Premise
 peace	_	_	I-Premise
- 	_	_	O
 This	_	_	O
 brings	_	_	O
 up	_	_	O
@@ -597,7 +586,6 @@ strengthened	_	_	I-Claim
 our	_	_	I-Claim
 opponents	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 A	_	_	B-Premise
 President	_	_	I-Premise
 must	_	_	I-Premise
@@ -667,7 +655,6 @@ opponents	_	_	I-Claim
 are	_	_	I-Claim
 stronger	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 bottom	_	_	O
 line	_	_	O
@@ -747,7 +734,6 @@ know	_	_	I-Claim
 to	_	_	I-Claim
 command	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 A	_	_	B-Premise
 President	_	_	I-Premise
 is	_	_	I-Premise
@@ -782,10 +768,7 @@ strengthen	_	_	B-Premise
 our	_	_	I-Premise
 nation	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -893,10 +876,7 @@ in	_	_	O
 those	_	_	O
 terms	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 absolutely	_	_	I-Claim
 must	_	_	I-Claim
@@ -1037,10 +1017,7 @@ in	_	_	I-Premise
 that	_	_	I-Premise
 region	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1136,8 +1113,7 @@ supported	_	_	O
 terrorism	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 but	_	_	O
@@ -1353,7 +1329,6 @@ the	_	_	I-Claim
 proper	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	O
 was	_	_	O
 very	_	_	O
@@ -1429,7 +1404,6 @@ the	_	_	I-Premise
 Contadora	_	_	I-Premise
 group	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1487,10 +1461,7 @@ will	_	_	I-Claim
 be	_	_	I-Claim
 removed	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -1547,8 +1518,7 @@ second	_	_	O
 time	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 afraid	_	_	O
@@ -1653,8 +1623,7 @@ political	_	_	I-Premise
 assassinations	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -1662,8 +1631,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 What	_	_	O
 is	_	_	O
 a	_	_	O
@@ -1830,7 +1798,6 @@ not	_	_	O
 stopping	_	_	O
 it	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 what	_	_	B-Premise
 about	_	_	I-Premise
@@ -1860,10 +1827,7 @@ supposed	_	_	I-Premise
 to	_	_	I-Premise
 command	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1871,8 +1835,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	O
@@ -2020,7 +1983,6 @@ launched	_	_	I-Premise
 their	_	_	I-Premise
 missiles	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 I	_	_	O
 hope	_	_	O
@@ -2098,10 +2060,7 @@ that	_	_	O
 [	_	_	O
 Laughter	_	_	O
 ]	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Kalb	_	_	O
 ,	_	_	O
@@ -2111,13 +2070,9 @@ to	_	_	O
 President	_	_	O
 Reagan	_	_	O
 .	_	_	O
- 	_	_	O
 Soviet	_	_	O
 Union	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2210,8 +2165,7 @@ their	_	_	O
 empire	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 have	_	_	I-Premise
 said	_	_	I-Premise
@@ -2462,7 +2416,6 @@ it	_	_	I-Premise
 ?	_	_	I-Premise
 Nothing	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 The	_	_	B-Premise
 Soviet	_	_	I-Premise
 Union	_	_	I-Premise
@@ -2616,16 +2569,12 @@ get	_	_	O
 their	_	_	O
 attention	_	_	O
 .	_	_	O
-  	_	_	O
 Regions	_	_	O
 Vital	_	_	O
 to	_	_	O
 U.S.	_	_	O
 Interests	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2716,8 +2665,7 @@ in	_	_	O
 danger	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Ah	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -2938,10 +2886,7 @@ troops	_	_	I-Claim
 any	_	_	I-Claim
 place	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -2957,18 +2902,13 @@ was	_	_	O
 up	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
- 	_	_	O
 Soviet	_	_	O
 Union	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -3040,8 +2980,7 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Because	_	_	O
 the	_	_	B-Claim
 only	_	_	I-Claim
@@ -3262,7 +3201,6 @@ not	_	_	I-Premise
 strengthen	_	_	I-Premise
 us	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Premise
 must	_	_	I-Premise
 be	_	_	I-Premise
@@ -3306,7 +3244,6 @@ of	_	_	I-Premise
 Soviet	_	_	I-Premise
 power	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 There	_	_	B-Claim
 will	_	_	I-Claim
 be	_	_	I-Claim
@@ -3366,7 +3303,6 @@ and	_	_	I-Premise
 to	_	_	I-Premise
 strength	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 that	_	_	B-Claim
 's	_	_	I-Claim
@@ -3424,7 +3360,6 @@ did	_	_	I-Premise
 n't	_	_	I-Premise
 work	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	O
 invite	_	_	O
 the	_	_	O
@@ -3482,10 +3417,7 @@ been	_	_	I-Premise
 a	_	_	I-Premise
 miscalculation	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
@@ -3494,8 +3426,7 @@ sir	_	_	O
 --	_	_	O
 --	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 A	_	_	O
 President	_	_	O
 must	_	_	O
@@ -3503,13 +3434,9 @@ know	_	_	O
 those	_	_	O
 things	_	_	O
 .	_	_	O
- 	_	_	O
 Eastern	_	_	O
 Europe	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 A	_	_	O
 related	_	_	O
 question	_	_	O
@@ -3575,8 +3502,7 @@ Helsinki	_	_	O
 accords	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -3718,10 +3644,7 @@ of	_	_	O
 them	_	_	O
 separately	_	_	O
 .	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -3729,8 +3652,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	O
@@ -3925,8 +3847,6 @@ second	_	_	I-Claim
 to	_	_	I-Claim
 none	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
 AUDIENCE_MEMBER	_	_	O
 :	_	_	O
 Hear	_	_	O
@@ -3934,8 +3854,7 @@ Hear	_	_	O
 hear	_	_	O
 !	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Indeed	_	_	O
 ,	_	_	O
 he	_	_	B-Premise
@@ -3976,8 +3895,7 @@ defense	_	_	I-Premise
 budget	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -3985,8 +3903,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4097,7 +4014,6 @@ waste	_	_	I-Premise
 of	_	_	I-Premise
 money	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Your	_	_	B-Claim
 definition	_	_	I-Claim
 of	_	_	I-Claim
@@ -4196,10 +4112,7 @@ not	_	_	I-Premise
 buying	_	_	I-Premise
 strength	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 ask	_	_	O
@@ -4235,15 +4148,11 @@ to	_	_	O
 Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
-  	_	_	O
 Use	_	_	O
 of	_	_	O
 Military	_	_	O
 Force	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -4333,8 +4242,7 @@ American	_	_	O
 interests	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 As	_	_	O
@@ -4454,7 +4362,6 @@ way	_	_	I-Claim
 we	_	_	I-Claim
 did	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Similarly	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -4549,7 +4456,6 @@ all	_	_	I-Claim
 of	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Claim
 need	_	_	I-Claim
 to	_	_	I-Claim
@@ -4624,12 +4530,8 @@ we	_	_	I-Claim
 can	_	_	I-Claim
 persevere	_	_	I-Claim
 .	_	_	I-Claim
-  	_	_	O
 Nicaragua	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 You	_	_	O
 've	_	_	O
 been	_	_	O
@@ -4679,8 +4581,7 @@ covert	_	_	O
 war	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 What	_	_	B-Premise
 I	_	_	I-Premise
 'm	_	_	I-Premise
@@ -4846,12 +4747,8 @@ with	_	_	I-Premise
 those	_	_	I-Premise
 efforts	_	_	I-Premise
 .	_	_	I-Premise
-  	_	_	O
 Lebanon	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 President	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -4935,8 +4832,7 @@ in	_	_	O
 Chief	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 Morton	_	_	O
@@ -5068,7 +4964,6 @@ way	_	_	I-Premise
 to	_	_	I-Premise
 there	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Then	_	_	B-Premise
 we	_	_	I-Premise
 went	_	_	I-Premise
@@ -5141,7 +5036,6 @@ their	_	_	I-Premise
 own	_	_	I-Premise
 borders	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 we	_	_	O
 were	_	_	O
@@ -5244,7 +5138,6 @@ defended	_	_	I-Claim
 ourselves	_	_	I-Claim
 there	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 we	_	_	B-Premise
 were	_	_	I-Premise
@@ -5443,10 +5336,7 @@ a	_	_	O
 peace	_	_	O
 mission	_	_	O
 .	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -5522,8 +5412,7 @@ just	_	_	O
 bluffing	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Morton	_	_	O
 ,	_	_	O
 no	_	_	B-Claim
@@ -5702,7 +5591,6 @@ skyjackings	_	_	I-Premise
 sometime	_	_	I-Premise
 ago	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -5718,10 +5606,7 @@ gone	_	_	O
 on	_	_	O
 forever	_	_	O
 .	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -5729,8 +5614,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Groucho	_	_	O
 Marx	_	_	O
 said	_	_	O
@@ -5944,10 +5828,7 @@ enemies	_	_	I-Claim
 are	_	_	I-Claim
 stronger	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -5955,8 +5836,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 First	_	_	O
@@ -6172,10 +6052,7 @@ been	_	_	I-Premise
 bombed	_	_	I-Premise
 twice	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Trewhitt	_	_	O
 ,	_	_	O
@@ -6185,12 +6062,10 @@ to	_	_	O
 President	_	_	O
 Reagan	_	_	O
 ?	_	_	O
- 	_	_	O
 The	_	_	O
 President	_	_	O
 's	_	_	O
 Age	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -6293,10 +6168,7 @@ in	_	_	O
 such	_	_	O
 circumstances	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Not	_	_	B-Claim
 at	_	_	I-Claim
 all	_	_	I-Claim
@@ -6402,10 +6274,8 @@ no	_	_	O
 state	_	_	O
 .	_	_	O
 ''	_	_	O
- 	_	_	O
 Strategic	_	_	O
 Missiles	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -6440,7 +6310,6 @@ to	_	_	O
 another	_	_	O
 question	_	_	O
 .	_	_	O
- 	_	_	O
 You	_	_	O
 and	_	_	O
 Mr.	_	_	O
@@ -6539,10 +6408,7 @@ in	_	_	O
 strategic	_	_	O
 details	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 this	_	_	O
@@ -6753,7 +6619,6 @@ land	_	_	O
 -	_	_	O
 based	_	_	O
 ?	_	_	O
- 	_	_	O
 But	_	_	O
 even	_	_	O
 after	_	_	O
@@ -6785,12 +6650,10 @@ We	_	_	O
 did	_	_	O
 n't	_	_	O
 .	_	_	O
-  	_	_	O
 The	_	_	O
 President	_	_	O
 's	_	_	O
 Age	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -6820,10 +6683,7 @@ the	_	_	O
 political	_	_	O
 campaign	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 And	_	_	O
@@ -7025,7 +6885,6 @@ know	_	_	O
 what	_	_	O
 happened	_	_	O
 .	_	_	O
- 	_	_	O
 After	_	_	B-Premise
 that	_	_	I-Premise
 ,	_	_	I-Premise
@@ -7083,7 +6942,6 @@ my	_	_	O
 main	_	_	O
 point	_	_	O
 .	_	_	O
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -7119,7 +6977,6 @@ race	_	_	I-Premise
 underway	_	_	I-Premise
 instead	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 A	_	_	O
 President	_	_	O
 has	_	_	O
@@ -7268,7 +7125,6 @@ Commander	_	_	O
 in	_	_	O
 Chief	_	_	O
 .	_	_	O
- 	_	_	O
 Good	_	_	O
 intentions	_	_	O
 ,	_	_	O
@@ -7289,12 +7145,10 @@ tough	_	_	I-Claim
 and	_	_	I-Claim
 smart	_	_	I-Claim
 .	_	_	I-Claim
-  	_	_	O
 The	_	_	O
 President	_	_	O
 's	_	_	O
 Leadership	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -7387,10 +7241,7 @@ repudiate	_	_	O
 him	_	_	O
 now	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 read	_	_	O
 his	_	_	O
@@ -7561,7 +7412,6 @@ something	_	_	O
 like	_	_	O
 that	_	_	O
 ?	_	_	O
- 	_	_	O
 (	_	_	O
 FOOTNOTE	_	_	O
 )	_	_	O
@@ -7587,10 +7437,7 @@ Vice	_	_	O
 Presidential	_	_	O
 candidates	_	_	O
 .	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -7598,8 +7445,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	O
@@ -7766,10 +7612,7 @@ Union	_	_	I-Premise
 disavowed	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -7777,8 +7620,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 are	_	_	I-Claim
 two	_	_	I-Claim
@@ -7954,7 +7796,6 @@ and	_	_	I-Premise
 nothing	_	_	I-Premise
 before	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 They	_	_	O
 're	_	_	O
 tough	_	_	O
@@ -7973,10 +7814,7 @@ one	_	_	I-Claim
 has	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Ms.	_	_	O
 Geyer	_	_	O
 ,	_	_	O
@@ -7986,13 +7824,9 @@ to	_	_	O
 Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
- 	_	_	O
 Illegal	_	_	O
 Immigration	_	_	O
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -8099,8 +7933,7 @@ if	_	_	O
 anything	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 This	_	_	B-Premise
 is	_	_	I-Premise
 a	_	_	I-Premise
@@ -8287,7 +8120,6 @@ an	_	_	I-Premise
 established	_	_	I-Premise
 status	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 have	_	_	I-Premise
 further	_	_	I-Premise
@@ -8368,7 +8200,6 @@ and	_	_	I-Claim
 due	_	_	I-Claim
 process	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Everyone	_	_	B-Premise
 in	_	_	I-Premise
 this	_	_	I-Premise
@@ -8442,7 +8273,6 @@ is	_	_	I-Claim
 very	_	_	I-Claim
 serious	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 second	_	_	O
 part	_	_	O
@@ -8528,10 +8358,7 @@ area	_	_	I-Premise
 as	_	_	I-Premise
 well	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ,	_	_	O
 people	_	_	O
@@ -8710,8 +8537,7 @@ American	_	_	O
 nation	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 you	_	_	O
@@ -8927,10 +8753,7 @@ of	_	_	I-Claim
 our	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -9033,8 +8856,7 @@ United	_	_	O
 States	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Georgie	_	_	O
 Anne	_	_	O
 ,	_	_	O
@@ -9347,7 +9169,6 @@ continue	_	_	I-Claim
 operating	_	_	I-Claim
 free	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 this	_	_	O
 was	_	_	O
@@ -9414,7 +9235,6 @@ of	_	_	I-Claim
 our	_	_	I-Claim
 borders	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 with	_	_	O
 regard	_	_	O
@@ -9487,10 +9307,7 @@ those	_	_	I-Premise
 other	_	_	I-Premise
 countries	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-GEYER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -9620,8 +9437,7 @@ the	_	_	O
 world	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 As	_	_	O
@@ -9806,8 +9622,7 @@ that	_	_	I-Claim
 problem	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -9815,8 +9630,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 One	_	_	B-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
@@ -10006,8 +9820,7 @@ as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10015,8 +9828,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 my	_	_	O
@@ -10131,10 +9943,7 @@ did	_	_	I-Claim
 [	_	_	O
 Applause	_	_	O
 ]	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 No	_	_	O
 applause	_	_	O
 ,	_	_	O
@@ -10149,12 +9958,8 @@ to	_	_	O
 President	_	_	O
 Reagan	_	_	O
 .	_	_	O
-  	_	_	O
 Armageddon	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10250,8 +10055,7 @@ of	_	_	O
 calamity	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Kalb	_	_	O
 ,	_	_	O
@@ -10499,7 +10303,6 @@ with	_	_	I-Premise
 limited	_	_	I-Premise
 damage	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 the	_	_	B-Premise
 deterrent	_	_	I-Premise
@@ -10587,14 +10390,10 @@ millions	_	_	O
 of	_	_	O
 people	_	_	O
 ?	_	_	O
-  	_	_	O
 Strategic	_	_	O
 Defense	_	_	O
 Initiative	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10686,8 +10485,7 @@ principal	_	_	O
 adversary	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Why	_	_	O
 not	_	_	O
 ?	_	_	O
@@ -10871,10 +10669,7 @@ a	_	_	I-Claim
 defensive	_	_	I-Claim
 weapon	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -10924,8 +10719,7 @@ as	_	_	O
 possible	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -11164,7 +10958,6 @@ and	_	_	I-Claim
 deploy	_	_	I-Claim
 weapons	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 second	_	_	I-Premise
 thing	_	_	I-Premise
@@ -11306,7 +11099,6 @@ very	_	_	I-Premise
 dangerous	_	_	I-Premise
 indeed	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 One	_	_	O
 final	_	_	O
 point	_	_	O
@@ -11393,7 +11185,6 @@ off	_	_	I-Premise
 we	_	_	I-Premise
 go	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Why	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -11417,13 +11208,9 @@ war	_	_	O
 [	_	_	O
 Applause	_	_	O
 ]	_	_	O
-  	_	_	O
 Nuclear	_	_	O
 Freeze	_	_	O
- 
-	_	_	O
-KALB	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -11507,8 +11294,7 @@ could	_	_	O
 not	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Every	_	_	B-Claim
 system	_	_	I-Claim
 that	_	_	I-Claim
@@ -11666,10 +11452,7 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 --	_	_	O
 --	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Your	_	_	O
 time	_	_	O
 is	_	_	O
@@ -11679,8 +11462,7 @@ Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 --	_	_	O
 --	_	_	O
 and	_	_	I-Claim
@@ -11696,8 +11478,7 @@ to	_	_	I-Claim
 stop	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -11705,8 +11486,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 my	_	_	O
@@ -11970,10 +11750,7 @@ be	_	_	I-Claim
 better	_	_	I-Claim
 off	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -11981,8 +11758,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -12186,7 +11962,6 @@ lifetime	_	_	I-Premise
 is	_	_	I-Premise
 unimaginable	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Why	_	_	O
 do	_	_	O
 we	_	_	O
@@ -12214,10 +11989,7 @@ President	_	_	I-Claim
 's	_	_	I-Claim
 for	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Kondracke	_	_	O
 ,	_	_	O
@@ -12227,13 +11999,9 @@ to	_	_	O
 Mr.	_	_	O
 Mondale	_	_	O
 .	_	_	O
- 	_	_	O
 Strategic	_	_	O
 Weapons	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Mondale	_	_	O
 ,	_	_	O
@@ -12322,8 +12090,7 @@ to	_	_	O
 talk	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 No	_	_	O
 .	_	_	O
 As	_	_	O
@@ -12578,7 +12345,6 @@ makes	_	_	I-Claim
 us	_	_	I-Claim
 stronger	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	O
 final	_	_	O
 point	_	_	O
@@ -12705,13 +12471,9 @@ as	_	_	I-Claim
 a	_	_	I-Claim
 result	_	_	I-Claim
 .	_	_	I-Claim
-  	_	_	O
 Nuclear	_	_	O
 Freeze	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -12819,8 +12581,7 @@ be	_	_	O
 frozen	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 will	_	_	I-Claim
 not	_	_	I-Claim
@@ -13006,15 +12767,11 @@ to	_	_	I-Premise
 their	_	_	I-Premise
 agreement	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Support	_	_	O
 for	_	_	O
 U.S.	_	_	O
 Allies	_	_	O
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13103,8 +12860,7 @@ another	_	_	O
 Nicaragua	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Morton	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -13381,7 +13137,6 @@ Leninist	_	_	I-Premise
 totalitarian	_	_	I-Premise
 government	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 what	_	_	O
 I	_	_	O
@@ -13461,7 +13216,6 @@ as	_	_	I-Premise
 a	_	_	I-Premise
 nation	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -13563,10 +13317,7 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 Pacific	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-KONDRACKE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13609,8 +13360,7 @@ about	_	_	O
 it	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -13673,8 +13423,7 @@ the	_	_	I-Claim
 Pacific	_	_	I-Claim
 .	_	_	I-Claim
 
-KONDRACKE	_	_	O
-:	_	_	O
+
 And	_	_	O
 what	_	_	O
 would	_	_	O
@@ -13684,8 +13433,7 @@ about	_	_	O
 it	_	_	O
 ?	_	_	O
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 .	_	_	O
 I	_	_	O
@@ -13706,8 +13454,7 @@ your	_	_	O
 rebuttal	_	_	O
 ?	_	_	O
 
-MONDALE	_	_	O
-:	_	_	O
+
 Perhaps	_	_	O
 in	_	_	B-Claim
 no	_	_	I-Claim
@@ -13800,7 +13547,6 @@ of	_	_	I-Claim
 their	_	_	I-Claim
 policies	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 What	_	_	B-Premise
 happens	_	_	I-Premise
 in	_	_	I-Premise
@@ -13885,10 +13631,7 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 field	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -13896,8 +13639,7 @@ your	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -14028,7 +13770,6 @@ should	_	_	I-Premise
 do	_	_	I-Premise
 this	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Human	_	_	B-Claim
 rights	_	_	I-Claim
 are	_	_	I-Claim
@@ -14071,10 +13812,7 @@ on	_	_	I-Claim
 your	_	_	I-Claim
 hands	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 In	_	_	O
 this	_	_	O
 segment	_	_	O
@@ -14118,20 +13856,15 @@ to	_	_	O
 each	_	_	O
 candidate	_	_	O
 ?	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 One	_	_	O
 question	_	_	O
 to	_	_	O
 each	_	_	O
 candidate	_	_	O
 .	_	_	O
- 	_	_	O
 Nuclear	_	_	O
 Weapons	_	_	O
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -14253,10 +13986,7 @@ that	_	_	O
 your	_	_	O
 intention	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -14451,7 +14181,6 @@ kill	_	_	I-Premise
 of	_	_	I-Premise
 ours	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 that	_	_	I-Claim
@@ -14484,7 +14213,6 @@ in	_	_	I-Claim
 human	_	_	I-Claim
 rights	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Mr.	_	_	O
 Trewhitt	_	_	O
 .	_	_	O
@@ -14546,10 +14274,7 @@ the	_	_	O
 last	_	_	O
 generation	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 in	_	_	I-Claim
@@ -14684,7 +14409,6 @@ dream	_	_	O
 of	_	_	O
 that	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 why	_	_	O
 start	_	_	O
@@ -14724,7 +14448,6 @@ starting	_	_	O
 a	_	_	O
 war	_	_	O
 ?	_	_	O
- 	_	_	O
 A	_	_	B-Claim
 President	_	_	I-Claim
 ,	_	_	I-Claim
@@ -14839,10 +14562,7 @@ Mondale	_	_	I-Claim
 [	_	_	O
 Applause	_	_	O
 ]	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Please	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -14904,13 +14624,9 @@ you	_	_	O
 go	_	_	O
 first	_	_	O
 ?	_	_	O
-  	_	_	O
 Closing	_	_	O
 Statements	_	_	O
- 
-	_	_	O
-MONDALE	_	_	O
-:	_	_	O
+
 I	_	_	O
 want	_	_	O
 to	_	_	O
@@ -14985,7 +14701,6 @@ of	_	_	I-Claim
 our	_	_	I-Claim
 nation	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 A	_	_	B-Premise
 President	_	_	I-Premise
 must	_	_	I-Premise
@@ -15041,7 +14756,6 @@ to	_	_	O
 elect	_	_	O
 us	_	_	O
 .	_	_	O
- 	_	_	O
 As	_	_	B-Claim
 President	_	_	I-Claim
 ,	_	_	I-Claim
@@ -15098,7 +14812,6 @@ for	_	_	I-Premise
 our	_	_	I-Premise
 children	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
 this	_	_	I-Premise
@@ -15173,7 +14886,6 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 children	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
 a	_	_	I-Premise
@@ -15208,7 +14920,6 @@ are	_	_	I-Premise
 in	_	_	I-Premise
 trouble	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 ,	_	_	O
 above	_	_	O
@@ -15270,7 +14981,6 @@ civilization	_	_	I-Claim
 to	_	_	I-Claim
 survive	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 remember	_	_	I-Premise
 the	_	_	I-Premise
@@ -15396,7 +15106,6 @@ to	_	_	I-Claim
 be	_	_	I-Claim
 made	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -15465,7 +15174,6 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 world	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 need	_	_	I-Claim
 to	_	_	I-Claim
@@ -15509,10 +15217,7 @@ of	_	_	O
 our	_	_	O
 nation	_	_	O
 .	_	_	O
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -15522,8 +15227,7 @@ summation	_	_	O
 please	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 My	_	_	O
@@ -15589,7 +15293,6 @@ are	_	_	I-Premise
 at	_	_	I-Premise
 peace	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	O
 am	_	_	O
 grateful	_	_	O
@@ -15614,7 +15317,6 @@ eliminate	_	_	O
 them	_	_	O
 entirely	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 question	_	_	O
 before	_	_	O
@@ -15668,7 +15370,6 @@ to	_	_	O
 be	_	_	O
 strong	_	_	O
 ?	_	_	O
- 	_	_	O
 We	_	_	B-Claim
 should	_	_	I-Claim
 n't	_	_	I-Claim
@@ -15713,7 +15414,6 @@ that	_	_	I-Premise
 they	_	_	I-Premise
 need	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Several	_	_	O
 years	_	_	O
 ago	_	_	O
@@ -15750,7 +15450,6 @@ capsule	_	_	O
 was	_	_	O
 opened	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 remember	_	_	O
 driving	_	_	O
@@ -15885,7 +15584,6 @@ with	_	_	O
 that	_	_	O
 letter	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 would	_	_	O
 be	_	_	O
@@ -16027,7 +15725,6 @@ weapons	_	_	O
 or	_	_	O
 not	_	_	O
 .	_	_	O
- 	_	_	O
 Well	_	_	O
 ,	_	_	O
 what	_	_	O
@@ -16115,7 +15812,6 @@ its	_	_	O
 beauty	_	_	O
 .	_	_	O
 ''	_	_	O
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -16221,10 +15917,7 @@ sons	_	_	I-Premise
 and	_	_	I-Premise
 daughters	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -16248,8 +15941,7 @@ I	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -16261,8 +15953,7 @@ to	_	_	O
 --	_	_	O
 --	_	_	O
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Perhaps	_	_	O
 I	_	_	O
 should	_	_	O
@@ -16286,14 +15977,12 @@ campaigns	_	_	O
 --	_	_	O
 --	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 .	_	_	O
 
-NEWMAN	_	_	O
-:	_	_	O
+
 --	_	_	O
 --	_	_	O
 with	_	_	O
@@ -16307,8 +15996,7 @@ know	_	_	O
 sir	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 know	_	_	O
 ,	_	_	O

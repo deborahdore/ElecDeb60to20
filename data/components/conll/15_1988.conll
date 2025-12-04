@@ -1,5 +1,4 @@
-SHAW	_	_	O
-:	_	_	O
+
 On	_	_	O
 behalf	_	_	O
 of	_	_	O
@@ -82,8 +81,7 @@ nominee	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 For	_	_	O
 the	_	_	O
 next	_	_	O
@@ -182,8 +180,7 @@ the	_	_	O
 killer	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -593,8 +590,7 @@ decent	_	_	I-Claim
 neighborhoods	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -606,8 +602,7 @@ minute	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -759,8 +754,7 @@ does	_	_	O
 n't	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Now	_	_	O
 to	_	_	O
 you	_	_	O
@@ -831,13 +825,11 @@ before	_	_	O
 inauguration	_	_	O
 day	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Bernie	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 automatically	_	_	O
 automatically	_	_	O
 ,	_	_	O
@@ -863,8 +855,7 @@ that	_	_	O
 possibility	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'd	_	_	I-Claim
 have	_	_	I-Claim
@@ -929,8 +920,7 @@ before	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 But	_	_	O
 you	_	_	O
 know	_	_	O
@@ -1237,8 +1227,7 @@ the	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Gov.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -1249,8 +1238,7 @@ minute	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Bernard	_	_	O
 ,	_	_	O
 this	_	_	B-Premise
@@ -1368,8 +1356,7 @@ Applause	_	_	O
 GOY	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Bush	_	_	O
 picked	_	_	O
@@ -1409,8 +1396,7 @@ did	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
@@ -1419,8 +1405,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -1511,8 +1496,7 @@ the	_	_	O
 voters	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 because	_	_	O
@@ -1808,8 +1792,7 @@ disagreement	_	_	O
 with	_	_	O
 them	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Gov.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -1820,8 +1803,7 @@ minute	_	_	O
 response	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -2077,12 +2059,10 @@ choices	_	_	I-Claim
 on	_	_	I-Claim
 spending	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 will	_	_	B-Claim
 go	_	_	I-Claim
 out	_	_	I-Claim
@@ -2110,16 +2090,14 @@ States	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 And	_	_	O
 to	_	_	O
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -2174,8 +2152,7 @@ federal	_	_	O
 budget	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Premise
@@ -2653,8 +2630,7 @@ our	_	_	I-Premise
 grandkids	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -2663,8 +2639,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 Governor	_	_	I-Premise
 has	_	_	I-Premise
@@ -2909,8 +2884,7 @@ and	_	_	O
 applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 going	_	_	O
@@ -2997,8 +2971,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -3027,15 +3000,13 @@ on	_	_	O
 heart	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Just	_	_	O
 a	_	_	O
 minute	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 You	_	_	O
 'll	_	_	O
 get	_	_	O
@@ -3043,8 +3014,7 @@ your	_	_	O
 turn	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -3058,8 +3028,7 @@ with	_	_	O
 that	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 American	_	_	I-Claim
 public	_	_	I-Claim
@@ -3109,8 +3078,7 @@ effective	_	_	O
 leader	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 ,	_	_	O
 may	_	_	O
@@ -3646,8 +3614,7 @@ our	_	_	I-Premise
 citizens	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 from	_	_	O
@@ -3656,8 +3623,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -3902,13 +3868,11 @@ neighborhood	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Please	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 Warner	_	_	O
 for	_	_	O
@@ -3917,8 +3881,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -4015,8 +3978,7 @@ Hatfield	_	_	O
 right	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	O
 was	_	_	O
 he	_	_	O
@@ -4024,8 +3986,7 @@ referring	_	_	O
 to	_	_	O
 ?	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 He	_	_	O
 was	_	_	O
 referring	_	_	O
@@ -4037,8 +3998,7 @@ the	_	_	O
 campaign	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 my	_	_	I-Claim
@@ -4391,8 +4351,7 @@ him	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 from	_	_	O
@@ -4400,8 +4359,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Margaret	_	_	O
@@ -4677,8 +4635,7 @@ country	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Andrea	_	_	O
 Mitchell	_	_	O
 ,	_	_	O
@@ -4688,8 +4645,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -4834,8 +4790,7 @@ you	_	_	O
 could	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 I	_	_	I-Premise
 knew	_	_	I-Premise
@@ -5255,8 +5210,7 @@ Commission	_	_	I-Premise
 report	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -5264,8 +5218,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -5546,8 +5499,7 @@ is	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -5558,8 +5510,7 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 continuing	_	_	O
@@ -5698,8 +5649,7 @@ you	_	_	O
 consider	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -6142,8 +6092,7 @@ to	_	_	I-Claim
 build	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -6152,8 +6101,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 the	_	_	O
@@ -6162,8 +6110,7 @@ foremost	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Can	_	_	O
 we	_	_	O
 start	_	_	O
@@ -6179,8 +6126,7 @@ the	_	_	O
 applause	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 You	_	_	O
 can	_	_	O
 proceed	_	_	O
@@ -6188,8 +6134,7 @@ proceed	_	_	O
 sir	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -6398,8 +6343,7 @@ strength	_	_	I-Claim
 works	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
@@ -6407,8 +6351,7 @@ Gov.	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 today	_	_	O
@@ -6494,8 +6437,7 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6912,8 +6854,7 @@ to	_	_	O
 come	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -6922,8 +6863,7 @@ President	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -7142,14 +7082,12 @@ control	_	_	I-Premise
 agreement	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 And	_	_	O
 the	_	_	O
 cynics	_	_	O
@@ -7174,8 +7112,7 @@ because	_	_	O
 American	_	_	B-Premise
 people	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -7186,8 +7123,7 @@ has	_	_	O
 expired	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 say	_	_	I-Premise
 ,	_	_	I-Premise
 he	_	_	I-Premise
@@ -7199,8 +7135,7 @@ hero	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 has	_	_	O
 a	_	_	O
@@ -7213,8 +7148,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 change	_	_	O
@@ -7279,8 +7213,7 @@ find	_	_	O
 admirable	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 stealing	_	_	O
@@ -7298,8 +7231,7 @@ in	_	_	O
 there	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Somebody	_	_	O
 leak	_	_	O
 my	_	_	O
@@ -7308,8 +7240,7 @@ to	_	_	O
 you	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 let	_	_	O
@@ -7725,8 +7656,7 @@ George	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -7736,8 +7666,7 @@ minute	_	_	O
 response	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -7761,8 +7690,7 @@ for	_	_	O
 that	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -7773,8 +7701,7 @@ That	_	_	B-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 does	_	_	O
 n't	_	_	O
@@ -7961,13 +7888,11 @@ And	_	_	O
 I	_	_	O
 hope	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 the	_	_	O
 tone	_	_	O
 we	_	_	O
@@ -8001,8 +7926,7 @@ that	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 Warner	_	_	O
 for	_	_	O
@@ -8011,8 +7935,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
@@ -8135,8 +8058,7 @@ her	_	_	O
 fetus	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Because	_	_	O
 you	_	_	O
 left	_	_	O
@@ -8474,8 +8396,7 @@ Scattered	_	_	O
 applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -8483,8 +8404,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 ,	_	_	O
 Kitty	_	_	B-Claim
@@ -8676,8 +8596,7 @@ beliefs	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 Margaret	_	_	O
@@ -8688,8 +8607,7 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8735,8 +8653,7 @@ the	_	_	O
 advisory	_	_	O
 board	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 ,	_	_	O
 incidentally	_	_	O
@@ -8760,8 +8677,7 @@ has	_	_	O
 concurred	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Yet	_	_	O
 you	_	_	B-Premise
 are	_	_	I-Premise
@@ -8847,8 +8763,7 @@ for	_	_	O
 fundraising	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 I	_	_	O
@@ -9339,8 +9254,7 @@ it	_	_	O
 is	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -9349,8 +9263,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 defense	_	_	I-Premise
 budget	_	_	I-Premise
@@ -9576,14 +9489,12 @@ forces	_	_	I-Premise
 ,	_	_	I-Premise
 provided	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 We	_	_	I-Premise
 do	_	_	I-Premise
 n't	_	_	I-Premise
@@ -9604,8 +9515,7 @@ table	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Andrea	_	_	O
 Mitchell	_	_	O
 for	_	_	O
@@ -9613,8 +9523,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -9692,8 +9601,7 @@ cutting	_	_	O
 weapons	_	_	O
 systems	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 some	_	_	O
 domestic	_	_	O
@@ -9704,8 +9612,7 @@ well	_	_	O
 Andrea	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 And	_	_	O
 some	_	_	O
 domestic	_	_	O
@@ -9774,8 +9681,7 @@ least	_	_	O
 onerous	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 May	_	_	O
 I	_	_	O
 disagree	_	_	O
@@ -9787,8 +9693,7 @@ your	_	_	O
 question	_	_	O
 ?	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 For	_	_	O
 the	_	_	O
 sake	_	_	O
@@ -9801,8 +9706,7 @@ no	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 As	_	_	O
 a	_	_	O
 matter	_	_	O
@@ -10214,13 +10118,11 @@ more	_	_	I-Premise
 than	_	_	I-Premise
 that	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 and	_	_	O
 that	_	_	B-Claim
 's	_	_	I-Claim
@@ -10229,8 +10131,7 @@ you	_	_	I-Claim
 begin	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 response	_	_	O
@@ -10240,8 +10141,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -10443,14 +10343,12 @@ much	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Hold	_	_	O
 it	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -10463,8 +10361,7 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -10555,8 +10452,7 @@ this	_	_	O
 panel	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 More	_	_	B-Claim
 so	_	_	I-Claim
 you	_	_	I-Claim
@@ -10564,8 +10460,7 @@ than	_	_	I-Claim
 me	_	_	I-Claim
 .	_	_	I-Claim
 
-MITCHELL	_	_	O
-:	_	_	O
+
 We	_	_	O
 could	_	_	O
 argue	_	_	O
@@ -10573,8 +10468,7 @@ about	_	_	O
 that	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -10959,8 +10853,7 @@ this	_	_	O
 country	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -10971,8 +10864,7 @@ minute	_	_	O
 sir	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Andrea	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11006,16 +10898,14 @@ welfare	_	_	I-Premise
 system	_	_	I-Premise
 .	_	_	I-Premise
 
-BUSH	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 come	_	_	O
 on	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 in	_	_	B-Premise
 1985	_	_	I-Premise
@@ -11196,8 +11086,7 @@ Fund	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
@@ -11206,8 +11095,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -11299,8 +11187,7 @@ the	_	_	O
 Court	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 One	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -11325,8 +11212,7 @@ confident	_	_	I-Premise
 Laughter	_	_	O
 )	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Secondly	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -11494,14 +11380,12 @@ outstanding	_	_	I-Claim
 appointments	_	_	I-Claim
 .	_	_	I-Claim
 
-COMPTON	_	_	O
-:	_	_	O
+
 Including	_	_	O
 Bork	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yeah	_	_	B-Claim
 .	_	_	I-Claim
 I	_	_	B-Premise
@@ -11512,8 +11396,7 @@ him	_	_	I-Premise
 Applause	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 the	_	_	I-Premise
 Vice	_	_	I-Premise
@@ -11536,8 +11419,7 @@ and	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 that	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -11564,8 +11446,7 @@ and	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
@@ -11604,8 +11485,7 @@ record	_	_	I-Claim
 Laughter	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 'm	_	_	O
@@ -11775,8 +11655,7 @@ do	_	_	O
 too	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 has	_	_	O
@@ -11789,8 +11668,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 millions	_	_	B-Premise
@@ -11917,8 +11795,7 @@ be	_	_	O
 redrawn	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Andrea	_	_	O
 ,	_	_	O
 why	_	_	O
@@ -12331,12 +12208,10 @@ decent	_	_	I-Premise
 job	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 the	_	_	I-Claim
@@ -12362,8 +12237,7 @@ same	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -12372,8 +12246,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 I	_	_	O
@@ -12642,8 +12515,7 @@ other	_	_	I-Claim
 entitlements	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 Warner	_	_	O
 for	_	_	O
@@ -12651,8 +12523,7 @@ Gov.	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12753,8 +12624,7 @@ political	_	_	O
 cowards	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 is	_	_	I-Claim
 absolutely	_	_	I-Claim
@@ -12762,8 +12632,7 @@ not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-WARNER	_	_	O
-:	_	_	O
+
 You	_	_	O
 said	_	_	O
 it	_	_	O
@@ -12775,8 +12644,7 @@ takes	_	_	O
 will	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 is	_	_	I-Claim
 absolutely	_	_	I-Claim
@@ -12818,8 +12686,7 @@ the	_	_	I-Claim
 budget	_	_	I-Claim
 .	_	_	I-Claim
 
-WARNER	_	_	O
-:	_	_	O
+
 My	_	_	O
 question	_	_	O
 is	_	_	O
@@ -12834,8 +12701,7 @@ Security	_	_	O
 issue	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 and	_	_	O
@@ -12846,8 +12712,7 @@ to	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 just	_	_	O
 have	_	_	O
@@ -13220,12 +13085,10 @@ be	_	_	I-Premise
 able	_	_	I-Premise
 to	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Give	_	_	I-Premise
 our	_	_	I-Premise
 farm	_	_	I-Premise
@@ -13275,8 +13138,7 @@ review	_	_	I-Claim
 first	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -13285,8 +13147,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -13508,15 +13369,13 @@ Republican	_	_	O
 support	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 farm	_	_	I-Claim
 payments	_	_	I-Claim
@@ -13532,8 +13391,7 @@ coming	_	_	I-Premise
 back	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 Warner	_	_	O
 has	_	_	O
@@ -13547,8 +13405,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-WARNER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -13709,8 +13566,7 @@ this	_	_	O
 record	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 90	_	_	B-Premise
 percent	_	_	I-Premise
 reductions	_	_	I-Premise
@@ -14059,8 +13915,7 @@ am	_	_	I-Premise
 committed	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Gov.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -14072,8 +13927,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Margaret	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -14353,13 +14207,11 @@ Clean	_	_	I-Claim
 Water	_	_	I-Claim
 Act	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	I-Claim
 those	_	_	I-Claim
 grants	_	_	I-Claim
@@ -14385,8 +14237,7 @@ streams	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -14497,8 +14348,7 @@ you	_	_	O
 two	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 .	_	_	I-Claim
 I	_	_	B-Claim
@@ -14941,8 +14791,7 @@ debates	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -14956,8 +14805,7 @@ respond	_	_	O
 sir	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 can	_	_	O
 understand	_	_	O
@@ -15259,8 +15107,7 @@ good	_	_	I-Claim
 success	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Andrea	_	_	O
 Mitchell	_	_	O
 has	_	_	O
@@ -15273,8 +15120,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-MITCHELL	_	_	O
-:	_	_	O
+
 We	_	_	O
 are	_	_	O
 talking	_	_	O
@@ -15395,8 +15241,7 @@ our	_	_	O
 triad	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -15885,8 +15730,7 @@ pursue	_	_	O
 them	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -15897,8 +15741,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 In	_	_	O
 terms	_	_	O
 of	_	_	O
@@ -16096,8 +15939,7 @@ that	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
@@ -16105,8 +15947,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 nuclear	_	_	O
@@ -16202,8 +16043,7 @@ of	_	_	O
 it	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	O
@@ -16463,8 +16303,7 @@ must	_	_	I-Premise
 have	_	_	I-Premise
 .	_	_	I-Premise
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -16475,8 +16314,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 That	_	_	O
 is	_	_	O
 the	_	_	O
@@ -16693,15 +16531,13 @@ that	_	_	I-Claim
 we	_	_	I-Claim
 can	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 and	_	_	I-Claim
 must	_	_	I-Claim
 do	_	_	I-Claim
@@ -16713,8 +16549,7 @@ about	_	_	I-Claim
 now	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 Ann	_	_	O
 Compton	_	_	O
 has	_	_	O
@@ -16724,8 +16559,7 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-COMPTON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -16804,8 +16638,7 @@ once	_	_	O
 managed	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	O
 and	_	_	O
@@ -17207,8 +17040,7 @@ about	_	_	O
 it	_	_	O
 .	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -17221,8 +17053,7 @@ to	_	_	O
 it	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 would	_	_	O
@@ -17449,8 +17280,7 @@ our	_	_	I-Claim
 Administration	_	_	I-Claim
 .	_	_	I-Claim
 
-SHAW	_	_	O
-:	_	_	O
+
 To	_	_	O
 each	_	_	O
 of	_	_	O
@@ -17529,8 +17359,7 @@ sir	_	_	O
 GOU	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 28	_	_	B-Premise
 years	_	_	I-Premise
 ago	_	_	I-Premise
@@ -17916,8 +17745,7 @@ you	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-SHAW	_	_	O
-:	_	_	O
+
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
@@ -17929,8 +17757,7 @@ statement	_	_	O
 sir	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Sometimes	_	_	O
 it	_	_	O
 does	_	_	O

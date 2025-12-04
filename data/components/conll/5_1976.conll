@@ -1,5 +1,4 @@
-NEWMAN	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -324,8 +323,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -450,8 +448,7 @@ achieve	_	_	O
 that	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 First	_	_	O
@@ -1063,8 +1060,7 @@ balanced	_	_	I-Premise
 budget	_	_	I-Premise
 .	_	_	I-Premise
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 uh	_	_	O
@@ -1083,8 +1079,7 @@ a	_	_	O
 drastic	_	_	O
 drop	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -1119,8 +1114,7 @@ price	_	_	O
 controls	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 -	_	_	O
 we	_	_	B-Premise
@@ -1290,8 +1284,7 @@ than	_	_	I-Premise
 work	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1299,8 +1292,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -1633,8 +1625,7 @@ my	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Gannon	_	_	O
 ,	_	_	O
@@ -1645,8 +1636,7 @@ President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-GANNON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1750,8 +1740,7 @@ the	_	_	O
 budget	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 At	_	_	B-Premise
 the	_	_	I-Premise
 time	_	_	I-Premise
@@ -2151,8 +2140,7 @@ prosperous	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
 
-GANNON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2221,8 +2209,7 @@ that	_	_	O
 bill	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 tax	_	_	I-Claim
 bill	_	_	I-Claim
@@ -2482,8 +2469,7 @@ my	_	_	I-Claim
 approval	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -2491,8 +2477,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	B-Claim
@@ -2882,8 +2867,7 @@ so	_	_	I-Claim
 important	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mrs.	_	_	O
 Drew	_	_	O
 ,	_	_	O
@@ -2894,8 +2878,7 @@ Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 Governor	_	_	O
 Carter	_	_	O
@@ -3040,8 +3023,7 @@ would	_	_	O
 give	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 as	_	_	B-Claim
@@ -3353,8 +3335,7 @@ more	_	_	I-Claim
 slowly	_	_	I-Claim
 .	_	_	I-Claim
 
-DREW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 uh	_	_	O
@@ -3471,8 +3452,7 @@ the	_	_	O
 budget	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -3501,8 +3481,7 @@ our	_	_	O
 economy	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 they	_	_	O
@@ -3515,8 +3494,7 @@ those	_	_	O
 figures	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	O
 believe	_	_	O
 that	_	_	O
@@ -3838,14 +3816,12 @@ Vietnam	_	_	I-Claim
 War	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 If	_	_	B-Premise
 it	_	_	I-Premise
 is	_	_	I-Premise
@@ -4166,14 +4142,12 @@ they	_	_	I-Premise
 deserved	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reynolds	_	_	O
 .	_	_	O
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4322,8 +4296,7 @@ exile	_	_	O
 abroad	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 amnesty	_	_	I-Premise
 program	_	_	I-Premise
@@ -4632,8 +4605,7 @@ I	_	_	I-Claim
 took	_	_	I-Claim
 .	_	_	I-Claim
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 I	_	_	O
 take	_	_	O
 it	_	_	O
@@ -4689,8 +4661,7 @@ for	_	_	O
 years	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -4783,14 +4754,12 @@ any	_	_	I-Claim
 further	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	O
 think	_	_	O
@@ -5211,14 +5180,12 @@ Vietnam	_	_	I-Claim
 War	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Gannon	_	_	O
 .	_	_	O
 
-GANNON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -5311,8 +5278,7 @@ it	_	_	O
 smaller	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -5842,8 +5808,7 @@ be	_	_	I-Claim
 done	_	_	I-Claim
 .	_	_	I-Claim
 
-GANNON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5920,8 +5885,7 @@ the	_	_	O
 overall	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 ca	_	_	I-Claim
 n't	_	_	I-Claim
@@ -6373,14 +6337,12 @@ their	_	_	I-Claim
 government	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 the	_	_	B-Premise
@@ -6720,14 +6682,12 @@ better	_	_	I-Claim
 plan	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mrs.	_	_	O
 Drew	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -6882,8 +6842,7 @@ now	_	_	O
 stress	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 in	_	_	B-Claim
@@ -7346,8 +7305,7 @@ be	_	_	I-Claim
 required	_	_	I-Claim
 .	_	_	I-Claim
 
-DREW	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ,	_	_	O
 in	_	_	O
@@ -7402,8 +7360,7 @@ tax	_	_	O
 relief	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 We	_	_	O
 feel	_	_	O
 that	_	_	O
@@ -7682,14 +7639,12 @@ by	_	_	I-Claim
 1978	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	B-Claim
@@ -8168,14 +8123,12 @@ n't	_	_	I-Claim
 go	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reynolds	_	_	O
 .	_	_	O
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -8286,8 +8239,7 @@ they	_	_	O
 unsafe	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 among	_	_	B-Premise
 my	_	_	I-Premise
@@ -8879,8 +8831,7 @@ discuss	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Governor	_	_	O
 ,	_	_	O
@@ -8902,8 +8853,7 @@ conserve	_	_	O
 fuel	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -9239,14 +9189,12 @@ government	_	_	I-Claim
 yes	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 skims	_	_	O
@@ -9562,14 +9510,12 @@ energy	_	_	I-Claim
 conservation	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Gannon	_	_	O
 .	_	_	O
 
-GANNON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -9677,8 +9623,7 @@ service	_	_	I-Claim
 jobs	_	_	I-Claim
 ?	_	_	I-Claim
 
-FORD	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 bills	_	_	I-Claim
 that	_	_	I-Claim
@@ -10049,8 +9994,7 @@ the	_	_	I-Claim
 Congress	_	_	I-Claim
 .	_	_	I-Claim
 
-GANNON	_	_	O
-:	_	_	O
+
 Just	_	_	O
 to	_	_	O
 follow	_	_	O
@@ -10152,8 +10096,7 @@ money	_	_	O
 bill	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Premise
@@ -10444,14 +10387,12 @@ this	_	_	I-Premise
 economy	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -10904,8 +10845,7 @@ from	_	_	I-Premise
 Republicans	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
@@ -10918,8 +10858,7 @@ in	_	_	I-Claim
 leadership	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Under	_	_	O
 the	_	_	O
 rules	_	_	O
@@ -10935,8 +10874,7 @@ Mrs.	_	_	O
 Drew	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -10970,13 +10908,11 @@ income	_	_	O
 groups	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Right	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 But	_	_	O
 unless	_	_	B-Premise
 you	_	_	I-Premise
@@ -11043,8 +10979,7 @@ talking	_	_	O
 about	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Now	_	_	O
 we	_	_	B-Claim
 have	_	_	I-Claim
@@ -11659,8 +11594,7 @@ compensation	_	_	I-Premise
 checks	_	_	I-Premise
 .	_	_	I-Premise
 
-DREW	_	_	O
-:	_	_	O
+
 Ah	_	_	O
 -	_	_	O
 Governor	_	_	O
@@ -11695,8 +11629,7 @@ lower	_	_	O
 income	_	_	O
 people	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 You	_	_	O
@@ -11810,8 +11743,7 @@ away	_	_	O
 with	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -12057,14 +11989,12 @@ income	_	_	I-Claim
 families	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Governor	_	_	B-Claim
 Carter	_	_	I-Claim
 's	_	_	I-Claim
@@ -12451,14 +12381,12 @@ tax	_	_	O
 bills	_	_	O
 .	_	_	O
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reynolds	_	_	O
 .	_	_	O
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 I	_	_	O
 suspect	_	_	O
 that	_	_	O
@@ -12667,8 +12595,7 @@ whole	_	_	O
 government	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 There	_	_	B-Premise
 is	_	_	I-Premise
 a	_	_	I-Premise
@@ -13044,8 +12971,7 @@ United	_	_	O
 States	_	_	O
 .	_	_	O
 
-REYNOLDS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13134,8 +13060,7 @@ continued	_	_	O
 confrontation	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 It	_	_	B-Claim
@@ -13420,14 +13345,12 @@ Democratic	_	_	I-Premise
 Congress	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 it	_	_	B-Claim
@@ -13873,8 +13796,7 @@ erroneous	_	_	I-Claim
 statement	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 ,	_	_	O
@@ -13956,8 +13878,7 @@ Mr.	_	_	O
 Gannon	_	_	O
 .	_	_	O
 
-GANNON	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 ,	_	_	O
@@ -14069,8 +13990,7 @@ are	_	_	O
 elected	_	_	O
 ?	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 What	_	_	O
 I	_	_	O
 have	_	_	O
@@ -14415,8 +14335,7 @@ president	_	_	I-Claim
 veto	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 ,	_	_	O
@@ -14424,8 +14343,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 chairman	_	_	I-Premise
 of	_	_	I-Premise
@@ -14582,14 +14500,12 @@ Legislative	_	_	I-Claim
 branches	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Mrs.	_	_	O
 Drew	_	_	O
 .	_	_	O
 
-DREW	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 Mr.	_	_	O
 President	_	_	O
@@ -14710,8 +14626,7 @@ these	_	_	O
 agencies	_	_	O
 ?	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 You	_	_	O
 are	_	_	O
 familiar	_	_	O
@@ -14990,14 +14905,12 @@ proper	_	_	I-Premise
 supervision	_	_	I-Premise
 .	_	_	I-Premise
 
-NEWMAN	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Carter	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 one	_	_	O
@@ -15043,8 +14956,7 @@ minute	_	_	O
 delay	_	_	O
 ]	_	_	O
 
-NEWMAN	_	_	O
-:	_	_	O
+
 failure	_	_	O
 in	_	_	O
 the	_	_	O
@@ -15196,8 +15108,7 @@ statements	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 has	_	_	I-Claim
 been	_	_	I-Claim
@@ -15221,8 +15132,7 @@ American	_	_	I-Claim
 citizens	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 It	_	_	O
 is	_	_	O
 now	_	_	O
@@ -15268,8 +15178,7 @@ first	_	_	O
 now	_	_	O
 .	_	_	O
 
-CARTER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 tonight	_	_	O
@@ -15844,14 +15753,12 @@ on	_	_	I-Claim
 earth	_	_	I-Claim
 .	_	_	I-Claim
 
-NEWMAN	_	_	O
-:	_	_	O
+
 President	_	_	O
 Ford	_	_	O
 .	_	_	O
 
-FORD	_	_	O
-:	_	_	O
+
 On	_	_	O
 November	_	_	O
 second	_	_	O

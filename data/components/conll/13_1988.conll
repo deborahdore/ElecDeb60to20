@@ -1,5 +1,4 @@
-LEHRER	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -122,10 +121,7 @@ nominee	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Our	_	_	O
 questions	_	_	O
 this	_	_	O
@@ -207,8 +203,7 @@ use	_	_	O
 drugs	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -562,8 +557,7 @@ the	_	_	I-Claim
 schools	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -574,8 +568,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 agree	_	_	O
 with	_	_	O
@@ -804,8 +797,7 @@ of	_	_	I-Claim
 1989	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -845,8 +837,7 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 saying	_	_	O
@@ -1121,8 +1112,7 @@ the	_	_	I-Claim
 schools	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -1133,8 +1123,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 agree	_	_	O
 with	_	_	O
@@ -1363,8 +1352,7 @@ of	_	_	I-Claim
 1989	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -1404,8 +1392,7 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 saying	_	_	O
@@ -1855,8 +1842,7 @@ the	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 minute	_	_	O
 to	_	_	O
@@ -1867,8 +1853,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -2064,8 +2049,7 @@ different	_	_	I-Claim
 administrations	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -2095,8 +2079,7 @@ to	_	_	O
 answer	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -2153,8 +2136,7 @@ deficit	_	_	O
 down	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2640,10 +2622,7 @@ politics	_	_	I-Claim
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-DUKAKIS	_	_	O
-:	_	_	O
+
 But	_	_	O
 I	_	_	O
 hope	_	_	O
@@ -2664,8 +2643,7 @@ say	_	_	O
 this	_	_	O
 -	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Your	_	_	O
 two	_	_	O
 minutes	_	_	O
@@ -2675,8 +2653,7 @@ up	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 If	_	_	O
 he	_	_	O
 's	_	_	O
@@ -2726,8 +2703,7 @@ it	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 You	_	_	O
 have	_	_	O
 a	_	_	O
@@ -2736,8 +2712,7 @@ to	_	_	O
 rebut	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Is	_	_	O
 this	_	_	O
 the	_	_	O
@@ -2762,10 +2737,7 @@ harbor	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 help	_	_	O
@@ -2967,8 +2939,7 @@ raise	_	_	I-Premise
 taxes	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Your	_	_	O
 time	_	_	O
 is	_	_	O
@@ -2984,8 +2955,7 @@ up	_	_	O
 John	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -3073,8 +3043,7 @@ the	_	_	O
 taxpayers	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -3459,8 +3428,7 @@ Federal	_	_	O
 Government	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -3471,8 +3439,7 @@ to	_	_	O
 rebut	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -3677,8 +3644,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -3709,8 +3675,7 @@ answer	_	_	O
 sir	_	_	O
 .	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -3782,8 +3747,7 @@ for	_	_	O
 it	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 One	_	_	B-Claim
 thing	_	_	I-Claim
 I	_	_	I-Claim
@@ -4188,16 +4152,14 @@ recovery	_	_	I-Claim
 back	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 rebuttal	_	_	O
 ,	_	_	O
 Governor	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 But	_	_	O
 ,	_	_	O
 George	_	_	O
@@ -4208,8 +4170,7 @@ no	_	_	O
 answer	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 You	_	_	O
 do	_	_	O
 n't	_	_	O
@@ -4224,8 +4185,7 @@ an	_	_	O
 answer	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 no	_	_	O
@@ -4481,8 +4441,7 @@ of	_	_	I-Claim
 ours	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Follow	_	_	O
 -	_	_	O
 up	_	_	O
@@ -4490,8 +4449,7 @@ up	_	_	O
 Anne	_	_	O
 ?	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Since	_	_	O
@@ -4619,8 +4577,7 @@ this	_	_	O
 disease	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Anne	_	_	O
@@ -4756,8 +4713,7 @@ now	_	_	I-Claim
 Applause	_	_	O
 )	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 If	_	_	O
 I	_	_	O
 may	_	_	O
@@ -4805,8 +4761,7 @@ continue	_	_	O
 please	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -5052,8 +5007,7 @@ as	_	_	I-Claim
 Governor	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -5064,8 +5018,7 @@ of	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -5277,8 +5230,7 @@ of	_	_	I-Claim
 this	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Next	_	_	O
 question	_	_	O
 will	_	_	O
@@ -5295,8 +5247,7 @@ the	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -5356,13 +5307,11 @@ passionless	_	_	O
 technocratic	_	_	O
 -	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Passionless	_	_	O
 ?	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 Passionless	_	_	O
 ,	_	_	O
 technocratic	_	_	O
@@ -5483,8 +5432,7 @@ president	_	_	I-Claim
 needs	_	_	I-Claim
 ?	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -5493,8 +5441,7 @@ a	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5701,10 +5648,7 @@ go	_	_	I-Claim
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Peter	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -5719,8 +5663,7 @@ president	_	_	O
 Peter	_	_	O
 .	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 actually	_	_	O
@@ -5861,8 +5804,7 @@ Oliver	_	_	O
 North	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Nothings	_	_	B-Claim
 wrong	_	_	I-Claim
 with	_	_	I-Claim
@@ -6313,16 +6255,14 @@ that	_	_	I-Claim
 organization	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
 response	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6494,10 +6434,7 @@ Allegiance	_	_	I-Claim
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-DUKAKIS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Bush	_	_	O
 ,	_	_	O
@@ -6603,8 +6540,7 @@ and	_	_	O
 loyalty	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 The	_	_	O
 time	_	_	O
 is	_	_	O
@@ -6630,8 +6566,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -6711,8 +6646,7 @@ our	_	_	O
 society	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -7038,16 +6972,14 @@ McKinney	_	_	I-Claim
 Act	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
 response	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 this	_	_	B-Claim
@@ -7358,8 +7290,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 John	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -7369,8 +7300,7 @@ the	_	_	O
 governor	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -7474,8 +7404,7 @@ of	_	_	I-Premise
 renters	_	_	I-Premise
 ?	_	_	I-Premise
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -7925,8 +7854,7 @@ of	_	_	I-Claim
 1989	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 response	_	_	O
 ,	_	_	O
@@ -7935,8 +7863,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -8185,8 +8112,7 @@ that	_	_	O
 one	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -8205,8 +8131,7 @@ ask	_	_	O
 it	_	_	O
 .	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -8244,8 +8169,7 @@ also	_	_	I-Premise
 killing	_	_	I-Premise
 ?	_	_	I-Premise
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -8534,8 +8458,7 @@ that	_	_	I-Claim
 decision	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Response	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -8543,8 +8466,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -8747,8 +8669,7 @@ favor	_	_	I-Claim
 abortion	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Question	_	_	O
 for	_	_	O
 the	_	_	O
@@ -8758,8 +8679,7 @@ president	_	_	O
 Ann	_	_	O
 ?	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Mr.	_	_	O
@@ -8887,8 +8807,7 @@ to	_	_	O
 jail	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 have	_	_	I-Claim
 n't	_	_	I-Claim
@@ -9124,13 +9043,11 @@ may	_	_	I-Premise
 be	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -9241,14 +9158,12 @@ this	_	_	I-Claim
 choice	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 just	_	_	O
 -	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 finish	_	_	O
@@ -9355,8 +9270,7 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Peter	_	_	O
 Jennings	_	_	O
 ,	_	_	O
@@ -9368,8 +9282,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -9502,8 +9415,7 @@ or	_	_	O
 cut	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 One	_	_	O
 of	_	_	O
 the	_	_	O
@@ -9894,13 +9806,11 @@ a	_	_	I-Claim
 program	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -10162,8 +10072,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 question	_	_	O
 for	_	_	O
@@ -10173,8 +10082,7 @@ governor	_	_	O
 Peter	_	_	O
 .	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -10234,8 +10142,7 @@ you	_	_	O
 begin	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -10484,7 +10391,6 @@ to	_	_	O
 get	_	_	O
 hurt	_	_	O
 .	_	_	O
- 	_	_	O
 And	_	_	O
 yet	_	_	O
 ,	_	_	O
@@ -10552,7 +10458,6 @@ to	_	_	I-Premise
 that	_	_	I-Premise
 hospital	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 these	_	_	B-Claim
 are	_	_	I-Claim
@@ -10636,17 +10541,13 @@ want	_	_	I-Claim
 to	_	_	I-Claim
 lead	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	B-Claim
 troubles	_	_	I-Claim
 me	_	_	I-Claim
@@ -10745,7 +10646,6 @@ is	_	_	I-Claim
 not	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 here	_	_	O
 's	_	_	O
@@ -10804,7 +10704,6 @@ up	_	_	I-Premise
 93	_	_	I-Premise
 percent	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 the	_	_	B-Claim
 federal	_	_	I-Claim
@@ -10892,7 +10791,6 @@ towards	_	_	I-Claim
 real	_	_	I-Claim
 excellence	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 can	_	_	I-Claim
@@ -10914,10 +10812,7 @@ in	_	_	I-Claim
 Washington	_	_	I-Claim
 ,	_	_	I-Claim
 D.C.	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -10947,8 +10842,7 @@ the	_	_	O
 governor	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -10998,8 +10892,7 @@ that	_	_	O
 true	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Of	_	_	B-Claim
 course	_	_	I-Claim
 not	_	_	I-Claim
@@ -11154,7 +11047,6 @@ not	_	_	I-Claim
 against	_	_	I-Claim
 us	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 vice	_	_	I-Premise
 president	_	_	I-Premise
@@ -11214,7 +11106,6 @@ he	_	_	I-Premise
 supported	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 His	_	_	B-Claim
 experience	_	_	I-Claim
 did	_	_	I-Claim
@@ -11246,7 +11137,6 @@ trafficking	_	_	I-Claim
 in	_	_	I-Claim
 Panama	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 He	_	_	B-Premise
 went	_	_	I-Premise
 to	_	_	I-Premise
@@ -11297,7 +11187,6 @@ in	_	_	I-Claim
 that	_	_	I-Claim
 region	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -11449,17 +11338,13 @@ it	_	_	B-Claim
 's	_	_	I-Claim
 values	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -11683,7 +11568,6 @@ to	_	_	I-Claim
 those	_	_	I-Claim
 days	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 As	_	_	O
 to	_	_	O
 Ferdinand	_	_	O
@@ -11744,16 +11628,12 @@ And	_	_	O
 he	_	_	O
 had	_	_	O
 just-	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 And	_	_	O
 he	_	_	B-Premise
 just	_	_	I-Premise
@@ -11788,8 +11668,7 @@ he	_	_	O
 goes	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -11809,8 +11688,7 @@ vice	_	_	O
 president	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -11874,8 +11752,7 @@ national	_	_	O
 security	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -12067,14 +11944,10 @@ It	_	_	O
 's	_	_	O
 Christmas	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Would	_	_	O
 n't	_	_	O
 it	_	_	O
@@ -12085,8 +11958,7 @@ be	_	_	O
 perfect	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	O
 hope	_	_	O
 it	_	_	O
@@ -12100,8 +11972,7 @@ that	_	_	O
 decision	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 would	_	_	O
 n't	_	_	O
 it	_	_	O
@@ -12233,7 +12104,6 @@ in	_	_	I-Claim
 conventional	_	_	I-Claim
 forces	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 look	_	_	O
 ,	_	_	O
@@ -12298,15 +12168,11 @@ I	_	_	I-Claim
 had	_	_	I-Claim
 that	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	B-Premise
@@ -12439,7 +12305,6 @@ make	_	_	I-Claim
 some	_	_	I-Claim
 choices	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Mr.	_	_	B-Premise
 Bush	_	_	I-Premise
 wants	_	_	I-Premise
@@ -12524,7 +12389,6 @@ have	_	_	O
 to	_	_	O
 make	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	B-Claim
 'm	_	_	I-Claim
 for	_	_	I-Claim
@@ -12616,10 +12480,7 @@ pursue	_	_	I-Claim
 that	_	_	I-Claim
 policy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Anne	_	_	O
 Groer	_	_	O
 ,	_	_	O
@@ -12631,8 +12492,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -12743,8 +12603,7 @@ an	_	_	O
 adversary	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 What	_	_	B-Claim
 I	_	_	I-Claim
 think	_	_	I-Claim
@@ -12907,7 +12766,6 @@ this	_	_	I-Claim
 is	_	_	I-Claim
 good	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 where	_	_	B-Claim
 I	_	_	I-Claim
@@ -12959,7 +12817,6 @@ the	_	_	I-Claim
 Soviet	_	_	I-Claim
 experiment	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 interesting	_	_	I-Claim
@@ -13081,7 +12938,6 @@ match	_	_	I-Claim
 our	_	_	I-Claim
 bid	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Look	_	_	O
 at	_	_	O
 the	_	_	O
@@ -13120,16 +12976,12 @@ administration	_	_	I-Claim
 was	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 It	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -13307,7 +13159,6 @@ Quayle	_	_	I-Claim
 do	_	_	I-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 want	_	_	I-Claim
@@ -13403,14 +13254,10 @@ Washington	_	_	I-Claim
 in	_	_	I-Claim
 1989	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Anne	_	_	O
 Groer	_	_	O
 ,	_	_	O
@@ -13421,8 +13268,7 @@ the	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Governor	_	_	O
@@ -13484,8 +13330,7 @@ of	_	_	O
 heart	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	I-Claim
 there	_	_	I-Claim
@@ -13694,7 +13539,6 @@ maintenance	_	_	I-Premise
 and	_	_	I-Premise
 equipment	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 An	_	_	O
 Air	_	_	O
 Force	_	_	O
@@ -13782,7 +13626,6 @@ have	_	_	I-Premise
 enough	_	_	I-Premise
 fuel	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	B-Claim
 have	_	_	I-Claim
 to	_	_	I-Claim
@@ -13905,7 +13748,6 @@ strategic	_	_	I-Claim
 weapons	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 to	_	_	B-Claim
 continue	_	_	I-Claim
@@ -13961,17 +13803,13 @@ on	_	_	I-Claim
 it	_	_	I-Claim
 tonight	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 'm	_	_	I-Claim
 not	_	_	I-Claim
@@ -14123,14 +13961,10 @@ effort	_	_	O
 on	_	_	O
 narcotics	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 He	_	_	B-Claim
 's	_	_	I-Claim
 got	_	_	I-Claim
@@ -14207,8 +14041,7 @@ a	_	_	I-Claim
 bit	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Peter	_	_	O
 Jennings	_	_	O
 ,	_	_	O
@@ -14219,8 +14052,7 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Governor	_	_	O
@@ -14324,8 +14156,7 @@ rescue	_	_	O
 them	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Peter	_	_	B-Claim
 ,	_	_	I-Claim
 it	_	_	I-Claim
@@ -14436,7 +14267,6 @@ Iran	_	_	I-Claim
 Contra	_	_	I-Claim
 scandal	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 As	_	_	B-Premise
 a	_	_	I-Premise
 matter	_	_	I-Premise
@@ -14549,7 +14379,6 @@ we	_	_	I-Claim
 now	_	_	I-Claim
 know	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 there	_	_	B-Claim
@@ -14666,7 +14495,6 @@ of	_	_	I-Claim
 international	_	_	I-Claim
 terrorism	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Yes	_	_	B-Claim
 ,	_	_	I-Claim
 we	_	_	I-Claim
@@ -14720,17 +14548,13 @@ be	_	_	I-Claim
 made	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 wrote	_	_	I-Premise
 the	_	_	I-Premise
@@ -14825,8 +14649,7 @@ that	_	_	I-Claim
 action	_	_	I-Claim
 .	_	_	I-Claim
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
@@ -14838,8 +14661,7 @@ not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 And	_	_	O
 since	_	_	B-Claim
 that	_	_	I-Claim
@@ -14857,16 +14679,14 @@ gone	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-BUSH	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 have	_	_	O
@@ -14938,10 +14758,7 @@ action-	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 -	_	_	O
 has	_	_	O
 to	_	_	O
@@ -14964,8 +14781,7 @@ favorable	_	_	O
 response	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 question	_	_	O
 for	_	_	O
@@ -14976,8 +14792,7 @@ President	_	_	O
 Peter	_	_	O
 ?	_	_	O
 
-JENNINGS	_	_	O
-:	_	_	O
+
 It	_	_	O
 seems	_	_	O
 perhaps	_	_	O
@@ -15121,8 +14936,7 @@ eight	_	_	O
 years	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 You	_	_	O
 're	_	_	O
 judged	_	_	O
@@ -15275,10 +15089,7 @@ understand	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Now	_	_	B-Claim
 we	_	_	I-Claim
 have	_	_	I-Claim
@@ -15408,10 +15219,7 @@ administration	_	_	I-Claim
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 still	_	_	O
 have	_	_	O
@@ -15429,8 +15237,7 @@ difference	_	_	O
 principle	_	_	O
 -	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Sorry	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -15438,8 +15245,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 only	_	_	O
@@ -15454,10 +15260,7 @@ minute	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 wrong	_	_	O
@@ -15469,13 +15272,11 @@ My	_	_	O
 apologies	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Jim	_	_	O
 -	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 You	_	_	O
 said	_	_	O
 nobody	_	_	O
@@ -15483,8 +15284,7 @@ nobody	_	_	O
 perfect	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 said	_	_	O
 I	_	_	O
@@ -15497,8 +15297,7 @@ was	_	_	O
 I	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 25th	_	_	O
 of	_	_	O
 December	_	_	O
@@ -15510,16 +15309,12 @@ President	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 finished	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 He	_	_	O
 can	_	_	O
 have	_	_	O
@@ -15533,8 +15328,7 @@ wants	_	_	O
 Jim	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -15545,8 +15339,7 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -15656,7 +15449,6 @@ through	_	_	I-Premise
 convicted	_	_	I-Premise
 drug	_	_	I-Premise
 dealers.â‰¤	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 those	_	_	I-Claim
@@ -15740,10 +15532,7 @@ mistake	_	_	I-Claim
 in	_	_	I-Claim
 judgment	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 A	_	_	O
 question	_	_	O
 from	_	_	O
@@ -15758,8 +15547,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -15813,10 +15601,7 @@ not	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 see	_	_	O
 a	_	_	O
@@ -16100,7 +15885,6 @@ with	_	_	I-Claim
 his	_	_	I-Claim
 name	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 My	_	_	O
 opponent	_	_	O
 says	_	_	O
@@ -16155,14 +15939,10 @@ into	_	_	I-Claim
 the	_	_	I-Claim
 debates	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 when	_	_	B-Premise
@@ -16196,17 +15976,13 @@ campaign	_	_	I-Claim
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 Just	_	_	O
 the	_	_	O
 facts	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 But	_	_	O
 did	_	_	O
 I	_	_	O
@@ -16238,8 +16014,7 @@ your	_	_	O
 ticket	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 No	_	_	B-Claim
 ,	_	_	O
 I	_	_	B-Claim
@@ -16255,8 +16030,7 @@ and	_	_	I-Claim
 Lloyd	_	_	I-Claim
 .	_	_	I-Claim
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -16361,10 +16135,7 @@ very	_	_	I-Claim
 troubling	_	_	I-Claim
 thought	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 John	_	_	O
 will	_	_	O
 ask	_	_	O
@@ -16391,8 +16162,7 @@ a	_	_	O
 rebuttal	_	_	O
 .	_	_	O
 
-MASHEK	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Governor	_	_	O
@@ -16406,15 +16176,13 @@ of	_	_	O
 Texas	_	_	O
 .	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 did	_	_	I-Claim
 indeed	_	_	I-Claim
 .	_	_	I-Claim
 
-MASHEK	_	_	O
-:	_	_	O
+
 And	_	_	O
 you	_	_	O
 have	_	_	O
@@ -16455,10 +16223,7 @@ right	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 John	_	_	B-Claim
@@ -16638,7 +16403,6 @@ President	_	_	I-Claim
 I	_	_	I-Claim
 want	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 He	_	_	B-Premise
 ,	_	_	I-Premise
 himself	_	_	I-Premise
@@ -16697,7 +16461,6 @@ me	_	_	I-Premise
 on	_	_	I-Premise
 everything	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -16793,21 +16556,16 @@ meets	_	_	I-Claim
 that	_	_	I-Claim
 test	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -16853,10 +16611,7 @@ this	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
- 
-	_	_	O
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 had	_	_	I-Claim
 hoped	_	_	I-Claim
@@ -16975,8 +16730,7 @@ outstanding	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Gentlemen	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -17016,8 +16770,7 @@ the	_	_	O
 Governor	_	_	O
 .	_	_	O
 
-GROER	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
@@ -17087,8 +16840,7 @@ and	_	_	O
 livelihood	_	_	O
 ?	_	_	O
 
-DUKAKIS	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -17264,7 +17016,6 @@ of	_	_	I-Premise
 our	_	_	I-Premise
 farmers	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -17386,7 +17137,6 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 farmers	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -17437,7 +17187,6 @@ Third	_	_	I-Claim
 World	_	_	I-Claim
 debt	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 As	_	_	B-Premise
 a	_	_	I-Premise
 matter	_	_	I-Premise
@@ -17487,17 +17236,13 @@ the	_	_	I-Claim
 same	_	_	I-Claim
 time	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 oppose	_	_	I-Claim
 supply	_	_	I-Claim
@@ -17637,7 +17382,6 @@ the	_	_	I-Claim
 agricultural	_	_	I-Claim
 economy	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 In	_	_	B-Claim
 terms	_	_	I-Claim
 of	_	_	I-Claim
@@ -17748,10 +17492,7 @@ our	_	_	I-Claim
 markets	_	_	I-Claim
 abroad	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -17796,8 +17537,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-BUSH	_	_	O
-:	_	_	O
+
 I	_	_	O
 talked	_	_	O
 in	_	_	O
@@ -17978,7 +17718,6 @@ and	_	_	I-Claim
 biological	_	_	I-Claim
 weapons	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -18123,10 +17862,7 @@ you	_	_	O
 very	_	_	O
 much	_	_	O
 .	_	_	O
- 	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
- 
-	_	_	O
 

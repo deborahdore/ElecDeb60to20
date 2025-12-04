@@ -1,5 +1,4 @@
-HOWE	_	_	O
-:	_	_	O
+
 I	_	_	O
 am	_	_	O
 Quincy	_	_	O
@@ -61,8 +60,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -70,8 +68,7 @@ Mr.	_	_	O
 Howe	_	_	O
 .	_	_	O
 
-HOWE	_	_	O
-:	_	_	O
+
 And	_	_	O
 good	_	_	O
 evening	_	_	O
@@ -80,8 +77,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
@@ -89,8 +85,7 @@ Mr.	_	_	O
 Howe	_	_	O
 .	_	_	O
 
-HOWE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 let	_	_	O
 me	_	_	O
@@ -283,8 +278,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Howe	_	_	O
 ,	_	_	O
@@ -1656,8 +1650,7 @@ our	_	_	I-Premise
 principles	_	_	I-Premise
 .	_	_	I-Premise
 
-HOWE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 the	_	_	O
 opening	_	_	O
@@ -1667,8 +1660,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Howe	_	_	O
 ,	_	_	O
@@ -3408,8 +3400,7 @@ society	_	_	I-Premise
 gain	_	_	I-Premise
 .	_	_	I-Premise
 
-HOWE	_	_	O
-:	_	_	O
+
 That	_	_	O
 completes	_	_	O
 the	_	_	O
@@ -3467,8 +3458,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-SINGISER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -3554,8 +3544,7 @@ Western	_	_	O
 Hemisphere	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Our	_	_	O
 policies	_	_	O
 are	_	_	O
@@ -4036,8 +4025,7 @@ not	_	_	I-Claim
 want	_	_	I-Claim
 .	_	_	I-Claim
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	B-Claim
 Nixon	_	_	I-Claim
 uh	_	_	I-Claim
@@ -4404,8 +4392,7 @@ n't	_	_	O
 we	_	_	O
 ?	_	_	O
 
-HOWE	_	_	O
-:	_	_	O
+
 John	_	_	O
 Edwards	_	_	O
 has	_	_	O
@@ -4417,8 +4404,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-EDWARDS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -4517,8 +4503,7 @@ of	_	_	O
 state	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Edwards	_	_	O
 ,	_	_	O
@@ -4834,8 +4819,7 @@ the	_	_	I-Premise
 candidate	_	_	I-Premise
 .	_	_	I-Premise
 
-HOWE	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -4847,8 +4831,7 @@ a	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 Mr.	_	_	O
 Edwards	_	_	O
@@ -5177,8 +5160,7 @@ place	_	_	I-Premise
 else	_	_	I-Premise
 .	_	_	I-Premise
 
-HOWE	_	_	O
-:	_	_	O
+
 Walter	_	_	O
 Cronkite	_	_	O
 ,	_	_	O
@@ -5193,8 +5175,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-CRONKITE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 Quincy	_	_	O
@@ -5283,8 +5264,7 @@ the	_	_	O
 public	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Cronkite	_	_	O
 ,	_	_	O
@@ -5852,16 +5832,14 @@ her	_	_	I-Claim
 down	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Comment	_	_	O
 ,	_	_	O
 Senator	_	_	O
 Kennedy	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 really	_	_	I-Claim
 do	_	_	I-Claim
@@ -6313,8 +6291,7 @@ not	_	_	I-Claim
 first	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 John	_	_	O
 Chancellor	_	_	O
 ,	_	_	O
@@ -6326,8 +6303,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-CHANCELLOR	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 another	_	_	O
@@ -6415,8 +6391,7 @@ of	_	_	O
 tests	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -6903,8 +6878,7 @@ last	_	_	I-Claim
 effort	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Any	_	_	O
 comment	_	_	O
 ,	_	_	O
@@ -6913,8 +6887,7 @@ Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	O
@@ -7176,8 +7149,7 @@ next	_	_	I-Claim
 year	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Our	_	_	O
 second	_	_	O
 round	_	_	O
@@ -7195,8 +7167,7 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-EDWARDS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
@@ -7256,8 +7227,7 @@ these	_	_	O
 conditions	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 the	_	_	B-Premise
 conditions	_	_	I-Premise
@@ -7700,8 +7670,7 @@ will	_	_	I-Premise
 be	_	_	I-Premise
 .	_	_	I-Premise
 
-HOWE	_	_	O
-:	_	_	O
+
 Any	_	_	O
 comments	_	_	O
 ,	_	_	O
@@ -7709,8 +7678,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -8059,8 +8027,7 @@ in	_	_	I-Claim
 May	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 We	_	_	O
 have	_	_	O
 time	_	_	O
@@ -8086,8 +8053,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-CRONKITE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -8161,8 +8127,7 @@ eight	_	_	O
 years	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 One	_	_	B-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
@@ -8758,8 +8723,7 @@ the	_	_	I-Claim
 defensive	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Your	_	_	O
 comment	_	_	O
 ,	_	_	O
@@ -8768,8 +8732,7 @@ Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 First	_	_	O
 ,	_	_	O
 with	_	_	B-Premise
@@ -9142,8 +9105,7 @@ be	_	_	I-Claim
 won	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 John	_	_	O
 Chancellor	_	_	O
 's	_	_	O
@@ -9154,8 +9116,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-CHANCELLOR	_	_	O
-:	_	_	O
+
 Sir	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9259,8 +9220,7 @@ campaign	_	_	O
 issue	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 say	_	_	O
@@ -9805,8 +9765,7 @@ the	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -9814,8 +9773,7 @@ your	_	_	O
 comment	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -10249,14 +10207,12 @@ these	_	_	O
 islands	_	_	O
 .	_	_	O
 
-HOWE	_	_	O
-:	_	_	O
+
 Under	_	_	O
 the	_	_	O
 agreed	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 And	_	_	O
 that	_	_	O
 's	_	_	O
@@ -10279,8 +10235,7 @@ fifty	_	_	O
 eight	_	_	O
 .	_	_	O
 
-HOWE	_	_	O
-:	_	_	O
+
 Under	_	_	O
 the	_	_	O
 agreed	_	_	O
@@ -10322,8 +10277,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 uh	_	_	I-Premise
 -	_	_	I-Premise
@@ -11204,8 +11158,7 @@ moving	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 
-HOWE	_	_	O
-:	_	_	O
+
 Now	_	_	O
 ,	_	_	O
 Vice	_	_	O
@@ -11217,8 +11170,7 @@ closing	_	_	O
 statement	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 has	_	_	O

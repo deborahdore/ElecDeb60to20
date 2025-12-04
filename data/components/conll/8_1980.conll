@@ -1,5 +1,4 @@
-HINERFELD	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -76,8 +75,7 @@ Bill	_	_	O
 Moyers	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -279,7 +277,6 @@ to	_	_	O
 their	_	_	O
 representatives	_	_	O
 .	_	_	O
- 	_	_	O
 Gentlemen	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -366,7 +363,6 @@ for	_	_	O
 closing	_	_	O
 remarks	_	_	O
 .	_	_	O
- 	_	_	O
 We	_	_	O
 ask	_	_	O
 the	_	_	O
@@ -402,7 +398,6 @@ on	_	_	O
 November	_	_	O
 4	_	_	O
 .	_	_	O
- 	_	_	O
 Having	_	_	O
 won	_	_	O
 the	_	_	O
@@ -424,8 +419,7 @@ Carol	_	_	O
 Loomis	_	_	O
 .	_	_	O
 
-LOOMIS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -553,10 +547,7 @@ in	_	_	O
 reducing	_	_	O
 inflation	_	_	O
 ?	_	_	O
- 
-	_	_	O
-ANDERSON	_	_	O
-:	_	_	O
+
 Miss	_	_	O
 Loomis	_	_	O
 ,	_	_	O
@@ -1055,14 +1046,12 @@ other	_	_	O
 words	_	_	O
 ....	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 fiscal	_	_	B-Claim
 restraint	_	_	I-Claim
 ,	_	_	I-Claim
@@ -1072,8 +1061,7 @@ is	_	_	I-Claim
 necessary	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 your	_	_	O
 time	_	_	O
 is	_	_	O
@@ -1083,8 +1071,7 @@ Ms.	_	_	O
 Loomis	_	_	O
 ?	_	_	O
 
-LOOMIS	_	_	O
-:	_	_	O
+
 Governor	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -1135,8 +1122,7 @@ reducing	_	_	O
 inflation	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -1609,18 +1595,14 @@ billion	_	_	O
 next	_	_	O
 year	_	_	O
 .	_	_	O
- 
-	_	_	O
-MOYERS	_	_	O
-:	_	_	O
+
 Your	_	_	O
 time	_	_	O
 is	_	_	O
 up	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 ...	_	_	O
 and	_	_	O
 $	_	_	O
@@ -1632,14 +1614,12 @@ next	_	_	O
 five	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Movers	_	_	O
 ,	_	_	O
@@ -1885,14 +1865,12 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -2070,8 +2048,7 @@ this	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -2084,8 +2061,7 @@ Daniel	_	_	O
 Greenberg	_	_	O
 .	_	_	O
 
-GREENBERG	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 gentlemen	_	_	O
@@ -2224,10 +2200,7 @@ and	_	_	O
 more	_	_	O
 production	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -2693,8 +2666,7 @@ rich	_	_	I-Claim
 nation	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 like	_	_	O
@@ -2739,8 +2711,7 @@ Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-GREENBERG	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -2793,8 +2764,7 @@ more	_	_	O
 production	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Mr.	_	_	O
@@ -3295,16 +3265,12 @@ we	_	_	I-Claim
 now	_	_	I-Claim
 enjoy	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 as	_	_	O
@@ -3549,14 +3515,12 @@ or	_	_	I-Claim
 found	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Greenberg	_	_	O
 ,	_	_	O
@@ -3763,8 +3727,7 @@ than	_	_	I-Claim
 later	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 This	_	_	O
 question	_	_	O
 goes	_	_	O
@@ -3779,8 +3742,7 @@ Charles	_	_	O
 Corddry	_	_	O
 .	_	_	O
 
-CORDDRY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -3922,8 +3884,7 @@ not	_	_	O
 working	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Corddry	_	_	O
 ,	_	_	O
@@ -4386,14 +4347,12 @@ go	_	_	I-Claim
 undefended	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Corddry	_	_	O
 ?	_	_	O
 
-CORDDRY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -4465,10 +4424,7 @@ our	_	_	O
 manpower	_	_	O
 problems	_	_	O
 ?	_	_	O
- 
-	_	_	O
-REAGAN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Corddry	_	_	O
 ,	_	_	O
@@ -4972,8 +4928,7 @@ is	_	_	O
 military	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 Your	_	_	O
 time	_	_	O
 is	_	_	O
@@ -4983,20 +4938,17 @@ Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Fine	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'll	_	_	O
 catch	_	_	O
@@ -5006,8 +4958,7 @@ it	_	_	O
 later	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 You	_	_	O
 can	_	_	O
 finish	_	_	O
@@ -5021,8 +4972,7 @@ Mr.	_	_	O
 Anderson	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Moyers	_	_	O
 .	_	_	O
@@ -5224,14 +5174,12 @@ costly	_	_	I-Claim
 boondoggle	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -5484,8 +5432,7 @@ their	_	_	O
 country	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 This	_	_	O
 question	_	_	O
 comes	_	_	O
@@ -5503,8 +5450,7 @@ Lee	_	_	O
 May	_	_	O
 .	_	_	O
 
-MAY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -5606,8 +5552,7 @@ fiscal	_	_	O
 restraint	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 n't	_	_	I-Claim
@@ -6139,14 +6084,12 @@ country	_	_	I-Premise
 homesteading	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 May	_	_	O
 ?	_	_	O
 
-MAY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -6203,8 +6146,7 @@ fiscal	_	_	O
 restraint	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 May	_	_	O
 ,	_	_	O
@@ -6696,8 +6638,7 @@ our	_	_	I-Premise
 country	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 ,	_	_	O
@@ -6705,8 +6646,7 @@ your	_	_	O
 response	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 Government	_	_	O
@@ -7019,14 +6959,12 @@ the	_	_	I-Premise
 people	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 of	_	_	O
@@ -7220,8 +7158,7 @@ cities	_	_	I-Claim
 rebuild	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Jane	_	_	O
 Bryant	_	_	O
 Quinn	_	_	O
@@ -7237,8 +7174,7 @@ Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-QUINN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -7420,8 +7356,7 @@ five	_	_	O
 years	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Miss	_	_	O
 Quinn	_	_	O
 ,	_	_	O
@@ -7929,14 +7864,12 @@ is	_	_	I-Claim
 recommending	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Ms.	_	_	O
 Quinn	_	_	O
 .	_	_	O
 
-QUINN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -8004,8 +7937,7 @@ five	_	_	O
 years	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Miss	_	_	O
 Quinn	_	_	O
 ,	_	_	O
@@ -8539,14 +8471,12 @@ the	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Moyers	_	_	O
 ,	_	_	O
@@ -8791,8 +8721,7 @@ stand	_	_	I-Claim
 up	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Would	_	_	O
 would	_	_	O
 you	_	_	O
@@ -8804,8 +8733,7 @@ Mr.	_	_	O
 Reagan	_	_	O
 ?	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 some	_	_	B-Premise
@@ -9042,8 +8970,7 @@ going	_	_	I-Premise
 bankrupt	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Our	_	_	O
 final	_	_	O
 question	_	_	O
@@ -9061,8 +8988,7 @@ Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-GOLDEN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -9204,22 +9130,17 @@ and	_	_	O
 defense	_	_	O
 spending	_	_	O
 ?	_	_	O
- 
-	_	_	O
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-GOLDEN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9550,14 +9471,12 @@ all	_	_	I-Premise
 about	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Ms.	_	_	O
 Golden	_	_	O
 .	_	_	O
 
-GOLDEN	_	_	O
-:	_	_	O
+
 Okay	_	_	O
 .	_	_	O
 I	_	_	O
@@ -9612,8 +9531,7 @@ defense	_	_	O
 spending	_	_	O
 ?	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Ms.	_	_	O
 Golden	_	_	O
 ,	_	_	O
@@ -10094,14 +10012,12 @@ to	_	_	I-Claim
 recite	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 The	_	_	B-Premise
 litmus	_	_	I-Premise
 test	_	_	I-Premise
@@ -10276,14 +10192,12 @@ it	_	_	I-Claim
 is	_	_	I-Claim
 .	_	_	I-Claim
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 also	_	_	I-Claim
 think	_	_	I-Claim
@@ -10451,8 +10365,7 @@ the	_	_	I-Premise
 individual	_	_	I-Premise
 .	_	_	I-Premise
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Reagan	_	_	O
 you	_	_	O
@@ -10465,8 +10378,7 @@ closing	_	_	O
 remarks	_	_	O
 .	_	_	O
 
-REAGAN	_	_	O
-:	_	_	O
+
 Before	_	_	O
 beginning	_	_	O
 my	_	_	O
@@ -11092,8 +11004,7 @@ at	_	_	O
 it	_	_	O
 .	_	_	O
 
-MOYERS	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Anderson	_	_	O
 ,	_	_	O
@@ -11105,8 +11016,7 @@ three	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-ANDERSON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Movers	_	_	O
 ,	_	_	O

@@ -1,5 +1,4 @@
-LEHRER	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 from	_	_	O
@@ -143,7 +142,6 @@ visible	_	_	O
 to	_	_	O
 both	_	_	O
 .	_	_	O
- 	_	_	O
 Under	_	_	O
 their	_	_	O
 rules	_	_	O
@@ -173,7 +171,6 @@ on	_	_	O
 the	_	_	O
 subjects	_	_	O
 .	_	_	O
- 	_	_	O
 The	_	_	O
 order	_	_	O
 for	_	_	O
@@ -199,10 +196,7 @@ Clinton	_	_	O
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -259,7 +253,6 @@ ideas	_	_	O
 not	_	_	O
 insults	_	_	O
 .	_	_	O
- 	_	_	O
 Four	_	_	B-Premise
 years	_	_	I-Premise
 ago	_	_	I-Premise
@@ -368,7 +361,6 @@ America	_	_	I-Premise
 at	_	_	I-Premise
 peace	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 are	_	_	I-Claim
 better	_	_	I-Claim
@@ -444,7 +436,6 @@ buying	_	_	I-Claim
 a	_	_	I-Claim
 home	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Premise
 passed	_	_	I-Premise
 family	_	_	I-Premise
@@ -505,7 +496,6 @@ tackling	_	_	I-Claim
 juvenile	_	_	I-Claim
 gangs	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	B-Premise
 passed	_	_	I-Premise
 welfare	_	_	I-Premise
@@ -596,10 +586,7 @@ to	_	_	O
 do	_	_	O
 it	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -607,8 +594,7 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -677,7 +663,6 @@ Democrats	_	_	O
 and	_	_	O
 Independents	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 have	_	_	O
 three	_	_	O
@@ -733,7 +718,6 @@ few	_	_	O
 years	_	_	O
 back	_	_	O
 .	_	_	O
- 	_	_	O
 I	_	_	O
 've	_	_	O
 learned	_	_	O
@@ -764,7 +748,6 @@ is	_	_	I-Claim
 all	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Premise
 remember	_	_	I-Premise
 getting	_	_	I-Premise
@@ -810,7 +793,6 @@ watching	_	_	I-Premise
 us	_	_	I-Premise
 tonight	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 America	_	_	B-Claim
 is	_	_	I-Claim
 the	_	_	I-Claim
@@ -892,7 +874,6 @@ I	_	_	I-Premise
 have	_	_	I-Premise
 had	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 Jack	_	_	O
 Kemp	_	_	O
@@ -991,10 +972,7 @@ here	_	_	O
 this	_	_	O
 evening	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1030,8 +1008,7 @@ the	_	_	O
 difference	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Jim	_	_	O
@@ -1326,10 +1303,7 @@ a	_	_	I-Claim
 good	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -1337,8 +1311,7 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 think	_	_	O
 the	_	_	O
@@ -1545,10 +1518,7 @@ there	_	_	O
 are	_	_	O
 others	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1556,8 +1526,7 @@ President	_	_	O
 seconds	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 trust	_	_	I-Claim
 the	_	_	I-Claim
@@ -1701,10 +1670,7 @@ the	_	_	I-Claim
 21st	_	_	I-Claim
 Century	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -1732,8 +1698,7 @@ you	_	_	O
 agree	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 he	_	_	B-Claim
@@ -1748,8 +1713,7 @@ years	_	_	I-Claim
 ago	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 agree	_	_	O
 with	_	_	O
@@ -1760,8 +1724,7 @@ That	_	_	O
 right	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 I	_	_	O
 may	_	_	O
@@ -1981,7 +1944,6 @@ be	_	_	I-Claim
 better	_	_	I-Claim
 off	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 They	_	_	B-Premise
 talk	_	_	I-Premise
 about	_	_	I-Premise
@@ -2063,10 +2025,7 @@ is	_	_	I-Claim
 all	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 One	_	_	O
 minute	_	_	O
 ,	_	_	O
@@ -2074,8 +2033,7 @@ Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -2308,16 +2266,12 @@ acknowledged	_	_	I-Premise
 this	_	_	I-Premise
 year	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 doubt	_	_	I-Claim
 that	_	_	I-Claim
@@ -2441,7 +2395,6 @@ New	_	_	I-Premise
 York	_	_	I-Premise
 City	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 So	_	_	O
 ,	_	_	O
 yes	_	_	O
@@ -2486,10 +2439,7 @@ is	_	_	I-Claim
 vice	_	_	I-Claim
 president	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -2522,8 +2472,7 @@ done	_	_	O
 so	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Absolutely	_	_	B-Claim
 not	_	_	I-Claim
 .	_	_	I-Claim
@@ -2695,7 +2644,6 @@ that	_	_	I-Premise
 I	_	_	I-Premise
 vetoed	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 now	_	_	O
 with	_	_	B-Premise
@@ -2749,7 +2697,6 @@ according	_	_	I-Premise
 to	_	_	I-Premise
 him	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 my	_	_	B-Claim
@@ -2838,16 +2785,12 @@ to	_	_	I-Claim
 reform	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -3124,16 +3067,12 @@ have	_	_	I-Claim
 a	_	_	I-Claim
 truce	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
@@ -3273,8 +3212,7 @@ the	_	_	I-Claim
 country	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -3304,8 +3242,7 @@ tax	_	_	O
 cut	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 yes	_	_	B-Claim
@@ -3317,14 +3254,12 @@ be	_	_	O
 eligible	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Me	_	_	O
 too	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 And	_	_	O
 so	_	_	O
 will	_	_	O
@@ -3335,15 +3270,13 @@ President	_	_	O
 yes	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 need	_	_	O
 it	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -3657,16 +3590,12 @@ have	_	_	O
 your	_	_	O
 support	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 here	_	_	O
@@ -3896,8 +3825,7 @@ to	_	_	I-Claim
 go	_	_	I-Claim
 .	_	_	I-Claim
 
-DOLE	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 President	_	_	I-Claim
 wants	_	_	I-Claim
@@ -4013,8 +3941,7 @@ congratulate	_	_	I-Claim
 me	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4054,8 +3981,7 @@ your	_	_	O
 campaigns	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -4199,7 +4125,6 @@ should	_	_	I-Premise
 be	_	_	I-Premise
 made	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 let	_	_	B-Premise
@@ -4419,16 +4344,12 @@ do	_	_	I-Claim
 as	_	_	I-Claim
 president	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 How	_	_	O
 does	_	_	O
 he	_	_	O
@@ -4717,14 +4638,12 @@ in	_	_	O
 1992	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -4871,16 +4790,14 @@ not	_	_	O
 me	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 That	_	_	B-Claim
 's	_	_	I-Claim
 not	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 So	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
@@ -4923,8 +4840,7 @@ honestly	_	_	I-Claim
 disagree	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Senator	_	_	O
@@ -4960,8 +4876,7 @@ your	_	_	O
 campaigns	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 it	_	_	I-Claim
@@ -5198,7 +5113,6 @@ going	_	_	I-Premise
 to	_	_	I-Premise
 work	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 But	_	_	O
 I	_	_	O
 want	_	_	O
@@ -5310,7 +5224,6 @@ about	_	_	I-Premise
 stopping	_	_	I-Premise
 smoking	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 What	_	_	O
 about	_	_	O
 drugs	_	_	O
@@ -5373,10 +5286,7 @@ we	_	_	O
 go	_	_	O
 along	_	_	O
 .	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Lehrer	_	_	O
 ,	_	_	O
@@ -5620,8 +5530,7 @@ it	_	_	I-Claim
 badly	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -5629,8 +5538,7 @@ Dole	_	_	O
 seconds	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 on	_	_	O
@@ -5749,8 +5657,7 @@ Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -5787,8 +5694,7 @@ he	_	_	O
 right	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 Jim	_	_	O
@@ -6126,13 +6032,11 @@ and	_	_	I-Claim
 change	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Again	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -6403,14 +6307,12 @@ do	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -6560,10 +6462,7 @@ and	_	_	O
 we	_	_	B-Claim
 can	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -6600,8 +6499,7 @@ assault	_	_	O
 weapons	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Not	_	_	B-Claim
 if	_	_	I-Claim
 I	_	_	I-Claim
@@ -6823,7 +6721,6 @@ on	_	_	I-Claim
 the	_	_	I-Claim
 street	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 The	_	_	B-Premise
 administration	_	_	I-Premise
 says	_	_	I-Premise
@@ -6916,7 +6813,6 @@ we	_	_	O
 can	_	_	O
 depoliticize	_	_	O
 .	_	_	O
- 	_	_	O
 You	_	_	O
 talk	_	_	O
 about	_	_	O
@@ -7003,16 +6899,12 @@ make	_	_	I-Premise
 a	_	_	I-Premise
 difference	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -7252,10 +7144,7 @@ he	_	_	I-Claim
 was	_	_	I-Claim
 wrong	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Claim
@@ -7419,8 +7308,7 @@ of	_	_	I-Claim
 criminals	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -7459,8 +7347,7 @@ about	_	_	O
 that	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 If	_	_	O
 he	_	_	O
 ,	_	_	O
@@ -7595,7 +7482,6 @@ the	_	_	I-Premise
 democratic	_	_	I-Premise
 Russia	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 There	_	_	B-Premise
 are	_	_	I-Premise
 no	_	_	I-Premise
@@ -7629,7 +7515,6 @@ the	_	_	I-Premise
 nuclear	_	_	I-Premise
 age	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 We	_	_	B-Claim
 have	_	_	I-Claim
 worked	_	_	I-Claim
@@ -7776,15 +7661,11 @@ auto	_	_	I-Premise
 production	_	_	I-Premise
 again	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -8098,14 +7979,12 @@ Nations	_	_	I-Claim
 charter	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -8215,7 +8094,6 @@ beginning	_	_	I-Premise
 to	_	_	I-Premise
 function	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 In	_	_	B-Claim
 Northern	_	_	I-Claim
 Ireland	_	_	I-Claim
@@ -8264,10 +8142,7 @@ we	_	_	I-Claim
 better	_	_	I-Claim
 off	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -8293,8 +8168,7 @@ harm	_	_	O
 way	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 it	_	_	O
 ,	_	_	O
@@ -8478,7 +8352,6 @@ be	_	_	I-Claim
 my	_	_	I-Claim
 position	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Then	_	_	O
 I	_	_	B-Claim
 'm	_	_	I-Claim
@@ -8642,7 +8515,6 @@ that	_	_	O
 ,	_	_	O
 too	_	_	O
 .	_	_	O
- 	_	_	O
 But	_	_	O
 the	_	_	O
 bottom	_	_	O
@@ -8700,10 +8572,7 @@ the	_	_	I-Claim
 United	_	_	I-Claim
 Nations	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Our	_	_	B-Premise
 military	_	_	I-Premise
 is	_	_	I-Premise
@@ -8920,7 +8789,6 @@ Korean	_	_	I-Premise
 nuclear	_	_	I-Premise
 threat	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 the	_	_	I-Claim
@@ -8946,16 +8814,12 @@ our	_	_	I-Claim
 military	_	_	I-Claim
 resources	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 I	_	_	O
 failed	_	_	O
@@ -9170,10 +9034,7 @@ easier	_	_	I-Claim
 for	_	_	I-Claim
 him	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -9191,8 +9052,7 @@ be	_	_	O
 treated	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -9443,10 +9303,7 @@ around	_	_	I-Claim
 as	_	_	I-Claim
 well	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 the	_	_	O
@@ -9613,7 +9470,6 @@ happened	_	_	I-Premise
 in	_	_	I-Premise
 1996	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -9710,10 +9566,7 @@ policy	_	_	I-Premise
 with	_	_	I-Premise
 Cuba	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 There	_	_	B-Claim
 were	_	_	I-Claim
 several	_	_	I-Claim
@@ -9830,8 +9683,7 @@ from	_	_	I-Claim
 here	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -9855,8 +9707,7 @@ healthcare	_	_	O
 system	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 first	_	_	O
@@ -10201,10 +10052,7 @@ watching	_	_	O
 us	_	_	O
 tonight	_	_	O
 .	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 that	_	_	B-Claim
@@ -10426,8 +10274,7 @@ the	_	_	I-Premise
 vine	_	_	I-Premise
 .	_	_	I-Premise
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 many	_	_	B-Claim
@@ -10578,8 +10425,7 @@ without	_	_	I-Claim
 food	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 go	_	_	O
@@ -10590,16 +10436,14 @@ your	_	_	O
 sentence	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
 Food	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Back	_	_	O
 to	_	_	O
 foreign	_	_	O
@@ -10629,7 +10473,6 @@ end	_	_	O
 result	_	_	O
 ?	_	_	O
 CLINTON	_	_	O
- 	_	_	O
 :	_	_	O
 Well	_	_	O
 ,	_	_	O
@@ -10943,16 +10786,12 @@ thing	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -11195,8 +11034,7 @@ the	_	_	I-Premise
 Gulf	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 has	_	_	O
@@ -11225,16 +11063,14 @@ with	_	_	O
 the	_	_	O
 U.N.	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 It	_	_	O
 's	_	_	O
 not	_	_	O
 the	_	_	O
 U.N.	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Sometimes	_	_	B-Claim
 the	_	_	I-Claim
 United	_	_	I-Claim
@@ -11317,8 +11153,7 @@ to	_	_	I-Claim
 do	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -11335,14 +11170,12 @@ the	_	_	O
 President	_	_	O
 --	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Not	_	_	O
 mine	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Oh	_	_	O
 ,	_	_	O
 No	_	_	O
@@ -11380,8 +11213,7 @@ that	_	_	O
 category	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 there	_	_	O
@@ -11558,7 +11390,6 @@ have	_	_	I-Premise
 a	_	_	I-Premise
 meeting	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 to	_	_	B-Claim
@@ -11690,10 +11521,7 @@ come	_	_	I-Claim
 to	_	_	I-Claim
 Washington	_	_	I-Claim
 D.C.	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 We	_	_	B-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
@@ -11913,16 +11741,12 @@ going	_	_	I-Premise
 forward	_	_	I-Premise
 again	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12025,14 +11849,12 @@ will	_	_	I-Premise
 end	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -12138,8 +11960,7 @@ country	_	_	O
 backward	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -12457,14 +12278,12 @@ right	_	_	I-Claim
 bridge	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -12710,16 +12529,12 @@ have	_	_	I-Claim
 that	_	_	I-Claim
 soon	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 do	_	_	I-Claim
 not	_	_	I-Claim
@@ -12812,7 +12627,6 @@ for	_	_	I-Claim
 the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Senator	_	_	B-Premise
 Dole	_	_	I-Premise
 voted	_	_	I-Premise
@@ -12882,10 +12696,7 @@ a	_	_	I-Claim
 different	_	_	I-Claim
 tack	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -12900,8 +12711,7 @@ of	_	_	O
 Education	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Yes	_	_	B-Claim
 .	_	_	I-Claim
 I	_	_	B-Premise
@@ -13123,7 +12933,6 @@ helpful	_	_	I-Claim
 to	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 So	_	_	O
 it	_	_	B-Claim
 seems	_	_	I-Claim
@@ -13278,10 +13087,7 @@ lot	_	_	I-Claim
 of	_	_	I-Claim
 people	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -13525,10 +13331,7 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 campaign	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 better	_	_	O
@@ -13700,8 +13503,7 @@ Education	_	_	I-Claim
 Association	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -13715,8 +13517,7 @@ choice	_	_	O
 proposal	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 support	_	_	I-Claim
 school	_	_	I-Claim
@@ -13884,7 +13685,6 @@ the	_	_	I-Premise
 school	_	_	I-Premise
 level	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 I	_	_	B-Premise
 have	_	_	I-Premise
 been	_	_	I-Premise
@@ -13967,7 +13767,6 @@ our	_	_	I-Claim
 children	_	_	I-Claim
 forward	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 let	_	_	O
 me	_	_	O
@@ -14043,10 +13842,7 @@ education	_	_	I-Claim
 not	_	_	I-Claim
 less	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -14351,8 +14147,7 @@ with	_	_	I-Claim
 education	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 First	_	_	O
 of	_	_	O
 all	_	_	O
@@ -14566,8 +14361,7 @@ is	_	_	I-Claim
 better	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -14650,8 +14444,7 @@ in	_	_	O
 mind	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 had	_	_	I-Premise
 precisely	_	_	I-Premise
@@ -14792,7 +14585,6 @@ with	_	_	I-Premise
 their	_	_	I-Premise
 education	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Now	_	_	O
 the	_	_	O
 reason	_	_	O
@@ -14941,7 +14733,6 @@ had	_	_	I-Claim
 in	_	_	I-Claim
 mind	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 people	_	_	I-Claim
@@ -14997,10 +14788,7 @@ knocks	_	_	I-Claim
 in	_	_	I-Claim
 life	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 When	_	_	B-Premise
 Senator	_	_	I-Premise
 Dole	_	_	I-Premise
@@ -15285,10 +15073,7 @@ want	_	_	I-Premise
 on	_	_	I-Premise
 it	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -15467,10 +15252,7 @@ a	_	_	I-Claim
 good	_	_	I-Claim
 job	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -15487,8 +15269,7 @@ political	_	_	O
 philosophy	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -15783,10 +15564,7 @@ n't	_	_	I-Claim
 stopped	_	_	I-Claim
 it	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -16081,8 +15859,7 @@ next	_	_	I-Claim
 century	_	_	I-Claim
 .	_	_	I-Claim
 
-CLINTON	_	_	O
-:	_	_	O
+
 The	_	_	B-Claim
 way	_	_	I-Claim
 you	_	_	I-Claim
@@ -16234,8 +16011,7 @@ tax	_	_	I-Claim
 scheme	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -16280,8 +16056,7 @@ this	_	_	O
 election	_	_	O
 ?	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Let	_	_	O
 me	_	_	O
 say	_	_	O
@@ -16465,8 +16240,7 @@ personal	_	_	O
 differences	_	_	O
 ?	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 That	_	_	O
 are	_	_	O
 relevant	_	_	O
@@ -16474,8 +16248,7 @@ to	_	_	O
 this	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 my	_	_	O
@@ -16652,14 +16425,12 @@ in	_	_	I-Premise
 Arkansas	_	_	I-Premise
 .	_	_	I-Premise
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 just	_	_	O
@@ -16825,7 +16596,6 @@ billion	_	_	I-Claim
 tax	_	_	I-Claim
 scheme	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 Now	_	_	O
 ,	_	_	O
 remember	_	_	O
@@ -16930,10 +16700,7 @@ and	_	_	I-Premise
 healthier	_	_	I-Premise
 families	_	_	I-Premise
 .	_	_	I-Premise
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -17102,14 +16869,12 @@ to	_	_	O
 rest	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -17261,8 +17026,7 @@ my	_	_	I-Claim
 position	_	_	I-Claim
 .	_	_	I-Claim
 
-DOLE	_	_	O
-:	_	_	O
+
 But	_	_	O
 it	_	_	O
 seems	_	_	O
@@ -17445,16 +17209,12 @@ friend	_	_	O
 of	_	_	O
 yours	_	_	O
 .	_	_	O
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 You	_	_	O
 bet	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 I	_	_	B-Premise
 remember	_	_	I-Premise
 one	_	_	I-Premise
@@ -17501,14 +17261,12 @@ liberal	_	_	I-Premise
 friends	_	_	I-Premise
 .	_	_	I-Premise
 
-CLINTON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -17516,14 +17274,12 @@ President	_	_	O
 seconds	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 No	_	_	O
 comment	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 What	_	_	O
 's	_	_	O
 the	_	_	O
@@ -17531,8 +17287,7 @@ subject	_	_	O
 matter	_	_	O
 ?	_	_	O
 
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -17585,8 +17340,7 @@ appreciate	_	_	O
 it	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 See	_	_	O
 ,	_	_	O
 if	_	_	O
@@ -17746,7 +17500,6 @@ campaign	_	_	I-Claim
 is	_	_	I-Claim
 fear	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 You	_	_	B-Premise
 're	_	_	I-Premise
 spending	_	_	I-Premise
@@ -17849,7 +17602,6 @@ United	_	_	I-Premise
 States	_	_	I-Premise
 Senate	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 'll	_	_	I-Claim
@@ -17930,10 +17682,7 @@ is	_	_	I-Claim
 all	_	_	I-Claim
 about	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -18130,7 +17879,6 @@ dreams	_	_	I-Claim
 come	_	_	I-Claim
 true	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
@@ -18210,10 +17958,7 @@ think	_	_	I-Claim
 is	_	_	I-Claim
 right	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
@@ -18393,7 +18138,6 @@ on	_	_	I-Claim
 the	_	_	I-Claim
 line	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 We	_	_	O
 can	_	_	O
 give	_	_	O
@@ -18483,10 +18227,7 @@ a	_	_	I-Claim
 brighter	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -18510,8 +18251,7 @@ one	_	_	O
 word	_	_	O
 ?	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Let	_	_	O
 's	_	_	O
 look	_	_	O
@@ -18734,7 +18474,6 @@ the	_	_	I-Premise
 deficit	_	_	I-Premise
 down	_	_	I-Premise
 .	_	_	I-Premise
- 	_	_	O
 Republicans	_	_	O
 talk	_	_	O
 about	_	_	O
@@ -18885,15 +18624,11 @@ the	_	_	I-Claim
 21st	_	_	I-Claim
 Century	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 there	_	_	O
@@ -19169,10 +18904,7 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 states	_	_	I-Claim
 .	_	_	I-Claim
- 
-	_	_	O
-CLINTON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 think	_	_	I-Claim
 a	_	_	I-Claim
@@ -19278,8 +19010,7 @@ years	_	_	I-Claim
 ago	_	_	I-Claim
 .	_	_	I-Claim
 
-LEHRER	_	_	O
-:	_	_	O
+
 All	_	_	O
 right	_	_	O
 .	_	_	O
@@ -19313,8 +19044,7 @@ Two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-CLINTON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 first	_	_	O
@@ -19417,7 +19147,6 @@ you	_	_	I-Claim
 given	_	_	I-Claim
 me	_	_	I-Claim
 .	_	_	I-Claim
- 	_	_	O
 I	_	_	O
 'm	_	_	O
 proud	_	_	O
@@ -19721,10 +19450,7 @@ me	_	_	O
 build	_	_	O
 it	_	_	O
 .	_	_	O
- 
-	_	_	O
-LEHRER	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Dole	_	_	O
 ,	_	_	O
@@ -19735,8 +19461,7 @@ statement	_	_	O
 sir	_	_	O
 .	_	_	O
 
-DOLE	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O

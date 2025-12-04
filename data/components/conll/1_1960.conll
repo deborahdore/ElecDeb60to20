@@ -1,5 +1,4 @@
-SMITH	_	_	O
-:	_	_	O
+
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -167,8 +166,7 @@ F.	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Smith	_	_	O
 ,	_	_	O
@@ -1595,8 +1593,7 @@ moving	_	_	I-Claim
 again	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 And	_	_	O
 now	_	_	O
 the	_	_	O
@@ -1610,8 +1607,7 @@ M.	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Smith	_	_	O
 ,	_	_	O
@@ -3167,8 +3163,7 @@ those	_	_	I-Claim
 goals	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -3253,8 +3248,7 @@ News	_	_	O
 "	_	_	O
 ]	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 first	_	_	O
 question	_	_	O
@@ -3266,8 +3260,7 @@ Mr.	_	_	O
 Fleming	_	_	O
 .	_	_	O
 
-FLEMING	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -3315,8 +3308,7 @@ Vice	_	_	O
 President	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -3532,8 +3524,7 @@ United	_	_	O
 States	_	_	O
 ?	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
@@ -3547,16 +3538,14 @@ that	_	_	O
 statement	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	O
 have	_	_	O
 no	_	_	O
 comment	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -3565,8 +3554,7 @@ Mr.	_	_	O
 Novins	_	_	O
 .	_	_	O
 
-NOVINS	_	_	O
-:	_	_	O
+
 Mr.	_	_	B-Premise
 Vice	_	_	I-Premise
 President	_	_	I-Premise
@@ -3634,8 +3622,7 @@ the	_	_	O
 Administration	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 It	_	_	O
 would	_	_	O
 be	_	_	O
@@ -3932,8 +3919,7 @@ United	_	_	O
 States	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -4231,8 +4217,7 @@ sufficient	_	_	I-Claim
 vigor	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -4244,8 +4229,7 @@ Mr.	_	_	O
 Warren	_	_	O
 .	_	_	O
 
-WARREN	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Senator	_	_	O
@@ -4265,15 +4249,13 @@ farm	_	_	O
 surpluses	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 That	_	_	O
 's	_	_	O
 correct	_	_	O
 .	_	_	O
 
-WARREN	_	_	O
-:	_	_	O
+
 I	_	_	O
 'd	_	_	O
 like	_	_	O
@@ -4381,8 +4363,7 @@ the	_	_	O
 farmer	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 because	_	_	O
@@ -4917,16 +4898,14 @@ the	_	_	I-Claim
 future	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 of	_	_	I-Claim
 course	_	_	I-Claim
@@ -5236,8 +5215,7 @@ in	_	_	I-Claim
 surplus	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -5250,8 +5228,7 @@ Mr.	_	_	O
 Vanocur	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Uh	_	_	O
 -	_	_	O
 Mr.	_	_	O
@@ -5451,8 +5428,7 @@ President	_	_	O
 Eisenhower	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -5841,14 +5817,12 @@ people	_	_	I-Claim
 decide	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6069,8 +6043,7 @@ the	_	_	O
 sixties	_	_	O
 ?	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -6082,8 +6055,7 @@ Mr.	_	_	O
 Novins	_	_	O
 .	_	_	O
 
-NOVINS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -6176,8 +6148,7 @@ that	_	_	O
 you	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 I	_	_	O
 did	_	_	O
 n't	_	_	O
@@ -6272,8 +6243,7 @@ or	_	_	I-Premise
 two	_	_	I-Premise
 .	_	_	I-Premise
 
-NOVINS	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6287,15 +6257,13 @@ your	_	_	O
 speeches	_	_	O
 -	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 No	_	_	O
 ,	_	_	O
 never	_	_	O
 .	_	_	O
 
-NOVINS	_	_	O
-:	_	_	O
+
 -	_	_	O
 you	_	_	O
 suggested	_	_	O
@@ -6309,8 +6277,7 @@ help	_	_	O
 toward	_	_	O
 -	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 No	_	_	O
 .	_	_	O
 No	_	_	O
@@ -6321,8 +6288,7 @@ the	_	_	O
 interest	_	_	O
 -	_	_	O
 
-NOVINS	_	_	O
-:	_	_	O
+
 -	_	_	O
 a	_	_	O
 reduction	_	_	O
@@ -6332,8 +6298,7 @@ Federal	_	_	O
 debt	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 -	_	_	O
 reducing	_	_	O
 the	_	_	O
@@ -6792,8 +6757,7 @@ remains	_	_	I-Premise
 orderly	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
@@ -6801,8 +6765,7 @@ your	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Yes	_	_	O
 .	_	_	O
 I	_	_	B-Claim
@@ -7183,8 +7146,7 @@ to	_	_	I-Premise
 teach	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -7197,8 +7159,7 @@ Mr.	_	_	O
 Warren	_	_	O
 .	_	_	O
 
-WARREN	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -7332,8 +7293,7 @@ that	_	_	O
 sir	_	_	O
 .	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	O
 'm	_	_	O
 awfully	_	_	O
@@ -7836,16 +7796,14 @@ can	_	_	O
 have	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 's	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 When	_	_	O
 uh	_	_	O
 -	_	_	O
@@ -8189,8 +8147,7 @@ moving	_	_	I-Premise
 ahead	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -8202,8 +8159,7 @@ Mr.	_	_	O
 Vanocur	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -8310,8 +8266,7 @@ in	_	_	O
 January	_	_	O
 -	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 as	_	_	O
 you	_	_	O
@@ -8320,8 +8275,7 @@ the	_	_	O
 bills	_	_	O
 -	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 -	_	_	O
 if	_	_	O
 you	_	_	O
@@ -8335,8 +8289,7 @@ in	_	_	O
 August	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 If	_	_	O
 I	_	_	O
 may	_	_	O
@@ -8753,16 +8706,14 @@ and	_	_	I-Claim
 inaction	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Well	_	_	B-Claim
 obviously	_	_	I-Claim
 my	_	_	I-Claim
@@ -9104,8 +9055,7 @@ next	_	_	I-Claim
 Congress	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 The	_	_	O
 next	_	_	O
 question	_	_	O
@@ -9119,8 +9069,7 @@ Mr.	_	_	O
 Fleming	_	_	O
 .	_	_	O
 
-FLEMING	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -9160,8 +9109,7 @@ and	_	_	O
 Senate	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	O
 would	_	_	O
 say	_	_	O
@@ -9498,14 +9446,12 @@ the	_	_	I-Premise
 President	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 now	_	_	O
@@ -9863,8 +9809,7 @@ lip	_	_	I-Claim
 service	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Warren	_	_	O
 's	_	_	O
@@ -9874,8 +9819,7 @@ Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-WARREN	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -9932,8 +9876,7 @@ States	_	_	O
 today	_	_	O
 ?	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
@@ -10053,16 +9996,14 @@ will	_	_	I-Claim
 continue	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Nixon	_	_	O
 ,	_	_	O
 comment	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 I	_	_	B-Claim
 agree	_	_	I-Claim
 with	_	_	I-Claim
@@ -10356,8 +10297,7 @@ of	_	_	O
 means	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vanocur	_	_	O
 's	_	_	O
@@ -10368,8 +10308,7 @@ President	_	_	O
 Nixon	_	_	O
 .	_	_	O
 
-VANOCUR	_	_	O
-:	_	_	O
+
 Mr.	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -10452,8 +10391,7 @@ for	_	_	O
 it	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Not	_	_	O
 at	_	_	O
 all	_	_	O
@@ -10705,14 +10643,12 @@ have	_	_	I-Claim
 stimulated	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 Well	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
@@ -10938,8 +10874,7 @@ federal	_	_	I-Claim
 government	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Can	_	_	O
 I	_	_	O
 have	_	_	O
@@ -10971,8 +10906,7 @@ summation	_	_	O
 time	_	_	O
 .	_	_	O
 
-VOICE	_	_	O
-:	_	_	O
+
 This	_	_	O
 will	_	_	O
 allow	_	_	O
@@ -10989,8 +10923,7 @@ each	_	_	O
 candidate	_	_	O
 .	_	_	O
 
-SMITH	_	_	O
-:	_	_	O
+
 Three	_	_	O
 minutes	_	_	O
 and	_	_	O
@@ -11012,8 +10945,7 @@ first	_	_	O
 summation	_	_	O
 ?	_	_	O
 
-NIXON	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -11638,8 +11570,7 @@ people	_	_	I-Premise
 themselves	_	_	I-Premise
 .	_	_	I-Premise
 
-SMITH	_	_	O
-:	_	_	O
+
 Senator	_	_	O
 Kennedy	_	_	O
 ,	_	_	O
@@ -11647,8 +11578,7 @@ your	_	_	O
 conclusion	_	_	O
 .	_	_	O
 
-KENNEDY	_	_	O
-:	_	_	O
+
 The	_	_	O
 point	_	_	O
 was	_	_	O
@@ -12289,8 +12219,7 @@ address	_	_	I-Claim
 ourselves	_	_	I-Claim
 .	_	_	I-Claim
 
-SMITH	_	_	O
-:	_	_	O
+
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
