@@ -35,23 +35,40 @@ def brat_to_conll(txt_path: str, ann_path: str, out_path: str, punctuation: bool
     prev_bio = "O"
 
     with open(out_path, "w", encoding="utf-8") as out:
-        for token in doc:
+
+        skip_next = 0  # skip the ":" after uppercase speaker name
+
+        for i, token in enumerate(doc):
             tok_text = token.text
             start = token.idx
             end = start + len(tok_text)
+
+            if tok_text.isalpha() and tok_text.isupper():  # speaker name (e.g., GIBSON)
+                if i + 1 < len(doc) and doc[i + 1].text == ":":
+                    # close previous turn
+                    out.write("\n")
+                    prev_bio = "O"
+
+                    skip_next = 1  # skip the next token (the ":")
+                    continue
+
+            if skip_next > 0:
+                skip_next -= 1
+                continue
 
             if tok_text == "\n":
                 out.write("\n")
                 prev_bio = "O"
                 continue
 
+            if tok_text.strip() == "":
+                continue
+
             labels = [char2label[i] for i in range(start, end) if i < len(char2label)]
 
-            # If no label at all → O
             if not labels or all(l == "O" for l in labels):
                 bio = "O"
             else:
-                # Determine entity type (Premise, Claim...)
                 types = {l[2:] for l in labels if l != "O"}
                 ent_type = types.pop()
 
@@ -60,7 +77,10 @@ def brat_to_conll(txt_path: str, ann_path: str, out_path: str, punctuation: bool
                 else:
                     bio = f"I-{ent_type}"
 
-            if punctuation and (token.text in {".", ";", "!", "?"}) and prev_bio != "O" and bio == "O":
+            if (punctuation
+                    and tok_text in {".", ";", "!", "?"}
+                    and prev_bio != "O"
+                    and bio == "O"):
                 bio = f"I-{prev_bio.split('-')[-1]}"
 
             out.write(f"{tok_text}\t_\t_\t{bio}\n")
