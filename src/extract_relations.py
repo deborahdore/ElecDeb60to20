@@ -1,3 +1,4 @@
+import hashlib
 import os
 import random
 
@@ -7,147 +8,155 @@ from brat_parser import get_entities_relations_attributes_groups
 
 rootutils.setup_root(__file__, indicator=".project-root", pythonpath=True, cwd=True)
 
-# def fix_equivalent_relations(files):
-#     f in files:
-#     input_file = os.path.join(ann_relations_path, f)
-#     with open(input_file, "r", encoding="utf-8") as f:
-#         lines = [line.rstrip() for line in f]
-#
-#     # Separate normal lines and * Equivalent lines
-#     normal_lines = []
-#     equivalent_lines = []
-#     for line in lines:
-#         if line.startswith("*"):
-#             equivalent_lines.append(line)
-#         else:
-#             normal_lines.append(line)
-#
-#     # Find the last R index
-#     r_indices = [int(m.group(1)) for l in normal_lines
-#                  if (m := re.match(r"R(\d+)\s", l))]
-#     next_r_idx = max(r_indices, default=0) + 1
-#
-#     # Convert * Equivalent lines into R-style lines
-#     new_r_lines = []
-#     for eq_line in equivalent_lines:
-#         # eq_line example: "*\tEquivalent T672 T671 T1"
-#         parts = eq_line.split()
-#         if len(parts) >= 3:
-#             label = parts[1]  # 'Equivalent'
-#             t_ids = parts[2:]  # ['T672', 'T671', 'T1', ...]
-#             # Generate consecutive R lines
-#             for i in range(1, len(t_ids)):
-#                 arg1 = t_ids[0]
-#                 arg2 = t_ids[i]
-#                 new_r_lines.append(f"R{next_r_idx}\t{label} Arg1:{arg1} Arg2:{arg2}")
-#                 next_r_idx += 1
-#
-#     # Combine normal lines + new R lines
-#     all_lines = normal_lines + new_r_lines
-#
-#     # Write output
-#     with open(input_file, "w", encoding="utf-8") as f:
-#         for line in all_lines:
-#             f.write(line + "\n")
+PATH = "data/annotations/relations"
+COMPONENTS_PATH = "data/components/csv"
+RELATIONS_PATH = "data/relations/csv"
 
 
-if __name__ == '__main__':
-    ann_relations_path = "./data/annotations/relations"
-    files = sorted(f for f in os.listdir(ann_relations_path) if f.endswith(".ann"))
+def save_to_csv(path, dataset):
+    df = pd.DataFrame(dataset)
+    print(f"Size df before dropping duplicates: {len(df)}")
+    df = df.dropna().drop_duplicates().reset_index(drop=True)
+    print(f"Size df after dropping duplicates: {len(df)}")
+    df.to_csv(path, index=False)
 
-    df_relations = []
-    for f in files:
-        entities, relations, _, _ = get_entities_relations_attributes_groups(os.path.join(ann_relations_path, f))
-        for relation in relations.values():
-            arg1 = entities.get(relation.subj)
-            arg2 = entities.get(relation.obj)
-            rel_type = relation.type
 
-            df_relations.append({
-                "date": f.split("_")[1] + "_" + f.split("_")[0],
-                "relation": True,
-                "relation_type": rel_type,
-                "subject": arg1.text,
-                "subject_type": arg1.type,
-                "object": arg2.text,
-                "object_type": arg2.type
-            })
+def get_hash(text):
+    return hashlib.md5(text.encode()).hexdigest()
 
-    df_relations = pd.DataFrame(df_relations).dropna().reset_index(drop=True)
-    os.makedirs("data/relations/", exist_ok=True)
 
-    df_relations.to_csv("./data/relations/filtered_relations.csv", index=False)
-    df_relations = df_relations[df_relations['relation_type'] != "Equivalent"].reset_index(drop=True)
+def extract_relations():
+    os.makedirs(COMPONENTS_PATH, exist_ok=True)
+    os.makedirs(RELATIONS_PATH, exist_ok=True)
 
-    df_subject = df_relations[['date', 'subject', 'subject_type']].values.tolist()
-    df_object = df_relations[['date', 'object', 'object_type']].values.tolist()
+    component_dataset = []
+    relation_dataset = []
 
-    # Create a set of existing (subject, object, date) tuples for quick lookup
-    existing_pairs = set(zip(df_relations['subject'], df_relations['object'], df_relations['date']))
+    years = sorted(os.listdir(PATH))
+    for year in years:
+        year_components = []
+        year_relations = []
+
+        year_path = os.path.join(PATH, year)
+        files = os.listdir(year_path)
+        for file in files:
+            entities, relations, _, _ = get_entities_relations_attributes_groups(os.path.join(year_path, file))
+
+            id_to_unique_id = {}
+            unique_id_to_text = {}
+
+            for entity in sorted(entities.values(), key=lambda e: int(e.id[1:])):
+                unique_id = year + "_" + \
+                            get_hash(entity.id + entity.text + entity.type + str(entity.span[0][0]) + str(
+                                entity.span[0][-1]))
+                id_to_unique_id[entity.id] = unique_id
+                unique_id_to_text[unique_id] = entity.text
+
+                year_components.append({
+                    "unique_id": unique_id,
+                    "id": entity.id,
+                    "year": year,
+                    "text": entity.text,
+                    "label": entity.type
+                })
+
+            for relation in relations.values():
+                year_relations.append({
+                    "source_unique_id": id_to_unique_id[relation.subj],
+                    "target_unique_id": id_to_unique_id[relation.obj],
+                    "source_id": relation.subj,
+                    "target_id": relation.obj,
+                    "source_text": unique_id_to_text[id_to_unique_id[relation.subj]],
+                    "target_text": unique_id_to_text[id_to_unique_id[relation.obj]],
+                    "relation_class": relation.type,
+                    "year": year
+                })
+
+        save_to_csv(os.path.join(COMPONENTS_PATH, year + ".csv"), year_components)
+        save_to_csv(os.path.join(RELATIONS_PATH, year + ".csv"), year_relations)
+
+        component_dataset.extend(year_components)
+        relation_dataset.extend(year_relations)
+
+    save_to_csv(os.path.join(COMPONENTS_PATH, "components.csv"), component_dataset)
+    save_to_csv(os.path.join(RELATIONS_PATH, "filtered_relations.csv"), relation_dataset)
+
+def create_dataset():
+    filtered_relations_path = os.path.join(RELATIONS_PATH, "../filtered_relations.csv")
+    df = pd.read_csv(filtered_relations_path)
+
+    # Remove Equivalent relations — keep only Support and Attack for binary classification
+    df = df[df['relation_class'] != "Equivalent"].reset_index(drop=True)
+
+    # Build subject and object pools: (year, source_unique_id, source_id, source_text)
+    df_subject = df[['year', 'source_unique_id', 'source_id', 'source_text']].values.tolist()
+    df_object = df[['year', 'target_unique_id', 'target_id', 'target_text']].values.tolist()
+
+    # Set of existing (source_unique_id, target_unique_id) pairs for fast deduplication
+    existing_pairs = set(zip(df['source_unique_id'], df['target_unique_id']))
 
     new_relations = []
 
-    while len(new_relations) < len(df_relations):
+    while len(new_relations) < len(df):
         arg_subject = random.choice(df_subject)
 
-        # Filter objects to match the same date
-        same_date_objects = [obj for obj in df_object if obj[0] == arg_subject[0]]
-        if not same_date_objects:
-            continue  # skip if no object with same date
-
-        arg_object = random.choice(same_date_objects)
-
-        # Skip if this pair exists in the original dataframe for the same date
-        if (arg_subject[1], arg_object[1], arg_subject[0]) in existing_pairs:
+        # Filter objects to match the same year (same debate context)
+        same_year_objects = [obj for obj in df_object if obj[0] == arg_subject[0]]
+        if not same_year_objects:
             continue
 
-        new_relation = {
-            "date": arg_subject[0],
-            "relation": False,
-            "relation_type": "no_relation",
-            "subject": arg_subject[1],
-            "subject_type": arg_subject[2],
-            "object": arg_object[1],
-            "object_type": arg_object[2],
-        }
+        arg_object = random.choice(same_year_objects)
 
-        new_relations.append(new_relation)
+        # Skip if this pair already exists as a real relation
+        if (arg_subject[1], arg_object[1]) in existing_pairs:
+            continue
 
-    df_relations = pd.concat([df_relations, pd.DataFrame(new_relations)], axis=0,
-                             ignore_index=True).dropna().reset_index(drop=True)
-    print("Dataframe with false relations: ", len(df_relations))
-    df_relations.to_csv("./data/relations/relations.csv", index=False)
+        new_relations.append({
+            "source_unique_id": arg_subject[1],
+            "target_unique_id": arg_object[1],
+            "source_id": arg_subject[2],
+            "target_id": arg_object[2],
+            "source_text": arg_subject[3],
+            "target_text": arg_object[3],
+            "relation_class": "no_relation",
+            "year": arg_subject[0]
+        })
 
-    dates = list(set(df_relations["date"].tolist()))
-    total = len(dates)
+    df = pd.concat([df, pd.DataFrame(new_relations)], axis=0, ignore_index=True).dropna().reset_index(drop=True)
+    print("Dataframe with fake relations: ", len(df))
+    df.to_csv(os.path.join(RELATIONS_PATH, "relations.csv"), index=False)
+
+def split_dataset():
+    relations_path = os.path.join(RELATIONS_PATH, "relations.csv")
+    df = pd.read_csv(relations_path)
+
+    years = list(set(df["year"].tolist()))
+    total = len(years)
     random.seed(123)
 
     train_size = int(total * 0.7)
     test_size = int(total * 0.2)
 
-    train = random.sample(dates, train_size)
-    remaining = [d for d in dates if d not in train]
+    train_years = random.sample(years, train_size)
+    remaining = [y for y in years if y not in train_years]
 
-    test = random.sample(remaining, test_size)
-    dev = [d for d in remaining if d not in test]
+    test_years = random.sample(remaining, test_size)
+    dev_years = [y for y in remaining if y not in test_years]
 
-    # convert to sets if needed
-    train_set = set(train)
-    test_set = set(test)
-    dev_set = set(dev)
+    train = df[df["year"].isin(train_years)].reset_index(drop=True)
+    test = df[df["year"].isin(test_years)].reset_index(drop=True)
+    dev = df[df["year"].isin(dev_years)].reset_index(drop=True)
 
-    print("Train dates:", len(train_set))
-    print("Test dates:", len(test_set))
-    print("Dev dates:", len(dev_set))
+    print("Train years:", len(train_years), "| rows:", len(train))
+    print("Test years:", len(test_years), "| rows:", len(test))
+    print("Dev years:", len(dev_years), "| rows:", len(dev))
 
-    train = df_relations[df_relations["date"].isin(train_set)]
-    test = df_relations[df_relations["date"].isin(test_set)]
-    dev = df_relations[df_relations["date"].isin(dev_set)]
+    train.to_csv(os.path.join(RELATIONS_PATH, "../train.csv"), index=False)
+    test.to_csv(os.path.join(RELATIONS_PATH, "../test.csv"), index=False)
+    dev.to_csv(os.path.join(RELATIONS_PATH, "../dev.csv"), index=False)
 
-    print("Len train:", len(train))
-    print("Len test:", len(test))
-    print("Len dev:", len(dev))
 
-    train.to_csv("data/relations/train.csv", index=False)
-    test.to_csv("data/relations/test.csv", index=False)
-    dev.to_csv("data/relations/dev.csv", index=False)
+if __name__ == '__main__':
+    extract_relations()
+    create_dataset()
+    split_dataset()
