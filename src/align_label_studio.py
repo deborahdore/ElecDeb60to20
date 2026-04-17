@@ -2,8 +2,8 @@ import pandas as pd
 
 if __name__ == '__main__':
 
-    df = pd.read_json("/Users/ddore/Downloads/7_1976.json")
-    ann_file = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/text/7_1976"
+    df = pd.read_json("/Users/ddore/Downloads/1_1960.json")
+    ann_file = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/txt/1_1960"
     read_file = [line.rstrip("\n") for line in open(f"{ann_file}.txt", "r", encoding="utf-8")]
 
     full_text = "\n".join(read_file) + "\n"
