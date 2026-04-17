@@ -1,3 +1,9 @@
+T1	Question 8 105	What measurement do you use, Mr. Kemp, in saying the economy is not growing the way it should be?
+T2	Claim 3101 3137	Jim the have-nots are not doing well
+T3	Question 3419 3639	Mr Vice President, Senator Dole raised the same question to President Clinton the other night about keeping promises made. What is your reaction to that? What is your response to that charge against you and the President
+T4	Claim 5134 5324	irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century
+T5	Premise 5060 5118	My friend Al Gore says it  's better than the Reagan years
+T6	Claim 5120 5128	It isn't
 T175	Claim 449 467	That's not America
 T385	Premise 143 254	it takes two bread winners to do what one breadwinner could have done just a relatively few short few years ago
 T386	Premise 256 447	As long as a woman or man wants to go to work it ought to be their choice, but in America today that woman or man must work in a family to, one to pay the tax and the other to help the family
@@ -60,7 +66,6 @@ T443	Claim 6020 6049	That'll happen under Bob Dole
 T444	Premise 6058 6169	We are demolishing the outdated projects that did not work and we're replacing them with new units that do work
 T445	Premise 6175 6329	we have private vouchers so that individuals can choose for themselves where they live and we're selling these units to many of those who want to buy them
 T446	Claim 6425 6524	we're going to do a lot more of it, if we have the opportunity with the help of the American people
-T1	Question 8 105	What measurement do you use, Mr. Kemp, in saying the economy is not growing the way it should be?
 R1	Support Arg1:T385 Arg2:T175
 R2	Support Arg1:T386 Arg2:T175
 R3	Equivalent Arg1:T394 Arg2:T175
@@ -83,13 +88,11 @@ R19	Support Arg1:T406 Arg2:T399
 R20	Attack Arg1:T409 Arg2:T407
 R21	Attack Arg1:T410 Arg2:T407
 R22	Attack Arg1:T408 Arg2:T399
-T2	Claim 3101 3137	Jim the have-nots are not doing well
 R23	Support Arg1:T2 Arg2:T408
 R24	Attack Arg1:T413 Arg2:T408
 R25	Support Arg1:T411 Arg2:T2
 R26	Support Arg1:T412 Arg2:T2
 R27	Support Arg1:T414 Arg2:T2
-T3	Question 3419 3639	Mr Vice President, Senator Dole raised the same question to President Clinton the other night about keeping promises made. What is your reaction to that? What is your response to that charge against you and the President
 R28	Support Arg1:T427 Arg2:T428
 R29	Support Arg1:T425 Arg2:T428
 R30	Support Arg1:T423 Arg2:T428
@@ -104,9 +107,6 @@ R38	Support Arg1:T416 Arg2:T428
 R39	Support Arg1:T415 Arg2:T428
 R40	Support Arg1:T429 Arg2:T428
 R41	Attack Arg1:T430 Arg2:T401
-T4	Claim 5134 5324	irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century
-T5	Premise 5060 5118	My friend Al Gore says it  's better than the Reagan years
-T6	Claim 5120 5128	It isn't
 R42	Attack Arg1:T6 Arg2:T5
 R43	Support Arg1:T432 Arg2:T4
 R44	Support Arg1:T433 Arg2:T4

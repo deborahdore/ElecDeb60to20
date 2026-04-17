@@ -1,3 +1,5 @@
+T1	Claim 2111 2137	I'm against price controls
+T2	Premise 1945 2014	Drug therapies are replacing a lot of medicines as we used to know it
 T59	Claim 515 631	I think one of the problems we have, particularly for seniors, is there is no prescription drug coverage in Medicare
 T60	Claim 796 875	I think step one to make sure prescription drugs is more affordable for seniors
 T61	Claim 881 1071	those are the folks who really rely upon prescription drugs a lot these days, is to reform the Medicare system, is to have prescription drugs as an integral part of Medicare once and for all
@@ -42,7 +44,6 @@ T100	Premise 3345 3386	Than they are on research and development
 T101	Claim 3778 3851	I propose a real prescription drug benefit under Medicare for all seniors
 T102	Claim 3891 3955	You pick your own doctor, and nobody can take that away from you
 T103	Claim 4044 4109	You go to your own pharmacy and then Medicare pays half the price
-T1	Claim 2111 2137	I'm against price controls
 R1	Support Arg1:T62 Arg2:T59
 R2	Attack Arg1:T60 Arg2:T62
 R3	Support Arg1:T60 Arg2:T61
@@ -53,7 +54,6 @@ R7	Support Arg1:T67 Arg2:T68
 R8	Support Arg1:T72 Arg2:T67
 R9	Support Arg1:T67 Arg2:T69
 R10	Support Arg1:T63 Arg2:T64
-T2	Premise 1945 2014	Drug therapies are replacing a lot of medicines as we used to know it
 R11	Support Arg1:T2 Arg2:T63
 R12	Support Arg1:T73 Arg2:T63
 R13	Support Arg1:T1 Arg2:T64

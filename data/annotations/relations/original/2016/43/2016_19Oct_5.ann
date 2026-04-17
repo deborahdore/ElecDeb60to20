@@ -1,4 +1,6 @@
+T1	Claim 2532 2564	No, you are the one that's unfit
 T261	Claim 1385 1390	Wrong
+T276	Premise 1752 1772	why does that matter
 T342	Premise 187 257	there is an effort led by the Iraqi army, supported by Kurdish forces,
 T343	Premise 267 360	given the help and advice from the number of special forces and other Americans on the ground
 T344	Claim 366 442	I will not support putting American soldiers into Iraq as an occupying force
@@ -35,7 +37,6 @@ T376	Claim 2884 2906	Which is a big mistake
 T377	Premise 2924 2967	he has campaigned for me around the country
 T378	Claim 2969 3056	you are the most dangerous person to run for president in the modern history of America
 T379	Claim 3058 3076	I think he's right
-T276	Premise 1752 1772	why does that matter
 R1	Support Arg1:T346 Arg2:T344
 R2	Support Arg1:T347 Arg2:T344
 R3	Support Arg1:T345 Arg2:T344
@@ -55,7 +56,6 @@ R16	Support Arg1:T348 Arg2:T354
 R17	Support Arg1:T369 Arg2:T355
 R18	Support Arg1:T372 Arg2:T371
 R19	Support Arg1:T373 Arg2:T374
-T1	Claim 2532 2564	No, you are the one that's unfit
 R20	Support Arg1:T374 Arg2:T1
 R21	Support Arg1:T371 Arg2:T1
 R22	Attack Arg1:T375 Arg2:T373

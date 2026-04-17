@@ -1,3 +1,5 @@
+T1	Premise 1148 1257	you've got your big companies that are in trouble, including the defense industries--have another one on that
+T2	Claim 3893 3959	We've got the plan announced for what we can do for small business
 T311	Claim 1450 1517	we have an adversarial relationship between government and business
 T312	Claim 1519 1672	Our international competitors that are cleaning our plate have an intelligent relationship between government and business, and a supportive relationship
 T313	Claim 446 573	the American people send me up there, the day after election, I'll get with congressional--we won't even wait till inauguration
@@ -99,9 +101,7 @@ R43	Support Arg1:T353 Arg2:T352
 R44	Support Arg1:T354 Arg2:T352
 R45	Support Arg1:T356 Arg2:T352
 R46	Support Arg1:T352 Arg2:T357
-T1	Premise 1148 1257	you've got your big companies that are in trouble, including the defense industries--have another one on that
 R4	Support Arg1:T320 Arg2:T311
 R6	Support Arg1:T312 Arg2:T311
-T2	Claim 3893 3959	We've got the plan announced for what we can do for small business
 R25	Support Arg1:T346 Arg2:T345
 R29	Support Arg1:T348 Arg2:T347

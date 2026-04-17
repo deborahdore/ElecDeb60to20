@@ -1,3 +1,6 @@
+T1	Claim 779 887	I've done my best tonight to lay out my plans for going forward to an even better future in the next century
+T2	Premise 1999 2032	I hope you will help me build it.
+T3	Premise 3182 3265	I know who I am, and I know where I'm from, and I know where I want to take America
 T1031	Claim 641 724	America is stronger and more prosperous and more secure than we were four years ago
 T1032	Claim 549 611	I've done my best to be faithful to the charge you've given me
 T1033	Premise 362 470	I am profoundly grateful for the chance that you have given me to serve as president for the last four years
@@ -38,7 +41,6 @@ R1	Support Arg1:T1033 Arg2:T1034
 R2	Support Arg1:T1034 Arg2:T1032
 R3	Support Arg1:T1032 Arg2:T1031
 R4	Support Arg1:T1031 Arg2:T1035
-T1	Claim 779 887	I've done my best tonight to lay out my plans for going forward to an even better future in the next century
 R5	Support Arg1:T1035 Arg2:T1
 R6	Support Arg1:T1037 Arg2:T1036
 R7	Support Arg1:T1038 Arg2:T1036
@@ -48,7 +50,6 @@ R10	Support Arg1:T1041 Arg2:T1036
 R11	Support Arg1:T1 Arg2:T1036
 R12	Support Arg1:T1036 Arg2:T1042
 R13	Support Arg1:T1043 Arg2:T1042
-T2	Premise 1999 2032	I hope you will help me build it.
 R14	Support Arg1:T2 Arg2:T1043
 R15	Support Arg1:T1058 Arg2:T1057
 R16	Support Arg1:T1059 Arg2:T1060
@@ -67,7 +68,6 @@ R28	Support Arg1:T1064 Arg2:T1065
 R29	Support Arg1:T1065 Arg2:T1066
 R30	Support Arg1:T1066 Arg2:T1061
 R31	Support Arg1:T1061 Arg2:T1054
-T3	Premise 3182 3265	I know who I am, and I know where I'm from, and I know where I want to take America
 R32	Support Arg1:T3 Arg2:T1055
 R33	Support Arg1:T1054 Arg2:T1055
 R34	Support Arg1:T1056 Arg2:T1055

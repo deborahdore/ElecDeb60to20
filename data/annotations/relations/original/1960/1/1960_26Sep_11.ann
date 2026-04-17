@@ -1,3 +1,6 @@
+T1	Claim 727 913	The test of whether America moves is whether the federal government, plus the state government, plus the local government, plus the biggest segment of all - individual enterprise - moves
+T2	Claim 1203 1242	the Eisenhower Administration has moved
+T3	Claim 1255 1359	that we've had the funds, for example, locally to build the schools, and the hospitals, and the highways
 T399	Claim 1622 1665	That is the growth that we are looking for;
 T400	Claim 1666 1760	it is the growth that this Administration has supported and that its policies have stimulated.
 T401	Claim 1606 1621	that is growth.
@@ -13,10 +16,7 @@ T411	Claim 2587 2780	I want to compare what we're doing with what our adversarie
 R1	Support Arg1:T403 Arg2:T402
 R3	Support Arg1:T410 Arg2:T407
 R4	Support Arg1:T408 Arg2:T407
-T1	Claim 727 913	The test of whether America moves is whether the federal government, plus the state government, plus the local government, plus the biggest segment of all - individual enterprise - moves
-T2	Claim 1203 1242	the Eisenhower Administration has moved
 R5	Support Arg1:T402 Arg2:T2
-T3	Claim 1255 1359	that we've had the funds, for example, locally to build the schools, and the hospitals, and the highways
 R6	Support Arg1:T3 Arg2:T2
 R2	Support Arg1:T2 Arg2:T401
 R7	Attack Arg1:T404 Arg2:T402

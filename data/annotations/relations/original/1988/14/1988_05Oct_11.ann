@@ -1,3 +1,5 @@
+T1	Premise 875 900	which burns a lot cleaner
+T2	Premise 906 1100	what Mike Dukakis has said is that he'll try to break down those regulatory roadblocks that you have in the regulatory agency that denies much of the passage of that natural gas to the northeast
 T3	Claim 771 873	I think what you can do in that one, and which would be very helpful, is to use a lot more natural gas
 T4	Claim 1234 1376	it's interesting to me to see in the resume of Senator Quayle that he brags on the fact that he's been able to fight the acid rain legislation
 T5	Claim 1378 1461	I don't think that that's a proper objective in trying to clean up this environment
@@ -38,11 +40,9 @@ T43	Claim 2882 2954	there are some explorations and things that we can consider 
 T44	Premise 2956 3004	The drought highlighted the problem that we have
 T45	Claim 3021 3046	we need to get on with it
 T46	Claim 3052 3109	in a George Bush Administration, you can bet that we will
-T1	Premise 875 900	which burns a lot cleaner
-R1	Support Arg1:T1 Arg2:T3
-T2	Premise 906 1100	what Mike Dukakis has said is that he'll try to break down those regulatory roadblocks that you have in the regulatory agency that denies much of the passage of that natural gas to the northeast
 T47	Premise 1102 1169	a way, in turn, can fight against acid rain which is another threat
 T48	Premise 1179 1228	it's sterilizing our lakes, it's killing our fish
+R1	Support Arg1:T1 Arg2:T3
 R2	Support Arg1:T2 Arg2:T3
 R3	Support Arg1:T47 Arg2:T2
 R4	Support Arg1:T48 Arg2:T47

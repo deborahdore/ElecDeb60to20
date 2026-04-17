@@ -1,3 +1,5 @@
+T1	Premise 4033 4042	He didn't
+T2	Claim 3705 3728	they'd be there with us
 T193	Claim 613 711	I've made some decisions that have caused people to not understand the great values of our country
 T194	Premise 578 595	I love our values
 T195	Premise 713 760	I remember when Ronald Reagan was the president
@@ -66,7 +68,6 @@ T258	Premise 4721 4803	You rely on good military people to execute the military 
 T259	Premise 4871 4983	General Shinseki had the wisdom to say, "You're going to need several hundred thousand troops to win the peace."
 T260	Premise 4984 5020	The military's job is to win the war
 T261	Premise 5023 5060	A president's job is to win the peace
-T1	Premise 4033 4042	He didn't
 R1	Attack Arg1:T193 Arg2:T194
 R2	Support Arg1:T195 Arg2:T196
 R3	Support Arg1:T196 Arg2:T197
@@ -101,7 +102,6 @@ R31	Support Arg1:T228 Arg2:T229
 R32	Support Arg1:T229 Arg2:T230
 R33	Support Arg1:T231 Arg2:T232
 R34	Support Arg1:T232 Arg2:T233
-T2	Claim 3705 3728	they'd be there with us
 R35	Support Arg1:T235 Arg2:T236
 R36	Support Arg1:T236 Arg2:T237
 R37	Support Arg1:T237 Arg2:T2

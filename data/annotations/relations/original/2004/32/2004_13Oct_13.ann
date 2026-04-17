@@ -1,3 +1,4 @@
+T1	Premise 4670 4734	If you're a Christian, Jew or Muslim, you're equally an American
 T786	Claim 334 368	we have not moved far enough along
 T787	Claim 374 475	I regret to say that this administration has even blocked steps that could help us move further along
 T788	Claim 1184 1221	I think that we have a long way to go
@@ -88,7 +89,6 @@ R24	Support Arg1:T796 Arg2:T787
 R25	Support Arg1:T831 Arg2:T830
 R26	Support Arg1:T832 Arg2:T833
 R27	Support Arg1:T830 Arg2:T833
-T1	Premise 4670 4734	If you're a Christian, Jew or Muslim, you're equally an American
 R28	Support Arg1:T1 Arg2:T833
 R29	Attack Arg1:T836 Arg2:T829
 R30	Support Arg1:T827 Arg2:T835

@@ -1,3 +1,5 @@
+T1	Claim 1192 1298	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps
+T2	Premise 2522 2611	Certainly we care about the people, we care about the children, we care about the tragedy
 T508	Premise 427 459	I learned something from Vietnam
 T509	Premise 351 395	both of them are very complicated situations
 T510	Claim 461 619	I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out
@@ -75,7 +77,5 @@ R33	Support Arg1:T550 Arg2:T546
 R34	Support Arg1:T549 Arg2:T546
 R35	Support Arg1:T553 Arg2:T546
 R36	Attack Arg1:T514 Arg2:T511
-T1	Claim 1192 1298	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps
-T2	Premise 2522 2611	Certainly we care about the people, we care about the children, we care about the tragedy
 R18	Attack Arg1:T535 Arg2:T2
 R19	Support Arg1:T531 Arg2:T529

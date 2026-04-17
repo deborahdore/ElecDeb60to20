@@ -1,3 +1,5 @@
+T1	Claim 1022 1127	I also believe we need an agricultural policy which doesn't cost us 15 to 20 to 25 billion dollars a year
+T2	Claim 1133 1227	it's been costing us over the course of the past three or four years under this administration
 T811	Claim 560 624	I think we have to go to work on the problem of Third World debt
 T812	Claim 1229 1286	I think it's going to require good, solid credit policies
 T813	Claim 2450 2601	in the sense that we can work to help Mexico rebuild and expand and deal with these very serious economic problems we help our farmers at the same time
@@ -32,8 +34,6 @@ R1	Support Arg1:T811 Arg2:T816
 R2	Support Arg1:T816 Arg2:T817
 R3	Support Arg1:T817 Arg2:T818
 R4	Support Arg1:T820 Arg2:T812
-T1	Claim 1022 1127	I also believe we need an agricultural policy which doesn't cost us 15 to 20 to 25 billion dollars a year
-T2	Claim 1133 1227	it's been costing us over the course of the past three or four years under this administration
 R5	Support Arg1:T818 Arg2:T1
 R6	Attack Arg1:T1 Arg2:T2
 R7	Support Arg1:T812 Arg2:T1

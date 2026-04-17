@@ -53,9 +53,9 @@ T52	Premise 5677 5701	if we're a humble nation
 T53	Claim 5702 5720	they'll respect us
 T54	Claim 5758 5775	I agree with that
 T55	Claim 5777 5794	I agree with that
+T56	Premise 5809 6070	one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway. That there is some resentment of U.S. power
 T57	Claim 6075 6128	I think that the idea of humility is an important one
 T58	Claim 6134 6199	I think that we also have to have a sense of mission in the world
-T56	Premise 5809 6070	one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway. That there is some resentment of U.S. power
 T59	Claim 6201 6273	We have to protect our capacity to push forward what America's all about
 T60	Claim 6286 6369	not only military strength and our values, it also means keeping our economy strong
 T61	Premise 6381 6620	in the last, or two decades ago, it was routine for leaders of foreign countries to come over here and say you guys have got to do something about these horrendous deficits because it's causing tremendous problems for the rest of the world
@@ -71,8 +71,8 @@ T70	Premise 7251 7329	that the money wouldn't go into the hands of a few but wou
 T71	Claim 7331 7467	I think it makes sense for us to use our wealth in that way, or to trade debt for valuable rain forest lands, makes that much sense, yes
 T72	Claim 7616 7661	We can lend money but we have to do it wisely
 T73	Premise 7663 7713	We shouldn't be lending money to corrupt officials
-T75	Claim 7469 7535	We do have an obligation, but we can't be all things to all people
 T74	Premise 7537 7565	We can help build coalitions
+T75	Claim 7469 7535	We do have an obligation, but we can't be all things to all people
 T76	Premise 7570 7614	we can't put our troops all around the world
 T77	Claim 7718 7756	we got to be guarded in our generosity
 T78	Claim 8071 8174	The first priority has to be on ending the violence, dampening down the tensions that have arisen there
@@ -94,6 +94,7 @@ T93	Premise 9664 9740	I appreciate the way the administration has worked hard to
 T94	Claim 9841 9923	I think credibility is going to be very important in the future in the Middle East
 T95	Claim 9950 10007	should I be the president Israel's going to be our friend
 T96	Claim 10009 10037	I'm going to stand by Israel
+T97	Premise 57373 57436	even though no state wants them, there are guns in some schools
 T98	Premise 9767 9839	I call on Chairman Arafat to have his people pull back to make the peace
 T99	Claim 10054 10162	I think it's important to reach out to moderate Arab nations, like Jordan and Egypt, Saudi Arabia and Kuwait
 T100	Premise 10164 10291	It's important to be friends with people when you don't need each other so that when you do there's a strong bond of friendship
@@ -102,13 +103,14 @@ T102	Premise 10522 10554	The sanctions are being violated
 T103	Premise 10556 10621	We don't know whether he's developing weapons of mass destruction
 T104	Claim 10643 10702	there's going to be a consequence should I be the president
 T105	Premise 10623 10639	He better not be
+T106	Claim 57453 57498	it's so difficult for schools to control that
 T107	Claim 10297 10431	that's going to be particularly important in dealing not only with situations such as now occurring in Israel, but with Saddam Hussein
 T108	Claim 10708 10742	it's important to have credibility
 T109	Claim 10747 10837	credibility is formed by being strong with your friends and resolute in your determination
 T110	Claim 10862 10997	I think it's important for this nation to develop an anti-ballistic missile system that we can share with our allies in the Middle East
+T111	Claim 11134 11207	It's also important to keep strong ties in the Middle East, credible ties
 T112	Premise 10998 11026	if need be to keep the peace
 T113	Premise 11027 11132	to be able to say to the Saddam Husseinâ€™s of the world or the Iranians, don't dare threaten our friends
-T111	Claim 11134 11207	It's also important to keep strong ties in the Middle East, credible ties
 T114	Premise 11209 11250	because of the energy crisis we're now in
 T115	Premise 11263 11315	a lot of the energy is produced from the Middle East
 T116	Claim 11734 11754	we stand with Israel
@@ -260,6 +262,7 @@ T261	Claim 25163 25192	as is Europe and the Far East
 T262	Premise 25194 25212	our own hemisphere
 T263	Premise 25141 25161	for a lot of reasons
 T264	Claim 25218 25276	those are my four top priorities should I be the president
+T265	Premise 57510 57643	in recent years there has been a flood of cheap handguns that are so widely available that kids are finding ways to get ahold of them
 T266	Claim 25547 25578	I thought that was a good model
 T267	Claim 25848 25884	I wouldn't have sent troops to Haiti
 T268	Claim 25886 25928	I didn't think it was a mission worthwhile
@@ -618,15 +621,12 @@ T620	Claim 56829 56862	I also believe in the Golden Rule
 T621	Premise 56868 56933	I agree with a lot of the other things that the governor has said
 T622	Claim 56935 56978	We do have a serious problem in our culture
 T623	Claim 57148 57204	if I'm elected president, I will do something about that
+T624	Claim 57863 57973	we do need some common sense gun safety steps to stem this flood of guns that are getting into the wrong hands
 T625	Premise 56980 57066	Tipper and I have worked on the problem of violence in entertainment aimed at children
 T626	Premise 57068 57105	She's worked on it longer than I have
 T627	Premise 57111 57142	I feel very strongly about that
 T628	Claim 57229 57275	I think we have to start with better parenting
 T629	Claim 57281 57337	I don't think that we can ignore the role played by guns
-T97	Premise 57373 57436	even though no state wants them, there are guns in some schools
-T106	Claim 57453 57498	it's so difficult for schools to control that
-T265	Premise 57510 57643	in recent years there has been a flood of cheap handguns that are so widely available that kids are finding ways to get ahold of them
-T624	Claim 57863 57973	we do need some common sense gun safety steps to stem this flood of guns that are getting into the wrong hands
 T630	Premise 57662 57772	if you look at the situation as it exists here in the United States compared to any other country in the world
 T631	Claim 58016 58068	there also needs to be strong enforcement of the law
 T632	Claim 58342 58353	We're tough
@@ -893,8 +893,8 @@ T892	Claim 84854 84964	I think anybody would have a hard time explaining that cl
 T893	Claim 84629 84852	I think the point of that is that anybody would have a hard time trying to make a tax cut plan that is so large, that would put us into such big deficits, that gives almost half the benefits to the wealthiest of the wealthy
 T894	Premise 84973 85029	That's the kind of exaggeration I was just talking about
 T895	Premise 85055 85100	I wasn't the one having trouble explaining it
-T897	Claim 85482 85517	education is my number one priority
 T896	Claim 85527 85613	I think that it's the most important big major change that we can bring in our country
+T897	Claim 85482 85517	education is my number one priority
 T898	Premise 85382 85407	This race is about values
 T899	Premise 85409 85426	it's about change
 T900	Premise 85428 85476	it's about giving choices to the American people

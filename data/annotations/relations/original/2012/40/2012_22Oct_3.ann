@@ -1,3 +1,4 @@
+T1	Claim 8804 8852	that's undermining our long-term competitiveness
 T252	Claim 324 497	I absolutely believe that America has a -- a responsibility, and the privilege of helping defend freedom and promote the principles that -- that make the world more peaceful
 T253	Claim 503 606	those principles include human rights, human dignity, free enterprise, freedom of expression, elections
 T254	Premise 616 671	when there are elections, people tend to vote for peace
@@ -212,7 +213,6 @@ R87	Support Arg1:T351 Arg2:T350
 R88	Attack Arg1:T349 Arg2:T350
 R89	Support Arg1:T345 Arg2:T348
 R90	Support Arg1:T356 Arg2:T348
-T1	Claim 8804 8852	that's undermining our long-term competitiveness
 R91	Support Arg1:T358 Arg2:T1
 R92	Attack Arg1:T348 Arg2:T1
 R93	Attack Arg1:T359 Arg2:T1

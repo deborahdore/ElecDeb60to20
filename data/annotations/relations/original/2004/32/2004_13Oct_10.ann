@@ -1,3 +1,7 @@
+T1	Claim 6552 6592	we've got to make sure they get educated
+T2	Claim 362 429	this is one of those issues that separates the president and myself
+T3	Premise 3221 3316	I remember a lady in Houston, Texas, told me, "Reading is the new civil right," and she's right
+T4	Premise 4523 4563	the president didn't answer the question
 T630	Claim 297 345	It's long overdue time to raise the minimum wage
 T631	Premise 432 497	We have fought to try to raise the minimum wage in the last years
 T632	Claim 503 588	the Republican leadership of the House and Senate won't even let us have a vote on it
@@ -77,8 +81,6 @@ T707	Premise 6934 7023	certainly not so that the wealthiest people in America ca
 T708	Premise 6899 6928	That's not in my value system
 T709	Premise 7026 7081	$89 billion last year to the top 1 percent of Americans
 T710	Premise 7087 7124	kids lost their after-school programs
-T1	Claim 6552 6592	we've got to make sure they get educated
-T2	Claim 362 429	this is one of those issues that separates the president and myself
 R1	Support Arg1:T631 Arg2:T2
 R2	Support Arg1:T632 Arg2:T2
 R3	Support Arg1:T633 Arg2:T632
@@ -100,7 +102,6 @@ R18	Support Arg1:T666 Arg2:T659
 R19	Support Arg1:T669 Arg2:T671
 R20	Support Arg1:T671 Arg2:T666
 R21	Support Arg1:T668 Arg2:T671
-T3	Premise 3221 3316	I remember a lady in Houston, Texas, told me, "Reading is the new civil right," and she's right
 R22	Support Arg1:T3 Arg2:T672
 R23	Support Arg1:T659 Arg2:T672
 R24	Support Arg1:T672 Arg2:T657
@@ -108,7 +109,6 @@ R25	Support Arg1:T653 Arg2:T657
 R26	Support Arg1:T654 Arg2:T657
 R27	Support Arg1:T655 Arg2:T657
 R28	Support Arg1:T658 Arg2:T657
-T4	Premise 4523 4563	the president didn't answer the question
 R29	Attack Arg1:T4 Arg2:T677
 R30	Equivalent Arg1:T675 Arg2:T677
 R31	Support Arg1:T681 Arg2:T680

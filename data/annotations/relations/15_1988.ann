@@ -6,11 +6,14 @@ T5	Premise 1208 1237	We've done so in my own state
 T6	Premise 1271 1343	we have had the biggest drop in crime of any industrial state in America
 T7	Claim 1420 1453	we have work to do in this nation
 T8	Claim 1455 1525	We have work to do to fight a real war, not a phony war, against drugs
+T9	Premise 1641 1709	the Vice President has been at least allegedly in charge of that war
 T10	Premise 1711 1749	We have much to do to step up that war
 T11	Premise 1751 1798	to double the number of drug enforcement agents
 T12	Premise 1800 1829	to fight both here and abroad
 T13	Premise 1831 1876	to work with our neighbors in this hemisphere
+T14	Premise 1349 1414	we have the lowest murder rate of any industrial state in America
 T15	Claim 1992 2056	we also have to deal with drug education prevention here at home
+T16	Claim 24607 24726	there's no way that we can build all of the weapons the Vice President says he wants to build within the defense budget
 T17	Premise 2160 2199	We've had great success in my own state
 T18	Premise 2205 2358	we've reached out to young people and their families and been able to help them by beginning drug education and prevention in the early elementary grades
 T19	Claim 2415 2461	we can do so in a way that marshals our forces
@@ -18,7 +21,9 @@ T20	Claim 2579 2639	do it in a way which will bring down violence in this nation
 T21	Claim 2641 2689	will help our youngsters to stay away from drugs
 T22	Claim 2691 2756	will stop this avalanche of drugs that's pouring into the country
 T23	Claim 2762 2868	will make it possible for our kids and our families to grow up in safe and secure and decent neighborhoods
+T24	Premise 6140 6188	The Vice President talks about national security
 T25	Premise 3397 3521	I'm glad that the Congress moved on this drug bill and have finally called for that related to these narcotics drug kingpins
+T26	Claim 3301 3334	I do believe in the death penalty
 T27	Claim 4116 4142	I'd have confidence in him
 T28	Claim 4148 4171	I made a good selection
 T29	Premise 4177 4266	I've never seen such a pounding, an unfair pounding, on a young Senator in my entire life
@@ -58,7 +63,6 @@ T62	Premise 7079 7107	yes, some taxes have gone up
 T63	Premise 7157 7237	yet income is up to the Federal Government by 25 percent in the last three years
 T64	Claim 7246 7292	what I want to do is keep this expansion going
 T65	Claim 7294 7339	I don't want to kill it off by a tax increase
-T24	Premise 6140 6188	The Vice President talks about national security
 T66	Claim 2363 2384	we can fight this war
 T67	Claim 2390 2409	we can win this war
 T68	Premise 7341 7460	More Americans at work today than at any time in the history of the country, and a greater percentage of the work force
@@ -69,6 +73,8 @@ T72	Claim 7567 7612	what I have proposed is something much better
 T73	Claim 7618 7671	it's going to take discipline of the executive branch
 T74	Claim 7673 7730	it's going to take discipline of the congressional branch
 T75	Premise 7736 7890	that is what I call a flexible freeze that allows growth about 4 percent or the rate of inflation but does not permit the Congress just to add on spending
+T76	Premise 11249 11274	if we work together on it
+T77	Premise 11280 11360	if you have a president that will work with the Congress and the American people
 T78	Premise 8452 8487	the Vice President made that pledge
 T79	Premise 8489 8540	He's broken it three times in the past year already
 T80	Claim 8545 8585	it isn't worth the paper it's printed on
@@ -97,6 +103,7 @@ T102	Claim 10902 10947	we are going to put the IRS on every taxpayer
 T103	Claim 10949 10983	That's not what we are going to do
 T104	Premise 10985 11020	I'm for the taxpayer bill of rights
 T105	Claim 11026 11234	I think it's unconscionable, Ann, that we should be talking or thinking about imposing new taxes on average Americans when there are billions out there, over $100 billion, in taxes owed that aren't being paid
+T106	Claim 11362 11431	we can bring that deficit down steadily, $20, $25, $30 billion a year
 T107	Claim 11718 11844	We can do all of those things, and at the same time build a future in which we are standing on a good strong fiscal foundation
 T108	Claim 11922 12024	if you give any of us $200 billion worth of hot checks a year, we can create an illusion of prosperity
 T109	Claim 12030 12092	sooner or later that credit card mentality isn't going to work
@@ -121,6 +128,7 @@ T127	Claim 14186 14264	The American public admired your performance, but didn't 
 T128	Premise 14271 14349	Ronald Reagan has found his personal warmth to be a tremendous political asset
 T129	Claim 14500 14547	I didn't raid the pension fund of Massachusetts
 T130	Premise 14616 14693	I'm the first governor in the history of my state to fund that pension system
+T131	Premise 15753 15803	you said, well, maybe as a last resort we'll do it
 T132	Premise 14734 14779	I have been in politics for twenty-five years
 T133	Premise 14791 14818	I've won a lot of elections
 T134	Premise 14820 14879	I've lost a few, as you know, and learned from those losses
@@ -188,10 +196,13 @@ T195	Claim 20994 21001	I don't
 T196	Claim 21003 21034	I think this is a great country
 T197	Premise 21044 21130	we've always wanted to do better, to make our country better, to make our lives better
 T198	Premise 21132 21210	We've always been a nation which was ambitious for America and we move forward
-T200	Claim 21251 21298	That's the kind of leadership I want to provide
 T199	Claim 21216 21249	that's the kind of America I want
+T200	Claim 21251 21298	That's the kind of leadership I want to provide
 T201	Claim 21304 21343	I don't think these labels mean a thing
+T202	Premise 22419 22528	If I knew of three new weapons systems that I thought were purely waste and weren't protected by the Congress
+T203	Premise 23015 23061	it's not quite ready to be totally implemented
 T204	Claim 21556 21579;21586 21615	the heart of the matter is the future of this country
+T205	Premise 21999 22211	Pentagon officials tell us that there is not enough money in the budget to handle military readiness, preparedness, as well as new weapons systems that have been proposed, as well as those already in the pipeline
 T206	Claim 22530 22560	they wouldn't be in the budget
 T207	Premise 22617 22809	I'll give you one, that HMET, that heavy truck, that's cost what is it $850 million and the Pentagon didn't request it and, yet, a member of Congress, a very powerful one, put it in the budget
 T208	Claim 22811 22947	I think we can save money through this whole very sophisticated concept, Andrea, that I know you do understand of competitive strategies
@@ -211,9 +222,6 @@ T221	Premise 23658 23688	we are protecting both of them
 T222	Claim 24010 24039	We have to have modernization
 T223	Claim 24211 24272	I believe we can have the strongest and best defense possible
 T224	Claim 1564 1627	something we haven't had over the course of the past many years
-T9	Premise 1641 1709	the Vice President has been at least allegedly in charge of that war
-T14	Premise 1349 1414	we have the lowest murder rate of any industrial state in America
-T16	Claim 24607 24726	there's no way that we can build all of the weapons the Vice President says he wants to build within the defense budget
 T225	Premise 24458 24546	we've just had another example of why the Vice President's mathematics just don't add up
 T226	Claim 25045 25139	We are not going to spend the billions and trillions that Mr. Bush wants to spend on Star Wars
 T227	Claim 25141 25199	We're not going to spend billions on MX's on railroad cars
@@ -305,17 +313,20 @@ T312	Premise 36623 36640	I believe in them
 T313	Premise 36642 36669	I think you believe in them
 T314	Claim 36671 36696	They're not left or right
 T315	Claim 36698 36728	They're decent American values
+T316	Premise 36267 36344	values like family and education and community, decent homes for young people
 T317	Premise 36742 36844	one thing that concerns me about this, Ann, is this attempt to label things which all of us believe in
 T318	Premise 36846 36878	We may have different approaches
 T319	Premise 36880 36934	We may think that you deal with them in different ways
 T320	Claim 36940 36966	they're basically American
 T321	Claim 37198 37247	I think the American people would appreciate that
 T322	Claim 37460 37551	you regard abortion as murder, yet you would make exceptions in the case of rape and incest
+T323	Premise 72530 72828	every defense expert I know, including people in the Pentagon itself, will tell you that given the level of defense spending and the level of defense appropriations which the Congress has now approved and the president has signed, there's no way that you can do all of these things and do them well
 T324	Claim 38729 38808	I don't think that you make an exception based on medical knowledge at the time
+T325	Premise 38818 38851	human life is very, very precious
 T326	Premise 38053 38117	Barb and I lost a child, you know that we lost a daughter, Robin
 T327	Premise 38119 38197	I was over running records in west Texas, and I got a call from her, come home
-T329	Premise 38425 38534	Thanks to the miraculous sacrifice of doctors and nurses, the child stayed alive for six months and then died
 T328	Premise 38536 38720	If that child were here today, and I was told the same thing, my granddaughter, Noel for example that child could stay alive for ten or fifteen years, or maybe for the rest of her life
+T329	Premise 38425 38534	Thanks to the miraculous sacrifice of doctors and nurses, the child stayed alive for six months and then died
 T330	Premise 38950 39167	when I was in that little church across the river from Washington and saw our grandchild christened in our faith, I was very pleased indeed that the mother had not aborted that child, and put the child up for adoption
 T331	Premise 39176 39217	I just feel this is where I'm coming from
 T332	Claim 39243 39300	I don't assail him on that issue, or others on that issue
@@ -336,7 +347,6 @@ T346	Premise 43226 43274	I hope that we can begin to move those resources
 T347	Claim 43276 43310	It's not going to happen overnight
 T348	Premise 43312 43444	it certainly will have to happen on a step-by-step basis as we make progress in arms negotiation and arms control and arms reduction
 T349	Claim 43450 43510	it certainly ought to be the long-term goal of all Americans
-T26	Claim 3301 3334	I do believe in the death penalty
 T350	Claim 3340 3365	I think it is a deterrent
 T351	Claim 3371 3391	I believe we need it
 T352	Premise 3140 3269	some crimes are so heinous, so brutal, so outrageous, and I'd say particularly those that result in the death of a police officer
@@ -352,10 +362,10 @@ T361	Premise 44238 44346	while the President is negotiating with the Soviet Unio
 T362	Claim 44352 44436	I think those that advocated the freeze missed the point that there was a better way
 T363	Premise 44504 44584	The Soviets take out more than we do and the principle of intrusive verification
 T364	Premise 44590 44683;44717 44781	those two principles can now be applied to conventional forces, to strategic forces, provided We don't give away our hand before we sit down at the head table
+T365	Premise 46044 46115	We'll lose it when it's taken out of our paycheck before we even get it
 T366	Claim 46014 46042	We don't have an alternative
 T367	Claim 45791 45810	Fm going to have to
 T368	Premise 45819 45966	we have had not one but two detailed studies which indicate that there are billions and billions of dollars to be collected that are not being paid
-T365	Premise 46044 46115	We'll lose it when it's taken out of our paycheck before we even get it
 T369	Premise 46121 46251	it's the Internal Revenue Service which estimates now that we aren't collecting $100 billion or more in taxes owed in this country
 T370	Claim 46257 46321	that is just absolutely unfair to the vast majority of Americans
 T371	Premise 46364 46470	The Dorgan Task Force, which included two internal revenue commissioners, one a Republican, one a Democrat
@@ -372,6 +382,8 @@ T381	Premise 47367 47426	I'm happy to join Jim Baker in saying that we agree on 
 T382	Premise 47576 47722	the Dorgan Task Force, the bipartisan task force estimated that we could collect about $35 billion in the fifth year, $105 billion over five years
 T383	Premise 47724 47759	the other study even more than that
 T384	Claim 47791 47813	that's where you begin
+T385	Premise 49814 49906	the President took the leadership working with the Democrats and the Republicans in Congress
+T386	Premise 49907 50011	some tough calls were made and the Social Security Trust Fund was put back into sound, solvent condition
 T387	Claim 48228 48278	I believe we can keep this longest expansion going
 T388	Claim 48280 48420	I was not out there when that stock market dropped wringing my hands and saying this was the end of the world as some political leaders were
 T389	Premise 48430 48459	it isn't the end of the world
@@ -473,7 +485,11 @@ T484	Premise 58934 59074	I don't want to see the Federal Government saying to co
 T485	Premise 59076 59094	I want flexibility
 T486	Premise 59170 59286	You ought to go out and see around this country what's happening in the volunteer section: Americans helping America
 T487	Claim 59292 59355	I want to keep it alive in child care and in other entitlements
+T488	Premise 61263 61476	which provide a basic floor of income and a modest amount of medical care for the elderly, the disabled, for people who can't make their way on their own, and in many cases, have given a great deal to this country
+T489	Premise 63539 63578	the agricultural economy is coming back
+T490	Claim 66660 66727	I don't know which George Bush I'm talking about here or looking at
 T491	Claim 59914 59941	That is absolutely not true
+T492	Premise 66875 66949	or the one we've been seeing and listening to the past two or three months
 T493	Claim 60004 60031	That is absolutely not true
 T494	Claim 60033 60088	It had nothing to do with the debate on Social Security
 T495	Claim 60090 60197	It had to do with the discussion we had had the previous day on the overall question of reducing the budget
@@ -515,9 +531,9 @@ T530	Premise 63155 63194	We ought to have rural enterprise zones
 T531	Premise 63196 63346	We ought to move forward swiftly on my ideas of ethanol which would use more corn, and therefore, create a bigger market for our agricultural products
 T532	Claim 63498 63530	The farm payments are going down
 T533	Claim 63745 63801;63829 63864	You have said in this campaign, I am an environmentalist having zero tolerance for polluters
+T534	Premise 64086 64191	you urged suspension of rules requiring industries to treat toxic waste before discharging them in sewers
 T535	Claim 63874 63916	your record does seem to suggest otherwise
 T536	Premise 63918 64074	When you were head of the President's task force on regulatory relief, you did urge EPA to relax regulations involving the elimination of lead from gasoline
-T534	Premise 64086 64191	you urged suspension of rules requiring industries to treat toxic waste before discharging them in sewers
 T537	Premise 64197 64324	your group also urged OSHA to weaken the regulations requiring that workers be informed of dangerous chemicals at the work site
 T538	Premise 64345 64404	you did support the President's veto of the Clean Water Act
 T539	Premise 64500 64584	90 percent reductions in lead since I chaired that regulatory task force; 90 percent
@@ -599,6 +615,7 @@ T614	Claim 72222 72269	I think we ought to be looking at modernization
 T615	Claim 72271 72341	I think we ought to be exploring less expensive ways to get it on land
 T616	Claim 72347 72436	we ought to make sure that we have an effective and strong and credible nuclear deterrent
 T617	Claim 72442 72524	we also need well-equipped and well-trained and well-supported conventional forces
+T618	Claim 75951 76037	too much priority has been put on new weapons programs, not enough on current programs
 T619	Claim 72830 72871	That's why tough choices will be required
 T620	Claim 72873 72902	choices I am prepared to make
 T621	Claim 72904 72936	Mr. Bush is not prepared to make
@@ -628,6 +645,7 @@ T644	Claim 75171 75197	That wouldn't have stopped
 T645	Claim 75350 75404	the policy in Central America, regrettably, has failed
 T646	Premise 75498 75564	Those Sandinistas came in and betrayed the trust of the revolution
 T647	Premise 75566 75598	they said it was about democracy
+T648	Claim 80547 80569	I've got a good record
 T649	Claim 76416 76463	This is another example of misplaced priorities
 T650	Premise 76465 76561	An administration which wants to billions on weapons systems that we don't need and can't afford
 T651	Premise 76567 76611	now confronts us with a very serious problem
@@ -669,7 +687,6 @@ T690	Claim 80300 80338	I will do my level best to clean it up
 T691	Claim 80357 80385	you can't legislate morality
 T692	Premise 80575 80752	there are more, if you want to talk about percentage appointments, more Members of Congress who have been under investigation percentage-wise that people in the executive branch
 T693	Claim 80761 80817	it isn't one and state governments have had a tough time
-T648	Claim 80547 80569	I've got a good record
 T694	Premise 80409 80540	with my record in Congress, having led the new Congressmen to a code of ethics through major main emphasis on it in full disclosure
 T695	Premise 80823 80885	some of his college presidents aren't exactly holier than thou
 T696	Claim 81154 81205	integrity is not a Republican or a Democratic issue
@@ -722,7 +739,6 @@ T742	Premise 86236 86321	Working together, we can do wonderful things for the Un
 T743	Premise 85747 86018	I'd love to be able to say to my grandchildren, four years after my first term, I'd like to say, your grandfather, working with the leaders of the Soviet Union, working with the leaders of Europe, was able to ban chemical and biological weapons from the face of the earth
 T744	Premise 18771 18874	you know three months ago, I remember some of the great publications in this country had written me off
 T745	Premise 23897 23923	They continue to modernize
-T325	Premise 38818 38851	human life is very, very precious
 T746	Premise 48208 48223	I am optimistic
 T747	Claim 1882 1986	I want to call a hemispheric summit just as soon after the 20th of January as possible to fight that war
 T748	Claim 2463 2573	that provides real support for state and local law enforcement officers who have not been getting that support
@@ -730,15 +746,11 @@ T749	Premise 4386 4407	never seen one before
 T750	Claim 4867 4893	we need that kind of thing
 T751	Premise 5707 5722	I'm proud of it
 T752	Premise 7132 7151	taxes have been cut
-T76	Premise 11249 11274	if we work together on it
-T77	Premise 11280 11360	if you have a president that will work with the Congress and the American people
-T106	Claim 11362 11431	we can bring that deficit down steadily, $20, $25, $30 billion a year
 T753	Claim 11433 11454	build economic growth
 T754	Claim 11456 11494	build a good strong future for America
 T755	Claim 11496 11716	invest in those things which we must invest in economic development, good jobs, good schools for our kids, college opportunity for young people, decent health care and affordable housing, and a clean and safe environment
 T756	Claim 14548 14566	you are dead wrong
 T757	Claim 14576 14593	we didn't do that
-T131	Premise 15753 15803	you said, well, maybe as a last resort we'll do it
 T758	Claim 16570 16672	at the same time will do it in a way which will achieve the goals we want for ourselves and our people
 T759	Premise 16709 16729	a good strong future
 T760	Premise 16731 16793	a future in which there is opportunity for all of our citizens
@@ -749,8 +761,6 @@ T764	Premise 19406 19492	I didn't have to hear all the personal attacks on me ou
 T765	Claim 19665 19783	I am not going to let Governor Dukakis go through this election without explaining some of these very liberal position
 T766	Premise 20872 20916	thinks we ought to stick with the status quo
 T767	Premise 20918 20992	doesn't think we ought to move ahead, thinking things are okay as they are
-T202	Premise 22419 22528	If I knew of three new weapons systems that I thought were purely waste and weren't protected by the Congress
-T203	Premise 23015 23061	it's not quite ready to be totally implemented
 T768	Premise 24052 24165	if we achieve the 50 percent reduction in strategic weapons that our President is taking the leadership to attain
 T769	Premise 24273 24288	if we modernize
 T770	Premise 24290 24334	if we go forward with competitive strategies
@@ -767,7 +777,6 @@ T780	Claim 32943 32991	there's nothing corny about having sports heroes
 T781	Premise 32993 33065	young people that are clean and honorable and out there setting the pace
 T782	Premise 34302 34409	we saw the Governor and his son on television the night before and his family, and his mother who was there
 T783	Premise 34674 34699	we've got a strong family
-T316	Premise 36267 36344	values like family and education and community, decent homes for young people
 T784	Premise 36345 36532	that family on Long Island I visited on Monday where Lou and Betty Tolamo (phonetic) bought a house for some $19,000 back in 1962, have had seven children, they're all making good livings
 T785	Premise 36534 36588	They can't live in the community which they grew up in
 T786	Premise 36968 36985	I believe in them
@@ -787,8 +796,6 @@ T799	Premise 45967 46012	these are not taxes owed by average Americans
 T800	Premise 46472 46625	It was a bipartisan commission, a study by two respected economists, which indicated that we could collect some 40, 45, 50 billion dollars of those funds
 T801	Premise 46322 46362	who pay their taxes and pay them on time
 T802	Claim 46738 46837	a president who was a governor of a state that's had very, very successful experience at doing this
-T385	Premise 49814 49906	the President took the leadership working with the Democrats and the Republicans in Congress
-T386	Premise 49907 50011	some tough calls were made and the Social Security Trust Fund was put back into sound, solvent condition
 T803	Premise 50908 50966	we got assailed by the Democrats in the election over that
 T804	Claim 51033 51067	keep our commitment to the elderly
 T805	Claim 51363 51410	I don't know which George Bush I'm listening to
@@ -800,10 +807,6 @@ T810	Claim 54550 54590	people who will be a credit to the Bench
 T811	Premise 55391 55447	there are so many millions of Americans who are eligible
 T812	Premise 57125 57297	which, if we continue to spend billions on them, will force us to cut Social Security, to cut Medicare, to cut these basic entitlements to people of very, very modest means
 T813	Premise 57611 57964	the Ruby Samsons and Dan Lawsons, hundreds of thousands of welfare mothers in this country and in my state and across the country who today are working and earning are examples of what can happen when you provide training to those welfare mothers, some daycare for their children so that those mothers can go into a training program and get a decent job
-T488	Premise 61263 61476	which provide a basic floor of income and a modest amount of medical care for the elderly, the disabled, for people who can't make their way on their own, and in many cases, have given a great deal to this country
-T489	Premise 63539 63578	the agricultural economy is coming back
-T490	Claim 66660 66727	I don't know which George Bush I'm talking about here or looking at
-T492	Premise 66875 66949	or the one we've been seeing and listening to the past two or three months
 T814	Premise 68468 68496	I've spelled out my position
 T815	Claim 69246 69281	not one did I read in any newspaper
 T816	Claim 69742 69767	we see this much about it
@@ -833,9 +836,6 @@ T839	Claim 84682 84714	I want to hold the line on taxes
 T840	Premise 85226 85263	if some police officer is gunned down
 T841	Claim 85300 85362	I want to help those with disabilities fit into the mainstream
 T842	Claim 21862 21957	most people do not believe that the flexible freeze alone will solve the problem of the deficit
-T205	Premise 21999 22211	Pentagon officials tell us that there is not enough money in the budget to handle military readiness, preparedness, as well as new weapons systems that have been proposed, as well as those already in the pipeline
 T843	Claim 26373 26484	you have rejected the wisdom of people as diverse as Sam Nunn, Henry Kissinger, Al Gore, people in both parties
-T323	Premise 72530 72828	every defense expert I know, including people in the Pentagon itself, will tell you that given the level of defense spending and the level of defense appropriations which the Congress has now approved and the president has signed, there's no way that you can do all of these things and do them well
-T618	Claim 75951 76037	too much priority has been put on new weapons programs, not enough on current programs
 T844	Claim 76043 76147	worry that the resulting shortage would be amounting to nothing less than unilateral nuclear disarmament
 T845	Premise 75826 75918	just this week yet another nuclear manufacturing plant was closed because of safety concerns

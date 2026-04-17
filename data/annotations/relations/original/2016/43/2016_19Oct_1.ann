@@ -1,5 +1,6 @@
 T1	Claim 911 1022	I have major disagreements with my opponent about these issues and others that will be before the Supreme Court
 T2	Claim 1028 1160	I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v
+T3	Claim 1173 1208	we stand up against Citizens United
 T4	Claim 1617 1660	The Supreme Court: It's what it's all about
 T6	Claim 2055 2085	I support the Second Amendment
 T7	Premise 2087 2129	I lived in Arkansas for 18 wonderful years
@@ -12,6 +13,7 @@ T13	Claim 2919 2963	Hillary was extremely upset, extremely angry
 T14	Claim 2969 3085	people that believe in the Second Amendment and believe in it very strongly were very upset with what she had to say
 T15	Premise 2883 2913	it was a well-crafted decision
 T16	Premise 2847 2877	Justice Scalia was so involved
+T17	Claim 3178 3189	I was upset
 T18	Claim 3422 3465	Donald's been strongly supported by the NRA
 T19	Premise 3467 3494	The gun lobby's on his side
 T20	Premise 3496 3549	They're running millions of dollars of ads against me
@@ -19,12 +21,12 @@ T21	Claim 3713 3812	we're going to do it in a way that tries to save some of the
 T22	Premise 3583 3707	I would like to see is for people to come together and say: Of course we're going to protect and defend the Second Amendment
 T23	Premise 4075 4219	In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city
 T24	Claim 4224 4287	we have the toughest laws, and you have tremendous gun violence
+T25	Claim 4749 4897	if that would happen, because I am pro-life, and I will be appointing pro-life judges, I would think that that will go back to the individual states
 T26	Claim 4969 5021	If they overturned it, it will go back to the states
 T27	Premise 5403 5446	I am putting pro-life justices on the court
 T28	Claim 5350 5378	that'll happen automatically
 T29	Claim 5241 5344	if we put another two or perhaps three justice on, that's really what's going to be -- that will happen
 T30	Claim 5465 5541	It will go back to the states, and the states will then make a determination
-T25	Claim 4749 4897	if that would happen, because I am pro-life, and I will be appointing pro-life judges, I would think that that will go back to the individual states
 T31	Claim 5586 5610	I strongly support Roe v
 T32	Claim 5618 5779	which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine
 T33	Premise 5799 5824	it's not only about Roe v
@@ -46,17 +48,15 @@ T49	Claim 7141 7247	You should meet with some of the women that I have met with,
 T50	Premise 7249 7332	This is one of the worst possible choices that any woman and her family has to make
 T51	Claim 7821 7851	I will stand up for that right
 T52	Claim 7953 8067	nobody has business doing what I just said, doing that, as late as one or two or three or four days prior to birth
-T17	Claim 3178 3189	I was upset
 T476	Premise 3199 3278	unfortunately, dozens of toddlers injure themselves, even kill people with guns
 T477	Premise 3289 3381	unfortunately, not everyone who has loaded guns in their homes takes appropriate precautions
 T478	Claim 3555 3568	I regret that
-T3	Claim 1173 1208	we stand up against Citizens United
 T479	Claim 1210 1263	we stand up for the rights of people in the workplace
 T480	Claim 1270 1345	we stand up and basically say: The Supreme Court should represent all of us
 T481	Claim 2752 2784	she was extremely angry about it
 T482	Premise 2786 2795	I watched
-T484	Claim 3880 3960	you oppose any limits on assault weapons, any limits on high- capacity magazines
 T483	Claim 3962 4003	You support a national right to carry law
+T484	Claim 3880 3960	you oppose any limits on assault weapons, any limits on high- capacity magazines
 T485	Claim 8069 8084	Nobody has that
 R1	Support Arg1:T480 Arg2:T2
 R2	Support Arg1:T3 Arg2:T2

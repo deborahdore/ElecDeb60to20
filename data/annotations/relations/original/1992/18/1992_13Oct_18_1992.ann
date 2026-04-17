@@ -93,8 +93,8 @@ T92	Claim 8909 8937	I don't take advantage of it
 T93	Premise 8943 9119	I am sure that he would make me a partner in decision, in making decisions about the way to handle health care, the way to get this economy back on its feet again, in every way
 T94	Premise 8754 8806	My association with Mr. Perot is a very personal one
 T95	Premise 8811 8907	as I have stood in and finally taken his running mate position, he has granted me total autonomy
-T97	Claim 9238 9291	I intend to act in a way to keep that situation alive
 T96	Claim 9334 9413	Bill Clinton understands the meaning of the words "teamwork" and "partnership."
+T97	Claim 9238 9291	I intend to act in a way to keep that situation alive
 T98	Premise 9562 9699	The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression
 T99	Claim 9490 9560	we will work together to put our country back on the right track again
 T100	Premise 9701 9719	Unemployment is up
@@ -222,6 +222,7 @@ T221	Claim 28487 28506	we won the Cold War
 T222	Claim 28549 28568	We won the Cold War
 T223	Premise 28643 28686	we can make the cuts in defense and we have
 T224	Premise 28688 28741	Bill Clinton wants to cut defense another $60 billion
+T225	Claim 28803 28862	a $60 billion defense cut is going to cut a lot of jobs out
 T226	Premise 28869 28980	we are making a conversion and we can go to a civil space rather than having defense -- or the defense industry
 T227	Claim 29005 29039	we would not have won the Cold War
 T228	Claim 29214 29248	we would not have won the Cold War
@@ -242,6 +243,7 @@ T242	Claim 31354 31439	This started with Harry Truman and it was a bipartisan ef
 T243	Premise 31441 31548	George Bush taking credit for the Berlin Wall coming down is like the rooster taking credit for the sunrise
 T244	Premise 31758 31865	It was kind of a little lecture he gave to Ross Perot when he said those SS-18s are gone, Ross, that's done
 T245	Premise 31873 31987	he reached a deal with Boris Yeltsin to completely remove them so we can all sleep safely without any fear tonight
+T246	Claim 36936 37000	You don't have to have a choice between the environment and jobs
 T247	Premise 32247 32281	In fact there are serious problems
 T248	Premise 32284 32508	Isn't it a fact, Dan, that every single one of those SS-18s is still there, in the silos, and under the START I treaty, only half of the silos are supposed to be dismantled, and there is no deal to get rid of the other half?
 T249	Claim 32209 32245	now there is no START II deal at all
@@ -269,7 +271,6 @@ T270	Premise 34734 34801	he said that he wouldn't raise taxes again -- no, never
 T271	Premise 34808 34891	the next day his spokesman, Marlin Fitzwater, came out and said that's not a pledge
 T272	Premise 34898 35015	2 weeks ago he said that after the election, if you win, then James Baker's going to go back to be secretary of state
 T273	Premise 35017 35167	then a week later, in the debate a few nights ago, he said, no, after the election, if we win, James Baker is going to be in charge of domestic policy
-T246	Claim 36936 37000	You don't have to have a choice between the environment and jobs
 T274	Premise 37023 37148	Look at the president's record: clean air legislation passed the Democratic Congress because of the leadership of George Bush
 T275	Premise 37150 37207	It is the most comprehensive clean air act in our history
 T276	Claim 36913 36934	that's a false choice
@@ -335,6 +336,7 @@ T335	Claim 43336 43423	Senator Gore's mentor had disagree with some of the scien
 T336	Premise 43659 43693	You're talking about Roger Revelle
 T337	Premise 43695 43842	His family wrote a lengthy letter saying how terribly he had been misquoted and had his remarks taken completely out of context just before he died
 T338	Premise 43854 43929;43987 44098	He believed up until the day he died -- no, it's true, he died last year -- and just before he died, he co- authored an article which was -- had statements taken completely out of context
+T339	Premise 44108 44290	the vast majority of the world's scientists -- and they have worked on this extensively -- believe that we must have an effort to face up to the problems we face with the environment
 T340	Claim 44367 44400	we're not doing ourselves a favor
 T341	Claim 44424 44531	we're telling our children and all future generations that we weren't willing to face up to this obligation
 T342	Claim 44563 44595;44645 44741	I believe that we have a mandate to try to solve this problem, particularly when we can do it while we create jobs in the process
@@ -347,6 +349,7 @@ T348	Claim 45366 45509	increasing the CAFE standards to 45 miles per gallon, lik
 T349	Premise 45182 45290	You seem to say that the answer is, well, I'll just make it that much worse by increasing the CAFE standards
 T350	Premise 45127 45180	you talk about the bad situation in the auto industry
 T351	Claim 46335 46374	we have excellent technical health care
+T352	Claim 46584 46669	the incentives that are in our current way of doing business, are what are killing us
 T353	Premise 46682 46764	there's no incentive for a hypochondriac not to go to the -- to Medicare every day
 T354	Premise 46766 46880	There is no incentive for a doctor to curtail the expensive tests because he's under threat of malpractice lawyers
 T355	Claim 46895 47151	we just have a web of wrong-way incentives that has to be changed by some people who are in the medical profession and some other crafty people who know how to write contracts to change incentives or get -- get the -- the incentives situation under control
@@ -368,8 +371,8 @@ T370	Premise 49236 49278	you are talking about a government program
 T371	Premise 49280 49317	Your program is to ration health care
 T372	Premise 49319 49391	You said in your statement to see a doctor when you want to see a doctor
 T373	Claim 49393 49505	When you start rationing health care there's going to be a waiting line to see a doctor unless it's an emergency
-T375	Claim 49598 49653	The same thing would happen when you ration health care
 T374	Premise 49508 49596	Remember when we rationed energy in this country? Waiting lines at the gasoline stations
+T375	Claim 49598 49653	The same thing would happen when you ration health care
 T376	Claim 49655 49836	The president's proposal deals with tax credits, deductions and purchasing health care in the private sector and making health care affordable and available to every single American
 T377	Claim 50137 50178;50236 50255;50305 50359	George Bush waited for 3 and a half years during the national health insurance crisis before he even made a proposal
 T378	Claim 50191 50224	He didn't wait 3 and a half years
@@ -388,6 +391,7 @@ T390	Claim 51610 51664	it goes to small businesses where the major problem is
 T391	Premise 51666 51703	Your proposal excluded small business
 T392	Claim 52718 52788	Medical malpractice legislation has been before the Congress of the US
 T393	Premise 52873 52956	The biggest campaign contributors to your campaign are the trial lawyers of America
+T394	Claim 52982 53026	we're going to release it again to the media
 T395	Claim 53259 53282	we'll make it available
 T396	Premise 53227 53245	It's in the letter
 T397	Premise 53247 53257	we have it
@@ -519,6 +523,7 @@ T522	Claim 69295 69354;69414 69500	when they were included in a plan that the Co
 T523	Premise 69510 69579	that same bill raised taxes on those making more than $200,000 a year
 T524	Premise 69135 69232	Vice President Quayle said they're important, but George Bush eliminated them from his urban plan
 T525	Claim 69261 69276	that's not true
+T526	Premise 69857 69884	if we can take our approach
 T527	Claim 69607 69710	your top priority really, isn't it, to make sure that the very wealthy don't have to pay any more taxes
 T528	Premise 69712 69815	We want to cut taxes on middle-income families and raise them on those making more than $200,000 a year
 T529	Claim 69886 69920	the cities will be much better off
@@ -630,6 +635,7 @@ T634	Premise 84806 84924	Not one time during this evening, during 90 minutes, di
 T635	Claim 84629 84711	in the next 4 years, as I said, somewhere, some time, there's going to be a crisis
 T636	Claim 84717 84763	you need to have a president that is qualified
 T637	Premise 83572 83764	I think of a woman in Chicago when I was talking to parents about education where she stood up and said I'm sick and tired of these schools in this city being nothing but a factory for failure
+T638	Claim 83781 83811	we support choice in education
 T639	Premise 83813 84029	I was in Beaumont, Texas, and met with small business people, and they wanted to reform the civil justice system because they think our legal system costs too much and there's too much of a delay in getting an answer
 T640	Premise 84032 84284	I was in Middletown, Ohio, talking to a welfare woman, where she said I want to go back to work and I had a job offered to me but I'm not going to take it because I have 2 children at home and the job that is offered to me doesn't have health insurance
 T641	Premise 84441 84457	she'll have both
@@ -668,7 +674,6 @@ T673	Premise 28370 28402	we invested in national security
 T674	Premise 28432 28459	we invested in our military
 T675	Premise 28515 28547	we invested in national security
 T676	Premise 28577 28636	America had the political will and made the right decisions
-T225	Claim 28803 28862	a $60 billion defense cut is going to cut a lot of jobs out
 T677	Premise 29040 29124	if we had listened to Senator Gore and his crowd, and had supported a nuclear freeze
 T678	Premise 29171 29212	if you would have supported that attitude
 T679	Premise 29278 29309	we invested and we went forward
@@ -686,15 +691,12 @@ T690	Premise 41955 42000	they're choking to death on the air pollution
 T691	Claim 41869 41911	They are shutting down factories right now
 T692	Claim 42568 42617	nor should we assume that it's going to cost jobs
 T693	Premise 42729 42757	if we have the guts to leave
-T339	Premise 44108 44290	the vast majority of the world's scientists -- and they have worked on this extensively -- believe that we must have an effort to face up to the problems we face with the environment
 T694	Premise 44296 44365	if we just stick out heads in the sand and pretend that it's not real
 T695	Claim 46380 46412	we don't administer it very well
-T352	Claim 46584 46669	the incentives that are in our current way of doing business, are what are killing us
 T696	Premise 47215 47254	if a criminal has the right to a lawyer
 T697	Claim 50577 50605	Bill Clinton's Arkansas does
 T698	Claim 52658 52690	You pulled another Clinton on me
 T699	Premise 52699 52716	here you go again
-T394	Claim 52982 53026	we're going to release it again to the media
 T700	Premise 53028 53054	if the media is interested
 T701	Premise 53064 53163	the head of the trial lawyers of Arkansas said that Bill Clinton was basically in their back pocket
 T702	Premise 53170 53225	Bill Clinton has always opposed tort reform of any kind
@@ -704,7 +706,6 @@ T705	Premise 57013 57099	don't have the government order a woman to do what they
 T706	Claim 62685 62763	I have had the same position on abortion in favor of a woman's right to choose
 T707	Premise 63682 63845	they've turned over the party to this right wing extremist group which takes positions on issues like abortion that don't even allow exceptions for rape and incest
 T708	Premise 68810 68925	by creating good jobs, investing in infrastructure, new programs in job training and apprenticeship, welfare reform
-T526	Premise 69857 69884	if we can take our approach
 T709	Claim 71981 72034	Nobody here who is middle income has gotten a tax cut
 T710	Premise 75067 75362	the president had a meeting of all the governors, and then they tried the conventional fixes for schools, that is, to increase the certification of -- requirements for the teachers, to lengthen the school day, to lengthen the school year and nothing -- this is a very brief overview of the thing
 T711	Premise 75366 75386	but nothing happened
@@ -713,6 +714,5 @@ T713	Premise 75760 75850	The best thing I had going for me was I had no contact 
 T714	Claim 77830 77889	not about personal attacks against one candidate or another
 T715	Premise 78705 78822	I'm awful proud that the American people rejected that tactic so overwhelmingly that he decided he had made a mistake
 T716	Claim 83108 83148	a choice between the future and the past
-T638	Claim 83781 83811	we support choice in education
 T717	Claim 84765 84783	has the experience
 T718	Claim 84789 84804	has been tested

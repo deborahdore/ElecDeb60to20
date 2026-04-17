@@ -1,3 +1,8 @@
+T1	Claim 5194 5300	The best thing to do is to look at the record uh - of Mr. Ford's Administration and Mr. Nixon's before his
+T2	Claim 5845 5907	We've also got uh - a comparison between himself and Mr. Nixon
+T3	Premise 6057 6225	with a 14 percent increase in the cost of living in the last uh - two years, it means that - that women and young people have had to go to work when they didn't want to
+T4	Premise 1514 1563	We feel that with this improvement in the economy
+T5	Premise 1565 1615	we feel with more receipts and fewer disbursements
 T234	Claim 789 864	in the uh - last two years, as I indicated before, we had a very tough time
 T235	Premise 866 922	We were faced with uh - heavy inflation, over 12 percent
 T236	Premise 924 967	we were faced with substantial unemployment
@@ -72,14 +77,11 @@ R19	Support Arg1:T272 Arg2:T271
 R20	Support Arg1:T273 Arg2:T272
 R21	Support Arg1:T274 Arg2:T272
 R22	Support Arg1:T275 Arg2:T272
-T1	Claim 5194 5300	The best thing to do is to look at the record uh - of Mr. Ford's Administration and Mr. Nixon's before his
 R23	Support Arg1:T286 Arg2:T1
 R24	Support Arg1:T287 Arg2:T1
 R25	Support Arg1:T288 Arg2:T1
 R26	Support Arg1:T1 Arg2:T272
-T2	Claim 5845 5907	We've also got uh - a comparison between himself and Mr. Nixon
 R27	Support Arg1:T289 Arg2:T2
-T3	Premise 6057 6225	with a 14 percent increase in the cost of living in the last uh - two years, it means that - that women and young people have had to go to work when they didn't want to
 R28	Support Arg1:T279 Arg2:T3
 R29	Support Arg1:T3 Arg2:T276
 R30	Support Arg1:T284 Arg2:T1
@@ -88,8 +90,6 @@ R32	Support Arg1:T1 Arg2:T280
 R33	Support Arg1:T283 Arg2:T1
 R34	Support Arg1:T240 Arg2:T237
 R35	Support Arg1:T242 Arg2:T237
-T4	Premise 1514 1563	We feel that with this improvement in the economy
-T5	Premise 1565 1615	we feel with more receipts and fewer disbursements
 R36	Support Arg1:T4 Arg2:T243
 R37	Support Arg1:T5 Arg2:T243
 R38	Support Arg1:T262 Arg2:T258

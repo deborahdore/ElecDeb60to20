@@ -1,3 +1,6 @@
+T1	Premise 2543 2573	I don't have any speechwriters
+T2	Premise 2512 2541	I don't have any spin doctors
+T3	Claim 2639 2682	you don't have to wonder if it's me talking
 T155	Claim 2118 2202	I'll take your point and think we ought to discuss child care or whatever else it is
 T157	Premise 2057 2091	This is what a president has to do
 T158	Premise 2014 2055	That's not specific in terms of a program
@@ -24,8 +27,6 @@ T180	Premise 3903 4017	There's a great young group, Lead or Leave, college stude
 T181	Claim 4019 4052	I took the pledge we'd cut it out
 R1	Support Arg1:T160 Arg2:T159
 R2	Equivalent Arg1:T159 Arg2:T161
-T1	Premise 2543 2573	I don't have any speechwriters
-T2	Premise 2512 2541	I don't have any spin doctors
 R3	Support Arg1:T165 Arg2:T163
 R4	Support Arg1:T166 Arg2:T167
 R5	Support Arg1:T168 Arg2:T167
@@ -36,7 +37,6 @@ R9	Support Arg1:T174 Arg2:T175
 R10	Attack Arg1:T163 Arg2:T164
 R11	Attack Arg1:T163 Arg2:T1
 R12	Attack Arg1:T163 Arg2:T2
-T3	Claim 2639 2682	you don't have to wonder if it's me talking
 R13	Support Arg1:T164 Arg2:T3
 R14	Support Arg1:T1 Arg2:T3
 R15	Support Arg1:T2 Arg2:T3

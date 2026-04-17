@@ -1,3 +1,4 @@
+T1	Claim 2205 2225	We had a better idea
 T573	Premise 279 308	I signed the Family Leave Act
 T574	Premise 310 335	It was my very first bill
 T575	Claim 341 361	I'm very proud of it
@@ -52,7 +53,6 @@ T624	Claim 3620 3699	We've had record numbers of new small businesses and 10 and
 T625	Claim 3701 3727	It didn't hurt the economy
 T626	Premise 3585 3618	He said it would hurt the economy
 T627	Claim 3729 3761	He still believes it's a mistake
-T1	Claim 2205 2225	We had a better idea
 R1	Support Arg1:T574 Arg2:T575
 R2	Support Arg1:T573 Arg2:T575
 R3	Support Arg1:T576 Arg2:T575

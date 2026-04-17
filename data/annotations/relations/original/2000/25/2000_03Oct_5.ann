@@ -1,3 +1,5 @@
+T1	Claim 4074 4094	I wouldn't use force
+T3	Premise 1713 1761	I hope that he'll be out of office very shortly.
 T320	Claim 458 648	I think we should support the people of Serbia and Yugoslavia, as they call the Serbia plus Montenegro, and put pressure in every way possible to recognize the lawful outcome of the election
 T321	Premise 239 270	Milosevic has lost the election
 T322	Premise 272 317	His opponent, Kostunica, has won the election
@@ -44,7 +46,6 @@ T364	Claim 4165 4224	It's not in our national interest to use force in this case
 T365	Claim 4226 4260	I would use pressure and diplomacy
 T366	Premise 4350 4419	It's up to the people in this region to take control of their country
 T367	Premise 4262 4348	There is a difference with what the president did in Kosovo which I supported and this
-T1	Claim 4074 4094	I wouldn't use force
 R1	Support Arg1:T321 Arg2:T322
 R2	Support Arg1:T323 Arg2:T322
 R3	Support Arg1:T324 Arg2:T325
@@ -63,7 +64,6 @@ R15	Support Arg1:T331 Arg2:T329
 R16	Support Arg1:T329 Arg2:T337
 R17	Support Arg1:T336 Arg2:T337
 R18	Support Arg1:T333 Arg2:T337
-T3	Premise 1713 1761	I hope that he'll be out of office very shortly.
 R19	Support Arg1:T3 Arg2:T337
 R20	Support Arg1:T338 Arg2:T3
 R21	Support Arg1:T339 Arg2:T341

@@ -27,6 +27,8 @@ T26	Premise 5210 5311	Governor Carter in November of 1975 indicated that he want
 T27	Premise 5333 5409	he said he wanted to cut the defense budget by eight or nine billion dollars
 T28	Premise 5430 5504	he talks about cutting the defense budget by five to seven billion dollars
 T29	Claim 5506 5600;5606 5619	There is no way you can be strong militarily and have those kind of reductions in our military appropriation
+T30	Premise 5920 6055	if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand
+T31	Premise 6057 6097	civilian personnel by a hundred thousand
 T32	Premise 6138 6191	We would have to stretch out our aircraft procurement
 T33	Premise 6193 6247	we would have to reduce our naval construction program
 T34	Premise 6249 6369	we would have to reduce the uh - research and development for the Army, the Navy, the Air Force and Marines by 8 percent
@@ -99,6 +101,7 @@ T100	Premise 13431 13530	our foreign policy in the last few years, uh - the Amer
 T101	Premise 13580 13641	I've uh - been one who's loved my nation as many Americans do
 T102	Claim 13869 13927	Every time we've made a serious mistake in foreign affairs
 T103	Premise 13947 14002	the American people have been excluded from the process
+T104	Claim 14004 14197	If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed
 T105	Claim 14203 14276	I'm not gonna exclude the American people from that process in the future
 T106	Premise 14315 14463	This is what it takes to have a sound foreign policy strong at home, strong defense, permanent commitments, not betray the principles of our country
 T107	Premise 14469 14550	involve the American people and the Congress in the shaping of our foreign policy
@@ -127,6 +130,7 @@ T129	Claim 17069 17110	Governor Carter again contradicts himself
 T130	Claim 17112 17138	He complains about secrecy
 T131	Claim 17147 17290	he is quoted as saying that in the attempt to find a solution in the Middle East that he would hold unpublicized meetings with the Soviet Union
 T132	Premise 17293 17379	I presume for the purpose of an - imposing a settlement on Israel and the Arab nations
+T133	Premise 19978 20074	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
 T134	Premise 17752 17820	I submitted the Sinai agreement to the Congress of the United States
 T135	Premise 17822 17901	I submitted every single document that was applicable to the Sinai II agreement
 T136	Claim 17903 18028	It was the most complete documentation by any president of any agreement signed by a president on behalf of the United States
@@ -135,6 +139,7 @@ T138	Claim 18291 18455	The secretary of state has appeared in the several years 
 T139	Claim 18457 18577	The secretary of state has made better than fifty speeches all over the United States explaining American foreign policy
 T140	Claim 19707 19729;19735 19821	I believe that we have negotiated with the Soviet Union since I've been president from a position of strength
 T141	Premise 19857 19892;19898 19926;19932 19973	Shortly after I became president in December of 1974, I met with General Secretary Brezhnev in Vladivostok
+T142	Claim 20112 20234	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
 T143	Premise 20236 20271;20277 20376	I've negotiated at Vladivostok with Mr. Brezhnev a limitation on the MIRVing of their ballistic missiles at a figure of thirteen-twenty
 T144	Claim 20384 20471	is the first time that any president has achieved a cap either on launchers or on MIRVs
 T145	Premise 20544 20603	The grain sales have been a benefit to American agriculture
@@ -166,6 +171,8 @@ T170	Claim 23688 23739	The Soviet Union is still jamming Radio Free Europe
 T171	Claim 25319 25394	That's not the way to run our foreign policy, including international trade
 T172	Premise 25175 25232	This grain deal with the Soviet Union in '72 was terrible
 T173	Premise 25238 25317	Mr. Ford made up for it with three embargoes, one against our own ally in Japan
+T174	Premise 31060 31085	Iran has been a good ally
+T175	Claim 32072 32181	that communique, calls for the normalization of relations between the United States and the People's Republic
 T176	Claim 24298 24348	Mr. Ford exclude himself from access to the public
 T177	Premise 24433 24474	One press conference he had without sound
 T178	Premise 24350 24431	He hasn't had a tough cross-examination-type press conference in over thirty days
@@ -302,6 +309,7 @@ T308	Premise 42448 42541	we did agree on a twenty-four-hundred limitation on uh 
 T309	Premise 42548 42595	that would mean a cutback in the Soviet program
 T310	Premise 42660 42719	we put a limitation of thirteen hundred and twenty on MIRVs
 T311	Premise 42721 42873	Our technicians have been working since that time in Geneva, trying to put into technical language a - an agreement that can be verified by both parties
+T312	Claim 44314 44331	I intend to do so
 T313	Claim 43651 43858	I met just last week with the foreign minister of the Soviet Union, and he indicated to me that uh - the Soviet Union was interested in narrowing the differences and making a realistic and a sound compromise
 T314	Premise 43860 43916	I hope and trust, in the best interest of both countries
 T315	Premise 43922 43979	in the best interests of all people throughout this globe
@@ -334,6 +342,7 @@ T341	Claim 47069 47131	We also need to provide an adequate supply of enriched ur
 T342	Claim 47340 47498	This kind of confusion and absence of leadership has let us drift now for two years with a constantly increasing threat of atomic weapons throughout the world
 T343	Claim 47500 47566	We now have five nations that have atomic bombs that we know about
 T344	Premise 47038 47067	Mr. Ford hasn't moved on this
+T345	Claim 58750 58780	I hope Mr. Ford doesn't either
 T346	Claim 48272 48303	it's not just campaign rhetoric
 T347	Claim 48305 48368	I think that militarily we are as strong as any nation on earth
 T348	Claim 48370 48472	I think we got to stay that way and continue to increase our capabilities to meet any potential threat
@@ -382,6 +391,7 @@ T390	Premise 54993 55039	the Middle East is the crossroads of the world
 T391	Premise 55041 55144	There've been more disputes in its area where there's more volatility than any other place in the world
 T392	Premise 55158 55268	Arab nations and the Israelis trust the United States, we were able to take the lead in the Sinai II Agreement
 T393	Claim 55274 55418	I can assure you that the United States will have the leadership role in moving toward a comprehensive settlement of the Middle Eastern problems
+T394	Premise 60690 60740	I would continue to negotiate with the Panamanians
 T395	Claim 55462 55509	we will do it with the highest moral principles
 T396	Claim 56509 56597	I think in all fairness and equity we have to recognize the problem that South Korea has
 T397	Claim 56360 56503	I have personally told President Pack that the United States does not condone the kind of repressive measures that he has taken in that country
@@ -402,6 +412,7 @@ T411	Claim 58225 58341	We don't have a comprehensive understandable foreign poli
 T412	Claim 58715 58748	I don't agree with that statement
 T413	Premise 58539 58669	Karl Marx said that the free enterprise system in a democracy can only continue to exist when they are at war or preparing far war
 T414	Premise 58671 58713	Karl Marx was the grandfather of Communism
+T415	Premise 64882 64932	Mr. Ford has said, I believe, that it was accurate
 T416	Premise 58782 58817	He has put pressure on the Congress
 T417	Claim 58824 59023	I don't believe Mr. Ford would even deny this - to hold up on nonproliferation legislation until the Congress agreed for an $8 billion program for private industry to start producing enriched uranium
 T421	Premise 59115 59162	We were peaceful when Mr. Ford went into office
@@ -433,6 +444,7 @@ T446	Claim 63461 63543;63549 63570;63576 63616	if we had not taken the strong an
 T447	Premise 63618 63644	Captain Miller is thankful
 T448	Premise 63646 63666	The crew is thankful
 T449	Claim 63668 63690	We did the right thing
+T450	Premise 63712 63951	those who sit in Washington eighteen months after the incident are not the best judges of the decision-making process that had to be made by the National Security Council and by myself at the time the incident was developing in the Pacific
 T451	Premise 64088 64180	We made uh - diplomatic uh - protests to the Cambodian government through the United Nations
 T452	Premise 64182 64226	Every possible diplomatic means was utilized
 T453	Premise 64250 64349	I had a responsibility, and so did the National Security Coun- Council, to meet the problem at hand
@@ -450,6 +462,7 @@ T467	Claim 65525 65567	This is uh - what the American people want
 T468	Premise 65569 65619	When something happens that endangers our security
 T469	Premise 65624 65686	when something happens that threatens our stature in the world
 T470	Premise 65691 65762;65769 65806;65808 65873	when American people are endangered by the actions of a foreign country just forty uh sailors on the Mayaguez we obviously have to move aggressively and quickly to rescue them
+T471	Claim 67471 67520	it would've prevented the boycott from continuing
 T472	Claim 66378 66449	I believe that the boycott of American businesses by the Arab countries
 T473	Premise 66458 66492	those businesses trade with Israel
 T474	Premise 66504 66594	they have American Jews who are owners or directors in the company is an absolute disgrace
@@ -468,6 +481,8 @@ T486	Premise 68180 68400	Just on Monday of this week I signed a tax bill that in
 T487	Premise 68406 68776	last week when we were trying to get the Export Administration Act through the Congress - necessary legislation - my administration went to Capitol Hill and tried to convince the House and the Senate that we should have an amendment on that legislation which would take strong and effective action against those who uh - participate or cooperate with the Arab uh boycott
 T488	Premise 68803 68829	the Congress failed to act
 T489	Claim 68831 68972	I am going to announce tomorrow that the Department of Commerce will disclose those companies that have uh - participated in the Arab boycott
+T490	Premise 69008 69036	the Congress failed to do it
+T491	Claim 69511 69589	I will never uh - go along with the admission of Vietnam to the United Nations
 T492	Claim 69591 69795	If they do give us a bona fide, complete uh - accounting of the eight hundred MIA's, then I believe that the United States should begin negotiations for the uh - admission of Vietnam to the United Nations
 T493	Claim 69797 69861	But not until they have given us the full accounting of our MIAs
 T494	Claim 69901 70230	One of the uh - most embarrassing uh - failures of the Ford administration, and one that touches specifically on human rights, is his refusal to appoint a presidential commission to go to Vietnam, to go to Laos, to go to Cambodia and try to trade for the release of information about those who are missing in action in those wars
@@ -508,24 +523,9 @@ T529	Premise 74087 74124	we can debate one decision or another
 T530	Claim 74130 74202	there are two uh things which cannot be debated - experience and results
 T531	Claim 74511 74592	Not a single young American today is fighting or dying on any foreign battlefield
 T532	Claim 74594 74630	America is at peace and with freedom
-T30	Premise 5920 6055	if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand
-T31	Premise 6057 6097	civilian personnel by a hundred thousand
 T533	Premise 6099 6136	jobs in America by a hundred thousand
-T104	Claim 14004 14197	If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed
-T133	Premise 19978 20074	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
-T142	Claim 20112 20234	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
-T174	Premise 31060 31085	Iran has been a good ally
-T175	Claim 32072 32181	that communique, calls for the normalization of relations between the United States and the People's Republic
 T534	Premise 40268 40317	Governor Carter apparently doesn't know the facts
 T535	Premise 42597 42640	it would not interfere with our own program
-T312	Claim 44314 44331	I intend to do so
-T394	Premise 60690 60740	I would continue to negotiate with the Panamanians
-T450	Premise 63712 63951	those who sit in Washington eighteen months after the incident are not the best judges of the decision-making process that had to be made by the National Security Council and by myself at the time the incident was developing in the Pacific
 T536	Claim 64943 65010	the White House made no attempt to block the issuing of that report
-T471	Claim 67471 67520	it would've prevented the boycott from continuing
 T537	Claim 68974 69006	This is something that we can do
-T490	Premise 69008 69036	the Congress failed to do it
 T538	Claim 69042 69060	we intend to do it
-T491	Claim 69511 69589	I will never uh - go along with the admission of Vietnam to the United Nations
-T345	Claim 58750 58780	I hope Mr. Ford doesn't either
-T415	Premise 64882 64932	Mr. Ford has said, I believe, that it was accurate

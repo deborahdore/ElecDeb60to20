@@ -1,3 +1,13 @@
+T1	Premise 514 581	I want to talk about the values behind Social Security and Medicare
+T2	Claim 4100 4191	I can't understand how you can cut Medicare $716 billion for current recipients of Medicare
+T3	Premise 15290 15380	it appears we've got some agreement that a marketplace to work has to have some regulation
+T4	Premise 15499 15623	Does anybody out there think that the big problem we had is that there was too much oversight and regulation of Wall Street?
+T5	Premise 15624 15682	Because if you do, then Governor Romney is your candidate.
+T6	Premise 16351 16489	so Dodd-Frank correctly says we need to have qualified mortgages, and if you give a mortgage that's not qualified, there are big penalties
+T7	Claim 16491 16562	except they didn't ever go on and define what a qualified mortgage was.
+T8	Premise 31802 31959	I think the American people have to ask themselves, is the reason that Governor Romney is keeping all these plans to replace secret because they're too good?
+T9	Premise 31969 32057	is it because that somehow middle-class families are going to benefit too much from them
+T10	Claim 32060 32063	No.
 T377	Claim 234 307	I suspect that, on Social Security, we've got a somewhat similar position
 T378	Premise 309 346	Social Security is structurally sound
 T379	Claim 348 458	It's going to have to be tweaked the way it was by Ronald Reagan and Speaker -- Democratic Speaker Tip O'Neill
@@ -342,7 +352,6 @@ R7	Support Arg1:T388 Arg2:T386
 R8	Support Arg1:T386 Arg2:T387
 R9	Support Arg1:T387 Arg2:T385
 R10	Support Arg1:T385 Arg2:T383
-T1	Premise 514 581	I want to talk about the values behind Social Security and Medicare
 R11	Support Arg1:T1 Arg2:T381
 R12	Support Arg1:T384 Arg2:T382
 R13	Support Arg1:T393 Arg2:T394
@@ -365,7 +374,6 @@ R29	Support Arg1:T416 Arg2:T417
 R30	Support Arg1:T419 Arg2:T418
 R31	Support Arg1:T409 Arg2:T412
 R32	Support Arg1:T412 Arg2:T413
-T2	Claim 4100 4191	I can't understand how you can cut Medicare $716 billion for current recipients of Medicare
 R33	Attack Arg1:T2 Arg2:T418
 R34	Support Arg1:T420 Arg2:T421
 R35	Attack Arg1:T422 Arg2:T421
@@ -450,10 +458,7 @@ R113	Support Arg1:T519 Arg2:T520
 R114	Support Arg1:T520 Arg2:T521
 R115	Support Arg1:T521 Arg2:T522
 R116	Attack Arg1:T522 Arg2:T513
-T3	Premise 15290 15380	it appears we've got some agreement that a marketplace to work has to have some regulation
 R117	Attack Arg1:T3 Arg2:T532
-T4	Premise 15499 15623	Does anybody out there think that the big problem we had is that there was too much oversight and regulation of Wall Street?
-T5	Premise 15624 15682	Because if you do, then Governor Romney is your candidate.
 R118	Support Arg1:T4 Arg2:T5
 R119	Attack Arg1:T523 Arg2:T5
 R120	Attack Arg1:T524 Arg2:T5
@@ -466,8 +471,6 @@ R126	Attack Arg1:T525 Arg2:T527
 R127	Support Arg1:T541 Arg2:T550
 R128	Support Arg1:T550 Arg2:T549
 R129	Support Arg1:T549 Arg2:T548
-T7	Claim 16491 16562	except they didn't ever go on and define what a qualified mortgage was.
-T6	Premise 16351 16489	so Dodd-Frank correctly says we need to have qualified mortgages, and if you give a mortgage that's not qualified, there are big penalties
 R130	Support Arg1:T548 Arg2:T6
 R131	Attack Arg1:T7 Arg2:T6
 R132	Support Arg1:T545 Arg2:T544
@@ -592,11 +595,8 @@ R250	Support Arg1:T684 Arg2:T685
 R251	Attack Arg1:T685 Arg2:T686
 R252	Support Arg1:T686 Arg2:T687
 R253	Support Arg1:T688 Arg2:T687
-T8	Premise 31802 31959	I think the American people have to ask themselves, is the reason that Governor Romney is keeping all these plans to replace secret because they're too good?
-T9	Premise 31969 32057	is it because that somehow middle-class families are going to benefit too much from them
 R254	Support Arg1:T687 Arg2:T689
 R255	Support Arg1:T8 Arg2:T9
-T10	Claim 32060 32063	No.
 R256	Attack Arg1:T10 Arg2:T9
 R257	Support Arg1:T689 Arg2:T8
 R258	Support Arg1:T690 Arg2:T691

@@ -1,3 +1,4 @@
+T1	Claim 14147 14166	That was a disaster
 T2	Premise 14168 14205	They lost plenty of money on that one
 T3	Premise 14217 14260	I'm a great believer in all forms of energy
 T4	Premise 14266 14307	we're putting a lot of people out of work
@@ -11,6 +12,20 @@ T11	Premise 20097 20165	You are going to approve one of the biggest tax increase
 T12	Premise 20167 20202	You are going to drive business out
 T13	Claim 20204 20235	Your regulations are a disaster
 T14	Claim 20241 20296	you're going to increase regulations all over the place
+T15	Premise 5938 5966	They left — fired 1,400 people
+T16	Premise 5968 5991	They're going to Mexico
+T17	Claim 9194 9215	So we have to do that
+T18	Claim 9217 9255	We have to renegotiate our trade deals
+T19	Premise 12192 12247	Nine million people — nine million people lost their jobs
+T20	Premise 13089 13149	we will be making investments where we can grow the economy.
+T21	Claim 13547 13568	here's what we can do
+T22	Claim 20360 20380	I'm very proud of it
+T23	Claim 20621 20712	the things that business as in people like the most is the fact that I'm cutting regulation
+T24	Claim 22730 22772	Well, at least I have a plan to fight ISIS
+T25	Premise 9500 9554	When they sell in — automatic, 16 percent, approximately
+T26	Premise 12945 12952;12954 13011	They've ooked at my plans and they've said, OK, if we can do this
+T27	Claim 13042 13079	we will have 10 million more new jobs
+T28	Claim 13427 13444	I do not say that
 T29	Premise 2835 2883	we need new jobs, good jobs, with rising incomes
 T30	Claim 2744 2822	we have to build an economy that works for everyone, not just those at the top
 T31	Claim 2534 2661	The central question in this election is really what kind of country we want to be and what kind of future we'll build together
@@ -49,6 +64,8 @@ T63	Claim 5432 5467	we can't allow it to happen anymore
 T64	Claim 5469 5564	As far as child care is concerned and so many other things, I think Hillary and I agree on that
 T65	Claim 5704 5754	we have to stop our jobs from being stolen from us
 T66	Premise 5756 5857	We have to stop our companies from leaving the United States and, with it, firing all of their people
+T67	Premise 14072 14145	She talks about solar panels. We invested in a solar company, our country
+T68	Premise 15721 15756	million new jobs, a balanced budget
 T69	Premise 5859 5936	All you have to do is take a look at Carrier air conditioning in Indianapolis
 T70	Claim 6051 6074	We cannot let it happen
 T71	Premise 5993 6050	So many hundreds and hundreds of companies are doing this
@@ -85,6 +102,7 @@ T101	Claim 8059 8237	I believe is the more we can do for the middle class, the m
 T102	Claim 8239 8288	That's the kind of economy I want us to see again
 T103	Claim 8896 8946	that's the kind of thinking that our country needs
 T104	Premise 8701 8866	my father gave me a very small loan in 1975, and I built it into a company that's worth many, many billions of dollars, with some of the greatest assets in the world
+T105	Claim 17063 17082	You haven't done it
 T106	Premise 9143 9193	What they're doing to us is a very, very sad thing
 T107	Premise 9104 9141	They're the best, the best ever at it
 T108	Premise 8978 9102	We don't know what we're doing when it comes to devaluations and all of these countries all over the world, especially China
@@ -96,6 +114,7 @@ T113	Premise 9430 9457	We're on a different system
 T114	Premise 9409 9428	They have a VAT tax
 T115	Premise 9370 9407	Let me give you the example of Mexico
 T116	Premise 9556 9594	When they sell into us, there's no tax
+T117	Claim 17314 17333	that's your opinion
 T118	Premise 9459 9498	When we sell into Mexico, there's a tax
 T119	Claim 9596 9622	It's a defective agreement
 T120	Claim 10035 10067	The NAFTA agreement is defective
@@ -127,6 +146,7 @@ T145	Claim 12480 12572	the last thing we need to do is to go back to the policie
 T146	Premise 11746 11929	That was in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm
 T147	Premise 11663 11744	We had the worst financial crisis, the Great Recession, the worst since the 1930s
 T148	Premise 11595 11661	let's stop for a second and remember where we were eight years ago
+T149	Claim 17335 17355	That is your opinion
 T150	Premise 12404 12474	we're now on the precipice of having a potentially much better economy
 T151	Premise 12379 12399	it has not been easy
 T152	Claim 12340 12373	we have come back from that abyss
@@ -134,10 +154,12 @@ T153	Premise 12291 12334	$13 trillion in family wealth was wiped out
 T154	Premise 12249 12285	Five million people lost their homes
 T155	Premise 12573 12944	Independent experts have looked at what I've proposed and looked at what Donald's proposed, and basically they've said this, that if his tax plan, which would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy, were to go into effect, we would lose 3.5 million jobs and maybe have another recession
 T156	Claim 13017 13040	I intend to get it done
+T157	Claim 22974 23063	No wonder you've been fighting — no wonder you've been fighting ISIS your entire adult life
 T158	Claim 13247 13317	Donald thinks that climate change is a hoax perpetrated by the Chinese
 T159	Claim 13459 13541	I think it's important that we grip this and deal with it, both at home and abroad
 T160	Claim 13367 13384	I do not say that
 T161	Claim 13395 13418	I think science is real
+T162	Claim 22922 22972	you're telling the enemy everything you want to do
 T163	Claim 13345 13354	I did not
 T165	Claim 13319 13336	I think it's real
 T166	Claim 13620 13671	We can have enough clean energy to power every home
@@ -223,7 +245,6 @@ T258	Premise 22565 22611	She tells you how to fight ISIS on her website
 T259	Premise 22541 22563	Just go to her website
 T260	Premise 22505 22539	She's telling us how to fight ISIS
 T261	Claim 22613 22677	I don't think General Douglas MacArthur would like that too much
-T1	Claim 14147 14166	That was a disaster
 R1	Support Arg1:T30 Arg2:T31
 R2	Support Arg1:T29 Arg2:T32
 R3	Support Arg1:T34 Arg2:T33
@@ -239,8 +260,6 @@ R15	Support Arg1:T61 Arg2:T56
 R16	Support Arg1:T60 Arg2:T59
 R17	Support Arg1:T57 Arg2:T58
 R19	Support Arg1:T66 Arg2:T65
-T15	Premise 5938 5966	They left — fired 1,400 people
-T16	Premise 5968 5991	They're going to Mexico
 R20	Support Arg1:T15 Arg2:T69
 R21	Support Arg1:T16 Arg2:T69
 R22	Support Arg1:T72 Arg2:T73
@@ -262,8 +281,6 @@ R37	Support Arg1:T101 Arg2:T102
 R38	Support Arg1:T104 Arg2:T103
 R39	Support Arg1:T109 Arg2:T103
 R40	Support Arg1:T108 Arg2:T109
-T17	Claim 9194 9215	So we have to do that
-T18	Claim 9217 9255	We have to renegotiate our trade deals
 R41	Support Arg1:T18 Arg2:T17
 R42	Support Arg1:T106 Arg2:T107
 R43	Support Arg1:T107 Arg2:T17
@@ -287,17 +304,14 @@ R60	Support Arg1:T147 Arg2:T148
 R61	Support Arg1:T146 Arg2:T147
 R62	Support Arg1:T153 Arg2:T152
 R63	Support Arg1:T154 Arg2:T152
-T19	Premise 12192 12247	Nine million people — nine million people lost their jobs
 R64	Support Arg1:T19 Arg2:T152
 R65	Support Arg1:T150 Arg2:T145
 R66	Support Arg1:T151 Arg2:T145
-T20	Premise 13089 13149	we will be making investments where we can grow the economy.
 R67	Support Arg1:T155 Arg2:T145
 R68	Support Arg1:T161 Arg2:T165
 R69	Support Arg1:T2 Arg2:T1
 R70	Support Arg1:T173 Arg2:T172
 R71	Support Arg1:T4 Arg2:T172
-T21	Claim 13547 13568	here's what we can do
 R72	Support Arg1:T167 Arg2:T21
 R73	Support Arg1:T166 Arg2:T21
 R74	Support Arg1:T168 Arg2:T21
@@ -330,9 +344,7 @@ R100	Attack Arg1:T10 Arg2:T232
 R101	Attack Arg1:T11 Arg2:T232
 R102	Attack Arg1:T12 Arg2:T232
 R103	Support Arg1:T14 Arg2:T13
-T22	Claim 20360 20380	I'm very proud of it
 R104	Support Arg1:T234 Arg2:T22
-T23	Claim 20621 20712	the things that business as in people like the most is the fact that I'm cutting regulation
 R105	Support Arg1:T23 Arg2:T237
 R106	Support Arg1:T243 Arg2:T236
 R107	Support Arg1:T240 Arg2:T13
@@ -341,7 +353,6 @@ R109	Support Arg1:T249 Arg2:T248
 R110	Attack Arg1:T246 Arg2:T13
 R111	Support Arg1:T251 Arg2:T250
 R112	Support Arg1:T252 Arg2:T250
-T24	Claim 22730 22772	Well, at least I have a plan to fight ISIS
 R113	Attack Arg1:T254 Arg2:T24
 R114	Support Arg1:T29 Arg2:T30
 R115	Support Arg1:T42 Arg2:T40
@@ -374,7 +385,6 @@ R137	Support Arg1:T101 Arg2:T96
 R138	Attack Arg1:T104 Arg2:T99
 R139	Support Arg1:T115 Arg2:T111
 R140	Support Arg1:T113 Arg2:T111
-T25	Premise 9500 9554	When they sell in — automatic, 16 percent, approximately
 R141	Support Arg1:T25 Arg2:T113
 R142	Attack Arg1:T123 Arg2:T122
 R143	Attack Arg1:T124 Arg2:T122
@@ -385,35 +395,27 @@ R147	Support Arg1:T141 Arg2:T137
 R148	Support Arg1:T133 Arg2:T134
 R149	Support Arg1:T143 Arg2:T142
 R150	Attack Arg1:T144 Arg2:T142
-T26	Premise 12945 12952;12954 13011	They've ooked at my plans and they've said, OK, if we can do this
 R151	Support Arg1:T26 Arg2:T156
-T27	Claim 13042 13079	we will have 10 million more new jobs
 R152	Support Arg1:T20 Arg2:T27
 R153	Support Arg1:T156 Arg2:T27
 R154	Attack Arg1:T165 Arg2:T158
 R155	Attack Arg1:T160 Arg2:T158
-T28	Claim 13427 13444	I do not say that
 R156	Equivalent Arg1:T28 Arg2:T160
 R157	Support Arg1:T21 Arg2:T159
 R158	Support Arg1:T169 Arg2:T159
 R159	Support Arg1:T170 Arg2:T159
-T67	Premise 14072 14145	She talks about solar panels. We invested in a solar company, our country
 R160	Attack Arg1:T1 Arg2:T67
 R161	Attack Arg1:T1 Arg2:T167
 R162	Attack Arg1:T4 Arg2:T3
 R163	Equivalent Arg1:T172 Arg2:T1
 R164	Support Arg1:T177 Arg2:T176
 R165	Support Arg1:T180 Arg2:T174
-T68	Premise 15721 15756	million new jobs, a balanced budget
 R166	Support Arg1:T68 Arg2:T185
 R167	Support Arg1:T192 Arg2:T191
-T105	Claim 17063 17082	You haven't done it
 R168	Equivalent Arg1:T199 Arg2:T105
 R169	Attack Arg1:T201 Arg2:T105
 R170	Equivalent Arg1:T7 Arg2:T188
-T117	Claim 17314 17333	that's your opinion
 R171	Attack Arg1:T117 Arg2:T7
-T149	Claim 17335 17355	That is your opinion
 R172	Equivalent Arg1:T117 Arg2:T149
 R173	Support Arg1:T209 Arg2:T208
 R174	Support Arg1:T206 Arg2:T208
@@ -427,8 +429,6 @@ R181	Support Arg1:T236 Arg2:T13
 R182	Attack Arg1:T246 Arg2:T239
 R183	Support Arg1:T250 Arg2:T246
 R184	Attack Arg1:T261 Arg2:T258
-T157	Claim 22974 23063	No wonder you've been fighting — no wonder you've been fighting ISIS your entire adult life
-T162	Claim 22922 22972	you're telling the enemy everything you want to do
 R185	Support Arg1:T162 Arg2:T157
 R186	Attack Arg1:T256 Arg2:T254
 R187	Attack Arg1:T162 Arg2:T256

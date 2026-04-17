@@ -1,3 +1,5 @@
+T1	Claim 629 639	I'm for it
+T2	Claim 363 373	I'm for it
 T696	Claim 333 343	I'm for it
 T697	Premise 345 361	That's my policy
 T699	Claim 375 627	I believe that any law- abiding, tax-paying citizen who shows up in the morning and doesn't break the law and doesn't interfere with his or her neighbors ought to have the ability to work in our country and shouldn't be subject to unfair discrimination
@@ -44,8 +46,6 @@ T740	Claim 2898 2961	I have worked so hard out here to help turn this economy ar
 T741	Premise 3002 3166	In San Diego where we had some defense cutbacks, we funded a project for the University of California San Diego to use airplane composite materials to build lighter
 T742	Premise 3168 3184	stronger bridges
 T743	Claim 3247 3397	that composite now is going to be built around the bridges on the Santa Monica Freeway to help minimize the impact of earthquakes and create more jobs
-T1	Claim 629 639	I'm for it
-T2	Claim 363 373	I'm for it
 R1	Support Arg1:T697 Arg2:T696
 R2	Support Arg1:T699 Arg2:T696
 R3	Support Arg1:T702 Arg2:T705

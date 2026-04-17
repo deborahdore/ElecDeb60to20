@@ -1,3 +1,5 @@
+T1	Premise 792 859	for the last eight years I've been on the National Security Council
+T2	Premise 2673 2728	If this were a spending contest, I would come in second
 T372	Claim 2563 2596	I propose more than twice as much
 T373	Claim 2605 2624	I think it's needed
 T374	Premise 2528 2561	The governor proposes $45 billion
@@ -32,14 +34,13 @@ T402	Claim 3602 3694	I want to make sure the equipment for our military is the b
 T403	Premise 3534 3600	The Vice President mentioned my view of long-term for the military
 T404	Claim 3726 3897	we have an opportunity to use our research and development capacities, the great technology of the United States, to make our military lighter, harder to find, more lethal
 T405	Claim 4147 4172	This is a peaceful nation
-T407	Claim 3899 3921	We have an opportunity
 T406	Premise 3931 4145	if you think about it, if we're smart and have got a strategic vision and a leader who understands strategic planning, to make sure that we change the terms of the battlefield of the future so we can keep the peace
+T407	Claim 3899 3921	We have an opportunity
 T408	Claim 4178 4204	I intend to keep the peace
 T409	Claim 4239 4303	spending money without a strategic plan can oftentimes be wasted
 T410	Premise 4206 4233	Spending money is one thing
 T411	Claim 4386 4567	we are making sure we're not spending our money on political projects, but on projects to make sure our soldiers are well-paid, well-housed, and have the best equipment in the world
 T412	Premise 4305 4382	First thing I'm going to do is ask the Secretary of Defense to develop a plan
-T1	Premise 792 859	for the last eight years I've been on the National Security Council
 R1	Support Arg1:T1 Arg2:T385
 R2	Support Arg1:T385 Arg2:T384
 R3	Attack Arg1:T382 Arg2:T383
@@ -61,7 +62,6 @@ R18	Attack Arg1:T372 Arg2:T374
 R19	Support Arg1:T373 Arg2:T372
 R20	Support Arg1:T372 Arg2:T375
 R21	Support Arg1:T375 Arg2:T379
-T2	Premise 2673 2728	If this were a spending contest, I would come in second
 R22	Support Arg1:T2 Arg2:T392
 R23	Support Arg1:T393 Arg2:T394
 R24	Support Arg1:T394 Arg2:T395

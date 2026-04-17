@@ -1,3 +1,4 @@
+T1	Claim 2694 2728	we need to do something about that
 T862	Claim 545 577	I think credibility is important
 T863	Premise 579 653	It is going to be important for the president to be credible with Congress
 T864	Premise 655 718	important for the president to be credible with foreign nations
@@ -31,7 +32,6 @@ T892	Claim 4496 4606	I think anybody would have a hard time explaining that clea
 T893	Claim 4271 4494	I think the point of that is that anybody would have a hard time trying to make a tax cut plan that is so large, that would put us into such big deficits, that gives almost half the benefits to the wealthiest of the wealthy
 T894	Premise 4615 4671	That's the kind of exaggeration I was just talking about
 T895	Premise 4697 4742	I wasn't the one having trouble explaining it
-T1	Claim 2694 2728	we need to do something about that
 R1	Support Arg1:T864 Arg2:T862
 R2	Support Arg1:T863 Arg2:T862
 R3	Support Arg1:T865 Arg2:T862

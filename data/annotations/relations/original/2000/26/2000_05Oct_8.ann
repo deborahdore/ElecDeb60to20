@@ -1,3 +1,12 @@
+T1	Question 51 368	Many experts are forecasting continuing chaotic oil prices in the world market. Wholesale natural gas prices here in our country are leaping. Then there are coal and electricity. Have previous Republican and Democratic Congresses and administrations, including this one, done their job to protect the American people?
+T2	Premise 3110 3150	They're operating at 96% or 97% capacity
+T3	Premise 3152 3182	Even with more crude available
+T4	Question 4318 4574	Your congressional record, you sponsored a bill that said no to oil and gas exploration in the Wyoming wilderness areas of your home state. However, you co-sponsored a bill that said yes to drilling in the Arctic National Wildlife Refuge. Your explanation?
+T5	Claim 4584 4660	It shows I have a balanced approach to how we deal with environmental issues
+T6	Premise 4847 5032	I worked on that with my good friend Al Simpson for about four years. We set aside a part of Wyoming, nearly a million acres of wilderness that ought to be separate and not be developed
+T7	Premise 7288 7340	It happens to be within the United States of America
+T8	Premise 7342 7463	It's not worth it to do that for what seems to be the possibility of six months' worth of oil, seven to 12 years from now
+T9	Premise 7465 7597	That's not much of a response to the immediate problem that gasoline consumers and home heating oil customers are facing this winter
 T351	Premise 230 367	Have previous Republican and Democratic Congresses and administrations, including this one, done their job to protect the American people
 T352	Claim 51 129	Many experts are forecasting continuing chaotic oil prices in the world market
 T353	Claim 131 191	Wholesale natural gas prices here in our country are leaping
@@ -72,6 +81,7 @@ T421	Claim 5996 6048	we do have to get on with developing those resources
 T422	Claim 6052 6120	we're going to find ourselves ever more dependent on foreign sources
 T423	Claim 6122 6265	We're going to find that the fact that we don't have an energy policy out there is one of the major storm clouds on the horizon for our economy
 T424	Claim 7153 7194	I'm against drilling in the Arctic Refuge
+T425	Premise 7196 7286	This is one of the most beautiful, pristine places that the good Lord has created on earth
 T426	Claim 6602 6625	we agree on the problem
 T427	Claim 6630 6686	we couldn't disagree more on the response to the problem
 T428	Claim 6764 6885	if we remain dependent on a source of energy that is outside our control, we're not going to be as strong as we should be
@@ -80,7 +90,6 @@ T430	Claim 6887 6941	Others around the world can effectively yank our chain
 T431	Premise 6947 6989	we cannot allow that to continue to happen
 T432	Premise 6991 7051	I'm afraid that our opponent's response to this is one-sided
 T433	Claim 7057 7151	it is essentially to develop the resources within the United States almost regardless of where
-T425	Premise 7196 7286	This is one of the most beautiful, pristine places that the good Lord has created on earth
 T434	Claim 7599 7668	There are more resources within the United States that we can develop
 T435	Premise 7718 7791	In the last eight years drilling for gas on federal lands has gone up 60%
 T436	Claim 7796 7846	it's been done in an environmentally protected way
@@ -90,7 +99,6 @@ T439	Claim 8047 8159	If we can get three miles more per gallon from our cars we'
 T440	Premise 8161 8229	which is exactly what the refuge at its best in Alaska would produce
 T441	Premise 8231 8256	The choice to me is clear
 T442	Claim 8258 8357	We have to develop fuel cells, alternative energy, encourage people to conserve and to be efficient
-T1	Question 51 368	Many experts are forecasting continuing chaotic oil prices in the world market. Wholesale natural gas prices here in our country are leaping. Then there are coal and electricity. Have previous Republican and Democratic Congresses and administrations, including this one, done their job to protect the American people?
 R1	Attack Arg1:T356 Arg2:T355
 R2	Support Arg1:T360 Arg2:T356
 R3	Attack Arg1:T359 Arg2:T360
@@ -126,9 +134,7 @@ R32	Support Arg1:T389 Arg2:T387
 R33	Support Arg1:T390 Arg2:T387
 R34	Support Arg1:T388 Arg2:T376
 R35	Support Arg1:T391 Arg2:T388
-T2	Premise 3110 3150	They're operating at 96% or 97% capacity
 R36	Support Arg1:T2 Arg2:T391
-T3	Premise 3152 3182	Even with more crude available
 R37	Attack Arg1:T392 Arg2:T3
 R38	Support Arg1:T392 Arg2:T388
 R39	Support Arg1:T393 Arg2:T392
@@ -141,10 +147,7 @@ R45	Support Arg1:T397 Arg2:T403
 R46	Support Arg1:T378 Arg2:T403
 R47	Attack Arg1:T395 Arg2:T396
 R48	Support Arg1:T395 Arg2:T403
-T4	Question 4318 4574	Your congressional record, you sponsored a bill that said no to oil and gas exploration in the Wyoming wilderness areas of your home state. However, you co-sponsored a bill that said yes to drilling in the Arctic National Wildlife Refuge. Your explanation?
-T5	Claim 4584 4660	It shows I have a balanced approach to how we deal with environmental issues
 R49	Support Arg1:T405 Arg2:T404
-T6	Premise 4847 5032	I worked on that with my good friend Al Simpson for about four years. We set aside a part of Wyoming, nearly a million acres of wilderness that ought to be separate and not be developed
 R50	Support Arg1:T6 Arg2:T405
 R51	Support Arg1:T406 Arg2:T405
 R52	Support Arg1:T408 Arg2:T407
@@ -173,11 +176,8 @@ R74	Attack Arg1:T433 Arg2:T420
 R75	Support Arg1:T424 Arg2:T433
 R76	Attack Arg1:T424 Arg2:T410
 R77	Support Arg1:T425 Arg2:T424
-T7	Premise 7288 7340	It happens to be within the United States of America
-T8	Premise 7342 7463	It's not worth it to do that for what seems to be the possibility of six months' worth of oil, seven to 12 years from now
 R78	Support Arg1:T8 Arg2:T424
 R79	Support Arg1:T7 Arg2:T424
-T9	Premise 7465 7597	That's not much of a response to the immediate problem that gasoline consumers and home heating oil customers are facing this winter
 R80	Support Arg1:T9 Arg2:T8
 R81	Support Arg1:T434 Arg2:T424
 R82	Support Arg1:T435 Arg2:T436

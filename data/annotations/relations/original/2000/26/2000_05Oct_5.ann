@@ -1,3 +1,11 @@
+T1	Question 36 250	You and Governor Bush charge the Clinton-Gore administration have presided over the deterioration and overextension of America's armed forces. Should U.S. military personnel be deployed as warriors or peacekeepers?
+T2	Premise 1366 1439	I saw a letter the other day from a young captain stationed in Fort Bragg
+T3	Premise 2801 2978	The fact is, judging by its results from Desert Storm to the Balkans, Bosnia and Kosovo, to the operations that are still being conducted to keep Saddam Hussein in a box in Iraq
+T4	Claim 2980 3027	the American military has performed brilliantly
+T5	Claim 4296 4409	It's irresponsible to suggest we shouldn't have this debate, that we should ignore what is a major, major concern
+T6	Premise 4699 4796	The important thing for us to remember is that we're a democracy and we're defended by volunteers
+T7	Premise 6685 6868	What I'm saying now I'm basing on serving on the Senate Armed Services Committee talking to exactly the people Dick Cheney has mentioned, the Secretary of Defense, the Chiefs of Staff
+T8	Premise 6870 6919	I've visited our fighting forces around the world
 T203	Claim 260 303	My preference is to deploy them as warriors
 T204	Claim 389 463	I think the role ought to be limited, there ought to be a time limit on it
 T205	Premise 465 530	The reason we have a military is to be able to fight and win wars
@@ -6,8 +14,8 @@ T207	Premise 536 659	to maintain with sufficient strength so that would-be adver
 T208	Claim 661 752	I think that the administration has, in fact, in this area failed in a major responsibility
 T209	Premise 754 856	We've seen a reduction in our forces far beyond anything that was justified by the end of the Cold War
 T210	Premise 875 979	we've seen a rapid expansion of our commitments around the world as troops have been sent hither and yon
-T212	Premise 1441 1655	a graduate of West Point in '95 getting ready to get out of the service because he's only allowed to train with his troops when fuel is available for the vehicles and only allowed to fire their weapons twice a year
 T211	Claim 1799 1877	The fact that the U.S. military is worse off today than it was eight years ago
+T212	Premise 1441 1655	a graduate of West Point in '95 getting ready to get out of the service because he's only allowed to train with his troops when fuel is available for the vehicles and only allowed to fire their weapons twice a year
 T214	Premise 1657 1736	He's concerned that if he had to send them into combat it would mean lives lost
 T215	Premise 1738 1797	That is a legitimate concern, this is a very important area
 T216	Claim 1281 1319	We're overcommitted and underresourced
@@ -77,7 +85,6 @@ T281	Claim 8096 8194	person-to-person, person-by-person, unit-by-unit, this is t
 T282	Premise 8196 8223	not only in the world today
 T283	Premise 8229 8256	in the history of the world
 T284	Premise 8047 8090	There's still fewer people in uniform today
-T1	Question 36 250	You and Governor Bush charge the Clinton-Gore administration have presided over the deterioration and overextension of America's armed forces. Should U.S. military personnel be deployed as warriors or peacekeepers?
 R1	Attack Arg1:T204 Arg2:T206
 R2	Support Arg1:T204 Arg2:T203
 R3	Support Arg1:T205 Arg2:T203
@@ -87,7 +94,6 @@ R6	Support Arg1:T210 Arg2:T208
 R7	Support Arg1:T218 Arg2:T210
 R8	Support Arg1:T219 Arg2:T216
 R9	Support Arg1:T216 Arg2:T208
-T2	Premise 1366 1439	I saw a letter the other day from a young captain stationed in Fort Bragg
 R10	Support Arg1:T2 Arg2:T212
 R11	Support Arg1:T212 Arg2:T217
 R12	Support Arg1:T215 Arg2:T214
@@ -101,8 +107,6 @@ R19	Attack Arg1:T222 Arg2:T211
 R20	Support Arg1:T222 Arg2:T223
 R21	Attack Arg1:T225 Arg2:T211
 R22	Support Arg1:T225 Arg2:T224
-T3	Premise 2801 2978	The fact is, judging by its results from Desert Storm to the Balkans, Bosnia and Kosovo, to the operations that are still being conducted to keep Saddam Hussein in a box in Iraq
-T4	Claim 2980 3027	the American military has performed brilliantly
 R23	Support Arg1:T3 Arg2:T4
 R24	Support Arg1:T227 Arg2:T4
 R25	Attack Arg1:T224 Arg2:T208
@@ -122,13 +126,11 @@ R38	Support Arg1:T238 Arg2:T240
 R39	Support Arg1:T239 Arg2:T238
 R40	Support Arg1:T239 Arg2:T237
 R41	Support Arg1:T237 Arg2:T240
-T5	Claim 4296 4409	It's irresponsible to suggest we shouldn't have this debate, that we should ignore what is a major, major concern
 R42	Attack Arg1:T5 Arg2:T225
 R43	Support Arg1:T242 Arg2:T241
 R44	Support Arg1:T243 Arg2:T241
 R45	Support Arg1:T244 Arg2:T241
 R46	Attack Arg1:T241 Arg2:T4
-T6	Premise 4699 4796	The important thing for us to remember is that we're a democracy and we're defended by volunteers
 R47	Support Arg1:T246 Arg2:T6
 R48	Support Arg1:T250 Arg2:T251
 R49	Support Arg1:T249 Arg2:T251
@@ -151,8 +153,6 @@ R65	Attack Arg1:T260 Arg2:T4
 R66	Attack Arg1:T253 Arg2:T232
 R67	Support Arg1:T268 Arg2:T5
 R68	Attack Arg1:T269 Arg2:T268
-T7	Premise 6685 6868	What I'm saying now I'm basing on serving on the Senate Armed Services Committee talking to exactly the people Dick Cheney has mentioned, the Secretary of Defense, the Chiefs of Staff
-T8	Premise 6870 6919	I've visited our fighting forces around the world
 R69	Support Arg1:T8 Arg2:T276
 R70	Support Arg1:T7 Arg2:T276
 R71	Attack Arg1:T276 Arg2:T259

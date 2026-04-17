@@ -1,3 +1,4 @@
+T1	Claim 8741 8803	These are a few of the things to which our nation is committed
 T216	Claim 909 971	we committed ourselves to take strong action against terrorism
 T217	Claim 720 799	one of the blights on this world is the threat and the activities of terrorists
 T218	Premise 973 1034	Airplane hijacking was one of the elements of that commitment
@@ -63,7 +64,6 @@ R18	Support Arg1:T238 Arg2:T243
 R19	Support Arg1:T239 Arg2:T238
 R20	Support Arg1:T249 Arg2:T248
 R21	Support Arg1:T250 Arg2:T248
-T1	Claim 8741 8803	These are a few of the things to which our nation is committed
 R22	Support Arg1:T255 Arg2:T1
 R23	Support Arg1:T252 Arg2:T1
 R24	Support Arg1:T253 Arg2:T1

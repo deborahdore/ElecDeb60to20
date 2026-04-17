@@ -85,22 +85,22 @@ T84	Claim 12172 12207	We are committed to the environment
 T85	Claim 12056 12132	For the first time we are talking about the impact of CO2 to the ozone layer
 T86	Claim 11955 11990	We now have an international treaty
 T87	Premise 11992 12054	the treaty that is commonly referred to as the Montreal Treaty
+T88	Claim 13005 13095	Who has the environmental record? Who has the environmental interest? George Bush and I do
 T89	Claim 12289 12347	Believe me, we have a commit to preserving the environment
 T90	Claim 12349 12467	You bring up the environment, you can't help but think about the environmental policy of the governor of Massachusetts
 T91	Claim 12692 12765	What has the governor of Massachusetts done about that? Virtually nothing
-T88	Claim 13005 13095	Who has the environmental record? Who has the environmental interest? George Bush and I do
 T92	Claim 12888 13003	This is the same governor that applied for a license to dump Massachusetts sewage waste off the coast of New Jersey
 T93	Premise 12771 12886	then he has the audacity to go down to New Jersey and tell the people of New Jersey that he's against ocean dumping
 T94	Premise 12579 12690	the Boston Harbor, which is the dirtiest waterway in America, tons of raw sewage go in there each and every day
 T95	Claim 12469 12509	He talks about being an environmentalist
 T96	Claim 13202 13356	I must say, when they talk about Boston Harbor and he says he hasn't done anything, the facts are he has a $6-billion program under way on waste treatment
 T97	Claim 13362 13540	it was this administration, their administration, that cut out the money early on to be able to clean up water, and made it impossible to move ahead at that time on Boston Harbor
+T98	Claim 14099 14144	Dukakis and Bentsen will be committed to that
 T99	Claim 13984 14050	I think we know well who's going to help clean up this environment
 T100	Claim 13632 13706	I am one who played a very major role in passing the superfund legislation
 T101	Claim 13542 13630	We are the authors, the Democratic Party, of Clean Air, of Clean Water, of the superfund
 T102	Claim 13712 13818	every environmental organization that I know, every major one, has now endorsed the Dukakis-Bentsen ticket
 T103	Claim 13824 13978	I am one who has just received the environmental award in Texas for the work I've done to clean up the bays, to clean up the water, off the coast of Texas
-T98	Claim 14099 14144	Dukakis and Bentsen will be committed to that
 T104	Premise 14052 14093	The record is there, the history is there
 T105	Claim 14922 14998	You may be surprised, Tom, they didn't ask me those questions on those votes
 T106	Premise 15008 15190	they were glad that I took time out of my schedule to go down and to talk about how we are going to get a food bank going and making sure that a food bank goes in Fort Wayne, Indiana
@@ -238,6 +238,7 @@ T237	Claim 31392 31512	that's what a Democratic administration would do to help 
 T238	Premise 31190 31276	Most employers do a good job of that, but some of them put their profits before people
 T239	Claim 32257 32276	I've supported that
 T240	Claim 32278 32371	I voted for the 50,000 limitation to get away from the million dollar contributions to farmer
+T241	Claim 34017 34156	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
 T242	Claim 32505 32559	I think I understand their concerns and their problems
 T243	Premise 32373 32500	You know, of the four that are on this ticket, I'm the only on that was born and reared on a farm and still involved in farming
 T244	Claim 32566 32713	I feel very strongly that we ought to be doing more for the American farmer and what we've seen under this administration is neglect of that farmer
@@ -250,7 +251,6 @@ T250	Premise 33125 33157	they have not had a trade policy
 T251	Claim 33159 33200	We saw our market loss by some 40 percent
 T252	Claim 33206 33380	that's one of the reasons that we've seen the cost of the farm program, which was only about two and a half billion dollars when they took office, now go to about $25 billion
 T253	Claim 33387 33488	we can bring that kind of a cost down and get more to market prices if we'll have a good trade policy
-T241	Claim 34017 34156	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
 T254	Claim 34161 34221	I think we can do it with the Dukakis-Bentsen administration
 T255	Claim 34326 34469	I'll tell you one way that we're not going to recapture the foreign markets and that is if, in fact, we have another Jimmy Carter grain embargo
 T256	Claim 34582 34639	You know what the farmer's interested in? Net farm income
@@ -333,10 +333,10 @@ T332	Claim 45196 45222	I immediately disbanded it
 T333	Claim 45224 45246	It was perfectly legal
 T334	Claim 45322 45440	I still believe that the better way to go is to have a campaign reform law that takes care of that kind of a situation
 T335	Claim 45442 45487	Even though it's legal, the perception is bad
+T336	Claim 46073 46163	That way, we won't have to worry about breakfast clubs, or who's the number one PAC raiser
 T337	Claim 45492 45559	I would push very strong to see that we reform the entire situation
 T338	Claim 45561 45582	I'd work for that end
 T339	Claim 45588 45662	that's what my friend from Indiana has opposed repeatedly, vote after vote
-T336	Claim 46073 46163	That way, we won't have to worry about breakfast clubs, or who's the number one PAC raiser
 T340	Claim 46165 46267	We can go back and get the contributions from the working men and women and the individuals of America
 T341	Claim 46021 46071	There's legislation before the Congress to do that
 T342	Claim 45948 46019	Let's eliminate political action committees, the special interest money
@@ -345,8 +345,8 @@ T344	Claim 46776 46788	No one knows
 T345	Claim 46319 46341	it needs strengthening
 T346	Claim 46409 46456	That's the kind of campaign reform that I'm for
 T347	Claim 46462 46493	I hope the Senator will join me
-T349	Premise 46794 47025	most scientists think, that something we're doing, human beings are doing, are exacerbating this problem, and that this could, in a couple of generations, threaten our descendants comfort and health and perhaps even their existence
 T348	Claim 47267 47396	I think what you can do in that one, and which would be very helpful, is to use a lot more natural gas, which burns a lot cleaner
+T349	Premise 46794 47025	most scientists think, that something we're doing, human beings are doing, are exacerbating this problem, and that this could, in a couple of generations, threaten our descendants comfort and health and perhaps even their existence
 T350	Claim 48543 48746	we must be committed to trying - to clean up the water, clean up the air, and do everything we can, not only from a research standpoint, but also in the applied legislation to see that that's carried out
 T351	Claim 48471 48537	if we don't protect that, we'll destroy the future of our children
 T352	Claim 48373 48461	I'll do those things that are necessary to put the environment of our country number one
@@ -489,11 +489,11 @@ T488	Claim 67686 67773	I stand before you tonight - as the most investigated per
 T489	Claim 67893 67953	I have never professed to be anything but an average student
 T490	Claim 67955 68002	I have never said I was anything more than that
 T491	Claim 68008 68094	it's not whether you're an average study, it's what are you going to do with your life
+T492	Claim 68140 68205	I have committed it to public service since I was 29 years of age
 T493	Premise 67795 67872	Thousands of journalists have asked every professor I've had, all my teachers
 T494	Claim 68100 68138	what have I - going to do with my life
 T495	Claim 68300 68374	I now have the opportunity at 41 to seek the office of the Vice Presidency
 T496	Premise 68249 68298	Elected to the United States Senate when I was 33
-T492	Claim 68140 68205	I have committed it to public service since I was 29 years of age
 T497	Premise 68208 68247	elected to the House of Representatives
 T498	Claim 68486 68539	I do strongly disagree with him on some of the issues
 T499	Claim 68414 68480	I have absolutely no quarrel with Senator Quayle's military record
@@ -504,9 +504,9 @@ T503	Premise 68913 69025	Tax on their disability pay when they're lying there in
 T504	Premise 68749 68911	one of them that particularly bothers me, sponsoring legislation to put a tax on combat pay and disability pay for veterans, for fighting men and women of America
 T505	Claim 69820 69969	I try to turn the situation around where we have seen the subsidy payments go from two and a half billion to ten times that under this administration
 T506	Claim 69975 70110	the way I would accomplish that--was with a tough trade policy, opening up those markets, getting those prices back up to market prices
+T507	Claim 70112 70289	We can do that if we have an aggressive trade policy for our country, if we make trade a number one priority and not trade it off for some foreign policy objective at the moment
 T508	Claim 70291 70403	That means we have to stand up for the American farmers and that cuts back on the regulation on American farmers
 T509	Claim 70405 70445	That's a positive way to accomplish that
-T507	Claim 70112 70289	We can do that if we have an aggressive trade policy for our country, if we make trade a number one priority and not trade it off for some foreign policy objective at the moment
 T510	Claim 70468 70566	we do some of the things that I think have to be done insofar as doing a better job of procurement
 T511	Premise 70568 70652	particularly when we're talking about some of our military things that we should buy
 T512	Claim 70654 70804	I know that I fought very hard to put in an independent inspector general for the Defense Department, that the Senator from Indiana opposed me on that
@@ -533,8 +533,8 @@ T532	Claim 72176 72212	The Gramm-Rudman targets have worked
 T533	Claim 72214 72266	We've reduced the Federal budget deficit $70 billion
 T534	Premise 72268 72385	Senator Bentsen voted against Gramm-Rudman, the very tool that has been used to bring the Federal budget deficit down
 T535	Claim 72512 72611	A line item veto that 43 governors in this country have, but not the President of the United States
-T537	Claim 72854 72887	let the Congress vote on it again
 T536	Claim 72680 72849	When Congress goes ahead and puts into appropriations bills unrequested and unnecessary spending, let the President put a line through that, send it back to the Congress
+T537	Claim 72854 72887	let the Congress vote on it again
 T538	Claim 73672 73802	I think it's part of the strength and the character of this land that he reaches out, and that he wants someone that will speak up
 T539	Claim 73809 73821	that I'll do
 T540	Claim 73628 73670	Michael Dukakis wasn't looking for a clone
@@ -560,6 +560,7 @@ T559	Claim 75719 75799	He is opposed to many defense programs that are necessary
 T560	Claim 75643 75717	he is against the MX missile, the midgetman, cutting two aircraft carriers
 T561	Claim 77564 77615	You're going to have that choice come this election
 T562	Claim 77617 77663	Everyone can make a difference if they want to
+T563	Claim 77533 77562	America can make a difference
 T566	Claim 77703 77893	I think being born and reared on the Rio Grande, to have spent part of my life seeing some of the struggles that have taken place in one of the lowest per capita incomes in the United States
 T567	Claim 77899 77971	that's one of the reasons I worked so hard to try to assist on education
 T568	Claim 78140 78314	I went down there and helped form a nonprofit organization, to buy out those loans from them, and to manage them, and do it in a way where they'd continue to make those loans
@@ -586,6 +587,7 @@ T588	Claim 80606 80655	it's simply that they will take America backwards
 T589	Claim 80966 80996	It's a most important decision
 T590	Premise 81006 81101	there's no bigger job than governing this great country of ours, and leading it into its future
 T591	Claim 80898 80964	In just 34 days, America will elect new leadership for our country
+T592	Claim 81682 81728	As Americans, we honor our past, and we should
 T593	Claim 82377 82428	The debate has been ours, but the decision is yours
 T594	Claim 82328 82375	Help us bring America to a new era of greatness
 T595	Claim 82081 82203	I've worked for the betterment of our country, both in war and peace, as a bomber pilot, as one who has been a businessman
@@ -594,11 +596,9 @@ T597	Claim 82021 82079	the commitment, and a contribution by all of us to do tha
 T598	Claim 81954 81983	It's going to take leadership
 T599	Claim 81989 82015	it's going to take courage
 T600	Claim 81925 81952	It won't happen by accident
-T592	Claim 81682 81728	As Americans, we honor our past, and we should
 T601	Claim 81842 81859	that won't happen
 T602	Premise 81861 81923	Taking care of our economy, just putting it on automatic pilot
 T603	Claim 81734 81778	our children are going to live in the future
 T604	Claim 80657 80700;80714 80781	George Bush has the experience, and with me a future committed to our family, a future committed to the freedom
-T563	Claim 77533 77562	America can make a difference
 T605	Premise 77104 77126	It's very common sense
 T606	Premise 77132 77224	she says, "You can do anything you want to if you just set your mind to it, and go to work."

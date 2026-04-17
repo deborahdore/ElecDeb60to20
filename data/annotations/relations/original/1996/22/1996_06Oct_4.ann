@@ -19,6 +19,7 @@ T162	Claim 1315 1354	he probably doesn't like this provision
 T163	Premise 1252 1313	the President gets millions of dollars from the trial lawyers
 T164	Premise 1365 1526	when I fell off the podium in Chico, before I lit the ground, hit the ground I had call on my cell phone from a trial lawyer saying I think we've got a case here
 T165	Premise 1532 1559	it's also regulatory reform
+T166	Premise 1745 1977	500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program
 T167	Premise 1698 1717	It sounds very good
 T168	Claim 1979 2234	It's a $550 billion tax scheme that will cause a big hole in the deficit which will raise interest rates and slow down the economy and cause people to pay more for home mortgages, car payments, credit card payments, college loans, and small business loans
 T169	Claim 2236 2270	It's not good to raise the deficit
@@ -35,7 +36,6 @@ T179	Claim 2936 3020	I want the government to pinch pennies for a change instead
 T180	Premise 3022 3078	We're talking about six percentage points over six years
 T181	Premise 3084 3138	with that money you give it back to the working people
 T182	Premise 3140 3290	You also provide opportunity scholarships so low income parents will have the same choice that others have in sending their children to better schools
-T166	Premise 1745 1977	500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program
 R1	Support Arg1:T145 Arg2:T149
 R2	Support Arg1:T148 Arg2:T149
 R3	Support Arg1:T150 Arg2:T151

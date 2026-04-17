@@ -1,3 +1,14 @@
+T1	Premise 9907 9928	so does Governor Bush
+T2	Premise 4216 4263	You ask the Strunks whose plan makes more sense
+T3	Claim 6458 6531	This man has been disparaging my plan with all this Washington fuzzy math
+T4	Premise 6533 6589	I want you to hear a problem weâ€™ve got here in the USA
+T5	Premise 9619 9648	What I care about is children
+T6	Premise 9654 9678	so does Michael Feinberg
+T7	Claim 10152 10199	a form of testing the governor has not endorsed
+T8	Premise 13671 13720	private schools play a great role in our society.
+T9	Premise 13721 13793	All of our children have gone to both public schools and private schools
+T10	Premise 15404 15515	I'm saying is if you spend money, show us results and test every year, which you do not do, Mr. Vice President.
+T11	Claim 15543 15641	You can say you do to the cameras but you don't, unless you've changed your plan here on the stage
 T459	Claim 193 203	absolutely
 T460	Claim 205 266	This is a very important moment in the history of our country
 T461	Premise 274 332	we've got the biggest surpluses in all of American history
@@ -175,7 +186,6 @@ T633	Claim 15783 15906	one of the things that we have to be careful about in pol
 T634	Premise 15908 16058	More money is needed and I spend more money, but step one is to make sure we reform the system to have the system in place that leaves no child behind
 T635	Premise 16060 16163	Stop this business about asking gosh, how old are you? If you're 10 we'll put you here, 12 you put here
 T636	Premise 16165 16209	Start asking the question, what do you know?
-T1	Premise 9907 9928	so does Governor Bush
 R1	Support Arg1:T461 Arg2:T460
 R2	Support Arg1:T460 Arg2:T469
 R3	Attack Arg1:T469 Arg2:T470
@@ -218,7 +228,6 @@ R39	Attack Arg1:T497 Arg2:T491
 R40	Support Arg1:T500 Arg2:T501
 R41	Support Arg1:T501 Arg2:T502
 R42	Attack Arg1:T502 Arg2:T503
-T2	Premise 4216 4263	You ask the Strunks whose plan makes more sense
 R43	Support Arg1:T2 Arg2:T502
 R44	Attack Arg1:T498 Arg2:T497
 R45	Support Arg1:T502 Arg2:T499
@@ -249,10 +258,8 @@ R69	Support Arg1:T527 Arg2:T528
 R70	Support Arg1:T528 Arg2:T526
 R71	Support Arg1:T526 Arg2:T524
 R72	Support Arg1:T529 Arg2:T530
-T3	Claim 6458 6531	This man has been disparaging my plan with all this Washington fuzzy math
 R73	Attack Arg1:T531 Arg2:T532
 R74	Support Arg1:T533 Arg2:T534
-T4	Premise 6533 6589	I want you to hear a problem weâ€™ve got here in the USA
 R75	Support Arg1:T4 Arg2:T532
 R76	Support Arg1:T531 Arg2:T534
 R77	Support Arg1:T536 Arg2:T537
@@ -280,8 +287,6 @@ R98	Support Arg1:T556 Arg2:T554
 R99	Support Arg1:T555 Arg2:T551
 R100	Support Arg1:T557 Arg2:T555
 R101	Support Arg1:T558 Arg2:T551
-T5	Premise 9619 9648	What I care about is children
-T6	Premise 9654 9678	so does Michael Feinberg
 R102	Support Arg1:T5 Arg2:T6
 R103	Support Arg1:T6 Arg2:T559
 R104	Support Arg1:T551 Arg2:T559
@@ -292,7 +297,6 @@ R107	Support Arg1:T565 Arg2:T563
 R109	Support Arg1:T569 Arg2:T568
 R110	Support Arg1:T571 Arg2:T569
 R111	Support Arg1:T568 Arg2:T563
-T7	Claim 10152 10199	a form of testing the governor has not endorsed
 R112	Attack Arg1:T568 Arg2:T7
 R113	Support Arg1:T577 Arg2:T576
 R114	Support Arg1:T570 Arg2:T568
@@ -332,8 +336,6 @@ R147	Support Arg1:T608 Arg2:T607
 R148	Support Arg1:T610 Arg2:T608
 R149	Support Arg1:T609 Arg2:T606
 R150	Attack Arg1:T609 Arg2:T598
-T8	Premise 13671 13720	private schools play a great role in our society.
-T9	Premise 13721 13793	All of our children have gone to both public schools and private schools
 R151	Support Arg1:T9 Arg2:T8
 R152	Support Arg1:T612 Arg2:T611
 R153	Attack Arg1:T611 Arg2:T8
@@ -349,9 +351,7 @@ R162	Support Arg1:T624 Arg2:T623
 R163	Support Arg1:T623 Arg2:T616
 R164	Support Arg1:T625 Arg2:T626
 R165	Attack Arg1:T625 Arg2:T599
-T10	Premise 15404 15515	I'm saying is if you spend money, show us results and test every year, which you do not do, Mr. Vice President.
 R166	Support Arg1:T10 Arg2:T627
-T11	Claim 15543 15641	You can say you do to the cameras but you don't, unless you've changed your plan here on the stage
 R167	Support Arg1:T11 Arg2:T627
 R168	Attack Arg1:T628 Arg2:T11
 R169	Support Arg1:T630 Arg2:T629

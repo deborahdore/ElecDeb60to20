@@ -4,8 +4,8 @@ T3	Premise 1244 1422	On a rather somber note, one month ago tonight, on the anni
 T4	Claim 1646 1662	it was a tragedy
 T5	Premise 1678 1711	Chris Stevens was one of our best
 T6	Premise 1713 1748	We lost three other brave Americans
-T8	Claim 1837 1891	we will find and bring to justice the men who did this
 T7	Claim 1907 1938	we will get to the bottom of it
+T8	Claim 1837 1891	we will find and bring to justice the men who did this
 T9	Claim 2058 2108	whatever mistakes were made will not be made again
 T10	Claim 2296 2376	the best way to do that is take a look at how he's handled the issues of the day
 T11	Claim 2111 2234	When you're looking at a president, Martha, it seems to me that you should take a look at his most important responsibility
@@ -118,9 +118,11 @@ T117	Premise 16434 16534	They see, when we say that these options are on the tab
 T118	Premise 16288 16431	They see President Obama in New York City the same day Bibi Netanyahu is and he, instead of meeting with him, goes on a -- on a daily talk show
 T119	Premise 16166 16286	They see us saying when we come into the administration, when they're sworn in, we need more space with our ally, Israel
 T120	Premise 16125 16164	They're spinning the centrifuges faster
+T121	Premise 16078 16123	They're moving faster toward a nuclear weapon
 T122	Premise 15986 16076	They see this administration trying to water down sanctions in Congress for over two years
 T123	Premise 15916 15966	Let's look at this from the view of the ayatollahs
 T124	Claim 17388 17432	you've got to get them to change their minds
+T125	Premise 17366 17387	to do this peacefully
 T126	Claim 17610 17638	You have to have credibility
 T127	Claim 17301 17341	I don't want to go into classified stuff
 T128	Premise 17434 17466	They're not changing their minds
@@ -147,6 +149,7 @@ T148	Premise 19775 19874	they're closer to being able to get enough fissile mate
 T149	Claim 19972 19991	I'm not saying that
 T150	Premise 19886 19938	You are acting a little bit like they don't want one
 T151	Claim 19483 19518	I think that case speaks for itself
+T152	Claim 19432 19481	They're four years closer toward a nuclear weapon
 T153	Premise 19345 19386	They've given 20 waivers to this sanction
 T154	Premise 19392 19430	all I have to point to are the results
 T155	Premise 19286 19319	It's in spite of their opposition
@@ -180,14 +183,18 @@ T182	Premise 22569 22613	we've made it clear, big nations can't bluff
 T183	Premise 22515 22563	the fact is that they are being crippled by them
 T184	Premise 22486 22509	he says they're working
 T185	Premise 22236 22307	these crippling sanctions, which Bibi Netanyahu says we should continue
-T121	Premise 16078 16123	They're moving faster toward a nuclear weapon
-T125	Premise 17366 17387	to do this peacefully
-T152	Claim 19432 19481	They're four years closer toward a nuclear weapon
-T187	Claim 21683 21709;21737 21811	I'll tell you what's worse A nuclear-armed Iran which triggers a nuclear arms race in the Middle East
 T186	Premise 21869 21897;21925 21964	They've dedicated themselves to wiping an entire country off the map
+T187	Claim 21683 21709;21737 21811	I'll tell you what's worse A nuclear-armed Iran which triggers a nuclear arms race in the Middle East
+T188	Claim 1750 1830	I can make absolutely two commitments to you and all the American people tonight
+T189	Premise 3645 3695	the loss of these four Americans who were murdered
+T190	Premise 5920 5990	On that same day, the Obama administration had the exact same position
+T191	Premise 6010 6094	they disavowed their own statement that they had put out earlier in the day in Cairo
+T192	Claim 9242 9293	That's why I said we will get to the bottom of this
+T193	Premise 9295 9352	You know, usually when there's a crisis, we pull together
+T194	Premise 9354 9382	We pull together as a nation
+T195	Claim 18986 19023	Let's all calm down a little bit here
 R1	Support Arg1:T5 Arg2:T4
 R2	Support Arg1:T6 Arg2:T4
-T188	Claim 1750 1830	I can make absolutely two commitments to you and all the American people tonight
 R3	Support Arg1:T8 Arg2:T188
 R4	Support Arg1:T7 Arg2:T188
 R5	Support Arg1:T12 Arg2:T11
@@ -200,15 +207,12 @@ R11	Support Arg1:T16 Arg2:T24
 R12	Support Arg1:T14 Arg2:T25
 R13	Support Arg1:T17 Arg2:T25
 R14	Support Arg1:T32 Arg2:T33
-T189	Premise 3645 3695	the loss of these four Americans who were murdered
 R15	Support Arg1:T189 Arg2:T31
 R16	Support Arg1:T42 Arg2:T41
 R17	Support Arg1:T28 Arg2:T27
 R18	Support Arg1:T29 Arg2:T27
 R19	Support Arg1:T38 Arg2:T39
 R20	Support Arg1:T44 Arg2:T43
-T190	Premise 5920 5990	On that same day, the Obama administration had the exact same position
-T191	Premise 6010 6094	they disavowed their own statement that they had put out earlier in the day in Cairo
 R21	Support Arg1:T47 Arg2:T45
 R22	Support Arg1:T45 Arg2:T49
 R23	Support Arg1:T48 Arg2:T49
@@ -226,9 +230,6 @@ R34	Support Arg1:T61 Arg2:T58
 R35	Support Arg1:T64 Arg2:T65
 R36	Support Arg1:T68 Arg2:T66
 R37	Support Arg1:T69 Arg2:T68
-T192	Claim 9242 9293	That's why I said we will get to the bottom of this
-T193	Premise 9295 9352	You know, usually when there's a crisis, we pull together
-T194	Premise 9354 9382	We pull together as a nation
 R38	Support Arg1:T193 Arg2:T192
 R39	Support Arg1:T194 Arg2:T193
 R40	Support Arg1:T72 Arg2:T71
@@ -268,7 +269,6 @@ R73	Support Arg1:T133 Arg2:T129
 R74	Support Arg1:T137 Arg2:T138
 R75	Support Arg1:T136 Arg2:T137
 R76	Attack Arg1:T140 Arg2:T117
-T195	Claim 18986 19023	Let's all calm down a little bit here
 R77	Support Arg1:T143 Arg2:T195
 R78	Support Arg1:T142 Arg2:T195
 R79	Support Arg1:T144 Arg2:T143

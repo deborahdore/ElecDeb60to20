@@ -1,3 +1,9 @@
+T1	Premise 2161 2271	I want you to notice how the president switched away from jobs and started talking about education principally
+T2	Claim 2569 2672	This president has taken a $5. 6 trillion surplus and turned it into deficits as far as the eye can see
+T3	Premise 7521 7554	anybody can play with these votes
+T4	Premise 7556 7576	Everybody knows that
+T5	Premise 8013 8039	They're getting less money
+T6	Claim 8331 8412	there's a main stream in American politics and you sit right on the far left bank
 T139	Claim 394 483	I've got policies to continue to grow our economy and create the jobs of the 21st century
 T140	Claim 593 635	We've expanded trade adjustment assistance
 T141	Claim 846 963	the best way to keep jobs here in America and to keep this economy growing is to make sure our education system works
@@ -117,9 +123,7 @@ R13	Support Arg1:T158 Arg2:T155
 R15	Support Arg1:T160 Arg2:T155
 R16	Support Arg1:T161 Arg2:T155
 R17	Support Arg1:T141 Arg2:T139
-T1	Premise 2161 2271	I want you to notice how the president switched away from jobs and started talking about education principally
 R18	Attack Arg1:T1 Arg2:T141
-T2	Claim 2569 2672	This president has taken a $5. 6 trillion surplus and turned it into deficits as far as the eye can see
 R14	Support Arg1:T162 Arg2:T2
 R19	Support Arg1:T163 Arg2:T2
 R20	Support Arg1:T164 Arg2:T2
@@ -160,8 +164,6 @@ R54	Support Arg1:T213 Arg2:T228
 R55	Support Arg1:T211 Arg2:T210
 R56	Support Arg1:T222 Arg2:T210
 R57	Attack Arg1:T225 Arg2:T224
-T3	Premise 7521 7554	anybody can play with these votes
-T4	Premise 7556 7576	Everybody knows that
 R58	Support Arg1:T4 Arg2:T229
 R59	Support Arg1:T3 Arg2:T229
 R60	Attack Arg1:T229 Arg2:T213
@@ -172,13 +174,11 @@ R64	Support Arg1:T235 Arg2:T234
 R65	Support Arg1:T236 Arg2:T234
 R66	Attack Arg1:T234 Arg2:T209
 R67	Support Arg1:T237 Arg2:T234
-T5	Premise 8013 8039	They're getting less money
 R68	Support Arg1:T5 Arg2:T237
 R69	Support Arg1:T238 Arg2:T234
 R70	Support Arg1:T234 Arg2:T239
 R71	Attack Arg1:T240 Arg2:T3
 R72	Support Arg1:T241 Arg2:T240
-T6	Claim 8331 8412	there's a main stream in American politics and you sit right on the far left bank
 R73	Support Arg1:T244 Arg2:T6
 R74	Support Arg1:T243 Arg2:T6
 R75	Support Arg1:T242 Arg2:T6

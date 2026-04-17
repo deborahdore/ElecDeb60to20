@@ -1,3 +1,6 @@
+T1	Claim 13580 13596	grow the economy
+T2	Premise 468 540	the question is, would you buy a used election promise from my opponent.
+T3	Premise 4138 4287	He's arranged for me to spend a lot more time with Senator D'Amato in the last couple years so I'm more familiar with his comments than I used to be.
 T852	Claim 541 572	The people want economic reform
 T853	Claim 1046 1082	I think the government can do better
 T854	Premise 322 463	I've told people as I've traveled around, all of you that got the tax cut he promised last time, vote for him in '96 and not many hands go up
@@ -175,8 +178,6 @@ T1027	Claim 13649 13690	We have the right approach for the future
 T1028	Premise 13695 13715	looks at the results
 T1029	Premise 13717 13746	It is not midnight in America
 T1030	Claim 13757 13802	We are better off than we were four years ago
-T1	Claim 13580 13596	grow the economy
-T2	Premise 468 540	the question is, would you buy a used election promise from my opponent.
 R1	Attack Arg1:T854 Arg2:T2
 R2	Attack Arg1:T852 Arg2:T2
 R3	Support Arg1:T855 Arg2:T852
@@ -216,7 +217,6 @@ R36	Support Arg1:T875 Arg2:T877
 R37	Support Arg1:T878 Arg2:T877
 R38	Attack Arg1:T891 Arg2:T889
 R39	Support Arg1:T892 Arg2:T891
-T3	Premise 4138 4287	He's arranged for me to spend a lot more time with Senator D'Amato in the last couple years so I'm more familiar with his comments than I used to be.
 R40	Support Arg1:T894 Arg2:T895
 R41	Support Arg1:T900 Arg2:T901
 R42	Support Arg1:T899 Arg2:T900

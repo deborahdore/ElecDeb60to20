@@ -1,3 +1,6 @@
+T1	Claim 4326 4434	We cannot let those who would try to destabilize the world to interfere with American interests and security
+T2	Claim 5193 5239	We cannot protect countries all over the world
+T3	Claim 741 794	We are not — we are not keeping up with other countries
 T906	Premise 645 739	I was seeing B-52s, they're old enough that your father, your grandfather could be flying them
 T907	Premise 619 643	I looked the other night
 T908	Premise 569 618	We have not been updating from the new standpoint
@@ -87,16 +90,13 @@ R24	Support Arg1:T949 Arg2:T950
 R25	Support Arg1:T948 Arg2:T950
 R26	Support Arg1:T947 Arg2:T950
 R27	Support Arg1:T953 Arg2:T952
-T1	Claim 4326 4434	We cannot let those who would try to destabilize the world to interfere with American interests and security
 R28	Support Arg1:T1 Arg2:T953
 R29	Support Arg1:T957 Arg2:T956
 R30	Support Arg1:T956 Arg2:T958
 R31	Support Arg1:T960 Arg2:T959
-T2	Claim 5193 5239	We cannot protect countries all over the world
 R32	Support Arg1:T959 Arg2:T2
 R33	Support Arg1:T968 Arg2:T969
 R34	Support Arg1:T964 Arg2:T969
-T3	Claim 741 794	We are not — we are not keeping up with other countries
 R35	Support Arg1:T908 Arg2:T3
 R36	Support Arg1:T935 Arg2:T938
 R37	Support Arg1:T946 Arg2:T950

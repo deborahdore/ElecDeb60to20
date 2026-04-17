@@ -52,9 +52,10 @@ T51	Claim 5551 5575	they'll view us that way
 T52	Premise 5581 5605	if we're a humble nation
 T53	Claim 5606 5624	they'll respect us
 T54	Claim 5662 5679	I agree with that
+T55	Claim 5681 5698	I agree with that
+T56	Premise 5713 5974	one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway. That there is some resentment of U.S. power
 T57	Claim 5979 6032	I think that the idea of humility is an important one
 T58	Claim 6038 6103	I think that we also have to have a sense of mission in the world
-T56	Premise 5713 5974	one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway. That there is some resentment of U.S. power
 T59	Claim 6105 6177	We have to protect our capacity to push forward what America's all about
 T60	Claim 6190 6273	not only military strength and our values, it also means keeping our economy strong
 T61	Premise 6285 6524	in the last, or two decades ago, it was routine for leaders of foreign countries to come over here and say you guys have got to do something about these horrendous deficits because it's causing tremendous problems for the rest of the world
@@ -70,11 +71,10 @@ T70	Premise 7155 7233	that the money wouldn't go into the hands of a few but wou
 T71	Claim 7235 7371	I think it makes sense for us to use our wealth in that way, or to trade debt for valuable rain forest lands, makes that much sense, yes
 T72	Claim 7520 7565	We can lend money but we have to do it wisely
 T73	Premise 7567 7617	We shouldn't be lending money to corrupt officials
-T75	Claim 7373 7439	We do have an obligation, but we can't be all things to all people
 T74	Premise 7441 7469	We can help build coalitions
+T75	Claim 7373 7439	We do have an obligation, but we can't be all things to all people
 T76	Premise 7474 7518	we can't put our troops all around the world
 T77	Claim 7622 7660	we got to be guarded in our generosity
-T55	Claim 5681 5698	I agree with that
 R1	Support Arg1:T3 Arg2:T1
 R2	Support Arg1:T4 Arg2:T1
 R3	Support Arg1:T5 Arg2:T2

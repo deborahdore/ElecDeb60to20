@@ -1,3 +1,8 @@
+T1	Premise 1066 1130	This is a place where my opponent and I have strong disagreement
+T2	Premise 1828 1882	As to the drug itself, I mentioned I was disappointed.
+T3	Claim 1883 1975	I hope the FDA took its time to make sure that American women will be safe who use this drug
+T4	Premise 2151 2188	This is indeed a very important issue
+T5	Claim 4079 4139	I would make sure that women would be safe who used the drug
 T249	Claim 202 234	I was disappointed in the ruling
 T250	Claim 251 293	abortions ought to be more rare in America
 T251	Premise 299 392	I'm worried that that pill will create more abortions and cause more people to have abortions
@@ -79,7 +84,6 @@ R7	Support Arg1:T256 Arg2:T254
 R8	Support Arg1:T254 Arg2:T257
 R9	Attack Arg1:T257 Arg2:T260
 R10	Support Arg1:T258 Arg2:T257
-T1	Premise 1066 1130	This is a place where my opponent and I have strong disagreement
 R11	Support Arg1:T1 Arg2:T259
 R12	Support Arg1:T259 Arg2:T257
 R13	Support Arg1:T259 Arg2:T261
@@ -89,13 +93,10 @@ R16	Support Arg1:T262 Arg2:T264
 R17	Support Arg1:T264 Arg2:T267
 R18	Support Arg1:T265 Arg2:T267
 R19	Support Arg1:T266 Arg2:T267
-T2	Premise 1828 1882	As to the drug itself, I mentioned I was disappointed.
-T3	Claim 1883 1975	I hope the FDA took its time to make sure that American women will be safe who use this drug
 R20	Support Arg1:T2 Arg2:T3
 R21	Support Arg1:T269 Arg2:T268
 R22	Attack Arg1:T270 Arg2:T3
 R23	Support Arg1:T270 Arg2:T268
-T4	Premise 2151 2188	This is indeed a very important issue
 R24	Attack Arg1:T272 Arg2:T271
 R25	Support Arg1:T4 Arg2:T268
 R26	Support Arg1:T274 Arg2:T273
@@ -107,7 +108,6 @@ R31	Attack Arg1:T281 Arg2:T279
 R32	Support Arg1:T274 Arg2:T281
 R33	Support Arg1:T275 Arg2:T279
 R34	Attack Arg1:T278 Arg2:T277
-T5	Claim 4079 4139	I would make sure that women would be safe who used the drug
 R35	Support Arg1:T284 Arg2:T285
 R36	Support Arg1:T286 Arg2:T285
 R37	Support Arg1:T290 Arg2:T285

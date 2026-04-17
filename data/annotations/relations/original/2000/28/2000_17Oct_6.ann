@@ -1,3 +1,9 @@
+T1	Premise 534 552	I've been a leader
+T2	Premise 2543 2618	When I was a young man, my father was a senator opposed to the Vietnam War.
+T3	Premise 2619 2726	When I graduated from college, there were plenty of fancy ways to get out of going and being a part of that
+T4	Premise 2728 2775	I went and I volunteered, and I went to Vietnam
+T5	Premise 3340 3439	When I went to the United States Senate, I asked for an assignment to the Armed Services Committee.
+T6	Premise 3440 3601	And while I was there I worked on a bipartisan basis, as I did in the House, I worked with former President Reagan on the modernization of our strategic weaponry
 T327	Claim 143 170	We're gonna have to move on
 T328	Claim 122 141	We're gonna move on
 T333	Claim 1137 1196	We can't put the Middle East peace process on our timetable
@@ -20,8 +26,8 @@ T349	Claim 1475 1556	A leader also understands that the United States must be st
 T350	Claim 1611 1653	Our coalition against Saddam is unraveling
 T351	Claim 1558 1609	Saddam Hussein still is a threat in the Middle East
 T352	Premise 1655 1677	Sanctions are loosened
-T354	Premise 1760 1780	inspectors aren't in
 T353	Claim 1679 1751	The man who may be developing weapons of mass destruction, we don't know
+T354	Premise 1760 1780	inspectors aren't in
 T355	Claim 1810 1969	it requires a clear vision, a willingness to stand by our friends, and the credibility for people both friend and foe to understand when America says something
 T356	Claim 1971 1981	we mean it
 T357	Claim 2263 2288	We stand for those values
@@ -38,7 +44,6 @@ T367	Premise 2919 3013	In the Congress, in the House of Representatives, I serve
 T368	Claim 3305 3338	I've worked on that long and hard
 T369	Claim 3603 3749	In the Senate I was one of only ten Democrats, along with Senator Joe Lieberman, to support Governor Bush's dad in the Persian Gulf War Resolution
 T370	Claim 3755 3824	for the last eight years I've served on the National Security Council
-T1	Premise 534 552	I've been a leader
 R1	Support Arg1:T1 Arg2:T344
 R3	Support Arg1:T346 Arg2:T345
 R4	Support Arg1:T345 Arg2:T341
@@ -77,16 +82,11 @@ R35	Support Arg1:T357 Arg2:T359
 R36	Support Arg1:T357 Arg2:T360
 R37	Support Arg1:T358 Arg2:T357
 R38	Support Arg1:T362 Arg2:T361
-T2	Premise 2543 2618	When I was a young man, my father was a senator opposed to the Vietnam War.
-T3	Premise 2619 2726	When I graduated from college, there were plenty of fancy ways to get out of going and being a part of that
-T4	Premise 2728 2775	I went and I volunteered, and I went to Vietnam
 R39	Support Arg1:T2 Arg2:T3
 R40	Support Arg1:T3 Arg2:T4
 R41	Support Arg1:T4 Arg2:T365
 R42	Support Arg1:T365 Arg2:T364
 R43	Support Arg1:T367 Arg2:T366
-T5	Premise 3340 3439	When I went to the United States Senate, I asked for an assignment to the Armed Services Committee.
-T6	Premise 3440 3601	And while I was there I worked on a bipartisan basis, as I did in the House, I worked with former President Reagan on the modernization of our strategic weaponry
 R44	Support Arg1:T5 Arg2:T6
 R45	Support Arg1:T6 Arg2:T368
 R46	Support Arg1:T369 Arg2:T368

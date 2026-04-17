@@ -1,3 +1,6 @@
+T1	Claim 4344 4362	we have to succeed
+T2	Claim 1084 1140	Now, I have to tell you, I would do something different.
+T3	Premise 2593 2732	he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic
 T121	Claim 344 355	I would not
 T122	Premise 357 389	I have laid out a different plan
 T123	Claim 399 434	the president's plan is not working
@@ -67,7 +70,6 @@ T189	Claim 4850 4885	we're going to find Osama bin Laden
 T190	Premise 4887 4925	We've already 75 percent of his people
 T191	Premise 4931 4956	we're on the hunt for him
 T192	Claim 4963 5015	this is a global conflict that requires firm resolve
-T1	Claim 4344 4362	we have to succeed
 R1	Attack Arg1:T122 Arg2:T123
 R2	Support Arg1:T124 Arg2:T125
 R3	Support Arg1:T125 Arg2:T126
@@ -78,7 +80,6 @@ R7	Support Arg1:T130 Arg2:T129
 R8	Support Arg1:T129 Arg2:T127
 R9	Attack Arg1:T127 Arg2:T123
 R10	Support Arg1:T131 Arg2:T129
-T2	Claim 1084 1140	Now, I have to tell you, I would do something different.
 R11	Support Arg1:T122 Arg2:T2
 R12	Support Arg1:T132 Arg2:T2
 R13	Attack Arg1:T132 Arg2:T133
@@ -99,7 +100,6 @@ R27	Support Arg1:T150 Arg2:T152
 R28	Support Arg1:T153 Arg2:T154
 R29	Support Arg1:T154 Arg2:T152
 R30	Support Arg1:T155 Arg2:T152
-T3	Premise 2593 2732	he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic
 R31	Support Arg1:T157 Arg2:T144
 R32	Attack Arg1:T152 Arg2:T3
 R33	Support Arg1:T147 Arg2:T145

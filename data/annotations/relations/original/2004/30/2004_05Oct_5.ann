@@ -1,3 +1,6 @@
+T1	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
+T2	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
+T3	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
 T460	Claim 865 989	John Kerry and I believe we have a moral responsibility not to leave trillions of debt to our children and our grandchildren
 T461	Claim 286 318	we will do what they've not done
 T462	Claim 370 500	last four years, we have gone from a $5 trillion projected surplus when George Bush took office to a $3 trillion projected deficit
@@ -7,8 +10,8 @@ T465	Premise 1198 1237	we have plans on both of those subjects
 T466	Claim 1113 1188	I hope to get the chance to talk about health care and also about education
 T467	Claim 1246 1285	we're going to do is roll back tax cuts
 T468	Claim 1079 1105	we believe need to be done
-T470	Premise 1330 1447	there have been exaggerations made on the campaign trail: Roll back tax cuts for people who make over $200,000 a year
 T469	Claim 1449 1464	we will do that
+T470	Premise 1330 1447	there have been exaggerations made on the campaign trail: Roll back tax cuts for people who make over $200,000 a year
 T471	Claim 1467 1559	We want to keep the tax cuts that are in place for people who make less than $200,000 a year
 T472	Claim 1564 1619	give additional tax cuts to those middle-class families
 T473	Claim 1621 1645	tax cuts for health care
@@ -70,9 +73,6 @@ R25	Support Arg1:T494 Arg2:T489
 R26	Support Arg1:T497 Arg2:T496
 R27	Support Arg1:T499 Arg2:T498
 R28	Support Arg1:T502 Arg2:T503
-T1	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
-T2	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
-T3	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
 R30	Support Arg1:T500 Arg2:T498
 R31	Support Arg1:T501 Arg2:T503
 R29	Attack Arg1:T2 Arg2:T501

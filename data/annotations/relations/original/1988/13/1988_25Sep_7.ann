@@ -1,3 +1,9 @@
+T1	Premise 1413 1554	The neighborhood, the kind of environment people are growing up in, and that leads me to the programs I'm talking about in terms of education
+T2	Premise 1354 1411	so much of it is, gets into a whole other phase of things
+T3	Premise 1936 1995	do not erode out of the system the thousand points of light
+T4	Premise 970 1027	That might be the explanation, if you tell me the program
+T5	Claim 4875 4974	That's just one example of how you can save money and improve the quality of life at the same time.
+T6	Premise 5246 5442	Think about that father down there in Houston who has to tell his youngster that he can't play little league ball that he can't go out on the ball field because he's afraid he's going to get hurt.
 T477	Claim 880 968	my fundamental philosophy is give local and state government as much control as possible
 T478	Claim 1029 1066	I do strongly support the WIC program
 T479	Claim 1068 1086	I think it is good
@@ -22,8 +28,8 @@ T498	Premise 2894 2927	It's cut federal aid to education
 T499	Premise 2929 3036	it's cut Pell grants and loans to close the door to college opportunity on youngsters all over this country
 T500	Claim 3042 3108	that, too, is a major difference between the vice president and me
 T501	Claim 3591 3621	That's the way you help people
-T503	Premise 3150 3254	We have a great many people, hundreds of thousands of people living on public assistance in this country
 T502	Premise 3256 3367	The 50 governors of this nation have proposed to the Congress that we help those families to get off of welfare
+T503	Premise 3150 3254	We have a great many people, hundreds of thousands of people living on public assistance in this country
 T504	Premise 3369 3390	help those youngsters
 T505	Premise 3392 3452	help their mothers to become independent and self-sufficient
 T506	Claim 3566 3589	they're still resisting
@@ -37,8 +43,8 @@ T513	Claim 3865 3904	they've hurt kids all over this country
 T514	Premise 4297 4383	you could improve the lives of families and youngsters and save money at the same time
 T515	Claim 4385 4419	Welfare reform is one way to do it
 T516	Premise 4528 4607	that mother and her kids don't lose their health benefits when she goes to work
-T518	Premise 4421 4519	If we invest in job training, in child care for those youngsters, in some extended health benefits
 T517	Premise 4609 4873	we can help literally hundreds of thousands, if not millions of families, to get off of welfare, to become independent and self-sufficient, to be taxpaying citizens, and to improve their lives, the quality of lives, their futures, and the futures of those children
+T518	Premise 4421 4519	If we invest in job training, in child care for those youngsters, in some extended health benefits
 T519	Claim 5086 5107	I think very unwisely
 T520	Premise 4975 5084	In my own state, for example, we now have that universal health care system, which the vice president opposes
 T521	Claim 5109 5244	One of the greatest barriers to opportunity for a family and for those children is the threat that they mat lose their health insurance
@@ -66,11 +72,7 @@ T542	Claim 7203 7252	We've gotten away fro values and the fundamentals
 T543	Claim 7258 7416	I would like to urge the school superintendents and the others around the country to stand up now and keep us moving forward on a path towards real excellence
 T544	Claim 7423 7435	we can do it
 T545	Claim 7441 7519	itÏ€s not going to be dedicated by some federal bureaucracy in Washington, D.C
-T1	Premise 1413 1554	The neighborhood, the kind of environment people are growing up in, and that leads me to the programs I'm talking about in terms of education
-T2	Premise 1354 1411	so much of it is, gets into a whole other phase of things
-T3	Premise 1936 1995	do not erode out of the system the thousand points of light
 R1	Support Arg1:T479 Arg2:T478
-T4	Premise 970 1027	That might be the explanation, if you tell me the program
 R2	Support Arg1:T4 Arg2:T477
 R3	Support Arg1:T480 Arg2:T481
 R4	Attack Arg1:T477 Arg2:T481
@@ -120,12 +122,10 @@ R47	Support Arg1:T514 Arg2:T515
 R48	Support Arg1:T518 Arg2:T515
 R49	Support Arg1:T518 Arg2:T516
 R50	Support Arg1:T516 Arg2:T515
-T5	Claim 4875 4974	That's just one example of how you can save money and improve the quality of life at the same time.
 R51	Support Arg1:T518 Arg2:T517
 R52	Support Arg1:T516 Arg2:T517
 R53	Support Arg1:T517 Arg2:T5
 R54	Attack Arg1:T520 Arg2:T519
-T6	Premise 5246 5442	Think about that father down there in Houston who has to tell his youngster that he can't play little league ball that he can't go out on the ball field because he's afraid he's going to get hurt.
 R55	Support Arg1:T520 Arg2:T521
 R56	Support Arg1:T6 Arg2:T521
 R57	Attack Arg1:T521 Arg2:T524

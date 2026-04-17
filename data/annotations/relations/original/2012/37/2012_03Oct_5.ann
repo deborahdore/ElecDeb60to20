@@ -1,3 +1,6 @@
+T1	Claim 1644 1826	All those things are designed to make sure that the American people, their genius, their grit, their determination, is -- is channeled and -- and they have an opportunity to succeed.
+T2	Premise 2606 2633	I'm concerned about America
+T3	Premise 2635 2718	I'm concerned about the direction America has been taking over the last four years.
 T860	Claim 443 505	my faith and confidence in the American future is undiminished
 T861	Premise 381 433	four years ago, we were going through a major crisis
 T862	Premise 525 546	because of its people
@@ -26,10 +29,10 @@ T884	Claim 3563 3594	You'll see chronic unemployment
 T885	Premise 3596 3658	We've had 43 straight months with unemployment above 8 percent
 T886	Claim 3661 3762	If I'm president I will create -- help create 12 million new jobs in this country with rising incomes
 T887	Claim 3765 3828	If the president's reelected, Obamacare will be fully installed
+T888	Claim 3830 3957	In my view that's going to mean a whole different way of life for people who counted on the insurance plan they had in the past
 T889	Claim 3959 3976	Many will lose it
 T890	Claim 3978 4045	You're going to see health premiums go up by some $2,500 per family
 T891	Claim 4048 4082	If I'm elected we won't have Obama
-T888	Claim 3830 3957	In my view that's going to mean a whole different way of life for people who counted on the insurance plan they had in the past
 T892	Claim 4084 4161	We'll put in place the kind of principles that I put in place in my own state
 T893	Claim 4166 4232	allow each state to craft their own programs to get people insured
 T894	Claim 4237 4288	we'll focus on getting the cost of health care down
@@ -54,7 +57,6 @@ R2	Attack Arg1:T860 Arg2:T861
 R3	Support Arg1:T863 Arg2:T860
 R4	Support Arg1:T864 Arg2:T860
 R5	Support Arg1:T865 Arg2:T860
-T1	Claim 1644 1826	All those things are designed to make sure that the American people, their genius, their grit, their determination, is -- is channeled and -- and they have an opportunity to succeed.
 R6	Support Arg1:T860 Arg2:T1
 R7	Support Arg1:T867 Arg2:T1
 R8	Support Arg1:T868 Arg2:T1
@@ -69,8 +71,6 @@ R16	Attack Arg1:T875 Arg2:T876
 R17	Support Arg1:T876 Arg2:T874
 R18	Support Arg1:T874 Arg2:T872
 R19	Support Arg1:T872 Arg2:T873
-T2	Premise 2606 2633	I'm concerned about America
-T3	Premise 2635 2718	I'm concerned about the direction America has been taking over the last four years.
 R20	Support Arg1:T3 Arg2:T2
 R21	Support Arg1:T909 Arg2:T910
 R22	Support Arg1:T910 Arg2:T904

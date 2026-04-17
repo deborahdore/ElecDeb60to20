@@ -1,3 +1,4 @@
+T1	Claim 6561 6761	on December 19th new regulations will go into effect which will in effect give the government the responsibility to close some banks that are not technically insolvent but that are plainly in trouble.
 T532	Claim 545 564	They're not correct
 T533	Premise 569 646	if you look at my life, until I got involved in this effort, I was one person
 T534	Claim 1370 1534	that's just another one of those little fruit-loopy things they make up to try to, instead of facing issues, to try to redefine a person that's running against them
@@ -113,7 +114,6 @@ R29	Support Arg1:T570 Arg2:T568
 R30	Support Arg1:T562 Arg2:T561
 R31	Attack Arg1:T561 Arg2:T554
 R32	Support Arg1:T573 Arg2:T572
-T1	Claim 6561 6761	on December 19th new regulations will go into effect which will in effect give the government the responsibility to close some banks that are not technically insolvent but that are plainly in trouble.
 R33	Support Arg1:T573 Arg2:T1
 R34	Support Arg1:T578 Arg2:T579
 R35	Support Arg1:T579 Arg2:T577

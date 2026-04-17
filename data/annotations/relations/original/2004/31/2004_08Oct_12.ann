@@ -1,3 +1,5 @@
+T1	Premise 951 978	I hope you don't think that
+T2	Claim 993 1099	because I think whoever is the president must guard your liberties, must not erode your rights in America.
 T828	Claim 559 614	I really don't think your rights are being watered down
 T829	Premise 637 676	I wouldn't support it if I thought that
 T830	Claim 926 949	I really don't think so
@@ -34,8 +36,6 @@ R1	Attack Arg1:T828 Arg2:T829
 R2	Support Arg1:T831 Arg2:T832
 R3	Support Arg1:T830 Arg2:T828
 R4	Attack Arg1:T830 Arg2:T832
-T1	Premise 951 978	I hope you don't think that
-T2	Claim 993 1099	because I think whoever is the president must guard your liberties, must not erode your rights in America.
 R5	Attack Arg1:T830 Arg2:T1
 R6	Support Arg1:T1 Arg2:T2
 R7	Support Arg1:T2 Arg2:T833

@@ -75,6 +75,7 @@ T75	Claim 8509 8699	on tax policy, what I want to do is provide a middle class t
 T76	Premise 8709 8746	they are struggling to make ends meet
 T77	Claim 8749 8815	Senator McCain is right that we've got to stabilize housing prices
 T78	Claim 8821 8871	underlying that is loss of jobs and loss of income
+T80	Question 1874 2061	With the economy on the downturn and retired and older citizens and workers losing their incomes, what's the fastest, most positive solution to bail these people out of the economic ruin?
 R1	Support Arg1:T1 Arg2:T2
 R2	Support Arg1:T4 Arg2:T3
 R3	Support Arg1:T2 Arg2:T3
@@ -131,7 +132,6 @@ R54	Support Arg1:T73 Arg2:T75
 R55	Support Arg1:T74 Arg2:T75
 R56	Support Arg1:T76 Arg2:T75
 R57	Attack Arg1:T78 Arg2:T77
-T80	Question 1874 2061	With the economy on the downturn and retired and older citizens and workers losing their incomes, what's the fastest, most positive solution to bail these people out of the economic ruin?
 R59	Support Arg1:T5 Arg2:T4
 R60	Support Arg1:T6 Arg2:T7
 R61	Support Arg1:T21 Arg2:T9

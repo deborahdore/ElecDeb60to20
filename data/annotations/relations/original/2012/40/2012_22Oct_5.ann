@@ -1,3 +1,6 @@
+T1	Premise 11691 11732	We're four years closer to a nuclear Iran
+T2	Premise 16094 16185;16226 16263	They asked him, please repair the tension -- Democrat senators -- please repair the tension the damage in his -- in his own party
+T3	Premise 6066 6291	there have been times, Governor, frankly, during the course of this campaign, where it sounded like you thought that you'd do the same things we did, but you'd say them louder and somehow that -- that would make a difference.
 T454	Claim 705 758	if Israel is attacked, America will stand with Israel
 T455	Premise 662 699	It is our greatest ally in the region
 T456	Premise 637 660	Israel is a true friend
@@ -126,10 +129,10 @@ T579	Premise 12684 12742	when I went to Israel as a candidate, I didn't take don
 T580	Premise 12744 12771	I didn't attend fundraisers
 T581	Premise 12773 12912	I went to Yad Beshef (ph), the Holocaust museum there, to remind myself the nature of evil and why our bond with Israel will be unbreakable
 T582	Premise 12915 13026	And then I went down to the border towns of Storok (ph), which had experienced missiles raining dowm from Hamas
+T583	Premise 13200 13280	Which is why as president, we funded an Iron Dome program to stop those missiles
 T584	Premise 13138 13198	I was reminded of what that would mean if those were my kids
 T585	Premise 13032 13132	I saw families there who showed me there where missiles had come down near their children's bedrooms
 T586	Claim 13294 13382	that's how I've used my travels, when I travel to Israel and when I travel to the region
-T583	Premise 13200 13280	Which is why as president, we funded an Iron Dome program to stop those missiles
 T587	Claim 13753 13859	the President of the United States and the United States of America has stood on the right side of history
 T588	Premise 13685 13729	whether it's supporting religious minorities
 T589	Premise 13645 13683	whether it's supporting women's rights
@@ -176,8 +179,6 @@ T629	Claim 18229 18267	those decisions are not always popular
 T630	Premise 18269 18327	Those decisions generally -- generally are not poll-tested
 T631	Premise 18333 18429	even some in my own party, including my current vice president, had the same critique as you did
 T632	Claim 18480 18609	I look at what we need to get done to keep the American people safe and to move our interests forward, and I make those decisions
-T1	Premise 11691 11732	We're four years closer to a nuclear Iran
-T2	Premise 16094 16185;16226 16263	They asked him, please repair the tension -- Democrat senators -- please repair the tension the damage in his -- in his own party
 R1	Support Arg1:T456 Arg2:T455
 R2	Support Arg1:T455 Arg2:T454
 R3	Support Arg1:T457 Arg2:T454
@@ -224,7 +225,6 @@ R43	Support Arg1:T509 Arg2:T507
 R44	Support Arg1:T510 Arg2:T511
 R45	Support Arg1:T511 Arg2:T512
 R46	Support Arg1:T512 Arg2:T507
-T3	Premise 6066 6291	there have been times, Governor, frankly, during the course of this campaign, where it sounded like you thought that you'd do the same things we did, but you'd say them louder and somehow that -- that would make a difference.
 R47	Attack Arg1:T513 Arg2:T3
 R48	Support Arg1:T514 Arg2:T513
 R50	Support Arg1:T517 Arg2:T519

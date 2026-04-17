@@ -1,3 +1,9 @@
+T1	Claim 1051 1170	Mr. Ford not only disavowed his instructions, but he also even dropped, parenthetically, the use of the word "detente."
+T2	Claim 2636 2686	called for a conference of uh - nuclear suppliers.
+T3	Claim 2687 2721	That conference has met six times.
+T4	Claim 2722 2857	In May of this year, Governor Carter took the first initiative, approximately twelve months after I had taken my initiative a year ago.
+T5	Premise 1413 1468	Panama retained sovereignty over the Panama Canal Zone.
+T394	Claim 1261 1311	I would continue to negotiate with the Panamanians
 T424	Claim 739 802	the Panamanian question is one that's been confused by Mr. Ford
 T425	Claim 809 991	he had directed his uh - diplomatic relation - uh - uh - representative to yield to the Panamanians full sovereignty over the Panama Canal Zone at the end of a certain period of time
 T426	Claim 1573 1668	I believe that we could share more fully responsibilities for the Panama Canal Zone with Panama
@@ -14,15 +20,9 @@ T436	Premise 2257 2368	The negotiations far the Panama Canal started under Presi
 T437	Claim 2370 2414	I believe those negotiations should continue
 T438	Claim 2420 2470	there are certain guidelines that must be followed
 T439	Claim 2476 2498	I've just defined them
-T394	Claim 1261 1311	I would continue to negotiate with the Panamanians
-T1	Claim 1051 1170	Mr. Ford not only disavowed his instructions, but he also even dropped, parenthetically, the use of the word "detente."
-T2	Claim 2636 2686	called for a conference of uh - nuclear suppliers.
-T3	Claim 2687 2721	That conference has met six times.
-T4	Claim 2722 2857	In May of this year, Governor Carter took the first initiative, approximately twelve months after I had taken my initiative a year ago.
 R1	Support Arg1:T432 Arg2:T394
 R2	Support Arg1:T394 Arg2:T430
 R3	Support Arg1:T432 Arg2:T430
-T5	Premise 1413 1468	Panama retained sovereignty over the Panama Canal Zone.
 R4	Support Arg1:T430 Arg2:T426
 R5	Support Arg1:T1 Arg2:T425
 R6	Attack Arg1:T432 Arg2:T425

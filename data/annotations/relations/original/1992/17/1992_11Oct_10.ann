@@ -1,3 +1,4 @@
+T1	Claim 4143 4191	The fact that you have an agreement is one thing
 T460	Claim 257 307	I think our relationships with China are important
 T461	Claim 312 341	I don't want to isolate China
 T462	Claim 347 498	I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square
@@ -25,8 +26,8 @@ T483	Claim 2395 2440	Governor Clinton's philosophy is isolate them
 T484	Claim 2857 2879	I'm not going to do it
 T485	Claim 3067 3096	They didn't go over to coddle
 T486	Claim 3098 3166	He went over to say we must make the very changes they're making now
-T488	Claim 2467 2616	the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting
 T487	Premise 2622 2653	I've stood up with these people
+T488	Claim 2467 2616	the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting
 T489	Claim 2659 2722	I understand what you have to do to be strong in this situation
 T490	Premise 2728 2765	it's moving, not as fast as we'd like
 T491	Claim 2771 2851	you isolate China and turn them inward, and then we've made a tremendous mistake
@@ -89,7 +90,6 @@ R41	Attack Arg1:T488 Arg2:T472
 R42	Attack Arg1:T485 Arg2:T468
 R30	Support Arg1:T498 Arg2:T494
 R29	Support Arg1:T497 Arg2:T494
-T1	Claim 4143 4191	The fact that you have an agreement is one thing
 R37	Attack Arg1:T507 Arg2:T1
 R38	Support Arg1:T504 Arg2:T1
 R39	Support Arg1:T505 Arg2:T507

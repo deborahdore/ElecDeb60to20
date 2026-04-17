@@ -1,3 +1,12 @@
+T1	Premise 6080 6114	stealing our intellectual property
+T2	Claim 7683 7750;7859 7931	And if we're not making investments in education and basic research then we will lose the (inaudible) in things like clean energy technology
+T3	Claim 10785 10820;10888 10918	I have never said I would liquidate I would liquidate the industry
+T4	Claim 11222 11236	we're going to
+T5	Premise 12278 12323;12398 12405;12479 12494;12581 12599	the private sector's not going to invest in a company if -- if you're get someone else's
+T6	Claim 13166 13180	I am not wrong
+T7	Claim 13605 13645	That will not help us compete with China
+T8	Premise 16122 16137	I love teachers
+T9	Premise 4073 4209	They look at America's commitments around the world and they see what's happening, and they say, well, OK. Is America going to be strong
 T733	Claim 350 399	I think it will continue to be terrorist networks
 T734	Claim 401 427	We have to remain vigilant
 T735	Claim 472 559	China is both an adversary, but also a potential partner in the international community
@@ -171,14 +180,6 @@ T906	Premise 16011 16027	I was a governor
 T907	Premise 15867 15970	I don't like to have the federal government start pushing its weight deeper and deeper into our schools
 T908	Premise 15778 15853	I'm happy to have states and communities that want to hire teachers do that
 T909	Premise 15757 15772	I love teachers
-T1	Premise 6080 6114	stealing our intellectual property
-T2	Claim 7683 7750;7859 7931	And if we're not making investments in education and basic research then we will lose the (inaudible) in things like clean energy technology
-T3	Claim 10785 10820;10888 10918	I have never said I would liquidate I would liquidate the industry
-T4	Claim 11222 11236	we're going to
-T5	Premise 12278 12323;12398 12405;12479 12494;12581 12599	the private sector's not going to invest in a company if -- if you're get someone else's
-T6	Claim 13166 13180	I am not wrong
-T7	Claim 13605 13645	That will not help us compete with China
-T8	Premise 16122 16137	I love teachers
 R1	Support Arg1:T734 Arg2:T733
 R2	Support Arg1:T738 Arg2:T735
 R3	Attack Arg1:T735 Arg2:T736
@@ -209,7 +210,6 @@ R27	Support Arg1:T766 Arg2:T756
 R28	Attack Arg1:T756 Arg2:T765
 R29	Support Arg1:T784 Arg2:T785
 R30	Support Arg1:T783 Arg2:T784
-T9	Premise 4073 4209	They look at America's commitments around the world and they see what's happening, and they say, well, OK. Is America going to be strong
 R31	Attack Arg1:T767 Arg2:T9
 R32	Support Arg1:T756 Arg2:T768
 R33	Attack Arg1:T768 Arg2:T772

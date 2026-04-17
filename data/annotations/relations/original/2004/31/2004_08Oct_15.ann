@@ -1,3 +1,5 @@
+T1	Premise 2324 2399	certainly reasonable people can agree on how to reduce abortions in America
+T2	Premise 3419 3491	categorically, my opponent is against this, my opponent is against that.
 T925	Claim 484 534	I respect the belief about life and when it begins
 T926	Premise 536 569	I'm a Catholic, raised a Catholic
 T927	Premise 571 589	I was an altar boy
@@ -73,7 +75,6 @@ R20	Support Arg1:T936 Arg2:T935
 R21	Support Arg1:T937 Arg2:T935
 R22	Support Arg1:T939 Arg2:T935
 R23	Support Arg1:T938 Arg2:T935
-T1	Premise 2324 2399	certainly reasonable people can agree on how to reduce abortions in America
 R24	Support Arg1:T1 Arg2:T954
 R25	Support Arg1:T956 Arg2:T955
 R26	Support Arg1:T955 Arg2:T954
@@ -90,7 +91,6 @@ R36	Support Arg1:T950 Arg2:T962
 R37	Support Arg1:T951 Arg2:T962
 R38	Support Arg1:T952 Arg2:T950
 R39	Support Arg1:T953 Arg2:T952
-T2	Premise 3419 3491	categorically, my opponent is against this, my opponent is against that.
 R41	Attack Arg1:T964 Arg2:T2
 R40	Attack Arg1:T965 Arg2:T957
 R42	Attack Arg1:T966 Arg2:T965

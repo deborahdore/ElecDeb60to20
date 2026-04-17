@@ -1,3 +1,4 @@
+T104	Claim 2426 2490	three times more than the tax cuts under the Bush administration
 T151	Claim 386 464	Mr. Trump, you want to get government out with lower taxes and less regulation
 T152	Claim 473 476	Yes
 T153	Claim 585 699	why you believe that your plan will create more jobs and growth for this country and your opponent's plan will not
@@ -26,6 +27,7 @@ T177	Claim 2759 2785	I want to pursue your plan
 T178	Premise 2795 2908	in many ways it is similar to the Obama stimulus plan in 2009, which has led to the slowest GDP growth since 1949
 T179	Premise 3134 3188	I was in the Senate before I became secretary of state
 T180	Claim 3190 3318	I've never seen people as physically distraught as the Bush administration team was because of what was happening to the economy
+T181	Premise 6093 6172	I'm happy to compare my 30 years of experience, what I've done for this country
 T182	Premise 3030 3094	the level of economic catastrophe that President Obama inherited
 T183	Premise 3096 3132	it was a real touch-and-go situation
 T184	Premise 3340 3431	even conservative economists who have looked at your plan say that the numbers don't add up
@@ -35,6 +37,7 @@ T188	Claim 3518 3539	Over a 10-year period
 T189	Premise 3593 3641	you talk a lot about growing the energy industry
 T190	Premise 3643 3696	They say with oil prices as low as they are right now
 T191	Claim 3698 3716	that's unrealistic
+T192	Premise 6174 6209	trying to help in every way I could
 T193	Claim 3757 3803	I just left some high representatives of India
 T194	Premise 3805 3833	They're growing at 8 percent
 T195	Premise 3835 3864	China is growing at 7 percent
@@ -76,11 +79,8 @@ T230	Premise 6571 6593	It's a $1 million loan
 T231	Claim 6599 6627	I built a phenomenal company
 T232	Premise 5957 6045	I was in the Situation Room, monitoring the raid that brought Osama bin Laden to justice
 T233	Premise 6047 6087	he was hosting the "Celebrity Apprentice
-T235	Claim 6290 6337	I'll let the American people make that decision
-T104	Claim 2426 2490	three times more than the tax cuts under the Bush administration
-T181	Premise 6093 6172	I'm happy to compare my 30 years of experience, what I've done for this country
-T192	Premise 6174 6209	trying to help in every way I could
 T234	Premise 6211 6284	especially kids and families get ahead and stay ahead, with your 30 years
+T235	Claim 6290 6337	I'll let the American people make that decision
 R1	Support Arg1:T152 Arg2:T151
 R2	Support Arg1:T156 Arg2:T155
 R3	Support Arg1:T155 Arg2:T154

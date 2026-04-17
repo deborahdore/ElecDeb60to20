@@ -1,3 +1,4 @@
+T1	Premise 4243 4382	The people that work in Washington, D.C. for the U.S. Congress or the United States senate. Get a variety of choices to make in their lives
 T104	Claim 500 573	I think that we should move step-by-step toward universal health coverage
 T105	Claim 579 623	I am not in favor of government doing it all
 T106	Claim 811 837	That is a national outrage
@@ -84,7 +85,6 @@ R34	Support Arg1:T129 Arg2:T128
 R35	Support Arg1:T151 Arg2:T150
 R36	Attack Arg1:T152 Arg2:T150
 R37	Support Arg1:T128 Arg2:T152
-T1	Premise 4243 4382	The people that work in Washington, D.C. for the U.S. Congress or the United States senate. Get a variety of choices to make in their lives
 R38	Support Arg1:T1 Arg2:T127
 R39	Support Arg1:T152 Arg2:T127
 R40	Support Arg1:T129 Arg2:T127

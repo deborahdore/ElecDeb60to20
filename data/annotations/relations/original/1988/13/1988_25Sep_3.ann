@@ -1,3 +1,6 @@
+T1	Claim 810 837	I believe that's the answer
+T2	Premise 939 1059	in that there are some Medicaid provisions that will be very helpful to the very kind of people we're talking about here
+T3	Claim 3362 3509	The fact of the matter is that employers who today are insuring their employees are paying the freight, because they're paying for those who aren't
 T168	Claim 512 614	One thing I will not do is sock every business in the country and, thus, throw some people out of work
 T169	Claim 616 659	I want to keep this economic recovery going
 T170	Claim 756 808	What I will do is permit people to buy into Medicaid
@@ -70,8 +73,6 @@ T236	Claim -1 61; -1 61	I think these things being sure that that blood supply i
 T237	Claim 7185 7246;7249 7290	I am one who believes we've got to go the extra mile in clean being sure that that blood supply is pure
 T238	Claim 7292 7413	We cannot have a lack of confidence in the blood supply when it comes to operations and surgery and things of this nature
 T239	Claim 7419 7516	research, speeding the drugs to market, testing, blood supply are very important elements of this
-T1	Claim 810 837	I believe that's the answer
-T2	Premise 939 1059	in that there are some Medicaid provisions that will be very helpful to the very kind of people we're talking about here
 R1	Support Arg1:T168 Arg2:T169
 R2	Support Arg1:T171 Arg2:T172
 R3	Support Arg1:T172 Arg2:T169
@@ -107,7 +108,6 @@ R32	Support Arg1:T198 Arg2:T194
 R33	Support Arg1:T194 Arg2:T195
 R34	Support Arg1:T195 Arg2:T192
 R35	Support Arg1:T192 Arg2:T193
-T3	Claim 3362 3509	The fact of the matter is that employers who today are insuring their employees are paying the freight, because they're paying for those who aren't
 R36	Attack Arg1:T193 Arg2:T199
 R37	Support Arg1:T193 Arg2:T191
 R38	Support Arg1:T200 Arg2:T191

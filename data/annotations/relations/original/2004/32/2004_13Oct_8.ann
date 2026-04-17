@@ -1,3 +1,5 @@
+T1	Premise 1188 1415	I called together a group of our fellow citizens to study the issue. It was a committee chaired by the late Senator Daniel Patrick Moynihan of New York, a Democrat. And they came up with a variety of ideas for people to look at
+T2	Premise 5970 6085	this is the first president in 72 years to preside over an economy in America that has lost jobs, 1. 6 million jobs
 T459	Claim 72 111	Social Security is running out of money
 T460	Claim 117 135	it has to be fixed
 T461	Premise 137 260	You have proposed to fix it by letting people put some of the money collected to pay benefits into private savings accounts
@@ -89,7 +91,6 @@ T552	Claim 7799 7857	It's to make sure we have fiscal sanity and keep taxes low
 T553	Premise 7625 7648	there's more work to do
 R1	Attack Arg1:T468 Arg2:T466
 R2	Support Arg1:T468 Arg2:T467
-T1	Premise 1188 1415	I called together a group of our fellow citizens to study the issue. It was a committee chaired by the late Senator Daniel Patrick Moynihan of New York, a Democrat. And they came up with a variety of ideas for people to look at
 R3	Support Arg1:T465 Arg2:T464
 R4	Support Arg1:T477 Arg2:T464
 R5	Support Arg1:T480 Arg2:T481
@@ -116,7 +117,6 @@ R25	Attack Arg1:T511 Arg2:T510
 R26	Support Arg1:T517 Arg2:T510
 R27	Support Arg1:T518 Arg2:T519
 R28	Support Arg1:T519 Arg2:T520
-T2	Premise 5970 6085	this is the first president in 72 years to preside over an economy in America that has lost jobs, 1. 6 million jobs
 R29	Support Arg1:T521 Arg2:T525
 R30	Attack Arg1:T527 Arg2:T525
 R31	Attack Arg1:T528 Arg2:T525

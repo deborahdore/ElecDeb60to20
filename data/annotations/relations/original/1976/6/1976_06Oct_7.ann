@@ -1,3 +1,9 @@
+T1	Claim 1209 1285	The so-called Nixon shock against Japan had weakened our relationships there
+T2	Premise 2408 2575	using that base of strength, and using the idealism, the honesty, the predictability, the commitment, the integrity of our own country, that's where our strength lies.
+T3	Claim 2592 2663	ermit us to deal with the developing nations in a position of strength.
+T4	Claim 2862 2921	Our allies - the smaller countries get trampled in the rush
+T5	Premise 3247 3277	I can't say when this can come
+T6	Claim 6170 6235	You can go around the world - and let me take Israel for example.
 T259	Premise 701 765	always in the past we've had an ability to have a strong defense
 T260	Premise 770 820	also have - to have a strong uh - domestic economy
 T261	Premise 826 907	also to be strong in our reputation and influence within the community of nations
@@ -51,7 +57,6 @@ R4	Attack Arg1:T260 Arg2:T262
 R5	Attack Arg1:T259 Arg2:T262
 R6	Support Arg1:T263 Arg2:T262
 R7	Support Arg1:T263 Arg2:T264
-T1	Claim 1209 1285	The so-called Nixon shock against Japan had weakened our relationships there
 R8	Support Arg1:T264 Arg2:T1
 R9	Support Arg1:T263 Arg2:T1
 R10	Support Arg1:T265 Arg2:T264
@@ -72,16 +77,12 @@ R24	Attack Arg1:T275 Arg2:T266
 R25	Attack Arg1:T276 Arg2:T264
 R26	Attack Arg1:T276 Arg2:T1
 R27	Support Arg1:T277 Arg2:T276
-T2	Premise 2408 2575	using that base of strength, and using the idealism, the honesty, the predictability, the commitment, the integrity of our own country, that's where our strength lies.
-T3	Claim 2592 2663	ermit us to deal with the developing nations in a position of strength.
 R28	Support Arg1:T2 Arg2:T3
 R29	Support Arg1:T276 Arg2:T3
-T4	Claim 2862 2921	Our allies - the smaller countries get trampled in the rush
 R30	Support Arg1:T279 Arg2:T278
 R31	Support Arg1:T4 Arg2:T278
 R32	Support Arg1:T281 Arg2:T280
 R33	Support Arg1:T283 Arg2:T280
-T5	Premise 3247 3277	I can't say when this can come
 R34	Attack Arg1:T5 Arg2:T280
 R35	Support Arg1:T5 Arg2:T282
 R36	Attack Arg1:T283 Arg2:T282
@@ -100,7 +101,6 @@ R48	Support Arg1:T294 Arg2:T292
 R49	Support Arg1:T292 Arg2:T295
 R50	Support Arg1:T534 Arg2:T295
 R51	Attack Arg1:T534 Arg2:T290
-T6	Claim 6170 6235	You can go around the world - and let me take Israel for example.
 R52	Support Arg1:T296 Arg2:T6
 R53	Support Arg1:T297 Arg2:T6
 R54	Support Arg1:T299 Arg2:T6

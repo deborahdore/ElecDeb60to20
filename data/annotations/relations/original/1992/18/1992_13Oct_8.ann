@@ -1,3 +1,6 @@
+T1	Claim 2649 2690	It's a classic McCarthyite smear techniqu
+T2	Claim 3766 3780	tell the truth
+T3	Premise 6935 7080	Isn't it time for a new approach, a new generation of ideas and leadership, to put our nation's people first and to get our economy moving again?
 T574	Claim 749 903	I think there is a case to be made for putting emphasis on character over these issues that we've been batting back and forth and have a life of their own
 T575	Claim 973 1017	character is the big variable in the success
 T576	Claim 1019 1123	Character of the leaders is the big variable in the success -- long term success -- of an administration
@@ -62,6 +65,7 @@ T634	Premise 8915 9033	Not one time during this evening, during 90 minutes, did 
 T635	Claim 8738 8820	in the next 4 years, as I said, somewhere, some time, there's going to be a crisis
 T636	Claim 8826 8872	you need to have a president that is qualified
 T637	Premise 7681 7873	I think of a woman in Chicago when I was talking to parents about education where she stood up and said I'm sick and tired of these schools in this city being nothing but a factory for failure
+T638	Claim 7890 7920	we support choice in education
 T639	Premise 7922 8138	I was in Beaumont, Texas, and met with small business people, and they wanted to reform the civil justice system because they think our legal system costs too much and there's too much of a delay in getting an answer
 T640	Premise 8141 8393	I was in Middletown, Ohio, talking to a welfare woman, where she said I want to go back to work and I had a job offered to me but I'm not going to take it because I have 2 children at home and the job that is offered to me doesn't have health insurance
 T641	Premise 8550 8566	she'll have both
@@ -71,7 +75,6 @@ T644	Premise 8670 8730	Hundreds of people came up to me and said: God bless Amer
 T714	Claim 1939 1998	not about personal attacks against one candidate or another
 T715	Premise 2814 2931	I'm awful proud that the American people rejected that tactic so overwhelmingly that he decided he had made a mistake
 T716	Claim 7217 7257	a choice between the future and the past
-T638	Claim 7890 7920	we support choice in education
 T717	Claim 8874 8892	has the experience
 T718	Claim 8898 8913	has been tested
 R1	Support Arg1:T575 Arg2:T576
@@ -87,7 +90,6 @@ R10	Attack Arg1:T584 Arg2:T714
 R11	Attack Arg1:T584 Arg2:T585
 R12	Attack Arg1:T584 Arg2:T586
 R13	Support Arg1:T586 Arg2:T587
-T1	Claim 2649 2690	It's a classic McCarthyite smear techniqu
 R14	Support Arg1:T1 Arg2:T587
 R15	Attack Arg1:T588 Arg2:T586
 R16	Support Arg1:T1 Arg2:T588
@@ -98,7 +100,6 @@ R20	Support Arg1:T592 Arg2:T590
 R21	Attack Arg1:T591 Arg2:T592
 R22	Attack Arg1:T591 Arg2:T588
 R23	Support Arg1:T593 Arg2:T594
-T2	Claim 3766 3780	tell the truth
 R24	Support Arg1:T594 Arg2:T595
 R25	Attack Arg1:T2 Arg2:T595
 R26	Support Arg1:T596 Arg2:T2
@@ -129,7 +130,6 @@ R50	Support Arg1:T621 Arg2:T613
 R51	Support Arg1:T623 Arg2:T622
 R52	Support Arg1:T624 Arg2:T622
 R53	Support Arg1:T625 Arg2:T622
-T3	Premise 6935 7080	Isn't it time for a new approach, a new generation of ideas and leadership, to put our nation's people first and to get our economy moving again?
 R54	Support Arg1:T3 Arg2:T622
 R55	Attack Arg1:T626 Arg2:T613
 R56	Support Arg1:T627 Arg2:T628

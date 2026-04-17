@@ -1,6 +1,7 @@
 T1	Premise 1306 1374	Bob Dole and myself do not see Al Gore and Bill Clinton as our enemy
 T2	Premise 1376 1404	We see them as our opponents
 T3	Claim 1406 1449	This is the greatest democracy in the world
+T4	Claim 6263 6384	they think we're at our fullest capacity, that weâ€™ve reached our potential and 2.5 percent growth is enough for America
 T5	Premise 1620 1728	Bob Dole, um, is one of those men who served in the United States Senate, his public life is a public record
 T6	Premise 1730 1758	He fought on the battlefield
 T7	Premise 1760 1804	He has worked with Democrats and Republicans
@@ -8,8 +9,8 @@ T8	Claim 1806 1873	In my opinion, it is beneath Bob Dole to go after anyone pers
 T9	Premise 1875 1978	Clearly, Abraham Lincoln put it best when he said you serve your party best by serving the nation first
 T10	Claim 1984 2119	I can't think of a better way of serving this nation in 1996 than by electing Bob Dole as the President of the United States of America
 T11	Premise 2215 2334	This is a democracy in which we have the freest press and the greatest First Amendment rights in the history of mankind
-T13	Claim 3249 3441	We have a plan to balance the budget while protecting Medicare, Medicaid, education and the environment. Creating millions of new jobs, including one million new jobs in America's inner cities
 T12	Claim 3814 3907	Our foreign policy is ambivalent, confusing, it is sending strong signals to the wrong people
+T13	Claim 3249 3441	We have a plan to balance the budget while protecting Medicare, Medicaid, education and the environment. Creating millions of new jobs, including one million new jobs in America's inner cities
 T14	Premise 3913 3972	we have learned over the years that weakness is provocative
 T15	Claim 3978 4022	domestic economy is not doing what it can do
 T16	Premise 4024 4070	This President believes we are at our capacity
@@ -29,6 +30,7 @@ T29	Premise 5584 5694	All of this is within a balanced budget plan, which protec
 T30	Claim 5708 5811	this economy is overtaxed, overregulated, too many people suing each other, there's too much litigation
 T31	Claim 5813 5926	Our education is not up to the standards that the American family and the American people want for their children
 T32	Claim 5942 6008	the welfare system is a disgrace to our Judeo-Christian principles
+T33	Question 7489 7629	Do you think there's a basic philosophy difference between these two tickets, or is it about specifics, which both of you have talked about?
 T34	Claim 6395 6435	that is not good enough for this country
 T35	Premise 6437 6490	We can not just run the clock out on the 20th Century
 T36	Claim 6505 6587	we need to lower the tax rate across the board on working and saving and investing
@@ -68,6 +70,9 @@ T69	Premise 10164 10278	Every time this country in the 20th Century has cut tax 
 T70	Claim 10284 10431	I am surprised at this point in his career that Vice President Gore and the President cannot understand that you get more revenue from a bigger pie
 T71	Premise 10446 10576	creating more jobs reduces the social welfare drain, clearly makes more opportunity for capital to be invested in our inner cities
 T72	Claim 10595 10645	we shouldn't just tinker with the Capital Gain Tax
+T94	Claim 3689 3812	I really got only two differences with Bill Clinton -- Â President Clinton and Mr. Gore, foreign policy and domestic policy
+T95	Question 4303 4466	what do you see as the political philosophy differences in a general way between you and President Clinton on the one hand, Mr. Kemp and Senator Dole on the other?
+T96	Question 1023 1234	Some supporters of Senator Dole have expressed disappointment over his unwillingness in Hartford Sunday night to draw personal and ethical differences between him and President Clinton. How do you feel about it?
 T158	Claim 9518 9553	it would blow a hole in the deficit
 R1	Support Arg1:T9 Arg2:T8
 R2	Support Arg1:T8 Arg2:T10
@@ -75,7 +80,6 @@ R3	Support Arg1:T11 Arg2:T3
 R4	Support Arg1:T5 Arg2:T10
 R5	Support Arg1:T6 Arg2:T10
 R6	Support Arg1:T7 Arg2:T10
-T94	Claim 3689 3812	I really got only two differences with Bill Clinton -- Â President Clinton and Mr. Gore, foreign policy and domestic policy
 R7	Attack Arg1:T17 Arg2:T16
 R8	Support Arg1:T18 Arg2:T17
 R9	Support Arg1:T12 Arg2:T94
@@ -118,12 +122,8 @@ R49	Support Arg1:T66 Arg2:T67
 R51	Support Arg1:T71 Arg2:T72
 R50	Support Arg1:T69 Arg2:T72
 R53	Attack Arg1:T70 Arg2:T68
-T95	Question 4303 4466	what do you see as the political philosophy differences in a general way between you and President Clinton on the one hand, Mr. Kemp and Senator Dole on the other?
-T96	Question 1023 1234	Some supporters of Senator Dole have expressed disappointment over his unwillingness in Hartford Sunday night to draw personal and ethical differences between him and President Clinton. How do you feel about it?
-T4	Claim 6263 6384	they think we're at our fullest capacity, that weâ€™ve reached our potential and 2.5 percent growth is enough for America
 R54	Attack Arg1:T34 Arg2:T4
 R55	Attack Arg1:T40 Arg2:T36
-T33	Question 7489 7629	Do you think there's a basic philosophy difference between these two tickets, or is it about specifics, which both of you have talked about?
 R34	Support Arg1:T56 Arg2:T60
 R56	Support Arg1:T62 Arg2:T48
 R57	Support Arg1:T61 Arg2:T48

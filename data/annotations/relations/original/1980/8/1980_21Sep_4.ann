@@ -1,3 +1,4 @@
+T1	Claim 6470 6507	the Federal Government has pre-empted
 T148	Claim 94 137	the military is not the only area in crisis
 T149	Premise 139 237	American cities are physically wearing out, as housing, streets, sewers and budgets all fall apart
 T150	Premise 243 340	all of this is piled upon the emotional strain that comes from refugees and racial confrontations
@@ -58,7 +59,6 @@ T205	Claim 7988 8030	It's because they have lost their industry
 T206	Premise 8084 8214	they no longer present the kind of viable economic climate that makes it possible for industry to remain there, or to locate there
 T207	Claim 8216 8298	I think Government has a responsibility to find jobs for the youth of this country
 T208	Claim 8309 8407	the place to start is to assist in the very important and necessary task of helping cities rebuild
-T1	Claim 6470 6507	the Federal Government has pre-empted
 R1	Support Arg1:T153 Arg2:T154
 R2	Support Arg1:T154 Arg2:T152
 R3	Support Arg1:T153 Arg2:T152

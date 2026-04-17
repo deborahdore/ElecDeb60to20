@@ -1,3 +1,4 @@
+T1	Claim 8097 8112	I have a record
 T460	Claim 328 360	Yes, I think we need more troops
 T461	Claim 409 461	I think that we have to do it as quickly as possible
 T462	Premise 471 568	it's been acknowledged by the commanders on the ground the situation is getting worse, not better
@@ -150,7 +151,6 @@ T609	Premise 11331 11355	I traveled to Waziristan
 T610	Premise 11360 11386	I traveled to these places
 T611	Claim 11391 11432	I know what our security requirements are
 T612	Claim 11434 11459	I know what our needs are
-T1	Claim 8097 8112	I have a record
 R1	Support Arg1:T462 Arg2:T461
 R2	Support Arg1:T461 Arg2:T460
 R3	Support Arg1:T466 Arg2:T465

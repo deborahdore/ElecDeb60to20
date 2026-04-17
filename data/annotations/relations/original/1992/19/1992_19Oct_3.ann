@@ -1,3 +1,7 @@
+T1	Claim 1553 1569	I made a mistake
+T2	Claim 1796 1812	I made a mistake
+T3	Premise 4035 4105	That's just what the president did when he vetoed the Family Leave Act
+T19	Premise 910 1082	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
 T22	Claim 661 706	I wouldn't have taken any of the alternatives
 T23	Claim 726 752	I believe I made a mistake
 T24	Claim 793 908	There was one good thing that came out of that budget agreement, and that is we put a cap on discretionary spending
@@ -25,21 +29,18 @@ T47	Premise 2803 3141	If you can't get your act together to pick him up one day 
 T48	Claim 3143 3160	That's leadership
 T49	Claim 3175 3208	leaders will always make mistakes
 T50	Claim 3342 3365	We've gotta change that
-T52	Premise 3300 3340	nobody takes responsibility for anything
 T51	Claim 3526 3628	The mistake that was made was making the "read my lips" promise in the first place just to get elected
+T52	Premise 3300 3340	nobody takes responsibility for anything
 T53	Premise 3630 3670	knowing what the size of the deficit was
 T54	Premise 3684 3724	Knowing what the size of the deficit was
 T55	Premise 3726 3780	knowing there was no plan to control health care costs
 T56	Premise 3785 3875	knowing that we did not have a strategy to get real economic growth back into this economy
 T57	Claim 3877 3907	The choices were not good then
 T58	Claim 3930 4033	the mistake that was made was signing off on the deal late on Saturday night in the middle of the night
-T60	Claim 4108 4371	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
 T59	Claim 4491 4557	The real mistake was the "read my lips" promise in the first place
+T60	Claim 4108 4371	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
 T61	Premise 4373 4464	He said it was in the public interest at the time and most everybody who was involved in it
 T62	Premise 4559 4691	You just can't promise something like that just to get elected if you know there's a good chance that circumstances may overtake you
-T19	Premise 910 1082	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
-T1	Claim 1553 1569	I made a mistake
-T2	Claim 1796 1812	I made a mistake
 R1	Support Arg1:T19 Arg2:T24
 R2	Support Arg1:T24 Arg2:T25
 R3	Support Arg1:T26 Arg2:T25
@@ -72,5 +73,4 @@ R29	Support Arg1:T62 Arg2:T59
 R30	Support Arg1:T61 Arg2:T60
 R31	Support Arg1:T30 Arg2:T27
 R32	Attack Arg1:T51 Arg2:T32
-T3	Premise 4035 4105	That's just what the president did when he vetoed the Family Leave Act
 R33	Support Arg1:T3 Arg2:T58

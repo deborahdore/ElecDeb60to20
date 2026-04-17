@@ -1,3 +1,4 @@
+T1	Claim 2842 2859	it's this pattern
 T390	Claim 466 562	your credibility has come into question because of your different responses on the Vietnam draft
 T391	Claim 1053 1077	I was opposed to the war
 T392	Claim 1101 1130	I felt very strongly about it
@@ -32,7 +33,6 @@ T423	Claim 3431 3476	I appreciate their idealism, their sacrifices
 T424	Claim 3357 3429	I feel very strongly about the people who go into battle for our country
 T425	Premise 3298 3355	I've spent my whole adult life very close to the military
 T793	Claim 3661 3767	I consider it really a waste of time tonight, when you consider the issues that face our country right now
-T1	Claim 2842 2859	it's this pattern
 R1	Support Arg1:T399 Arg2:T402
 R2	Support Arg1:T400 Arg2:T402
 R3	Support Arg1:T401 Arg2:T402

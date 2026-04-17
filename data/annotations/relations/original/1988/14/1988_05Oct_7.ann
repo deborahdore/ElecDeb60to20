@@ -1,3 +1,6 @@
+T1	Premise 5028 5120	What you have seen them do is cut the farm assistance for the rural areas by over 50 percent
+T2	Premise 5664 6190	I was in January visiting with Mr. Takeshita, the new Prime Minister of Japan. I said, "You're paying five times as much for beef as we pay for our in country - pay for it in our country, six times as much for rice. You have a $60 billion trade surplus with us. You could improve the standard of living of your people. You're spending 27 percent of your disposable income. We spend 14 or 15 percent." "When you have that kind of barrier up against us, that's not free and fair trade and we don't believe that should continue."
+T3	Premise 6684 6754	Jimmy Carter - Jimmy Carter grain embargo set the American farmer back
 T215	Claim 1125 1145	I disagree with that
 T216	Premise 996 1119	The premise of your question, John, is that somehow this administration has been lax in enforcement of the OSHA regulations
 T217	Claim 2670 2695	we'll continue to do that
@@ -24,6 +27,7 @@ T237	Claim 3566 3686	that's what a Democratic administration would do to help ma
 T238	Premise 3364 3450	Most employers do a good job of that, but some of them put their profits before people
 T239	Claim 4431 4450	I've supported that
 T240	Premise 4452 4545	I voted for the 50,000 limitation to get away from the million dollar contributions to farmer
+T241	Claim 6191 6330	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
 T242	Claim 4679 4733	I think I understand their concerns and their problems
 T243	Premise 4547 4674	You know, of the four that are on this ticket, I'm the only on that was born and reared on a farm and still involved in farming
 T244	Claim 4740 4887	I feel very strongly that we ought to be doing more for the American farmer and what we've seen under this administration is neglect of that farmer
@@ -36,7 +40,6 @@ T250	Premise 5299 5331	they have not had a trade policy
 T251	Premise 5333 5374	We saw our market loss by some 40 percent
 T252	Claim 5380 5554	that's one of the reasons that we've seen the cost of the farm program, which was only about two and a half billion dollars when they took office, now go to about $25 billion
 T253	Claim 5561 5662	we can bring that kind of a cost down and get more to market prices if we'll have a good trade policy
-T241	Claim 6191 6330	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
 T254	Claim 6335 6395	I think we can do it with the Dukakis-Bentsen administration
 T255	Claim 6500 6643	I'll tell you one way that we're not going to recapture the foreign markets and that is if, in fact, we have another Jimmy Carter grain embargo
 T256	Claim 6756 6813	You know what the farmer's interested in? Net farm income
@@ -73,18 +76,15 @@ R22	Support Arg1:T243 Arg2:T242
 R23	Support Arg1:T242 Arg2:T239
 R24	Support Arg1:T245 Arg2:T244
 R25	Support Arg1:T244 Arg2:T239
-T1	Premise 5028 5120	What you have seen them do is cut the farm assistance for the rural areas by over 50 percent
 R26	Support Arg1:T250 Arg2:T249
 R27	Support Arg1:T251 Arg2:T252
 R28	Support Arg1:T252 Arg2:T253
-T2	Premise 5664 6190	I was in January visiting with Mr. Takeshita, the new Prime Minister of Japan. I said, "You're paying five times as much for beef as we pay for our in country - pay for it in our country, six times as much for rice. You have a $60 billion trade surplus with us. You could improve the standard of living of your people. You're spending 27 percent of your disposable income. We spend 14 or 15 percent." "When you have that kind of barrier up against us, that's not free and fair trade and we don't believe that should continue."
 R29	Support Arg1:T2 Arg2:T241
 R30	Support Arg1:T241 Arg2:T254
 R31	Support Arg1:T249 Arg2:T254
 R32	Support Arg1:T248 Arg2:T249
 R33	Support Arg1:T1 Arg2:T249
 R34	Support Arg1:T246 Arg2:T249
-T3	Premise 6684 6754	Jimmy Carter - Jimmy Carter grain embargo set the American farmer back
 R35	Support Arg1:T3 Arg2:T255
 R36	Support Arg1:T257 Arg2:T256
 R37	Support Arg1:T263 Arg2:T262

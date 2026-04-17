@@ -1,3 +1,6 @@
+T1	Premise 1695 1713	Mr. Nixon resigned
+T2	Claim 3012 3202	I think it's uh... very difficult for President Ford to uh - explain the difference between the pardon of President Nixon and - and uh - his attitude toward those who violated the draft laws
+T3	Premise 2558 2652	Mr. Carter has uh indicated that uh - he would give a blanket pardon to all uh - draft evaders
 T130	Claim 1715 1731	That is disgrace
 T131	Premise 1733 1825	The first President out of thirty-eight that ever resigned from public office under pressure
 T132	Claim 1049 1128	I am against- an across-the-board pardon of draft evaders or military deserters
@@ -33,7 +36,6 @@ T161	Claim 4368 4439	the whole uh subject of crime is one that concerns our peop
 T162	Claim 4445 4556	I believe that the fairness of it is - is what - uh - is a - is a major problem that addresses our - our leader
 T163	Claim 4561 4644	this is something that hasn't been addressed adequately by - by this administration
 T164	Claim 4654 4918	I hope to have a complete uh responsibility on my shoulders to help bring about a - a fair uh - criminal justice system and also to - to bring about uh - an end to the - to the divise- divisiveness that has occurred in our country uh as a result of the Vietnam War
-T1	Premise 1695 1713	Mr. Nixon resigned
 R1	Support Arg1:T137 Arg2:T136
 R2	Support Arg1:T138 Arg2:T137
 R3	Support Arg1:T131 Arg2:T130
@@ -52,7 +54,6 @@ R16	Support Arg1:T144 Arg2:T141
 R17	Support Arg1:T142 Arg2:T141
 R19	Support Arg1:T147 Arg2:T148
 R20	Support Arg1:T148 Arg2:T145
-T2	Claim 3012 3202	I think it's uh... very difficult for President Ford to uh - explain the difference between the pardon of President Nixon and - and uh - his attitude toward those who violated the draft laws
 R22	Equivalent Arg1:T155 Arg2:T150
 R23	Support Arg1:T152 Arg2:T151
 R14	Support Arg1:T140 Arg2:T136
@@ -63,7 +64,6 @@ R21	Attack Arg1:T2 Arg2:T136
 R26	Attack Arg1:T2 Arg2:T141
 R27	Support Arg1:T150 Arg2:T149
 R28	Attack Arg1:T149 Arg2:T3
-T3	Premise 2558 2652	Mr. Carter has uh indicated that uh - he would give a blanket pardon to all uh - draft evaders
 R29	Attack Arg1:T145 Arg2:T3
 R30	Support Arg1:T151 Arg2:T150
 R31	Support Arg1:T157 Arg2:T155

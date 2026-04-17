@@ -1,3 +1,4 @@
+T1	Premise 2546 2567	President Bush didn't
 T434	Claim 131 154	I am an undecided voter
 T435	Premise 164 239	I'm disappointed with the lack of progress I've seen in the last four years
 T436	Claim 250 374	I do attribute much of America's economic and international problems to the failings and missteps of the Bush administration
@@ -59,7 +60,6 @@ T492	Premise 5812 5847	He didn't call for self-deportation
 T493	Claim 5998 6028	they're not on economic policy
 T494	Premise 5931 5992	there are differences between Governor Romney and George Bush
 T495	Premise 5850 5926	George Bush never suggested that we eliminate funding for Planned Parenthood
-T1	Premise 2546 2567	President Bush didn't
 R1	Support Arg1:T435 Arg2:T434
 R2	Support Arg1:T436 Arg2:T434
 R3	Support Arg1:T437 Arg2:T438

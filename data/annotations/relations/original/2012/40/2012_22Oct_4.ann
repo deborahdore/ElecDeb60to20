@@ -1,3 +1,5 @@
+T1	Premise 1153 1201	To the extent humanly possible, we get that out.
+T2	Premise 3698 3733	That's exactly what our budget does
 T376	Claim 501 583	we're going to cut about 5 percent of the discretionary budget, excluding military
 T377	Claim 942 967	I get rid of is Obamacare
 T378	Premise 969 1053	There are a number of things that sound good, but frankly, we just can't afford them
@@ -80,7 +82,6 @@ R2	Support Arg1:T376 Arg2:T382
 R3	Support Arg1:T382 Arg2:T377
 R4	Support Arg1:T380 Arg2:T377
 R5	Support Arg1:T378 Arg2:T382
-T1	Premise 1153 1201	To the extent humanly possible, we get that out.
 R6	Support Arg1:T1 Arg2:T381
 R7	Support Arg1:T381 Arg2:T380
 R8	Support Arg1:T385 Arg2:T384
@@ -109,7 +110,6 @@ R30	Attack Arg1:T410 Arg2:T412
 R31	Support Arg1:T410 Arg2:T409
 R32	Attack Arg1:T409 Arg2:T411
 R33	Support Arg1:T411 Arg2:T412
-T2	Premise 3698 3733	That's exactly what our budget does
 R34	Support Arg1:T2 Arg2:T409
 R35	Support Arg1:T408 Arg2:T407
 R36	Support Arg1:T419 Arg2:T418

@@ -16,6 +16,9 @@ T15	Claim 81789 81850	I think even he has learned that you can't say "read my li
 T16	Premise 81859 81904	you can't know what emergencies might come up
 T17	Claim 81500 81550	I am not gonna tell you "read my lips" on anything
 T18	Claim 81931 82023	I'm not gonna raise taxes on middle class Americans to pay for the programs I've recommended
+T19	Premise 49261 49433	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
+T20	Claim 56919 57003	We went to the UN, we made historic resolutions up there, the whole world was united
+T21	Premise 25504 25618	They both said they were Vietnam veterans supporting me because I had an economic program to put them back to work
 T22	Claim 49012 49057	I wouldn't have taken any of the alternatives
 T23	Claim 49077 49103	I believe I made a mistake
 T24	Claim 49144 49259	There was one good thing that came out of that budget agreement, and that is we put a cap on discretionary spending
@@ -45,16 +48,16 @@ T47	Premise 51154 51492	If you can't get your act together to pick him up one da
 T48	Claim 51494 51511	That's leadership
 T49	Claim 51526 51559	leaders will always make mistakes
 T50	Claim 51693 51716	We've gotta change that
-T52	Premise 51651 51691	nobody takes responsibility for anything
 T51	Claim 51877 51979	The mistake that was made was making the "read my lips" promise in the first place just to get elected
+T52	Premise 51651 51691	nobody takes responsibility for anything
 T53	Premise 51981 52021	knowing what the size of the deficit was
 T54	Premise 52035 52075	Knowing what the size of the deficit was
 T55	Premise 52077 52131	knowing there was no plan to control health care costs
 T56	Premise 52136 52226	knowing that we did not have a strategy to get real economic growth back into this economy
 T57	Claim 52228 52258	The choices were not good then
 T58	Claim 52281 52384	the mistake that was made was signing off on the deal late on Saturday night in the middle of the night
-T60	Claim 52459 52722	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
 T59	Claim 52842 52908	The real mistake was the "read my lips" promise in the first place
+T60	Claim 52459 52722	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
 T61	Premise 52724 52815	He said it was in the public interest at the time and most everybody who was involved in it
 T62	Premise 52910 53042	You just can't promise something like that just to get elected if you know there's a good chance that circumstances may overtake you
 T63	Claim 1518 1761	you are promising to create jobs, reduce the deficit, reform the health care system, rebuild the infrastructure, guarantee college education for everyone who is qualified, among many other things, all with financial pain only for the very rich
@@ -62,6 +65,7 @@ T64	Claim 1763 1831	Some people are having trouble apparently believing that is 
 T65	Claim 1879 2021	There are many people who believe that the only way we can get this country turned around is to tax the middle class more and punish them more
 T66	Premise 2045 2216	middle-class Americans are basically the only group of Americans who've been taxed more in the 1980s and during the last 12 years, even though their incomes have gone down
 T67	Premise 2218 2309	The wealthiest Americans have been taxed much less, even though their incomes have gone up.
+T68	Claim 5250 5283	I want to do something about that
 T69	Claim 2470 2520	my plan is a departure from trickle-down economics
 T70	Claim 2522 2568	just cutting taxes on the wealthiest Americans
 T71	Claim 2573 2595	getting out of the way
@@ -85,6 +89,7 @@ T88	Claim 3572 3620	I don't believe trickle down economics will work
 T89	Premise 3622 3640	Unemployment is up
 T90	Premise 3642 3722	Most people are working harder for less money than they were making 10 years ago
 T91	Claim 3724 3781	I think we can do better if we have the courage to change
+T92	Claim 7175 7203	I disagree with both of them
 T93	Claim 4008 4089	I think he's talking about the Reagan-Bush years where we created 15 million jobs
 T94	Premise 4091 4151	The rich are paying a bigger percent of the total tax burden
 T95	Claim 4162 4201	I don't like is trickle down government
@@ -125,6 +130,9 @@ T129	Premise 6214 6251	we didn't want to disrupt the economy
 T130	Premise 6253 6337	We gave it off to a slow start and a fast finish to give the economy time to recover
 T131	Claim 6374 6412	we believe it's fair, shared sacrifice
 T132	Claim 6609 6690	I think that's fundamental in our country, that you know what you're getting into
+T133	Claim 15164 15245	I'm working for that -- to protect the American taxpayer against the big spenders
+T134	Premise 26459 26635	when Governor Clinton was talking to the auto workers, whether he talked about his and Senator Gore's favoring CAFE standards, fuel efficiency standards, of 40 miles per gallon
+T135	Claim 31352 31369	it will cost jobs
 T136	Claim 7248 7428	I disagree with Mr. Perot that the answer is to raise -- put a 50-cent gas tax on the middle class and raise more taxes on the middle class and the working poor than on the wealthy
 T137	Premise 7430 7533	His own analysis says that unemployment will be slightly higher in 1995 under his plan than it is today
 T138	Premise 7654 7749	just this year, Mr. Bush vetoed a tax increase on the wealthy that gave middle class tax relief
@@ -188,6 +196,8 @@ T195	Premise 13152 13397	to make the kind of changes that have generated support
 T196	Claim 13671 13798	The people who have jobs and educations and opportunities that didn't have them 10 years ago don't think it's irrelevant at all
 T197	Claim 13800 13831	they think it's highly relevant
 T198	Claim 13836 13878	they wish the rest of the country had them
+T199	Premise 33436 33571	Mr. Bush was very grateful when I was among the Democrats who said he ought to have the authority to negotiate an agreement with Mexico
+T200	Claim 33573 33753	Neither I nor anybody else, as far a I know, agreed to give him our proxy to say that whatever he did was fine for the workers of this country and for the interests of this country
 T201	Claim 15697 15729	I don't think that's a fair shot
 T202	Premise 15744 15783	I hear it echoed by political opponents
 T203	Claim 15789 15812	I don't think it's fair
@@ -243,8 +253,8 @@ T252	Claim 22860 22930	Again and again, on complex, difficult tasks, I have stay
 T253	Premise 22932 23099	When I was asked by our government to do the POW project, within a year the Vietnamese had sent people into Canada to make arrangements to have me and my family killed
 T254	Premise 23105 23225	I had 5 small children, and my family and I decided we would stay the course, and we lived with that problem for 3 years
 T255	Premise 23233 23318	I got into the Texas War on Drugs program and the big-time drug dealers got all upset
-T257	Premise 23325 23481	when I had 2 people imprisoned in Iran, I could have left them there. I could have rationalized it. We went over, we got them out, we brought them back home
 T256	Premise 23510 23696	I have lived with the burden of the Middle East, where it's eye for an eye and tooth for a tooth country, in terms of their unhappiness with the fact that I was successful in that effort
+T257	Premise 23325 23481	when I had 2 people imprisoned in Iran, I could have left them there. I could have rationalized it. We went over, we got them out, we brought them back home
 T258	Premise 23699 23953	Again and again and again, in the middle of the night, at 2 or 3 o'clock in the morning, my government has called me to take extraordinary steps for Americans in distress, and again and again and again I have responded. And I didn't wilt and I didn't qui
 T259	Claim 24125 24203	I never quit supporting you as you put me on the ballot in the other 26 states
 T260	Claim 24209 24258	when you asked me to come back in, I came back in
@@ -252,6 +262,7 @@ T261	Premise 24289 24382	I'm spending my money on this campaign; the 2 parties a
 T262	Claim 24384 24438	I put my wallet on the table for you and your children
 T263	Claim 24626 24705	I've lived the American dream; I'd like for your children to be able to live it
 T264	Claim 25243 25400	we're still losing a lot of auto jobs, in my judgment, because we don't have a national economic strategy that will build the industrial base of this country
+T265	Claim 24980 25075	I don't think there's any question that the automobile executives made some errors in the 1980s
 T266	Claim 25620 25684	We need an investment incentive to modernize plant and equipment
 T267	Claim 25686 25745	we've got to control the health care costs for those people
 T268	Claim 25749 25800	otherwise we can't keep the manufacturing jobs here
@@ -325,9 +336,10 @@ T335	Claim 37615 37639	We don't have free trade
 T336	Claim 37568 37613	Our country has sold out to foreign lobbyists
 T337	Claim 37641 37718	Both parties have foreign lobbyists on leaves in key roles in their campaigns
 T338	Claim 37724 37790	if there's anything more unwise than that, I don't know what it is
+T339	Claim 40198 40252	The laws protect the American taxpayer in this regard.
 T340	Claim 38388 38478	Japanese couldn't unload the cars in this country if they had the same restrictions we had
-T342	Claim 38713 38752	They're foreign lobbyists taking leaves
 T341	Claim 38891 38947	I don't believe that's in the American people's interest
+T342	Claim 38713 38752	They're foreign lobbyists taking leaves
 T343	Premise 38818 38889	Go back to work at 30,000 bucks a month representing some other country
 T344	Claim 38950 38976	I don't have a one of them
 T345	Claim 38982 39022	I haven't taken a penny of foreign money
@@ -359,6 +371,7 @@ T370	Claim 42238 42278	we ought to close the lawyers' loopholes
 T371	Claim 42280 42339	they ought to have to disclose when they're really lobbying
 T372	Claim 42345 42556	we ought to have to limit -- we ought to have a much longer period of time, about 5 years, between the time when people can leave executive branch offices and then go out and start lobbying for foreign interests
 T373	Claim 42558 42575	I agree with that
+T374	Premise 42631 42730	all these leverage buyouts and all these terrible things that have happened to the airline industry
 T375	Claim 42732 42777	We're going to have a hard time rebuilding it
 T376	Claim 42784 42848	the real thing we got to have is a competitive economic strategy
 T377	Premise 42850 42892	Look what's happening to McDonnell Douglas
@@ -401,6 +414,8 @@ T413	Claim 47422 47439	it's this pattern
 T414	Claim 47547 47588	you can't be on all these different sides
 T415	Claim 47706 47751	That's my big difference with him on the draf
 T416	Claim 47754 47780	It wasn't failing to serve
+T417	Claim 25081 25154	I also think we should look at how much productivity has increased lately
+T418	Claim 25156 25204	how much labor has done to increase productivity
 T419	Claim 48194 48235	I don't look on it personally as relevant
 T420	Claim 48167 48192	I look on this as history
 T421	Premise 48105 48165	That's been displayed again and again in a very tangible way
@@ -769,26 +784,11 @@ T783	Claim 96068 96125	ou won't tolerate endless meandering and wandering around
 T784	Claim 96131 96165	you won't tolerate non-performance
 T785	Premise 96184 96270	anybody that knows me understands I have a very low tolerance for non-performance also
 T786	Claim 96272 96305	Together we can get anything done
-T68	Claim 5250 5283	I want to do something about that
-T92	Claim 7175 7203	I disagree with both of them
-T133	Claim 15164 15245	I'm working for that -- to protect the American taxpayer against the big spenders
-T134	Premise 26459 26635	when Governor Clinton was talking to the auto workers, whether he talked about his and Senator Gore's favoring CAFE standards, fuel efficiency standards, of 40 miles per gallon
-T135	Claim 31352 31369	it will cost jobs
-T199	Premise 33436 33571	Mr. Bush was very grateful when I was among the Democrats who said he ought to have the authority to negotiate an agreement with Mexico
-T200	Claim 33573 33753	Neither I nor anybody else, as far a I know, agreed to give him our proxy to say that whatever he did was fine for the workers of this country and for the interests of this country
 T787	Claim 33755 33795	I am the one who's in the middle on this
 T788	Claim 35599 35610	I am for it
-T339	Claim 40198 40252	The laws protect the American taxpayer in this regard.
 T789	Claim 40404 40427	I don't agree with that
 T790	Claim 42577 42619	We've wrecked the airline industry already
-T374	Premise 42631 42730	all these leverage buyouts and all these terrible things that have happened to the airline industry
 T791	Premise 43333 43379	I heard Gov Clinton congratulate us on 1 thing
 T792	Claim 43383 43446	first time he said something pleasant about this administration
 T793	Claim 48241 48347	I consider it really a waste of time tonight, when you consider the issues that face our country right now
-T19	Premise 49261 49433	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
-T20	Claim 56919 57003	We went to the UN, we made historic resolutions up there, the whole world was united
-T21	Premise 25504 25618	They both said they were Vietnam veterans supporting me because I had an economic program to put them back to work
-T265	Claim 24980 25075	I don't think there's any question that the automobile executives made some errors in the 1980s
-T417	Claim 25081 25154	I also think we should look at how much productivity has increased lately
-T418	Claim 25156 25204	how much labor has done to increase productivity
 T794	Claim 25209 25237	how much management has done

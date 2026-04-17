@@ -1,3 +1,4 @@
+T1	Premise 5108 5148	paid for by raising taxes on the wealthy
 T169	Claim 681 763	If you look at the cost of not keeping the peace in Europe, it would be exorbitant
 T170	Premise 644 679	for 40-some years we kept the peace
 T171	Premise 765 844	We have reduced the number of troops that are deployed and going to be deployed
@@ -9,6 +10,7 @@ T176	Claim 1138 1224	I think it is important that the US stay in Europe and cont
 T177	Claim 1226 1252	We simply cannot pull back
 T178	Premise 1259 1387	when anybody has a spending program they want to spend money on at home, they say, well, let's cut money out of the Defense Dept
 T179	Premise 1389 1508	I will accept and have accepted the recommendations of 2 proven leaders, General Colin Powell and Secretary Dick Cheney
+T180	Claim 1510 1605	They feel that the levels we're operating at and the reductions that I have proposed are proper
 T181	Claim 1614 1707	I simply do not think we should go back to the isolation days and starting blaming foreigners
 T182	Claim 1709 1745	We are the sole remaining superpower
 T183	Claim 1751 1768	we should be that
@@ -41,6 +43,7 @@ T209	Claim 3948 3994	We certainly must maintain an engagement there
 T210	Claim 3828 3876	I agree with the general statement Mr. Bush made
 T211	Claim 3878 3946	I disagree that we need 150,000 troops to fulfill our role in Europe
 T212	Premise 3996 4029	There are certainly dangers there
+T213	Premise 4131 4314	2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci
 T214	Premise 4316 4376	Many of the military experts whom I consulted on this agreed
 T215	Claim 4378 4531	We're going to have to spend more money in the future on military technology and on greater mobility, greater airlift, greater sealift, the B-22 airplane
 T216	Claim 4533 4592	We're going to have to do some things that are quite costly
@@ -61,9 +64,6 @@ T589	Premise 3073 3141	if you only have to pick up a $30-billion tab to defend y
 T590	Premise 4031 4125	there are certainly other trouble spots in the world which are closer to Europe than to the US
 T591	Claim 4978 5010	he vetoed a middle class tax cut
 T592	Claim 5076 5107	vetoed an investment tax credit
-T180	Claim 1510 1605	They feel that the levels we're operating at and the reductions that I have proposed are proper
-T213	Premise 4131 4314	2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci
-T1	Premise 5108 5148	paid for by raising taxes on the wealthy
 R2	Support Arg1:T580 Arg2:T173
 R4	Support Arg1:T581 Arg2:T174
 R5	Support Arg1:T582 Arg2:T175

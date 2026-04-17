@@ -1,3 +1,4 @@
+T1	Premise 1946 2208	 I was hunting in Iowa last year with a sheriff from one of the counties there, and he pointed to a house in back of us, and said, "See the house over? We just did a drug bust a week earlier, and the guy we arrested had an AK-47 lying on the bed right beside him
 T760	Premise 53 159	You said that if Congress would vote to extend the ban on assault weapons, that you'd sign the legislation
 T761	Claim 165 219	you did nothing to encourage the Congress to extend it
 T762	Premise 221 228	Why not
@@ -30,7 +31,6 @@ R3	Support Arg1:T770 Arg2:T768
 R4	Support Arg1:T771 Arg2:T767
 R5	Attack Arg1:T772 Arg2:T763
 R6	Support Arg1:T779 Arg2:T781
-T1	Premise 1946 2208	 I was hunting in Iowa last year with a sheriff from one of the counties there, and he pointed to a house in back of us, and said, "See the house over? We just did a drug bust a week earlier, and the guy we arrested had an AK-47 lying on the bed right beside him
 R7	Support Arg1:T1 Arg2:T779
 R8	Support Arg1:T773 Arg2:T772
 R9	Support Arg1:T774 Arg2:T778

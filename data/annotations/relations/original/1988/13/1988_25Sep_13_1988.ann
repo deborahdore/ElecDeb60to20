@@ -1,17 +1,17 @@
 T1	Claim 1103 1147	I think we've seen a deterioration of values
 T2	Claim 1149 1230	I think for a while as a nation we condoned those things we should have condemned
-T4	Claim 1362 1386	I think that's all wrong
 T3	Claim 1258 1356	it even seems to me that there was talk of legalizing or decriminalizing marijuana and other drugs
+T4	Claim 1362 1386	I think that's all wrong
 T5	Claim 1391 1427	we've seen a deterioration in values
 T6	Claim 1433 1561	one of the things that I think we should do about it in terms of cause is to instill values into the young people in our schools
 T7	Claim 1576 1641	we got into this feeling that value- free education was the thing
 T8	Claim 1647 1674	I don't believe that at all
 T9	Claim 1675 1741	I do believe there are fundamental rights and wrongs as far as use
+T10	Claim 1796 1833	yes, we can do better on interdiction
 T11	Claim 1839 1880	we've got to do a lot better on education
 T12	Claim 1901 1938	be tougher on those who commit crimes
 T13	Claim 1940 1977	We've got to get after the users more
 T14	Claim 1979 2015	We have to change this whole culture
-T10	Claim 1796 1833	yes, we can do better on interdiction
 T15	Claim 2162 2170	it's bad
 T16	Premise 2027 2062	I saw a movie - "Crocodile Dundee."
 T17	Premise 2067 2109	I saw the cocaine scene treated with humor
@@ -41,9 +41,9 @@ T40	Claim 3775 3881	Those are the values I want to bring to the presidency and t
 T41	Claim 4231 4348	I have outlined in detail the very important, very strong program of enforcement as well as drug education prevention
 T42	Claim 4614 4772	it's a little difficult for me to understand just how we can reach out to that youngster that I talked about and to young people like her all over the country
 T43	Claim 4778 4809	say to them we want to help you
+T44	Premise 5014 5120	when we bring our democratic neighbors and allies together here in this hemisphere and go to work together
 T45	Claim 5329 5363	I think we're all in this together
 T46	Claim 5369 5424	my plea to the American people is values in the schools
-T44	Premise 5014 5120	when we bring our democratic neighbors and allies together here in this hemisphere and go to work together
 T47	Claim 4816 5013	I've outlined in great detail a program for being tough on enforcement at home and abroad, doubling the number of drug enforcement agents, having a hemispheric summit soon after the 20th of January
 T48	Claim 5126 5163	we also have to take demand seriously
 T49	Claim 5239 5288	We're consuming 50 percent of the world's cocaine
@@ -82,8 +82,8 @@ T81	Claim 8711 8796	how we create this environment for the drug free schools tha
 T82	Premise 8798 8915	If he or representatives of the administration are either with or involving people like Noriega in our foreign policy
 T83	Premise 8917 9055	or don't pursue that connection in a way that makes it possible for us to cut it off and to be an example to our kids all over the country
 T84	Claim 9301 9338	what I'm about to say is unclassified
-T86	Claim 9393 9463	It was the Reagan-Bush administration that brought this man to justice
 T85	Premise 9340 9391	Seven administrations were dealing with Mr. Noriega
+T86	Claim 9393 9463	It was the Reagan-Bush administration that brought this man to justice
 T87	Claim 9634 9699	I think it's about time we get this Noriega matter in perspective
 T88	Claim 9990 10087	call off all those pickets out there that are trying to tear down seven different administrations
 T89	Claim 9950 9981	we want to bring him to justice
@@ -116,8 +116,8 @@ T115	Premise 12745 12764	If he keeps this up
 T116	Premise 12683 12743	He also wants to spend a lot of money on additional programs
 T117	Premise 12393 12474	He seems to want to spend a great deal of money on just about every weapon system
 T118	Premise 12589 12681	he wants to give the wealthiest taxpayers in this country a five year, $40 billion tax break
-T120	Claim 12517 12587	he's broken that pledge at least times in the last year that I know of
 T119	Claim 13135 13169	I think he's going to try it again
+T120	Claim 12517 12587	he's broken that pledge at least times in the last year that I know of
 T121	Claim 13013 13102	the only place he can go to balance that budget is to raid the Social Security Trust Fund
 T122	Premise 13108 13129	he tried that in 1985
 T123	Claim 13634 13677	It's not going to cost the government money
@@ -159,8 +159,8 @@ T158	Premise 16450 16487	Capital gains, one more point on that
 T159	Claim 16701 16919	I hope all of those Americans out there who are watching us, listening to us and trying to make up their mind about which one of us ought to be president of the United States listen to the Vice President very carefully
 T160	Claim 17285 17327	that's more than the average teacher makes
 T161	Claim 17329 17375	We've had enough of that, ladies and gentlemen
-T163	Claim 16921 17192	What he's proposing after over a trillion in new debt which has been added in the Federal debt in the course of the past eight years, an IOU our children and grandchildren will be paying for years, is a tax cut for the wealthiest one percent of the people in this country
 T162	Claim 17194 17279	an average of about $30,000 that we're going to give to people making $200,000 a year
+T163	Claim 16921 17192	What he's proposing after over a trillion in new debt which has been added in the Federal debt in the course of the past eight years, an IOU our children and grandchildren will be paying for years, is a tax cut for the wealthiest one percent of the people in this country
 T164	Claim 17503 17561	It's time for a chief executive who can make tough choices
 T165	Claim 17591 17681	can get that deficit down and begin to build a strong fiscal foundation under this country
 T166	Claim 17563 17589	can work with the Congress
@@ -244,8 +244,8 @@ T243	Claim 26503 26566	that's a certain passion that in my view it's misguided p
 T244	Premise 26357 26496	He introduced or supported legislation back then that suggested that kids of Massachusetts should be exempt from going overseas in that war
 T245	Claim 26573 26607	we have a big difference on issues
 T246	Claim 26849 26870	He is very passionate
-T248	Premise 26727 26783	Then he said, "I am a card-carrying member of the ACLU."
 T247	Claim 26906 26949	do we want this country to go that far left
+T248	Premise 26727 26783	Then he said, "I am a card-carrying member of the ACLU."
 T249	Premise 26872 26904	My argument with the governor is
 T250	Claim 26955 26991	I wish we had time to let me explain
 T251	Claim 26997 27025	I salute him for his passion
@@ -407,11 +407,11 @@ T406	Claim 39085 39124	they've got to be dealt with separately
 T407	Premise 38833 38937	is there a conflict between your opposition to the death penalty and your support for abortion on demand
 T408	Premise 38939 38999	even though in the minds of many people, that's also killing
 T409	Claim 39126 39158	I'm opposed to the death penalty
+T410	Claim 40328 40352	that makes that decision
 T411	Claim 40161 40189	I don't think most people do
 T412	Claim 40128 40159	I don't think it's a good thing
 T413	Claim 40104 40126	I don't favor abortion
 T414	Claim 40191 40229	The question is who makes the decision
-T410	Claim 40328 40352	that makes that decision
 T415	Claim 40235 40326	I think it has to be the woman, in the exercise of her own conscience and religious beliefs
 T416	Claim 39973 40020	The issue of abortion is a very difficult issue
 T417	Claim 40031 40071	I think that we all have to wrestle with
@@ -499,8 +499,8 @@ T498	Claim 47038 47071	It's cut federal aid to education
 T499	Claim 47073 47180	it's cut Pell grants and loans to close the door to college opportunity on youngsters all over this country
 T500	Claim 47186 47252	that, too, is a major difference between the vice president and me
 T501	Claim 47735 47765	That's the way you help people
-T503	Premise 47294 47398	We have a great many people, hundreds of thousands of people living on public assistance in this country
 T502	Premise 47400 47511	The 50 governors of this nation have proposed to the Congress that we help those families to get off of welfare
+T503	Premise 47294 47398	We have a great many people, hundreds of thousands of people living on public assistance in this country
 T504	Premise 47513 47534	help those youngsters
 T505	Premise 47536 47596	help their mothers to become independent and self-sufficient
 T506	Claim 47710 47733	they're still resisting
@@ -514,8 +514,8 @@ T513	Claim 48009 48048	they've hurt kids all over this country
 T514	Claim 48441 48527	you could improve the lives of families and youngsters and save money at the same time
 T515	Claim 48529 48563	Welfare reform is one way to do it
 T516	Claim 48672 48751	that mother and her kids don't lose their health benefits when she goes to work
-T518	Premise 48565 48663	If we invest in job training, in child care for those youngsters, in some extended health benefits
 T517	Claim 48753 49017	we can help literally hundreds of thousands, if not millions of families, to get off of welfare, to become independent and self-sufficient, to be taxpaying citizens, and to improve their lives, the quality of lives, their futures, and the futures of those children
+T518	Premise 48565 48663	If we invest in job training, in child care for those youngsters, in some extended health benefits
 T519	Claim 49230 49251	I think very unwisely
 T520	Claim 49119 49228	In my own state, for example, we now have that universal health care system, which the vice president opposes
 T521	Claim 49253 49388	One of the greatest barriers to opportunity for a family and for those children is the threat that they mat lose their health insurance
@@ -590,9 +590,9 @@ T589	Premise 55802 55834	he just called for new elections
 T590	Claim 56357 56401	I don't think it's a question of eliminating
 T591	Claim 57106 57135	We're going to have to-the MX
 T592	Claim 57137 57167	We're going to have to do that
+T593	Claim 56827 56858	I'm simply not going to do that
 T594	Claim 56572 56752	what I am not going to do, when we are negotiating with the Soviet Union, sitting down talking to Mr. Gorbachev about how we achieve a 50 percent reduction in our strategic weapons
 T595	Claim 56754 56825	I'm not going to give away a couple of aces I that very tough card game
-T593	Claim 56827 56858	I'm simply not going to do that
 T596	Claim 56864 57088	under me, when I lead this country, the secretary of defense is going to have to make the choices, between how we keep, how we protect the survivability of our nuclear deployment on the Midgetman missile, or on the Minuteman
 T597	Claim 57393 57439	my answer is do not make these unilateral cuts
 T598	Premise 57445 57501	everybody now realizes that peace through strength works
@@ -733,8 +733,8 @@ T732	Premise 70749 70791	The matter has been thoroughly looked into
 T733	Claim 72445 72465	Now we have a chance
 T734	Claim 72467 72487	Now we have a chance
 T735	Claim 72498 72578	I think that I'd leave it right there and say that you judge on the whole record
-T737	Premise 72665 72737	I've told you what the intelligence briefing he received said about that
 T736	Claim 72778 73006	I'll make a deal with you, I will take the blame for those two incidents if you give me half the credit for all the good things that have happened in world peace since Ronald Reagan and I took over from the Carter administration
+T737	Premise 72665 72737	I've told you what the intelligence briefing he received said about that
 T738	Premise 72739 72768	He can talk about Iran/Contra
 T739	Claim 73542 73582	the matter of judgment is very important
 T740	Claim 73588 73643	I think it's important to understand what happened here

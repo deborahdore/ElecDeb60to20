@@ -1,3 +1,12 @@
+T1	Premise 569 597;645 754	We're working with Canada to realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season
+T2	Claim 1745 1765	don't get a flu shot
+T3	Claim 1410 1452	I'm such a strong believer in legal reform
+T4	Premise 2070 2174	You've got about a million right here in Arizona, just shy, 950,000, who have no health insurance at all
+T5	Premise 2176 2250	82,000 Arizonians lost their health insurance under President Bush's watch
+T6	Premise 2252 2307	223,000 kids in Arizona have no health insurance at all
+T7	Premise 2351 2501	4 million Ohioans have no health insurance, 114,000 of them lost it under President Bush; Wisconsin, 82,000 Wisconsinites lost it under President Bush
+T8	Premise 2655 2680	though they are a problem
+T9	Claim 2686 2733	John Edwards and I are committed to fixing them
 T49	Premise 294 405	we relied upon a company out of England to provide about half of the flu vaccines for the United States citizen
 T50	Premise 411 478	it turned out that the vaccine they were producing was contaminated
 T51	Claim 487 567	we took the right action and didn't allow contaminated medicine into our country
@@ -38,8 +47,6 @@ T88	Premise 4096 4151	Other senators, other congressmen choose other programs
 T89	Claim 3795 3818	It's really interesting
 T90	Premise 4282 4320	We're not giving this away for nothing
 T91	Premise 4225 4280	Those that can afford it are going to buy in themselves
-T1	Premise 569 597;645 754	We're working with Canada to realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season
-T2	Claim 1745 1765	don't get a flu shot
 R1	Support Arg1:T50 Arg2:T51
 R2	Support Arg1:T49 Arg2:T51
 R3	Support Arg1:T56 Arg2:T52
@@ -47,26 +54,19 @@ R4	Support Arg1:T54 Arg2:T53
 R5	Support Arg1:T52 Arg2:T53
 R6	Support Arg1:T59 Arg2:T58
 R7	Support Arg1:T58 Arg2:T57
-T3	Claim 1410 1452	I'm such a strong believer in legal reform
 R8	Support Arg1:T61 Arg2:T2
 R9	Equivalent Arg1:T52 Arg2:T2
 R10	Support Arg1:T60 Arg2:T3
 R11	Support Arg1:T57 Arg2:T3
 R12	Support Arg1:T72 Arg2:T63
-T4	Premise 2070 2174	You've got about a million right here in Arizona, just shy, 950,000, who have no health insurance at all
 R13	Support Arg1:T4 Arg2:T63
-T5	Premise 2176 2250	82,000 Arizonians lost their health insurance under President Bush's watch
 R14	Support Arg1:T5 Arg2:T63
-T6	Premise 2252 2307	223,000 kids in Arizona have no health insurance at all
 R15	Support Arg1:T6 Arg2:T63
-T7	Premise 2351 2501	4 million Ohioans have no health insurance, 114,000 of them lost it under President Bush; Wisconsin, 82,000 Wisconsinites lost it under President Bush
 R16	Support Arg1:T7 Arg2:T63
 R17	Support Arg1:T63 Arg2:T64
 R18	Support Arg1:T71 Arg2:T64
 R19	Support Arg1:T73 Arg2:T64
 R20	Attack Arg1:T65 Arg2:T58
-T8	Premise 2655 2680	though they are a problem
-T9	Claim 2686 2733	John Edwards and I are committed to fixing them
 R21	Support Arg1:T8 Arg2:T9
 R22	Attack Arg1:T8 Arg2:T65
 R23	Support Arg1:T66 Arg2:T74

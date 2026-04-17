@@ -1,3 +1,5 @@
+T1	Premise 7736 7908;8021 8089	one of the things I suspect Governor Romney and I probably agree on is getting businesses to work with community colleges so that they're setting up their training programs where they're partnering so that they're designing training programs
+T2	Premise 10285 10296	$90 billion
 T714	Claim 438 478	I definitely think there are differences
 T715	Claim 766 979	I also believe that government has the capacity, the federal government has the capacity to help open up opportunity and create ladders of opportunity and to create frameworks where the American people can succeed
 T716	Claim 517 593	The first role of the federal government is to keep the American people safe
@@ -143,8 +145,6 @@ T856	Claim 15780 15819	that was a fight that we needed to have
 T857	Premise 15631 15773	we were fighting about whether or not we were going to make sure that Americans had more security with their health insurance and they said no
 T858	Claim 15856 15980	part of leadership and governing is both saying what it is that you are for, but also being willing to say no to some things
 T859	Claim 16008 16183	Governor Romney, when it comes to his own party during the course of this campaign, has not displayed that willingness to say no to some of the more extreme parts of his party
-T1	Premise 7736 7908;8021 8089	one of the things I suspect Governor Romney and I probably agree on is getting businesses to work with community colleges so that they're setting up their training programs where they're partnering so that they're designing training programs
-T2	Premise 10285 10296	$90 billion
 R1	Support Arg1:T714 Arg2:T716
 R2	Support Arg1:T717 Arg2:T716
 R3	Support Arg1:T718 Arg2:T717

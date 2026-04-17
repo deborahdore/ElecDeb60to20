@@ -1,3 +1,7 @@
+T1	Claim 2879 2912	The world is more dangerous today
+T2	Claim 4959 4986	Saddam Hussein was a threat
+T3	Claim 2178 2216	We all thought there was weapons there
+T4	Premise 3452 3471	So what does he do?
 T52	Claim 1533 1592	I saw a unique threat in Saddam Hussein, as did my opponent
 T53	Premise 1602 1647	we thought he had weapons of mass destruction
 T54	Premise 1654 1755	the unique threat was that he could give weapons of mass destruction to an organization like Al Qaida
@@ -20,6 +24,7 @@ T70	Premise 1963 2080	as we learned in the same report I quoted, Saddam Hussein 
 T71	Premise 2082 2175	He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs
 T72	Claim 2225 2268	My opponent thought there was weapons there
 T73	Premise 2270 2309	That's why he called him a grave threat
+T74	Premise 2312 2365	I wasn't happy when we found out there wasn't weapons
 T75	Premise 2371 2429	we've got an intelligence group together to figure out why
 T76	Claim 2436 2470	Saddam Hussein was a unique threat
 T77	Claim 2476 2520	the world is better off without him in power
@@ -37,14 +42,13 @@ T89	Claim 3981 4030	not rushed to war without a plan to win the peace
 T90	Claim 4033 4076	I would have brought our allies to our side
 T91	Claim 4078 4176	I would have fought to make certain our troops had everybody possible to help them win the mission
 T92	Premise 4209 4232	pushed our allies aside
+T93	Premise 4179 4207	This president rushed to war
 T94	Claim 4238 4309	Iran now is more dangerous, and so is North Korea, with nuclear weapons
 T95	Claim 3023 3130	He wants you to believe that because he can't come here and tell you that he's created new jobs for America
 T96	Claim 2974 3021	the president wishes that I had changed my mind
 T97	Premise 3132 3146	He's lost jobs
 T98	Claim 3149 3224	He can't come here and tell you that he's created health care for Americans
 T99	Premise 3240 3340	we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri
-T74	Premise 2312 2365	I wasn't happy when we found out there wasn't weapons
-T93	Premise 4179 4207	This president rushed to war
 T100	Claim 3343 3405	He can't come here and tell you that he's left no child behind
 T101	Premise 3414 3449	he didn't fund no child left behind
 T102	Claim 3472 3496	He's trying to attack me
@@ -65,8 +69,6 @@ T117	Premise 5478 5506	if we'd used smart diplomacy
 T118	Premise 5450 5472	That was the objective
 T119	Premise 5570 5621	right now, Osama bin Laden might be in jail or dead
 T120	Premise 5623 5652	That's the war against terror
-T1	Claim 2879 2912	The world is more dangerous today
-T2	Claim 4959 4986	Saddam Hussein was a threat
 R1	Support Arg1:T61 Arg2:T60
 R2	Support Arg1:T57 Arg2:T58
 R3	Attack Arg1:T58 Arg2:T60
@@ -83,7 +85,6 @@ R13	Support Arg1:T55 Arg2:T56
 R14	Support Arg1:T52 Arg2:T56
 R15	Support Arg1:T65 Arg2:T68
 R16	Support Arg1:T71 Arg2:T70
-T3	Claim 2178 2216	We all thought there was weapons there
 R17	Support Arg1:T69 Arg2:T70
 R18	Support Arg1:T71 Arg2:T3
 R19	Support Arg1:T72 Arg2:T3
@@ -103,7 +104,6 @@ R32	Support Arg1:T100 Arg2:T96
 R33	Support Arg1:T102 Arg2:T103
 R34	Support Arg1:T104 Arg2:T103
 R35	Support Arg1:T105 Arg2:T104
-T4	Premise 3452 3471	So what does he do?
 R36	Support Arg1:T4 Arg2:T102
 R37	Attack Arg1:T82 Arg2:T105
 R38	Support Arg1:T83 Arg2:T82

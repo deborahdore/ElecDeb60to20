@@ -1,3 +1,6 @@
+T1	Claim 5187 5199	I'm worried.
+T2	Claim 5357 5368	I'm worried
+T3	Premise 1810 1827	Do you feel safer
 T365	Claim 692 717	The when I can't tell you
 T366	Premise 719 832	Between the World Trade Center bombing in, what was it, 1993 or so, and the next time was five years, seven years
 T367	Premise 834 851	These people wait
@@ -72,8 +75,6 @@ T437	Premise 5257 5340	every day I know that there's people working overtime, do
 T438	Claim 5438 5504	the way to defeat them long-term, by the way, is to spread freedom
 T439	Claim 5507 5532	Liberty can change habits
 T440	Premise 5538 5585	that's what's happening in Afghanistan and Iraq
-T1	Claim 5187 5199	I'm worried.
-T2	Claim 5357 5368	I'm worried
 R1	Support Arg1:T372 Arg2:T371
 R2	Support Arg1:T366 Arg2:T367
 R3	Support Arg1:T367 Arg2:T368
@@ -87,7 +88,6 @@ R10	Support Arg1:T377 Arg2:T376
 R11	Attack Arg1:T378 Arg2:T377
 R12	Support Arg1:T378 Arg2:T379
 R13	Support Arg1:T380 Arg2:T381
-T3	Premise 1810 1827	Do you feel safer
 R14	Attack Arg1:T3 Arg2:T381
 R15	Attack Arg1:T388 Arg2:T387
 R16	Support Arg1:T383 Arg2:T387

@@ -1,3 +1,6 @@
+T1	Claim 3189 3354	I think we need to continue to be uh - strong and uh - I would certainly uh - pursue the uh - normalization of uh - relationships with the People's Republic of China
+T2	Claim 3097 3171	There ought to be a clear, unequivocal commitment without change to Israel
+T175	Claim 680 789	that communique, calls for the normalization of relations between the United States and the People's Republic
 T239	Claim 1513 1623	The Ford administration will not let down, will not eliminate or forget our obligation to the people of Taiwan
 T240	Claim 1638 1742	there must be a continued obligation to the people, the some nineteen or twenty million people in Taiwan
 T241	Claim 1787 1836	those will be the policies of this administration
@@ -18,8 +21,6 @@ T255	Premise 2729 2867	in 1975, we almost brought Israel to their knees after th
 T256	Claim 2869 2952	We in effect tried to make Israel the scapegoat for the problems in the Middle East
 T257	Premise 2958 3014	this weakened our relationships with Israel a great deal
 T258	Premise 3019 3095	put a cloud on the total commitment that our people feel toward the Israelis
-T175	Claim 680 789	that communique, calls for the normalization of relations between the United States and the People's Republic
-T1	Claim 3189 3354	I think we need to continue to be uh - strong and uh - I would certainly uh - pursue the uh - normalization of uh - relationships with the People's Republic of China
 R1	Support Arg1:T242 Arg2:T175
 R2	Support Arg1:T244 Arg2:T242
 R3	Support Arg1:T243 Arg2:T175
@@ -41,7 +42,6 @@ R18	Support Arg1:T258 Arg2:T256
 R19	Support Arg1:T257 Arg2:T258
 R20	Support Arg1:T1 Arg2:T246
 R21	Support Arg1:T1 Arg2:T175
-T2	Claim 3097 3171	There ought to be a clear, unequivocal commitment without change to Israel
 R22	Support Arg1:T258 Arg2:T2
 R23	Support Arg1:T252 Arg2:T1
 R24	Support Arg1:T252 Arg2:T251

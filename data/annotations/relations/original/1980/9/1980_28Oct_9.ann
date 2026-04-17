@@ -1,3 +1,6 @@
+T1	Claim 5191 5197	I know
+T2	Claim 2220 2287	The American people now are facing, next Tuesday, a lonely decision
+T3	Claim 2289 2378	Those listening to my voice will have to make a judgment about the future of this country
 T500	Claim 1151 1192	The United States must be a nation strong
 T501	Claim 1194 1235	the United States must be a nation secure
 T502	Claim 1237 1280	We must have a society that's just and fair
@@ -43,7 +46,6 @@ T542	Premise 5474 5539	I know that we did give back authority and autonomy to th
 T543	Claim 5541 5631	I would like to have a crusade today, and I would like to lead that crusade with your help
 T544	Claim 5637 5797	it would be one to take Government off the backs of the great people of this country, and turn you loose again to do those things that I know you can do so well
 T545	Premise 5807 5847	you did them and made this country great
-T1	Claim 5191 5197	I know
 R1	Support Arg1:T513 Arg2:T508
 R2	Support Arg1:T502 Arg2:T500
 R3	Support Arg1:T510 Arg2:T509
@@ -58,8 +60,6 @@ R11	Support Arg1:T521 Arg2:T522
 R12	Support Arg1:T522 Arg2:T517
 R13	Support Arg1:T525 Arg2:T523
 R14	Support Arg1:T524 Arg2:T523
-T2	Claim 2220 2287	The American people now are facing, next Tuesday, a lonely decision
-T3	Claim 2289 2378	Those listening to my voice will have to make a judgment about the future of this country
 R15	Support Arg1:T3 Arg2:T2
 R16	Support Arg1:T505 Arg2:T504
 R17	Support Arg1:T506 Arg2:T504

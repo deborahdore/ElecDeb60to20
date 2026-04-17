@@ -1,3 +1,5 @@
+T1	Claim 528 572	But I think marriage is a sacred institution
+T2	Claim 2810 2847	I'm going to be respectful for people
 T509	Claim 254 278	I'm not for gay marriage
 T510	Claim 280 346	I think marriage is a sacred institution between a man and a woman
 T512	Claim 808 873	I feel strongly that marriage should be between a man and a woman
@@ -32,8 +34,6 @@ T540	Claim 2875 2931	I support equal rights but not special rights for people
 T542	Claim 2849 2869	I'll tolerate people
 T543	Premise 3014 3068	it would be if they're given special protective status
 T544	Claim 3070 3222	That doesn't mean we shouldn't fully enforce laws and fully protect people and fully honor people, which I will do as the President of the United States
-T1	Claim 528 572	But I think marriage is a sacred institution
-T2	Claim 2810 2847	I'm going to be respectful for people
 R1	Support Arg1:T510 Arg2:T509
 R2	Support Arg1:T513 Arg2:T510
 R3	Support Arg1:T515 Arg2:T514

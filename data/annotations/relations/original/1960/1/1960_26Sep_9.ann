@@ -1,3 +1,5 @@
+T1	Claim 741 891	we get the opinion that in getting programs through the House or the Senate it's purely a question of legislative finagling and all that sort of thing
+T2	Claim 3544 3582	The other party gives them lip service
 T354	Claim 321 401	we, of course, expect to pick up some seats in both in the House and the Senate.
 T355	Premise 407 496	We would hope to control the House, to get a majority in the House uh - in this election.
 T356	Premise 497 538	We cannot, of course, control the Senate.
@@ -34,12 +36,10 @@ R7	Equivalent Arg1:T369 Arg2:T365
 R9	Support Arg1:T371 Arg2:T374
 R10	Support Arg1:T379 Arg2:T375
 R11	Support Arg1:T378 Arg2:T379
-T1	Claim 741 891	we get the opinion that in getting programs through the House or the Senate it's purely a question of legislative finagling and all that sort of thing
 R12	Attack Arg1:T358 Arg2:T1
 R13	Attack Arg1:T1 Arg2:T357
 R14	Support Arg1:T360 Arg2:T357
 R15	Attack Arg1:T370 Arg2:T369
 R8	Attack Arg1:T372 Arg2:T373
 R16	Support Arg1:T377 Arg2:T378
-T2	Claim 3544 3582	The other party gives them lip service
 R17	Support Arg1:T2 Arg2:T375

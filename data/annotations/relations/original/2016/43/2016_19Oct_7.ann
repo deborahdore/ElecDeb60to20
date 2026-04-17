@@ -1,4 +1,7 @@
 T186	Premise 655 661	growth
+T312	Premise 291 420	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
+T323	Premise 422 479	Social Security is going to run out of money in the 2030s
+T325	Premise 485 555	at that time, recipients are going to take huge cuts in their benefits
 T444	Premise 196 286	the Committee for federal -- a Responsible Federal Budget has looked at both of your plans
 T445	Claim 98 189	the biggest driver of our debt is entitlements, which is 60 percent of all federal spending
 T447	Claim 564 581	I'm cutting taxes
@@ -28,9 +31,6 @@ T472	Premise 2833 2963	we need everybody to help make our country what it should
 T473	Claim 2965 3044	We need your talents, your skills, your commitments, your energy, your ambition
 T474	Claim 3092 3152	She's raising the money from the people she wants to control
 T475	Claim 3154 3175	Doesn't work that way
-T312	Premise 291 420	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
-T323	Premise 422 479	Social Security is going to run out of money in the 2030s
-T325	Premise 485 555	at that time, recipients are going to take huge cuts in their benefits
 R1	Support Arg1:T444 Arg2:T312
 R2	Support Arg1:T323 Arg2:T312
 R3	Support Arg1:T325 Arg2:T312

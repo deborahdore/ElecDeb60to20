@@ -1,3 +1,7 @@
+T1	Premise 4273 4294	I'm elected president
+T2	Claim 2808 2920	the uh - the assumption that - that you uh - have described as different is in the rate of growth of our economy
+T3	Claim 2929 2977	No, they took that into account in those figures
+T4	Premise 5082 5153	It seems to me that our tax structure today has rates that are too high
 T82	Claim 578 707	there still isn't enough money to pay for those programs and balance the budget by any - any estimates that I've been able to see
 T83	Premise 408 576	if we price them conservatively and we count for full employment by the end of your first term, and we count for the economic growth that would occur during that period
 T84	Premise 352 397	you haven't put a price tag on those programs
@@ -44,7 +48,6 @@ T125	Premise 5977 5994	it always happens
 T126	Premise 5996 6149	We expected one at the time of the Vietnam War, but it was used up before we ever ended the war and taxpayers never got the adequate relief they deserved
 T127	Premise 5197 5341	since 1969, during a Republican administrations, we have had ten million people taken off of the tax rolls at the lower end of the taxpayer area
 T128	Premise 5347 5522	at the same time, assuming that I sign the tax bill that was mentioned by Mr. Gannon, we will in the last two tax bills have increased the minimum tax on all wealthy taxpayers
-T1	Premise 4273 4294	I'm elected president
 R1	Attack Arg1:T87 Arg2:T82
 R2	Support Arg1:T88 Arg2:T90
 R3	Support Arg1:T89 Arg2:T90
@@ -53,8 +56,6 @@ R4	Support Arg1:T90 Arg2:T91
 R6	Support Arg1:T95 Arg2:T94
 R8	Support Arg1:T93 Arg2:T97
 R10	Support Arg1:T107 Arg2:T105
-T2	Claim 2808 2920	the uh - the assumption that - that you uh - have described as different is in the rate of growth of our economy
-T3	Claim 2929 2977	No, they took that into account in those figures
 R11	Attack Arg1:T3 Arg2:T2
 R12	Support Arg1:T99 Arg2:T98
 R13	Attack Arg1:T100 Arg2:T90
@@ -64,7 +65,6 @@ R16	Support Arg1:T103 Arg2:T102
 R17	Support Arg1:T114 Arg2:T93
 R18	Support Arg1:T117 Arg2:T115
 R19	Support Arg1:T115 Arg2:T118
-T4	Premise 5082 5153	It seems to me that our tax structure today has rates that are too high
 R20	Support Arg1:T4 Arg2:T115
 R21	Support Arg1:T121 Arg2:T119
 R22	Support Arg1:T120 Arg2:T119

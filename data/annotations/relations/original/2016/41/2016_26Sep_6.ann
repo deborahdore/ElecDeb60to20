@@ -1,3 +1,5 @@
+T1	Claim 3952 4043	And the only gratifying thing is, I saw the polls come in today, and with all of that money
+T2	Premise 4102 4191	$200 million is spent, and I'm either winning or tied, and I've spent practically nothing
 T965	Claim 279 307	She doesn't have the stamina
 T966	Claim 252 277	She doesn't have the look
 T973	Claim 350 391	I don't believe she does have the stamina
@@ -58,8 +60,6 @@ R14	Support Arg1:T1010 Arg2:T1009
 R15	Support Arg1:T1011 Arg2:T1012
 R16	Support Arg1:T1015 Arg2:T1012
 R17	Support Arg1:T1016 Arg2:T1009
-T1	Claim 3952 4043	And the only gratifying thing is, I saw the polls come in today, and with all of that money
-T2	Premise 4102 4191	$200 million is spent, and I'm either winning or tied, and I've spent practically nothing
 R18	Support Arg1:T2 Arg2:T1
 R19	Attack Arg1:T996 Arg2:T1000
 R20	Support Arg1:T1006 Arg2:T1002

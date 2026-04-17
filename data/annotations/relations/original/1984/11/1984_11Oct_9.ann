@@ -58,8 +58,12 @@ T57	Premise 5532 5612	Children don't vote and migrant workers exactly a powerful
 T58	Premise 5618 5627	he did it
 T59	Claim 5636 5648	it was right
 T60	Premise 5650 5751	Fritz Mondale has said that he would rather lose a battle for decency than win one over self-interest
-R1	Attack Arg1:T1 Arg2:T2
 T61	Premise 418 479	Ronald Reagan and I have put our trust in the American people
+T62	Claim 1405 1476	We just owe our country too much to go back to that kind of an approach
+T63	Premise 2395 2448	The future is too bright not to give it our best shot
+T64	Claim 2450 2524	Together we can go forward and lift America up to meet her greatest dreams
+T65	Premise 5753 5774	Now I agree with him.
+R1	Attack Arg1:T1 Arg2:T2
 R2	Support Arg1:T61 Arg2:T3
 R3	Support Arg1:T3 Arg2:T4
 R4	Support Arg1:T4 Arg2:T5
@@ -70,7 +74,6 @@ R8	Support Arg1:T9 Arg2:T8
 R9	Support Arg1:T10 Arg2:T11
 R10	Support Arg1:T8 Arg2:T11
 R11	Attack Arg1:T12 Arg2:T13
-T62	Claim 1405 1476	We just owe our country too much to go back to that kind of an approach
 R12	Attack Arg1:T62 Arg2:T14
 R13	Support Arg1:T13 Arg2:T14
 R14	Support Arg1:T15 Arg2:T16
@@ -81,8 +84,6 @@ R18	Support Arg1:T20 Arg2:T21
 R19	Support Arg1:T18 Arg2:T21
 R20	Support Arg1:T22 Arg2:T23
 R21	Support Arg1:T24 Arg2:T23
-T63	Premise 2395 2448	The future is too bright not to give it our best shot
-T64	Claim 2450 2524	Together we can go forward and lift America up to meet her greatest dreams
 R22	Support Arg1:T63 Arg2:T64
 R23	Support Arg1:T23 Arg2:T64
 R24	Support Arg1:T25 Arg2:T26
@@ -114,5 +115,4 @@ R49	Support Arg1:T56 Arg2:T58
 R50	Support Arg1:T57 Arg2:T58
 R51	Support Arg1:T58 Arg2:T59
 R52	Support Arg1:T60 Arg2:T59
-T65	Premise 5753 5774	Now I agree with him.
 R53	Support Arg1:T65 Arg2:T60

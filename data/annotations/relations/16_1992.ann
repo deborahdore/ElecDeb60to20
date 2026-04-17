@@ -71,8 +71,8 @@ T70	Premise 5770 5847	I believe that this Agenda for American renewal I have is 
 T71	Claim 5853 5885	I believe we can get it done now
 T72	Claim 5895 5916	we didn't in the past
 T73	Premise 5926 6074	you're going to have a whole brand new bunch of people in the Congress that are going to have to listen to the same American people I'm listening to
-T75	Premise 6155 6215	I don't have any experience in running up a $4 trillion debt
 T74	Premise 6229 6362	I don't have any experience in gridlock government where nobody takes responsibility for anything and everybody blames everybody else
+T75	Premise 6155 6215	I don't have any experience in running up a $4 trillion debt
 T76	Claim 6542 6594	I do have a lot of experience in getting things done
 T77	Premise 6364 6462	I don't have any experience in creating the worst public school system in the industrialized world
 T78	Premise 6464 6529	the most violent crime-ridden society in the industrialized world
@@ -177,6 +177,7 @@ T176	Claim 17110 17196	I think it is important that the US stay in Europe and co
 T177	Claim 17198 17224	We simply cannot pull back
 T178	Premise 17231 17359	when anybody has a spending program they want to spend money on at home, they say, well, let's cut money out of the Defense Dept
 T179	Premise 17361 17480	I will accept and have accepted the recommendations of 2 proven leaders, General Colin Powell and Secretary Dick Cheney
+T180	Premise 17482 17577	They feel that the levels we're operating at and the reductions that I have proposed are proper
 T181	Claim 17586 17679	I simply do not think we should go back to the isolation days and starting blaming foreigners
 T182	Claim 17681 17717	We are the sole remaining superpower
 T183	Claim 17723 17740	we should be that
@@ -209,6 +210,7 @@ T209	Claim 19920 19966	We certainly must maintain an engagement there
 T210	Claim 19800 19848	I agree with the general statement Mr. Bush made
 T211	Claim 19850 19918	I disagree that we need 150,000 troops to fulfill our role in Europe
 T212	Premise 19968 20001	There are certainly dangers there
+T213	Premise 20103 20286	2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci
 T214	Premise 20288 20348	Many of the military experts whom I consulted on this agreed
 T215	Claim 20350 20503	We're going to have to spend more money in the future on military technology and on greater mobility, greater airlift, greater sealift, the B-22 airplane
 T216	Claim 20505 20564	We're going to have to do some things that are quite costly
@@ -251,9 +253,9 @@ T252	Claim 24836 24886	I think we ought to totally exempt Social Security
 T253	Premise 24734 24825	I agree with what he's talking about in trying to get this spending down and the discipline
 T254	Premise 24892 24919	he's talking tough medicine
 T255	Claim 24925 24944	I think that's good
+T256	Claim 25175 25303	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
 T257	Claim 25001 25103	I don't think we need to tax more and spend more, and then say that's going to make the problem better
 T258	Claim 25120 25173	that's what I think I'm hearing from Governor Clinton
-T256	Claim 25175 25303	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
 T259	Premise 25305 25362	He's mentioned some ways to do it--and I agree with those
 T260	Premise 25364 25423	I've been talking about getting a capital gains cut forever
 T261	Claim 25507 25536	It would stimulate investment
@@ -274,6 +276,7 @@ T275	Claim 27359 27395	we are not coming apart at the seams
 T276	Claim 27397 27423	we're ready for a recovery
 T277	Premise 27425 27535	With interest rates down and inflation down, the cruelest tax of all, caught up in a global slowdown right now
 T278	Claim 27542 27558	that will change
+T279	Claim 27656 27730	I am a firm believer that our America 2000 education problem is the answer
 T280	Premise 27753 27789	it's going to take awhile to educate
 T281	Claim 27795 27815	it is a good program
 T282	Claim 27824 27866	best help for short term is job retraining
@@ -285,10 +288,10 @@ T287	Claim 28131 28147	we can do better
 T288	Claim 28153 28266	the way to do better is not to tax and spend but to retrain, get that control of the mandatory spending programs.
 T289	Claim 28399 28469	Defense industries are going to have to convert to civilian industries
 T290	Premise 28471 28487	Many of them are
+T291	Claim 28815 28862	anybody that thinks about it cares a great deal
 T292	Premise 28547 28585	there will be a significant transition
 T293	Claim 28591 28670	it's very important that we not continue to let our industrial base deteriorate
 T294	Premise 28672 28807	We had someone who I'm sure regrets said it in the president's staff said he didn't care whether we made potato chips or computer chips
-T291	Claim 28815 28862	anybody that thinks about it cares a great deal
 T295	Premise 28876 28929	you make more making computer chips than potato chips
 T296	Premise 28946 29022	19 out of 20 computer chips that we have in this country now come from Japan
 T297	Premise 29024 29057	We've given away whole industries
@@ -352,8 +355,8 @@ T354	Claim 35509 35522	it's sensible
 T355	Claim 35524 35539	it creates jobs
 T356	Claim 35541 35588	it gets to the base of the kind of jobs we need
 T357	Premise 35597 35656	I'll just be asking for support to get that put into effect
-T359	Claim 36307 36372	I think that we might ought to review the terms, the way it works
 T358	Claim 36387 36425	I don't think that's the problem today
+T359	Claim 36307 36372	I think that we might ought to review the terms, the way it works
 T360	Premise 36427 36459	We have low interest rates today
 T361	Premise 36470 36521	we have low interest rates that the Fed can control
 T362	Premise 36574 36596	because of our deficit
@@ -481,8 +484,8 @@ T483	Claim 47512 47557	Governor Clinton's philosophy is isolate them
 T484	Claim 47974 47996	I'm not going to do it
 T485	Claim 48184 48213	They didn't go over to coddle
 T486	Claim 48215 48283	He went over to say we must make the very changes they're making now
-T488	Claim 47584 47733	the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting
 T487	Premise 47739 47770	I've stood up with these people
+T488	Claim 47584 47733	the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting
 T489	Claim 47776 47839	I understand what you have to do to be strong in this situation
 T490	Premise 47845 47882	it's moving, not as fast as we'd like
 T491	Claim 47888 47968	you isolate China and turn them inward, and then we've made a tremendous mistake
@@ -604,7 +607,6 @@ T606	Premise 25429 25505	his friends in Congress have been telling me that's a t
 T607	Claim 25688 25739	I'll sit down with them and say let's get this done
 T608	Premise 27559 27604	if you go with the programs I've talked about
 T609	Premise 27609 27654	if you help with job retraining and education
-T279	Claim 27656 27730	I am a firm believer that our America 2000 education problem is the answer
 T610	Premise 27868 27916	if she was thrown out of work at a defense plant
 T611	Premise 27971 28001	we faced tough problems before
 T612	Claim 29887 29942	There are 200,000 people unemployed in California alone
@@ -639,8 +641,6 @@ T640	Premise 44727 44747	the cold war is over
 T641	Claim 46614 46631	Open your society
 T642	Claim 46633 46712	Recognize the legitimacy of those kids that were carrying the Statue of Liberty
 T643	Claim 46752 46831	we ought to be able to preserve the democratic interests of the people of China
-T180	Premise 17482 17577	They feel that the levels we're operating at and the reductions that I have proposed are proper
-T213	Premise 20103 20286	2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci
 T644	Premise 42490 42548	In order to keep America the strongest nation in the world
 T645	Premise 48772 48855	to make sure that they don't get the impression that they can suppress their people
 T646	Premise 48724 48770	to make sure that we do not cozy up to tyrants

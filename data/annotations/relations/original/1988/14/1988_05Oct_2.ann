@@ -1,3 +1,5 @@
+T1	Premise 2898 3022	In 1983 Republicans and Democrats dropped their political swords and in a bipartisan effort saved the Social Security system
+T2	Premise 2865 2896	That's the politics of the past
 T53	Claim 813 875	we have a contract with the American people on Social Security
 T55	Premise 2029 2109	When they talk about the fact that they are going to continue to cut this budget
 T56	Claim 2111 2152	I know too well what their rack record is
@@ -31,7 +33,5 @@ R10	Support Arg1:T67 Arg2:T68
 R11	Support Arg1:T72 Arg2:T69
 R12	Support Arg1:T71 Arg2:T69
 R13	Support Arg1:T73 Arg2:T69
-T1	Premise 2898 3022	In 1983 Republicans and Democrats dropped their political swords and in a bipartisan effort saved the Social Security system
-T2	Premise 2865 2896	That's the politics of the past
 R14	Support Arg1:T1 Arg2:T75
 R15	Support Arg1:T75 Arg2:T76

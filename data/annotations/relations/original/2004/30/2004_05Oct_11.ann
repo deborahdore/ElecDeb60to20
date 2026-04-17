@@ -1,3 +1,8 @@
+T1	Claim 9660 9683	We're going to allow it
+T2	Premise 2092 2111;2174 2219	This president said : I'm for a national patients' bill of rights
+T3	Claim 10845 10878	They were with the drug companies
+T4	Question 56 422	Flip-flopping has become a recurring theme in this campaign, you may have noticed.  Senator Kerry changed his mind about whether to vote to authorize the president to go to war. President Bush changed his mind about whether a homeland security department was a good idea or a 9/11 Commission was a good idea.  What's wrong with a little flip-flop every now and then?
+T5	Premise 2619 3069	I think if you look at the record from voting for sending the troops then voting against the resources they needed when they got there, then saying I actually voted for the $87 billion before I voted against it, saying in response to a question knowing everything I know now, yes, I would have cast exactly the same vote and then shortly after that saying wrong war, wrong place, wrong time, consistency doesn't come to mind as I consider that record
 T743	Claim 539 608	John Kerry has been, as have I, been completely consistent about Iraq
 T744	Claim 610 650	We've made very clear from the beginning
 T745	Premise 679 743	we said it at the time -- that we had to confront Saddam Hussein
@@ -52,9 +57,9 @@ T794	Premise 6599 6661	We had some success early on, I think, in No Child Left B
 T795	Premise 6713 6756	We had a lot of support for the Patriot Act
 T796	Claim 6801 6853	Now we're seeing objection to that by the other side
 T797	Premise 6859 6898	I know is to continue to try to work it
+T798	Claim 7586 7682	the Senate, of course, has been very evenly divided, 50-50, then 51-49, then 49-51 the other way
 T799	Claim 6371 6487	one of the disappointments of the last four years, is that we've not been able to do what the president did in Texas
 T800	Premise 6507 6597	he was able to reach across the aisle and bring Democrats along on major issues of the day
-T798	Claim 7586 7682	the Senate, of course, has been very evenly divided, 50-50, then 51-49, then 49-51 the other way
 T801	Premise 7685 7709	We'll keep working at it
 T802	Premise 7905 7978	we had our keynote address at our convention was delivered by Zell Miller
 T803	Claim 7983 8035	there are some Democrats who agree with our approach
@@ -92,9 +97,6 @@ T835	Premise 10881 10987	They had a choice on the patients' bill of rights, allo
 T836	Premise 10992 11098	not having insurance companies make them, be with the American people, be with the big insurance companies
 T837	Claim 10666 10699	They were with the drug companies
 T839	Claim 11101 11137	They're with the insurance companies
-T2	Premise 2092 2111;2174 2219	This president said : I'm for a national patients' bill of rights
-T1	Claim 9660 9683	We're going to allow it
-T3	Claim 10845 10878	They were with the drug companies
 R1	Support Arg1:T744 Arg2:T743
 R2	Support Arg1:T745 Arg2:T744
 R3	Support Arg1:T746 Arg2:T744
@@ -157,11 +159,9 @@ R62	Support Arg1:T835 Arg2:T836
 R63	Support Arg1:T836 Arg2:T839
 R64	Attack Arg1:T832 Arg2:T837
 R65	Attack Arg1:T832 Arg2:T839
-T4	Question 56 422	Flip-flopping has become a recurring theme in this campaign, you may have noticed.  Senator Kerry changed his mind about whether to vote to authorize the president to go to war. President Bush changed his mind about whether a homeland security department was a good idea or a 9/11 Commission was a good idea.  What's wrong with a little flip-flop every now and then?
 R66	Support Arg1:T748 Arg2:T749
 R4	Support Arg1:T755 Arg2:T750
 R10	Attack Arg1:T763 Arg2:T743
-T5	Premise 2619 3069	I think if you look at the record from voting for sending the troops then voting against the resources they needed when they got there, then saying I actually voted for the $87 billion before I voted against it, saying in response to a question knowing everything I know now, yes, I would have cast exactly the same vote and then shortly after that saying wrong war, wrong place, wrong time, consistency doesn't come to mind as I consider that record
 R11	Support Arg1:T5 Arg2:T763
 R67	Support Arg1:T779 Arg2:T778
 R68	Equivalent Arg1:T760 Arg2:T750

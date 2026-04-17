@@ -1,3 +1,6 @@
+T1	Premise 6051 6216	I would like to point out also that senators like Henry Jackson and Hollings of South Carolina - they are taking the lead in the fight against this particular treaty
+T2	Claim 9907 9985	The control of these weapons is the single major responsibility of a President
+T3	Claim 9991 10127	to cast out this commitment of all Presidents, because of some slight technicalities that can be corrected, is a very dangerous approach
 T260	Claim 1213 1230	I think I'm right
 T261	Premise 1254 1334	we must have a consistent foreign policy, a strong America, and a strong economy
 T262	Claim 1346 1472	as we build up our national security, to restore our margin of safety, we at the same time try to restrain the Soviet build-up
@@ -76,7 +79,6 @@ R18	Support Arg1:T284 Arg2:T283
 R19	Support Arg1:T289 Arg2:T288
 R20	Support Arg1:T290 Arg2:T288
 R21	Support Arg1:T292 Arg2:T291
-T1	Premise 6051 6216	I would like to point out also that senators like Henry Jackson and Hollings of South Carolina - they are taking the lead in the fight against this particular treaty
 R22	Support Arg1:T1 Arg2:T292
 R23	Support Arg1:T293 Arg2:T292
 R24	Support Arg1:T292 Arg2:T294
@@ -94,7 +96,5 @@ R35	Support Arg1:T309 Arg2:T308
 R36	Support Arg1:T310 Arg2:T309
 R37	Support Arg1:T313 Arg2:T312
 R38	Support Arg1:T314 Arg2:T315
-T2	Claim 9907 9985	The control of these weapons is the single major responsibility of a President
-T3	Claim 9991 10127	to cast out this commitment of all Presidents, because of some slight technicalities that can be corrected, is a very dangerous approach
 R39	Support Arg1:T2 Arg2:T3
 R40	Support Arg1:T316 Arg2:T3

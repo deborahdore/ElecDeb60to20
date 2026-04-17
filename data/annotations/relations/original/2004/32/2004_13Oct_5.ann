@@ -1,3 +1,8 @@
+T1	Claim 4342 4352	I will not
+T2	Claim 2134 2149	it's not choice
+T3	Premise 2102 2132	I think if you talk to anybody
+T4	Claim 3019 3064	You have to allow people to transfer property
+T5	Claim 4727 4774	My faith affects everything that I do, in truth
 T247	Claim 107 146	Both of you are opposed to gay marriage
 T248	Premise 245 285	Do you believe homosexuality is a choice
 T249	Claim 772 809	I believe in the sanctity of marriage
@@ -28,10 +33,10 @@ T273	Claim 2609 2623	I believe that
 T274	Premise 1955 2100	if you were to talk to Dick Cheney's daughter, who is a lesbian, she would tell you that she's being who she was, she's being who she was born as
 T276	Premise 2240 2277	they were living a sort of convention
 T277	Premise 2283 2305	they struggled with it
+T278	Premise 2151 2231	I've met people who struggled with this for years, people who were in a marriage
 T279	Claim 2494 2525	I think we have to respect that
 T280	Premise 2528 2607	The president and I share the belief that marriage is between a man and a woman
 T281	Premise 2707 2880	we are the United States of America, we're a country with a great, unbelievable Constitution, with rights that we afford people, that you can't discriminate in the workplace
-T278	Premise 2151 2231	I've met people who struggled with this for years, people who were in a marriage
 T282	Premise 2312 2491	I've met wives who are supportive of their husbands or vice versa when they finally sort of broke out and allowed themselves to live who they were, who they felt God had made them
 T283	Claim 2882 2941	You can't discriminate in the rights that you afford people
 T284	Claim 2944 3017	You can't disallow someone the right to visit their partner in a hospital
@@ -80,7 +85,6 @@ T330	Premise 6030 6064	the ban on partial birth abortion.
 T331	Premise 6065 6087	It's a brutal practice
 T332	Premise 6089 6208	People from both political parties came together in the halls of Congress and voted overwhelmingly to ban that practice
 T333	Premise 6234 6305	My opponent, in that he's out of the mainstream, voted against that law
-T1	Claim 4342 4352	I will not
 R1	Support Arg1:T254 Arg2:T252
 R2	Support Arg1:T253 Arg2:T252
 R3	Support Arg1:T255 Arg2:T253
@@ -100,8 +104,6 @@ R16	Support Arg1:T267 Arg2:T266
 R17	Support Arg1:T263 Arg2:T264
 R18	Support Arg1:T265 Arg2:T264
 R19	Support Arg1:T264 Arg2:T257
-T2	Claim 2134 2149	it's not choice
-T3	Premise 2102 2132	I think if you talk to anybody
 R20	Support Arg1:T3 Arg2:T2
 R21	Support Arg1:T274 Arg2:T2
 R22	Support Arg1:T278 Arg2:T2
@@ -112,7 +114,6 @@ R26	Support Arg1:T2 Arg2:T279
 R27	Support Arg1:T280 Arg2:T273
 R28	Equivalent Arg1:T273 Arg2:T272
 R29	Support Arg1:T281 Arg2:T283
-T4	Claim 3019 3064	You have to allow people to transfer property
 R30	Support Arg1:T4 Arg2:T285
 R31	Support Arg1:T284 Arg2:T285
 R32	Support Arg1:T286 Arg2:T285
@@ -130,7 +131,6 @@ R43	Equivalent Arg1:T1 Arg2:T305
 R44	Equivalent Arg1:T309 Arg2:T1
 R45	Support Arg1:T312 Arg2:T310
 R46	Support Arg1:T311 Arg2:T310
-T5	Claim 4727 4774	My faith affects everything that I do, in truth
 R47	Support Arg1:T313 Arg2:T292
 R48	Support Arg1:T310 Arg2:T292
 R49	Support Arg1:T314 Arg2:T292

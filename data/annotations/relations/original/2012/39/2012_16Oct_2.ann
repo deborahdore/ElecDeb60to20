@@ -1,3 +1,6 @@
+T1	Claim 7183 7191	Not true
+T2	Claim 8361 8368	is down
+T3	Claim 12679 12701;12731 12777	I'm going to make sure we're taking advantage of our energy resources
 T86	Claim 29 80	you certainly will have lots of time here coming up
 T87	Premise 90 162	I want to move you on to something that's sort of connected to cars here
 T88	Premise 188 235	we want to get a question from Phillip Tricolla
@@ -123,9 +126,6 @@ T223	Claim 12822 12920	We're going to get through a very aggressive energy polic
 T224	Claim 12779 12820	We'll bring back manufacturing to America
 T225	Claim -1 68; -1 68	I'm going to make sure we're taking advantage of our energy resources
 T226	Premise 12922 12949	It's critical to our future
-T1	Claim 7183 7191	Not true
-T2	Claim 8361 8368	is down
-T3	Claim 12679 12701;12731 12777	I'm going to make sure we're taking advantage of our energy resources
 R1	Support Arg1:T87 Arg2:T86
 R2	Support Arg1:T88 Arg2:T86
 R3	Support Arg1:T105 Arg2:T104

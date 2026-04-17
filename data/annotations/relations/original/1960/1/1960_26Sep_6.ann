@@ -1,3 +1,4 @@
+T1	Claim 3680 3878	I think, too, that it should be pointed out that of course it is not possible, particularly under the proposals that Senator Kennedy has advocated, either to cut the national debt or to reduce taxes
 T222	Premise 218 332	you call for expanding some of the welfare programs for schools, for teacher salaries, medical care, and so forth;
 T223	Premise 337 381	you also call for reducing the federal debt.
 T225	Premise 539 583	I did not advocate reducing the federal debt
@@ -14,8 +15,8 @@ T235	Premise 1653 1714	Medical care for the aged, I would put under social secur
 T236	Claim 1715 1757	The Vice President and I disagree on this.
 T237	Claim 2209 2283	I support federal aid to education and federal aid for teachers' salaries.
 T238	Premise 1958 2105	The program which I advocated, which failed by five votes in the United States Senate, would have put medical care for the aged in Social Security,
-T240	Premise 2110 2198	would have been paid for through the Social Security System and the Social Security tax.
 T239	Premise 1758 1957	The program - the Javits-Nixon or the Nixon- Javits program - would have cost, if fully used uh - six hundred million dollars by the government per year, and six hundred million dollars by the state.
+T240	Premise 2110 2198	would have been paid for through the Social Security System and the Social Security tax.
 T241	Claim 2284 2317	I think that's a good investment.
 T242	Claim 2318 2355	I think we're going to have to do it.
 T243	Claim 2360 2632	I think to heap the burden further on the property tax, which is already strained in many of our communities, will provide, will make sh- insure, in my opinion, that many of our children will not be adequately educated, and many of our teachers not adequately compensated.
@@ -29,9 +30,9 @@ T250	Claim 3376 3448	I think that we can finance essential programs within a bal
 T251	Premise 3449 3477	if business remains orderly.
 T252	Claim 3522 3605	I think what Mr. Novins was referring to was not one of Senator Kennedy's speeches,
 T253	Claim 3610 3679	the Democratic platform, which did mention cutting the national debt.
+T255	Claim 4106 4172	That, however, is raising taxes for those who pay Social Security.
 T256	Claim 3900 3936	it will be necessary to raise taxes.
 T257	Premise 3937 4105	As Senator Kennedy points out that as far as his one proposal is concerned - the one for medical care for the aged - that that would be financed out of Social Security.
-T255	Claim 4106 4172	That, however, is raising taxes for those who pay Social Security.
 T258	Premise 4173 4271	He points out that he would make pay-as-you-go be the basis for our natural resources development.
 T259	Claim 4278 4335	our natural resources development - which I also support,
 T260	Claim 4536 4622	it doesn't mean that you - the government doesn't have to put out the money this year.
@@ -68,7 +69,6 @@ R25	Support Arg1:T266 Arg2:T265
 R26	Support Arg1:T267 Arg2:T266
 R27	Support Arg1:T261 Arg2:T260
 R28	Attack Arg1:T261 Arg2:T246
-T1	Claim 3680 3878	I think, too, that it should be pointed out that of course it is not possible, particularly under the proposals that Senator Kennedy has advocated, either to cut the national debt or to reduce taxes
 R3	Support Arg1:T225 Arg2:T226
 R29	Attack Arg1:T257 Arg2:T255
 R30	Equivalent Arg1:T256 Arg2:T262

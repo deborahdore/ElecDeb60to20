@@ -1,3 +1,16 @@
+T1	Premise 2804 2814	you didn't
+T2	Claim 5321 5328	I don't
+T3	Claim 741 771	this has been a tough campaign
+T4	Claim 9603 9703	What I think is most important is that we recognize that to solve the key problems that we're facing
+T5	Claim 773 804	It's been a very tough campaign
+T6	Claim 2341 2355	I can prove it
+T7	Claim 2841 2867	that's an unfortunate part
+T8	Claim 7714 7759	we do have a difference on health care policy
+T9	Claim 8095 8143	I'm proud of the people that come to our rallies
+T10	Premise 8252 8265	You know that
+T11	Claim 12181 12197	that's Mr. Ayers
+T12	Claim 13033 13295	If I'm interested in figuring out my foreign policy, I associate myself with my running mate, Joe Biden or with Dick Lugar, the Republican ranking member on the Senate Foreign Relations Committee, or General Jim Jones, the former supreme allied commander of NATO
+T13	Claim 13831 13874	the facts are facts and records are records
 T215	Claim 108 195	Both of you pledged to take the high road in this campaign yet it has turned very nasty
 T216	Premise 209 349	Senator Obama, your campaign has used words like "erratic," "out of touch," "lie," "angry," "losing his bearings" to describe Senator McCain
 T217	Premise 351 465	Senator McCain, your commercials have included words like "disrespectful," "dangerous," "dishonorable," "he lied."
@@ -118,14 +131,9 @@ T335	Claim 14364 14399	about a brighter future for America
 T336	Claim 14405 14437	that's what my campaign is about
 T337	Claim 14442 14532	I'm not going to raise taxes the way Senator Obama wants to raise taxes in a tough economy
 T338	Claim 14538 14591	that's really what this campaign is going to be about
-T1	Premise 2804 2814	you didn't
-T2	Claim 5321 5328	I don't
-T4	Claim 9603 9703	What I think is most important is that we recognize that to solve the key problems that we're facing
 R1	Support Arg1:T216 Arg2:T215
 R2	Support Arg1:T217 Arg2:T215
 R3	Support Arg1:T218 Arg2:T215
-T3	Claim 741 771	this has been a tough campaign
-T5	Claim 773 804	It's been a very tough campaign
 R4	Support Arg1:T5 Arg2:T3
 R5	Support Arg1:T220 Arg2:T219
 R6	Support Arg1:T219 Arg2:T221
@@ -138,11 +146,9 @@ R12	Support Arg1:T228 Arg2:T231
 R13	Support Arg1:T232 Arg2:T231
 R14	Support Arg1:T225 Arg2:T223
 R15	Support Arg1:T226 Arg2:T223
-T6	Claim 2341 2355	I can prove it
 R16	Support Arg1:T6 Arg2:T233
 R17	Support Arg1:T235 Arg2:T236
 R18	Support Arg1:T1 Arg2:T236
-T7	Claim 2841 2867	that's an unfortunate part
 R19	Support Arg1:T236 Arg2:T7
 R20	Support Arg1:T234 Arg2:T7
 R21	Support Arg1:T238 Arg2:T7
@@ -174,9 +180,6 @@ R46	Support Arg1:T273 Arg2:T274
 R47	Support Arg1:T275 Arg2:T271
 R48	Support Arg1:T277 Arg2:T276
 R49	Support Arg1:T276 Arg2:T278
-T8	Claim 7714 7759	we do have a difference on health care policy
-T9	Claim 8095 8143	I'm proud of the people that come to our rallies
-T10	Premise 8252 8265	You know that
 R50	Support Arg1:T10 Arg2:T283
 R51	Support Arg1:T9 Arg2:T287
 R52	Support Arg1:T285 Arg2:T287
@@ -196,7 +199,6 @@ R65	Support Arg1:T311 Arg2:T309
 R66	Support Arg1:T312 Arg2:T309
 R67	Support Arg1:T305 Arg2:T304
 R68	Support Arg1:T313 Arg2:T309
-T11	Claim 12181 12197	that's Mr. Ayers
 R69	Support Arg1:T304 Arg2:T11
 R70	Support Arg1:T303 Arg2:T11
 R71	Support Arg1:T309 Arg2:T11
@@ -206,14 +208,12 @@ R74	Support Arg1:T316 Arg2:T315
 R75	Support Arg1:T306 Arg2:T317
 R76	Support Arg1:T318 Arg2:T317
 R77	Support Arg1:T320 Arg2:T319
-T12	Claim 13033 13295	If I'm interested in figuring out my foreign policy, I associate myself with my running mate, Joe Biden or with Dick Lugar, the Republican ranking member on the Senate Foreign Relations Committee, or General Jim Jones, the former supreme allied commander of NATO
 R78	Support Arg1:T321 Arg2:T324
 R79	Support Arg1:T12 Arg2:T324
 R80	Support Arg1:T308 Arg2:T325
 R81	Attack Arg1:T317 Arg2:T300
 R82	Attack Arg1:T328 Arg2:T318
 R83	Attack Arg1:T326 Arg2:T329
-T13	Claim 13831 13874	the facts are facts and records are records
 R84	Support Arg1:T327 Arg2:T326
 R85	Support Arg1:T331 Arg2:T330
 R86	Support Arg1:T333 Arg2:T336

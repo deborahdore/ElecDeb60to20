@@ -1,3 +1,4 @@
+T1	Claim 5138 5184	I agree. I think you should vote for Mr. Nixon
 T409	Claim 416 544	I think it is well to put in perspective where we really do stand with regard to the Soviet Union in this whole matter of growth
 T412	Claim 546 599	The Soviet Union has been moving faster than we have.
 T413	Premise 636 670	They start from a much lower base.
@@ -74,7 +75,6 @@ R22	Support Arg1:T415 Arg2:T413
 R23	Attack Arg1:T412 Arg2:T409
 R24	Support Arg1:T424 Arg2:T423
 R25	Support Arg1:T432 Arg2:T433
-T1	Claim 5138 5184	I agree. I think you should vote for Mr. Nixon
 R7	Attack Arg1:T453 Arg2:T1
 R9	Attack Arg1:T454 Arg2:T1
 R26	Support Arg1:T448 Arg2:T1

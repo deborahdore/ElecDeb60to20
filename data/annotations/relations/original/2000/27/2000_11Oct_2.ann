@@ -1,3 +1,5 @@
+T1	Claim 4508 4512	I do
+T2	Claim 6089 6093	I do
 T78	Claim 312 415	The first priority has to be on ending the violence, dampening down the tensions that have arisen there
 T79	Claim 417 504	We need to call upon Syria to release the three Israeli soldiers who have been captured
 T80	Claim 506 630	We need to insist that Arafat send out instructions to halt some of the provocative acts of violence that have been going on
@@ -29,9 +31,9 @@ T107	Claim 2538 2672	that's going to be particularly important in dealing not on
 T108	Claim 2949 2983	it's important to have credibility
 T109	Claim 2988 3078	credibility is formed by being strong with your friends and resolute in your determination
 T110	Claim 3103 3238	I think it's important for this nation to develop an anti-ballistic missile system that we can share with our allies in the Middle East
+T111	Claim 3375 3448	It's also important to keep strong ties in the Middle East, credible ties
 T112	Premise 3239 3267	if need be to keep the peace
 T113	Premise 3268 3373	to be able to say to the Saddam Husseinâ€™s of the world or the Iranians, don't dare threaten our friends
-T111	Claim 3375 3448	It's also important to keep strong ties in the Middle East, credible ties
 T114	Premise 3450 3491	because of the energy crisis we're now in
 T115	Premise 3504 3556	a lot of the energy is produced from the Middle East
 T116	Claim 3975 3995	we stand with Israel
@@ -72,8 +74,6 @@ T152	Premise 7524 7562	they're trying to break out of the box
 T153	Claim 7751 7768	No, of course not
 T154	Claim 7770 7784	absolutely not
 T155	Claim 7786 7811	I want them to be tougher
-T1	Claim 4508 4512	I do
-T2	Claim 6089 6093	I do
 R1	Support Arg1:T79 Arg2:T78
 R2	Support Arg1:T80 Arg2:T78
 R3	Support Arg1:T81 Arg2:T78

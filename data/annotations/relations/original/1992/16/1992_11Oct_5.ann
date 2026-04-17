@@ -1,3 +1,6 @@
+T1	Claim 832 856	I know it's not popular,
+T2	Claim 3344 3374	I just disagree with Mr. Perot
+T3	Claim 3823 3867	I disagree with the tax-and-spend philosophy
 T221	Claim 482 516	I think "punish" is the wrong word
 T222	Premise 530 558	I didn't create this problem
 T223	Claim 560 584	We're trying to solve it
@@ -33,9 +36,9 @@ T252	Claim 3713 3763	I think we ought to totally exempt Social Security
 T253	Premise 3611 3702	I agree with what he's talking about in trying to get this spending down and the discipline
 T254	Premise 3769 3796	he's talking tough medicine
 T255	Claim 3802 3821	I think that's good
+T256	Claim 4052 4180	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
 T257	Claim 3878 3980	I don't think we need to tax more and spend more, and then say that's going to make the problem better
 T258	Claim 3997 4050	that's what I think I'm hearing from Governor Clinton
-T256	Claim 4052 4180	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
 T259	Premise 4182 4239	He's mentioned some ways to do it--and I agree with those
 T260	Premise 4241 4300	I've been talking about getting a capital gains cut forever
 T261	Claim 4384 4413	It would stimulate investment
@@ -85,7 +88,6 @@ R42	Support Arg1:T261 Arg2:T256
 R46	Support Arg1:T251 Arg2:T265
 R47	Attack Arg1:T265 Arg2:T236
 R4	Support Arg1:T226 Arg2:T223
-T1	Claim 832 856	I know it's not popular,
 R48	Attack Arg1:T228 Arg2:T1
 R37	Support Arg1:T235 Arg2:T236
 R49	Support Arg1:T598 Arg2:T236
@@ -97,9 +99,7 @@ R12	Support Arg1:T244 Arg2:T245
 R13	Support Arg1:T604 Arg2:T245
 R14	Support Arg1:T246 Arg2:T247
 R15	Support Arg1:T605 Arg2:T247
-T2	Claim 3344 3374	I just disagree with Mr. Perot
 R16	Support Arg1:T250 Arg2:T2
 R17	Support Arg1:T253 Arg2:T252
-T3	Claim 3823 3867	I disagree with the tax-and-spend philosophy
 R27	Support Arg1:T257 Arg2:T3
 R28	Attack Arg1:T3 Arg2:T258

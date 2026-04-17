@@ -1,3 +1,8 @@
+T1	Question 7 352	Mr. Vice President, the Census Bureau ranked Cleveland as the biggest poor city in the country, 31 percent jobless rate. You two gentlemen are pretty well off. You did well for yourselves in the private sector. What can you tell the people of Cleveland, or people of cities like Cleveland, that your administration will do to better their lives?
+T2	Claim 2056 2161	It strikes me that that is absolutely the heart of what needs to be done from the standpoint of education
+T3	Premise 2687 2782	I hope we get a chance to talk about education, but that's what the vice president talked about
+T4	Premise 3363 3491	During the time that the vice president and the president have been in office, 4 million more Americans have fallen into poverty
+T5	Premise 3494 3774	And what the most striking and startling thing is, they are the first presidency in 70 years -- and I'm talking Democrats, Republican, presidents who led us through World War, through the Korean War, the Vietnam War, Cold War -- every one of them created jobs until this president
 T403	Claim 375 447	there are several things that I think need to be done and are being done
 T404	Claim 1328 1413	I think the most important thing we can do is have a first-class public school system
 T405	Claim 696 801	I think probably the most successful thing we can do with respect to ending poverty is to get people jobs
@@ -108,15 +113,10 @@ R51	Support Arg1:T458 Arg2:T454
 R52	Support Arg1:T457 Arg2:T454
 R53	Support Arg1:T456 Arg2:T454
 R54	Support Arg1:T455 Arg2:T454
-T1	Question 7 352	Mr. Vice President, the Census Bureau ranked Cleveland as the biggest poor city in the country, 31 percent jobless rate. You two gentlemen are pretty well off. You did well for yourselves in the private sector. What can you tell the people of Cleveland, or people of cities like Cleveland, that your administration will do to better their lives?
 R55	Support Arg1:T420 Arg2:T404
 R56	Support Arg1:T423 Arg2:T404
-T2	Claim 2056 2161	It strikes me that that is absolutely the heart of what needs to be done from the standpoint of education
 R57	Equivalent Arg1:T2 Arg2:T404
-T3	Premise 2687 2782	I hope we get a chance to talk about education, but that's what the vice president talked about
 R58	Attack Arg1:T3 Arg2:T404
-T4	Premise 3363 3491	During the time that the vice president and the president have been in office, 4 million more Americans have fallen into poverty
-T5	Premise 3494 3774	And what the most striking and startling thing is, they are the first presidency in 70 years -- and I'm talking Democrats, Republican, presidents who led us through World War, through the Korean War, the Vietnam War, Cold War -- every one of them created jobs until this president
 R59	Support Arg1:T4 Arg2:T435
 R60	Support Arg1:T5 Arg2:T435
 R61	Support Arg1:T438 Arg2:T439

@@ -1,3 +1,5 @@
+T1	Premise 3849 3883	I commend you for supporting that.
+T2	Premise 4959 5011	Do we remove dams that produce hydroelectric energy?
 T176	Claim 367 442	My plan has not only a short-term component, but also a long-term component
 T177	Claim 448 566	it focuses not only on increasing the supply, which I think we have to do, but also on working on the consumption side
 T178	Premise 573 751	in the short-term we have to free ourselves from the domination of the big oil companies that have the ability to manipulate the price from OPEC when they want to raise the price
@@ -98,7 +100,6 @@ R24	Support Arg1:T201 Arg2:T202
 R25	Attack Arg1:T202 Arg2:T184
 R26	Support Arg1:T203 Arg2:T202
 R27	Support Arg1:T209 Arg2:T206
-T1	Premise 3849 3883	I commend you for supporting that.
 R28	Support Arg1:T1 Arg2:T209
 R29	Support Arg1:T210 Arg2:T208
 R30	Support Arg1:T211 Arg2:T208
@@ -111,7 +112,6 @@ R36	Support Arg1:T208 Arg2:T217
 R37	Attack Arg1:T218 Arg2:T217
 R38	Attack Arg1:T219 Arg2:T220
 R39	Support Arg1:T221 Arg2:T219
-T2	Premise 4959 5011	Do we remove dams that produce hydroelectric energy?
 R40	Support Arg1:T2 Arg2:T223
 R41	Support Arg1:T222 Arg2:T2
 R42	Support Arg1:T225 Arg2:T223

@@ -1,3 +1,8 @@
+T1	Premise 1795 1862	A billion dollars more than the president recently signed into law.
+T2	Premise 2397 2492	Nobody should have any doubt about that, least of all our adversaries or potential adversaries.
+T3	Premise 3180 3294	I disagree with the proposal that maybe only when oil supplies are at stake that our national security is at risk.
+T4	Premise 6045 6110	The governor has proposed skipping the next generation of weapons
+T5	Premise 8225 8265	Why haven't they done it in seven years?
 T368	Premise 147 400	if it's in our vital national interests, and that means whether our territory is threatened or people could be harmed, whether or not the alliances are -- our defense alliances are threatened, whether or not our friends in the Middle East are threatened
 T369	Claim 402 461	That would be a time to seriously consider the use of force
 T370	Claim 473 509	whether or not the mission was clear
@@ -111,13 +116,11 @@ R19	Support Arg1:T390 Arg2:T384
 R20	Support Arg1:T388 Arg2:T385
 R21	Attack Arg1:T384 Arg2:T389
 R22	Support Arg1:T392 Arg2:T390
-T1	Premise 1795 1862	A billion dollars more than the president recently signed into law.
 R23	Support Arg1:T1 Arg2:T392
 R24	Support Arg1:T393 Arg2:T390
 R25	Support Arg1:T394 Arg2:T390
 R26	Support Arg1:T390 Arg2:T391
 R27	Support Arg1:T391 Arg2:T379
-T2	Premise 2397 2492	Nobody should have any doubt about that, least of all our adversaries or potential adversaries.
 R28	Support Arg1:T2 Arg2:T398
 R29	Support Arg1:T396 Arg2:T395
 R30	Support Arg1:T398 Arg2:T395
@@ -130,7 +133,6 @@ R36	Support Arg1:T402 Arg2:T400
 R37	Support Arg1:T401 Arg2:T400
 R38	Attack Arg1:T400 Arg2:T397
 R39	Support Arg1:T399 Arg2:T395
-T3	Premise 3180 3294	I disagree with the proposal that maybe only when oil supplies are at stake that our national security is at risk.
 R40	Support Arg1:T3 Arg2:T407
 R41	Support Arg1:T406 Arg2:T400
 R42	Support Arg1:T409 Arg2:T408
@@ -159,7 +161,6 @@ R64	Support Arg1:T427 Arg2:T426
 R65	Support Arg1:T426 Arg2:T422
 R66	Support Arg1:T429 Arg2:T422
 R67	Support Arg1:T425 Arg2:T422
-T4	Premise 6045 6110	The governor has proposed skipping the next generation of weapons
 R68	Attack Arg1:T422 Arg2:T4
 R69	Attack Arg1:T423 Arg2:T4
 R70	Support Arg1:T424 Arg2:T423
@@ -184,5 +185,4 @@ R88	Support Arg1:T457 Arg2:T458
 R89	Support Arg1:T458 Arg2:T453
 R90	Support Arg1:T454 Arg2:T453
 R91	Attack Arg1:T456 Arg2:T455
-T5	Premise 8225 8265	Why haven't they done it in seven years?
 R92	Attack Arg1:T5 Arg2:T453

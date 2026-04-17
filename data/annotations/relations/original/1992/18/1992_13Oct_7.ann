@@ -1,3 +1,10 @@
+T1	Claim 4223 4256	We have been for enterprise zones
+T2	Claim 4270 4340	George Bush vetoed the enterprise zone law, the law that included them
+T3	Premise 4851 4938	What plan is that that's just going to raise taxes on those making over $200,000 a year
+T4	Premise 6349 6423	Where have we come if joining a gang is like being a member of the family?
+T5	Premise 7961 8066	If you don't support parents and you don't support children, how -- how can you say you support families?
+T6	Premise 8942 8990	This is a very- -this is a very important issue.
+T7	Premise 8586 8749	Now I'm all for private schools, but to use taxpayer dollars, when the people who get these little vouchers often won't be able to afford the private school anyway
 T478	Premise 81 108	Let's talk about the cities
 T479	Premise 118 175	that's where a majority of Americans live, in urban areas
 T480	Claim 181 225	they're facing a financial and social crisis
@@ -46,6 +53,7 @@ T522	Claim -1 145; -1 145	when they were included in a plan that the Congress pa
 T523	Premise 4366 4435	that same bill raised taxes on those making more than $200,000 a year
 T524	Premise 3991 4088	Vice President Quayle said they're important, but George Bush eliminated them from his urban plan
 T525	Claim 4117 4132	that's not true
+T526	Premise 4713 4740	if we can take our approach
 T527	Claim 4463 4566	your top priority really, isn't it, to make sure that the very wealthy don't have to pay any more taxes
 T528	Claim 4568 4671	We want to cut taxes on middle-income families and raise them on those making more than $200,000 a year
 T529	Claim 4742 4776	the cities will be much better off
@@ -94,7 +102,6 @@ T571	Premise 9825 9917	for the last, almost a decade, we've worried about our sc
 T572	Claim 10292 10343	In schools, bureaucracy is bad and autonomy is good
 T573	Premise -1 122; -1 122	The only good schools we have are those run by talented principals and devoted teachers, and they're running their own show
 T708	Premise 3666 3781	by creating good jobs, investing in infrastructure, new programs in job training and apprenticeship, welfare reform
-T526	Premise 4713 4740	if we can take our approach
 T709	Claim 6837 6890	Nobody here who is middle income has gotten a tax cut
 T710	Premise 9923 10218	the president had a meeting of all the governors, and then they tried the conventional fixes for schools, that is, to increase the certification of -- requirements for the teachers, to lengthen the school day, to lengthen the school year and nothing -- this is a very brief overview of the thing
 T711	Premise 10222 10242	but nothing happened
@@ -143,16 +150,13 @@ R40	Support Arg1:T520 Arg2:T519
 R41	Support Arg1:T521 Arg2:T519
 R42	Attack Arg1:T521 Arg2:T524
 R43	Attack Arg1:T525 Arg2:T524
-T1	Claim 4223 4256	We have been for enterprise zones
 R44	Support Arg1:T1 Arg2:T525
 R45	Attack Arg1:T1 Arg2:T524
-T2	Claim 4270 4340	George Bush vetoed the enterprise zone law, the law that included them
 R46	Support Arg1:T523 Arg2:T2
 R47	Support Arg1:T2 Arg2:T527
 R48	Support Arg1:T524 Arg2:T2
 R49	Attack Arg1:T528 Arg2:T527
 R50	Support Arg1:T526 Arg2:T529
-T3	Premise 4851 4938	What plan is that that's just going to raise taxes on those making over $200,000 a year
 R51	Attack Arg1:T3 Arg2:T528
 R52	Support Arg1:T531 Arg2:T530
 R53	Support Arg1:T3 Arg2:T530
@@ -169,7 +173,6 @@ R63	Support Arg1:T543 Arg2:T544
 R64	Support Arg1:T544 Arg2:T545
 R65	Support Arg1:T545 Arg2:T546
 R66	Support Arg1:T546 Arg2:T542
-T4	Premise 6349 6423	Where have we come if joining a gang is like being a member of the family?
 R67	Attack Arg1:T542 Arg2:T4
 R68	Attack Arg1:T547 Arg2:T548
 R69	Attack Arg1:T547 Arg2:T4
@@ -184,13 +187,10 @@ R77	Attack Arg1:T554 Arg2:T549
 R78	Support Arg1:T557 Arg2:T558
 R79	Attack Arg1:T558 Arg2:T559
 R80	Attack Arg1:T557 Arg2:T559
-T5	Premise 7961 8066	If you don't support parents and you don't support children, how -- how can you say you support families?
 R81	Attack Arg1:T5 Arg2:T559
 R82	Attack Arg1:T560 Arg2:T561
 R83	Attack Arg1:T562 Arg2:T561
-T6	Premise 8942 8990	This is a very- -this is a very important issue.
 R84	Support Arg1:T6 Arg2:T564
-T7	Premise 8586 8749	Now I'm all for private schools, but to use taxpayer dollars, when the people who get these little vouchers often won't be able to afford the private school anyway
 R85	Support Arg1:T7 Arg2:T562
 R86	Attack Arg1:T568 Arg2:T560
 R87	Attack Arg1:T566 Arg2:T565

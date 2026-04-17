@@ -16,9 +16,11 @@ T15	Premise 3699 3756	where we are able, ultimately, to be more safe and secure
 T16	Premise 3058 3115	Police officers are being cut from the streets of America
 T17	Claim 3175 3219	we can do a better job of homeland security.
 T18	Premise 3124 3169	the president decided to cut the COPS program
+T19	Claim 2872 2894	That's not good enough
 T20	Premise 2661 2805	there are a host of options that this president had available to him, like making sure that at all our ports in America containers are inspected
 T21	Premise 2834 2870	95 percent come in today uninspected
 T22	Premise 2897 2981	People who fly on airplanes today, the cargo hold is not X-rayed, but the baggage is
+T23	Claim 2983 3005	That's not good enough
 T24	Premise 3007 3056	Firehouses don't have enough firefighters in them
 T25	Claim 3880 3910	Yes, we can be safe and secure
 T26	Claim 4779 4836	I think that attitude and that point of view is dangerous
@@ -44,9 +46,12 @@ T45	Premise 6010 6049	We're on the hunt after Osama bin Laden
 T46	Premise 6051 6113	We're using every asset at our disposal to get Osama bin Laden
 T47	Premise 6116 6189	My opponent said this war is a matter of intelligence and law enforcement
 T48	Claim 6191 6290	No, this war is a matter of using every asset at our disposal to keep the American people protected
+T49	Premise 4361 4405	the Afghan people had elections this weekend
+T50	Premise 4411 4450	the first voter was a 19-year-old woman
+T51	Claim 4470 4493	Freedom is on the march
+T52	Premise 4496 4551	We held to account a terrorist regime in Saddam Hussein
 R1	Support Arg1:T4 Arg2:T5
 R3	Attack Arg1:T21 Arg2:T20
-T19	Claim 2872 2894	That's not good enough
 R2	Support Arg1:T21 Arg2:T19
 R4	Support Arg1:T16 Arg2:T17
 R5	Support Arg1:T18 Arg2:T16
@@ -54,7 +59,6 @@ R6	Support Arg1:T24 Arg2:T17
 R7	Support Arg1:T22 Arg2:T17
 R8	Support Arg1:T19 Arg2:T17
 R9	Support Arg1:T5 Arg2:T17
-T23	Claim 2983 3005	That's not good enough
 R10	Support Arg1:T23 Arg2:T17
 R11	Support Arg1:T6 Arg2:T7
 R12	Support Arg1:T8 Arg2:T7
@@ -69,12 +73,8 @@ R20	Support Arg1:T27 Arg2:T25
 R21	Support Arg1:T28 Arg2:T25
 R22	Support Arg1:T36 Arg2:T35
 R23	Attack Arg1:T35 Arg2:T4
-T49	Premise 4361 4405	the Afghan people had elections this weekend
-T50	Premise 4411 4450	the first voter was a 19-year-old woman
-T51	Claim 4470 4493	Freedom is on the march
 R24	Support Arg1:T50 Arg2:T51
 R25	Support Arg1:T49 Arg2:T51
-T52	Premise 4496 4551	We held to account a terrorist regime in Saddam Hussein
 R26	Support Arg1:T52 Arg2:T51
 R27	Support Arg1:T51 Arg2:T35
 R28	Attack Arg1:T26 Arg2:T34

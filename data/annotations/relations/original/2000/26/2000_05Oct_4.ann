@@ -1,3 +1,5 @@
+T1	Question 41 158	If Yugoslavia  's Slobodan Milosevic prevails, notwithstanding the election results, would you support his overthrow?
+T2	Claim 1565 1779	I think that Vice President Gore played a critical role, passionate purposive role in leading the administration, along with Republican supporters like Bob Dole and John McCain, to do the right thing in the Balkans
 T160	Claim 599 829	I think the United States, with its European allies, ought to do everything we can to encourage the people of Serbia to do exactly what they've been doing over the last few days to rise up and end this reign of terror by Milosevic
 T161	Claim 835 943	bring themselves back into the family of nations where they will be welcomed by the United States and others
 T162	Premise 548 592	If that is not confirmed and does not happen
@@ -40,7 +42,6 @@ T199	Premise 3652 3708	we ought to find out whether he's committed to democracy
 T200	Premise 3710 3835	Whether or not he's willing to support the forces of freedom and democracy diplomatically there in the area of eastern Europe
 T201	Claim 3978 4106	how we manage that process of integrating those 150 million eastern Europeans into the security and economic framework of Europe
 T202	Premise 3841 3916	it's a test for him whether he represents the old guard in the Soviet Union
-T1	Question 41 158	If Yugoslavia  's Slobodan Milosevic prevails, notwithstanding the election results, would you support his overthrow?
 R1	Support Arg1:T166 Arg2:T165
 R2	Support Arg1:T164 Arg2:T165
 R3	Support Arg1:T163 Arg2:T165
@@ -52,7 +53,6 @@ R10	Support Arg1:T172 Arg2:T171
 R11	Support Arg1:T170 Arg2:T171
 R12	Support Arg1:T171 Arg2:T176
 R8	Support Arg1:T173 Arg2:T176
-T2	Claim 1565 1779	I think that Vice President Gore played a critical role, passionate purposive role in leading the administration, along with Republican supporters like Bob Dole and John McCain, to do the right thing in the Balkans
 R9	Support Arg1:T177 Arg2:T2
 R13	Support Arg1:T185 Arg2:T178
 R14	Support Arg1:T187 Arg2:T186

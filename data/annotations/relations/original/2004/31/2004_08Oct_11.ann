@@ -1,3 +1,7 @@
+T1	Claim 2677 2695	which he's opposed
+T2	Premise 1605 1625;1663 1732	the way I pay for it is I roll back the tax cut this president so fiercely wants to defend
+T3	Claim 5474 5485	It's a fact
+T4	Claim 0 6	GIBSON
 T757	Claim 417 458	there are a lot of ways to be competitive
 T758	Claim 493 550	this administration has not seized them and embraced them
 T759	Premise 580 613	There is a tax loophole right now
@@ -68,7 +72,6 @@ T824	Premise 5261 5298	I met Grant Milliron, Mansfield, Ohio
 T825	Premise 5300 5318	He's creating jobs
 T826	Premise 5345 5414	70 percent of the new jobs in America are created by small businesses
 T827	Claim 5417 5472	Taxes are going up when you run up the top two brackets
-T2	Premise 1605 1625;1663 1732	the way I pay for it is I roll back the tax cut this president so fiercely wants to defend
 R1	Attack Arg1:T757 Arg2:T758
 R2	Support Arg1:T759 Arg2:T760
 R3	Support Arg1:T760 Arg2:T761
@@ -100,7 +103,6 @@ R26	Support Arg1:T784 Arg2:T783
 R29	Support Arg1:T783 Arg2:T781
 R30	Support Arg1:T781 Arg2:T785
 R31	Support Arg1:T757 Arg2:T785
-T1	Claim 2677 2695	which he's opposed
 R32	Attack Arg1:T786 Arg2:T1
 R33	Support Arg1:T790 Arg2:T789
 R34	Support Arg1:T791 Arg2:T789
@@ -143,6 +145,4 @@ R70	Support Arg1:T824 Arg2:T825
 R71	Support Arg1:T825 Arg2:T826
 R72	Support Arg1:T826 Arg2:T822
 R73	Support Arg1:T826 Arg2:T827
-T3	Claim 5474 5485	It's a fact
 R74	Support Arg1:T3 Arg2:T827
-T4	Claim 0 6	GIBSON

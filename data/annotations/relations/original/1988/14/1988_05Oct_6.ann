@@ -1,3 +1,8 @@
+T1	Premise 2346 2368	$10,000 breakfast club
+T2	Premise 5636 5729	I formed it, and I closed it down almost immediately because I thought the perception was bad
+T3	Premise 5735 5838	it's the same law - it's the same law - that lets you invite high priced lobbyists down to Williamsburg
+T4	Premise 5844 6018	bring them down there and entertain them playing golf, playing tennis, and bringing Republican Senators down there, to have exchanged for that contributions to their campaign
+T5	Premise 6020 6191	It's the same kind of law that lets you have honorariums - and you've collected over a quarter of a million dollars of honorariums now, speaking to various interest groups
 T160	Claim 837 872	I don't find it embarrassing at all
 T161	Premise 882 1023	you have to remember that PAC money is the result of the last campaign reform bill, one that talks about employees have greater participation
 T162	Premise 1029 1121	what I've done in PAC money is just what my opponent in my campaign has done in his campaign
@@ -57,7 +62,6 @@ R11	Support Arg1:T166 Arg2:T167
 R12	Support Arg1:T166 Arg2:T165
 R13	Support Arg1:T165 Arg2:T171
 R14	Support Arg1:T175 Arg2:T174
-T1	Premise 2346 2368	$10,000 breakfast club
 R15	Equivalent Arg1:T1 Arg2:T175
 R16	Support Arg1:T179 Arg2:T175
 R17	Support Arg1:T176 Arg2:T179
@@ -80,10 +84,6 @@ R33	Support Arg1:T188 Arg2:T194
 R34	Support Arg1:T187 Arg2:T194
 R35	Support Arg1:T186 Arg2:T194
 R36	Attack Arg1:T207 Arg2:T175
-T2	Premise 5636 5729	I formed it, and I closed it down almost immediately because I thought the perception was bad
-T3	Premise 5735 5838	it's the same law - it's the same law - that lets you invite high priced lobbyists down to Williamsburg
-T4	Premise 5844 6018	bring them down there and entertain them playing golf, playing tennis, and bringing Republican Senators down there, to have exchanged for that contributions to their campaign
-T5	Premise 6020 6191	It's the same kind of law that lets you have honorariums - and you've collected over a quarter of a million dollars of honorariums now, speaking to various interest groups
 R37	Support Arg1:T2 Arg2:T207
 R38	Support Arg1:T3 Arg2:T4
 R39	Support Arg1:T4 Arg2:T5

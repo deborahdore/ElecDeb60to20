@@ -1,3 +1,8 @@
+T1	Claim 4204 4220	I'm not your man
+T2	Claim 1953 2066	Who has the perseverance, the character, the integrity, the maturity, to get the job done? I hope I'm that person
+T3	Premise 1681 1952	If in the next 5 minutes a television announcer came on and said, there is a major international crisis -- there is a major threat to the world or in this country a major threat -- my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?
+T4	Premise 2554 2600	Everybody says you can't do that with Congress
+T323	Premise 2184 2242	If the American people want to do it and not talk about it
 T324	Claim 1015 1036	three ways to do that
 T325	Premise 1038 1059	One is to raise taxes
 T326	Premise 1061 1125	One is to reduce spending -- controlling that mandatory spending
@@ -60,7 +65,6 @@ T384	Claim 6681 6701	I got into this race
 T385	Claim 6823 6845	We're better than that
 T386	Claim 6847 6873	We can do better than that
 T387	Claim 6875 6919	I want to make America as great as it can be
-T323	Premise 2184 2242	If the American people want to do it and not talk about it
 T409	Premise 2315 2385	If they just want to keep slow dancing and talk about it and not do it
 T410	Premise 4168 4203	if you don't want to really do that
 T411	Premise 5498 5560	I made commitments to 2 things -- more jobs and better schools
@@ -68,16 +72,12 @@ T412	Premise 5700 5774	we have one of the most aggressive adult education progra
 T413	Premise 5988 6041	I could work with people -- Republicans and Democrats
 T414	Claim 6389 6420	to invest and grow this economy
 T415	Premise 6710 6821	I did not want my child to grow up to be part of the first generation of Americans to do worse than her parents
-T1	Claim 4204 4220	I'm not your man
-T2	Claim 1953 2066	Who has the perseverance, the character, the integrity, the maturity, to get the job done? I hope I'm that person
-T3	Premise 1681 1952	If in the next 5 minutes a television announcer came on and said, there is a major international crisis -- there is a major threat to the world or in this country a major threat -- my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?
 R1	Support Arg1:T3 Arg2:T2
 R2	Support Arg1:T323 Arg2:T336
 R3	Support Arg1:T409 Arg2:T337
 R5	Support Arg1:T338 Arg2:T336
 R6	Support Arg1:T339 Arg2:T336
 R4	Support Arg1:T340 Arg2:T336
-T4	Premise 2554 2600	Everybody says you can't do that with Congress
 R7	Attack Arg1:T343 Arg2:T4
 R8	Support Arg1:T341 Arg2:T336
 R9	Support Arg1:T368 Arg2:T367

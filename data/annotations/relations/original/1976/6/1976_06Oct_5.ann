@@ -1,3 +1,8 @@
+T1	Claim 1319 1431	In our international trade, as I said in my op- opening statement, we have become the arms merchant of the world
+T2	Claim 4343 4476	I think under those circumstances they would refrain from pushing us to our knees as they did in 1973 with their previous oil embargo
+T3	Premise 4232 4341	I would make sure that the uh - Saudis understood this ahead of time so there would be no doubt in their mind
+T4	Claim 2095 2128	This is a deviation from idealism
+T174	Premise 5663 5688	Iran has been a good ally
 T186	Claim 706 759	I would never single out food as a trade embargo item
 T187	Premise 761 899	If I ever decided to impose an embargo because of a crisis in international relationships, it would include all shipments of all equipment
 T188	Premise 915 1064	if the Arab countries ever again declare an embargo against our nation on oil I would consider that not a military but an economic declaration of war
@@ -51,10 +56,6 @@ T235	Premise 5690 5753	In 1973 when there was an oil embargo, Iran did not parti
 T236	Premise 5755 5802	Iran continued to sell oil to the United States
 T237	Claim 5804 5951	I believe that it's in our interest and in the interest of Israel and Iran, and Saudi Arabia, for the United States to sell arms to those countries
 T238	Claim 5953 5992	It's for their security as well as ours
-T174	Premise 5663 5688	Iran has been a good ally
-T1	Claim 1319 1431	In our international trade, as I said in my op- opening statement, we have become the arms merchant of the world
-T2	Claim 4343 4476	I think under those circumstances they would refrain from pushing us to our knees as they did in 1973 with their previous oil embargo
-T3	Premise 4232 4341	I would make sure that the uh - Saudis understood this ahead of time so there would be no doubt in their mind
 R1	Equivalent Arg1:T191 Arg2:T186
 R3	Support Arg1:T188 Arg2:T189
 R5	Support Arg1:T189 Arg2:T186
@@ -81,7 +82,6 @@ R29	Support Arg1:T204 Arg2:T213
 R30	Support Arg1:T216 Arg2:T217
 R31	Support Arg1:T217 Arg2:T213
 R32	Support Arg1:T214 Arg2:T216
-T4	Claim 2095 2128	This is a deviation from idealism
 R33	Support Arg1:T4 Arg2:T200
 R34	Attack Arg1:T215 Arg2:T4
 R35	Support Arg1:T218 Arg2:T215

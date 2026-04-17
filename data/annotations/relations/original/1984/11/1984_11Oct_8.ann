@@ -1,4 +1,13 @@
+T1	Premise 1981 2123	the way you to that position of rnoving away from having to make a decision - armed force or anything else - is by moving toward arms control.
+T2	Claim 4302 4400	we have made proposals and proposals and proposals - sound proposals - on reducing nuclear weapons
+T3	Claim 4905 5016	we're reducing - trying to talk to them, and are talking to them, in Vienna, about conventional force reduction
+T433	Claim 805 966	It's about as valid as saying that you would have to be black in order to despise racism, that you'd have to be female in order to be terribly offended by sexism
+T449	Claim 972 990	that's just not so
+T460	Claim 1112 1198	I think that the people of this country can rely upon the fact that I will be a lender
 T461	Claim 680 803	I think what happens is when you try to equate whether or not I have had military experience, that's the natural conclusion
+T462	Claim 992 1109	I think if you take a look at where I've been, both in the Congress and where I intend to go, the type of person I am
+T463	Claim -1 107; -1 107	the way you to that position of rnoving away from having to make a decision is by moving toward arms control
+T464	Claim 2679 2798	I guess the concern that I have is a concern not only as a vice-presidential candidate but as a citizen in this country
 T465	Claim 1200 1384	I don't think the Soviet Union for one minute can sit down and make determination on what I will do if I'm ever in a position to have to do something with reference to the Soviet Union
 T466	Claim 1400 1514	I'm prepared to do whatever is necessary in order to secure this country and make sure that security is maintained
 T467	Claim 1526 1800	if the Soviet Union were to ever believe that they could challenge the United States with any sort of nuclear forces or otherwise, if I were in a position of leadership in this country, they would be assured that they would be met with swift, concise and certain retaliation
@@ -6,6 +15,7 @@ T468	Claim 1872 1975	I think as a leader that what one has to do is get to the p
 T469	Claim 2182 2293	I think that if you were to take a look at the failures of this administration that would have to be number one
 T470	Claim 2295 2361	I will not put myself in that position as a leader in this country
 T471	Claim 2363 2419	I will move immediately toward arms control negotiations
+T472	Claim 3631 3633	No
 T473	Claim 2128 2180	that's not what's been done over the past four years
 T474	Claim 2819 2866	we are not doing anything to stop the arms race
 T475	Claim 2892 3012	if we keep talking about military inferiority - which we do not have, we are at a comparable level with the Soviet Union
@@ -14,9 +24,13 @@ T477	Claim 3103 3243	I guess the thing that I'd want is a commitment that pretty
 T478	Claim 3635 3691	I think his strategy not only was correct but is correct
 T479	Premise 3739 3863	when we came into office, the American people recognized that we had slipped into positions of inferiority on various things
 T480	Premise 3693 3728	You've got to go back where we were
+T481	Claim 3865 3940	Some of our planes, as the president points out, were older than the pilots
 T482	Claim 4073 4162	we have had to strengthen the military and we're well on the way to getting that job done
+T483	Claim 4164 4273	America is back in terms of military strength, in terms of our ability to deter aggression and keep the peace
+T484	Premise -1 77; -1 77	we have made proposals and proposals and proposals on reducing nuclear weapons
 T485	Claim 3981 4022	you had a major problem with the military
 T486	Claim 4034 4068	the morale wasn't very good either
+T487	Premise 6625 6680	Peace at home - peace abroad - prosperity - opportunity
 T488	Premise 4402 4456	The Strategic Arms Reduction Talks were good proposals
 T489	Premise 4462 4497	it's the Soviets who left the table
 T490	Claim 4558 4600	I wish the Soviet Union had continued them
@@ -48,23 +62,11 @@ T517	Premise 7194 7326	in large measure, this administration's policies over the
 T518	Claim 7328 7425	That's not a great record on human rights and certainly not a record on human rights achievements
 T519	Premise 7427 7482	This administration spent a trillion dollars on defense
 T520	Claim 7488 7544	it hasn't gotten a trillion dollars on national security
-T433	Claim 805 966	It's about as valid as saying that you would have to be black in order to despise racism, that you'd have to be female in order to be terribly offended by sexism
-T449	Claim 972 990	that's just not so
-T460	Claim 1112 1198	I think that the people of this country can rely upon the fact that I will be a lender
-T462	Claim 992 1109	I think if you take a look at where I've been, both in the Congress and where I intend to go, the type of person I am
-T463	Claim -1 107; -1 107	the way you to that position of rnoving away from having to make a decision is by moving toward arms control
-T464	Claim 2679 2798	I guess the concern that I have is a concern not only as a vice-presidential candidate but as a citizen in this country
-T472	Claim 3631 3633	No
-T481	Claim 3865 3940	Some of our planes, as the president points out, were older than the pilots
 T696	Claim 3942 3975	ships that couldn't go out to sea
-T483	Claim 4164 4273	America is back in terms of military strength, in terms of our ability to deter aggression and keep the peace
-T484	Premise -1 77; -1 77	we have made proposals and proposals and proposals on reducing nuclear weapons
-T487	Premise 6625 6680	Peace at home - peace abroad - prosperity - opportunity
 R1	Attack Arg1:T433 Arg2:T461
 R2	Support Arg1:T433 Arg2:T449
 R3	Support Arg1:T462 Arg2:T460
 R4	Support Arg1:T467 Arg2:T466
-T1	Premise 1981 2123	the way you to that position of rnoving away from having to make a decision - armed force or anything else - is by moving toward arms control.
 R5	Support Arg1:T1 Arg2:T468
 R6	Attack Arg1:T1 Arg2:T473
 R7	Support Arg1:T473 Arg2:T469
@@ -85,13 +87,11 @@ R21	Attack Arg1:T482 Arg2:T485
 R22	Attack Arg1:T488 Arg2:T489
 R23	Attack Arg1:T492 Arg2:T493
 R24	Attack Arg1:T491 Arg2:T490
-T2	Claim 4302 4400	we have made proposals and proposals and proposals - sound proposals - on reducing nuclear weapons
 R25	Support Arg1:T488 Arg2:T2
 R26	Support Arg1:T491 Arg2:T2
 R27	Support Arg1:T492 Arg2:T2
 R28	Attack Arg1:T489 Arg2:T494
 R29	Support Arg1:T494 Arg2:T495
-T3	Claim 4905 5016	we're reducing - trying to talk to them, and are talking to them, in Vienna, about conventional force reduction
 R30	Support Arg1:T497 Arg2:T496
 R31	Support Arg1:T496 Arg2:T498
 R32	Support Arg1:T498 Arg2:T499

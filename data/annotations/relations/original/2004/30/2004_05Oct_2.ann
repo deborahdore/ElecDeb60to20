@@ -1,3 +1,22 @@
+T1	Premise 3648 3819	We also thought it was wrong to have a $20 billion fund out of which $7.5 billion was going to go to a no-bid contract for Halliburton, the vice president's former company
+T2	Claim 8077 8079	No
+T3	Claim 11851 11864	It's not true
+T4	Premise 19430 19485;19562 19622	They know that if you go, for example, to factcheck.com you can get the specific details with respect to Halliburton
+T5	Question 84 317	When the president says that Senator Kerry is emboldening enemies and you say that we could get hit again if voters make the wrong choice in November, are you saying that it would be a dangerous thing to have John Kerry as president?
+T6	Question 5025 5439	Part of what you have said and Senator Kerry has said that you are going to do in order to get us out of the problems in Iraq is to internationalize the effort.  Yet French and German officials have both said they have no intention even if John Kerry is elected of sending any troops into Iraq for any peacekeeping effort. Does that make your effort or your plan to internationalize this effort seem kind of naive?
+T7	Premise 9540 9649	90 percent of the coalition casualties, Mr. Vice President, the coalition casualties, are American casualties
+T8	Question 11081 11388	If this report that we've read about today is true, and if Vice President Cheney ordered it and asked about this, do you think that, in the future, that your administration or the Bush administration would have sufficient and accurate enough intelligence to be able to make decisions about where to go next?
+T9	Premise 12339 12519	The vice president has still not said anything about what Mr. Bremer said, about the failure to have adequate troops, the failure to be able to secure the country in the short term
+T10	Premise 14547 14611	He's the one you will see on the evening news beheading hostages
+T11	Premise 13657 13848	A CIA spokesman was quoted in that story as saying they had not yet reached the bottom line and there is still debate over this question of the relationship between Zarqawi and Saddam Hussein
+T12	Premise 13850 13933	The report also points out that at one point some of Zarqawi's people were arrested
+T13	Premise 13935 14073	Saddam personally intervened to have them released, supposedly at the request of Zarqawi  But let's look at what we know about Mr. Zarqawi
+T14	Premise 14244 14406	He set up shop in Baghdad, where he oversaw the poisons facility up at Khurmal (ph), where the terrorists were developing ricin and other deadly substances to use
+T15	Claim 14614 14648	He is, without question, a bad guy
+T16	Claim 14650 14686	He is, without question, a terrorist
+T17	Question 14982 15357	in June of 2000 when you were still CEO of Halliburton, you said that U.S. businesses should be allowed to do business with Iran because, quote, "Unilateral sanctions almost never work." After four years as vice president now, and with Iran having been declared by your administration as part of the "Axis of Evil," do you still believe that we should lift sanctions on Iran?
+T18	Premise 16166 16207	who've been negotiating with the Iranians
+T19	Premise 19819 20070	The facts are the vice president's company that he was CEO of, that did business with sworn enemies of the United States, paid millions of dollars in fines for providing false financial information, is under investigation for bribing foreign officials
 T200	Claim 357 425	I don't believe he has the qualities we need in a commander in chief
 T201	Premise 434 588	I don't think, based on his record, that he would pursue the kind of aggressive policies that need to be pursued if we're going to defeat these terrorists
 T202	Claim 945 966	his judgment's flawed
@@ -162,10 +181,6 @@ T365	Claim 20073 20129	The same company that got a $7.5 billion no-bid contract
 T366	Claim 20296 20337	they're getting every dime of their money
 T367	Premise 20131 20227	the rule is that part of their money is supposed to be withheld when they're under investigation
 T368	Premise 20229 20290	as they are now, for having overcharged the American taxpayer
-T1	Premise 3648 3819	We also thought it was wrong to have a $20 billion fund out of which $7.5 billion was going to go to a no-bid contract for Halliburton, the vice president's former company
-T2	Claim 8077 8079	No
-T3	Claim 11851 11864	It's not true
-T4	Premise 19430 19485;19562 19622	They know that if you go, for example, to factcheck.com you can get the specific details with respect to Halliburton
 R1	Support Arg1:T201 Arg2:T200
 R2	Support Arg1:T205 Arg2:T206
 R3	Support Arg1:T202 Arg2:T203
@@ -273,35 +288,20 @@ R107	Support Arg1:T363 Arg2:T360
 R108	Support Arg1:T368 Arg2:T367
 R109	Attack Arg1:T366 Arg2:T367
 R110	Support Arg1:T367 Arg2:T365
-T5	Question 84 317	When the president says that Senator Kerry is emboldening enemies and you say that we could get hit again if voters make the wrong choice in November, are you saying that it would be a dangerous thing to have John Kerry as president?
 R111	Support Arg1:T203 Arg2:T200
 R112	Support Arg1:T207 Arg2:T202
 R113	Support Arg1:T223 Arg2:T226
-T6	Question 5025 5439	Part of what you have said and Senator Kerry has said that you are going to do in order to get us out of the problems in Iraq is to internationalize the effort.  Yet French and German officials have both said they have no intention even if John Kerry is elected of sending any troops into Iraq for any peacekeeping effort. Does that make your effort or your plan to internationalize this effort seem kind of naive?
-T7	Premise 9540 9649	90 percent of the coalition casualties, Mr. Vice President, the coalition casualties, are American casualties
 R114	Support Arg1:T286 Arg2:T284
 R115	Support Arg1:T7 Arg2:T284
 R116	Support Arg1:T287 Arg2:T284
 R117	Attack Arg1:T289 Arg2:T7
 R118	Support Arg1:T293 Arg2:T289
-T8	Question 11081 11388	If this report that we've read about today is true, and if Vice President Cheney ordered it and asked about this, do you think that, in the future, that your administration or the Bush administration would have sufficient and accurate enough intelligence to be able to make decisions about where to go next?
-T9	Premise 12339 12519	The vice president has still not said anything about what Mr. Bremer said, about the failure to have adequate troops, the failure to be able to secure the country in the short term
-T10	Premise 14547 14611	He's the one you will see on the evening news beheading hostages
-T11	Premise 13657 13848	A CIA spokesman was quoted in that story as saying they had not yet reached the bottom line and there is still debate over this question of the relationship between Zarqawi and Saddam Hussein
-T12	Premise 13850 13933	The report also points out that at one point some of Zarqawi's people were arrested
-T13	Premise 13935 14073	Saddam personally intervened to have them released, supposedly at the request of Zarqawi  But let's look at what we know about Mr. Zarqawi
-T14	Premise 14244 14406	He set up shop in Baghdad, where he oversaw the poisons facility up at Khurmal (ph), where the terrorists were developing ricin and other deadly substances to use
-T15	Claim 14614 14648	He is, without question, a bad guy
-T16	Claim 14650 14686	He is, without question, a terrorist
-T17	Question 14982 15357	in June of 2000 when you were still CEO of Halliburton, you said that U.S. businesses should be allowed to do business with Iran because, quote, "Unilateral sanctions almost never work." After four years as vice president now, and with Iran having been declared by your administration as part of the "Axis of Evil," do you still believe that we should lift sanctions on Iran?
 R65	Support Arg1:T327 Arg2:T328
-T18	Premise 16166 16207	who've been negotiating with the Iranians
 R79	Support Arg1:T18 Arg2:T334
 R84	Support Arg1:T335 Arg2:T336
 R119	Support Arg1:T354 Arg2:T346
 R120	Support Arg1:T356 Arg2:T346
 R121	Support Arg1:T357 Arg2:T346
-T19	Premise 19819 20070	The facts are the vice president's company that he was CEO of, that did business with sworn enemies of the United States, paid millions of dollars in fines for providing false financial information, is under investigation for bribing foreign officials
 R122	Attack Arg1:T19 Arg2:T361
 R123	Support Arg1:T19 Arg2:T365
 R124	Equivalent Arg1:T278 Arg2:T269

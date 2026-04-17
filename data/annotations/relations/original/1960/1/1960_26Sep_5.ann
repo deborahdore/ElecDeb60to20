@@ -1,3 +1,8 @@
+T1	Premise 2053 2096	I do not say that I have made the decisions
+T2	Premise 2102 2230	I would say that no president should ever allow anybody else to make the major decisions, The president only makes the decisions
+T3	Premise 2232 2295	All that his advisers do is to give counsel when he asks for it
+T4	Premise 2550 2590	we came to the Congress in the same year
+T5	Claim 2592 2635	His experience has been different from mine
 T192	Claim 107 179	the question of executive leadership is a very important campaign issue,
 T194	Claim 415 510	you've had more governmental executive decision-making uh - experience than uh - your opponent.
 T195	Claim 1184 1348	I think it would be improper for the President of the United States to disclose uh - the instances in which members of his official family had made recommendations,
@@ -29,9 +34,6 @@ T220	Premise 3686 3876	I have met met uh - decisions over eight hundred times on
 T221	Claim 3381 3492	There are no guarantees that uh - if you take uh - one road or another that you will be a successful president.
 R1	Equivalent Arg1:T204 Arg2:T196
 R2	Support Arg1:T221 Arg2:T216
-T1	Premise 2053 2096	I do not say that I have made the decisions
-T2	Premise 2102 2230	I would say that no president should ever allow anybody else to make the major decisions, The president only makes the decisions
-T3	Premise 2232 2295	All that his advisers do is to give counsel when he asks for it
 R4	Attack Arg1:T1 Arg2:T198
 R5	Support Arg1:T2 Arg2:T198
 R6	Support Arg1:T3 Arg2:T198
@@ -42,9 +44,7 @@ R10	Support Arg1:T200 Arg2:T198
 R11	Support Arg1:T201 Arg2:T198
 R12	Support Arg1:T202 Arg2:T198
 R13	Support Arg1:T203 Arg2:T198
-T4	Premise 2550 2590	we came to the Congress in the same year
 R14	Support Arg1:T4 Arg2:T207
-T5	Claim 2592 2635	His experience has been different from mine
 R15	Support Arg1:T5 Arg2:T207
 R17	Support Arg1:T209 Arg2:T5
 R3	Support Arg1:T208 Arg2:T5

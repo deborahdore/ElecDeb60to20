@@ -1,3 +1,20 @@
+T1	Claim 5749 5756	you did
+T2	Premise 3045 3083	which means Americans can't come home.
+T3	Premise 4760 4775	these are facts
+T4	Premise 5154 5195	We all fight over how much money is there
+T5	Claim 5947 6003	let's do it on our terms when our interests are involved
+T6	Claim 6008 6066	not when somebody blows the whistle at the United Nations.
+T7	Premise 9007 9030	Senator Dole is correct
+T8	Claim 9691 9715	I hope that will happen.
+T9	Claim 12734 12800	So there are a lot of good things in this bill we should have done
+T10	Claim 12801 12875	instead of trying this massive, massive takeover by the Federal government
+T11	Claim 14550 14583	so it's a good it's a good start.
+T12	Premise 17763 17853	Senator Dole has two or three times before tonight criticized me for working with the U.N.
+T13	Claim 17854 17907	Now I'm being criticized for not working with the U.N
+T14	Premise 18887 18916	The Mideast is very difficult
+T15	Claim 21159 21228	The President has not called for an unconditional end to the violence
+T16	Claim 21230 21302	It seemed to me the violence stopped when these leaders came to America.
+T17	Claim 21393 21410	no doubt about it
 T363	Claim 239 264	he's not right about that
 T364	Claim 60 175	you practiced a photo-op foreign policy that has lessened the credibility of the United States throughout the world
 T365	Claim 1044 1085	We have worked hard for peace and freedom
@@ -29,6 +46,7 @@ T390	Premise 2245 2271	they didn't have the tanks
 T391	Premise 2273 2297	They asked for the tanks
 T392	Premise 2358 2381	we were nation building
 T393	Claim 3084 3248	Americans shouldn't have gone there in the first place, had we let them defend themselves, as they have a right to do under Article 57 of the United Nations charter
+T394	Claim 3027 3043	We're way behind
 T395	Premise 3005 3025	We haven't done that
 T396	Premise 2892 3003	We agreed to train and arm the Muslims so they could defend themselves, the policy you had when you ran in 1992
 T397	Premise 2410 2447	We turn it over to the United Nations
@@ -185,6 +203,7 @@ T550	Premise 16400 16459	We have learned that you give him an inch he'll take a 
 T551	Claim 16461 16483	We had to do something
 T552	Claim 16489 16626	even though not all of our allies supported it at first, I think most of them now believe that what we did was an appropriate thing to do
 T553	Claim 17091 17110	It's a real problem
+T554	Premise 16665 16737	the president's own CIA director says Saddam is stronger now than he was
 T555	Premise 16739 16830	I don't understand extending the no-fly zone in the south when the trouble was in the north
 T556	Premise 16836 16973	what we've done during the Bush administration, the Kurds were at the State Department, negotiating, trying to work their differences out
 T557	Premise 16975 17028	Now we've got all thousands and thousands of refugees
@@ -240,19 +259,16 @@ T606	Premise 21350 21367	it is unfortunate
 T607	Premise 21369 21391	it is a difficult area
 T608	Premise 21525 21612	I hope they talked and I hope they've reached some result and that the killing will end
 T1070	Claim 2299 2349	They didn't get the tanks from this administration
-T394	Claim 3027 3043	We're way behind
 T1071	Claim 5297 5398	then follow that policy instead of this bottom up review with all the services fighting for the money
 T1072	Premise 5470 5497	he cut defense $112 billion
 T1073	Claim 13390 13402	they said no
 T1074	Claim 14057 14094	I vetoed Senator Dole's Medicare plan
 T1075	Claim 14928 14955	no one will go without food
-T554	Premise 16665 16737	the president's own CIA director says Saddam is stronger now than he was
 T1076	Claim 18144 18170	that would have been wrong
 T1077	Claim 20002 20053	We have a very consistent policy in the Middle East
 T1078	Premise 20091 20124	to support the security of Israel
 T1079	Premise 20130 20187	to support those who are prepared to take risks for peace
 T1080	Premise 21303 21344	The killing and tragedies had taken place
-T1	Claim 5749 5756	you did
 R1	Support Arg1:T366 Arg2:T368
 R2	Support Arg1:T368 Arg2:T367
 R3	Attack Arg1:T367 Arg2:T363
@@ -286,7 +302,6 @@ R30	Support Arg1:T384 Arg2:T383
 R31	Attack Arg1:T383 Arg2:T376
 R32	Attack Arg1:T395 Arg2:T396
 R33	Support Arg1:T395 Arg2:T394
-T2	Premise 3045 3083	which means Americans can't come home.
 R34	Support Arg1:T2 Arg2:T394
 R35	Attack Arg1:T393 Arg2:T400
 R37	Support Arg1:T405 Arg2:T404
@@ -304,14 +319,12 @@ R47	Support Arg1:T413 Arg2:T414
 R48	Attack Arg1:T415 Arg2:T414
 R49	Support Arg1:T417 Arg2:T416
 R50	Attack Arg1:T415 Arg2:T416
-T3	Premise 4760 4775	these are facts
 R51	Support Arg1:T418 Arg2:T419
 R52	Support Arg1:T3 Arg2:T419
 R53	Attack Arg1:T422 Arg2:T415
 R54	Support Arg1:T423 Arg2:T422
 R55	Support Arg1:T420 Arg2:T423
 R56	Support Arg1:T421 Arg2:T424
-T4	Premise 5154 5195	We all fight over how much money is there
 R57	Support Arg1:T1071 Arg2:T424
 R58	Attack Arg1:T1071 Arg2:T4
 R59	Attack Arg1:T1072 Arg2:T426
@@ -321,8 +334,6 @@ R62	Support Arg1:T432 Arg2:T433
 R63	Support Arg1:T434 Arg2:T1
 R64	Support Arg1:T428 Arg2:T429
 R65	Support Arg1:T429 Arg2:T430
-T5	Claim 5947 6003	let's do it on our terms when our interests are involved
-T6	Claim 6008 6066	not when somebody blows the whistle at the United Nations.
 R66	Support Arg1:T430 Arg2:T5
 R67	Attack Arg1:T6 Arg2:T5
 R68	Support Arg1:T440 Arg2:T443
@@ -357,7 +368,6 @@ R96	Support Arg1:T470 Arg2:T468
 R97	Support Arg1:T471 Arg2:T472
 R98	Support Arg1:T472 Arg2:T473
 R99	Support Arg1:T473 Arg2:T468
-T7	Premise 9007 9030	Senator Dole is correct
 R100	Support Arg1:T467 Arg2:T7
 R101	Support Arg1:T467 Arg2:T465
 R102	Support Arg1:T466 Arg2:T465
@@ -366,7 +376,6 @@ R104	Support Arg1:T476 Arg2:T477
 R105	Attack Arg1:T475 Arg2:T474
 R106	Support Arg1:T475 Arg2:T466
 R107	Support Arg1:T478 Arg2:T477
-T8	Claim 9691 9715	I hope that will happen.
 R108	Support Arg1:T8 Arg2:T478
 R109	Support Arg1:T481 Arg2:T482
 R110	Support Arg1:T482 Arg2:T483
@@ -406,8 +415,6 @@ R143	Attack Arg1:T512 Arg2:T516
 R144	Support Arg1:T512 Arg2:T508
 R145	Support Arg1:T514 Arg2:T509
 R146	Support Arg1:T517 Arg2:T518
-T9	Claim 12734 12800	So there are a lot of good things in this bill we should have done
-T10	Claim 12801 12875	instead of trying this massive, massive takeover by the Federal government
 R147	Support Arg1:T518 Arg2:T9
 R148	Attack Arg1:T9 Arg2:T10
 R149	Support Arg1:T520 Arg2:T521
@@ -425,7 +432,6 @@ R160	Attack Arg1:T1074 Arg2:T529
 R161	Support Arg1:T531 Arg2:T530
 R162	Support Arg1:T532 Arg2:T530
 R163	Support Arg1:T533 Arg2:T530
-T11	Claim 14550 14583	so it's a good it's a good start.
 R164	Support Arg1:T530 Arg2:T11
 R165	Support Arg1:T536 Arg2:T535
 R166	Support Arg1:T535 Arg2:T534
@@ -461,8 +467,6 @@ R195	Support Arg1:T566 Arg2:T567
 R196	Support Arg1:T567 Arg2:T568
 R197	Attack Arg1:T569 Arg2:T568
 R198	Support Arg1:T570 Arg2:T568
-T12	Premise 17763 17853	Senator Dole has two or three times before tonight criticized me for working with the U.N.
-T13	Claim 17854 17907	Now I'm being criticized for not working with the U.N
 R199	Attack Arg1:T12 Arg2:T13
 R200	Support Arg1:T572 Arg2:T571
 R201	Support Arg1:T1076 Arg2:T574
@@ -474,7 +478,6 @@ R206	Attack Arg1:T575 Arg2:T574
 R207	Support Arg1:T578 Arg2:T579
 R208	Support Arg1:T579 Arg2:T577
 R209	Attack Arg1:T577 Arg2:T580
-T14	Premise 18887 18916	The Mideast is very difficult
 R210	Support Arg1:T14 Arg2:T585
 R211	Support Arg1:T587 Arg2:T586
 R212	Support Arg1:T586 Arg2:T588
@@ -499,13 +502,10 @@ R230	Support Arg1:T601 Arg2:T596
 R231	Support Arg1:T602 Arg2:T596
 R232	Support Arg1:T1077 Arg2:T600
 R233	Support Arg1:T603 Arg2:T600
-T15	Claim 21159 21228	The President has not called for an unconditional end to the violence
-T16	Claim 21230 21302	It seemed to me the violence stopped when these leaders came to America.
 R234	Attack Arg1:T15 Arg2:T600
 R235	Attack Arg1:T16 Arg2:T600
 R238	Support Arg1:T604 Arg2:T605
 R239	Support Arg1:T608 Arg2:T605
-T17	Claim 21393 21410	no doubt about it
 R236	Support Arg1:T607 Arg2:T17
 R237	Support Arg1:T606 Arg2:T17
 R240	Support Arg1:T606 Arg2:T1080

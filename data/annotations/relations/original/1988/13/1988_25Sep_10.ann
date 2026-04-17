@@ -1,3 +1,22 @@
+T1	Claim 3006 3021	That's not true
+T2	Claim 3131 3146	That's not true
+T3	Claim 5141 5161	Now we have a chance
+T4	Premise 2327 2369	t can never be because we make concessions
+T5	Claim 3159 3226	I have long ago said I supported the president on this other matter
+T6	Premise 3232 3260	I've said mistakes were made
+T7	Claim 3467 3518;3519 3621	But the point is sometimes the action- (Laughter)   BUSH: - has to be taken by the Federal Government and when we took action, it had a favorable response
+T8	Premise 5274 5332	all he can talk about-he goes around ranting about Noriega
+T9	Claim 4412 4445	You're judged by the whole record
+T10	Claim 4447 4482	You're judged by the entire record.
+T11	Claim 4817 4841	You judge on the record.
+T12	Premise 4483 4506	Are we closer to peace?
+T13	Premise 4507 4545	Are we doing better in anti-terrorism?
+T14	Premise 4546 4700	Should we have listened to my opponent who wanted to send the UN into the Persian Gulf or in spite of the mistakes of the past, are we doing better there?
+T15	Premise 4701 4778	How is our credibility with the GCC countries on the Western side of the Gulf
+T16	Premise 4780 4815	Is Iran talking to Iraq about peace
+T17	Premise 4842 4884	Are the Soviets coming out of Afghanistan?
+T18	Premise 4885 5098	How does it look in a program he called or some one of these marvelous Boston adjective up there and-about Angola-now, we have a chance-several Bostonians don't like it, but the rest of the country will understand
+T19	Premise 6613 6693	Well, let's concede that the administration has been doing business with Noriega
 T696	Claim 591 662	Peter, it's one of the most agonizing decisions a president has to make
 T697	Claim 664 718	These are American citizens, we care deeply about them
 T698	Premise 720 795	Their families care deeply about them, want them back and understandably so
@@ -33,8 +52,8 @@ T731	Claim 3370 3421	That is a very serious charge against the president
 T732	Premise 3423 3465	The matter has been thoroughly looked into
 T733	Claim 5119 5139	Now we have a chance
 T735	Claim 5172 5252	I think that I'd leave it right there and say that you judge on the whole record
-T737	Premise 5339 5411	I've told you what the intelligence briefing he received said about that
 T736	Claim 5452 5680	I'll make a deal with you, I will take the blame for those two incidents if you give me half the credit for all the good things that have happened in world peace since Ronald Reagan and I took over from the Carter administration
+T737	Premise 5339 5411	I've told you what the intelligence briefing he received said about that
 T738	Premise 5413 5442	He can talk about Iran/Contra
 T739	Claim 6216 6256	the matter of judgment is very important
 T740	Claim 6262 6317	I think it's important to understand what happened here
@@ -50,9 +69,6 @@ T749	Claim 7005 7046	You cannot make concessions to terrorists
 T750	Claim 6956 7003	We're not going to make those kinds of mistakes
 T751	Premise 6695 6805	Has made him a part of our foreign policy and has been funneling aid to Contras through convicted drug dealers
 T752	Claim 6811 6954	I think those are very very serious questions of judgment, which those of you who are watching us here tonight have a right to judge and review
-T1	Claim 3006 3021	That's not true
-T2	Claim 3131 3146	That's not true
-T3	Claim 5141 5161	Now we have a chance
 R1	Support Arg1:T697 Arg2:T696
 R2	Support Arg1:T698 Arg2:T696
 R3	Support Arg1:T696 Arg2:T699
@@ -73,7 +89,6 @@ R17	Support Arg1:T711 Arg2:T707
 R18	Support Arg1:T712 Arg2:T707
 R19	Support Arg1:T713 Arg2:T707
 R20	Support Arg1:T714 Arg2:T707
-T4	Premise 2327 2369	t can never be because we make concessions
 R21	Support Arg1:T4 Arg2:T715
 R22	Support Arg1:T715 Arg2:T718
 R23	Attack Arg1:T707 Arg2:T718
@@ -86,34 +101,20 @@ R29	Attack Arg1:T723 Arg2:T725
 R30	Support Arg1:T723 Arg2:T728
 R31	Support Arg1:T722 Arg2:T728
 R32	Attack Arg1:T2 Arg2:T728
-T5	Claim 3159 3226	I have long ago said I supported the president on this other matter
-T6	Premise 3232 3260	I've said mistakes were made
 R33	Attack Arg1:T6 Arg2:T5
 R34	Support Arg1:T6 Arg2:T730
 R35	Support Arg1:T732 Arg2:T731
 R36	Attack Arg1:T730 Arg2:T731
-T7	Claim 3467 3518;3519 3621	But the point is sometimes the action- (Laughter)   BUSH: - has to be taken by the Federal Government and when we took action, it had a favorable response
 R37	Support Arg1:T5 Arg2:T7
 R38	Support Arg1:T728 Arg2:T7
-T8	Premise 5274 5332	all he can talk about-he goes around ranting about Noriega
-T9	Claim 4412 4445	You're judged by the whole record
-T10	Claim 4447 4482	You're judged by the entire record.
-T11	Claim 4817 4841	You judge on the record.
-T12	Premise 4483 4506	Are we closer to peace?
-T13	Premise 4507 4545	Are we doing better in anti-terrorism?
-T14	Premise 4546 4700	Should we have listened to my opponent who wanted to send the UN into the Persian Gulf or in spite of the mistakes of the past, are we doing better there?
-T15	Premise 4701 4778	How is our credibility with the GCC countries on the Western side of the Gulf
-T16	Premise 4780 4815	Is Iran talking to Iraq about peace
 R39	Support Arg1:T9 Arg2:T10
 R40	Support Arg1:T11 Arg2:T10
-T17	Premise 4842 4884	Are the Soviets coming out of Afghanistan?
 R41	Support Arg1:T12 Arg2:T10
 R42	Support Arg1:T13 Arg2:T10
 R43	Attack Arg1:T13 Arg2:T14
 R44	Support Arg1:T15 Arg2:T10
 R45	Support Arg1:T16 Arg2:T10
 R46	Support Arg1:T17 Arg2:T10
-T18	Premise 4885 5098	How does it look in a program he called or some one of these marvelous Boston adjective up there and-about Angola-now, we have a chance-several Bostonians don't like it, but the rest of the country will understand
 R47	Support Arg1:T18 Arg2:T10
 R48	Equivalent Arg1:T3 Arg2:T733
 R49	Support Arg1:T733 Arg2:T735
@@ -129,7 +130,6 @@ R58	Attack Arg1:T743 Arg2:T741
 R59	Support Arg1:T742 Arg2:T743
 R60	Support Arg1:T744 Arg2:T745
 R61	Attack Arg1:T745 Arg2:T740
-T19	Premise 6613 6693	Well, let's concede that the administration has been doing business with Noriega
 R62	Support Arg1:T19 Arg2:T751
 R63	Attack Arg1:T752 Arg2:T751
 R64	Attack Arg1:T750 Arg2:T752

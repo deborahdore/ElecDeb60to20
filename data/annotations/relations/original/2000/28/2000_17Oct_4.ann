@@ -1,3 +1,7 @@
+T1	Claim 5774 5803	there has to be a consequence
+T2	Claim 5993 6022	there has to be a consequence
+T3	Premise 2816 2867	We have huge difference between us on this question
+T4	Claim 4172 4199	I said there was a contrast
 T155	Premise 279 365	I've heard a lot about education and the need to hold teachers and schools accountable
 T156	Claim 371 398	I certainly agree with that
 T157	Claim 735 776	it's hard to make people love one another
@@ -67,8 +71,6 @@ T222	Claim 7334 7375	we have to make sure that all of them are
 T223	Premise 7302 7328	most schools are excellent
 T224	Claim 7203 7274	I have an obligation to fight to make sure there are no failing schools
 T225	Claim 7124 7197	If I thought that there was no alternative, then I might feel differently
-T1	Claim 5774 5803	there has to be a consequence
-T2	Claim 5993 6022	there has to be a consequence
 R1	Support Arg1:T159 Arg2:T158
 R2	Support Arg1:T158 Arg2:T160
 R3	Support Arg1:T160 Arg2:T157
@@ -89,7 +91,6 @@ R17	Support Arg1:T180 Arg2:T173
 R18	Support Arg1:T171 Arg2:T172
 R19	Attack Arg1:T170 Arg2:T172
 R20	Support Arg1:T170 Arg2:T181
-T3	Premise 2816 2867	We have huge difference between us on this question
 R21	Attack Arg1:T3 Arg2:T181
 R22	Support Arg1:T201 Arg2:T198
 R23	Support Arg1:T198 Arg2:T199
@@ -101,7 +102,6 @@ R28	Support Arg1:T197 Arg2:T195
 R29	Support Arg1:T191 Arg2:T192
 R30	Support Arg1:T190 Arg2:T189
 R31	Support Arg1:T195 Arg2:T193
-T4	Claim 4172 4199	I said there was a contrast
 R32	Attack Arg1:T4 Arg2:T187
 R33	Support Arg1:T187 Arg2:T188
 R34	Support Arg1:T188 Arg2:T185

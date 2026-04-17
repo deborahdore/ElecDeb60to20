@@ -1,3 +1,14 @@
+T1	Claim 973 1087	I believe that we have uh - negotiated with the Soviet Union since I've been president from a position of strength
+T2	Premise 1123 1239	Shortly after I became president in uh - December of 1974, I met with uh - General Secretary Brezhnev in Vladivostok
+T3	Premise 1502 1642	I've negotiated at Vladivostok with uh - Mr. Brezhnev a limitation on the MIRVing of their ballistic missiles at a figure of thirteen-twenty
+T4	Claim 3699 3809	I don't believe, uh - Mr. Frankel that uh - the Yugoslavians consider themselves dominated by the Soviet Union
+T5	Premise 5794 5850	The Soviet Union, for instance, put pressure on Mr. Ford
+T6	Claim 562 662	We've virtually signed, in Helsinki, an agreement that the Russians have dominance in Eastern Europe
+T7	Claim 3373 3492	the Russians are not using Eastern Europe as their own sphere of influence in occupying mo- most of the countries there
+T8	Claim 5151 5293	apparently Mr. Ford has just endorsed, which said that there's an organic linkage between the Eastern European countries and the Soviet Union.
+T9	Premise 5318 5544	Mr. Ford convince the Polish-Americans and the Czech-Americans and the Hungarian-Americans in this country that those countries don't live under the domination and supervision of the Soviet Union behind the Iron - uh - Curtain
+T133	Premise 1244 1340	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
+T142	Claim 1378 1500	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
 T144	Claim 1650 1737	is the first time that any president has achieved a cap either on launchers or on MIRVs
 T145	Premise 1810 1869	The grain sales have been a benefit to American agriculture
 T146	Premise 1871 1964	We have achieved a five and three quarter year uh - sale of a minimum six million metric tons
@@ -36,13 +47,6 @@ T182	Premise 5952 5991	The Arabs have put pressure on Mr. Ford
 T183	Premise 5997 6105	he's yielded, and has permitted a boycott by the Arab countries of American businesses who trade with Israel
 T184	Premise 6107 6196	or who have American Jews owning or taking part in the management of American - companies
 T185	Premise 6198 6331	His own secretary of commerce had to be subpoenaed by the Congress to reveal the names of businesses who were subject to this boycott
-T133	Premise 1244 1340	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
-T142	Claim 1378 1500	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
-T1	Claim 973 1087	I believe that we have uh - negotiated with the Soviet Union since I've been president from a position of strength
-T3	Premise 1502 1642	I've negotiated at Vladivostok with uh - Mr. Brezhnev a limitation on the MIRVing of their ballistic missiles at a figure of thirteen-twenty
-T2	Premise 1123 1239	Shortly after I became president in uh - December of 1974, I met with uh - General Secretary Brezhnev in Vladivostok
-T4	Claim 3699 3809	I don't believe, uh - Mr. Frankel that uh - the Yugoslavians consider themselves dominated by the Soviet Union
-T5	Premise 5794 5850	The Soviet Union, for instance, put pressure on Mr. Ford
 R1	Support Arg1:T2 Arg2:T133
 R2	Support Arg1:T133 Arg2:T142
 R3	Support Arg1:T142 Arg2:T1
@@ -55,7 +59,6 @@ R9	Support Arg1:T147 Arg2:T148
 R10	Support Arg1:T149 Arg2:T148
 R11	Support Arg1:T148 Arg2:T1
 R12	Support Arg1:T150 Arg2:T151
-T6	Claim 562 662	We've virtually signed, in Helsinki, an agreement that the Russians have dominance in Eastern Europe
 R13	Attack Arg1:T151 Arg2:T6
 R14	Attack Arg1:T152 Arg2:T6
 R15	Support Arg1:T152 Arg2:T151
@@ -64,7 +67,6 @@ R17	Support Arg1:T154 Arg2:T155
 R18	Support Arg1:T155 Arg2:T156
 R19	Support Arg1:T156 Arg2:T157
 R20	Attack Arg1:T156 Arg2:T6
-T7	Claim 3373 3492	the Russians are not using Eastern Europe as their own sphere of influence in occupying mo- most of the countries there
 R21	Attack Arg1:T4 Arg2:T7
 R22	Attack Arg1:T159 Arg2:T7
 R23	Attack Arg1:T160 Arg2:T7
@@ -83,8 +85,6 @@ R35	Support Arg1:T166 Arg2:T165
 R36	Support Arg1:T168 Arg2:T169
 R37	Support Arg1:T167 Arg2:T169
 R38	Support Arg1:T169 Arg2:T170
-T8	Claim 5151 5293	apparently Mr. Ford has just endorsed, which said that there's an organic linkage between the Eastern European countries and the Soviet Union.
-T9	Premise 5318 5544	Mr. Ford convince the Polish-Americans and the Czech-Americans and the Hungarian-Americans in this country that those countries don't live under the domination and supervision of the Soviet Union behind the Iron - uh - Curtain
 R39	Support Arg1:T170 Arg2:T8
 R40	Support Arg1:T167 Arg2:T176
 R41	Attack Arg1:T9 Arg2:T160

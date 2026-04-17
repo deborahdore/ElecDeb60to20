@@ -1,3 +1,4 @@
+T1	Claim 533 563	It shouldn't happen in America
 T131	Claim 1024 1079	I think anybody who wears a uniform is a great American
 T132	Claim 354 433	we have 17,000 men and women today wearing our uniform that receive food stamps
 T133	Claim 435 465	It shouldn't happen in America
@@ -38,7 +39,6 @@ T168	Premise 3082 3138	The President told you in '92 he would cut it 67 billion
 T169	Premise 3140 3166	He cut 112 billion dollars
 T170	Claim 3171 3204	we're right on the edge right now
 T171	Claim 3225 3285	we ought to do is make those who wear the uniforms sacrifice
-T1	Claim 533 563	It shouldn't happen in America
 R1	Support Arg1:T132 Arg2:T133
 R2	Support Arg1:T134 Arg2:T1
 R3	Support Arg1:T1 Arg2:T136

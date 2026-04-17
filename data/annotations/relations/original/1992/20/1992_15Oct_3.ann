@@ -1,3 +1,11 @@
+T1	Premise 2893 3041	he raised the question of my father and said, well, your father, Prescott Bush, was against McCarthy, you should be ashamed of yourself, McCarthyism
+T2	Claim 3519 3639	I am deeply troubled by someone who demonstrates and organizes demonstration in a foreign land when his country's at war
+T3	Premise 4941 5038	Thank goodness the networks have a fact check so I don't have to just go blue in the face anymore
+T4	Claim 1151 1181	I couldn't agree with you more
+T5	Claim 1183 1211	couldn't agree with you more
+T6	Premise 2009 2052	It's so heavy they'd give you a broken back
+T7	Claim 5821 5869	I want to change the character of the presidency
+T8	Premise 5784 5819	I'm not interested in his character
 T110	Premise 1404 1509	I'm spending my money -- not PAC money, not foreign money, my money -- to take this message to the people
 T114	Claim 812 868	I've been buying 30-minute segments to talk about issues
 T115	Premise 1217 1282	I have said again and again and again let's get off mud wrestling
@@ -39,18 +47,12 @@ R1	Support Arg1:T119 Arg2:T120
 R2	Support Arg1:T119 Arg2:T121
 R3	Support Arg1:T131 Arg2:T130
 R4	Attack Arg1:T132 Arg2:T124
-T1	Premise 2893 3041	he raised the question of my father and said, well, your father, Prescott Bush, was against McCarthy, you should be ashamed of yourself, McCarthyism
 R5	Equivalent Arg1:T136 Arg2:T1
-T2	Claim 3519 3639	I am deeply troubled by someone who demonstrates and organizes demonstration in a foreign land when his country's at war
-T3	Premise 4941 5038	Thank goodness the networks have a fact check so I don't have to just go blue in the face anymore
 R6	Attack Arg1:T144 Arg2:T143
-T4	Claim 1151 1181	I couldn't agree with you more
-T5	Claim 1183 1211	couldn't agree with you more
 R7	Equivalent Arg1:T4 Arg2:T5
 R8	Support Arg1:T115 Arg2:T4
 R9	Support Arg1:T116 Arg2:T4
 R10	Support Arg1:T110 Arg2:T4
-T6	Premise 2009 2052	It's so heavy they'd give you a broken back
 R11	Support Arg1:T122 Arg2:T123
 R12	Support Arg1:T129 Arg2:T123
 R13	Support Arg1:T6 Arg2:T123
@@ -67,6 +69,4 @@ R23	Support Arg1:T143 Arg2:T142
 R24	Support Arg1:T145 Arg2:T144
 R25	Attack Arg1:T147 Arg2:T135
 R26	Support Arg1:T148 Arg2:T147
-T7	Claim 5821 5869	I want to change the character of the presidency
-T8	Premise 5784 5819	I'm not interested in his character
 R27	Support Arg1:T8 Arg2:T7

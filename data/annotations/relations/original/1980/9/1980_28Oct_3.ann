@@ -1,3 +1,9 @@
+T1	Claim 1300 1500	For example, a business that would not have, for a period of time, an increase in the property tax reflecting its development of the unused property that it was making wouldn't be any loss to the city
+T2	Claim 2491 2635	I talked to a man just briefly there who asked me one simple question: "Do I have reason to hope that I can someday take care of my family again
+T3	Premise 2637 2659	Nothing has been done.
+T4	Claim 3586 3631	I think that something can be done from there
+T5	Claim 6189 6289	Those who suffered from discrimination because of race or sex certainly knew we had a racial problem
+T6	Claim 6291 6347;6353 6383	We have gone a long way toward correcting these problems we still have a long way to go
 T156	Claim 659 745	I have been talking to a number of Congressmen who have much the same idea that I have
 T157	Claim 764 965	in the inner city areas, that in cooperation with the local government and the national Government, and using tax incentives and with cooperating with the private sector, that we have development zones
 T158	Premise 967 1130	Let the local entity, the city, declare this particular area, based on the standards of the percentage of people on welfare, unemployed, and so forth, in that area
@@ -18,20 +24,20 @@ T174	Claim 1819 1864	I think there are things to do in this regard
 T175	Claim 3137 3152	I believe in it
 T176	Premise 3210 3329	we've made great progress from the days when I was young and when this country didn't even know it had a racial problem
 T177	Premise 3154 3179	I am eternally optimistic
+T178	Claim 4824 4862	This has been a very successful effort
 T179	Claim 3499 3559	I believe the Presidency is what Teddy Roosevelt said it was
 T180	Claim 3561 3580	It's a bully pulpit
 T181	Claim 3641 3898	a goal for all of us should be that one day, things will be done neither because of nor in spite of any of the differences between us - ethnic differences or racial differences, whatever they may be - that we will have total equal opportunity for all people
 T182	Claim 3904 3965	I would do everything I could in my power to bring that about
-T178	Claim 4824 4862	This has been a very successful effort
 T183	Claim 5143 5259	We now are planning to continue the revitalization program with increased commitments of rapid transit, mass transit
 T184	Claim 5405 5442	We also are pursuing housing programs
 T185	Claim 4900 4959	we've had such an increase in the number of people employed
+T186	Claim 5716 5806	It's very important to us that this be done with the full involvement of minority citizens
+T187	Premise 5808 6057	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
 T188	Premise 4961 5141	Of the nine million people put to work in new jobs since I've been in office, 1.3 million of those has been among black Americans, and another million among those who speak Spanish
 T189	Premise 5261 5403	Under the windfall profits tax, we expect to spend about $43 billion in the next 10 years to rebuild the transportation systems of our country
 T190	Premise 5444 5525	We've had a 73% increase in the allotment of Federal funds for improved education
 T191	Premise 5527 5714	These are the kinds of efforts worked on a joint basis with community leaders, particularly in the minority areas of the central cities that have been deteriorating so rapidly in the past
-T186	Claim 5716 5806	It's very important to us that this be done with the full involvement of minority citizens
-T187	Premise 5808 6057	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
 T194	Claim 6914 6966	Ours is a nation of refugees, a nation of immigrants
 T195	Premise 6968 7246	Almost all of our citizens came here from other lands and now have hopes, which are being realized, for a better life, preserving their ethnic commitments, their family structures, their religious beliefs, preserving their relationships with their relatives in foreign countries
 T196	Premise 7252 7349	still holding themselves together in a very coherent society, which gives our nation its strength
@@ -57,7 +63,6 @@ T215	Premise 10124 10182	with a chance for our synthetic fuels program, solar po
 R1	Support Arg1:T157 Arg2:T156
 R2	Support Arg1:T158 Arg2:T157
 R3	Support Arg1:T159 Arg2:T158
-T1	Claim 1300 1500	For example, a business that would not have, for a period of time, an increase in the property tax reflecting its development of the unused property that it was making wouldn't be any loss to the city
 R4	Support Arg1:T162 Arg2:T1
 R5	Support Arg1:T165 Arg2:T164
 R6	Support Arg1:T1 Arg2:T174
@@ -67,13 +72,10 @@ R9	Support Arg1:T170 Arg2:T168
 R10	Support Arg1:T171 Arg2:T168
 R11	Support Arg1:T168 Arg2:T166
 R12	Support Arg1:T172 Arg2:T166
-T2	Claim 2491 2635	I talked to a man just briefly there who asked me one simple question: "Do I have reason to hope that I can someday take care of my family again
-T3	Premise 2637 2659	Nothing has been done.
 R13	Support Arg1:T3 Arg2:T2
 R14	Support Arg1:T2 Arg2:T166
 R15	Support Arg1:T177 Arg2:T175
 R16	Support Arg1:T176 Arg2:T175
-T4	Claim 3586 3631	I think that something can be done from there
 R17	Support Arg1:T4 Arg2:T175
 R18	Support Arg1:T181 Arg2:T4
 R19	Support Arg1:T185 Arg2:T178
@@ -83,9 +85,7 @@ R22	Support Arg1:T190 Arg2:T191
 R23	Support Arg1:T184 Arg2:T191
 R24	Support Arg1:T183 Arg2:T191
 R25	Support Arg1:T187 Arg2:T186
-T5	Claim 6189 6289	Those who suffered from discrimination because of race or sex certainly knew we had a racial problem
 R26	Support Arg1:T5 Arg2:T187
-T6	Claim 6291 6347;6353 6383	We have gone a long way toward correcting these problems we still have a long way to go
 R27	Support Arg1:T190 Arg2:T6
 R28	Support Arg1:T195 Arg2:T194
 R29	Support Arg1:T198 Arg2:T197

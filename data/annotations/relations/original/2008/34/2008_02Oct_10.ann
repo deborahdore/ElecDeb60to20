@@ -1,3 +1,10 @@
+T1	Premise 382 410	My recommendations on Bosnia
+T2	Claim 2377 2617	And you had supported John McCain's military strategies pretty adamantly until this race and you had opposed very adamantly Barack Obama's military strategy, including cutting off funding for the troops that attempt all through the primary.
+T3	Premise 7816 7910	As for disagreeing with John McCain and how our administration would work, what do you expect?
+T4	Premise 8103 8260	I have so appreciated he has never asked me to check my opinions at the door and he wants a deliberative debate and healthy debate so we can make good policy
+T5	Claim 9141 9272	you're going to be supporting a ticket that wants to increase taxes, which ultimately kills jobs, and is going to hurt our economy.
+T6	Claim 8987 9137	you're going to have a choice in just a few weeks here on either supporting a ticket that wants to create jobs and bolster our economy and win the war
+T7	Premise 11068 11261	My brother, who I think is the best schoolteacher in the year, and here's a shout-out to all those third graders at Gladys Wood Elementary School, you get extra credit for watching this debate.
 T297	Claim 3603 3613	Absolutely
 T527	Claim 325 380	I think the American public has the stomach for success
 T528	Premise 496 565	And initially John McCain opposed it along with a lot of other people
@@ -107,7 +114,6 @@ T634	Claim 11738 11768	it's near and dear to my heart
 T635	Premise 11689 11736	My kids as public school participants right now
 T636	Premise 11770 11833	I'm very, very concerned about where we're going with education
 T637	Claim 11838 11900	we have got to ramp it up and put more attention in that arena
-T1	Premise 382 410	My recommendations on Bosnia
 R1	Support Arg1:T1 Arg2:T531
 R2	Support Arg1:T531 Arg2:T530
 R3	Attack Arg1:T530 Arg2:T528
@@ -125,7 +131,6 @@ R14	Support Arg1:T546 Arg2:T547
 R15	Support Arg1:T548 Arg2:T549
 R16	Attack Arg1:T550 Arg2:T549
 R18	Support Arg1:T554 Arg2:T553
-T2	Claim 2377 2617	And you had supported John McCain's military strategies pretty adamantly until this race and you had opposed very adamantly Barack Obama's military strategy, including cutting off funding for the troops that attempt all through the primary.
 R17	Support Arg1:T552 Arg2:T2
 R19	Support Arg1:T558 Arg2:T557
 R20	Support Arg1:T555 Arg2:T554
@@ -159,18 +164,14 @@ R49	Support Arg1:T588 Arg2:T592
 R50	Support Arg1:T592 Arg2:T594
 R42	Support Arg1:T591 Arg2:T590
 R44	Attack Arg1:T594 Arg2:T593
-T3	Premise 7816 7910	As for disagreeing with John McCain and how our administration would work, what do you expect?
 R51	Support Arg1:T3 Arg2:T596
 R52	Support Arg1:T596 Arg2:T597
 R53	Support Arg1:T598 Arg2:T597
-T4	Premise 8103 8260	I have so appreciated he has never asked me to check my opinions at the door and he wants a deliberative debate and healthy debate so we can make good policy
 R54	Support Arg1:T4 Arg2:T599
 R55	Support Arg1:T599 Arg2:T600
 R56	Support Arg1:T600 Arg2:T601
 R57	Support Arg1:T602 Arg2:T601
 R58	Support Arg1:T603 Arg2:T601
-T5	Claim 9141 9272	you're going to be supporting a ticket that wants to increase taxes, which ultimately kills jobs, and is going to hurt our economy.
-T6	Claim 8987 9137	you're going to have a choice in just a few weeks here on either supporting a ticket that wants to create jobs and bolster our economy and win the war
 R59	Support Arg1:T604 Arg2:T601
 R60	Attack Arg1:T6 Arg2:T5
 R61	Support Arg1:T601 Arg2:T6
@@ -190,7 +191,6 @@ R74	Support Arg1:T620 Arg2:T619
 R75	Support Arg1:T619 Arg2:T622
 R76	Support Arg1:T624 Arg2:T625
 R77	Support Arg1:T625 Arg2:T626
-T7	Premise 11068 11261	My brother, who I think is the best schoolteacher in the year, and here's a shout-out to all those third graders at Gladys Wood Elementary School, you get extra credit for watching this debate.
 R78	Support Arg1:T626 Arg2:T7
 R79	Support Arg1:T623 Arg2:T622
 R80	Support Arg1:T7 Arg2:T623

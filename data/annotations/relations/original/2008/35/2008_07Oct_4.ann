@@ -1,3 +1,5 @@
+T1	Premise 3519 3661	I saw it done with our -- our wonderful Ronald Reagan, a conservative from California, and the liberal Democrat Tip O'Neill from Massachusetts
+T2	Premise 3495 3516	It's been done before
 T362	Claim 818 852	I think we've got to do it quickly
 T363	Claim 770 813	we're going to have to take on entitlements
 T364	Premise 854 893	We're going to have a lot of work to do
@@ -80,8 +82,6 @@ R14	Support Arg1:T373 Arg2:T369
 R32	Support Arg1:T370 Arg2:T373
 R33	Attack Arg1:T379 Arg2:T380
 R34	Attack Arg1:T378 Arg2:T382
-T1	Premise 3519 3661	I saw it done with our -- our wonderful Ronald Reagan, a conservative from California, and the liberal Democrat Tip O'Neill from Massachusetts
-T2	Premise 3495 3516	It's been done before
 R36	Support Arg1:T1 Arg2:T2
 R35	Support Arg1:T2 Arg2:T391
 R37	Support Arg1:T391 Arg2:T393

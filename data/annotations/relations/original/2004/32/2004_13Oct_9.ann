@@ -1,3 +1,4 @@
+T1	Claim 4684 4711	That is an outrageous claim
 T554	Claim 168 227	at least 8,000 people cross our borders illegally every day
 T555	Claim 229 273	Some people believe this is a security issue
 T556	Claim 288 323	Some believe it's an economic issue
@@ -105,7 +106,6 @@ R28	Attack Arg1:T613 Arg2:T603
 R29	Support Arg1:T615 Arg2:T614
 R30	Support Arg1:T616 Arg2:T614
 R31	Support Arg1:T618 Arg2:T617
-T1	Claim 4684 4711	That is an outrageous claim
 R32	Support Arg1:T614 Arg2:T1
 R33	Support Arg1:T619 Arg2:T622
 R34	Support Arg1:T624 Arg2:T623

@@ -1,3 +1,5 @@
+T1	Premise 1850 2102	I have had extraordinary opportunities, thanks again to those folks back home in Connecticut, Â as a state senator, attorney general trying to enforce the law to protect them and the environment and consumers, and to litigate on behalf of humans rights
+T2	Premise 5031 5103	et me talk about that joke about religion which I found very distasteful
 T599	Claim 430 529	I think the areas that I would bring are the things that Governor Bush emphasized when he picked me
 T600	Premise 141 194	We clearly come from different political perspectives
 T601	Premise 196 230	Joe is a Democrat from New England
@@ -58,7 +60,6 @@ R6	Support Arg1:T616 Arg2:T611
 R7	Support Arg1:T617 Arg2:T611
 R8	Support Arg1:T618 Arg2:T611
 R9	Support Arg1:T619 Arg2:T611
-T1	Premise 1850 2102	I have had extraordinary opportunities, thanks again to those folks back home in Connecticut, Â as a state senator, attorney general trying to enforce the law to protect them and the environment and consumers, and to litigate on behalf of humans rights
 R10	Support Arg1:T624 Arg2:T614
 R11	Support Arg1:T622 Arg2:T614
 R12	Support Arg1:T621 Arg2:T614
@@ -72,7 +73,6 @@ R19	Support Arg1:T632 Arg2:T628
 R20	Support Arg1:T626 Arg2:T632
 R21	Support Arg1:T625 Arg2:T628
 R22	Support Arg1:T633 Arg2:T625
-T2	Premise 5031 5103	et me talk about that joke about religion which I found very distasteful
 R23	Attack Arg1:T2 Arg2:T632
 R24	Support Arg1:T635 Arg2:T634
 R25	Attack Arg1:T634 Arg2:T632

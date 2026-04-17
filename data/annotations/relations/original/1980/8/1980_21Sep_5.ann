@@ -1,3 +1,13 @@
+T1	Claim 1151 1277	I believe that all too often in past elections, politicians have simply been promising people things that they cannot deliver.
+T2	Premise 1067 1141	to tell the voters of this country exactly what I think it's going to cost
+T3	Claim 2407 2516	I have been very careful in saying that what I'm going to do is to bring Federal spending under control first
+T4	Premise 4287 4326	ohn's been in the Congress for 20 years
+T5	Premise 4333 4413	ohn tells us that first, we've got to reduce spending before we can reduce taxes
+T6	Premise 4421 4520	if you've got a kid that's extravagant, you can lecture him all you want to about his extravagance.
+T7	Premise 4524 4588	you can cut his allowance and achieve the same end much quicker.
+T8	Premise 4589 4671	But Government has never reduced Government does not tax to get the money it needs
+T9	Premise 4673 4714	Government always needs the money it gets
+T10	Claim 4725 4889	John talks about his non-inflationary plan, as far as I have been able to learn, there are 88 proposals in it that call for additional Government spending programs.
 T211	Premise 1278 1537	When these Presidential Debates were held just four years ago, I remember the incumbent President, who was willing to debate, President Ford, telling the American people that they simply ought not to vote for somebody who promised more than they could deliver
 T212	Premise 1545 1573	we've seen what has happened
 T213	Claim 1575 1646	We haven't gotten either the economies in Government that were promised
@@ -51,9 +61,6 @@ T260	Premise 8032 8111	John doesn't quite realize - he's never held an executive
 T261	Claim 8331 8432	we reduced, in proportion of other states, the per capita spending, the per capita size of Government
 T262	Premise 8435 8538	we only increased the size of Government one-twelfth what it had increased in the preceding eight years
 T263	Premise 8544 8729	one journal, the San Francisco Chronicle, a respected newspaper, said there was no question about the fact that Governor Reagan had prevented the State of California from going bankrupt
-T1	Claim 1151 1277	I believe that all too often in past elections, politicians have simply been promising people things that they cannot deliver.
-T2	Premise 1067 1141	to tell the voters of this country exactly what I think it's going to cost
-T3	Claim 2407 2516	I have been very careful in saying that what I'm going to do is to bring Federal spending under control first
 R1	Support Arg1:T211 Arg2:T1
 R2	Support Arg1:T2 Arg2:T1
 R3	Support Arg1:T211 Arg2:T212
@@ -80,13 +87,6 @@ R23	Support Arg1:T228 Arg2:T229
 R24	Support Arg1:T230 Arg2:T229
 R25	Support Arg1:T231 Arg2:T232
 R26	Support Arg1:T233 Arg2:T232
-T4	Premise 4287 4326	ohn's been in the Congress for 20 years
-T5	Premise 4333 4413	ohn tells us that first, we've got to reduce spending before we can reduce taxes
-T6	Premise 4421 4520	if you've got a kid that's extravagant, you can lecture him all you want to about his extravagance.
-T7	Premise 4524 4588	you can cut his allowance and achieve the same end much quicker.
-T8	Premise 4589 4671	But Government has never reduced Government does not tax to get the money it needs
-T9	Premise 4673 4714	Government always needs the money it gets
-T10	Claim 4725 4889	John talks about his non-inflationary plan, as far as I have been able to learn, there are 88 proposals in it that call for additional Government spending programs.
 R27	Support Arg1:T4 Arg2:T5
 R28	Support Arg1:T5 Arg2:T6
 R29	Support Arg1:T6 Arg2:T7

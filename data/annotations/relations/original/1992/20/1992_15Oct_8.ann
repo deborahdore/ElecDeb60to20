@@ -1,3 +1,10 @@
+T1	Premise 2984 3006	This is very important
+T2	Premise 906 965	if you analyze where we're out of line with other countries
+T3	Claim 1023 1176	we spend at least $60 billion a year on insurance, administrative cost, bureaucracy, and government regulation that wouldn't be spent in any other nation
+T4	Claim 3668 3670	No
+T5	Claim 4252 4428	make insurance available to the poorest of the poor, through vouchers, next range in the income bracket, through tax credits, and get on about the business of pooling insurance
+T6	Claim 6490 6547	The facts are you now have a government that comes at you
+T7	Premise 7003 7054	Who do they represent? Health care industry. Not us
 T388	Claim 1720 1761	I think you have to take on medical fraud
 T389	Claim 1592 1718	I think you have to tell the pharmaceutical companies they can't keep raising drug prices at three times the rate of inflation
 T390	Claim 1422 1590	I think you have to take on specifically the insurance companies and require them to make some significant change in the way they rate people in the big community pools
@@ -19,10 +26,10 @@ T407	Premise 2692 2724	some people say we can't do this
 T408	Premise 2729 2743	Hawaii does it
 T409	Premise 2745 2879	They cover 98% of their people and their insurance premiums are much cheaper than the rest of America, and so does Rochester, New York
 T410	Premise 2881 2981	They now have a plan to cover everybody and their premiums are two-thirds of the rest of the country
+T411	Claim 5439 5466	I think it's a good program
 T412	Premise 3008 3079	It's a big human problem and a devastating economic problem for America
 T413	Claim 3085 3163	I'm going to send a plan to do this within the first 100 days of my presidency
 T414	Premise 3165 3188	It's terribly important
-T411	Claim 5439 5466	I think it's a good program
 T415	Claim 5081 5170	If you leave a business, I think your insurance should go with you to some other business
 T416	Claim 5033 5079	I think medical care should go with the person
 T417	Claim 3672 3720	One thing to blame is these malpractice lawsuits
@@ -87,8 +94,6 @@ T483	Premise 8519 8544	I ask you to look at that
 T484	Premise 8593 8627	That's what you have elections for
 T485	Claim 8629 8734	If people would say, well, he got elected to do this and then the Congress says, okay, I'm going to do it
 T486	Premise 8736 8770	That's what the election was about
-T2	Premise 906 965	if you analyze where we're out of line with other countries
-T3	Claim 1023 1176	we spend at least $60 billion a year on insurance, administrative cost, bureaucracy, and government regulation that wouldn't be spent in any other nation
 R1	Support Arg1:T3 Arg2:T400
 R2	Support Arg1:T2 Arg2:T3
 R3	Support Arg1:T397 Arg2:T3
@@ -105,11 +110,9 @@ R13	Support Arg1:T408 Arg2:T409
 R14	Support Arg1:T409 Arg2:T410
 R15	Support Arg1:T414 Arg2:T413
 R16	Support Arg1:T412 Arg2:T413
-T1	Premise 2984 3006	This is very important
 R17	Equivalent Arg1:T1 Arg2:T414
 R18	Support Arg1:T408 Arg2:T393
 R19	Support Arg1:T410 Arg2:T393
-T4	Claim 3668 3670	No
 R20	Attack Arg1:T4 Arg2:T418
 R21	Support Arg1:T417 Arg2:T4
 R22	Support Arg1:T423 Arg2:T417
@@ -120,7 +123,6 @@ R27	Support Arg1:T428 Arg2:T430
 R28	Equivalent Arg1:T430 Arg2:T4
 R29	Support Arg1:T428 Arg2:T417
 R25	Support Arg1:T426 Arg2:T417
-T5	Claim 4252 4428	make insurance available to the poorest of the poor, through vouchers, next range in the income bracket, through tax credits, and get on about the business of pooling insurance
 R30	Support Arg1:T438 Arg2:T437
 R31	Support Arg1:T415 Arg2:T416
 R32	Support Arg1:T446 Arg2:T416
@@ -137,9 +139,7 @@ R38	Support Arg1:T460 Arg2:T455
 R43	Support Arg1:T465 Arg2:T455
 R45	Support Arg1:T454 Arg2:T456
 R46	Support Arg1:T453 Arg2:T454
-T6	Claim 6490 6547	The facts are you now have a government that comes at you
 R47	Support Arg1:T466 Arg2:T465
-T7	Premise 7003 7054	Who do they represent? Health care industry. Not us
 R48	Support Arg1:T7 Arg2:T466
 R49	Support Arg1:T455 Arg2:T467
 R50	Equivalent Arg1:T457 Arg2:T467

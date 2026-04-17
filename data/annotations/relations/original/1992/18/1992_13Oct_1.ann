@@ -1,3 +1,4 @@
+T1	Premise 2240 2273	I'll make you a deal this evening
 T2	Premise 1744 1836	our discussion this evening will be about what kind of nation we want to be 4 years from now
 T3	Claim 1928 1977	it's a special honor to share this stage with you
 T4	Premise 1979 2107	Those of us who served in Vietnam looked at you as a national hero even before you were awarded the Congressional Medal of Honor
@@ -60,8 +61,11 @@ T60	Premise 5683 5731	Ten years in Vietnam, aerial combat, and torture
 T61	Claim 5733 5801	I know things about the Vietnam War better than anybody in the world
 T62	Claim 5803 5876	I know some things about the Vietnam War better than anybody in the world
 T63	Premise 6048 6152	I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam
+T64	Premise 6432 6454	Why am I here tonight?
 T65	Premise 6154 6265	You should know that the American character displayed in those dungeons by those fine men was a thing of beauty
 T66	Premise 6268 6429	I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans
+T67	Claim 2796 2847	But our real discussion is going to be about change
+T68	Premise 5101 5135	Can you really trust Bill Clinton?
 T645	Premise 2631 2732	only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis
 T646	Premise 3070 3093	paralyzed into inaction
 T647	Premise 3095 3175	blinded to the suffering and pain of bankruptcies and people who were unemployed
@@ -70,8 +74,6 @@ T649	Claim 4890 4951	who has the integrity and qualifications to handle the cris
 T650	Claim 5312 5373	don't expect me to use the language of the Washington insider
 T651	Claim 5965 5987	how they can be callow
 T652	Claim 6473 6557	I have in my brain and in my heart what it takes to lead America through tough times
-T1	Premise 2240 2273	I'll make you a deal this evening
-T67	Claim 2796 2847	But our real discussion is going to be about change
 R1	Support Arg1:T5 Arg2:T3
 R2	Support Arg1:T4 Arg2:T3
 R3	Support Arg1:T6 Arg2:T3
@@ -123,7 +125,6 @@ R48	Support Arg1:T44 Arg2:T46
 R49	Support Arg1:T44 Arg2:T45
 R50	Attack Arg1:T46 Arg2:T25
 R51	Support Arg1:T45 Arg2:T46
-T68	Premise 5101 5135	Can you really trust Bill Clinton?
 R52	Support Arg1:T45 Arg2:T47
 R53	Support Arg1:T46 Arg2:T47
 R54	Support Arg1:T44 Arg2:T47
@@ -164,6 +165,5 @@ R88	Support Arg1:T65 Arg2:T48
 R89	Support Arg1:T66 Arg2:T48
 R90	Support Arg1:T65 Arg2:T66
 R91	Support Arg1:T63 Arg2:T66
-T64	Premise 6432 6454	Why am I here tonight?
 R92	Support Arg1:T64 Arg2:T652
 R93	Support Arg1:T48 Arg2:T652

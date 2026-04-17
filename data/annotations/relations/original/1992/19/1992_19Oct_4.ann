@@ -1,3 +1,4 @@
+T20	Premise 3873 3957	We went to the UN, we made historic resolutions up there, the whole world was united
 T426	Claim 431 513	In order to lead, you first have to use the White House as a bully pulpit and lead
 T427	Claim 520 580	you have to develop consensus or you can't get anything done
 T428	Claim 611 637	We can't get anything done
@@ -40,7 +41,6 @@ T464	Claim 4203 4218	I'm glad we did
 T465	Premise 4228 4377	if we had let sanctions work and tried to build a consensus on that, Saddam Hussein today would be in Saudi Arabia controlling the world's oil supply
 T466	Premise 4383 4428	he would be there maybe with a nuclear weapon
 T467	Premise 4430 4460	We busted the 4th largest army
-T20	Premise 3873 3957	We went to the UN, we made historic resolutions up there, the whole world was united
 R1	Support Arg1:T429 Arg2:T427
 R2	Support Arg1:T427 Arg2:T428
 R3	Support Arg1:T430 Arg2:T428

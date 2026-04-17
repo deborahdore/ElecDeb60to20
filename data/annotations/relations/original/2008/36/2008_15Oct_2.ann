@@ -1,3 +1,10 @@
+T1	Claim 5253 5280	I know how to save billions
+T2	Premise 1265 1337	what I've done throughout this campaign is to propose a net spending cut
+T3	Premise 3550 3610	this was a proposal made by Senator Clinton not too long ago
+T4	Premise 4437 4479	we have presided over the largest increase
+T5	Claim 8430 8530	Americans are hurting tonight and they're angry and I understand that, and they want a new direction
+T6	Claim 8871 8924	the fact is, let's look at our records, Senator Obama
+T7	Claim 8926 9063	Let's look at it as graded by the National Taxpayers Union and the Citizens Against Government Waste and the other watchdog organizations
 T96	Claim 867 1109	I think it's important for the American public to understand that the $750 billion rescue package, if it's structured properly, and, as president, I will make sure it's structured properly, means that ultimately taxpayers get their money back
 T97	Claim 1538 1586	I have been a strong proponent of pay-as- you-go
 T98	Claim 1588 1671	Every dollar that I've proposed, I've proposed an additional cut so that it matches
@@ -116,9 +123,7 @@ T211	Premise 11454 11535	fighting the pharmaceutical companies on Medicare presc
 T212	Premise 11551 11595	fighting for an HMO patient's bill of rights
 T213	Premise 11611 11651	the establishment of the 9/11 Commission
 T214	Claim 11654 11746	I have a long record of reform and fighting through on the floor of the United States Senate
-T1	Claim 5253 5280	I know how to save billions
 R1	Support Arg1:T101 Arg2:T100
-T2	Premise 1265 1337	what I've done throughout this campaign is to propose a net spending cut
 R2	Support Arg1:T2 Arg2:T100
 R3	Support Arg1:T98 Arg2:T97
 R4	Support Arg1:T103 Arg2:T104
@@ -134,11 +139,9 @@ R13	Support Arg1:T115 Arg2:T116
 R14	Support Arg1:T119 Arg2:T118
 R15	Support Arg1:T120 Arg2:T118
 R16	Support Arg1:T118 Arg2:T121
-T3	Premise 3550 3610	this was a proposal made by Senator Clinton not too long ago
 R17	Support Arg1:T121 Arg2:T117
 R18	Support Arg1:T123 Arg2:T122
 R19	Support Arg1:T122 Arg2:T125
-T4	Premise 4437 4479	we have presided over the largest increase
 R20	Support Arg1:T127 Arg2:T126
 R21	Support Arg1:T4 Arg2:T127
 R22	Support Arg1:T133 Arg2:T132
@@ -163,11 +166,8 @@ R40	Support Arg1:T168 Arg2:T170
 R41	Support Arg1:T175 Arg2:T174
 R42	Support Arg1:T177 Arg2:T173
 R43	Support Arg1:T176 Arg2:T173
-T5	Claim 8430 8530	Americans are hurting tonight and they're angry and I understand that, and they want a new direction
-T6	Claim 8871 8924	the fact is, let's look at our records, Senator Obama
 R44	Support Arg1:T186 Arg2:T6
 R45	Support Arg1:T185 Arg2:T6
-T7	Claim 8926 9063	Let's look at it as graded by the National Taxpayers Union and the Citizens Against Government Waste and the other watchdog organizations
 R46	Support Arg1:T7 Arg2:T6
 R47	Support Arg1:T181 Arg2:T6
 R48	Support Arg1:T183 Arg2:T6

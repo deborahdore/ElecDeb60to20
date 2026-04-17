@@ -20,20 +20,22 @@ T258	Premise 1803 1865	Donald is pushed on something which is obviously uncomfor
 T259	Premise 1901 1946	he immediately goes to denying responsibility
 T260	Premise 1952 1977	it's not just about women
 T261	Claim 2039 2044	Wrong
+T262	Claim 3180 3206	I think that's been proven
 T263	Claim 2489 2527	she talks about violence at my rallies
 T264	Claim 2533 2556	she caused the violence
+T270	Claim 10673 10697	I think it's disgraceful
 T271	Claim 2607 2633	The other things are false
 T272	Claim 2788 2808	she knows, are false
 T273	Claim 3054 3142	I did as secretary of state was in furtherance of our country's interests and our values
 T274	Premise 3144 3178	The State Department has said that
-T262	Claim 3180 3206	I think that's been proven
+T275	Claim 10699 10722	I think it's a disgrace
 T277	Premise 4356 4514	the Clinton Foundation spend 90 percent -- 90 percent of all the money that is donated on behalf of programs of people around the world and in our own country
 T278	Claim 4005 4031	It's a criminal enterprise
 T279	Premise 4033 4095	Saudi Arabia giving $25 million, Qatar, all of these countries
+T280	Claim 4778 4801	It just was astonishing
 T281	Premise 4141 4202	these are people that push gays off business -- off buildings
 T282	Premise 4204 4261	These are people that kill women and treat women horribly
 T283	Claim 4271 4291	you take their money
-T280	Claim 4778 4801	It just was astonishing
 T284	Premise 4631 4753	compare what we do with the Trump Foundation, which took money from other people and bought a six- foot portrait of Donald
 T285	Claim 4540 4609	We have the highest rating from the watchdogs that follow foundations
 T286	Premise 4844 4893	it's an important part of the American experience
@@ -84,10 +86,8 @@ T334	Premise 9789 9820	We've been around for 240 years
 T335	Premise 9822 9855	We've had free and fair elections
 T336	Premise 9857 9916	We've accepted the outcomes when we may not have liked them
 T338	Claim 9922 10014	that is what must be expected of anyone standing on a debate stage during a general election
-T341	Claim 10396 10488	somebody who is the nominee of one of our two major parties would take that kind of position
 T339	Claim 10751 10809	I think we've never had a situation so bad in this country
-T270	Claim 10673 10697	I think it's disgraceful
-T275	Claim 10699 10722	I think it's a disgrace
+T341	Claim 10396 10488	somebody who is the nominee of one of our two major parties would take that kind of position
 R1	Attack Arg1:T238 Arg2:T237
 R2	Attack Arg1:T239 Arg2:T238
 R3	Attack Arg1:T240 Arg2:T238

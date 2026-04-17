@@ -1,3 +1,8 @@
+T1	Premise 7435 7461	people made a lot of money
+T2	Claim 7763 7785	He's just not credible
+T3	Claim 4466 4499;4656 4717	Because we cut taxes on everybody the recession was one of the shortest in our nation's history
+T4	Claim 8623 8648	he's going to raise taxes
+T5	Premise 9924 9933	We did it
 T571	Claim 982 1014	We've got to pay our troops more
 T572	Claim 1212 1269	I think we have an obligation to spend that kind of money
 T573	Claim 1376 1445	I think if you raise taxes during a recession, you head to depression
@@ -118,14 +123,10 @@ T691	Premise 10122 10154	He voted 98 times to raise taxes
 T692	Premise 10164 10192	these aren't make-up figures
 T693	Claim 10201 10247	people are going to have to look at the record
 T694	Claim 10249 10304	Look at the record of the man running for the president
-T696	Claim 10417 10452	They named him because of his votes
 T695	Claim 10307 10415	They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings
+T696	Claim 10417 10452	They named him because of his votes
 T697	Claim 10458 10470	it's reality
 T698	Claim 10473 10552	It's just not credible to say he's going to keep taxes down and balance budgets
-T3	Claim 4466 4499;4656 4717	Because we cut taxes on everybody the recession was one of the shortest in our nation's history
-T2	Claim 7763 7785	He's just not credible
-T4	Claim 8623 8648	he's going to raise taxes
-T5	Premise 9924 9933	We did it
 R1	Support Arg1:T581 Arg2:T580
 R2	Support Arg1:T582 Arg2:T581
 R3	Support Arg1:T583 Arg2:T582
@@ -190,7 +191,6 @@ R61	Support Arg1:T648 Arg2:T649
 R62	Support Arg1:T636 Arg2:T648
 R63	Support Arg1:T637 Arg2:T649
 R64	Support Arg1:T650 Arg2:T649
-T1	Premise 7435 7461	people made a lot of money
 R65	Support Arg1:T1 Arg2:T650
 R66	Attack Arg1:T649 Arg2:T652
 R67	Support Arg1:T2 Arg2:T653

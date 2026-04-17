@@ -1,3 +1,5 @@
+T1	Claim 431 515	I'm not one to attribute every man -- activity of man to the changes in the climate.
+T2	Premise 5868 5901	Well, why did John vote 20 times?
 T235	Claim 326 402	Alaska feels and sees impacts of climate change more so than any other state
 T236	Premise 254 324	as the nation's only Arctic state and being the governor of that state
 T237	Claim 408 430	we know that it's real
@@ -60,7 +62,6 @@ T295	Claim 5982 6043	Maybe he's for everything if the free market takes care of 
 T296	Premise 6059 6123	But he voted 20 times against funding alternative energy sources
 R1	Support Arg1:T236 Arg2:T235
 R2	Support Arg1:T235 Arg2:T237
-T1	Claim 431 515	I'm not one to attribute every man -- activity of man to the changes in the climate.
 R3	Support Arg1:T1 Arg2:T238
 R4	Attack Arg1:T237 Arg2:T1
 R5	Attack Arg1:T239 Arg2:T238
@@ -105,7 +106,6 @@ R43	Attack Arg1:T282 Arg2:T281
 R44	Attack Arg1:T289 Arg2:T290
 R45	Support Arg1:T292 Arg2:T291
 R46	Support Arg1:T291 Arg2:T290
-T2	Premise 5868 5901	Well, why did John vote 20 times?
 R47	Attack Arg1:T2 Arg2:T293
 R48	Support Arg1:T294 Arg2:T295
 R49	Attack Arg1:T295 Arg2:T296

@@ -1,3 +1,9 @@
+T1	Claim 5072 5074	No
+T2	Claim 6689 6697	It's not
+T3	Premise 1276 1311	And you talk about cutting benefits
+T4	Premise 2700 2800	For those of you who he wants to scare into the voting booth to vote for him, hear me loud and clear
+T5	Claim 2802 2839	A promise made will be a promise kept
+T6	Claim 6430 6467	If you don't have trust in that, I do
 T726	Claim 592 605	I do disagree
 T727	Premise 615 768	if we can keep our prosperity going, if we can continue balancing the budget and paying down the debt, then the strong economy keeps generating surpluses
 T728	Claim 996 1199	I think that it's very important to understand that cutting benefits under Social Security means that people like Winifred Skinner from Des Moines, Iowa, who is here, would really have a much harder time
@@ -75,14 +81,11 @@ T801	Premise 6987 7026	to grow from $1 trillion to $3 trillion
 T802	Premise 6605 6687	This is a government that thinks a 2% rate of return on your money is satisfactory
 T803	Premise 6699 6782	This is a government that says younger workers can't possibly have their own assets
 T804	Claim 7080 7163	What Mr. Gore's plan will do causing huge payroll taxes or major benefit reductions
-T1	Claim 5072 5074	No
-T2	Claim 6689 6697	It's not
 R1	Support Arg1:T727 Arg2:T726
 R2	Support Arg1:T734 Arg2:T735
 R3	Support Arg1:T735 Arg2:T733
 R4	Support Arg1:T728 Arg2:T729
 R5	Support Arg1:T730 Arg2:T731
-T3	Premise 1276 1311	And you talk about cutting benefits
 R6	Attack Arg1:T731 Arg2:T3
 R7	Support Arg1:T737 Arg2:T738
 R8	Support Arg1:T738 Arg2:T739
@@ -96,8 +99,6 @@ R15	Attack Arg1:T732 Arg2:T739
 R16	Support Arg1:T744 Arg2:T745
 R17	Attack Arg1:T745 Arg2:T739
 R18	Support Arg1:T747 Arg2:T746
-T4	Premise 2700 2800	For those of you who he wants to scare into the voting booth to vote for him, hear me loud and clear
-T5	Claim 2802 2839	A promise made will be a promise kept
 R19	Attack Arg1:T753 Arg2:T733
 R20	Support Arg1:T754 Arg2:T4
 R21	Support Arg1:T4 Arg2:T5
@@ -140,7 +141,6 @@ R57	Support Arg1:T784 Arg2:T788
 R58	Support Arg1:T786 Arg2:T785
 R59	Support Arg1:T785 Arg2:T784
 R60	Support Arg1:T795 Arg2:T794
-T6	Claim 6430 6467	If you don't have trust in that, I do
 R61	Support Arg1:T6 Arg2:T794
 R62	Support Arg1:T793 Arg2:T792
 R63	Attack Arg1:T2 Arg2:T802

@@ -1,3 +1,6 @@
+T1	Claim 3056 3111	I've been fighting for changes in the exclusionary rule
+T2	Premise 3118 3206	an honest cop stops somebody and makes a technical mistake, the criminal doesn't go away
+T3	Claim 4560 4643	until we get that one done, we're not going to solve the neighborhood crime problem
 T280	Premise 19 66	My question was originally for Governor Clinton
 T281	Claim 72 132	I think I would welcome a response from all three candidates
 T282	Premise 152 182	crime is rampant in our cities
@@ -84,8 +87,6 @@ R13	Support Arg1:T305 Arg2:T308
 R14	Support Arg1:T306 Arg2:T308
 R15	Support Arg1:T309 Arg2:T308
 R16	Equivalent Arg1:T313 Arg2:T312
-T1	Claim 3056 3111	I've been fighting for changes in the exclusionary rule
-T2	Premise 3118 3206	an honest cop stops somebody and makes a technical mistake, the criminal doesn't go away
 R18	Support Arg1:T2 Arg2:T1
 R17	Support Arg1:T331 Arg2:T330
 R19	Support Arg1:T332 Arg2:T330
@@ -98,7 +99,6 @@ R25	Attack Arg1:T325 Arg2:T299
 R26	Support Arg1:T297 Arg2:T298
 R27	Support Arg1:T296 Arg2:T298
 R28	Support Arg1:T317 Arg2:T318
-T3	Claim 4560 4643	until we get that one done, we're not going to solve the neighborhood crime problem
 R29	Support Arg1:T319 Arg2:T320
 R30	Support Arg1:T336 Arg2:T320
 R31	Attack Arg1:T337 Arg2:T320

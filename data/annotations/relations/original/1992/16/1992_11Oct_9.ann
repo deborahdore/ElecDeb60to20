@@ -1,3 +1,5 @@
+T1	Claim 2525 2624	In order to keep America the strongest nation in the world, we need some continuity and some change
+T2	Premise 5022 5110	it does exactly what you say, and I think you agree with that, to help Russian democracy
 T400	Claim 376 399	you're not a superpower
 T401	Claim 475 532	we've got to have the money to be able to pay for defense
 T402	Claim 538 567	we've got to manufacture here
@@ -88,7 +90,6 @@ R20	Equivalent Arg1:T409 Arg2:T419
 R21	Support Arg1:T411 Arg2:T636
 R22	Support Arg1:T424 Arg2:T636
 R23	Support Arg1:T425 Arg2:T424
-T1	Claim 2525 2624	In order to keep America the strongest nation in the world, we need some continuity and some change
 R24	Support Arg1:T428 Arg2:T429
 R25	Support Arg1:T637 Arg2:T429
 R26	Support Arg1:T429 Arg2:T427
@@ -117,5 +118,4 @@ R48	Support Arg1:T456 Arg2:T457
 R49	Support Arg1:T457 Arg2:T459
 R50	Support Arg1:T459 Arg2:T455
 R51	Support Arg1:T445 Arg2:T446
-T2	Premise 5022 5110	it does exactly what you say, and I think you agree with that, to help Russian democracy
 R52	Support Arg1:T2 Arg2:T457

@@ -15,6 +15,7 @@ T14	Premise 1307 1431	The most recent figures, the last three months, on the thi
 T15	Claim 1485 1521	providing an enormous number of jobs
 T16	Premise 1524 1580	nine million new jobs in the last three and a half years
 T17	Claim 1588 1633	the inflationary threat is still urgent on us
+T18	Premise 1635 1840	I notice that Governor Reagan recently mentioned the Reagan-Kemp-Roth proposal. which his own running mate, George Bush, described as voodoo economics, and said that it would result in a 30% inflation rate
 T19	Premise 1846 2074	Business Week, which is not a Democratic publication, said that this Reagan-Kemp-Roth proposal - and I quote them, I think - was completely irresponsible and would result in inflationary pressures which would destroy this nation
 T20	Claim 2079 2107	our proposals are very sound
 T21	Claim 2112 2155	very carefully considered to stimulate jobs
@@ -22,6 +23,16 @@ T22	Claim 2157 2206	to improve the industrial complex of this country
 T23	Claim 2208 2244	to create tools for American workers
 T24	Claim 2250 2303	at the same time would be anti-inflationary in nature
 T25	Claim 2308 2467	to add nine million new jobs, to control inflation, and to plan for the future with an energy policy now intact as a foundation is our plan for the years ahead
+T26	Claim 3021 3024	Yes
+T27	Claim 4738 4804	since the United States remains vulnerable to such external shocks
+T28	Premise 9506 9519;9570 9662	In California he had the three largest tax increases in the history of that state under his administration
+T29	Claim 628 678	it's important to put the situation in perspective
+T30	Claim 2641 2707	the unemployment rate still hangs high, as does the inflation rate
+T31	Claim 2565 2621	you have mentioned the creation of nine million new jobs
+T32	Claim 3493 3538	One is conservation, which requires sacrifice
+T33	Claim 3026 3077	We have demanded that the American people sacrifice
+T34	Premise 6155 6204	he has then accused the people of living too well
+T35	Premise 6209 6290	that we must share in scarcity, we must sacrifice and get used to doing with less
 T100	Claim 3083 3107	they have done very well
 T101	Premise 3130 3218	we're importing today about one-third less oil from overseas than we did just a year ago
 T102	Premise 3220 3282	We've had a 25% reduction since the first year I was in office
@@ -76,9 +87,6 @@ T152	Premise -1 105; -1 105	In California he had the three largest tax increases
 T153	Claim 9960 10060	The figures that the President has just used about California is a distortion of the situation there
 T154	Premise 10070 10251	while I was Governor of California, our spending in California increased less per capita than the spending in Georgia while Mr. Carter was Governor of Georgia in the same four years
 T155	Premise 10253 10378	The size of government increased only one-sixth in California of what it increased in proportion to the population in Georgia
-T26	Claim 3021 3024	Yes
-T27	Claim 4738 4804	since the United States remains vulnerable to such external shocks
-T28	Premise 9506 9519;9570 9662	In California he had the three largest tax increases in the history of that state under his administration
 R1	Support Arg1:T6 Arg2:T4
 R2	Support Arg1:T12 Arg2:T11
 R3	Support Arg1:T13 Arg2:T10
@@ -88,24 +96,18 @@ R4	Support Arg1:T6 Arg2:T8
 R7	Support Arg1:T8 Arg2:T5
 R8	Support Arg1:T11 Arg2:T9
 R9	Support Arg1:T13 Arg2:T9
-T29	Claim 628 678	it's important to put the situation in perspective
 R10	Support Arg1:T10 Arg2:T9
 R11	Support Arg1:T9 Arg2:T29
 R12	Support Arg1:T16 Arg2:T15
-T18	Premise 1635 1840	I notice that Governor Reagan recently mentioned the Reagan-Kemp-Roth proposal. which his own running mate, George Bush, described as voodoo economics, and said that it would result in a 30% inflation rate
 R13	Support Arg1:T19 Arg2:T18
 R14	Support Arg1:T18 Arg2:T20
 R15	Support Arg1:T21 Arg2:T20
 R16	Support Arg1:T22 Arg2:T20
 R17	Support Arg1:T23 Arg2:T20
 R18	Support Arg1:T24 Arg2:T20
-T30	Claim 2641 2707	the unemployment rate still hangs high, as does the inflation rate
-T31	Claim 2565 2621	you have mentioned the creation of nine million new jobs
 R19	Support Arg1:T25 Arg2:T31
 R20	Support Arg1:T101 Arg2:T100
 R21	Support Arg1:T102 Arg2:T101
-T32	Claim 3493 3538	One is conservation, which requires sacrifice
-T33	Claim 3026 3077	We have demanded that the American people sacrifice
 R22	Support Arg1:T33 Arg2:T26
 R23	Support Arg1:T32 Arg2:T33
 R24	Support Arg1:T105 Arg2:T104
@@ -115,8 +117,6 @@ R27	Attack Arg1:T122 Arg2:T112
 R28	Attack Arg1:T127 Arg2:T15
 R29	Attack Arg1:T128 Arg2:T15
 R30	Support Arg1:T133 Arg2:T132
-T34	Premise 6155 6204	he has then accused the people of living too well
-T35	Premise 6209 6290	that we must share in scarcity, we must sacrifice and get used to doing with less
 R31	Support Arg1:T33 Arg2:T35
 R32	Support Arg1:T119 Arg2:T118
 R33	Support Arg1:T134 Arg2:T132

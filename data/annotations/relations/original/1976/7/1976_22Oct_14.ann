@@ -1,3 +1,4 @@
+T1	Premise 3511 3632	I mean in Korea - we had uh - three million five hundred thousand young men uh - in the Army, Navy, Air Force and Marines
 T468	Claim 467 526	that's not exactly an accurate description of what happened
 T469	Premise 528 647	When I was that far ahead, it was immediately following the Democratic Convention, and before the Republican Convention
 T470	Premise 649 757	At that time, uh - 25 or 30 percent of the Reagan supporters said that they would not support President Ford
@@ -19,11 +20,11 @@ T485	Premise 1920 1980	In Georgia alone, for instance, I got 84 percent of the v
 T486	Premise 1994 2115	there were fourteen people uh - in addition to myself on the ballot, and Governor Wallace had been very strong in Georgia
 T487	Premise 2117 2183	That's an overwhelming support from my own people who know me best
 T488	Premise 2189 2361	today, we have about five hundred Georgians at their own expense - just working people who believe in me - spread around the country uh - involved in the political campaign
+T489	Claim 3011 3235	I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes
 T490	Claim 2448 2559	I think a lot of it uh - depends on current events - uh - sometimes foreign affairs, sometimes domestic affairs
 T491	Claim 2565 2669	I think our hold uh - of support among those who uh - are crucial to the election has been fairly steady
 T492	Claim 2675 2853	my success in the primary season was, I think, notable for a newcomer, from someone who's from outside Washington, who - who never has been a part of the Washington establishment
 T493	Claim 2859 2961	I think that we'll have good results uh - on November the second for myself and I hope for the country
-T489	Claim 3011 3235	I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes
 T494	Claim 3237 3281	He tends to distort on a number of occasions
 T495	Premise 3288 3420	just a moment ago, for example, uh - he uh - was indicating that uh - uh - in the 1950s, for example, uh - unemployment was very low
 T496	Premise 3422 3504	He fails to point out that uh - in the 1950s we were engaged in the war in Vietnam
@@ -70,7 +71,6 @@ R28	Support Arg1:T495 Arg2:T494
 R29	Support Arg1:T495 Arg2:T489
 R30	Support Arg1:T496 Arg2:T494
 R31	Support Arg1:T496 Arg2:T489
-T1	Premise 3511 3632	I mean in Korea - we had uh - three million five hundred thousand young men uh - in the Army, Navy, Air Force and Marines
 R32	Support Arg1:T1 Arg2:T496
 R33	Support Arg1:T1 Arg2:T499
 R34	Support Arg1:T496 Arg2:T499

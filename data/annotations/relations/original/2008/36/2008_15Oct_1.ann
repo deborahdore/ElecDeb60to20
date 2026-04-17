@@ -2,7 +2,9 @@ T1	Claim 1845 1879	they have every reason to be angry
 T2	Claim 1642 1673	Americans are hurting right now
 T3	Claim 1679 1692	they're angry
 T4	Claim 1694 1709	They're hurting
+T5	Claim 1715 1728	they're angry
 T6	Premise 1730 1821	They're innocent victims of greed and excess on Wall Street and as well as Washington, D.C.
+T7	Claim 1826 1839	they're angry
 T8	Claim 1886 1933	they want this country to go in a new direction
 T9	Claim 2023 2094	we also have to have a short-term fix, in my view, and long- term fixes
 T10	Premise 2097 2154	Let me just talk to you about one of the short-term fixes
@@ -71,15 +73,13 @@ T72	Premise 8540 8566	They produce the most jobs
 T73	Claim 9509 9556	We're not going to do that in my administration
 T74	Claim 9608 9655	I want to cut taxes for 95 percent of Americans
 T75	Premise -1 235; -1 235	it is true that my friend and supporter, Warren Buffett, for example, could afford to pay a little more in taxes in order -- in order to give additional tax cuts to Joe the plumber before he was at the point where he could make $250,000
+T76	Premise 9983 10104	Exxon Mobil, which made $12 billion, record profits, over the last several quarters, they can afford to pay a little more
 T77	Claim 8914 9010	The whole premise behind Senator Obama's plans are class warfare, let's spread the wealth around
 T78	Premise 8588 8692	when Senator Obama ended up his conversation with Joe the plumber -- we need to spread the wealth around
 T79	Premise 8694 8805	In other words, we're going to take Joe's money, give it to Senator Obama, and let him spread the wealth around
 T80	Claim 8807 8858	I want Joe the plumber to spread that wealth around
 T81	Premise 8860 8911	You told him you wanted to spread the wealth around
-T5	Claim 1715 1728	they're angry
-T7	Claim 1826 1839	they're angry
 T82	Premise 9662 9783;9865 9976	it is true that my friend and supporter, Warren Buffett, for example, could afford to pay a little more in taxes in order in order to give additional tax cuts to Joe the plumber before he was at the point where he could make $250,000
-T76	Premise 9983 10104	Exxon Mobil, which made $12 billion, record profits, over the last several quarters, they can afford to pay a little more
 T83	Premise 10113 10282	ordinary families who are hurting out there -- they're trying to figure out how they're going to afford food, how they're going to save for their kids' college education
 T84	Claim 10284 10301	they need a break
 T85	Claim 10417 10516	we've got to pay for the core investments that make this economy strong and somebody's got to do it
@@ -92,6 +92,11 @@ T91	Claim 10931 10978	We need to cut the business tax rate in America
 T92	Claim 10980 11009	We need to encourage business
 T93	Claim 11042 11071	we need to cut people's taxes
 T94	Claim 11073 11145	We need to encourage business, create jobs, not spread the wealth around
+T95	Claim 4074 4130	I've proposed four specific things that I think can help
+T96	Claim 9055 9151	the small businesses that we're talking about would receive an increase in their taxes right now
+T97	Premise 9314 9389	these small business people, like Joe the plumber, are going to create jobs
+T98	Claim 10314 10332	nobody likes taxes
+T99	Claim 10334 10399	I would prefer that none of us had to pay taxes, including myself
 R1	Support Arg1:T4 Arg2:T5
 R2	Support Arg1:T6 Arg2:T4
 R3	Support Arg1:T2 Arg2:T3
@@ -105,7 +110,6 @@ R10	Support Arg1:T21 Arg2:T24
 R11	Support Arg1:T25 Arg2:T24
 R12	Support Arg1:T26 Arg2:T24
 R13	Support Arg1:T28 Arg2:T27
-T95	Claim 4074 4130	I've proposed four specific things that I think can help
 R14	Support Arg1:T27 Arg2:T95
 R15	Support Arg1:T23 Arg2:T95
 R16	Support Arg1:T29 Arg2:T23
@@ -143,12 +147,8 @@ R47	Support Arg1:T71 Arg2:T70
 R48	Support Arg1:T72 Arg2:T71
 R49	Support Arg1:T79 Arg2:T78
 R50	Support Arg1:T81 Arg2:T77
-T96	Claim 9055 9151	the small businesses that we're talking about would receive an increase in their taxes right now
-T97	Premise 9314 9389	these small business people, like Joe the plumber, are going to create jobs
 R51	Support Arg1:T97 Arg2:T73
 R52	Support Arg1:T83 Arg2:T84
-T98	Claim 10314 10332	nobody likes taxes
-T99	Claim 10334 10399	I would prefer that none of us had to pay taxes, including myself
 R53	Support Arg1:T99 Arg2:T98
 R54	Support Arg1:T84 Arg2:T74
 R55	Support Arg1:T89 Arg2:T88

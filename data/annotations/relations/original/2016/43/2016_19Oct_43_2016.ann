@@ -1,5 +1,6 @@
 T1	Claim 911 1022	I have major disagreements with my opponent about these issues and others that will be before the Supreme Court
 T2	Claim 1028 1160	I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v
+T3	Claim 1173 1208	we stand up against Citizens United
 T4	Claim 1617 1660	The Supreme Court: It's what it's all about
 T5	Premise 1662 1676;1697 1742	Our country is so imperative that we have the right justices
 T6	Claim 2055 2085	I support the Second Amendment
@@ -13,6 +14,7 @@ T13	Claim 2919 2963	Hillary was extremely upset, extremely angry
 T14	Claim 2969 3085	people that believe in the Second Amendment and believe in it very strongly were very upset with what she had to say
 T15	Premise 2883 2913	it was a well-crafted decision
 T16	Premise 2847 2877	Justice Scalia was so involved
+T17	Claim 3178 3189	I was upset
 T18	Claim 3422 3465	Donald's been strongly supported by the NRA
 T19	Premise 3467 3494	The gun lobby's on his side
 T20	Premise 3496 3549	They're running millions of dollars of ads against me
@@ -20,12 +22,12 @@ T21	Claim 3713 3812	we're going to do it in a way that tries to save some of the
 T22	Premise 3583 3707	I would like to see is for people to come together and say: Of course we're going to protect and defend the Second Amendment
 T23	Premise 4075 4219	In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city
 T24	Claim 4224 4287	we have the toughest laws, and you have tremendous gun violence
+T25	Claim 4749 4897	if that would happen, because I am pro-life, and I will be appointing pro-life judges, I would think that that will go back to the individual states
 T26	Claim 4969 5021	If they overturned it, it will go back to the states
 T27	Premise 5403 5446	I am putting pro-life justices on the court
 T28	Claim 5350 5378	that'll happen automatically
 T29	Claim 5241 5344	if we put another two or perhaps three justice on, that's really what's going to be -- that will happen
 T30	Claim 5465 5541	It will go back to the states, and the states will then make a determination
-T25	Claim 4749 4897	if that would happen, because I am pro-life, and I will be appointing pro-life judges, I would think that that will go back to the individual states
 T31	Claim 5586 5610	I strongly support Roe v
 T32	Claim 5618 5779	which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine
 T33	Premise 5799 5824	it's not only about Roe v
@@ -98,11 +100,14 @@ T99	Premise 13221 13256	He has no respect for our president
 T100	Claim 13282 13311	We're in very serious trouble
 T101	Premise 13321 13464	we have a country with tremendous numbers of nuclear warheads -- 1,800, by the way -- where they expanded and we didn't, 1,800 nuclear warheads
 T102	Claim 13470 13491	she's playing chicken
+T103	Claim 13499 13504;13564 13594	Putin has no respect for this person
+T104	Claim 19873 19937	three times more than the tax cuts under the Bush administration
 T105	Claim 13626 13685	he'd rather have a puppet as president of the United States
 T106	Claim 13694 13703	No puppet
 T107	Claim 13705 13714	No puppet
 T108	Claim 13729 13746	it's pretty clear
 T109	Claim 13757 13774	You're the puppet
+T110	Claim 14401 14416	She has no idea
 T111	Claim 14254 14288	I think it's time you take a stand
 T112	Premise 14369 14392	I am not quoting myself
 T113	Claim 14299 14358	She has no idea whether it's Russia, China, or anybody else
@@ -111,7 +116,6 @@ T115	Claim 13955 13998	you encouraged espionage against our people
 T116	Claim 14005 14114	you are willing to spout the Putin line, sign up for his wish list, break up NATO, do whatever he wants to do
 T117	Claim 14125 14158	you continue to get help from him
 T118	Premise 14168 14209	he has a very clear favorite in this race
-T110	Claim 14401 14416	She has no idea
 T119	Premise 14427 14442;14493 14549;14602 14610	I am quoting 17 17 intelligence -- do you doubt 17 military and civilian agencies
 T120	Claim 14619 14635	Yeah, I doubt it
 T121	Claim 14664 14784	he'd rather believe Vladimir Putin than the military and civilian intelligence professionals who are sworn to protect us
@@ -174,6 +178,7 @@ T177	Claim 20206 20232	I want to pursue your plan
 T178	Premise 20242 20355	in many ways it is similar to the Obama stimulus plan in 2009, which has led to the slowest GDP growth since 1949
 T179	Premise 20581 20635	I was in the Senate before I became secretary of state
 T180	Claim 20637 20765	I've never seen people as physically distraught as the Bush administration team was because of what was happening to the economy
+T181	Premise 23540 23619	I'm happy to compare my 30 years of experience, what I've done for this country
 T182	Premise 20477 20541	the level of economic catastrophe that President Obama inherited
 T183	Premise 20543 20579	it was a real touch-and-go situation
 T184	Premise 20787 20878	even conservative economists who have looked at your plan say that the numbers don't add up
@@ -184,6 +189,7 @@ T188	Claim 20965 20986	Over a 10-year period
 T189	Premise 21040 21088	you talk a lot about growing the energy industry
 T190	Premise 21090 21143	They say with oil prices as low as they are right now
 T191	Claim 21145 21163	that's unrealistic
+T192	Premise 23621 23656	trying to help in every way I could
 T193	Claim 21204 21250	I just left some high representatives of India
 T194	Premise 21252 21280	They're growing at 8 percent
 T195	Premise 21282 21311	China is growing at 7 percent
@@ -225,6 +231,7 @@ T230	Premise 24018 24040	It's a $1 million loan
 T231	Claim 24046 24074	I built a phenomenal company
 T232	Premise 23404 23492	I was in the Situation Room, monitoring the raid that brought Osama bin Laden to justice
 T233	Premise 23494 23534	he was hosting the "Celebrity Apprentice
+T234	Premise 23658 23731	especially kids and families get ahead and stay ahead, with your 30 years
 T235	Claim 23737 23784	I'll let the American people make that decision
 T236	Premise 24256 24315	you said your talk about grabbing women was just that, talk
 T237	Premise 24326 24354	you'd never actually done it
@@ -239,8 +246,8 @@ T245	Claim 24939 25049	he held a number of big rallies where he said that he cou
 T246	Premise 25058 25114	they were not attractive enough for them to be assaulted
 T247	Claim 25123 25141	I did not say that
 T248	Claim 25143 25161	I did not say that
-T250	Claim 25276 25294	I did not say that
 T249	Claim 25615 25658	Nobody has more respect for women than I do
+T250	Claim 25276 25294	I did not say that
 T251	Claim 25660 25666	Nobody
 T252	Premise 25336 25385	He went on to say, "Look at her. I don't think so
 T253	Premise 25409 25451	he said, "That wouldn't be my first choice
@@ -252,23 +259,28 @@ T258	Premise 25879 25941	Donald is pushed on something which is obviously uncomf
 T259	Premise 25977 26022	he immediately goes to denying responsibility
 T260	Premise 26028 26053	it's not just about women
 T261	Claim 26115 26120	Wrong
+T262	Claim 27256 27282	I think that's been proven
 T263	Claim 26565 26603	she talks about violence at my rallies
 T264	Claim 26609 26632	she caused the violence
 T265	Claim 26131 26162;26221 26266	He went after Mr. and Mrs. Khan a Gold Star family, because of their religion
+T266	Claim 32429 32521;32662 32698	if you look at your voter rolls, you will see millions of people that are registered to vote that shouldn't be registered to vote
+T267	Claim 34574 34637;34639 34695	I think what the FBI did and what the Department of Justice did including meeting with her husband, the attorney general
 T268	Claim 26268 26293;26314 26357	He went after John McCain said he prefers "people who aren't captured
 T269	Claim 26360 26389;26412 26544	He went after a federal judge who Donald said couldn't be trusted to try the fraud and racketeering case against Trump University because his parents were Mexican
+T270	Claim 34750 34774	I think it's disgraceful
 T271	Claim 26683 26709	The other things are false
 T272	Claim 26864 26884	she knows, are false
 T273	Claim 27130 27218	I did as secretary of state was in furtherance of our country's interests and our values
 T274	Premise 27220 27254	The State Department has said that
-T262	Claim 27256 27282	I think that's been proven
+T275	Claim 34776 34799	I think it's a disgrace
+T276	Premise 36640 36660	why does that matter
 T277	Premise 28432 28590	the Clinton Foundation spend 90 percent -- 90 percent of all the money that is donated on behalf of programs of people around the world and in our own country
 T278	Claim 28081 28107	It's a criminal enterprise
 T279	Premise 28109 28171	Saudi Arabia giving $25 million, Qatar, all of these countries
+T280	Claim 28854 28877	It just was astonishing
 T281	Premise 28217 28278	these are people that push gays off business -- off buildings
 T282	Premise 28280 28337	These are people that kill women and treat women horribly
 T283	Claim 28347 28367	you take their money
-T280	Claim 28854 28877	It just was astonishing
 T284	Premise 28707 28829	compare what we do with the Trump Foundation, which took money from other people and bought a six- foot portrait of Donald
 T285	Claim 28616 28685	We have the highest rating from the watchdogs that follow foundations
 T286	Premise 28920 28969	it's an important part of the American experience
@@ -297,6 +309,7 @@ T308	Premise 30259 30327	everything he says about charity or anything else, we c
 T309	Premise 31182 31274	your donors and your special interests are doing the same thing as I do, except even more so
 T310	Claim 31011 31126	you know, Hillary, what you should have done, you should have changed the law when you were a United States senator
 T311	Claim 30456 30575	we're entitled because of the laws that people like her passed to take massive amounts of depreciation on other charges
+T312	Premise 43124 43253	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
 T313	Premise 30649 30752	Buffett took hundreds of millions of dollars, Soros, George Soros, took hundreds of millions of dollars
 T314	Claim 30841 30892	Most of her donors have done the same thing as I do
 T315	Claim 31347 31371	you won't change the law
@@ -307,7 +320,9 @@ T319	Claim 31610 31672	If you don't like what I did, you should have changed the
 T320	Claim 32264 32293	I will look at it at the time
 T321	Premise 32295 32326	I'm not looking at anything now
 T322	Claim 32328 32355	I'll look at it at the time
+T323	Premise 43255 43312	Social Security is going to run out of money in the 2030s
 T324	Claim 32730 32850	she should never have been allowed to run for the presidency based on what she did with e-mails and so many other things
+T325	Premise 43318 43388	at that time, recipients are going to take huge cuts in their benefits
 T326	Claim 33195 33299	the loser concedes to the winner and that the country comes together in part for the good of the country
 T327	Claim 33429 33454	I'll keep you in suspense
 T328	Claim 33554 33654	Donald thinks things are not going in his direction, he claims whatever it is, is rigged against him
@@ -321,9 +336,9 @@ T335	Premise 33899 33932	We've had free and fair elections
 T336	Premise 33934 33993	We've accepted the outcomes when we may not have liked them
 T337	Claim 34103 34190;34257 34301	President Obama said the other day when you're whining before the game is even finished it just shows you're not up to doing the job
 T338	Claim 33999 34091	that is what must be expected of anyone standing on a debate stage during a general election
+T339	Claim 34828 34886	I think we've never had a situation so bad in this country
 T340	Claim 34386 34403;34407 34438	He is denigrating he's talking down our democracy
 T341	Claim 34473 34565	somebody who is the nominee of one of our two major parties would take that kind of position
-T339	Claim 34828 34886	I think we've never had a situation so bad in this country
 T342	Premise 35075 35145	there is an effort led by the Iraqi army, supported by Kurdish forces,
 T343	Premise 35155 35248	given the help and advice from the number of special forces and other Americans on the ground
 T344	Claim 35254 35330	I will not support putting American soldiers into Iraq as an occupying force
@@ -456,29 +471,14 @@ T472	Premise 45666 45796	we need everybody to help make our country what it shou
 T473	Claim 45798 45877	We need your talents, your skills, your commitments, your energy, your ambition
 T474	Claim 45925 45985	She's raising the money from the people she wants to control
 T475	Claim 45987 46008	Doesn't work that way
-T17	Claim 3178 3189	I was upset
 T476	Premise 3199 3278	unfortunately, dozens of toddlers injure themselves, even kill people with guns
 T477	Premise 3289 3381	unfortunately, not everyone who has loaded guns in their homes takes appropriate precautions
 T478	Claim 3555 3568	I regret that
-T3	Claim 1173 1208	we stand up against Citizens United
 T479	Claim 1210 1263	we stand up for the rights of people in the workplace
 T480	Claim 1270 1345	we stand up and basically say: The Supreme Court should represent all of us
 T481	Claim 2752 2784	she was extremely angry about it
 T482	Premise 2786 2795	I watched
-T484	Claim 3880 3960	you oppose any limits on assault weapons, any limits on high- capacity magazines
 T483	Claim 3962 4003	You support a national right to carry law
+T484	Claim 3880 3960	you oppose any limits on assault weapons, any limits on high- capacity magazines
 T485	Claim 8069 8084	Nobody has that
 T486	Premise 8783 8829	she was born in this country but they were not
-T103	Claim 13499 13504;13564 13594	Putin has no respect for this person
-T104	Claim 19873 19937	three times more than the tax cuts under the Bush administration
-T181	Premise 23540 23619	I'm happy to compare my 30 years of experience, what I've done for this country
-T192	Premise 23621 23656	trying to help in every way I could
-T234	Premise 23658 23731	especially kids and families get ahead and stay ahead, with your 30 years
-T266	Claim 32429 32521;32662 32698	if you look at your voter rolls, you will see millions of people that are registered to vote that shouldn't be registered to vote
-T267	Claim 34574 34637;34639 34695	I think what the FBI did and what the Department of Justice did including meeting with her husband, the attorney general
-T270	Claim 34750 34774	I think it's disgraceful
-T275	Claim 34776 34799	I think it's a disgrace
-T276	Premise 36640 36660	why does that matter
-T312	Premise 43124 43253	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
-T323	Premise 43255 43312	Social Security is going to run out of money in the 2030s
-T325	Premise 43318 43388	at that time, recipients are going to take huge cuts in their benefits

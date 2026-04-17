@@ -1,3 +1,5 @@
+T1	Question 88 295	Ten men and women have been nominees of their parties since 1976 to be vice president. Out of those ten, you have the least governmental experience of any of them.  What qualifies you to be a heartbeat away?
+T2	Question 4991 5223	Mr. Vice President, picking up on that, you both just sang the praises of the tops of your ticket. Without mentioning them by name at all, explain to us why you are different from your opponent, starting with you, Mr. Vice President
 T662	Claim 307 401	The American people want in their president and in their vice president basically three things
 T663	Claim 403 486	They want to know that their president and their vice president will keep them safe
 T664	Claim 488 534	They want to know that they have good judgment
@@ -143,8 +145,6 @@ R61	Support Arg1:T729 Arg2:T730
 R62	Support Arg1:T736 Arg2:T729
 R63	Support Arg1:T737 Arg2:T729
 R64	Support Arg1:T738 Arg2:T729
-T1	Question 88 295	Ten men and women have been nominees of their parties since 1976 to be vice president. Out of those ten, you have the least governmental experience of any of them.  What qualifies you to be a heartbeat away?
-T2	Question 4991 5223	Mr. Vice President, picking up on that, you both just sang the praises of the tops of your ticket. Without mentioning them by name at all, explain to us why you are different from your opponent, starting with you, Mr. Vice President
 R65	Equivalent Arg1:T708 Arg2:T709
 R66	Equivalent Arg1:T735 Arg2:T731
 R67	Equivalent Arg1:T728 Arg2:T730

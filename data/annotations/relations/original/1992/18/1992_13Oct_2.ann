@@ -1,3 +1,25 @@
+T1	Claim 1166 1183	I've done the job
+T2	Claim 1912 1927	I've been there
+T3	Premise 6836 7101	concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White,
+T4	Claim 5094 5141;5161 5257	You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay
+T5	Premise 6690 6729	trickle-down economics for 12 years now
+T6	Claim 2560 2608	I have not had the experience of these gentlemen
+T7	Premise 2644 2671	but I know I have his trust
+T8	Premise 3231 3334	How long can we continue with trickle-down economics when the record of failure is so abundantly clear?
+T9	Premise 3335 3468	Discussions of the vice presidency tend sometimes to focus on the crisis during which a vice president is thrust into the Oval Office
+T10	Claim 3934 4052	When are you guys going to start worrying about our people here in the US of America and get our country moving again?
+T11	Premise 6161 6206	I've got some points that I want to make here
+T12	Claim 6212 6323	I still haven't gotten an answer to my question on when you guys are going to start worrying about this country
+T13	Claim 6374 6477	Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the presidentâ€™s bill?
+T14	Claim 6565 6629	I was very patient in letting you get off that string of attacks
+T15	Premise 7954 8040	How much longer will it take, Dan, for trickle down economics to work, in your theory?
+T16	Claim 8050 8147	Well, we're going to have plenty of time to talk about trickle down government, which you're for.
+T17	Claim 8265 8367	which you have failed to address, and that is, why is Bill Clinton qualified to be president of the US
+T18	Claim 8399 8440	Oh, I'll be happy to answer that question
+T19	Premise 9874 9938	I hope America is listening very closely to this debate tonight.
+T20	Claim 9824 9873	That qualifies you for being president of the US.
+T21	Premise 9799 9822	But he was the minority
+T22	Premise 10460 10571	people of the non-professional category who are just sick of this terrible thing that's happened to the country
 T67	Claim 1947 2073	one other thing that qualifies you for being president -- and it's this, Hal -- you've got to stand up for what you believe in
 T68	Premise 2079 2138	nobody has ever criticized me for not having strong beliefs
 T69	Claim 977 991	Qualifications
@@ -25,8 +47,8 @@ T92	Claim 2348 2376	I don't take advantage of it
 T93	Premise 2382 2558	I am sure that he would make me a partner in decision, in making decisions about the way to handle health care, the way to get this economy back on its feet again, in every way
 T94	Premise 2193 2245	My association with Mr. Perot is a very personal one
 T95	Premise 2250 2346	as I have stood in and finally taken his running mate position, he has granted me total autonomy
-T97	Claim 2677 2730	I intend to act in a way to keep that situation alive
 T96	Claim 2773 2852	Bill Clinton understands the meaning of the words "teamwork" and "partnership."
+T97	Claim 2677 2730	I intend to act in a way to keep that situation alive
 T98	Claim 3001 3138	The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression
 T99	Claim 2929 2999	we will work together to put our country back on the right track again
 T100	Premise 3140 3158	Unemployment is up
@@ -75,10 +97,6 @@ T656	Premise 4633 4737	when you're vice president and you have to fill in like I
 T657	Claim 6735 6791	you all still support trickle-down to the very last drop
 T658	Claim 7847 7920	raising taxes on middle income families the way Bush and Quayle have done
 T659	Claim 7925 7952	then waiting for it to work
-T1	Claim 1166 1183	I've done the job
-T2	Claim 1912 1927	I've been there
-T4	Claim 5094 5141;5161 5257	You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay
-T5	Premise 6690 6729	trickle-down economics for 12 years now
 R1	Support Arg1:T69 Arg2:T1
 R2	Support Arg1:T70 Arg2:T1
 R3	Support Arg1:T72 Arg2:T1
@@ -110,12 +128,10 @@ R28	Support Arg1:T90 Arg2:T2
 R29	Support Arg1:T68 Arg2:T67
 R30	Support Arg1:T2 Arg2:T67
 R31	Support Arg1:T94 Arg2:T95
-T7	Premise 2644 2671	but I know I have his trust
 R32	Attack Arg1:T92 Arg2:T95
 R33	Support Arg1:T95 Arg2:T93
 R34	Support Arg1:T7 Arg2:T95
 R35	Support Arg1:T7 Arg2:T97
-T6	Claim 2560 2608	I have not had the experience of these gentlemen
 R36	Support Arg1:T653 Arg2:T99
 R37	Support Arg1:T99 Arg2:T96
 R38	Attack Arg1:T98 Arg2:T67
@@ -123,14 +139,11 @@ R39	Support Arg1:T100 Arg2:T98
 R40	Support Arg1:T101 Arg2:T98
 R41	Support Arg1:T102 Arg2:T98
 R42	Support Arg1:T103 Arg2:T98
-T8	Premise 3231 3334	How long can we continue with trickle-down economics when the record of failure is so abundantly clear?
 R43	Support Arg1:T8 Arg2:T98
-T9	Premise 3335 3468	Discussions of the vice presidency tend sometimes to focus on the crisis during which a vice president is thrust into the Oval Office
 R44	Support Arg1:T9 Arg2:T104
 R45	Support Arg1:T96 Arg2:T105
 R46	Support Arg1:T106 Arg2:T105
 R47	Attack Arg1:T105 Arg2:T98
-T10	Claim 3934 4052	When are you guys going to start worrying about our people here in the US of America and get our country moving again?
 R48	Attack Arg1:T10 Arg2:T107
 R49	Support Arg1:T108 Arg2:T109
 R50	Support Arg1:T110 Arg2:T655
@@ -160,14 +173,9 @@ R73	Support Arg1:T121 Arg2:T117
 R74	Support Arg1:T112 Arg2:T117
 R75	Support Arg1:T115 Arg2:T117
 R76	Support Arg1:T111 Arg2:T117
-T11	Premise 6161 6206	I've got some points that I want to make here
-T12	Claim 6212 6323	I still haven't gotten an answer to my question on when you guys are going to start worrying about this country
-T13	Claim 6374 6477	Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the presidentâ€™s bill?
-T14	Claim 6565 6629	I was very patient in letting you get off that string of attacks
 R77	Attack Arg1:T14 Arg2:T13
 R78	Support Arg1:T11 Arg2:T12
 R79	Support Arg1:T5 Arg2:T657
-T3	Premise 6836 7101	concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White,
 R80	Support Arg1:T3 Arg2:T123
 R81	Attack Arg1:T124 Arg2:T123
 R82	Support Arg1:T124 Arg2:T125
@@ -182,17 +190,10 @@ R90	Support Arg1:T129 Arg2:T130
 R91	Support Arg1:T130 Arg2:T658
 R92	Support Arg1:T658 Arg2:T659
 R93	Attack Arg1:T659 Arg2:T657
-T15	Premise 7954 8040	How much longer will it take, Dan, for trickle down economics to work, in your theory?
 R94	Support Arg1:T15 Arg2:T659
 R95	Attack Arg1:T15 Arg2:T657
-T16	Claim 8050 8147	Well, we're going to have plenty of time to talk about trickle down government, which you're for.
 R96	Attack Arg1:T16 Arg2:T659
-T17	Claim 8265 8367	which you have failed to address, and that is, why is Bill Clinton qualified to be president of the US
-T18	Claim 8399 8440	Oh, I'll be happy to answer that question
-T19	Premise 9874 9938	I hope America is listening very closely to this debate tonight.
-T20	Claim 9824 9873	That qualifies you for being president of the US.
 R97	Attack Arg1:T18 Arg2:T17
-T21	Premise 9799 9822	But he was the minority
 R98	Attack Arg1:T21 Arg2:T131
 R99	Attack Arg1:T20 Arg2:T131
 R100	Support Arg1:T21 Arg2:T20
@@ -205,6 +206,5 @@ R106	Support Arg1:T134 Arg2:T135
 R107	Support Arg1:T135 Arg2:T136
 R108	Attack Arg1:T137 Arg2:T136
 R109	Attack Arg1:T137 Arg2:T135
-T22	Premise 10460 10571	people of the non-professional category who are just sick of this terrible thing that's happened to the country
 R110	Support Arg1:T22 Arg2:T132
 R111	Support Arg1:T138 Arg2:T137

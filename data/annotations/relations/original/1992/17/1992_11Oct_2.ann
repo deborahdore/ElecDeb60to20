@@ -1,3 +1,5 @@
+T1	Premise 1568 1613	they all say, "Well, it was a long time ago."
+T2	Premise 1614 1674	Well, let's admit it then. Say, "I made a terrible mistake."
 T83	Claim 186 241	I think the American people should be the judge of that
 T84	Claim 243 289	I think character is a very important question
 T85	Claim 412 538	I think it's wrong to demonstrate against your own country or organize demonstrations against your own country in foreign soil
@@ -65,8 +67,6 @@ R22	Equivalent Arg1:T111 Arg2:T112
 R23	Support Arg1:T113 Arg2:T114
 R25	Support Arg1:T120 Arg2:T115
 R27	Support Arg1:T122 Arg2:T121
-T1	Premise 1568 1613	they all say, "Well, it was a long time ago."
-T2	Premise 1614 1674	Well, let's admit it then. Say, "I made a terrible mistake."
 R8	Support Arg1:T98 Arg2:T93
 R15	Attack Arg1:T111 Arg2:T117
 R24	Support Arg1:T121 Arg2:T115

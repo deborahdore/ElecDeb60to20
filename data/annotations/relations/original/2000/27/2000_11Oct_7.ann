@@ -1,3 +1,5 @@
+T1	Claim 9013 9020	I would
+T3	Claim 9494 9534;9627 9708	that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending
 T643	Claim 281 383	I've got a plan to do something about that. It's to make health care affordable and available this way
 T644	Claim 633 756	For those what I think we need to do is to develop an investment-type vehicle that would be an incentive for them to invest
 T645	Premise 392 455	there's some who should be buying health care who choose not to
@@ -113,8 +115,6 @@ T755	Claim 10914 10939	they have not got it done
 T756	Claim 11084 11207	you need to get somebody that knows how to bring Republicans and Democrats together to get positive things done for America
 T757	Premise 11064 11082	if you want change
 T758	Claim 10980 11032	if you're happy with inactivity, stay with the horse
-T1	Claim 9013 9020	I would
-T3	Claim 9494 9534;9627 9708	that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending
 R1	Support Arg1:T645 Arg2:T643
 R2	Support Arg1:T646 Arg2:T644
 R3	Support Arg1:T647 Arg2:T644

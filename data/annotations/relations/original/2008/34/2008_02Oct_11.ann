@@ -1,3 +1,15 @@
+T1	Premise 842 1154	I'm thankful that the Constitution would allow a bit more authority given to the vice president also if that vice president so chose to exert it in working with the Senate and making sure that we are supportive of the president's policies and making sure too that our president understands what our strengths are
+T2	Claim 1156 1384	John McCain and I have had good conversations about where I would lead with his agenda, and that is energy independence in America and reform of government over all, and then working with families of children with special needs.
+T3	Premise 6239 6326	About times and Todd and our marriage in our past where we didn't have health insurance
+T4	Premise 6624 6692	That worldview that says that America is a nation of exceptionalism.
+T5	Premise 6697 6843	we are to be that shining city on a hill, as President Reagan so beautifully said, that we are a beacon of hope and that we are unapologetic here.
+T6	Premise 7773 7809	wrote the Violence Against Women Act
+T7	Premise 7811 7855	which John McCain voted against both of them
+T8	Claim 9040 9064	They're looking for help
+T9	Claim 11841 11857	we can't make it
+T10	Premise 11859 11918	How are we going to heat the -- heat the house this winter?
+T11	Premise 11745 11780	Can we send -- can we get Mom's MRI
+T12	Premise 11782 11827	Can we send Mary back to school next semester
 T377	Claim 10896 10906	I love him
 T542	Claim 11829 11835	We can
 T638	Claim 571 615	Of course we know what a vice president does
@@ -106,8 +118,6 @@ R1	Support Arg1:T640 Arg2:T639
 R2	Attack Arg1:T638 Arg2:T639
 R3	Support Arg1:T641 Arg2:T638
 R4	Support Arg1:T642 Arg2:T641
-T1	Premise 842 1154	I'm thankful that the Constitution would allow a bit more authority given to the vice president also if that vice president so chose to exert it in working with the Senate and making sure that we are supportive of the president's policies and making sure too that our president understands what our strengths are
-T2	Claim 1156 1384	John McCain and I have had good conversations about where I would lead with his agenda, and that is energy independence in America and reform of government over all, and then working with families of children with special needs.
 R5	Support Arg1:T1 Arg2:T2
 R6	Support Arg1:T644 Arg2:T643
 R7	Support Arg1:T647 Arg2:T646
@@ -142,14 +152,11 @@ R35	Support Arg1:T679 Arg2:T677
 R36	Support Arg1:T680 Arg2:T681
 R37	Support Arg1:T681 Arg2:T682
 R38	Support Arg1:T682 Arg2:T683
-T3	Premise 6239 6326	About times and Todd and our marriage in our past where we didn't have health insurance
 R39	Support Arg1:T683 Arg2:T677
 R40	Support Arg1:T3 Arg2:T684
 R41	Support Arg1:T684 Arg2:T685
 R42	Support Arg1:T685 Arg2:T686
 R43	Support Arg1:T677 Arg2:T686
-T4	Premise 6624 6692	That worldview that says that America is a nation of exceptionalism.
-T5	Premise 6697 6843	we are to be that shining city on a hill, as President Reagan so beautifully said, that we are a beacon of hope and that we are unapologetic here.
 R44	Support Arg1:T4 Arg2:T686
 R45	Support Arg1:T5 Arg2:T4
 R47	Support Arg1:T688 Arg2:T689
@@ -167,15 +174,12 @@ R57	Support Arg1:T695 Arg2:T699
 R58	Support Arg1:T700 Arg2:T699
 R59	Support Arg1:T701 Arg2:T699
 R61	Support Arg1:T703 Arg2:T699
-T6	Premise 7773 7809	wrote the Violence Against Women Act
-T7	Premise 7811 7855	which John McCain voted against both of them
 R60	Attack Arg1:T6 Arg2:T7
 R62	Support Arg1:T705 Arg2:T706
 R63	Support Arg1:T704 Arg2:T706
 R64	Support Arg1:T708 Arg2:T709
 R65	Support Arg1:T709 Arg2:T707
 R66	Support Arg1:T707 Arg2:T710
-T8	Claim 9040 9064	They're looking for help
 R67	Support Arg1:T711 Arg2:T712
 R69	Support Arg1:T712 Arg2:T713
 R71	Attack Arg1:T710 Arg2:T711
@@ -199,10 +203,6 @@ R86	Support Arg1:T737 Arg2:T738
 R87	Support Arg1:T738 Arg2:T733
 R88	Support Arg1:T739 Arg2:T733
 R89	Support Arg1:T733 Arg2:T740
-T9	Claim 11841 11857	we can't make it
-T10	Premise 11859 11918	How are we going to heat the -- heat the house this winter?
-T11	Premise 11745 11780	Can we send -- can we get Mom's MRI
-T12	Premise 11782 11827	Can we send Mary back to school next semester
 R90	Support Arg1:T11 Arg2:T12
 R91	Support Arg1:T9 Arg2:T542
 R92	Attack Arg1:T542 Arg2:T12

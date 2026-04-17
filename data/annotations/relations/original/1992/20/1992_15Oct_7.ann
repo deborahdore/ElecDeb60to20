@@ -1,3 +1,5 @@
+T1	Premise 2289 2556	If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair figh
+T2	Claim 3546 3559	It takes both
 T354	Claim 270 331	I strongly support term limits for members of the US Congress
 T355	Claim 333 394	I believe it would return the government closer to the people
 T356	Premise 396 436	the way that Ross Perot is talking about
@@ -48,10 +50,8 @@ R13	Support Arg1:T373 Arg2:T371
 R14	Support Arg1:T375 Arg2:T373
 R15	Support Arg1:T377 Arg2:T376
 R16	Attack Arg1:T371 Arg2:T362
-T1	Premise 2289 2556	If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair figh
 R17	Support Arg1:T1 Arg2:T378
 R18	Support Arg1:T379 Arg2:T378
-T2	Claim 3546 3559	It takes both
 R20	Support Arg1:T386 Arg2:T2
 R19	Support Arg1:T2 Arg2:T384
 R21	Support Arg1:T385 Arg2:T386

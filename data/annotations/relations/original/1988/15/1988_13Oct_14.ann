@@ -32,15 +32,15 @@ T31	Claim 2915 2941	That was a mistake as well
 T32	Premise 2947 3050	it cost thousands of jobs for American workers in the Midwest and all over the United States of America
 T33	Premise 3143 3363	The George Bush who was the charter member of the environmental wrecking crew that went to Washington in the early '80s and did a job on the EPA, or the one we've been seeing and listening to the past two or three months
 T34	Claim 3074 3141	I don't know which George Bush I'm talking about here or looking at
-R1	Support Arg1:T33 Arg2:T34
 T35	Premise 3394 3482	he spent millions and millions of dollars of advertising on the subject of Boston Harbor
-R2	Support Arg1:T35 Arg2:T34
 T36	Premise 3492 3532	Boston Harbor was polluted for 100 years
 T37	Premise 3534 3571	I'm the first governor to clean it up
 T38	Premise 3609 3649	We've been cleaning it up for four years
 T39	Premise 3651 3688	We passed landmark legislation in '84
 T40	Premise 3708 3764	You did everything you could to kill the Clean Water Act
 T41	Premise 3790 3905	And those grants which make it possible for states and local communities to clean up rivers and harbors and streams
+R1	Support Arg1:T33 Arg2:T34
+R2	Support Arg1:T35 Arg2:T34
 R3	Support Arg1:T2 Arg2:T3
 R4	Support Arg1:T1 Arg2:T3
 R5	Equivalent Arg1:T4 Arg2:T8

@@ -1,3 +1,8 @@
+T4	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
+T5	Premise 706 862	The Washington Post just reported they have several trillion dollars of additional tax cuts and spending, no suggestion of what they're going to do about it
+T6	Claim 2521 2649	the Kerry record on taxes is one basically of voting for a large number of tax increases -- 98 times in the United States Senate
+T7	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
+T8	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
 T460	Claim 865 989	John Kerry and I believe we have a moral responsibility not to leave trillions of debt to our children and our grandchildren
 T461	Claim 286 318	we will do what they've not done
 T462	Premise 370 500	last four years, we have gone from a $5 trillion projected surplus when George Bush took office to a $3 trillion projected deficit
@@ -7,8 +12,8 @@ T465	Premise 1198 1237	we have plans on both of those subjects
 T466	Claim 1113 1188	I hope to get the chance to talk about health care and also about education
 T467	Claim 1246 1285	we're going to do is roll back tax cuts
 T468	Claim 1079 1105	we believe need to be done
-T470	Premise 1330 1447	there have been exaggerations made on the campaign trail: Roll back tax cuts for people who make over $200,000 a year
 T469	Claim 1449 1464	we will do that
+T470	Premise 1330 1447	there have been exaggerations made on the campaign trail: Roll back tax cuts for people who make over $200,000 a year
 T471	Claim 1467 1559	We want to keep the tax cuts that are in place for people who make less than $200,000 a year
 T472	Claim 1564 1619	give additional tax cuts to those middle-class families
 T473	Claim 1621 1645	tax cuts for health care
@@ -43,8 +48,6 @@ T502	Premise 4599 4607	They are
 R1	Support Arg1:T462 Arg2:T461
 R2	Support Arg1:T463 Arg2:T464
 R3	Support Arg1:T464 Arg2:T461
-T4	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
-T5	Premise 706 862	The Washington Post just reported they have several trillion dollars of additional tax cuts and spending, no suggestion of what they're going to do about it
 R4	Support Arg1:T5 Arg2:T461
 R5	Support Arg1:T465 Arg2:T466
 R6	Support Arg1:T470 Arg2:T467
@@ -53,7 +56,6 @@ R8	Support Arg1:T476 Arg2:T477
 R9	Support Arg1:T478 Arg2:T477
 R10	Support Arg1:T480 Arg2:T479
 R11	Equivalent Arg1:T483 Arg2:T482
-T6	Claim 2521 2649	the Kerry record on taxes is one basically of voting for a large number of tax increases -- 98 times in the United States Senate
 R12	Support Arg1:T6 Arg2:T486
 R13	Support Arg1:T486 Arg2:T487
 R14	Attack Arg1:T492 Arg2:T491
@@ -66,7 +68,5 @@ R20	Support Arg1:T497 Arg2:T496
 R21	Support Arg1:T499 Arg2:T498
 R22	Attack Arg1:T500 Arg2:T496
 R23	Attack Arg1:T501 Arg2:T496
-T7	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
-T8	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
 R26	Attack Arg1:T8 Arg2:T501
 R27	Attack Arg1:T7 Arg2:T500

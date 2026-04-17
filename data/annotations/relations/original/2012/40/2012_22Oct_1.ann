@@ -50,6 +50,7 @@ T49	Premise 6718 6752	That's not the right course for us
 T50	Claim 6754 6943	The right course for us is to make sure that we go after the -- the people who are leaders of these various anti-American groups and these -- these jihadists, but also help the Muslim world
 T51	Claim 7186 7271	We should key our foreign aid, our direct foreign investment, and that of our friends
 T52	Claim 7273 7373	we should coordinate it to make sure that we -- we push back and give them more economic development
+T53	Premise 7110 7152	And the answer they came up with was this:
 T54	Premise 6969 7108	A group of Arab scholars came together, organized by the U.N., to look at how we can help the -- the world reject these -- these terrorists
 T55	Premise 7376 7404	Number two, better education
 T56	Premise 7407 7436	Number three, gender equality
@@ -99,6 +100,7 @@ T99	Claim 11870 11955	there was an effort on the part of the president to have a
 T100	Premise 11961 12047	I concurred in that, and said that we should have some number of troops that stayed on
 T101	Claim 12194 12238	You thought it should have been 5,000 troops
 T102	Claim 12440 12529	This was just a few weeks ago that you indicated that we should still have troops in Iraq
+T103	Premise 7154 7184	One, more economic development
 T104	Claim -1 111; -1 111	I indicated that you failed to put in place a status of forces agreement at the end of the conflict that existed
 T105	Claim 13193 13285	You just gave a speech a few weeks ago in which you said we should still have troops in Iraq
 T106	Claim 13426 13500	it is absolutely true that we cannot just meet these challenges militarily
@@ -113,6 +115,9 @@ T114	Claim 14009 14089	Number four, we do have to develop their economic -- thei
 T115	Claim 14096 14218	number five, the other thing that we have to do is recognize that we can't continue to do nation building in these regions
 T116	Premise 14220 14308	Part of American leadership is making sure that we're doing nation building here at home
 T117	Claim 14310 14381	That will help us maintain the kind of American leadership that we need
+T118	Premise 10482 10643	we're talking about the Middle East and how to help the Middle East reject the kind of terrorism we're seeing, and the rising tide of tumult and -- and confusion
+T119	Premise 10656 10685	attacking me is not an agenda
+T120	Claim 10687 10875	Attacking me is not talking about how we're going to deal with the challenges that exist in the Middle East, and take advantage of the opportunity there, and stem the tide of this violence
 R1	Support Arg1:T14 Arg2:T12
 R2	Support Arg1:T12 Arg2:T13
 R3	Attack Arg1:T6 Arg2:T13
@@ -155,8 +160,6 @@ R39	Support Arg1:T47 Arg2:T49
 R40	Support Arg1:T48 Arg2:T49
 R41	Attack Arg1:T50 Arg2:T49
 R42	Support Arg1:T46 Arg2:T50
-T53	Premise 7110 7152	And the answer they came up with was this:
-T103	Premise 7154 7184	One, more economic development
 R43	Support Arg1:T54 Arg2:T53
 R44	Support Arg1:T103 Arg2:T53
 R45	Support Arg1:T55 Arg2:T53
@@ -201,9 +204,6 @@ R83	Support Arg1:T86 Arg2:T85
 R84	Attack Arg1:T83 Arg2:T86
 R85	Support Arg1:T87 Arg2:T88
 R86	Attack Arg1:T88 Arg2:T75
-T118	Premise 10482 10643	we're talking about the Middle East and how to help the Middle East reject the kind of terrorism we're seeing, and the rising tide of tumult and -- and confusion
-T119	Premise 10656 10685	attacking me is not an agenda
-T120	Claim 10687 10875	Attacking me is not talking about how we're going to deal with the challenges that exist in the Middle East, and take advantage of the opportunity there, and stem the tide of this violence
 R87	Attack Arg1:T119 Arg2:T118
 R88	Support Arg1:T119 Arg2:T120
 R89	Attack Arg1:T120 Arg2:T118

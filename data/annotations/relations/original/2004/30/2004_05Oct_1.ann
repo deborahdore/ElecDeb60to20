@@ -50,6 +50,7 @@ T49	Premise 7592 7642	doing it the right way meant that we were prepared
 T50	Premise 7644 7769	that we gave the weapons inspectors time to find out what we now know, that in fact there were no weapons of mass destruction
 T51	Premise 7771 7898	that we didn't take our eye off the ball, which are Al Qaida, Osama bin Laden, the people who attacked us on September the 11th
 T52	Premise 7915 7939	we went into Afghanistan
+T53	Claim 7964 7985	the right thing to do
 T54	Premise 7987 8014	That was the right decision
 T55	Premise 8020 8061	our military performed terrifically there
 T56	Claim 8982 9071	there is no connection between Saddam Hussein and the attacks of September 11th -- period
@@ -65,6 +66,7 @@ T65	Premise 8680 8837	We went into Afghanistan and very quickly the administrati
 T66	Premise 9074 9114	The 9/11 Commission has said that's true
 T67	Premise 9116 9147	Colin Powell has said it's true
 T68	Claim 9153 9202	the vice president keeps suggesting that there is
+T69	Claim 9204 9216	There is not
 T70	Claim 9232 9279	any connection with Al Qaida is tenuous at best
 T71	Claim 9388 9451	I have not suggested there's a connection between Iraq and 9/11
 T72	Claim 9457 9518	there's clearly an established Iraqi track record with terror
@@ -77,6 +79,10 @@ T78	Premise 10123 10281	That's part of a track record that goes back to the 1970
 T79	Premise 10289 10371	in the mid-'80s, he ran on the basis of cutting most of our major defense programs
 T80	Premise 10373 10411	In 1991, he voted against Desert Storm
 T81	Claim 10414 10501	It's a consistent pattern over time of always being on the wrong side of defense issues
+T82	Question 11111 11338	We believe that Osama bin Laden is hiding perhaps in a cave somewhere along the Afghan-Pakistan border.  If you get a second term, what is your plan to capture him and then to neutralize those who have sprung up to replace him?
+T83	Premise 11904 12217	John Edwards, two and a half years ago, six months after we went into Afghanistan announced that it was chaotic, the situation was deteriorating, the warlords were about to take over. Here we are, two and a half years later, we're four days away from a democratic election, the first one in history in Afghanistan
+T84	Claim 12408 12544	We've made enormous progress in Afghanistan, in exactly the right direction, in spite of what John Edwards said two and a half years ago
+T85	Claim 12546 12566	He just got it wrong
 T86	Claim 13327 13365	Freedom is the best antidote to terror
 T87	Premise 11407 11450	We've actively and aggressively pursued him
 T88	Premise 11452 11563	We've captured or killed thousands of Al Qaida in various places around the world and especially in Afghanistan
@@ -101,6 +107,8 @@ T106	Claim 13034 13111	They have done wonders writing their own constitution for
 T107	Premise 12991 13032	We have President Karzai, who is in power
 T108	Claim 12954 12989	they're making significant progress
 T109	Claim 12787 12948	We'll keep U.S. forces there -- we have about 16,000 there today -- as long as necessary, to assist the Afghans in terms of dealing with their security situation
+T110	Claim 14530 14663	what's actually happened in Afghanistan, regardless of this rosy scenario that they paint on Afghanistan, just like they do with Iraq
+T111	Premise 15281 15299	75,000 people dead
 T112	Claim 13424 13510	Someone did get it wrong. But it wasn't John Kerry and John Edwards. They got it wrong
 T113	Premise 13512 13590	When we had Osama bin Laden cornered, they left the job to the Afghan warlords
 T114	Claim 14128 14158	We will keep this country safe
@@ -126,6 +134,7 @@ T133	Premise 15412 15471	the determination of these people to vote, was unbeliev
 T134	Premise 15477 15533	the terrorists would come in and shoot up polling places
 T135	Claim 15535 15641	as soon as they left, the voters would come back and get in line and would not be denied the right to vote
 T136	Premise 15217 15279	guerrilla insurgency controlled roughly a third of the country
+T137	Premise 15701 15723	we held free elections
 T138	Premise 15845 15925	The vice president just said that we should focus on state sponsors of terrorism
 T139	Premise 15927 15982	Iran has moved forward with its nuclear weapons program
 T140	Premise 15984 16042	They're more dangerous today than they were four years ago
@@ -187,9 +196,24 @@ T196	Premise 21551 21639	Your rhetoric, Senator, would be a lot more credible if
 T197	Claim 21641 21652	There isn't
 T198	Premise 21814 21960	prior to that by John Kerry, who has consistently come down on the wrong side of all the major defense issues that he's faced as a public official
 T199	Premise 21658 21808	you cannot use "talk tough" during the course of a 90-minute debate in a presidential campaign to obscure a 30-year record in the United States Senate
-T53	Claim 7964 7985	the right thing to do
-T69	Claim 9204 9216	There is not
-T137	Premise 15701 15723	we held free elections
+T200	Premise 2683 2742	those who might provide sanctuary or safe harbor for terror
+T201	Premise 3117 3193	he had established relationships with Abu Nidal, who operated out of Baghdad
+T202	Premise 3195 3245	he paid $25,000 to the families of suicide bombers
+T203	Premise 3251 3299	he had an established relationship with Al Qaida
+T204	Claim 2975 3105	Concern about Iraq specifically focused on the fact that Saddam Hussein had been, for years, listed on the state sponsor of terror
+T205	Premise 3301 3465	Specifically, look at George Tenet, the CIA director's testimony before the Committee on Foreign Relations two years ago when he talked about a 10-year relationship
+T206	Claim 3468 3649	The effort that we've mounted with respect to Iraq focused specifically on the possibility that this was the most likely nexus between the terrorists and weapons of mass destruction
+T207	Premise 3652 3858	The biggest threat we faced today is the possibility of terrorists smuggling a nuclear weapon or a biological agent into one of our own cities and threatening the lives of hundreds of thousands of Americans
+T208	Premise 6069 6125	they have been able to establish a democratic government
+T209	Premise 5903 5961	The notion of additional troops is talked about frequently
+T210	Question 7161 7360	You and Senator Kerry have said that the war in Iraq is the wrong war at the wrong time.  Does that mean that if you had been president and vice president that Saddam Hussein would still be in power?
+T211	Question 1504 2098	Vice President Cheney, there have been new developments in Iraq, especially having to do with the administration's handling.  Paul Bremer, the former head of the Coalition Provisional Authority, gave a speech in which he said that we have never had enough troops on the ground, or we've never had enough troops on the ground.  Donald Rumsfeld said he has not seen any hard evidence of a link between Al Qaida and Saddam Hussein. Was this approved -- of a report that you requested that you received a week ago that showed there was no connection between Abu Musab al-Zarqawi and Saddam Hussein?
+T212	Claim 10504 10667	A little tough talk in the midst of a campaign or as part of a presidential debate cannot obscure a record of 30 years of being on the wrong side of defense issues
+T213	Premise 10674 10966	they give absolutely no indication, based on that record, of being wiling to go forward and aggressively pursue the war on terror with a kind of strategy that will work, that will defeat our enemies and will guarantee that the United States doesn't again get attacked by the likes of Al Qaida
+T214	Premise 15329 15381	I was there as an observer on behalf of the Congress
+T215	Question 16566 17047	I want people to understand exactly what it is, as you said, that Senator Kerry did say. He said, "You've got to do" -- you know, he was asked about preemptive action at the last debate -- he said, "You've got to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and can prove to the world that you did it for legitimate reasons." What is a global test if it's not a global veto?
+T216	Claim 18821 18869	we see the result of there not being a coalition
+T217	Claim 20135 20280	It's awfully hard to convey a sense of credibility to allies when you voted for the war and then you declared: Wrong war, wrong place, wrong time
 R1	Support Arg1:T5 Arg2:T4
 R2	Support Arg1:T10 Arg2:T9
 R3	Support Arg1:T6 Arg2:T9
@@ -325,55 +349,36 @@ R146	Attack Arg1:T197 Arg2:T184
 R147	Support Arg1:T199 Arg2:T197
 R148	Support Arg1:T198 Arg2:T197
 R149	Support Arg1:T2 Arg2:T1
-T200	Premise 2683 2742	those who might provide sanctuary or safe harbor for terror
 R150	Support Arg1:T200 Arg2:T3
 R151	Support Arg1:T3 Arg2:T1
-T201	Premise 3117 3193	he had established relationships with Abu Nidal, who operated out of Baghdad
-T202	Premise 3195 3245	he paid $25,000 to the families of suicide bombers
-T203	Premise 3251 3299	he had an established relationship with Al Qaida
-T204	Claim 2975 3105	Concern about Iraq specifically focused on the fact that Saddam Hussein had been, for years, listed on the state sponsor of terror
 R152	Support Arg1:T201 Arg2:T204
 R153	Support Arg1:T202 Arg2:T204
 R154	Support Arg1:T203 Arg2:T204
-T205	Premise 3301 3465	Specifically, look at George Tenet, the CIA director's testimony before the Committee on Foreign Relations two years ago when he talked about a 10-year relationship
 R155	Support Arg1:T205 Arg2:T204
-T206	Claim 3468 3649	The effort that we've mounted with respect to Iraq focused specifically on the possibility that this was the most likely nexus between the terrorists and weapons of mass destruction
-T207	Premise 3652 3858	The biggest threat we faced today is the possibility of terrorists smuggling a nuclear weapon or a biological agent into one of our own cities and threatening the lives of hundreds of thousands of Americans
 R156	Support Arg1:T207 Arg2:T206
 R157	Support Arg1:T206 Arg2:T9
 R158	Support Arg1:T204 Arg2:T9
 R159	Support Arg1:T22 Arg2:T20
 R160	Support Arg1:T13 Arg2:T22
-T208	Premise 6069 6125	they have been able to establish a democratic government
 R161	Support Arg1:T35 Arg2:T29
 R162	Support Arg1:T208 Arg2:T29
-T209	Premise 5903 5961	The notion of additional troops is talked about frequently
 R163	Attack Arg1:T32 Arg2:T209
 R164	Attack Arg1:T32 Arg2:T25
 R165	Support Arg1:T23 Arg2:T19
 R12	Support Arg1:T35 Arg2:T32
 R166	Support Arg1:T43 Arg2:T42
 R30	Support Arg1:T42 Arg2:T38
-T210	Question 7161 7360	You and Senator Kerry have said that the war in Iraq is the wrong war at the wrong time.  Does that mean that if you had been president and vice president that Saddam Hussein would still be in power?
-T211	Question 1504 2098	Vice President Cheney, there have been new developments in Iraq, especially having to do with the administration's handling.  Paul Bremer, the former head of the Coalition Provisional Authority, gave a speech in which he said that we have never had enough troops on the ground, or we've never had enough troops on the ground.  Donald Rumsfeld said he has not seen any hard evidence of a link between Al Qaida and Saddam Hussein. Was this approved -- of a report that you requested that you received a week ago that showed there was no connection between Abu Musab al-Zarqawi and Saddam Hussein?
 R167	Support Arg1:T63 Arg2:T61
 R168	Support Arg1:T65 Arg2:T61
 R169	Support Arg1:T70 Arg2:T69
-T212	Claim 10504 10667	A little tough talk in the midst of a campaign or as part of a presidential debate cannot obscure a record of 30 years of being on the wrong side of defense issues
 R58	Support Arg1:T81 Arg2:T212
-T213	Premise 10674 10966	they give absolutely no indication, based on that record, of being wiling to go forward and aggressively pursue the war on terror with a kind of strategy that will work, that will defeat our enemies and will guarantee that the United States doesn't again get attacked by the likes of Al Qaida
 R59	Support Arg1:T213 Arg2:T81
-T82	Question 11111 11338	We believe that Osama bin Laden is hiding perhaps in a cave somewhere along the Afghan-Pakistan border.  If you get a second term, what is your plan to capture him and then to neutralize those who have sprung up to replace him?
-T83	Premise 11904 12217	John Edwards, two and a half years ago, six months after we went into Afghanistan announced that it was chaotic, the situation was deteriorating, the warlords were about to take over. Here we are, two and a half years later, we're four days away from a democratic election, the first one in history in Afghanistan
-T84	Claim 12408 12544	We've made enormous progress in Afghanistan, in exactly the right direction, in spite of what John Edwards said two and a half years ago
 R60	Support Arg1:T96 Arg2:T84
 R61	Support Arg1:T83 Arg2:T84
-T85	Claim 12546 12566	He just got it wrong
 R170	Support Arg1:T84 Arg2:T85
 R171	Support Arg1:T99 Arg2:T97
 R172	Support Arg1:T86 Arg2:T100
 R80	Attack Arg1:T112 Arg2:T85
-T110	Claim 14530 14663	what's actually happened in Afghanistan, regardless of this rosy scenario that they paint on Afghanistan, just like they do with Iraq
 R173	Support Arg1:T123 Arg2:T110
 R84	Support Arg1:T124 Arg2:T110
 R174	Support Arg1:T125 Arg2:T110
@@ -381,20 +386,15 @@ R86	Support Arg1:T121 Arg2:T110
 R87	Support Arg1:T122 Arg2:T110
 R175	Attack Arg1:T110 Arg2:T100
 R176	Equivalent Arg1:T100 Arg2:T108
-T111	Premise 15281 15299	75,000 people dead
-T214	Premise 15329 15381	I was there as an observer on behalf of the Congress
 R177	Support Arg1:T214 Arg2:T131
 R178	Support Arg1:T131 Arg2:T128
 R179	Support Arg1:T134 Arg2:T128
 R180	Support Arg1:T135 Arg2:T128
 R181	Attack Arg1:T126 Arg2:T110
-T215	Question 16566 17047	I want people to understand exactly what it is, as you said, that Senator Kerry did say. He said, "You've got to do" -- you know, he was asked about preemptive action at the last debate -- he said, "You've got to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and can prove to the world that you did it for legitimate reasons." What is a global test if it's not a global veto?
 R182	Support Arg1:T153 Arg2:T164
 R183	Support Arg1:T152 Arg2:T164
-T216	Claim 18821 18869	we see the result of there not being a coalition
 R114	Support Arg1:T164 Arg2:T216
 R184	Support Arg1:T170 Arg2:T165
-T217	Claim 20135 20280	It's awfully hard to convey a sense of credibility to allies when you voted for the war and then you declared: Wrong war, wrong place, wrong time
 R116	Attack Arg1:T217 Arg2:T159
 R186	Support Arg1:T168 Arg2:T217
 R185	Support Arg1:T178 Arg2:T168

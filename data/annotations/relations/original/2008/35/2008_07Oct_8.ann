@@ -1,3 +1,9 @@
+T1	Claim 3790 3819	get the support of the people
+T2	Claim 4042 4053	talk softly
+T3	Claim 4059 4076	carry a big stick
+T4	Claim 6341 6349	Not true
+T5	Claim 419 460	we have a difficult situation in Pakistan
+T6	Premise 5316 5429	Senator McCain, this is the guy who sang, "Bomb, bomb, bomb Iran," who called for the annihilation of North Korea
 T656	Claim 477 525	part of the reason we have a difficult situation
 T657	Premise 537 674	we made a bad judgment going into Iraq in the first place when we hadn't finished the job of hunting down bin Laden and crushing al Qaeda
 T659	Claim 997 1047	I think it's so important for us to reverse course
@@ -84,12 +90,7 @@ T743	Premise 9585 9666	He still will not admit that he was wrong about the strat
 T744	Premise 9679 9772	the same kind of strategy of go out and secure and hold and allow people to live normal lives
 T745	Premise 9779 9905	once they feel secure, then they lead normal, social, economic, political lives, the same thing that's happening in Iraq today
 T746	Claim 9107 9138	It is the same overall strategy
-T1	Claim 3790 3819	get the support of the people
-T2	Claim 4042 4053	talk softly
-T3	Claim 4059 4076	carry a big stick
-T4	Claim 6341 6349	Not true
 R1	Support Arg1:T657 Arg2:T656
-T5	Claim 419 460	we have a difficult situation in Pakistan
 R2	Support Arg1:T666 Arg2:T5
 R3	Support Arg1:T667 Arg2:T5
 R4	Support Arg1:T668 Arg2:T5
@@ -122,7 +123,6 @@ R30	Support Arg1:T698 Arg2:T700
 R31	Support Arg1:T705 Arg2:T704
 R32	Support Arg1:T707 Arg2:T705
 R33	Support Arg1:T708 Arg2:T706
-T6	Premise 5316 5429	Senator McCain, this is the guy who sang, "Bomb, bomb, bomb Iran," who called for the annihilation of North Korea
 R34	Attack Arg1:T6 Arg2:T703
 R35	Attack Arg1:T711 Arg2:T6
 R36	Support Arg1:T710 Arg2:T709

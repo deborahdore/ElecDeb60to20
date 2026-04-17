@@ -1,3 +1,9 @@
+T1	Premise 4246 4282	That's what leadership is all about.
+T2	Claim 4388 4450	We not only fixed Medicare and took it way out into the future
+T3	Claim 4452 4498	we did something that you don't know how to do
+T4	Claim 4500 4523	We balanced the budget.
+T5	Premise 5532 5552	we know how to do it
+T6	Claim 9299 9337	Mr. President, you're batting 0 for 2.
 T441	Claim 382 417	Just want to make sure they're safe
 T442	Claim 419 506	When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you
 T443	Premise 367 380	I haven't yet
@@ -177,12 +183,8 @@ R47	Support Arg1:T488 Arg2:T487
 R48	Attack Arg1:T485 Arg2:T482
 R49	Attack Arg1:T490 Arg2:T489
 R50	Attack Arg1:T491 Arg2:T489
-T1	Premise 4246 4282	That's what leadership is all about.
 R51	Support Arg1:T1 Arg2:T491
 R52	Attack Arg1:T492 Arg2:T491
-T2	Claim 4388 4450	We not only fixed Medicare and took it way out into the future
-T3	Claim 4452 4498	we did something that you don't know how to do
-T4	Claim 4500 4523	We balanced the budget.
 R53	Support Arg1:T492 Arg2:T2
 R54	Attack Arg1:T4 Arg2:T3
 R55	Support Arg1:T494 Arg2:T4
@@ -192,7 +194,6 @@ R58	Support Arg1:T497 Arg2:T496
 R59	Support Arg1:T502 Arg2:T501
 R60	Support Arg1:T500 Arg2:T501
 R61	Support Arg1:T501 Arg2:T498
-T5	Premise 5532 5552	we know how to do it
 R62	Support Arg1:T5 Arg2:T498
 R63	Support Arg1:T504 Arg2:T503
 R64	Support Arg1:T505 Arg2:T503
@@ -244,7 +245,6 @@ R109	Support Arg1:T552 Arg2:T553
 R110	Attack Arg1:T554 Arg2:T534
 R111	Support Arg1:T554 Arg2:T559
 R112	Attack Arg1:T559 Arg2:T555
-T6	Claim 9299 9337	Mr. President, you're batting 0 for 2.
 R113	Attack Arg1:T6 Arg2:T556
 R114	Attack Arg1:T6 Arg2:T557
 R115	Attack Arg1:T6 Arg2:T558

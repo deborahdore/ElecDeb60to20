@@ -1,5 +1,15 @@
+T1	Claim 1196 1221	So some may be better off
+T2	Claim 3326 3348	some may be better off
+T3	Claim 200 218	I agree with that.
+T4	Claim 244 301	I may be better off four years from now, but I don't know
+T5	Premise 720 758	f you take a look, are you better off?
+T6	Claim 932 960	But are the American people?
+T7	Premise 3009 3076	Are you working harder to put food on the table, feed your children
+T8	Premise 3078 3122	Are your children getting a better education
+T9	Premise 2848 2940	We ask the people that are viewing tonight, are you better off than you were four years ago.
 T61	Claim 66 117	we are better off today than we were four years ago
 T62	Claim 146 188	he's better off than he was four years ago
+T63	Claim 2625 2678	we are clearly better off than we were four years ago
 T64	Premise 303 348	I looked at the slowest growth in the century
 T65	Premise 350 426	He inherited a growth of 4.7 4.8 percent, now it's down to about 2.4 percent
 T66	Premise 428 510	We're going to pass a million bankruptcies this year for the first time in history
@@ -40,10 +50,6 @@ T102	Premise 3124 3182	Drug use has doubled the past 44 months all across Americ
 T103	Claim 3184 3203	Crime has gone down
 T104	Premise 3208 3314	it's because the mayors like Rudy Giuliani where one third of the drop happened in one city, New York City
 T106	Claim 3354 3529	of the people listening tonight, the working families who will benefit from economic packages, they'll be better off when Bob Dole is president and Jack Kemp is vice president
-T63	Claim 2625 2678	we are clearly better off than we were four years ago
-T1	Claim 1196 1221	So some may be better off
-T2	Claim 3326 3348	some may be better off
-T3	Claim 200 218	I agree with that.
 R1	Support Arg1:T64 Arg2:T65
 R2	Support Arg1:T65 Arg2:T70
 R3	Support Arg1:T66 Arg2:T70
@@ -51,13 +57,10 @@ R4	Support Arg1:T67 Arg2:T70
 R5	Support Arg1:T68 Arg2:T70
 R6	Support Arg1:T69 Arg2:T70
 R7	Support Arg1:T3 Arg2:T62
-T4	Claim 244 301	I may be better off four years from now, but I don't know
 R8	Support Arg1:T71 Arg2:T70
-T5	Premise 720 758	f you take a look, are you better off?
 R9	Attack Arg1:T5 Arg2:T72
 R10	Support Arg1:T73 Arg2:T72
 R11	Support Arg1:T74 Arg2:T72
-T6	Claim 932 960	But are the American people?
 R12	Attack Arg1:T6 Arg2:T72
 R13	Support Arg1:T75 Arg2:T6
 R14	Support Arg1:T76 Arg2:T6
@@ -85,9 +88,6 @@ R35	Support Arg1:T98 Arg2:T63
 R36	Support Arg1:T98 Arg2:T86
 R37	Attack Arg1:T99 Arg2:T98
 R38	Attack Arg1:T99 Arg2:T86
-T7	Premise 3009 3076	Are you working harder to put food on the table, feed your children
-T8	Premise 3078 3122	Are your children getting a better education
-T9	Premise 2848 2940	We ask the people that are viewing tonight, are you better off than you were four years ago.
 R39	Support Arg1:T104 Arg2:T103
 R40	Support Arg1:T9 Arg2:T7
 R41	Support Arg1:T7 Arg2:T8

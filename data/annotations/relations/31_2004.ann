@@ -71,6 +71,7 @@ T70	Premise 7523 7640	as we learned in the same report I quoted, Saddam Hussein 
 T71	Premise 7642 7735	He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs
 T72	Premise 7785 7828	My opponent thought there was weapons there
 T73	Premise 7830 7869	That's why he called him a grave threat
+T74	Premise 7872 7925	I wasn't happy when we found out there wasn't weapons
 T75	Premise 7931 7989	we've got an intelligence group together to figure out why
 T76	Claim 7996 8030	Saddam Hussein was a unique threat
 T77	Claim 8036 8080	the world is better off without him in power
@@ -89,14 +90,13 @@ T89	Claim 9541 9590	not rushed to war without a plan to win the peace
 T90	Claim 9593 9636	I would have brought our allies to our side
 T91	Claim 9638 9736	I would have fought to make certain our troops had everybody possible to help them win the mission
 T92	Premise 9769 9792	pushed our allies aside
+T93	Premise 9739 9767	This president rushed to war
 T94	Claim 9798 9869	Iran now is more dangerous, and so is North Korea, with nuclear weapons
 T95	Claim 8583 8690	He wants you to believe that because he can't come here and tell you that he's created new jobs for America
 T96	Claim 8534 8581	the president wishes that I had changed my mind
 T97	Premise 8692 8706	He's lost jobs
 T98	Claim 8709 8784	He can't come here and tell you that he's created health care for Americans
 T99	Premise 8800 8900	we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri
-T74	Premise 7872 7925	I wasn't happy when we found out there wasn't weapons
-T93	Premise 9739 9767	This president rushed to war
 T100	Claim 8903 8965	He can't come here and tell you that he's left no child behind
 T101	Premise 8974 9009	he didn't fund no child left behind
 T102	Claim 9032 9056	He's trying to attack me
@@ -692,8 +692,8 @@ T691	Premise 56131 56163	He voted 98 times to raise taxes
 T692	Premise 56173 56201	these aren't make-up figures
 T693	Claim 56210 56256	people are going to have to look at the record
 T694	Claim 56258 56313	Look at the record of the man running for the president
-T696	Claim 56426 56461	They named him because of his votes
 T695	Claim 56316 56424	They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings
+T696	Claim 56426 56461	They named him because of his votes
 T697	Claim 56467 56479	it's reality
 T698	Claim 56482 56561	It's just not credible to say he's going to keep taxes down and balance budgets
 T699	Claim 58060 58097	We've got a good, common-sense policy

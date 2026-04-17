@@ -6,6 +6,7 @@ T5	Claim 4313 4372	I think we have to make some planning assumption to proceed
 T6	Claim 4593 4654	There are important issues out there that need to be resolved
 T7	Premise 4656 4706	It's important for us to get on with that business
 T8	Premise 3656 3860	We're really going to choose between what I consider to be an old way of governing ourselves of high levels of spending, high taxes, ever more intrusive bureaucracy or a new course, a new era, if you will
+T9	Claim 3964 4001	we have to make some kind of forecast
 T10	Claim 3866 3925	Governor Bush and I want to offer that new course of action
 T11	Premise 4003 4052	We can't make 12-month decisions in this business
 T12	Premise 4054 4201	We're talking about the kinds of fundamental changes in programs and government that are going to affect people's lives for the next 25 or 30 years
@@ -52,13 +53,12 @@ T52	Claim 7755 7837	The rest we'll use for middle class tax cuts and invest in p
 T53	Claim 8470 8590	We're going to go on and give the middle class the ability to deduct up to $10,000 a year in the cost of college tuition
 T54	Premise 8597 8684	that is a tremendous life-saving change which will help people carry on their education
 T55	Premise 8689 8790	allow them to develop the kinds of skills that will help them succeed in the hi-tech economy of today
-T80	Question 1161 1402	Senator, few hard working Americans would base their well-being on bonuses they hope to get five or ten years from now. Why do you, and you, Secretary Cheney, predict surpluses you cannot possibly guarantee to pay for your proposed programs?
 T56	Claim 2720 2811	I'm going to explain tonight how we're going to do all this and remain fiscally responsible
+T80	Question 1161 1402	Senator, few hard working Americans would base their well-being on bonuses they hope to get five or ten years from now. Why do you, and you, Secretary Cheney, predict surpluses you cannot possibly guarantee to pay for your proposed programs?
 R1	Support Arg1:T1 Arg2:T56
 R2	Support Arg1:T2 Arg2:T56
 R3	Support Arg1:T3 Arg2:T56
 R4	Support Arg1:T8 Arg2:T4
-T9	Claim 3964 4001	we have to make some kind of forecast
 R5	Support Arg1:T12 Arg2:T9
 R6	Support Arg1:T11 Arg2:T9
 R7	Attack Arg1:T13 Arg2:T5

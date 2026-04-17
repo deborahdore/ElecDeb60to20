@@ -1,3 +1,17 @@
+T1	Premise 1020 1057	where they can't bring the money back
+T2	Premise 1067 1226	politicians like Secretary Clinton won't allow them to bring the money back, because the taxes are so onerous, and the bureaucratic red tape, so what — is so bad
+T3	Premise 4227 4252	building the middle class
+T4	Premise 4254 4283	investing in the middle class
+T5	Premise 4285 4354	making college debt-free so more young people can get their education
+T6	Premise 4356 4426	helping people refinance their — their debt from college at a lower rate
+T7	Premise 5311 5351	keeping the interest rates at this level
+T8	Claim 6041 6089	I don't mind releasing — I'm under a routine audit
+T9	Claim 9006 9046	I think there may be a couple of reasons
+T10	Claim 8933 9001	So you've got to ask yourself, why won't he release his tax returns?
+T11	Claim 11077 11100	That was done purposely
+T12	Premise 11602 11736	The report that said $650 — which, by the way, a lot of friends of mine that know my business say, boy, that's really not a lot of money
+T13	Premise 12719 12923	You land at LaGuardia, you land at Kennedy, you land at LAX, you land at Newark, and you come in from Dubai and Qatar and you see these incredible — you come in from China, you see these incredible airports
+T14	Claim 13288 13307	it's really a shame
 T15	Claim 475 508	I'm really calling for major jobs
 T16	Premise 518 565	the wealthy are going to create tremendous jobs
 T17	Premise 567 606	They're going to expand their companies
@@ -6,6 +20,13 @@ T19	Claim 3881 3906	Trickle-down did not work
 T20	Premise 3908 3960	It got us into the mess we were in, in 2008 and 2009
 T21	Premise 4059 4177	And they are saying, hey, we need to do more to make the contributions we should be making to rebuild the middle class
 T22	Claim 4178 4217	I don't think top-down works in America
+T23	Premise 870 1018	when these people are going to put billions and billions of dollars into companies, and when they're going to bring $2.5 trillion back from overseas
+T24	Premise 1764 1860	we have — we have a president that can't sit them around a table and get them to approve something
+T25	Claim 2445 2554	I have a feeling that by, the end of this evening, I'm going to be blamed for everything that's ever happened
+T26	Claim 3962 4005	Slashing taxes on the wealthy hasn't worked
+T27	Premise 4006 4057	And a lot of really smart, wealthy people know that
+T28	Premise 11785 11963	The buildings that were in question, they said in the same report, which was — actually, it wasn't even a bad story, to be honest with you, but the buildings are worth $3.9 billion
+T29	Premise 16254 16355	when Secretary Clinton talks about people that didn't get paid, first of all, they did get paid a lot
 T103	Claim 6581 6631	that's the kind of thinking that our country needs
 T263	Claim 126 196	The fundamental difference between the two of you concerns the wealthy
 T264	Premise 321 375	Mr. Trump, you're calling for tax cuts for the wealthy
@@ -126,9 +147,9 @@ T394	Claim 13384 13419	Our country has tremendous problems
 T395	Premise 13444 13473	We're a serious debtor nation
 T396	Premise 13421 13442	We're a debtor nation
 T397	Claim 13591 13669	we don't have the money, because it's been squandered on so many of your ideas
+T398	Claim 13884 13911	It would be squandered, too
 T399	Premise 13479 13585	we have a country that needs new roads, new tunnels, new bridges, new airports, new schools, new hospitals
 T400	Claim 13751 13823	maybe because you haven't paid any federal income tax for a lot of years
-T398	Claim 13884 13911	It would be squandered, too
 T401	Claim 14617 14696	you wouldn't pay what the man needed to be paid, what he was charging you to do
 T402	Premise 14582 14611	It immediately was put to use
 T403	Premise 14555 14580	It's a beautiful facility
@@ -172,8 +193,6 @@ T442	Claim 17350 17399	we don't have people that know what they're doing
 R1	Support Arg1:T16 Arg2:T15
 R2	Support Arg1:T17 Arg2:T18
 R3	Support Arg1:T267 Arg2:T268
-T1	Premise 1020 1057	where they can't bring the money back
-T2	Premise 1067 1226	politicians like Secretary Clinton won't allow them to bring the money back, because the taxes are so onerous, and the bureaucratic red tape, so what — is so bad
 R5	Support Arg1:T279 Arg2:T278
 R6	Support Arg1:T280 Arg2:T278
 R7	Support Arg1:T281 Arg2:T278
@@ -181,10 +200,6 @@ R8	Support Arg1:T285 Arg2:T283
 R9	Support Arg1:T286 Arg2:T272
 R10	Support Arg1:T270 Arg2:T269
 R11	Support Arg1:T20 Arg2:T19
-T3	Premise 4227 4252	building the middle class
-T4	Premise 4254 4283	investing in the middle class
-T5	Premise 4285 4354	making college debt-free so more young people can get their education
-T6	Premise 4356 4426	helping people refinance their — their debt from college at a lower rate
 R12	Support Arg1:T3 Arg2:T296
 R13	Support Arg1:T4 Arg2:T296
 R14	Support Arg1:T5 Arg2:T296
@@ -198,20 +213,16 @@ R21	Support Arg1:T304 Arg2:T308
 R22	Support Arg1:T21 Arg2:T297
 R23	Support Arg1:T313 Arg2:T312
 R24	Support Arg1:T310 Arg2:T309
-T7	Premise 5311 5351	keeping the interest rates at this level
-T8	Claim 6041 6089	I don't mind releasing — I'm under a routine audit
 R25	Support Arg1:T8 Arg2:T315
 R26	Support Arg1:T321 Arg2:T322
 R27	Support Arg1:T324 Arg2:T322
 R28	Support Arg1:T334 Arg2:T332
 R29	Support Arg1:T329 Arg2:T328
 R30	Support Arg1:T339 Arg2:T340
-T9	Claim 9006 9046	I think there may be a couple of reasons
 R31	Support Arg1:T342 Arg2:T9
 R32	Support Arg1:T343 Arg2:T9
 R33	Support Arg1:T346 Arg2:T9
 R34	Support Arg1:T344 Arg2:T9
-T10	Claim 8933 9001	So you've got to ask yourself, why won't he release his tax returns?
 R35	Support Arg1:T341 Arg2:T10
 R36	Support Arg1:T345 Arg2:T344
 R37	Support Arg1:T349 Arg2:T348
@@ -219,20 +230,17 @@ R38	Support Arg1:T350 Arg2:T345
 R39	Support Arg1:T353 Arg2:T351
 R40	Support Arg1:T355 Arg2:T354
 R41	Support Arg1:T362 Arg2:T361
-T11	Claim 11077 11100	That was done purposely
 R42	Support Arg1:T357 Arg2:T359
 R43	Support Arg1:T358 Arg2:T360
 R44	Support Arg1:T367 Arg2:T366
 R45	Attack Arg1:T369 Arg2:T353
 R46	Support Arg1:T370 Arg2:T369
-T12	Premise 11602 11736	The report that said $650 — which, by the way, a lot of friends of mine that know my business say, boy, that's really not a lot of money
 R47	Support Arg1:T12 Arg2:T372
 R48	Support Arg1:T375 Arg2:T12
 R49	Support Arg1:T377 Arg2:T378
 R50	Support Arg1:T382 Arg2:T379
 R51	Support Arg1:T381 Arg2:T379
 R52	Support Arg1:T380 Arg2:T379
-T13	Premise 12719 12923	You land at LaGuardia, you land at Kennedy, you land at LAX, you land at Newark, and you come in from Dubai and Qatar and you see these incredible — you come in from China, you see these incredible airports
 R53	Support Arg1:T383 Arg2:T385
 R54	Support Arg1:T386 Arg2:T385
 R55	Support Arg1:T13 Arg2:T388
@@ -241,7 +249,6 @@ R57	Support Arg1:T384 Arg2:T379
 R58	Support Arg1:T396 Arg2:T394
 R59	Support Arg1:T390 Arg2:T394
 R60	Support Arg1:T399 Arg2:T394
-T14	Claim 13288 13307	it's really a shame
 R61	Support Arg1:T389 Arg2:T14
 R62	Support Arg1:T392 Arg2:T14
 R63	Support Arg1:T393 Arg2:T14
@@ -262,7 +269,6 @@ R77	Support Arg1:T429 Arg2:T422
 R78	Support Arg1:T17 Arg2:T15
 R79	Support Arg1:T266 Arg2:T15
 R80	Support Arg1:T273 Arg2:T15
-T23	Premise 870 1018	when these people are going to put billions and billions of dollars into companies, and when they're going to bring $2.5 trillion back from overseas
 R81	Support Arg1:T23 Arg2:T15
 R4	Support Arg1:T268 Arg2:T15
 R82	Support Arg1:T275 Arg2:T278
@@ -270,18 +276,14 @@ R83	Support Arg1:T2 Arg2:T276
 R84	Support Arg1:T1 Arg2:T276
 R85	Support Arg1:T276 Arg2:T278
 R86	Support Arg1:T275 Arg2:T15
-T24	Premise 1764 1860	we have — we have a president that can't sit them around a table and get them to approve something
 R87	Support Arg1:T24 Arg2:T281
 R88	Attack Arg1:T283 Arg2:T284
-T25	Claim 2445 2554	I have a feeling that by, the end of this evening, I'm going to be blamed for everything that's ever happened
 R89	Attack Arg1:T25 Arg2:T286
 R90	Support Arg1:T289 Arg2:T288
 R91	Attack Arg1:T288 Arg2:T2
 R92	Attack Arg1:T290 Arg2:T288
 R93	Support Arg1:T293 Arg2:T292
-T26	Claim 3962 4005	Slashing taxes on the wealthy hasn't worked
 R94	Support Arg1:T26 Arg2:T19
-T27	Premise 4006 4057	And a lot of really smart, wealthy people know that
 R95	Support Arg1:T27 Arg2:T26
 R96	Equivalent Arg1:T22 Arg2:T19
 R97	Attack Arg1:T301 Arg2:T22
@@ -297,7 +299,6 @@ R106	Attack Arg1:T347 Arg2:T9
 R107	Attack Arg1:T361 Arg2:T358
 R108	Support Arg1:T366 Arg2:T11
 R109	Attack Arg1:T12 Arg2:T346
-T28	Premise 11785 11963	The buildings that were in question, they said in the same report, which was — actually, it wasn't even a bad story, to be honest with you, but the buildings are worth $3.9 billion
 R110	Support Arg1:T28 Arg2:T375
 R111	Support Arg1:T378 Arg2:T12
 R112	Support Arg1:T404 Arg2:T406
@@ -309,7 +310,6 @@ R117	Support Arg1:T416 Arg2:T420
 R118	Support Arg1:T418 Arg2:T420
 R119	Support Arg1:T417 Arg2:T420
 R120	Attack Arg1:T425 Arg2:T420
-T29	Premise 16254 16355	when Secretary Clinton talks about people that didn't get paid, first of all, they did get paid a lot
 R121	Attack Arg1:T29 Arg2:T406
 R122	Attack Arg1:T435 Arg2:T420
 R123	Support Arg1:T437 Arg2:T435

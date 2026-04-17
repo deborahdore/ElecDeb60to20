@@ -1,3 +1,6 @@
+T1	Premise 1018 1180	the very reason that concerned Senator Kennedy when in January of this year, in his kick-off press conference, he said that he favored aid for school construction
+T2	Premise 1271 1304	that's the way I read his remarks
+T3	Premise 4916 5052	My view is that you can do these programs - and they should be carefully drawn - within a balanced budget if our economy is moving ahead
 T268	Claim 141 208	I think you asked for a crash program to raise education standards,
 T269	Premise 286 399	you said - it was back in 1957 - that salaries paid to school teachers were nothing short of a national disgrace.
 T270	Premise 400 455	Higher salaries for teachers, you added, were important
@@ -60,10 +63,8 @@ R17	Support Arg1:T304 Arg2:T307
 R18	Attack Arg1:T312 Arg2:T313
 R19	Support Arg1:T312 Arg2:T310
 R20	Support Arg1:T311 Arg2:T310
-T1	Premise 1018 1180	the very reason that concerned Senator Kennedy when in January of this year, in his kick-off press conference, he said that he favored aid for school construction
 R21	Support Arg1:T1 Arg2:T274
 R22	Attack Arg1:T276 Arg2:T1
-T2	Premise 1271 1304	that's the way I read his remarks
 R23	Support Arg1:T2 Arg2:T276
 R24	Support Arg1:T281 Arg2:T280
 R25	Support Arg1:T280 Arg2:T282
@@ -74,6 +75,5 @@ R11	Support Arg1:T299 Arg2:T303
 R12	Support Arg1:T307 Arg2:T300
 R15	Support Arg1:T308 Arg2:T303
 R28	Support Arg1:T309 Arg2:T303
-T3	Premise 4916 5052	My view is that you can do these programs - and they should be carefully drawn - within a balanced budget if our economy is moving ahead
 R29	Support Arg1:T3 Arg2:T311
 R30	Attack Arg1:T310 Arg2:T314

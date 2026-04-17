@@ -1,3 +1,5 @@
+T1	Premise 3124 3135	I'm elected
+T2	Claim 4881 4936	If we don't, the bureaucratic mess is going to continue
 T165	Claim 532 561	I've been through this before
 T166	Premise 575 601	as the governor of Georgia
 T167	Premise 603 856	When I took aver we had uh a bureaucratic mess, like we have in Washington now, and we had three hundred agencies, departments, bureaus, commissions - uh some uh - fully budgeted, some not, but all having responsibility to carry out that was in conflict
@@ -63,7 +65,6 @@ T230	Premise 6993 7102	in the term that I've been president - some two years - w
 T231	Premise 7104 7209	In the White House staff itself, when I became president, we had roughly five hundred and forty employees
 T232	Premise 7211 7267	We now have about four hundred and eighty-five employees
 T233	Claim 7272 7391	we've made a rather significant reduction in the number of employees on the White House staff working for the president
-T1	Premise 3124 3135	I'm elected
 R1	Support Arg1:T166 Arg2:T165
 R2	Support Arg1:T172 Arg2:T171
 R3	Support Arg1:T173 Arg2:T171
@@ -95,7 +96,6 @@ R31	Support Arg1:T203 Arg2:T200
 R32	Support Arg1:T206 Arg2:T205
 R33	Support Arg1:T212 Arg2:T204
 R34	Support Arg1:T212 Arg2:T207
-T2	Claim 4881 4936	If we don't, the bureaucratic mess is going to continue
 R35	Support Arg1:T2 Arg2:T207
 R36	Support Arg1:T213 Arg2:T2
 R37	Support Arg1:T214 Arg2:T2

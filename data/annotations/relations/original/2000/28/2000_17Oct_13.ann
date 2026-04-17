@@ -1,3 +1,4 @@
+T1	Claim 1011 1132	If you are part of the -- of the bottom 20% or so of wage earners, then you will get an expanded earned income tax credit
 T670	Claim 1258 1361	if you have an elderly parent or grandparent who needs long-term care, then you will get help with that
 T671	Premise 1363 1457	$3,000 tax credit to help your expenses in taking care of a loved one who needs long-term care
 T672	Claim 1134 1235	Now, the tax relief that I propose is directed specifically at middle-income individuals and families
@@ -41,7 +42,6 @@ T709	Claim 2924 2994	an educated child is one much more likely to be hopeful and
 R1	Support Arg1:T681 Arg2:T682
 R2	Support Arg1:T674 Arg2:T673
 R3	Support Arg1:T675 Arg2:T676
-T1	Claim 1011 1132	If you are part of the -- of the bottom 20% or so of wage earners, then you will get an expanded earned income tax credit
 R4	Support Arg1:T681 Arg2:T680
 R5	Support Arg1:T680 Arg2:T673
 R6	Support Arg1:T677 Arg2:T678

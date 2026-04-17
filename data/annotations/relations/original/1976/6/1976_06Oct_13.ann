@@ -1,3 +1,9 @@
+T1	Claim 782 830	It's not a matter of diplomacy or trade with me.
+T2	Claim 831 856	It's a matter of morality
+T3	Claim 312 426	I believe that the boycott of American businesses by the Arab countries because those businesses trade with Israel
+T4	Claim 430 504	because they have American Jews who are owners or directors in the company
+T5	Claim 505 529	is an absolute disgrace.
+T471	Claim 1405 1454	it would've prevented the boycott from continuing
 T475	Claim 530 676	This is the first time that I've - remember in the history of our country when we've let a foreign country circumvent or change our Bill of Rights
 T476	Claim 678 780	I'll do everything I can as president to stop the boycott of American businesses by the Arab countries
 T477	Claim 862 1102	I don't believe that Arab countries will pursue it when we have a strong president who will protect the integrity of our country, the commitment of our Constitution and Bill of Rights and protect people in this country who happen to be Jews
@@ -13,15 +19,9 @@ T486	Premise 2114 2334	Just on Monday of this week I signed a tax bill that incl
 T487	Premise 2340 2710	last week when we were trying to get the Export Administration Act through the Congress - necessary legislation - my administration went to Capitol Hill and tried to convince the House and the Senate that we should have an amendment on that legislation which would take strong and effective action against those who uh - participate or cooperate with the Arab uh boycott
 T488	Premise 2737 2763	the Congress failed to act
 T489	Claim 2765 2906	I am going to announce tomorrow that the Department of Commerce will disclose those companies that have uh - participated in the Arab boycott
-T471	Claim 1405 1454	it would've prevented the boycott from continuing
-T537	Claim 2908 2940	This is something that we can do
 T490	Premise 2942 2970	the Congress failed to do it
+T537	Claim 2908 2940	This is something that we can do
 T538	Claim 2976 2994	we intend to do it
-T1	Claim 782 830	It's not a matter of diplomacy or trade with me.
-T2	Claim 831 856	It's a matter of morality
-T3	Claim 312 426	I believe that the boycott of American businesses by the Arab countries because those businesses trade with Israel
-T4	Claim 430 504	because they have American Jews who are owners or directors in the company
-T5	Claim 505 529	is an absolute disgrace.
 R1	Support Arg1:T3 Arg2:T5
 R2	Support Arg1:T4 Arg2:T5
 R3	Support Arg1:T475 Arg2:T5

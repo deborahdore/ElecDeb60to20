@@ -1,3 +1,4 @@
+T1	Premise 1479 1747	when we have other countries that can't manage their economy down in Central and South America, we send down the American ambassador, we send down the International Monetary Fund, and we tell them what they can buy and what they can sell and how to run their economies
 T265	Claim 464 576	if you let me write $200 billion worth of hot checks every year, I could give you an illusion of prosperity, too
 T266	Claim 602 720	This is an administration that has more than doubled the national debt, and they've done that in less than eight years
 T267	Premise 722 832	They have taken this country from the No. 1 lender nation in the world to the No. 1 debtor nation in the world
@@ -26,7 +27,6 @@ R6	Support Arg1:T274 Arg2:T270
 R7	Support Arg1:T270 Arg2:T273
 R8	Support Arg1:T266 Arg2:T273
 R9	Support Arg1:T272 Arg2:T273
-T1	Premise 1479 1747	when we have other countries that can't manage their economy down in Central and South America, we send down the American ambassador, we send down the International Monetary Fund, and we tell them what they can buy and what they can sell and how to run their economies
 R10	Support Arg1:T1 Arg2:T274
 R11	Support Arg1:T283 Arg2:T276
 R12	Attack Arg1:T276 Arg2:T273

@@ -1,3 +1,10 @@
+T1	Premise 432 545	In the case of the product liability bill, which they passed and I vetoed, I think that's what he's talking about
+T2	Claim 3138 3193	You didn't do that with Mr. with President Bush in 1992
+T3	Premise 3097 3136	And I will address you as Mr. President
+T4	Premise 4419 4443	Let's be honest about it
+T5	Claim 5506 5556	I know the President's been puffing a lot on that.
+T6	Premise 5460 5505	But I want to touch on this is tobacco thing.
+T7	Premise 5972 6041	 What about drugs that have increased, doubled in the last 44 months?
 T183	Claim 1815 1843	That's what I've tried to do
 T184	Claim 1848 1894	that's what I will continue to do as president
 T185	Claim 1524 1573	I've done a lot of things that were controversial
@@ -43,6 +50,7 @@ T225	Claim 4698 4791	Whatever it is, whatever the checklist was in '92, it's all
 T226	Premise 4793 4869	I worked with Senator Mitchell, who played me, I guess, in the debate warmup
 T227	Premise 4871 4902	We tried six or eight years ago
 T228	Premise 4904 4986	He appointed three people, I appointed three people to get campaign finance reform
+T229	Premise 5848 5878	It took three and a half years
 T230	Claim 5143 5190	We have a commission on campaign finance reform
 T231	Premise 5043 5072	You've suggested a commission
 T232	Premise 5074 5091	Newt Gingrich did
@@ -58,7 +66,6 @@ T241	Premise 5588 5677	That was my first vote against tobacco companies when I s
 T242	Claim 5683 5727	I've had a consistent record ever since 1965
 T243	Premise 5729 5824	We passed a bill in 1992 that encouraged the states to adopt programs to stop kids from smoking
 T244	Premise 5826 5846	All 50 states did it
-T229	Premise 5848 5878	It took three and a half years
 T245	Premise 5880 5970	It wasn't until election year, Mr. President, that you ever thought about stopping smoking
 T246	Premise 6042 6104	Cocaine is up 141 percent -- marijuana, cocaine up 166 percent
 T247	Claim 6126 6153	you have a selective memory
@@ -80,7 +87,6 @@ T262	Premise 7929 7971	They know the Democratic party won't do it
 T263	Premise 7797 7844	These are sophisticated people watching tonight
 T264	Premise 7846 7880	Millions and millions of Americans
 T265	Claim 7973 8022	We ought to agree that somebody else should do it
-T1	Premise 432 545	In the case of the product liability bill, which they passed and I vetoed, I think that's what he's talking about
 R1	Support Arg1:T197 Arg2:T198
 R2	Support Arg1:T198 Arg2:T199
 R3	Support Arg1:T199 Arg2:T200
@@ -105,8 +111,6 @@ R21	Attack Arg1:T203 Arg2:T194
 R22	Support Arg1:T208 Arg2:T204
 R23	Support Arg1:T204 Arg2:T203
 R24	Support Arg1:T209 Arg2:T203
-T2	Claim 3138 3193	You didn't do that with Mr. with President Bush in 1992
-T3	Premise 3097 3136	And I will address you as Mr. President
 R25	Attack Arg1:T3 Arg2:T2
 R26	Support Arg1:T210 Arg2:T211
 R27	Attack Arg1:T211 Arg2:T203
@@ -114,7 +118,6 @@ R28	Support Arg1:T214 Arg2:T212
 R29	Support Arg1:T213 Arg2:T212
 R30	Attack Arg1:T215 Arg2:T212
 R31	Attack Arg1:T217 Arg2:T216
-T4	Premise 4419 4443	Let's be honest about it
 R32	Support Arg1:T4 Arg2:T218
 R33	Support Arg1:T218 Arg2:T219
 R34	Support Arg1:T221 Arg2:T219
@@ -132,8 +135,6 @@ R45	Support Arg1:T235 Arg2:T236
 R46	Support Arg1:T237 Arg2:T236
 R47	Support Arg1:T238 Arg2:T236
 R48	Support Arg1:T239 Arg2:T236
-T5	Claim 5506 5556	I know the President's been puffing a lot on that.
-T6	Premise 5460 5505	But I want to touch on this is tobacco thing.
 R49	Support Arg1:T6 Arg2:T5
 R50	Support Arg1:T240 Arg2:T241
 R51	Support Arg1:T241 Arg2:T242
@@ -142,7 +143,6 @@ R53	Support Arg1:T243 Arg2:T244
 R54	Support Arg1:T244 Arg2:T229
 R55	Support Arg1:T229 Arg2:T242
 R56	Attack Arg1:T243 Arg2:T245
-T7	Premise 5972 6041	 What about drugs that have increased, doubled in the last 44 months?
 R57	Attack Arg1:T246 Arg2:T7
 R58	Attack Arg1:T247 Arg2:T246
 R59	Attack Arg1:T247 Arg2:T245

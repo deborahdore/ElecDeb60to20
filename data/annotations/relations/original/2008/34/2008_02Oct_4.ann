@@ -1,9 +1,19 @@
+T1	Claim 685 788	of John McCain, the existing one for people making over $250,000, which is $130 billion this year alone
+T2	Claim 971 1133	And what we're not going to also hold up on, Gwen, is we cannot afford to hold up on providing for incentives for new jobs by an energy policy, creating new jobs.
+T3	Premise 1848 1871	I call that unpatriotic
+T4	Premise 1873 1896	I call that unpatriotic
+T5	Premise 2547 2596	You know what I had to do in the state of Alaska?
+T6	Claim 2597 2800	I had to take on those oil companies and tell them, "No," you know, any of the greed there that has been kind of instrumental, I guess, in their mode of operation, that wasn't going to happen in my state
+T7	Premise 2802 3205	And that's why Tillerson at Exxon and Mulva at ConocoPhillips, bless their hearts, they're doing what they need to do, as corporate CEOs, but they're not my biggest fans, because what I had to do up there in Alaska was to break up a monopoly up there and say, you know, the people are going to come first and we're going to make sure that we have value given to the people of Alaska with those resources
+T8	Premise 3294 3428	not when it adversely affects the people who live in a state and, in this case, in a country who should be benefiting at the same time
+T9	Claim 3532 3671	that I then had to turn around, as a governor of an energy-producing state, and kind of undo in my own area of expertise, and that's energy
+T10	Claim 5428 5489	If that is not proof of what I say, I'm not sure what can be.
 T162	Claim 443 536	the one thing we might have to slow down is a commitment we made to double foreign assistance
 T163	Claim 538 575	We'll probably have to slow that down
 T164	Claim 576 681	We also are going to make sure that we do not go forward with the tax cut proposals of the administration
+T165	Claim 1134 1164	We cannot slow up on education
 T166	Claim 790 899	We're not going to support the $300 billion tax cut that they have for corporate America and the very wealthy
 T167	Claim 901 969	We're not going to support another $4 billion tax cut for ExxonMobil
-T165	Claim 1134 1164	We cannot slow up on education
 T169	Premise 1174 1269	that's the engine that is going to give us the economic growth and competitiveness that we need
 T170	Claim 1275 1374	we are not going to slow up on the whole idea of providing for affordable health care for Americans
 T171	Claim 1519 1613	we are going to, in fact, eliminate those wasteful spending that exist in the budget right now
@@ -34,11 +44,7 @@ T195	Claim 5061 5203	We want to be able to do for all of you Americans, give you
 T196	Claim 5205 5260	But John McCain will not support a windfall profits tax
 T197	Premise 5262 5426	They've made $600 billion since 2001, and John McCain wants to give them, all by itself -- separate, no additional bill, all by itself -- another $4 billion tax cut
 T313	Claim 26 28	No
-T1	Claim 685 788	of John McCain, the existing one for people making over $250,000, which is $130 billion this year alone
-T2	Claim 971 1133	And what we're not going to also hold up on, Gwen, is we cannot afford to hold up on providing for incentives for new jobs by an energy policy, creating new jobs.
 R1	Support Arg1:T169 Arg2:T165
-T3	Premise 1848 1871	I call that unpatriotic
-T4	Premise 1873 1896	I call that unpatriotic
 R2	Support Arg1:T163 Arg2:T162
 R3	Support Arg1:T164 Arg2:T1
 R4	Attack Arg1:T3 Arg2:T172
@@ -53,15 +59,10 @@ R12	Support Arg1:T162 Arg2:T171
 R13	Support Arg1:T175 Arg2:T174
 R14	Support Arg1:T177 Arg2:T176
 R15	Support Arg1:T176 Arg2:T175
-T5	Premise 2547 2596	You know what I had to do in the state of Alaska?
-T6	Claim 2597 2800	I had to take on those oil companies and tell them, "No," you know, any of the greed there that has been kind of instrumental, I guess, in their mode of operation, that wasn't going to happen in my state
 R16	Support Arg1:T5 Arg2:T6
-T7	Premise 2802 3205	And that's why Tillerson at Exxon and Mulva at ConocoPhillips, bless their hearts, they're doing what they need to do, as corporate CEOs, but they're not my biggest fans, because what I had to do up there in Alaska was to break up a monopoly up there and say, you know, the people are going to come first and we're going to make sure that we have value given to the people of Alaska with those resources
 R17	Support Arg1:T7 Arg2:T6
-T8	Premise 3294 3428	not when it adversely affects the people who live in a state and, in this case, in a country who should be benefiting at the same time
 R18	Support Arg1:T6 Arg2:T178
 R19	Attack Arg1:T178 Arg2:T8
-T9	Claim 3532 3671	that I then had to turn around, as a governor of an energy-producing state, and kind of undo in my own area of expertise, and that's energy
 R21	Attack Arg1:T9 Arg2:T179
 R22	Support Arg1:T7 Arg2:T178
 R20	Support Arg1:T184 Arg2:T185
@@ -77,6 +78,5 @@ R33	Attack Arg1:T195 Arg2:T196
 R28	Attack Arg1:T191 Arg2:T190
 R29	Support Arg1:T188 Arg2:T183
 R34	Support Arg1:T196 Arg2:T197
-T10	Claim 5428 5489	If that is not proof of what I say, I'm not sure what can be.
 R35	Support Arg1:T197 Arg2:T10
 R36	Equivalent Arg1:T4 Arg2:T3

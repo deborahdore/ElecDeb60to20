@@ -1,3 +1,8 @@
+T1	Claim 8663 8680	He didn't have 40
+T2	Claim 5116 5155	 Leaders run to problem to fix problems
+T3	Claim 7130 7168	Not raising taxes is not cutting taxes
+T4	Claim 7316 7381	Not spending more money as much as they say is not a spending cut
+T5	Claim 8353 8382	that actually works sometimes
 T775	Claim 174 236	We don't think that unelected judges should make this decision
 T776	Claim 238 384	that people through their elected representatives in reaching a consensus in society through the democratic process should make this determination
 T780	Claim 785 812	I suspect that would happen
@@ -90,7 +95,6 @@ T867	Premise 9042 9059	Look at my record
 T868	Claim 9061 9097	It's been all about the middle class
 T869	Claim 9099 9139	They're the people who grow this country
 T870	Claim 9141 9214	We think you grow this country from the middle out, not from the top down
-T1	Claim 8663 8680	He didn't have 40
 R1	Support Arg1:T781 Arg2:T780
 R2	Support Arg1:T776 Arg2:T775
 R3	Support Arg1:T782 Arg2:T783
@@ -113,7 +117,6 @@ R19	Support Arg1:T817 Arg2:T812
 R20	Support Arg1:T819 Arg2:T812
 R21	Support Arg1:T821 Arg2:T822
 R22	Support Arg1:T823 Arg2:T822
-T2	Claim 5116 5155	 Leaders run to problem to fix problems
 R23	Support Arg1:T818 Arg2:T812
 R24	Support Arg1:T820 Arg2:T812
 R25	Support Arg1:T822 Arg2:T2
@@ -133,12 +136,9 @@ R38	Support Arg1:T843 Arg2:T842
 R39	Support Arg1:T847 Arg2:T842
 R40	Support Arg1:T846 Arg2:T842
 R41	Support Arg1:T845 Arg2:T842
-T3	Claim 7130 7168	Not raising taxes is not cutting taxes
-T4	Claim 7316 7381	Not spending more money as much as they say is not a spending cut
 R42	Support Arg1:T851 Arg2:T850
 R43	Support Arg1:T853 Arg2:T852
 R44	Support Arg1:T850 Arg2:T849
-T5	Claim 8353 8382	that actually works sometimes
 R45	Support Arg1:T5 Arg2:T856
 R46	Support Arg1:T854 Arg2:T853
 R47	Support Arg1:T855 Arg2:T854

@@ -1,3 +1,7 @@
+T1	Premise 2994 3106	They look at Washington and see people pointing fingers and casting blame and saying one thing and doing another
+T2	Premise 3108 3198	There's a lot of young folks saying, you know, why do I want to be involved with this mess
+T3	Premise 3946 4004	could an administration change the tone in Washington, D.C
+T4	Premise 4116 4134	We worked together
 T563	Claim 546 568	We've got to change it
 T564	Claim 2792 2798	We can
 T565	Claim 2687 2790	we can renew and rekindle the American spirit and make our future what our founders dreamed it could be
@@ -67,8 +71,6 @@ R19	Support Arg1:T567 Arg2:T565
 R20	Support Arg1:T564 Arg2:T565
 R21	Support Arg1:T573 Arg2:T565
 R22	Support Arg1:T590 Arg2:T589
-T1	Premise 2994 3106	They look at Washington and see people pointing fingers and casting blame and saying one thing and doing another
-T2	Premise 3108 3198	There's a lot of young folks saying, you know, why do I want to be involved with this mess
 R23	Support Arg1:T1 Arg2:T589
 R24	Support Arg1:T2 Arg2:T589
 R25	Support Arg1:T605 Arg2:T603
@@ -82,10 +84,8 @@ R32	Attack Arg1:T597 Arg2:T602
 R33	Attack Arg1:T598 Arg2:T602
 R34	Attack Arg1:T599 Arg2:T598
 R35	Support Arg1:T599 Arg2:T604
-T3	Premise 3946 4004	could an administration change the tone in Washington, D.C
 R36	Attack Arg1:T601 Arg2:T3
 R37	Support Arg1:T601 Arg2:T600
-T4	Premise 4116 4134	We worked together
 R38	Support Arg1:T4 Arg2:T600
 R39	Support Arg1:T607 Arg2:T608
 R40	Support Arg1:T608 Arg2:T609

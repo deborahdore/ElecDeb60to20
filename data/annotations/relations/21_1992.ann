@@ -36,9 +36,13 @@ T35	Premise 4643 4694	When a factory closes, I know the people who ran it
 T36	Premise 4696 4740	When the businesses go bankrupt, I know them
 T37	Premise 4747 4958	I've been out here for 13 months meeting in meetings just like this ever since October, with people like you all over America, people that have lost their jobs, lost their livelihood, lost their health insurance
 T38	Claim 4994 5041	the national debt is not the only cause of that
+T39	Premise 5057 5095	America has not invested in its people
+T40	Premise 5111 5128	we have not grown
+T41	Premise 5144 5188	we've had 12 years of trickle down economics
 T42	Premise 5190 5244	We've gone from first to twelfth in the world in wages
 T43	Premise 5246 5307	We've had 4 years where we've produced no private sector jobs
 T44	Premise 5309 5390	Most people are working harder for less money than they were making ten years ago
+T45	Premise 5407 5453	we are in the grip of a failed economic theory
 T46	Claim 5459 5594	this decision you're about to make better be about what kind of economic theory you want, not just people saying I'm going to go fix it
 T47	Claim 5624 5692	I think we have to do is invest in American jobs, American education
 T48	Claim 7126 7176	I think it's projected out to be sound beyond that
@@ -245,8 +249,8 @@ T248	Claim 28000 28076	these folks are just dividing up 199 billion bucks and th
 T249	Claim 28184 28214	nothing will ever replace that
 T250	Premise 28078 28180	If I could wish for one thing for great public schools, it would be a strong family unit in every home
 T251	Claim 28318 28372	I think we ought to be pounding on the table every day
-T253	Claim 28393 28486	the most efficient unit of government the world will ever know is a strong loving family unit
 T252	Claim 28501 28540	You need small schools, not big schools
+T253	Claim 28393 28486	the most efficient unit of government the world will ever know is a strong loving family unit
 T254	Premise 28542 28582	In a little school everybody is somebody
 T255	Premise 28584 28615	individualism is very important
 T256	Claim 28703 28728	they're cost- ineffective
@@ -300,6 +304,7 @@ T303	Claim 34328 34450	I do think there are special experiences and judgments an
 T304	Claim 34735 34794	I think it would be a good thing for America if it happened
 T305	Claim 34800 34837	I think it will happen in my lifetime
 T306	Premise 34123 34177	Look at all these women Senate candidates we have here
+T307	Premise 34193 34325	according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time
 T308	Premise 34536 34605	women know what's it like to be paid an unequal amount for equal work
 T309	Premise 34607 34666	They know what it's like not to have flexible working hours
 T310	Premise 34668 34730	They know what it's like not to have family leave or childcare
@@ -315,6 +320,7 @@ T319	Premise 37000 37044	How about Sandra Day O'Connor as an example?
 T320	Premise 37070 37089;37117 37146	Dr. Bernadine Healy National Institutes of Health
 T321	Claim 37895 37919	I feel strongly about it
 T322	Premise 37928 37966	I don't want it to come out of my time
+T323	Premise 39420 39478	If the American people want to do it and not talk about it
 T324	Claim 38251 38272	three ways to do that
 T325	Premise 38274 38295	One is to raise taxes
 T326	Premise 38297 38361	One is to reduce spending -- controlling that mandatory spending
@@ -379,10 +385,6 @@ T384	Claim 43917 43937	I got into this race
 T385	Claim 44059 44081	We're better than that
 T386	Claim 44083 44109	We can do better than that
 T387	Claim 44111 44155	I want to make America as great as it can be
-T39	Premise 5057 5095	America has not invested in its people
-T40	Premise 5111 5128	we have not grown
-T41	Premise 5144 5188	we've had 12 years of trickle down economics
-T45	Premise 5407 5453	we are in the grip of a failed economic theory
 T388	Claim 5694 5728	control American health care costs
 T389	Claim 5733 5773	bring the American people together again
 T390	Premise 9715 9803	only in America would you have $2.8 trillion of it or 70% of it financed 5 years or less
@@ -404,8 +406,6 @@ T405	Premise 23859 23928	where the average 18- year-old will change jobs 8 times
 T406	Premise 23933 24037	where none of us can promise any of you that what you now do for a living is absolutely safe from now on
 T407	Claim 24551 24584	community colleges are on the job
 T408	Claim 26163 26192	it's all covered in my budget
-T307	Premise 34193 34325	according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time
-T323	Premise 39420 39478	If the American people want to do it and not talk about it
 T409	Premise 39551 39621	If they just want to keep slow dancing and talk about it and not do it
 T410	Premise 41404 41439	if you don't want to really do that
 T411	Premise 42734 42796	I made commitments to 2 things -- more jobs and better schools

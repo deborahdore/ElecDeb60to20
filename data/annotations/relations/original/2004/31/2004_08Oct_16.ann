@@ -1,3 +1,8 @@
+T1	Premise 1224 1304	, "Did you make a mistake going into Iraq?" And the answer is, "Absolutely not."
+T2	Premise 2602 2648	Was this really going to war as a last resort?
+T3	Premise 4087 4126	And the world would be a lot better off
+T4	Premise 4179 4254	Not necessarily be in power, but here's what I'll say about the $87 billion
+T5	Premise 4337 4362	Which is a worse decision
 T977	Claim 1081 1102	I think they're right
 T978	Claim 889 1071	on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions
 T979	Claim 1844 1885	I made some mistakes in appointing people
@@ -56,7 +61,6 @@ R6	Support Arg1:T989 Arg2:T983
 R7	Support Arg1:T977 Arg2:T978
 R5	Support Arg1:T987 Arg2:T983
 R8	Attack Arg1:T978 Arg2:T987
-T1	Premise 1224 1304	, "Did you make a mistake going into Iraq?" And the answer is, "Absolutely not."
 R9	Support Arg1:T990 Arg2:T1
 R10	Support Arg1:T1 Arg2:T978
 R11	Support Arg1:T992 Arg2:T991
@@ -70,7 +74,6 @@ R18	Support Arg1:T999 Arg2:T997
 R19	Support Arg1:T983 Arg2:T980
 R20	Support Arg1:T981 Arg2:T980
 R21	Support Arg1:T982 Arg2:T980
-T2	Premise 2602 2648	Was this really going to war as a last resort?
 R22	Attack Arg1:T1000 Arg2:T980
 R23	Support Arg1:T2 Arg2:T1001
 R24	Support Arg1:T1001 Arg2:T1000
@@ -88,10 +91,8 @@ R35	Support Arg1:T1009 Arg2:T1008
 R36	Support Arg1:T1010 Arg2:T1009
 R37	Support Arg1:T1007 Arg2:T1003
 R38	Attack Arg1:T1015 Arg2:T1008
-T3	Premise 4087 4126	And the world would be a lot better off
 R39	Attack Arg1:T1015 Arg2:T1016
 R40	Attack Arg1:T1017 Arg2:T1013
-T4	Premise 4179 4254	Not necessarily be in power, but here's what I'll say about the $87 billion
 R41	Attack Arg1:T4 Arg2:T1014
 R42	Attack Arg1:T4 Arg2:T1018
 R43	Attack Arg1:T1019 Arg2:T980
@@ -100,7 +101,6 @@ R45	Attack Arg1:T1022 Arg2:T1023
 R46	Support Arg1:T1026 Arg2:T1024
 R47	Support Arg1:T1025 Arg2:T1024
 R48	Attack Arg1:T1024 Arg2:T1023
-T5	Premise 4337 4362	Which is a worse decision
 R49	Attack Arg1:T5 Arg2:T1019
 R50	Support Arg1:T1022 Arg2:T1020
 R51	Support Arg1:T1024 Arg2:T1022

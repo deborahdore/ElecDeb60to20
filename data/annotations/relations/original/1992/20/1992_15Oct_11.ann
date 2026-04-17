@@ -1,3 +1,5 @@
+T1	Claim 955 998	I want to see us keep fully staffed in NATO
+T2	Claim 2540 2640	the new world order to me means freedom and democracy, keep engaged, do not pull back into isolation
 T115	Claim 590 690	I think we will have a continuing responsibility, as the only remaining superpower, to stay involved
 T116	Premise 377 519	Since I became president, 43, 44 countries have gone democratic, no longer totalitarian, no longer living under dictatorship or communist rule
 T117	Claim 539 588	New world order to me means freedom and democracy
@@ -69,7 +71,6 @@ T399	Premise 2730 2754	If it hadn't been for us
 T400	Premise 4389 4444	If we're not an economic superpower, we're a used to be
 T401	Premise 5838 5904	if you don't rebuild the economic strength of this country at home
 T402	Claim 6469 6490	we need to nourish it
-T1	Claim 955 998	I want to see us keep fully staffed in NATO
 R1	Support Arg1:T120 Arg2:T1
 R2	Support Arg1:T119 Arg2:T1
 R3	Support Arg1:T118 Arg2:T115
@@ -82,7 +83,6 @@ R9	Support Arg1:T126 Arg2:T127
 R10	Support Arg1:T132 Arg2:T131
 R11	Support Arg1:T133 Arg2:T131
 R12	Support Arg1:T134 Arg2:T131
-T2	Claim 2540 2640	the new world order to me means freedom and democracy, keep engaged, do not pull back into isolation
 R13	Support Arg1:T395 Arg2:T2
 R14	Support Arg1:T135 Arg2:T2
 R15	Support Arg1:T394 Arg2:T2

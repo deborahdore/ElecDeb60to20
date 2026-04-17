@@ -1,3 +1,4 @@
+T1	Claim 2842 3011	I've never heard Mr. Ford say that that was his prim- primary consideration - Who is the best person I could choose in this country to be president of the United States?
 T158	Claim 161 214	many Americans uh - still seem to be uneasy about you
 T159	Premise 221 285	they don't feel that uh - they know you or the people around you
 T160	Premise 320 448	you haven't reached out to bring people of broad background or national experience into your campaign or your presidential plans
@@ -69,7 +70,6 @@ R25	Support Arg1:T188 Arg2:T187
 R26	Equivalent Arg1:T175 Arg2:T174
 R27	Support Arg1:T176 Arg2:T175
 R28	Support Arg1:T169 Arg2:T175
-T1	Claim 2842 3011	I've never heard Mr. Ford say that that was his prim- primary consideration - Who is the best person I could choose in this country to be president of the United States?
 R29	Attack Arg1:T189 Arg2:T1
 R30	Support Arg1:T191 Arg2:T190
 R31	Support Arg1:T192 Arg2:T190

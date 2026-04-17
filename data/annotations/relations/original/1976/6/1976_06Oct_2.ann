@@ -1,3 +1,9 @@
+T1	Premise 4831 4930	the other countries in Europe supported the democ- democratic forces in Portugal long before we did
+T2	Claim 3196 3262	Mr. Ford, unfortunately, has just made a statement that's not true
+T3	Claim 1822 1958	The United States today, according to Prime Minister Rabin of Israel, is a- at a peak in its uh - influence and power in the Middle East
+T4	Premise 1540 1667	Today, according to Prime Minister Rabin, the Soviet Union is weaker in the Middle East than they have been in many, many years
+T5	Question 151 698	For a generation the United States has had a foreign policy based on containment of Communism. Yet we have lost the first war in Vietnam; we lost a shoving match in Angola. Uh - the Communists threatened to come to power by peaceful means in Italy and relations generally have cooled with the Soviet Union in the last few months. So le- let me ask you first, what do you do about such cases as Italy? And secondly, does this general drift mean that we're moving back toward something like an old cold - cold-war relationship with the Soviet Union?
+T6	Premise 1224 1361	where a year ago it looked like there was a very great possibility that the uh - Communists would take over in Portugal. It didn't happen
 T39	Claim 706 763	I don't believe we should move to a cold-war relationship
 T40	Claim 765 948	I think it's in the best interest of the United States, and the world as a whole that the United States negotiate rather than go back to the cold-war relationship with the Soviet Unio
 T42	Claim 1049 1138	I believe that the United States ha- had many successes in recent years, in recent months
@@ -33,10 +39,6 @@ T77	Premise 4023 4145	Immediately before the Kansas City convention, he added ba
 T78	Premise 3809 3910	After he fired James Schlesinger, the political heat got so great that he added back about $3 billion
 T79	Premise 4151 4326	his own uh - Office of Management and Budget testified that he had a $3 billion cut insurance added to the defense budget - defense budget under the pressure from the Pentagon
 T80	Claim 4339 4424	this is another indication of trying to use the defense budget for political purposes
-T1	Premise 4831 4930	the other countries in Europe supported the democ- democratic forces in Portugal long before we did
-T2	Claim 3196 3262	Mr. Ford, unfortunately, has just made a statement that's not true
-T3	Claim 1822 1958	The United States today, according to Prime Minister Rabin of Israel, is a- at a peak in its uh - influence and power in the Middle East
-T4	Premise 1540 1667	Today, according to Prime Minister Rabin, the Soviet Union is weaker in the Middle East than they have been in many, many years
 R3	Support Arg1:T40 Arg2:T39
 R4	Support Arg1:T43 Arg2:T42
 R8	Attack Arg1:T4 Arg2:T47
@@ -71,9 +73,7 @@ R45	Support Arg1:T1 Arg2:T72
 R46	Support Arg1:T1 Arg2:T74
 R47	Support Arg1:T74 Arg2:T72
 R48	Support Arg1:T75 Arg2:T72
-T5	Question 151 698	For a generation the United States has had a foreign policy based on containment of Communism. Yet we have lost the first war in Vietnam; we lost a shoving match in Angola. Uh - the Communists threatened to come to power by peaceful means in Italy and relations generally have cooled with the Soviet Union in the last few months. So le- let me ask you first, what do you do about such cases as Italy? And secondly, does this general drift mean that we're moving back toward something like an old cold - cold-war relationship with the Soviet Union?
 R2	Support Arg1:T46 Arg2:T43
-T6	Premise 1224 1361	where a year ago it looked like there was a very great possibility that the uh - Communists would take over in Portugal. It didn't happen
 R1	Support Arg1:T6 Arg2:T43
 R5	Support Arg1:T4 Arg2:T3
 R6	Attack Arg1:T49 Arg2:T51

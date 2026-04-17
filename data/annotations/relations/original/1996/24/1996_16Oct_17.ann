@@ -1,3 +1,4 @@
+T1	Premise 3940 3965	And there is a connection
 T785	Claim 899 952	I think it's important to make voting more accessible
 T786	Claim 965 1005	I strongly supported the Motor Voter law
 T787	Premise 1007 1045	There was a big story I think in U.S.A
@@ -48,7 +49,6 @@ T832	Claim 4227 4282	If you vote the other way, you will be lucky to save it
 T833	Claim 4346 4511	I think that the American people also need to be a little more responsible and think about whether there's a connection with their lives and what we do in Washington
 T834	Premise 4288 4317	these are important questions
 T835	Premise 4323 4344	people have to decide
-T1	Premise 3940 3965	And there is a connection
 R1	Support Arg1:T786 Arg2:T785
 R2	Support Arg1:T787 Arg2:T786
 R3	Support Arg1:T788 Arg2:T786

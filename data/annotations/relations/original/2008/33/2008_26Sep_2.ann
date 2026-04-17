@@ -1,3 +1,9 @@
+T1	Premise 1455 1477	we are winning in Iraq
+T2	Premise 1483 1500	we will come home
+T3	Claim 5785 5799	You were wrong
+T4	Claim 6892 6913	They said, let us win
+T5	Claim 7154 7169	That's not true
+T6	Claim 10088 10103	That's not true
 T331	Claim 194 326	I think the lessons of Iraq are very clear that you cannot have a failed strategy that will then cause you to nearly lose a conflict
 T332	Premise 328 404	Our initial military success, we went in to Baghdad and everybody celebrated
 T333	Claim 410 448	then the war was very badly mishandled
@@ -121,12 +127,6 @@ T456	Claim 10385 10558	if we set a specific date for withdrawal -- and by the wa
 T457	Premise 10737 10798	I know that that's a strategy that has worked and can succeed
 T458	Claim 10804 10910	if we snatch defeat from the jaws of victory and adopt Senator Obama's plan, then we will have a wider war
 T459	Claim 10915 10999	it will make things more complicated throughout the region, including in Afghanistan
-T1	Premise 1455 1477	we are winning in Iraq
-T2	Premise 1483 1500	we will come home
-T3	Claim 5785 5799	You were wrong
-T4	Claim 6892 6913	They said, let us win
-T5	Claim 7154 7169	That's not true
-T6	Claim 10088 10103	That's not true
 R1	Support Arg1:T332 Arg2:T333
 R2	Support Arg1:T333 Arg2:T331
 R3	Support Arg1:T334 Arg2:T337

@@ -1,3 +1,7 @@
+T1	Claim 2272 2332	My intentions are to earn your vote and earn your confidence
+T2	Premise 2334 2358	I'm asking for your vote
+T3	Premise 2360 2387	I want you to be on my team
+T4	Premise 2857 2933	Will we use the prosperity to enrich all of our families and not just a few?
 T880	Claim 841 889	I want to finally get something done on Medicare
 T881	Claim 891 959	I want to make sure prescription drugs are available for all seniors
 T882	Claim 965 1056	I want seniors to have additional choices when it comes to choosing their health care plans
@@ -54,18 +58,14 @@ R13	Support Arg1:T886 Arg2:T890
 R14	Support Arg1:T889 Arg2:T890
 R15	Support Arg1:T891 Arg2:T890
 R16	Support Arg1:T887 Arg2:T891
-T1	Claim 2272 2332	My intentions are to earn your vote and earn your confidence
 R17	Support Arg1:T885 Arg2:T883
 R18	Support Arg1:T893 Arg2:T892
 R19	Support Arg1:T894 Arg2:T892
-T2	Premise 2334 2358	I'm asking for your vote
 R20	Support Arg1:T2 Arg2:T1
-T3	Premise 2360 2387	I want you to be on my team
 R21	Support Arg1:T3 Arg2:T1
 R22	Support Arg1:T912 Arg2:T913
 R23	Support Arg1:T913 Arg2:T911
 R24	Support Arg1:T914 Arg2:T911
-T4	Premise 2857 2933	Will we use the prosperity to enrich all of our families and not just a few?
 R25	Attack Arg1:T914 Arg2:T4
 R26	Support Arg1:T916 Arg2:T917
 R28	Support Arg1:T916 Arg2:T915

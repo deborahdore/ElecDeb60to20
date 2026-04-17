@@ -1,3 +1,5 @@
+T1	Premise 5837 5893	I've got scars to show for being around education reform
+T2	Claim 7986 8016	why is a high school that big?
 T179	Claim 492 519	you can't do it the old way
 T180	Claim 521 587	You can't do it with the school bureaucracy controlling everything
 T181	Claim 603 660	we have a new program that I hope people have heard about
@@ -69,8 +71,8 @@ T246	Premise 7143 7162	we put up with that
 T247	Claim 7170 7233	as long as we put up with that, that's what you're going to get
 T248	Claim 7239 7315	these folks are just dividing up 199 billion bucks and the children get lost
 T251	Claim 7557 7611	I think we ought to be pounding on the table every day
-T253	Claim 7632 7725	the most efficient unit of government the world will ever know is a strong loving family unit
 T252	Claim 7740 7779	You need small schools, not big schools
+T253	Claim 7632 7725	the most efficient unit of government the world will ever know is a strong loving family unit
 T254	Premise 7781 7821	In a little school everybody is somebody
 T255	Premise 7823 7854	individualism is very important
 T256	Claim 7942 7967	they're cost- ineffective
@@ -154,7 +156,6 @@ R28	Support Arg1:T222 Arg2:T220
 R29	Equivalent Arg1:T231 Arg2:T408
 R30	Support Arg1:T230 Arg2:T408
 R31	Support Arg1:T233 Arg2:T232
-T1	Premise 5837 5893	I've got scars to show for being around education reform
 R32	Support Arg1:T235 Arg2:T220
 R33	Support Arg1:T238 Arg2:T239
 R34	Support Arg1:T237 Arg2:T239
@@ -172,7 +173,6 @@ R45	Support Arg1:T265 Arg2:T266
 R46	Support Arg1:T264 Arg2:T266
 R47	Support Arg1:T263 Arg2:T266
 R48	Support Arg1:T262 Arg2:T266
-T2	Claim 7986 8016	why is a high school that big?
 R49	Support Arg1:T259 Arg2:T2
 R50	Attack Arg1:T260 Arg2:T2
 R51	Support Arg1:T268 Arg2:T267

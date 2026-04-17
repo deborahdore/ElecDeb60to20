@@ -1,3 +1,13 @@
+T1	Claim 10907 10920	there will be
+T2	Premise 1129 1177;1189 1209	their stability and that they're on their way to a nation that's free
+T3	Claim 11586 11605	it's necessary work
+T4	Claim 1211 1222	that's when
+T5	Claim 1561 1602	We'll give you all the equipment you need
+T6	Claim 1529 1559	We're standing with you strong
+T7	Premise 7251 7274	the U.N. was invited in
+T8	Premise 7315 7363	They pulled out after Sergio de Mello got killed
+T9	Premise 7790 7868	what's the message going to be: "Please join us in Iraq. For a grand diversion
+T10	Premise 7871 7947	oin us for a war that is the wrong war at the wrong place at the wrong time?
 T254	Claim 177 270	the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job
 T255	Claim 276 299	that's what we're doing
 T256	Premise 301 330	We've got 100,000 trained now
@@ -142,11 +152,13 @@ T400	Claim 11238 11260	our alliance is strong
 T401	Premise 11286 11334	there's going to be a summit of the Arab nations
 T402	Premise 11336 11366	Japan will be hosting a summit
 T403	Claim 11368 11389	We're making progress
+T404	Claim 11392 11407	It is hard work
 T405	Claim 11409 11460	It is hard work to go from a tyranny to a democracy
 T406	Claim 11462 11579	It's hard work to go from a place where people get their hands cut off, or executed, to a place where people are free
 T407	Claim 10513 10532	it's necessary work
 T408	Claim 11611 11672	a free Iraq is going to make this world a more peaceful place
 T409	Claim 11728 11844	I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake
+T410	Premise 11850 11930	what he has said is that, even knowing there were no weapons of mass destruction
 T411	Premise 12077 12096	Those are his words
 T412	Claim 12103 12114	I would not
 T413	Claim 12283 12335	The president says that I'm denigrating these troops
@@ -160,14 +172,9 @@ T422	Claim 12971 13017	meanwhile, North Korea has got nuclear weapons
 T423	Premise 13046 13132	The president is the one that said, "We can't allow countries to get nuclear weapons."
 T424	Claim 13133 13142	They have
 T425	Claim 13144 13160	I'll change that
-T404	Claim 11392 11407	It is hard work
-T410	Premise 11850 11930	what he has said is that, even knowing there were no weapons of mass destruction
 T853	Premise 11932 11973	even knowing there was no imminent threat
 T854	Premise 11975 12025	even knowing there was no connection with Al Qaida
 T855	Claim 12027 12075	he would still have done everything the same way
-T2	Premise 1129 1177;1189 1209	their stability and that they're on their way to a nation that's free
-T1	Claim 10907 10920	there will be
-T3	Claim 11586 11605	it's necessary work
 R1	Support Arg1:T254 Arg2:T255
 R2	Equivalent Arg1:T259 Arg2:T254
 R3	Support Arg1:T256 Arg2:T254
@@ -177,7 +184,6 @@ R8	Support Arg1:T262 Arg2:T261
 R6	Support Arg1:T260 Arg2:T264
 R7	Support Arg1:T254 Arg2:T264
 R9	Support Arg1:T261 Arg2:T264
-T4	Claim 1211 1222	that's when
 R10	Support Arg1:T266 Arg2:T4
 R11	Support Arg1:T267 Arg2:T4
 R12	Support Arg1:T2 Arg2:T4
@@ -188,9 +194,7 @@ R16	Attack Arg1:T272 Arg2:T271
 R17	Support Arg1:T276 Arg2:T275
 R18	Support Arg1:T275 Arg2:T274
 R19	Support Arg1:T273 Arg2:T274
-T5	Claim 1561 1602	We'll give you all the equipment you need
 R20	Support Arg1:T5 Arg2:T274
-T6	Claim 1529 1559	We're standing with you strong
 R21	Support Arg1:T6 Arg2:T274
 R22	Support Arg1:T277 Arg2:T274
 R23	Support Arg1:T278 Arg2:T274
@@ -244,13 +248,9 @@ R70	Support Arg1:T337 Arg2:T336
 R71	Support Arg1:T338 Arg2:T337
 R72	Support Arg1:T339 Arg2:T340
 R73	Support Arg1:T340 Arg2:T337
-T7	Premise 7251 7274	the U.N. was invited in
 R74	Support Arg1:T7 Arg2:T341
-T8	Premise 7315 7363	They pulled out after Sergio de Mello got killed
 R75	Attack Arg1:T345 Arg2:T344
 R76	Attack Arg1:T346 Arg2:T344
-T9	Premise 7790 7868	what's the message going to be: "Please join us in Iraq. For a grand diversion
-T10	Premise 7871 7947	oin us for a war that is the wrong war at the wrong place at the wrong time?
 R77	Attack Arg1:T9 Arg2:T348
 R78	Attack Arg1:T10 Arg2:T348
 R79	Support Arg1:T350 Arg2:T349

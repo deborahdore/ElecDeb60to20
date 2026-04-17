@@ -1,3 +1,4 @@
+T1	Claim 924 962	We have a government that doesn't work
 T617	Claim 681 715	we've got to reform our government
 T618	Claim 716 745	or we won't get anything done
 T619	Claim 747 785	We have a government that doesn't work
@@ -46,7 +47,6 @@ T662	Claim 5004 5101	that's the only protection the taxpayer has against some of
 T663	Claim 5107 5227	I'd rather be able to just line it right out of there and get on about passing some good stuff but leave out the garbage
 T664	Claim 5247 5284	there's a good reform program for you
 T665	Claim 4853 4937	That means you can take a line and cut out some of the pork out of a meaningful bill
-T1	Claim 924 962	We have a government that doesn't work
 R1	Support Arg1:T618 Arg2:T617
 R2	Support Arg1:T619 Arg2:T617
 R3	Support Arg1:T620 Arg2:T1

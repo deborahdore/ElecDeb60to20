@@ -44,12 +44,12 @@ T44	Premise 7733 7772	both those extremes grasp for advantage
 T45	Claim 7297 7339	We can also have a- an end to the extremes
 T46	Premise 7341 7606	We now have one extreme for instance, of some welfare recipients, who by taking advantage of the welfare laws, the housing laws, the uh - Medicaid uh - laws, and the uh - food stamp laws, make over $10 thousand a year and uh - they don't have to pay any taxes on it
 T47	Premise 7608 7728	At the other extreme, uh - just 1 percent of the richest people in our country derive 25 percent of all the tax benefits
+T48	Claim 4035 4127	I think, have a long overdue and totally justified tax decrease for the middle-income people
 R1	Support Arg1:T3 Arg2:T1
 R2	Support Arg1:T2 Arg2:T1
 R3	Support Arg1:T4 Arg2:T2
 R4	Support Arg1:T4 Arg2:T3
 R5	Support Arg1:T7 Arg2:T11
-T48	Claim 4035 4127	I think, have a long overdue and totally justified tax decrease for the middle-income people
 R6	Support Arg1:T48 Arg2:T10
 R7	Support Arg1:T11 Arg2:T8
 R8	Support Arg1:T12 Arg2:T8

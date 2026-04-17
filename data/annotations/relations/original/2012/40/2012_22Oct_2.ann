@@ -1,3 +1,7 @@
+T1	Claim 10891 10893	No
+T2	Claim 5115 5166	we were able to immediately stop the massacre there
+T3	Claim 5168 5253	because of the unique circumstances and the coalition that we had helped to organize.
+T4	Premise 8769 8926	now that you have a democratically elected government in Egypt, that they have to make sure that they take responsibility for protecting religious minorities
 T118	Claim 1888 1933	I am confident that Assad's days are numbered
 T119	Claim 1939 2164	what we can't do is to simply suggest that, as Governor Romney at times has suggested, that giving heavy weapons, for example, to the Syrian opposition is a simple proposition that would lead us to be safer over the long term
 T120	Claim 1690 1764	we have to do so making absolutely certain that we know who we are helping
@@ -130,7 +134,6 @@ T248	Claim 13389 13423	we have to stand by our principles
 T249	Claim 13429 13498	if we're strong in each of those things, American influence will grow
 T250	Claim 13602 13686	nowhere in the world is America's influence greater today than it was four years ago
 T251	Premise 13739 13783	we've become weaker in each of those four...
-T1	Claim 10891 10893	No
 R1	Support Arg1:T132 Arg2:T133
 R2	Support Arg1:T131 Arg2:T133
 R3	Support Arg1:T130 Arg2:T133
@@ -173,8 +176,6 @@ R39	Attack Arg1:T163 Arg2:T153
 R40	Support Arg1:T164 Arg2:T163
 R41	Support Arg1:T165 Arg2:T163
 R42	Support Arg1:T166 Arg2:T163
-T2	Claim 5115 5166	we were able to immediately stop the massacre there
-T3	Claim 5168 5253	because of the unique circumstances and the coalition that we had helped to organize.
 R43	Support Arg1:T167 Arg2:T2
 R44	Support Arg1:T3 Arg2:T2
 R45	Support Arg1:T163 Arg2:T2
@@ -206,7 +207,6 @@ R70	Support Arg1:T199 Arg2:T198
 R71	Support Arg1:T201 Arg2:T198
 R72	Support Arg1:T198 Arg2:T200
 R73	Support Arg1:T202 Arg2:T203
-T4	Premise 8769 8926	now that you have a democratically elected government in Egypt, that they have to make sure that they take responsibility for protecting religious minorities
 R74	Attack Arg1:T203 Arg2:T204
 R75	Support Arg1:T4 Arg2:T205
 R76	Attack Arg1:T205 Arg2:T206

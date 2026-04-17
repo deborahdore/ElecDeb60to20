@@ -1,11 +1,12 @@
+T1	Premise 1115 1179	We were threatened by a veto if we passed a dollar and a quarter
 T317	Premise 118 146	if you are elected president
 T318	Claim 147 285	you'll try and push through Congress bills on medical aid to the aged, a comprehensive minimum hourly wage bill, federal aid to education.
 T319	Premise 720 808	we did pass in the Senate a bill uh - to provide a dollar twenty-five cent minimum wage.
 T320	Premise 1429 1485	we passed a federal aid to education bill in the Senate.
+T321	Claim 809 818	It failed
 T322	Premise 857 890	the House failed by eleven votes.
 T323	Premise 912 1007	two-thirds of the Republicans in the House voted against a dollar twenty-five cent minimum wage
 T324	Premise 1012 1114	a majority of the Democrats sustained it - nearly two-thirds of them voted for the dollar twenty-five.
-T321	Claim 809 818	It failed
 T325	Premise 827 852	the House did not pass it
 T326	Claim 1182 1305	it's extremely difficult with the great power that the president does to pass any bill when the president is opposed to it.
 T327	Premise 1306 1418	All the president needs to sustain his veto of any bill is one-third plus one in either the House or the Senate.
@@ -48,7 +49,6 @@ R11	Support Arg1:T343 Arg2:T341
 R12	Support Arg1:T344 Arg2:T341
 R13	Support Arg1:T345 Arg2:T344
 R15	Support Arg1:T353 Arg2:T352
-T1	Premise 1115 1179	We were threatened by a veto if we passed a dollar and a quarter
 R16	Support Arg1:T1 Arg2:T326
 R17	Support Arg1:T323 Arg2:T326
 R18	Support Arg1:T336 Arg2:T333

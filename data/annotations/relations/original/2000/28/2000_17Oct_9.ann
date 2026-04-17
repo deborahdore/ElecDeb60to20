@@ -1,3 +1,9 @@
+T1	Premise 487 534	know what the bad news is that follows on that.
+T2	Claim 1539 1809	I think that the environmental benefits that come from sound management of the land ought to represent a new way for farmers to get some income that will enable them -- enable you to make sensible choices in crop rotation, and when you leave the land fallow and the rest
+T3	Premise 3690 3715	I'm from a big farm state
+T4	Premise 3717 3779	We're the second biggest state -- farming state in the country
+T5	Premise 3781 3832	And I hear from my farmers and friends all the time
+T6	Claim 3919 4024	I like the policies that will encourage farmers to put -- set aside land as well for conservation purpose
 T453	Premise 422 455	We've got a bumper crop this year
 T454	Claim 461 481	that's the good news
 T455	Claim 656 695	I want to change many of its provisions
@@ -67,7 +73,6 @@ T519	Claim 5215 5261	I don't think that's the role of the president
 T520	Premise 5151 5213	If you're from Washington, you want to pick and choose winners
 T521	Premise 5113 5149	this is just a difference of opinion
 R1	Support Arg1:T453 Arg2:T454
-T1	Premise 487 534	know what the bad news is that follows on that.
 R2	Support Arg1:T1 Arg2:T465
 R3	Attack Arg1:T454 Arg2:T465
 R4	Attack Arg1:T455 Arg2:T464
@@ -79,7 +84,6 @@ R9	Support Arg1:T460 Arg2:T461
 R10	Support Arg1:T469 Arg2:T470
 R11	Support Arg1:T472 Arg2:T471
 R12	Support Arg1:T469 Arg2:T471
-T2	Claim 1539 1809	I think that the environmental benefits that come from sound management of the land ought to represent a new way for farmers to get some income that will enable them -- enable you to make sensible choices in crop rotation, and when you leave the land fallow and the rest
 R13	Support Arg1:T2 Arg2:T459
 R14	Support Arg1:T471 Arg2:T459
 R15	Support Arg1:T459 Arg2:T473
@@ -107,14 +111,10 @@ R36	Attack Arg1:T480 Arg2:T497
 R37	Support Arg1:T500 Arg2:T499
 R38	Attack Arg1:T480 Arg2:T479
 R39	Support Arg1:T499 Arg2:T497
-T3	Premise 3690 3715	I'm from a big farm state
-T4	Premise 3717 3779	We're the second biggest state -- farming state in the country
-T5	Premise 3781 3832	And I hear from my farmers and friends all the time
 R40	Support Arg1:T3 Arg2:T4
 R41	Support Arg1:T4 Arg2:T5
 R42	Support Arg1:T503 Arg2:T478
 R43	Support Arg1:T5 Arg2:T478
-T6	Claim 3919 4024	I like the policies that will encourage farmers to put -- set aside land as well for conservation purpose
 R44	Support Arg1:T6 Arg2:T478
 R45	Support Arg1:T492 Arg2:T501
 R46	Attack Arg1:T506 Arg2:T480

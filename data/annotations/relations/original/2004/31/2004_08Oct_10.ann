@@ -1,3 +1,5 @@
+T1	Premise 2380 2420	Now, if you're a Red Sox fan, that's OK.
+T2	Claim 2421 2456	But if you're a president, it's not
 T699	Claim 1495 1532	We've got a good, common-sense policy
 T700	Claim 1303 1330	this is a reasonable policy
 T701	Premise 1331 1492	to protect old stands of trees and at the same time make sure our forests aren't vulnerable to the forest fires that have destroyed acres after acres in the West
@@ -76,8 +78,6 @@ R17	Support Arg1:T705 Arg2:T718
 R18	Support Arg1:T704 Arg2:T720
 R19	Support Arg1:T703 Arg2:T713
 R20	Support Arg1:T702 Arg2:T718
-T1	Premise 2380 2420	Now, if you're a Red Sox fan, that's OK.
-T2	Claim 2421 2456	But if you're a president, it's not
 R21	Attack Arg1:T2 Arg2:T1
 R22	Support Arg1:T1 Arg2:T721
 R23	Attack Arg1:T721 Arg2:T720

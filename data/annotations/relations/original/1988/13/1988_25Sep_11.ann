@@ -1,3 +1,9 @@
+T1	Claim 4651 4668	I doubt very much
+T2	Premise 374 428	I see a young man that was elected to the Senate twice
+T3	Premise 430 467	to the House of Representatives twice
+T4	Claim 3060 3220	And you have a lot of disagreement with him on fundamental issues, including the Reagan tax cuts, aid to the rebels in Nicaragua, the death penalty, gun control
+T5	Premise 4318 4421	Sam Rayburn once said that if two people agree on everything then only one person is doing the thinking
+T6	Premise 5342 5432	What kind of judgment sense has your chief education adviser now in jail in Massachusetts?
 T753	Claim 1867 1914	he'll do very well when we get into the debates
 T754	Claim 498 590	I am putting my confidence in a whole generation of people that are in their 30Ï€s and 40Ï€s
 T755	Premise 469 493	I see a man who is young
@@ -53,9 +59,6 @@ T807	Claim 5449 5486	I don't think this is a fair argument
 T808	Premise 5267 5340	jumping all over the president on his decision on one area of farm policy
 T809	Claim 5506 5545	I support my nominee for Vice President
 T810	Claim 5550 5577	he'll do an outstanding job
-T1	Claim 4651 4668	I doubt very much
-T2	Premise 374 428	I see a young man that was elected to the Senate twice
-T3	Premise 430 467	to the House of Representatives twice
 R1	Support Arg1:T755 Arg2:T754
 R2	Support Arg1:T2 Arg2:T3
 R3	Support Arg1:T3 Arg2:T755
@@ -80,7 +83,6 @@ R21	Attack Arg1:T774 Arg2:T772
 R22	Support Arg1:T775 Arg2:T774
 R23	Attack Arg1:T777 Arg2:T776
 R24	Support Arg1:T778 Arg2:T777
-T4	Claim 3060 3220	And you have a lot of disagreement with him on fundamental issues, including the Reagan tax cuts, aid to the rebels in Nicaragua, the death penalty, gun control
 R25	Support Arg1:T780 Arg2:T785
 R26	Support Arg1:T780 Arg2:T786
 R27	Support Arg1:T780 Arg2:T788
@@ -99,7 +101,6 @@ R39	Support Arg1:T798 Arg2:T797
 R40	Support Arg1:T797 Arg2:T794
 R41	Support Arg1:T794 Arg2:T792
 R42	Attack Arg1:T795 Arg2:T796
-T5	Premise 4318 4421	Sam Rayburn once said that if two people agree on everything then only one person is doing the thinking
 R43	Attack Arg1:T5 Arg2:T796
 R44	Support Arg1:T1 Arg2:T799
 R45	Support Arg1:T801 Arg2:T799
@@ -109,7 +110,6 @@ R48	Support Arg1:T802 Arg2:T803
 R49	Attack Arg1:T803 Arg2:T799
 R50	Support Arg1:T805 Arg2:T804
 R51	Attack Arg1:T806 Arg2:T804
-T6	Premise 5342 5432	What kind of judgment sense has your chief education adviser now in jail in Massachusetts?
 R52	Attack Arg1:T807 Arg2:T808
 R53	Attack Arg1:T807 Arg2:T6
 R54	Support Arg1:T809 Arg2:T810

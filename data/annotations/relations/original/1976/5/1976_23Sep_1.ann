@@ -1,3 +1,4 @@
+T1	Claim 2759 2891	We'll never have uh - an end to the inflationary spiral, and we'll never have a balanced budget until we get our people back to work
 T3	Claim 2893 2975	There are several things that can be done specifically that are not now being done
 T4	Premise 2977 3086	First of all, to channel research and development funds into areas that will provide uh large numbers of jobs
 T5	Premise 3088 3209	Secondly, we need to have a commitment in the uh private sector uh - to cooperate with government in matters like housing
@@ -11,11 +12,11 @@ T12	Claim 4395 4620	There is uh - uh an additional factor that needs to be done 
 T13	Premise 4664 4963	we might channel specific uh targeted job - job - uh opportunities by paying part of the salary of unemployed people - uh and also sharing with uh - local governments the uh - payment of salaries which would uh - let us cut down the unemployment rate much lower, before we hit the inflationary level
 T14	Claim 4969 5111	I believe that by the end of the first four years of uh - of the next term we could have the unemployment down to 3 percent adult unemployment
 T16	Premise 5600 5693	we now have such uh - a low utilization of uh - our productive capacity - uh about 73 percent
+T17	Claim 5925 6083	I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary
 T18	Premise 5695 5757	I think it's about the lowest since the Great Depression years
+T19	Claim 6085 6194	I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work
 T20	Premise 5760 5814	and such a high unemployment rate now - uh 7.9 percent
 T21	Claim 5827 5919	we have a long way to go in getting people to work before we have the inflationary pressures
-T17	Claim 5925 6083	I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary
-T19	Claim 6085 6194	I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work
 T22	Premise 6200 6379	with tax incentives for the low-income groups we could build up their uh - income levels uh - above the poverty level and not uh make welfare more uh - profitable than - than work
 T23	Claim 6427 6545	I don't believe that uh that Mr. Carter's been any more specific in this case than he has been on many other instances
 T24	Premise 6547 6702	I notice particularly that he didn't endorse the Humphrey-Hawkins bill which he has on occasions and which is included as a part of the Democratic platform
@@ -34,7 +35,6 @@ T36	Claim 7661 7814	We could uh - also uh - help our youths with some of the pro
 T37	Premise 7815 7879	just like we give money to young people who are going to college
 T38	Claim 7881 7966	Those are the kind of specifics that I think we have to discuss on these uh - debates
 T39	Claim 7972 8034	these are the kind of programs that I'll talk about on my time
-T1	Claim 2759 2891	We'll never have uh - an end to the inflationary spiral, and we'll never have a balanced budget until we get our people back to work
 R1	Support Arg1:T4 Arg2:T3
 R2	Support Arg1:T5 Arg2:T3
 R3	Support Arg1:T7 Arg2:T5

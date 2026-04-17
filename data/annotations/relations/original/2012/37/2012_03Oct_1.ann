@@ -103,9 +103,11 @@ T102	Premise 11611 11686	People in the coal industry feel like it's getting crus
 T103	Claim 11688 11774	I want to get America and North America energy independent so we can create those jobs
 T104	Claim 11956 12005	there will be no tax cut that adds to the deficit
 T105	Claim 11826 11920	I'm not looking to cut massive taxes and to reduce the -- the revenues going to the government
+T106	Premise 10736 10783	I do, both for corporations and for individuals
 T107	Premise 12075 12143	I do want to reduce the burden being paid by middle-income Americans
 T108	Claim 12186 12242	I cannot reduce the burden paid by high-income Americans
 T109	Claim 12524 12549	that's exactly what I did
+T110	Premise 3688 3777	Are we going to double on top-down economic policies that helped to get us into this mess
 T111	Premise 12396 12412	it's instructive
 T112	Premise 12419 12518	four years ago, when I stood on this stage, I said that I would cut taxes for middle-class families
 T113	Premise 12551 12605	We cut taxes for middle-class families by about $3,600
@@ -217,7 +219,13 @@ T218	Premise 23939 23968	It's absolutely extraordinary
 T219	Premise 23970 24053	We've got 23 million people out of work or stopped looking for work in this country
 T220	Premise 24055 24153	It's just -- it's -- we've got -- when the president took office, 32 million people on food stamps
 T221	Premise 24155 24278	47 million on food stamps today; economic growth this year slower than last year, and last year slower than the year before
+T222	Premise 3781 3881	do we embrace a new economic patriotism that says America does best when the middle class does best?
 T223	Claim 10011 10117;9942 9985	t's energy and trade, the right kind of training programs, balancing our budget and helping small business the question is how to get them going again
+T224	Premise 11527 11550	by the way, I like coal
+T225	Premise 12033 12069	no tax cut that adds to the deficit.
+T226	Premise 17311 17374	I do share a deep interest in encouraging small-business growth
+T227	Premise 17376 17518	So at the same time that my tax plan has already lowered taxes for 98 percent of families, I also lowered taxes for small businesses 18 times.
+T228	Claim 18150 18233	And we do have a difference, though, when it comes to definitions of small business
 R1	Support Arg1:T2 Arg2:T3
 R2	Support Arg1:T3 Arg2:T4
 R3	Attack Arg1:T5 Arg2:T4
@@ -227,8 +235,6 @@ R6	Support Arg1:T8 Arg2:T5
 R7	Support Arg1:T5 Arg2:T1
 R8	Attack Arg1:T1 Arg2:T9
 R9	Attack Arg1:T12 Arg2:T11
-T110	Premise 3688 3777	Are we going to double on top-down economic policies that helped to get us into this mess
-T222	Premise 3781 3881	do we embrace a new economic patriotism that says America does best when the middle class does best?
 R10	Attack Arg1:T222 Arg2:T110
 R11	Support Arg1:T10 Arg2:T12
 R12	Support Arg1:T13 Arg2:T12
@@ -292,7 +298,6 @@ R69	Support Arg1:T82 Arg2:T81
 R70	Attack Arg1:T81 Arg2:T88
 R71	Support Arg1:T84 Arg2:T83
 R72	Support Arg1:T91 Arg2:T89
-T106	Premise 10736 10783	I do, both for corporations and for individuals
 R73	Support Arg1:T106 Arg2:T83
 R74	Attack Arg1:T89 Arg2:T90
 R75	Attack Arg1:T94 Arg2:T93
@@ -303,12 +308,10 @@ R79	Support Arg1:T97 Arg2:T95
 R80	Attack Arg1:T98 Arg2:T97
 R81	Support Arg1:T98 Arg2:T99
 R82	Support Arg1:T99 Arg2:T100
-T224	Premise 11527 11550	by the way, I like coal
 R83	Support Arg1:T224 Arg2:T101
 R84	Support Arg1:T102 Arg2:T103
 R85	Support Arg1:T101 Arg2:T103
 R86	Support Arg1:T100 Arg2:T103
-T225	Premise 12033 12069	no tax cut that adds to the deficit.
 R87	Support Arg1:T225 Arg2:T104
 R88	Support Arg1:T104 Arg2:T105
 R89	Support Arg1:T107 Arg2:T108
@@ -353,8 +356,6 @@ R127	Support Arg1:T165 Arg2:T160
 R128	Support Arg1:T162 Arg2:T161
 R129	Support Arg1:T161 Arg2:T160
 R130	Attack Arg1:T160 Arg2:T164
-T226	Premise 17311 17374	I do share a deep interest in encouraging small-business growth
-T227	Premise 17376 17518	So at the same time that my tax plan has already lowered taxes for 98 percent of families, I also lowered taxes for small businesses 18 times.
 R131	Support Arg1:T226 Arg2:T227
 R132	Support Arg1:T227 Arg2:T155
 R133	Support Arg1:T157 Arg2:T156
@@ -362,7 +363,6 @@ R134	Support Arg1:T158 Arg2:T159
 R135	Support Arg1:T159 Arg2:T166
 R136	Support Arg1:T155 Arg2:T166
 R137	Support Arg1:T167 Arg2:T168
-T228	Claim 18150 18233	And we do have a difference, though, when it comes to definitions of small business
 R138	Attack Arg1:T228 Arg2:T168
 R139	Support Arg1:T169 Arg2:T168
 R140	Support Arg1:T170 Arg2:T169

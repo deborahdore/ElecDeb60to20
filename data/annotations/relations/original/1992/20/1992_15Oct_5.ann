@@ -1,3 +1,10 @@
+T1	Premise 711 756	$150 billion for improving the infrastructure
+T2	Claim 1092 1135	I would cite that as a major accomplishment
+T3	Claim 1728 1830	I need the help of everybody across this country to get it passed in a substantial way by the Congress
+T4	Premise 1973 2079	everyone of them -- the boys' club leaders, the ministers -- all of them were saying pass enterprise zones
+T5	Claim 5121 5220	I think I could go to Washington in a week and get everybody holding hands and get this bill signed
+T6	Premise 5229 5278	I talk to the Democratic leaders and they want it
+T7	Premise 7926 8014	I'd say rather than just yelling at one another, why don't we find out where we're apart
 T186	Claim 562 707	We passed this year the most furthest looking transportation bill in the history of this country since Eisenhower started the interstate highways
 T187	Premise 758 792	That happened when I was president
 T188	Claim 801 887	I'm very proud of the way that came about and I think it's a very, very good beginning
@@ -78,11 +85,9 @@ T274	Claim 8218 8246	That's the way I would do it
 T275	Premise 7805 7894	over here in this Senate committee to the chairman who is anxious to get this bill passed
 T276	Premise 7896 7924	the president who is anxious
 T277	Premise 8016 8127	try to get together, get the bill passed and give the people the benefits and not play party politics right now
-T1	Premise 711 756	$150 billion for improving the infrastructure
 R1	Support Arg1:T187 Arg2:T188
 R2	Support Arg1:T1 Arg2:T188
 R3	Support Arg1:T186 Arg2:T188
-T2	Claim 1092 1135	I would cite that as a major accomplishment
 R4	Support Arg1:T189 Arg2:T190
 R5	Attack Arg1:T190 Arg2:T2
 R6	Support Arg1:T197 Arg2:T196
@@ -92,9 +97,7 @@ R9	Attack Arg1:T211 Arg2:T209
 R10	Support Arg1:T214 Arg2:T213
 R11	Support Arg1:T215 Arg2:T213
 R12	Support Arg1:T213 Arg2:T212
-T3	Claim 1728 1830	I need the help of everybody across this country to get it passed in a substantial way by the Congress
 R13	Support Arg1:T200 Arg2:T3
-T4	Premise 1973 2079	everyone of them -- the boys' club leaders, the ministers -- all of them were saying pass enterprise zones
 R14	Support Arg1:T4 Arg2:T3
 R15	Attack Arg1:T221 Arg2:T213
 R16	Support Arg1:T220 Arg2:T221
@@ -113,8 +116,6 @@ R23	Support Arg1:T230 Arg2:T229
 R24	Support Arg1:T217 Arg2:T230
 R30	Support Arg1:T219 Arg2:T235
 R31	Support Arg1:T240 Arg2:T248
-T5	Claim 5121 5220	I think I could go to Washington in a week and get everybody holding hands and get this bill signed
-T6	Premise 5229 5278	I talk to the Democratic leaders and they want it
 R32	Support Arg1:T6 Arg2:T5
 R33	Support Arg1:T242 Arg2:T5
 R34	Support Arg1:T241 Arg2:T5
@@ -132,6 +133,5 @@ R45	Support Arg1:T269 Arg2:T270
 R46	Support Arg1:T271 Arg2:T272
 R47	Support Arg1:T273 Arg2:T274
 R48	Support Arg1:T277 Arg2:T274
-T7	Premise 7926 8014	I'd say rather than just yelling at one another, why don't we find out where we're apart
 R49	Support Arg1:T7 Arg2:T274
 R50	Support Arg1:T275 Arg2:T274

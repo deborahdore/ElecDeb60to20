@@ -1,3 +1,4 @@
+T1	Claim 3694 3734	That starts putting the squeeze on them.
 T805	Claim 830 897	we obviously would not wait for the United Nations Security Council
 T806	Premise 351 489	If, despite your best diplomatic efforts, Iran attacks Israel, would you be willing to commit U.S. troops in support and defense of Israel
 T807	Premise 491 533	Or would you wait on approval from the U.N
@@ -98,7 +99,6 @@ R17	Support Arg1:T832 Arg2:T824
 R18	Support Arg1:T833 Arg2:T826
 R19	Support Arg1:T826 Arg2:T824
 R20	Support Arg1:T829 Arg2:T828
-T1	Claim 3694 3734	That starts putting the squeeze on them.
 R21	Support Arg1:T830 Arg2:T1
 R22	Support Arg1:T827 Arg2:T1
 R23	Support Arg1:T828 Arg2:T1

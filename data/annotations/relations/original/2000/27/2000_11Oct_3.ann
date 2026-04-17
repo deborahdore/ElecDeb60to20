@@ -1,3 +1,13 @@
+T1	Claim 4880 4896	I supported that
+T2	Claim 5326 5329	Yes
+T3	Claim 5367 5370	Yes
+T4	Claim 6106 6109	Yes
+T5	Claim 6139 6142	Yes
+T6	Claim 6171 6174	Yes
+T7	Premise 6307 6313	Bosnia
+T8	Claim 6657 6661	I do
+T9	Claim 17950 17952	No
+T10	Claim 19358 19381	to step up to the plate
 T156	Claim 216 238	I think it's a triumph
 T157	Claim 562 593	I think it's good public policy
 T158	Premise 603 612	it worked
@@ -231,16 +241,6 @@ T396	Claim 21053 21196	I think one way for us to end up being viewed as the ugly
 T397	Claim 21439 21613	I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course
 T398	Premise 21206 21222	we trust freedom
 T399	Premise 21224 21361	We know freedom is a powerful, powerful, powerful force, much bigger than the United States of America, as we saw recently in the Balkans
-T1	Claim 4880 4896	I supported that
-T2	Claim 5326 5329	Yes
-T3	Claim 5367 5370	Yes
-T4	Claim 6106 6109	Yes
-T5	Claim 6139 6142	Yes
-T6	Claim 6171 6174	Yes
-T7	Premise 6307 6313	Bosnia
-T8	Claim 6657 6661	I do
-T9	Claim 17950 17952	No
-T10	Claim 19358 19381	to step up to the plate
 R1	Support Arg1:T165 Arg2:T156
 R2	Support Arg1:T166 Arg2:T165
 R3	Support Arg1:T158 Arg2:T157

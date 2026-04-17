@@ -1,3 +1,12 @@
+T1	Premise 1691 1726	strengthen enforcement at the borde
+T2	Claim 8259 8261	No
+T3	Claim 3213 3350	that you have not gone along with the bill or with any immigration reform because of the Hispanic groups -- or Hispanic leadership groups
+T4	Claim 5882 5923	it is true our borders are out of control
+T5	Claim 6033 6054	I supported this bill
+T6	Claim 6206 6262	With regard to the employer sanctions, we must have that
+T7	Premise 6263 6321	not only to ensure that we can identify the illegal aliens
+T200	Claim 2224 2367	we need a measure -- and I will support a measure -- that brings about those objectives but avoids that one aspect that I think is very serious
+T218	Premise 464 578	Yet today you have backed off any immigration reform, such as the balanced and highly crafted Simpson-Mazzoli bill
 T220	Claim 135 294	our number one foreign policy problem today is one that remains almost totally unrecognized: massive illegal immigration from economically collapsing countries
 T221	Claim 317 384	it is the only real territorial threat to the American nation-state
 T222	Claim 692 715	it has to be dealt with
@@ -14,8 +23,10 @@ T233	Claim 1901 1934	We need an answer to this problem
 T234	Premise 2020 2085	Everyone in this room, practically, here tonight, is an immigrant
 T235	Premise 2087 2182	We came here loving this nation, serving it, and it has served all of our most bountiful dreams
 T236	Premise 2184 2218	And one of those dreams is justice
-T239	Claim 2454 2497	We cannot solve this problem all on our own
+T237	Premise 2503 2804	that's why the failure of this administration to deal in an effective and a good-faith way with Mexico, with Costa Rica, with the other nations in trying to find a peaceful settlement to the dispute in Central America has undermined our capacity to effectively deal diplomatically in this area as well
 T238	Claim 2392 2452	maintain and improve relations with our friends to the south
+T239	Claim 2454 2497	We cannot solve this problem all on our own
+T240	Premise 7789 7886	Mexico's population will go from about 60 million today to 120 million at the turn of the century
 T241	Claim 2978 3040	there will be no immigration reform without employer sanctions
 T242	Premise 3050 3080	it would be an unbalanced bill
 T243	Premise 3086 3128	there would be simply no way to enforce it
@@ -41,9 +52,11 @@ T264	Claim 6805 6882	We don't think that those people should be allowed to conti
 T265	Premise 6056 6204	I believe in the idea of amnesty for those who have put down roots and who have lived here even though sometime back they may have entered illegally
 T267	Premise 6397 6803	there is another employer that we shouldn't be so concerned about, and these are employers down through the years who have encouraged the illegal entry into this country because they then hire these individuals and hire them at starvation wages and with none of the benefits that we think are normal and natural for workers in our country, and the individuals can't complain because of their illegal status
 T268	Claim 6978 7178	I'm going to do everything I can, and all of us in the administration are, to join in again when Congress is back at it to get an immigration bill that will give us, once again, control of our borders
+T269	Claim 7268 7366	no administration that I know has established the relationship that we have with our Latin friends
 T270	Premise 7372 7522	as long as they have an economy that leaves so many people in dire poverty and unemployment, they are going to seek that employment across our borders
 T271	Premise 7528 7562	we work with those other countries
 T272	Claim 7614 7731	the situation today is terribly different quantitatively -- qualitatively different from what it has been in the past
+T273	Premise 9947 10059	the cost of repaying those debts is so enormous that it results in massive unemployment, hardship, and heartache
 T275	Claim 8284 8392	the population explosion, if you look at the actual figures, has been vastly exaggerated -- over exaggerated
 T276	Premise 8415 8551	there are some pretty scientific and solid figures about how much space there still is in the world and how many more people we can have
 T277	Premise 8553 8707	It's almost like going back to the Malthusian theory, when even then they were saying that everyone would starve with the limited population they had then
@@ -59,13 +72,9 @@ T286	Claim 10362 10390	it has nothing to do with it
 T287	Claim 10587 10639	I predict it'll be coming down a little more shortly
 T288	Premise 10396 10581	with regard to these high interest rates, too, at least give us the recognition of the fact that when you left office, Mr. Mondale, they were 21\1/2\ -- the prime rate. It's now 12\1/4\
 T289	Claim 10645 10713	we're trying to undo some of the things that your administration did
-T200	Claim 2224 2367	we need a measure -- and I will support a measure -- that brings about those objectives but avoids that one aspect that I think is very serious
-T237	Premise 2503 2804	that's why the failure of this administration to deal in an effective and a good-faith way with Mexico, with Costa Rica, with the other nations in trying to find a peaceful settlement to the dispute in Central America has undermined our capacity to effectively deal diplomatically in this area as well
-T240	Premise 7789 7886	Mexico's population will go from about 60 million today to 120 million at the turn of the century
 T439	Premise 7888 7986	Many of these people will be coming into the United States not as citizens, but as illegal workers
 T490	Premise 386 463	You, yourself, said in the 1970's that we had a "hemorrhage on our borders.''
 T500	Claim 1190 1243	I don't think we should have a citizenship card today
-T218	Premise 464 578	Yet today you have backed off any immigration reform, such as the balanced and highly crafted Simpson-Mazzoli bill
 T559	Premise 641 686	This is a very serious problem in our country
 T560	Premise 1374 1455	strengthen other ways of dealing with undocumented workers in this difficult area
 T561	Premise 1460 1582	dealing with the problem of settling people who have lived here for many, many years and do not have an established status
@@ -77,12 +86,8 @@ T567	Premise 3977 4077	a system in which every American has a chance to achieve 
 T568	Claim 4426 4461	for tough enforcement at the border
 T569	Claim 4467 4517	for many other aspects of the Simpson-Mazzoli bill
 T570	Premise 4523 4564	all my life I've fought for a fair nation
-T269	Claim 7268 7366	no administration that I know has established the relationship that we have with our Latin friends
 T571	Premise 7732 7773	because of the gigantic population growth
-T273	Premise 9947 10059	the cost of repaying those debts is so enormous that it results in massive unemployment, hardship, and heartache
 T572	Claim 10126 10163	we need to end those deficits as well
-T1	Premise 1691 1726	strengthen enforcement at the borde
-T2	Claim 8259 8261	No
 R1	Support Arg1:T221 Arg2:T220
 R2	Support Arg1:T224 Arg2:T223
 R3	Support Arg1:T226 Arg2:T225
@@ -106,7 +111,6 @@ R20	Support Arg1:T237 Arg2:T239
 R21	Support Arg1:T242 Arg2:T241
 R22	Support Arg1:T243 Arg2:T241
 R23	Support Arg1:T565 Arg2:T564
-T3	Claim 3213 3350	that you have not gone along with the bill or with any immigration reform because of the Hispanic groups -- or Hispanic leadership groups
 R24	Support Arg1:T246 Arg2:T245
 R25	Support Arg1:T566 Arg2:T247
 R26	Support Arg1:T567 Arg2:T566
@@ -124,12 +128,8 @@ R37	Support Arg1:T248 Arg2:T254
 R38	Support Arg1:T259 Arg2:T258
 R39	Support Arg1:T261 Arg2:T258
 R40	Support Arg1:T260 Arg2:T258
-T4	Claim 5882 5923	it is true our borders are out of control
 R41	Support Arg1:T4 Arg2:T255
-T5	Claim 6033 6054	I supported this bill
 R42	Support Arg1:T5 Arg2:T257
-T6	Claim 6206 6262	With regard to the employer sanctions, we must have that
-T7	Premise 6263 6321	not only to ensure that we can identify the illegal aliens
 R43	Support Arg1:T7 Arg2:T6
 R44	Support Arg1:T267 Arg2:T6
 R45	Support Arg1:T6 Arg2:T264

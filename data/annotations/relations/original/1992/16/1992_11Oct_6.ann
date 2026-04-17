@@ -1,3 +1,4 @@
+T1	Claim 1489 1521	stimulate investment and savings
 T266	Claim 751 779	I think it's a good decision
 T267	Claim 812 853	I think it was the correct decision to do
 T268	Premise 888 957	we're moving forward all around the world in a much more peaceful way
@@ -11,6 +12,7 @@ T275	Claim 1568 1604	we are not coming apart at the seams
 T276	Claim 1606 1632	we're ready for a recovery
 T277	Premise 1634 1744	With interest rates down and inflation down, the cruelest tax of all, caught up in a global slowdown right now
 T278	Claim 1751 1767	that will change
+T279	Claim 1865 1939	I am a firm believer that our America 2000 education problem is the answer
 T280	Premise 1962 1998	it's going to take awhile to educate
 T281	Claim 2004 2024	it is a good program
 T282	Claim 2033 2075	best help for short term is job retraining
@@ -21,10 +23,10 @@ T286	Premise 2299 2333	It was just right through the roof
 T287	Claim 2340 2356	we can do better
 T288	Claim 2362 2475	the way to do better is not to tax and spend but to retrain, get that control of the mandatory spending programs.
 T289	Claim 2608 2678	Defense industries are going to have to convert to civilian industries
+T291	Claim 3024 3071	anybody that thinks about it cares a great deal
 T292	Premise 2756 2794	there will be a significant transition
 T293	Claim 2800 2879	it's very important that we not continue to let our industrial base deteriorate
 T294	Premise 2881 3016	We had someone who I'm sure regrets said it in the president's staff said he didn't care whether we made potato chips or computer chips
-T291	Claim 3024 3071	anybody that thinks about it cares a great deal
 T295	Premise 3085 3138	you make more making computer chips than potato chips
 T296	Premise 3155 3231	19 out of 20 computer chips that we have in this country now come from Japan
 T297	Premise 3233 3266	We've given away whole industries
@@ -43,7 +45,6 @@ T309	Premise 4304 4461	This administration may say they have a plan, but the tru
 T310	Premise 4463 4650	I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century--in new transportation, in communication, in environmental clean-up technologies
 T608	Premise 1768 1813	if you go with the programs I've talked about
 T609	Premise 1818 1863	if you help with job retraining and education
-T279	Claim 1865 1939	I am a firm believer that our America 2000 education problem is the answer
 T610	Premise 2077 2125	if she was thrown out of work at a defense plant
 T611	Premise 2180 2210	we faced tough problems before
 T612	Claim 4096 4151	There are 200,000 people unemployed in California alone
@@ -82,7 +83,6 @@ R36	Support Arg1:T309 Arg2:T612
 R37	Support Arg1:T306 Arg2:T612
 R38	Attack Arg1:T307 Arg2:T281
 R39	Support Arg1:T270 Arg2:T269
-T1	Claim 1489 1521	stimulate investment and savings
 R40	Support Arg1:T1 Arg2:T267
 R21	Support Arg1:T291 Arg2:T293
 R25	Support Arg1:T296 Arg2:T297

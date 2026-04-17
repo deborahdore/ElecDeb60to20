@@ -1,3 +1,6 @@
+T1	Claim 715 720	I did
+T2	Claim 1107 1113	I have
+T3	Claim 3124 3169;3245 3266	making sure that Medicare and Social Security will be there for you
 T496	Premise 517 602	I told the American people and I told you I would cut taxes for middle class families
 T497	Claim 608 613	I did
 T498	Premise 615 660	I told you I'd cut taxes for small businesses
@@ -76,9 +79,6 @@ T572	Premise 6651 6687	to get us the rising incomes we need
 T573	Claim 6689 6763	Median income is down $4,300 a family and 23 million Americans out of work
 T574	Premise 5881 5940	in the Reagan recession where unemployment hit 10.8 percent
 T575	Claim 5965 6108	the end of that recession and the equivalent of time to today, Ronald Reagan's recovery created twice as many jobs as this president's recovery
-T1	Claim 715 720	I did
-T2	Claim 1107 1113	I have
-T3	Claim 3124 3169;3245 3266	making sure that Medicare and Social Security will be there for you
 R1	Support Arg1:T504 Arg2:T503
 R2	Support Arg1:T496 Arg2:T497
 R3	Support Arg1:T498 Arg2:T501

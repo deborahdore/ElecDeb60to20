@@ -1,3 +1,4 @@
+T1	Claim 2576 2582	I will
 T925	Claim 1281 1325	I believe we're all children of the same God
 T926	Claim 1327 1385	I believe we have a responsibility to care for one another
 T927	Premise 570 692	some campaigns are focused on attacking a person rather than prescribing their own future and the things they'd like to do
@@ -56,7 +57,6 @@ T980	Claim 4786 4859	I'm asking for your vote and that's why I'm asking for anot
 T981	Premise 4503 4574	my grandfather fought in World War II and he came back and he got a G.I
 T982	Premise 4576 4641	Bill and that allowed him to go to college, that wasn't a handout
 T983	Premise 4643 4694	That was something that advanced the entire country
-T1	Claim 2576 2582	I will
 R1	Support Arg1:T930 Arg2:T929
 R2	Support Arg1:T931 Arg2:T929
 R3	Support Arg1:T932 Arg2:T934

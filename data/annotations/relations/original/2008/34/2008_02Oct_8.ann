@@ -1,3 +1,6 @@
+T1	Premise 2119 2195	Number two, with regard to Barack Obama not -- quote -- "funding the troops,
+T2	Claim 2197 2234	John McCain voted the exact same way.
+T3	Premise 4495 4536	Barack Obama though, another story there.
 T320	Claim 290 417	I am very thankful that we do have a good plan and the surge and the counterinsurgency strategy in Iraq that has proven to work
 T321	Claim 419 584	I am thankful that that is part of the plan implemented under a great American hero, General Petraeus, and pushed hard by another great American, Senator John McCain
 T322	Claim 585 702	I know that the other ticket opposed this surge, in fact, even opposed funding for our troops in Iraq and Afghanistan
@@ -48,11 +51,11 @@ T367	Premise 4163 4255	I know again that you opposed the move that he made to tr
 T368	Claim 4284 4406	I don't know how you can defend that position now, but I know that you know especially with your son in the National Guard
 T369	Claim 4411 4493	I have great respect for your family also and the honor that you show our military
 T370	Claim 4537 4630	Anyone I think who can cut off funding for the troops after promising not to is another story
-T374	Claim 4740 4956	John McCain voted against an amendment containing $1 billion, $600 million that I had gotten to get MRAPS, those things that are protecting the governor's son and pray god my son and a lot of other sons and daughters
-T375	Claim 4957 4976	He voted against it
 T371	Claim 4664 4715	John McCain voted to cut off funding for the troops
 T372	Premise 5011 5095	he said the amendment had a time line in it to end this war, and he didn't like that
 T373	Claim 5543 5574	John McCain has been dead wrong
+T374	Claim 4740 4956	John McCain voted against an amendment containing $1 billion, $600 million that I had gotten to get MRAPS, those things that are protecting the governor's son and pray god my son and a lot of other sons and daughters
+T375	Claim 4957 4976	He voted against it
 T376	Claim 5630 5711	he's been dead wrong on the fundamental issues relating to the conduct of the war
 T377	Claim 5576 5586	I love him
 T378	Premise 5150 5360	John McCain and Dick Cheney said when I was saying we would not be greeted as liberators, we would not - this war would take a decade, not a day, not a week, not six months, we would not be out of there quickly
@@ -80,8 +83,6 @@ R17	Attack Arg1:T343 Arg2:T342
 R18	Support Arg1:T345 Arg2:T344
 R19	Support Arg1:T344 Arg2:T343
 R20	Support Arg1:T346 Arg2:T343
-T1	Premise 2119 2195	Number two, with regard to Barack Obama not -- quote -- "funding the troops,
-T2	Claim 2197 2234	John McCain voted the exact same way.
 R21	Attack Arg1:T2 Arg2:T1
 R22	Support Arg1:T349 Arg2:T348
 R23	Support Arg1:T348 Arg2:T2
@@ -99,7 +100,6 @@ R34	Support Arg1:T363 Arg2:T364
 R35	Support Arg1:T364 Arg2:T365
 R36	Support Arg1:T366 Arg2:T367
 R37	Support Arg1:T369 Arg2:T368
-T3	Premise 4495 4536	Barack Obama though, another story there.
 R38	Support Arg1:T367 Arg2:T365
 R39	Attack Arg1:T365 Arg2:T368
 R40	Attack Arg1:T3 Arg2:T370

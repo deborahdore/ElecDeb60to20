@@ -1,3 +1,5 @@
+T1	Question 47 237	If Iraq's president Saddam Hussein were found to be developing weapons of mass destruction, Governor Bush has said he would, quote, "Take him out." Would you agree with such a deadly policy?
+T2	Claim 3530 3719	We are supporting them in their efforts and will continue to support them until the Iraqi people rise up and do what the people of Serbia have done in the last few days, get rid of a despot
 T314	Claim 1891 1993	I don't think you can afford to have a man like Saddam Hussein with nuclear weapons in the Middle East
 T315	Claim 247 276	We might have no other choice
 T316	Claim 278 311	We'll have to see if that happens
@@ -33,7 +35,6 @@ T346	Premise 3147 3232	We ought to do, and we're doing everything we can to get 
 T347	Claim 3238 3292	in the end there's not going to be peace until he goes
 T348	Premise 3478 3528	The Vice President met with them earlier this year
 T350	Claim 3721 3787	We'll welcome you back into the family of nations where you belong
-T1	Question 47 237	If Iraq's president Saddam Hussein were found to be developing weapons of mass destruction, Governor Bush has said he would, quote, "Take him out." Would you agree with such a deadly policy?
 R1	Support Arg1:T326 Arg2:T325
 R3	Support Arg1:T328 Arg2:T329
 R4	Support Arg1:T327 Arg2:T329
@@ -63,7 +64,6 @@ R26	Support Arg1:T345 Arg2:T341
 R27	Support Arg1:T346 Arg2:T345
 R28	Support Arg1:T347 Arg2:T341
 R34	Support Arg1:T348 Arg2:T333
-T2	Claim 3530 3719	We are supporting them in their efforts and will continue to support them until the Iraqi people rise up and do what the people of Serbia have done in the last few days, get rid of a despot
 R31	Support Arg1:T350 Arg2:T2
 R32	Support Arg1:T333 Arg2:T2
 R29	Support Arg1:T2 Arg2:T347

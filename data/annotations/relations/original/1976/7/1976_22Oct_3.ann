@@ -1,3 +1,4 @@
+T1	Claim 3380 3426	I think the matter is settled once and for all
 T89	Claim 2029 2074	I think the matter is closed once and for all
 T90	Claim 2106 2138	I don't control any of the tapes
 T91	Premise 2140 2231	Those tapes are in the jurisdiction of the courts and I have no right to say "yes" or "no."
@@ -21,7 +22,6 @@ T108	Claim 2899 2993	That's for the uh - proper authorities who have control ove
 T109	Claim 3342 3378	I've told everything I know about it
 T111	Premise 2995 3121	I have given every bit of evidence, answered every question that's as- been asked me by any senator or any member of the House
 T112	Premise 3123 3336	Plus the fact, that the special prosecutor, on his own initiation, and the attorney general on his initiation, the highest law enforcement official in this country, all of them have given me a clean bill of health
-T1	Claim 3380 3426	I think the matter is settled once and for all
 R1	Support Arg1:T95 Arg2:T94
 R2	Support Arg1:T96 Arg2:T94
 R3	Support Arg1:T98 Arg2:T97

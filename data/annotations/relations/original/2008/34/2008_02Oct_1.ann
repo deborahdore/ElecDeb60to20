@@ -3,6 +3,7 @@ T2	Claim 1958 2087	it's evidence of the fact that the economic policies of the l
 T3	Claim 2331 2395	I don't think you needed any more evidence than what you see now
 T4	Claim 2399 2492	the Congress has been put -- Democrats and Republicans have been put in a very difficult spot
 T5	Claim 2498 2572	Barack Obama laid out four basic criteria for any kind of rescue plan here
+T6	Premise 2578 2622	first of all, said there has to be oversight
 T7	Premise 2736 2808	He secondly said you have to focus on homeowners and folks on Main Stree
 T8	Premise 2820 2892	he said that you have to treat the taxpayers like investors in this case
 T9	Premise 2907 3062	what you have to do is make sure that CEOs don't benefit from this, because this could end up, in the long run, people making money off of this rescue plan
@@ -10,6 +11,7 @@ T10	Claim 3098 3219	it brings us back to maybe the fundamental disagreement betw
 T11	Premise 3225 3313	that is that the -- we're going to fundamentally change the focus of the economic policy
 T12	Claim 3315 3355	We're going to focus on the middle class
 T13	Premise 3373 3448	when the middle class is growing, the economy grows and everybody does well
+T14	Premise 2624 2735	We're not going to write any check to anybody unless there's oversight for the -- of the secretary of Treasury.
 T15	Claim 3971 4101	you're going to hear some fear in that parent's voice, fear regarding the few investments that some of us have in the stock market
 T16	Claim 4376 4558	is going to be resounding that our economy is hurting and the federal government has not provided the sound oversight that we need and that we deserve, and we need reform to that end
 T17	Claim 4902 4989	I think that the alarm has been heard, though, and there will be that greater oversight
@@ -34,6 +36,7 @@ T35	Claim 6762 6898	And the American workforce is the greatest in this world, wi
 T36	Claim 6900 6917	That's a positive
 T37	Claim 6919 6939	That's encouragement
 T38	Claim 6945 6974	that's what John McCain meant
+T39	Premise 4156 4223	Fear about, how are we going to afford to send our kids to college?
 T40	Premise 7081 7147	I've joined this team that is a team of mavericks with John McCain
 T41	Claim 7188 7266	where we're known for putting partisan politics aside to just get the job done
 T42	Claim 7273 7347	Barack Obama, of course, he's pretty much only voted along his party lines
@@ -43,11 +46,10 @@ T45	Claim 7631 7671	We're tired of the old politics as usual
 T46	Claim 7711 7745	I do respect your years in the U.S
 T47	Claim 7759 7893	I think Americans are craving something new and different and that new energy and that new commitment that's going to come with reform
 T48	Claim 7895 8022	I think that's why we need to send the maverick from the Senate and put him in the White House, and I'm happy to join him there
+T49	Premise 4224 4343	A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more peopl
 R1	Support Arg1:T3 Arg2:T4
 R2	Support Arg1:T4 Arg2:T2
 R3	Attack Arg1:T5 Arg2:T2
-T6	Premise 2578 2622	first of all, said there has to be oversight
-T14	Premise 2624 2735	We're not going to write any check to anybody unless there's oversight for the -- of the secretary of Treasury.
 R4	Support Arg1:T6 Arg2:T14
 R5	Support Arg1:T14 Arg2:T5
 R6	Support Arg1:T7 Arg2:T5
@@ -57,8 +59,6 @@ R9	Support Arg1:T11 Arg2:T12
 R10	Support Arg1:T13 Arg2:T12
 R11	Attack Arg1:T12 Arg2:T10
 R12	Support Arg1:T5 Arg2:T12
-T39	Premise 4156 4223	Fear about, how are we going to afford to send our kids to college?
-T49	Premise 4224 4343	A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more peopl
 R13	Support Arg1:T21 Arg2:T22
 R14	Support Arg1:T20 Arg2:T21
 R15	Support Arg1:T22 Arg2:T19

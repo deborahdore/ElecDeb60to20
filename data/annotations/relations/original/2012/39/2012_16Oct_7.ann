@@ -1,3 +1,5 @@
+T1	Premise 9351 9397	Mr. President, have you looked at your pension
+T2	Premise 5153 5360	Now, Governor Romney just said, you know he wants to help those young people too, but during the Republican primary, he said, "I will veto the DREAM Act", that would allow these young people to have access."
 T576	Claim 1342 1453	I don't think you have to -- shouldn't have to hire a lawyer to figure out how to get into this country legally
 T577	Claim 1455 1575	I also think that we should give visas to people -- green cards, rather, to people who graduate with skills that we need
 T578	Claim 1768 1815	we're going to have to stop illegal immigration
@@ -91,7 +93,6 @@ T669	Claim 10704 10779	we've got to make sure that we do it in a smart way and a
 T670	Premise 10785 10816	we make the legal system better
 T672	Claim 11316 11350	This used to be a bipartisan issue
 T673	Premise 10317 10346	not E-Verify, the whole thing
-T1	Premise 9351 9397	Mr. President, have you looked at your pension
 R1	Support Arg1:T594 Arg2:T593
 R2	Support Arg1:T595 Arg2:T593
 R3	Support Arg1:T597 Arg2:T596
@@ -121,7 +122,6 @@ R26	Support Arg1:T618 Arg2:T617
 R27	Support Arg1:T619 Arg2:T617
 R28	Support Arg1:T620 Arg2:T617
 R29	Support Arg1:T617 Arg2:T616
-T2	Premise 5153 5360	Now, Governor Romney just said, you know he wants to help those young people too, but during the Republican primary, he said, "I will veto the DREAM Act", that would allow these young people to have access."
 R30	Support Arg1:T622 Arg2:T615
 R31	Support Arg1:T623 Arg2:T624
 R32	Attack Arg1:T626 Arg2:T625

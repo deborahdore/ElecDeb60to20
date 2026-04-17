@@ -1,3 +1,6 @@
+T1	Premise 18415 18442	I think it's very important
+T2	Question 191 302	How can we trust either of you with our money when both parties got -- got us into this global economic crisis?
+T3	Premise 5795 5850	as we did in 1983 between Ronald Reagan and Tip O'Neill
 T162	Claim 323 370	I understand your frustration and your cynicism
 T163	Premise 380 487	while you've been carrying out your responsibilities -- most of the people here, you've got a family budget
 T164	Claim 489 539	If less money is coming in, you end up making cuts
@@ -195,7 +198,6 @@ T357	Premise 17400 17463	he said he would forgo his tax increases if the economy
 T358	Claim 17646 17814	I am in favor of leaving the tax rates alone and reducing the tax burden on middle-income Americans by doubling your tax exemption for every child from $3,500 to $7,000
 T359	Claim 18392 18405	The tax issue
 T361	Claim 17817 17973	To giving every American a $5,000 refundable tax credit and go out and get the health insurance you want rather than mandates and fines for small businesses
-T1	Premise 18415 18442	I think it's very important
 R1	Support Arg1:T163 Arg2:T162
 R2	Support Arg1:T164 Arg2:T162
 R3	Support Arg1:T165 Arg2:T164
@@ -347,13 +349,11 @@ R150	Attack Arg1:T355 Arg2:T354
 R151	Support Arg1:T356 Arg2:T355
 R152	Support Arg1:T1 Arg2:T359
 R153	Support Arg1:T353 Arg2:T352
-T2	Question 191 302	How can we trust either of you with our money when both parties got -- got us into this global economic crisis?
 R154	Support Arg1:T170 Arg2:T176
 R155	Attack Arg1:T190 Arg2:T189
 R156	Support Arg1:T191 Arg2:T190
 R157	Support Arg1:T209 Arg2:T211
 R158	Attack Arg1:T219 Arg2:T215
-T3	Premise 5795 5850	as we did in 1983 between Ronald Reagan and Tip O'Neill
 R54	Support Arg1:T3 Arg2:T236
 R159	Support Arg1:T236 Arg2:T229
 R160	Support Arg1:T247 Arg2:T201

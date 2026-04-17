@@ -1,3 +1,13 @@
+T1	Claim 5166 5271	what any administration will do in 2013 is assess the situation to see how best to complete this timeline
+T2	Claim 5553 5579	that's a bizarre statement
+T3	Claim 5930 5960	We have other responsibilities
+T4	Premise 9926 9964	The calendar works the same every year
+T5	Premise 9974 10006	It does work the same every year
+T6	Premise 10046 10066	Spring, summer, fall
+T7	Premise 10068 10090	It's warm, or it's not
+T8	Claim 10401 10416	Not in the east
+T9	Claim 10906 10930	That's the whole problem
+T10	Claim 10940 10952	That's right
 T560	Claim 56 159	that's one of the biggest expenditures this country has made, in dollars, and more importantly in lives
 T561	Premise 241 331	More than 50 of them were killed this year by the very Afghan forces we are trying to help
 T562	Premise 161 239	We just passed the sad milestone of losing 2,000 U.S. troops there in this war
@@ -141,14 +151,11 @@ R30	Support Arg1:T607 Arg2:T608
 R31	Support Arg1:T612 Arg2:T609
 R32	Support Arg1:T613 Arg2:T609
 R33	Support Arg1:T611 Arg2:T609
-T1	Claim 5166 5271	what any administration will do in 2013 is assess the situation to see how best to complete this timeline
 R34	Support Arg1:T617 Arg2:T615
 R35	Support Arg1:T615 Arg2:T1
 R36	Attack Arg1:T614 Arg2:T1
-T2	Claim 5553 5579	that's a bizarre statement
 R37	Support Arg1:T618 Arg2:T614
 R38	Support Arg1:T619 Arg2:T620
-T3	Claim 5930 5960	We have other responsibilities
 R39	Support Arg1:T3 Arg2:T620
 R40	Support Arg1:T623 Arg2:T622
 R41	Support Arg1:T622 Arg2:T624
@@ -177,10 +184,6 @@ R63	Support Arg1:T655 Arg2:T654
 R64	Support Arg1:T657 Arg2:T655
 R65	Support Arg1:T659 Arg2:T658
 R66	Attack Arg1:T656 Arg2:T641
-T4	Premise 9926 9964	The calendar works the same every year
-T5	Premise 9974 10006	It does work the same every year
-T6	Premise 10046 10066	Spring, summer, fall
-T7	Premise 10068 10090	It's warm, or it's not
 R67	Support Arg1:T6 Arg2:T4
 R68	Support Arg1:T7 Arg2:T4
 R69	Support Arg1:T5 Arg2:T4
@@ -188,10 +191,7 @@ R70	Support Arg1:T665 Arg2:T666
 R71	Support Arg1:T664 Arg2:T666
 R72	Attack Arg1:T666 Arg2:T656
 R73	Support Arg1:T663 Arg2:T662
-T8	Claim 10401 10416	Not in the east
-T9	Claim 10906 10930	That's the whole problem
 R74	Support Arg1:T668 Arg2:T9
-T10	Claim 10940 10952	That's right
 R75	Support Arg1:T667 Arg2:T10
 R76	Equivalent Arg1:T572 Arg2:T564
 R77	Equivalent Arg1:T580 Arg2:T588

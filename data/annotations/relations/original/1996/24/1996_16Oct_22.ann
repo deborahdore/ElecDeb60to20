@@ -1,3 +1,4 @@
+T1	Claim 1197 1257	There are some very fundamental differences in this campaign
 T1000	Claim 398 421	we have our differences
 T1001	Claim 423 453	We should have our differences
 T1002	Claim 1259 1372	President Clinton opposes term limits, President Clinton opposes a constitutional amendment to balance the budget
@@ -45,7 +46,6 @@ R3	Support Arg1:T1001 Arg2:T1000
 R4	Support Arg1:T1019 Arg2:T1014
 R5	Support Arg1:T1020 Arg2:T1014
 R6	Attack Arg1:T1014 Arg2:T1007
-T1	Claim 1197 1257	There are some very fundamental differences in this campaign
 R7	Support Arg1:T1002 Arg2:T1
 R8	Support Arg1:T1003 Arg2:T1
 R9	Support Arg1:T1007 Arg2:T1

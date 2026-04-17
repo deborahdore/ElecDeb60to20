@@ -49,6 +49,7 @@ T48	Premise 7258 7304	how is it that we shredded so many regulations
 T49	Claim 7306 7387	We did not set up a 21st-century regulatory framework to deal with these problems
 T50	Premise 7393 7483	that in part has to do with an economic philosophy that says that regulation is always bad
 T51	Claim 7629 7633	Sure
+T52	Claim 7692 7696	Sure
 T53	Claim 8998 9033	I promise you that that will happen
 T54	Premise 7995 8108	President Eisenhower, on the night before the Normandy invasion, went into his room, and he wrote out two letters
 T55	Premise 8111 8296	One of them was a letter congratulating the great members of the military and allies that had conducted and succeeded in the greatest invasion in history, still to this day, and forever
@@ -99,23 +100,24 @@ T99	Premise 12650 12703	the evils of this earmarking and pork-barrel spending
 T100	Premise 12716 12772	we spent $3 million to study the DNA of bears in Montana
 T101	Claim 12841 12899	the fact is that it was $3 million of our taxpayers' money
 T102	Claim 12946 13017	As president of the United States, I want to assure you, I've got a pen
+T103	Claim 13043 13057	I've got a pen
 T104	Claim 13063 13133	I'm going to veto every single spending bill that comes across my desk
 T105	Claim 12905 12944	it has got to be brought under control.
 T106	Premise 13599 13670	That's one of the fundamental differences that Senator Obama and I have
 T107	Premise 13135 13158	I will make them famous
 T108	Premise 13160 13185	You will know their names
 T109	Premise 13251 13395	He has asked for $932 million of earmark pork-barrel spending, nearly a million dollars for every day that he's been in the United States Senate
+T110	Premise 13398 13478	I suggest that people go up on the Web site of Citizens Against Government Waste
 T111	Premise 13484 13514	they'll look at those projects
 T112	Claim 13517 13597	That kind of thing is not the way to rein in runaway spending in Washington, D.C
-T110	Premise 13398 13478	I suggest that people go up on the Web site of Citizens Against Government Waste
 T113	Premise 13724 13800	Senator McCain is absolutely right that the earmarks process has been abused
+T114	Claim 14178 14354	Senator McCain is proposing -- and this is a fundamental difference between us -- $300 billion in tax cuts to some of the wealthiest corporations and individuals in the country
 T115	Premise 13859 13933	whether it was for senior centers or what have you, until we cleaned it up
 T116	Premise 13939 14099	he's also right that oftentimes lobbyists and special interests are the ones that are introducing these kinds of requests, although that wasn't the case with me
 T117	Claim 14122 14176	Earmarks account for $18 billion in last year's budget
 T118	Claim 14963 15127	over time, that, I think, is going to be a better recipe for economic growth than the -- the policies of President Bush that John McCain wants to -- wants to follow
 T119	Claim 14376 14400	$18 billion is important
 T120	Claim 14402 14434	$300 billion is really important
-T114	Claim 14178 14354	Senator McCain is proposing -- and this is a fundamental difference between us -- $300 billion in tax cuts to some of the wealthiest corporations and individuals in the country
 T121	Premise 14440 14549	in his tax plan, you would have CEOs of Fortune 500 companies getting an average of $700,000 in reduced taxes
 T122	Claim 14551 14590	while leaving 100 million Americans out
 T123	Claim 14596 14660	my attitude is, we've got to grow the economy from the bottom up
@@ -130,6 +132,7 @@ T131	Premise 15270 15389	Senator Obama suspended those requests for pork-barrel 
 T132	Premise 15391 15520	He didn't happen to see that light during the first three years as a member of the United States Senate, $932 million in requests
 T133	Premise 15631 15707	It's only $18 billion." Do you know that it's tripled in the last five years
 T134	Premise 15709 15799	Do you know that it's gone completely out of control to the point where it corrupts people
+T135	Claim 22326 22341	That's not true
 T136	Claim 15942 15976	I have fought against it my career
 T137	Premise 16303 16367	that's a fundamental difference between myself and Senator Obama
 T138	Claim 16884 16929	I think those are pretty important priorities
@@ -189,6 +192,7 @@ T191	Claim 21839 21870	I have proposals to simplify it
 T192	Claim 22138 22188	Senator Obama has shifted on a number of occasions
 T193	Claim 22190 22292	He has voted in the United States Senate to increase taxes on people who make as low as $42,000 a year
 T194	Claim 22303 22318	That's not true
+T195	Claim 22890 22892	No
 T196	Claim 22356 22374	that's just a fact
 T197	Premise 22383 22401	you can look it up
 T198	Claim 22417 22435	it's just not true
@@ -323,10 +327,6 @@ T327	Claim 35792 35851	I've got a partner that's a good maverick along with me n
 T328	Premise 35650 35670	I have a long record
 T329	Premise 35675 35712	the American people know me very well
 T330	Premise 35717 35765	that is independent and a maverick of the Senate
-T52	Claim 7692 7696	Sure
-T103	Claim 13043 13057	I've got a pen
-T135	Claim 22326 22341	That's not true
-T195	Claim 22890 22892	No
 T331	Premise 28136 28189;28226 28246	there are going to be things that end up having to be deferred and delayed
 R1	Support Arg1:T12 Arg2:T8
 R2	Support Arg1:T13 Arg2:T8

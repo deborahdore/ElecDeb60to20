@@ -1,3 +1,6 @@
+T1	Question 47 215	Washington is a caldron of political bickering and partisanship. The American people, gentleman, have had enough. How would you elevate political discourse and purpose?
+T2	Premise 1532 1678	He ended up, as a result of that activity of his first term, having the top Democrat in the state, Bob Bulloch, endorse George Bush for reelection
+T3	Premise 5853 5956	I'm pleased to see, Dick, from the newspapers that you're better off than you were eight years ago, too
 T490	Premise 1099 1179	I've been so tremendously impressed with what he's done as the Governor of Texas
 T491	Claim 1804 1839	I think it will take new leadership
 T492	Claim 290 318	I agree with your assessment
@@ -53,8 +56,6 @@ T544	Premise 5530 5553	the 22 million new jobs
 T545	Premise 5567 5591	4 million new businesses
 T546	Premise 5601 5669	the lower interest rates, low rate of inflation, high rate of growth
 T547	Claim 5988 6039	the government had absolutely nothing to do with it
-T1	Question 47 215	Washington is a caldron of political bickering and partisanship. The American people, gentleman, have had enough. How would you elevate political discourse and purpose?
-T2	Premise 1532 1678	He ended up, as a result of that activity of his first term, having the top Democrat in the state, Bob Bulloch, endorse George Bush for reelection
 R1	Support Arg1:T2 Arg2:T509
 R2	Support Arg1:T495 Arg2:T509
 R3	Support Arg1:T509 Arg2:T508
@@ -98,5 +99,4 @@ R40	Support Arg1:T545 Arg2:T543
 R41	Support Arg1:T546 Arg2:T543
 R42	Support Arg1:T542 Arg2:T543
 R43	Attack Arg1:T547 Arg2:T3
-T3	Premise 5853 5956	I'm pleased to see, Dick, from the newspapers that you're better off than you were eight years ago, too
 R44	Support Arg1:T3 Arg2:T542

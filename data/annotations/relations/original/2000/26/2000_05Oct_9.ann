@@ -1,3 +1,4 @@
+T1	Question 41 220	We all know Social Security is the backbone of the retirement system in our nation. Can either of you pledge tonight categorically that no one will lose benefits under your plans?
 T443	Claim 246 384	I can pledge to the American people categorically that no one will lose benefits under our plan for Social Security as far forward as 2054
 T444	Claim 737 830	Al and I have committed to putting that Social Security surplus in a lockbox, not touching it
 T445	Claim 844 893	allows us to keep Social Security solvent to 2054
@@ -43,7 +44,6 @@ T486	Claim 3698 3868	And long-term by generating a bigger return, we'll put addi
 T487	Claim 2953 3027	it will drive the system into bankruptcy unless we reform and deal with it
 T488	Premise 2797 2832	They know how many people there are
 T489	Premise 2834 2951	when they reach retirement, we know when the baby boom generation is coming along, how long they will live after that
-T1	Question 41 220	We all know Social Security is the backbone of the retirement system in our nation. Can either of you pledge tonight categorically that no one will lose benefits under your plans?
 R1	Support Arg1:T446 Arg2:T443
 R2	Support Arg1:T447 Arg2:T446
 R3	Support Arg1:T448 Arg2:T447

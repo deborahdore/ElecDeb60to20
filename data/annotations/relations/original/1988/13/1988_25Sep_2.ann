@@ -1,3 +1,20 @@
+T1	Premise 1493 1616	It's very unfair to the average taxpayer who pays his taxes and pays them on time to permit these monies to go uncollected.
+T2	Claim 1708 1941	We ought to be able to come up with an agricultural policy in this country that gives our farm families a fair price and a decent future without spending $20-25 billion a year, which is what we've been doing under this administration
+T3	Claim 1643 1707	n the domestic side there are areas where we can make some cuts.
+T4	Claim 2202 2302	how he could possibly be serious about bringing that deficit down given what he says he wants to do.
+T5	Claim 3169 3216	That answer was about as clear as Boston harbor
+T6	Premise 3263 3329	There are so many things there, I don't quite know where to begin.
+T7	Claim 3330 3381	When you cut capital gains, you put people to work.
+T8	Premise 3382 3425	John Kennedy proposed cutting capital gains
+T9	Premise 2389 2416	says he's against new taxes
+T10	Premise 3755 3875	Massachusetts doesn't have an enormous defense budget, but nevertheless, the governor raised taxes five different times.
+T11	Claim 3876 3902	That happens to be a fact.
+T12	Claim 5361 5546	it's not that the working is being taxed too little or the person working out - the woman working in some factory being taxed too little. It is that we are continuing to spend too much.
+T13	Claim 5683 5750	the Federal deficit has come down $70 billion in one year, in 1987.
+T14	Claim 5782 5864	this year Congress is doing a little better in controlling the growth of spending.
+T15	Premise 6503 6546	increase revenues to the Federal Government
+T16	Premise 6481 6501	increase risk taking
+T17	Premise 6432 6479	A capital gains differential will increase jobs
 T97	Claim 502 568	let me lay out for you my own strategy for bring that deficit down
 T98	Premise 578 635	as a chief executive that's balanced ten budgets in a row
 T99	Premise 637 699	I've had to make those tough decisions and those tough choices
@@ -20,8 +37,8 @@ T115	Premise 2655 2674	If he keeps this up
 T116	Premise 2593 2653	He also wants to spend a lot of money on additional programs
 T117	Premise 2303 2384	He seems to want to spend a great deal of money on just about every weapon system
 T118	Premise 2499 2591	he wants to give the wealthiest taxpayers in this country a five year, $40 billion tax break
-T120	Claim 2427 2497	he's broken that pledge at least times in the last year that I know of
 T119	Claim 3045 3079	I think he's going to try it again
+T120	Claim 2427 2497	he's broken that pledge at least times in the last year that I know of
 T121	Claim 2923 3012	the only place he can go to balance that budget is to raid the Social Security Trust Fund
 T122	Premise 3018 3039	he tried that in 1985
 T123	Claim 3544 3587	It's not going to cost the government money
@@ -63,20 +80,12 @@ T158	Premise 6360 6397	Capital gains, one more point on that
 T159	Claim 6611 6829	I hope all of those Americans out there who are watching us, listening to us and trying to make up their mind about which one of us ought to be president of the United States listen to the Vice President very carefully
 T160	Premise 7195 7237	that's more than the average teacher makes
 T161	Claim 7239 7285	We've had enough of that, ladies and gentlemen
-T163	Claim 6831 7102	What he's proposing after over a trillion in new debt which has been added in the Federal debt in the course of the past eight years, an IOU our children and grandchildren will be paying for years, is a tax cut for the wealthiest one percent of the people in this country
 T162	Premise 7104 7189	an average of about $30,000 that we're going to give to people making $200,000 a year
+T163	Claim 6831 7102	What he's proposing after over a trillion in new debt which has been added in the Federal debt in the course of the past eight years, an IOU our children and grandchildren will be paying for years, is a tax cut for the wealthiest one percent of the people in this country
 T164	Claim 7413 7471	It's time for a chief executive who can make tough choices
 T165	Claim 7501 7591	can get that deficit down and begin to build a strong fiscal foundation under this country
 T166	Claim 7473 7499	can work with the Congress
 T167	Premise 7287 7411	We've run up more debt in the last eight years than under all the presidents from George Washington to Jimmy Carter combined
-T1	Premise 1493 1616	It's very unfair to the average taxpayer who pays his taxes and pays them on time to permit these monies to go uncollected.
-T2	Claim 1708 1941	We ought to be able to come up with an agricultural policy in this country that gives our farm families a fair price and a decent future without spending $20-25 billion a year, which is what we've been doing under this administration
-T3	Claim 1643 1707	n the domestic side there are areas where we can make some cuts.
-T4	Claim 2202 2302	how he could possibly be serious about bringing that deficit down given what he says he wants to do.
-T5	Claim 3169 3216	That answer was about as clear as Boston harbor
-T6	Premise 3263 3329	There are so many things there, I don't quite know where to begin.
-T7	Claim 3330 3381	When you cut capital gains, you put people to work.
-T8	Premise 3382 3425	John Kennedy proposed cutting capital gains
 R1	Support Arg1:T98 Arg2:T99
 R2	Support Arg1:T99 Arg2:T97
 R3	Support Arg1:T98 Arg2:T97
@@ -95,7 +104,6 @@ R15	Support Arg1:T97 Arg2:T110
 R16	Support Arg1:T1 Arg2:T110
 R17	Support Arg1:T2 Arg2:T3
 R18	Support Arg1:T111 Arg2:T3
-T9	Premise 2389 2416	says he's against new taxes
 R19	Support Arg1:T111 Arg2:T112
 R20	Support Arg1:T112 Arg2:T113
 R21	Support Arg1:T112 Arg2:T3
@@ -122,8 +130,6 @@ R41	Support Arg1:T123 Arg2:T125
 R42	Support Arg1:T125 Arg2:T7
 R43	Support Arg1:T126 Arg2:T7
 R44	Support Arg1:T128 Arg2:T127
-T10	Premise 3755 3875	Massachusetts doesn't have an enormous defense budget, but nevertheless, the governor raised taxes five different times.
-T11	Claim 3876 3902	That happens to be a fact.
 R45	Support Arg1:T125 Arg2:T128
 R46	Support Arg1:T126 Arg2:T128
 R47	Support Arg1:T127 Arg2:T7
@@ -139,12 +145,6 @@ R56	Support Arg1:T135 Arg2:T134
 R57	Attack Arg1:T134 Arg2:T136
 R58	Support Arg1:T139 Arg2:T136
 R59	Support Arg1:T140 Arg2:T136
-T12	Claim 5361 5546	it's not that the working is being taxed too little or the person working out - the woman working in some factory being taxed too little. It is that we are continuing to spend too much.
-T13	Claim 5683 5750	the Federal deficit has come down $70 billion in one year, in 1987.
-T14	Claim 5782 5864	this year Congress is doing a little better in controlling the growth of spending.
-T15	Premise 6503 6546	increase revenues to the Federal Government
-T16	Premise 6481 6501	increase risk taking
-T17	Premise 6432 6479	A capital gains differential will increase jobs
 R60	Support Arg1:T137 Arg2:T138
 R61	Support Arg1:T138 Arg2:T142
 R62	Support Arg1:T141 Arg2:T142

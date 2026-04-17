@@ -1,9 +1,17 @@
+T1	Claim 7897 7920	I support school choice
+T2	Premise 9364 9377	it would have
+T3	Premise 2601 2683	So it seems to me that we can talk about what we call Kenny, the great exaggerator
+T4	Premise 2686 2761	e just liked to make it sound exager, a little better, made him feel better
+T5	Premise 10475 10609	Why can't Landale Shakespeare in Cleveland or Pilar Gonzales in Milwaukee give their children an opportunity to go to a better school.
+T6	Premise 10920 10949	let's set the record straight
+T7	Premise 18662 18704	Did anybody complain when you raised taxes
+T8	Premise 18706 18786	Did anybody go out and ask the people, how are you going to pay the extra money?
 T609	Claim 738 796	I believe America is the greatest country in human history
 T610	Premise 805 967	we have maintained freedom and increasing prosperity by relentlessly pushing the barriers of knowledge, the barriers of the present, always moving into the future
 T611	Claim 1338 1373	we're moving in the right direction
+T612	Premise 969 1144	That's why when I became President I was determined to kind of move beyond this whole stale debate that had gone on in Washington for too long to get this country moving again
 T613	Premise 1150 1325	that's why we've got a country with ten and a half million more jobs, and record numbers of new businesses, and rising incomes, and falling crime rates, and welfare roll rates
 T614	Claim 1408 1451	what I want to do is to continue to do that
-T612	Premise 969 1144	That's why when I became President I was determined to kind of move beyond this whole stale debate that had gone on in Washington for too long to get this country moving again
 T615	Claim 1464 1527	my balanced budget plan will still invest and grow this economy
 T616	Claim 1540 1617	I want a tax cut for education and child rearing, but it's got to be paid for
 T617	Claim 1630 1788	I want to continue the work we have done over partisan opposition, to work with communities to bring that crime rate down until our streets are all safe again
@@ -237,8 +245,6 @@ T849	Claim 19713 19761	that's the right way to go into the 21st Century
 T850	Claim 19763 19795	balance the budget and cut taxes
 T851	Claim 19797 19842	not balloon with this $550 billion tax scheme
 T1081	Premise 3705 3733	If he gets elected president
-T1	Claim 7897 7920	I support school choice
-T2	Premise 9364 9377	it would have
 R1	Support Arg1:T610 Arg2:T612
 R2	Support Arg1:T612 Arg2:T613
 R3	Support Arg1:T613 Arg2:T611
@@ -258,8 +264,6 @@ R16	Support Arg1:T635 Arg2:T636
 R17	Support Arg1:T636 Arg2:T637
 R18	Support Arg1:T637 Arg2:T638
 R19	Attack Arg1:T632 Arg2:T638
-T3	Premise 2601 2683	So it seems to me that we can talk about what we call Kenny, the great exaggerator
-T4	Premise 2686 2761	e just liked to make it sound exager, a little better, made him feel better
 R20	Support Arg1:T3 Arg2:T4
 R21	Attack Arg1:T4 Arg2:T632
 R22	Support Arg1:T624 Arg2:T625
@@ -362,7 +366,6 @@ R118	Support Arg1:T733 Arg2:T732
 R119	Attack Arg1:T731 Arg2:T738
 R120	Attack Arg1:T737 Arg2:T739
 R121	Attack Arg1:T737 Arg2:T740
-T5	Premise 10475 10609	Why can't Landale Shakespeare in Cleveland or Pilar Gonzales in Milwaukee give their children an opportunity to go to a better school.
 R122	Attack Arg1:T5 Arg2:T731
 R123	Support Arg1:T741 Arg2:T742
 R125	Support Arg1:T745 Arg2:T744
@@ -375,7 +378,6 @@ R130	Support Arg1:T753 Arg2:T754
 R131	Support Arg1:T757 Arg2:T755
 R132	Support Arg1:T754 Arg2:T756
 R133	Attack Arg1:T756 Arg2:T755
-T6	Premise 10920 10949	let's set the record straight
 R134	Support Arg1:T6 Arg2:T752
 R135	Support Arg1:T752 Arg2:T751
 R136	Support Arg1:T758 Arg2:T756
@@ -458,8 +460,6 @@ R212	Support Arg1:T836 Arg2:T837
 R213	Support Arg1:T837 Arg2:T838
 R214	Support Arg1:T840 Arg2:T839
 R215	Support Arg1:T838 Arg2:T839
-T7	Premise 18662 18704	Did anybody complain when you raised taxes
-T8	Premise 18706 18786	Did anybody go out and ask the people, how are you going to pay the extra money?
 R216	Support Arg1:T7 Arg2:T8
 R217	Attack Arg1:T841 Arg2:T8
 R218	Support Arg1:T841 Arg2:T842

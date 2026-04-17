@@ -1,3 +1,4 @@
+T1	Claim 2226 2267	My attitude is you ain't seen nothing yet
 T663	Claim 363 525	what I would do first and foremost, is I would get in touch with the Federal Reserve Chairman, Alan Greenspan, to find out all the facts and all the circumstances
 T664	Claim 527 634	I would have my Secretary of the Treasury be in touch with the financial centers not only here, but at home
 T665	Claim 636 737	I would make sure that key members of Congress were called in to discuss the gravity of the situation
@@ -70,7 +71,6 @@ R6	Support Arg1:T669 Arg2:T668
 R7	Support Arg1:T668 Arg2:T670
 R8	Support Arg1:T673 Arg2:T674
 R9	Support Arg1:T672 Arg2:T671
-T1	Claim 2226 2267	My attitude is you ain't seen nothing yet
 R10	Support Arg1:T675 Arg2:T674
 R11	Support Arg1:T676 Arg2:T675
 R12	Support Arg1:T674 Arg2:T677

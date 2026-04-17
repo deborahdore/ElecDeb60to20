@@ -1,28 +1,20 @@
 T1	Claim 1376 1538	I think it will depend in great measure upon what we do here in the United States, on the kind of society that we build, on the kind of strength that we maintain.
-T2	Premise 1154 1222	the question is whether the world will exist half-slave or half-free
-T5	Premise 1326 1374	whether it will move in the direction of slavery
 T3	Premise 1224 1322	whether it will move in the direction of freedom, in the direction of the road that we are taking,
 T4	Claim 1934 1970	they are important and dangerous now
+T5	Premise 1326 1374	whether it will move in the direction of slavery
 T6	Premise 1979 2037	they are mounting a major effort within their own country.
 T7	Claim 1579 1717	I would not want that to be any implication to be given that this does not involve directly our struggle with Mr. Khrushchev for survival.
-T8	Premise 1718 1747	Mr. Khrushchev is in New York
 T9	Premise 1753 1870	he maintains the Communist offensive throughout the world because of the productive power of the Soviet Union itself.
 T10	Premise 1871 1929	The Chinese Communists have always had a large population.
 T11	Claim 2038 2183	The kind of country we have here, the kind of society we have, the kind of strength we build in the United States will be the defense of freedom.
-T12	Claim 2352 2438	I think the question before the American people is: Are we doing as much as we can do?
-T13	Claim 2727 2760	I do not think we're doing enough
 T14	Claim 2767 2837	I am not satisfied as an American with the progress that we're making.
-T15	Claim 2867 2904	I think it could be a greater country
 T16	Claim 2942 2986	I think it could be a more powerful country.
 T17	Claim 2987 3061	I'm not satisfied to have fifty percent of our steel-mill capacity unused.
 T18	Claim 3062 3201	I'm not satisfied when the United States had last year the lowest rate of economic growth of any major industrialized society in the world.
 T19	Premise 3210 3254	economic growth means strength and vitality;
 T20	Premise 3255 3299	it means we're able to sustain our defenses;
 T21	Premise 3300 3351	it means we're able to meet our commitments abroad.
-T22	Claim 3352 3422	I'm not satisfied when we have over nine billion dollars worth of food
-T23	Premise 3458 3481	there is a hungry world
 T24	Premise 3499 3626	four million Americans wait every month for a food package from the government, which averages five cents a day per individual.
-T25	Premise 3627 3767	I saw cases in West Virginia, here in the United States, where children took home part of their school lunch in order to feed their families
 T26	Claim 3776 3843	I don't think we're meeting our obligations toward these Americans.
 T27	Claim 3844 3948	I'm not satisfied when the Soviet Union is turning out twice as many scientists and engineers as we are.
 T28	Claim 3949 4067	I'm not satisfied when many of our teachers are inadequately paid, or when our children go to school part-time shifts.
@@ -236,8 +228,8 @@ T235	Premise 31618 31679	Medical care for the aged, I would put under social sec
 T236	Claim 31680 31722	The Vice President and I disagree on this.
 T237	Claim 32174 32248	I support federal aid to education and federal aid for teachers' salaries.
 T238	Premise 31923 32070	The program which I advocated, which failed by five votes in the United States Senate, would have put medical care for the aged in Social Security,
-T240	Premise 32075 32163	would have been paid for through the Social Security System and the Social Security tax.
 T239	Premise 31723 31922	The program - the Javits-Nixon or the Nixon- Javits program - would have cost, if fully used uh - six hundred million dollars by the government per year, and six hundred million dollars by the state.
+T240	Premise 32075 32163	would have been paid for through the Social Security System and the Social Security tax.
 T241	Claim 32249 32282	I think that's a good investment.
 T242	Claim 32283 32320	I think we're going to have to do it.
 T243	Claim 32325 32597	I think to heap the burden further on the property tax, which is already strained in many of our communities, will provide, will make sh- insure, in my opinion, that many of our children will not be adequately educated, and many of our teachers not adequately compensated.
@@ -252,9 +244,9 @@ T251	Premise 33414 33442	if business remains orderly.
 T252	Claim 33489 33572	I think what Mr. Novins was referring to was not one of Senator Kennedy's speeches,
 T253	Claim 33577 33646	the Democratic platform, which did mention cutting the national debt.
 T254	Claim 33647 33725;33795 33846	I think, too, that it should be pointed out that of course it is not possible, either to cut the national debt or to reduce taxes.
+T255	Claim 34073 34139	That, however, is raising taxes for those who pay Social Security.
 T256	Premise 33867 33903	it will be necessary to raise taxes.
 T257	Premise 33904 34072	As Senator Kennedy points out that as far as his one proposal is concerned - the one for medical care for the aged - that that would be financed out of Social Security.
-T255	Claim 34073 34139	That, however, is raising taxes for those who pay Social Security.
 T258	Premise 34140 34238	He points out that he would make pay-as-you-go be the basis for our natural resources development.
 T259	Claim 34245 34302	our natural resources development - which I also support,
 T260	Claim 34503 34589	it doesn't mean that you - the government doesn't have to put out the money this year.
@@ -318,10 +310,10 @@ T317	Premise 40477 40505	if you are elected president
 T318	Claim 40506 40644	you'll try and push through Congress bills on medical aid to the aged, a comprehensive minimum hourly wage bill, federal aid to education.
 T319	Premise 41082 41170	we did pass in the Senate a bill uh - to provide a dollar twenty-five cent minimum wage.
 T320	Premise 41791 41847	we passed a federal aid to education bill in the Senate.
+T321	Claim 41171 41180	It failed
 T322	Premise 41219 41252	the House failed by eleven votes.
 T323	Premise 41274 41369	two-thirds of the Republicans in the House voted against a dollar twenty-five cent minimum wage
 T324	Premise 41374 41476	a majority of the Democrats sustained it - nearly two-thirds of them voted for the dollar twenty-five.
-T321	Claim 41171 41180	It failed
 T325	Premise 41189 41214	the House did not pass it
 T326	Claim 41544 41667	it's extremely difficult with the great power that the president does to pass any bill when the president is opposed to it.
 T327	Premise 41668 41780	All the president needs to sustain his veto of any bill is one-third plus one in either the House or the Senate.
@@ -406,9 +398,9 @@ T405	Claim 52872 52908	I think we have a rich uh - country.
 T406	Claim 52913 52948	I think we have a powerful country.
 T407	Claim 52949 53093	I think what we have to do, however, is have the president and the leadership set before our country exactly what we must do in the next decade,
 T408	Premise 53094 53204	if we're going to maintain our security in education, in economic growth, in development of natural resources.
+T409	Claim 54084 54212	I think it is well to put in perspective where we really do stand with regard to the Soviet Union in this whole matter of growth
 T410	Claim 53570 53662	I think that's the big assignment, the big task, the big function of the federal government.
 T411	Claim 53376 53569	I want to compare what we're doing with what our adversaries are doing, so that by the year 1970 the United States is ahead in education, in health, in building, in homes, in economic strength.
-T409	Claim 54084 54212	I think it is well to put in perspective where we really do stand with regard to the Soviet Union in this whole matter of growth
 T412	Claim 54214 54267	The Soviet Union has been moving faster than we have.
 T413	Premise 54304 54338	They start from a much lower base.
 T414	Premise 54423 54533	today that their total gross national product is only forty-four per cent of our total gross national product.

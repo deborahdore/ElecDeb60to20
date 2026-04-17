@@ -19,6 +19,7 @@ T18	Claim 2981 2995	I voted for it
 T19	Premise 2781 2835	I just don't like the way John Ashcroft has applied it
 T20	Claim 2841 2875	we're going to change a few things
 T21	Premise 2877 2952	The chairman of the Republican Party thinks we ought to change a few things
+T22	Claim 2997 3009	I support it
 T23	Claim 3011 3030	I support the goals
 T24	Premise 3037 3084	the president has underfunded it by $28 billion
 T25	Premise 3087 3140	Right here in St. Louis, you've laid off 350 teachers
@@ -48,7 +49,6 @@ T48	Premise 5374 5423	yet he tells you he's for a middle- class tax cut
 T49	Claim 5433 5486	you've got to be consistent when you're the president
 T50	Premise 5488 5514	There's a lot of pressures
 T51	Claim 5520 5556	you've got to be firm and consistent
-T22	Claim 2997 3009	I support it
 R1	Support Arg1:T2 Arg2:T1
 R2	Support Arg1:T5 Arg2:T4
 R3	Attack Arg1:T4 Arg2:T3

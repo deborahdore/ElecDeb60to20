@@ -1,3 +1,4 @@
+T1	Premise 2971 3028	We'll have 125,000 troops trained by the end of this year
 T711	Claim 205 270	our National Guard and Reserve forces are being severely strained
 T712	Premise 279 331	many of them are being held beyond their enlistments
 T713	Premise 134 178	President Bush said he did not favor a draft
@@ -61,7 +62,6 @@ R12	Attack Arg1:T735 Arg2:T723
 R13	Support Arg1:T736 Arg2:T735
 R14	Support Arg1:T737 Arg2:T735
 R15	Support Arg1:T738 Arg2:T735
-T1	Premise 2971 3028	We'll have 125,000 troops trained by the end of this year
 R16	Support Arg1:T1 Arg2:T737
 R17	Support Arg1:T746 Arg2:T745
 R18	Support Arg1:T744 Arg2:T745

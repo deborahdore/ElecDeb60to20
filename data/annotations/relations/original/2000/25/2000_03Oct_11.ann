@@ -1,8 +1,10 @@
+T1	Claim 993 1019	It's time for a fresh star
+T2	Claim 3034 3036	No
 T805	Claim 256 385	I think the thing that discouraged me about the vice president was uttering those famous words, "No controlling legal authority."
 T806	Premise 386 489	I felt like there needed to be a better sense of responsibility of what was going on in the White House
 T807	Claim 106 156	The man loves his wife and I appreciate that a lot
-T809	Premise 162 173	I love mine
 T808	Claim 175 228	The man loves his family a lot, and I appreciate that
+T809	Premise 162 173	I love mine
 T810	Premise 238 254	I love my family
 T811	Claim 641 670	It's not good for the country
 T812	Claim 675 689	it's not right
@@ -71,8 +73,6 @@ T876	Claim 6453 6483	I care passionately about this
 T877	Claim 6488 6521	I will fight until it becomes law
 T878	Claim 6631 6672	I'm absolutely, adamently opposed to that
 T879	Claim 6674 6735	I don't want the government financing congressional elections
-T1	Claim 993 1019	It's time for a fresh star
-T2	Claim 3034 3036	No
 R1	Support Arg1:T809 Arg2:T807
 R2	Support Arg1:T810 Arg2:T808
 R3	Support Arg1:T806 Arg2:T805

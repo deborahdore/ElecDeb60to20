@@ -1,3 +1,26 @@
+T1	Claim 2847 2849	No
+T2	Claim 2966 2968	No
+T3	Claim 3564 3566	No
+T4	Claim 7923 7925	No
+T5	Claim 2361 2508	When are you going to stop using our tax dollars to shut down American factories and move 'em to foreign countries and throw Americans out of work?
+T6	Claim 3058 3193	Our people will be glad to furnish the press, if they're interested, in Senator Gore's voting record on the Caribbean Basin Initiative.
+T7	Premise 3222 3325	you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.
+T8	Premise 3577 3627	How is raising taxes going to help small business?
+T9	Premise 3628 3674	How is raising taxes going to help the farmer?
+T10	Premise 3675 3734	How is raising taxes going to help the consumer in America?
+T11	Premise 5924 5963	When are you going to stop that program
+T12	Claim 6085 6114	That is absolutely outrageous
+T13	Premise 6568 6656	When George Bush went to Nashville, the employees who lost their jobs asked to meet with
+T14	Claim 6795 6885	They want to know where they're going to get new jobs when their jobs have been destroyed.
+T15	Claim 6999 7131	Do you seriously believe that we ought to continue the same policies that have created the worst economy since the Great Depression?
+T16	Premise 6718 6754	Let me tell you what they're feeling
+T17	Premise 6756 6794	Some of them are in their 50s and 60s.
+T18	Premise 6698 6717	I talked with them.
+T19	Premise 7459 7498	Well, you're going to disavow your plan
+T20	Claim 7704 7837	A Clinton is, is what he says -- he says one thing one day and another thing the next day -- you try to have both sides of the issues
+T21	Claim 8148 8246	I hope you talked to them about the fact that you were going to increase spending to $220 billion.
+T22	Claim 8054 8109	You can say it all you want but it doesn't make it true
+T23	Premise 8716 8889	Why should an American company have to spend 15 to 20 times on product liability and insurance costs compared to a company in Japan or a company in Germany or somewhere else
 T141	Claim 717 759	The lifeblood of our economy is investment
 T142	Premise 765 904	right now when we pay $350 -- we borrow $350 billion a year it saps the money markets and the private investors are not getting their share
 T143	Premise 906 1216	What we do is work on that budget by an aggressive program, not a painful program, so that we can start borrowing less money and getting more investment money on the street through entrepreneurs who can build factories, who will hire people, and maybe we'll start manufacturing goods here in this country again
@@ -66,10 +89,6 @@ T668	Premise 4830 4860	cut the budget deficit in half
 T669	Premise 4866 4947	eliminate the investment deficit in order to get our economy moving forward again
 T670	Premise 5775 5921	then the replacement workers in a foreign country were trained with our tax dollars and then their imports were subsidized coming back into the US
 T671	Claim 6890 6950	there are 1.4 million manufacturing jobs that have been lost
-T1	Claim 2847 2849	No
-T2	Claim 2966 2968	No
-T3	Claim 3564 3566	No
-T4	Claim 7923 7925	No
 R2	Attack Arg1:T141 Arg2:T142
 R1	Support Arg1:T143 Arg2:T141
 R3	Support Arg1:T145 Arg2:T144
@@ -85,7 +104,6 @@ R12	Support Arg1:T151 Arg2:T149
 R13	Support Arg1:T150 Arg2:T151
 R14	Support Arg1:T152 Arg2:T151
 R15	Support Arg1:T153 Arg2:T152
-T5	Claim 2361 2508	When are you going to stop using our tax dollars to shut down American factories and move 'em to foreign countries and throw Americans out of work?
 R16	Attack Arg1:T5 Arg2:T152
 R17	Attack Arg1:T154 Arg2:T153
 R18	Support Arg1:T155 Arg2:T154
@@ -100,11 +118,9 @@ R26	Attack Arg1:T2 Arg2:T157
 R27	Equivalent Arg1:T2 Arg2:T1
 R28	Support Arg1:T159 Arg2:T2
 R29	Attack Arg1:T1 Arg2:T160
-T6	Claim 3058 3193	Our people will be glad to furnish the press, if they're interested, in Senator Gore's voting record on the Caribbean Basin Initiative.
 R30	Support Arg1:T6 Arg2:T157
 R31	Attack Arg1:T6 Arg2:T159
 R32	Support Arg1:T6 Arg2:T160
-T7	Premise 3222 3325	you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.
 R33	Support Arg1:T162 Arg2:T7
 R34	Support Arg1:T163 Arg2:T7
 R35	Support Arg1:T164 Arg2:T663
@@ -114,9 +130,6 @@ R38	Support Arg1:T166 Arg2:T663
 R39	Attack Arg1:T3 Arg2:T663
 R40	Attack Arg1:T3 Arg2:T165
 R41	Attack Arg1:T3 Arg2:T166
-T8	Premise 3577 3627	How is raising taxes going to help small business?
-T9	Premise 3628 3674	How is raising taxes going to help the farmer?
-T10	Premise 3675 3734	How is raising taxes going to help the consumer in America?
 R42	Attack Arg1:T8 Arg2:T165
 R43	Attack Arg1:T9 Arg2:T165
 R44	Attack Arg1:T10 Arg2:T165
@@ -142,10 +155,8 @@ R63	Support Arg1:T178 Arg2:T5
 R64	Support Arg1:T179 Arg2:T670
 R65	Support Arg1:T670 Arg2:T178
 R66	Support Arg1:T179 Arg2:T178
-T11	Premise 5924 5963	When are you going to stop that program
 R67	Attack Arg1:T178 Arg2:T11
 R68	Attack Arg1:T180 Arg2:T178
-T12	Claim 6085 6114	That is absolutely outrageous
 R69	Support Arg1:T12 Arg2:T180
 R70	Attack Arg1:T12 Arg2:T178
 R71	Support Arg1:T181 Arg2:T182
@@ -163,20 +174,14 @@ R82	Attack Arg1:T187 Arg2:T186
 R83	Attack Arg1:T187 Arg2:T185
 R84	Attack Arg1:T187 Arg2:T12
 R85	Attack Arg1:T187 Arg2:T180
-T13	Premise 6568 6656	When George Bush went to Nashville, the employees who lost their jobs asked to meet with
 R86	Support Arg1:T13 Arg2:T188
-T14	Claim 6795 6885	They want to know where they're going to get new jobs when their jobs have been destroyed.
 R87	Support Arg1:T13 Arg2:T14
 R88	Support Arg1:T14 Arg2:T671
 R89	Support Arg1:T189 Arg2:T671
-T15	Claim 6999 7131	Do you seriously believe that we ought to continue the same policies that have created the worst economy since the Great Depression?
 R90	Attack Arg1:T671 Arg2:T15
-T16	Premise 6718 6754	Let me tell you what they're feeling
-T17	Premise 6756 6794	Some of them are in their 50s and 60s.
 R91	Support Arg1:T16 Arg2:T14
 R92	Support Arg1:T17 Arg2:T14
 R93	Attack Arg1:T190 Arg2:T15
-T18	Premise 6698 6717	I talked with them.
 R94	Support Arg1:T18 Arg2:T16
 R95	Attack Arg1:T190 Arg2:T18
 R96	Attack Arg1:T191 Arg2:T190
@@ -185,21 +190,16 @@ R98	Support Arg1:T192 Arg2:T190
 R99	Attack Arg1:T193 Arg2:T192
 R100	Support Arg1:T193 Arg2:T191
 R101	Attack Arg1:T194 Arg2:T193
-T19	Premise 7459 7498	Well, you're going to disavow your plan
 R102	Support Arg1:T19 Arg2:T194
 R103	Attack Arg1:T19 Arg2:T193
-T20	Claim 7704 7837	A Clinton is, is what he says -- he says one thing one day and another thing the next day -- you try to have both sides of the issues
 R104	Support Arg1:T20 Arg2:T195
 R105	Support Arg1:T195 Arg2:T194
 R106	Attack Arg1:T195 Arg2:T193
 R107	Attack Arg1:T4 Arg2:T195
-T21	Claim 8148 8246	I hope you talked to them about the fact that you were going to increase spending to $220 billion.
-T22	Claim 8054 8109	You can say it all you want but it doesn't make it true
 R108	Support Arg1:T4 Arg2:T22
 R109	Attack Arg1:T22 Arg2:T21
 R110	Attack Arg1:T22 Arg2:T195
 R111	Support Arg1:T201 Arg2:T200
-T23	Premise 8716 8889	Why should an American company have to spend 15 to 20 times on product liability and insurance costs compared to a company in Japan or a company in Germany or somewhere else
 R112	Attack Arg1:T197 Arg2:T198
 R113	Support Arg1:T23 Arg2:T202
 R114	Support Arg1:T203 Arg2:T204

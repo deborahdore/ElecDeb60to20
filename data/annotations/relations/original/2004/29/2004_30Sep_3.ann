@@ -1,5 +1,26 @@
-T427	Claim 461 516	I think he has not been candid with the American people
+T1	Claim 3214 3245	I don't think he was misleading
+T2	Claim 5801 5832	And Saddam Hussein was a threat
+T3	Claim 6189 6210	I think it's worth it
+T4	Claim 1805 1968	I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not
+T5	Premise 3488 3592	The intelligence I looked at was the same intelligence my opponent looked at, the very same intelligence
+T6	Premise 3598 3760	when I stood up there and spoke to the Congress, I was speaking off the same intelligence he looked at to make his decisions to support the authorization of force
+T7	Premise 5161 5358	I think about Missy Johnson. She's a fantastic lady I met in Charlotte, North Carolina. She and her son Bryan, they came to see me. Her husband PJ got killed. He'd been in Afghanistan, went to Iraq
+T8	Premise 5371 5506	it's hard work to try to love her as best as I can, knowing full well that the decision I made caused her loved one to be in harm's way
+T9	Premise 5509 5566	I told her after we prayed and teared up and laughed some
+T10	Claim 5966 5987	Missy understood that
+T11	Premise 5989 6035	That's what she told me her husband understood
+T12	Claim 6049 6067	"Was it worth it?"
+T13	Premise 6068 6090	Every life is precious
+T14	Claim 6092 6135	That's what distinguishes us from the enemy
+T15	Premise 6137 6154	Everybody matters
+T16	Premise 9373 9508	The time line that I've set out -- and again, I want to correct the president, because he's misled again this evening on what I've said
+T17	Premise 14252 14336	When I was running -- when we had the debate in 2000, never dreamt I'd be doing that
+T18	Claim 14607 14655	a president must always be willing to use troops
+T19	Claim 14553 14600	it is less likely we'll ever have to use troops
+T20	Premise 16029 16060	Saddam Hussein didn't attack us
+T21	Claim 17222 17255	we'd be in a stronger place today
 T426	Premise 563 673	we all know that in his state of the union message, he told Congress about nuclear materials that didn't exist
+T427	Claim 461 516	I think he has not been candid with the American people
 T428	Premise 689 750	he promised America that he was going to build this coalition
 T429	Premise 784 876	It is not the kind of coalition we were described when we were talking about voting for this
 T430	Premise 879 993	The president said he would exhaust the remedies of the United Nations and go through that full process. He didn't
@@ -197,9 +218,6 @@ T625	Claim 18174 18243	Iran is moving toward nuclear weapons and the world is mo
 T626	Premise 18245 18266	Darfur has a genocide
 T627	Claim 18268 18295	The world is more dangerous
 T628	Claim 18297 18326	I'd have made a better choice
-T1	Claim 3214 3245	I don't think he was misleading
-T2	Claim 5801 5832	And Saddam Hussein was a threat
-T3	Claim 6189 6210	I think it's worth it
 R1	Support Arg1:T426 Arg2:T427
 R2	Support Arg1:T429 Arg2:T427
 R3	Support Arg1:T428 Arg2:T429
@@ -218,7 +236,6 @@ R15	Support Arg1:T444 Arg2:T445
 R16	Support Arg1:T449 Arg2:T450
 R17	Support Arg1:T450 Arg2:T448
 R18	Support Arg1:T438 Arg2:T435
-T4	Claim 1805 1968	I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not
 R19	Support Arg1:T445 Arg2:T4
 R20	Support Arg1:T446 Arg2:T4
 R21	Support Arg1:T447 Arg2:T4
@@ -236,9 +253,7 @@ R32	Attack Arg1:T464 Arg2:T1
 R33	Attack Arg1:T1 Arg2:T458
 R34	Support Arg1:T465 Arg2:T464
 R35	Attack Arg1:T466 Arg2:T465
-T5	Premise 3488 3592	The intelligence I looked at was the same intelligence my opponent looked at, the very same intelligence
 R36	Support Arg1:T5 Arg2:T466
-T6	Premise 3598 3760	when I stood up there and spoke to the Congress, I was speaking off the same intelligence he looked at to make his decisions to support the authorization of force
 R37	Support Arg1:T6 Arg2:T5
 R38	Attack Arg1:T468 Arg2:T464
 R39	Support Arg1:T468 Arg2:T467
@@ -251,9 +266,6 @@ R45	Support Arg1:T475 Arg2:T474
 R46	Support Arg1:T477 Arg2:T476
 R47	Support Arg1:T478 Arg2:T476
 R48	Support Arg1:T479 Arg2:T477
-T7	Premise 5161 5358	I think about Missy Johnson. She's a fantastic lady I met in Charlotte, North Carolina. She and her son Bryan, they came to see me. Her husband PJ got killed. He'd been in Afghanistan, went to Iraq
-T8	Premise 5371 5506	it's hard work to try to love her as best as I can, knowing full well that the decision I made caused her loved one to be in harm's way
-T9	Premise 5509 5566	I told her after we prayed and teared up and laughed some
 R50	Support Arg1:T483 Arg2:T481
 R49	Support Arg1:T482 Arg2:T481
 R51	Support Arg1:T484 Arg2:T481
@@ -262,17 +274,11 @@ R53	Support Arg1:T9 Arg2:T481
 R54	Support Arg1:T7 Arg2:T481
 R55	Support Arg1:T480 Arg2:T481
 R56	Support Arg1:T487 Arg2:T486
-T10	Claim 5966 5987	Missy understood that
-T11	Premise 5989 6035	That's what she told me her husband understood
 R57	Support Arg1:T11 Arg2:T10
-T12	Claim 6049 6067	"Was it worth it?"
-T13	Premise 6068 6090	Every life is precious
-T14	Claim 6092 6135	That's what distinguishes us from the enemy
 R60	Support Arg1:T481 Arg2:T3
 R58	Attack Arg1:T13 Arg2:T3
 R59	Support Arg1:T13 Arg2:T14
 R61	Equivalent Arg1:T488 Arg2:T3
-T15	Premise 6137 6154	Everybody matters
 R62	Attack Arg1:T15 Arg2:T3
 R63	Support Arg1:T10 Arg2:T3
 R64	Support Arg1:T2 Arg2:T3
@@ -308,7 +314,6 @@ R93	Support Arg1:T525 Arg2:T522
 R94	Support Arg1:T526 Arg2:T522
 R95	Support Arg1:T522 Arg2:T527
 R96	Attack Arg1:T527 Arg2:T528
-T16	Premise 9373 9508	The time line that I've set out -- and again, I want to correct the president, because he's misled again this evening on what I've said
 R97	Attack Arg1:T529 Arg2:T16
 R98	Support Arg1:T530 Arg2:T529
 R99	Support Arg1:T533 Arg2:T532
@@ -354,12 +359,9 @@ R138	Support Arg1:T578 Arg2:T579
 R139	Support Arg1:T579 Arg2:T580
 R140	Support Arg1:T582 Arg2:T581
 R141	Support Arg1:T583 Arg2:T582
-T17	Premise 14252 14336	When I was running -- when we had the debate in 2000, never dreamt I'd be doing that
 R142	Support Arg1:T17 Arg2:T583
 R143	Attack Arg1:T584 Arg2:T581
 R144	Support Arg1:T584 Arg2:T585
-T18	Claim 14607 14655	a president must always be willing to use troops
-T19	Claim 14553 14600	it is less likely we'll ever have to use troops
 R145	Attack Arg1:T18 Arg2:T19
 R146	Support Arg1:T18 Arg2:T585
 R147	Attack Arg1:T588 Arg2:T587
@@ -374,7 +376,6 @@ R155	Support Arg1:T596 Arg2:T595
 R156	Support Arg1:T597 Arg2:T595
 R157	Support Arg1:T598 Arg2:T595
 R158	Equivalent Arg1:T599 Arg2:T581
-T20	Premise 16029 16060	Saddam Hussein didn't attack us
 R159	Attack Arg1:T20 Arg2:T601
 R160	Equivalent Arg1:T602 Arg2:T603
 R161	Attack Arg1:T602 Arg2:T601
@@ -388,7 +389,6 @@ R168	Support Arg1:T611 Arg2:T608
 R169	Support Arg1:T613 Arg2:T614
 R170	Support Arg1:T612 Arg2:T614
 R171	Support Arg1:T614 Arg2:T608
-T21	Claim 17222 17255	we'd be in a stronger place today
 R172	Support Arg1:T615 Arg2:T21
 R173	Attack Arg1:T616 Arg2:T614
 R174	Support Arg1:T617 Arg2:T616

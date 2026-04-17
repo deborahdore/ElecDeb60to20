@@ -1,3 +1,5 @@
+T1	Claim 1770 1786	around the world
+T2	Premise 7071 7086	it may not work
 T613	Claim 388 524	if Iran acquires nuclear weapons, it is an existential threat to the State of Israel and it is a threat to other countries in the region
 T614	Premise 533 634	the other countries in the region will feel compelling requirement to acquire nuclear weapons as well
 T615	Premise 640 674	we cannot allow a second Holocaust
@@ -121,8 +123,6 @@ T734	Claim 11437 11526	he encourages and other people encourage contacts, and ne
 T735	Premise 11528 11551	We do that all the time
 T736	Claim 11735 11753	He's parsing words
 T737	Claim 11775 11822	I'm using the same words that your advisers use
-T1	Claim 1770 1786	around the world
-T2	Premise 7071 7086	it may not work
 R1	Support Arg1:T614 Arg2:T613
 R2	Support Arg1:T615 Arg2:T613
 R3	Support Arg1:T616 Arg2:T620

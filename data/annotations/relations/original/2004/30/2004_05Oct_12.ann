@@ -1,3 +1,4 @@
+T1	Claim 871 905	But that light is flickering today
 T840	Claim 1365 1416	We believe in a strong middle-class in this country
 T841	Claim 1595 1621	we have a health care plan
 T842	Claim 1634 1694	we have a plan to keep you safe and to fix this mess in Iraq
@@ -45,7 +46,6 @@ R3	Support Arg1:T875 Arg2:T876
 R4	Support Arg1:T844 Arg2:T843
 R5	Support Arg1:T843 Arg2:T845
 R6	Support Arg1:T876 Arg2:T845
-T1	Claim 871 905	But that light is flickering today
 R7	Support Arg1:T878 Arg2:T1
 R8	Support Arg1:T879 Arg2:T878
 R9	Support Arg1:T880 Arg2:T878

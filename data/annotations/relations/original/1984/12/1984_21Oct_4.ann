@@ -1,3 +1,11 @@
+T1	Claim 2974 2976	No
+T2	Claim 5743 5777	I don't admire Fidel Castro at all
+T3	Premise 5779 5797	And I've said that
+T4	Premise 6109 6226	the Vice President of the United States said that I said the marines had died shamefully and died in shame in Lebanon
+T5	Claim 6228 6274	I demanded an apology from Vice President Bush
+T6	Claim 6283 6411	I had, instead, honored these young men, grieved for their families, and think they were wonderful Americans that honored us all
+T7	Claim 8260 8291	Now we have a runaway arms race
+T8	Claim 8430 8521	They're tough negotiators, but all previous Presidents have made progress. This one has not
 T180	Claim 603 613	Not at all
 T181	Claim 662 707	I will not make age an issue of this campaign
 T182	Claim 709 796	I am not going to exploit, for political purposes, my opponent's youth and inexperience
@@ -15,8 +23,8 @@ T194	Premise 4503 4572	resisted tabling arms control proposals that had any hope
 T195	Premise 4574 4689	rebuked their negotiator in 1981 when he came close to an agreement, at least in principle, on medium-range weapons
 T196	Premise 4691 4726	And we have this arms race underway
 T197	Premise 4728 5023	And a recent book that just came out by perhaps the Nation's most respected author in this field, Strobe Talbott, called "Deadly Gambits,'' concludes that this President has failed to master the essential details needed to command and lead us, both in terms of security and terms of arms control
-T199	Claim 5140 5167	You must be tough and smart
 T198	Claim 5115 5138	it takes more than that
+T199	Claim 5140 5167	You must be tough and smart
 T201	Claim 5799 5862	Che Guevara was a contemptible figure in civilization's history
 T202	Premise 5864 5904	I know the Cuban state as a police state
 T203	Claim 5491 5574	you have not repudiated some of the semidiplomatic activity of the Reverend Jackson
@@ -30,16 +38,17 @@ T210	Premise 7294 7448	The so-called negotiation that you said I walked out on w
 T211	Claim 7567 7634	There are two distinguished authors on arms control in this country
 T212	Premise 7698 7759	One is Strobe Talbott in his classic book, "Deadly Gambits.''
 T213	Premise 7760 7862	The other is John Neuhaus, who's one of the most distinguished arms control specialists in our country
+T214	Claim 7879 7951	this administration turned down the "walk in the woods'' agreement first
 T215	Premise 8067 8150	When Mr. Nitze, a good negotiator, returned, he was rebuked, and his boss was fired
 T216	Claim 8152 8258	This is the kind of leadership that we've had in this administration on the most deadly issue of our times
 T217	Premise 8293 8427	All they've got to show for 4 years in U.S.-Soviet relations is one meeting in the last weeks of an administration, and nothing before
+T432	Claim 319 383	you were tired after your most recent encounter with Mr. Mondale
 T433	Claim 1419 1502	you were unaware that the Soviet retaliatory power was based on land-based missiles
 T434	Premise 1763 1909	the whole controversy about land missiles came up because we thought that the strategic nuclear weapons, the most destabilizing are the land-based
 T435	Premise 1911 1980	You put your thumb on a button and somebody blows up 20 minutes later
 T436	Premise 1986 2051	we thought that it would be simpler to negotiate first with those
 T437	Premise 2057 2151	then we made it plain, a second phase, take up the submarine-launched or the airborne missiles
 T438	Premise 2153 2375	The Soviet Union, to our surprise -- and not just mine -- made it plain when we brought this up that they placed, they thought, a greater reliance on the land-based missiles and, therefore, they wanted to take up all three
-T432	Claim 319 383	you were tired after your most recent encounter with Mr. Mondale
 T489	Premise 385 501	I recall yet that President Kennedy had to go for days on end with very little sleep during the Cuban missile crisis
 T550	Claim 2450 2473	it was a surprise to us
 T551	Premise 2483 2602	they outnumbered us 64 to 36 in submarines and 20 percent more bombers capable of carrying nuclear missiles than we had
@@ -49,9 +58,7 @@ T554	Premise 3614 3625	They did it
 T555	Premise 3838 3855	They didn't do it
 T556	Premise 5910 5965	all my life I've worked in a way that demonstrates that
 T557	Premise 7454 7517	it wasn't me that turned it down, the Soviet Union disavowed it
-T214	Claim 7879 7951	this administration turned down the "walk in the woods'' agreement first
 T558	Claim 7957 8065	that would have been a perfect agreement from the standpoint of the United States in Europe and our security
-T1	Claim 2974 2976	No
 R1	Support Arg1:T181 Arg2:T180
 R2	Support Arg1:T182 Arg2:T181
 R3	Support Arg1:T435 Arg2:T434
@@ -79,14 +86,9 @@ R24	Support Arg1:T199 Arg2:T198
 R25	Support Arg1:T196 Arg2:T197
 R26	Support Arg1:T186 Arg2:T197
 R27	Support Arg1:T188 Arg2:T197
-T2	Claim 5743 5777	I don't admire Fidel Castro at all
-T3	Premise 5779 5797	And I've said that
 R28	Support Arg1:T3 Arg2:T2
 R29	Support Arg1:T556 Arg2:T202
 R30	Support Arg1:T205 Arg2:T204
-T4	Premise 6109 6226	the Vice President of the United States said that I said the marines had died shamefully and died in shame in Lebanon
-T5	Claim 6228 6274	I demanded an apology from Vice President Bush
-T6	Claim 6283 6411	I had, instead, honored these young men, grieved for their families, and think they were wonderful Americans that honored us all
 R31	Support Arg1:T6 Arg2:T5
 R32	Support Arg1:T208 Arg2:T207
 R33	Support Arg1:T209 Arg2:T207
@@ -97,9 +99,7 @@ R37	Support Arg1:T213 Arg2:T211
 R38	Support Arg1:T558 Arg2:T214
 R39	Support Arg1:T214 Arg2:T216
 R40	Support Arg1:T215 Arg2:T216
-T7	Claim 8260 8291	Now we have a runaway arms race
 R41	Support Arg1:T216 Arg2:T7
 R42	Support Arg1:T217 Arg2:T216
-T8	Claim 8430 8521	They're tough negotiators, but all previous Presidents have made progress. This one has not
 R43	Support Arg1:T8 Arg2:T216
 R44	Support Arg1:T217 Arg2:T8

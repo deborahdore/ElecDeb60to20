@@ -162,10 +162,10 @@ T161	Claim 20013 20056	I call that the "Ultimate Bridge to Nowhere
 T162	Claim 20504 20597	the one thing we might have to slow down is a commitment we made to double foreign assistance
 T163	Claim 20599 20636	We'll probably have to slow that down
 T164	Claim 20637 20742	We also are going to make sure that we do not go forward with the tax cut proposals of the administration
+T165	Claim 21195 21225	We cannot slow up on education
 T166	Claim 20851 20960	We're not going to support the $300 billion tax cut that they have for corporate America and the very wealthy
 T167	Claim 20962 21030	We're not going to support another $4 billion tax cut for ExxonMobil
 T168	Claim 21036 21075;21086 21193	what we're not going to also hold up on we cannot afford to hold up on providing for incentives for new jobs by an energy policy, creating new jobs
-T165	Claim 21195 21225	We cannot slow up on education
 T169	Premise 21235 21330	that's the engine that is going to give us the economic growth and competitiveness that we need
 T170	Claim 21336 21435	we are not going to slow up on the whole idea of providing for affordable health care for Americans
 T171	Claim 21580 21674	we are going to, in fact, eliminate those wasteful spending that exist in the budget right now
@@ -368,11 +368,11 @@ T367	Premise 43565 43657	I know again that you opposed the move that he made to 
 T368	Claim 43686 43808	I don't know how you can defend that position now, but I know that you know especially with your son in the National Guard
 T369	Claim 43813 43895	I have great respect for your family also and the honor that you show our military
 T370	Claim 43939 44032	Anyone I think who can cut off funding for the troops after promising not to is another story
-T374	Claim 44142 44358	John McCain voted against an amendment containing $1 billion, $600 million that I had gotten to get MRAPS, those things that are protecting the governor's son and pray god my son and a lot of other sons and daughters
-T375	Claim 44359 44378	He voted against it
 T371	Claim 44066 44117	John McCain voted to cut off funding for the troops
 T372	Premise 44413 44497	he said the amendment had a time line in it to end this war, and he didn't like that
 T373	Claim 44945 44976	John McCain has been dead wrong
+T374	Claim 44142 44358	John McCain voted against an amendment containing $1 billion, $600 million that I had gotten to get MRAPS, those things that are protecting the governor's son and pray god my son and a lot of other sons and daughters
+T375	Claim 44359 44378	He voted against it
 T376	Claim 45032 45113	he's been dead wrong on the fundamental issues relating to the conduct of the war
 T377	Claim 44978 44988	I love him
 T378	Premise 44552 44762	John McCain and Dick Cheney said when I was saying we would not be greeted as liberators, we would not - this war would take a decade, not a day, not a week, not six months, we would not be out of there quickly
@@ -382,14 +382,14 @@ T381	Claim 45115 45142	Barack Obama has been right
 T382	Claim 45144 45163	There are the facts
 T383	Claim 45372 45404	they're both extremely dangerous
 T384	Claim 45406 45425;45445 45515	I always am focused I have been focusing on for a long time, along with Barack on Pakistan
+T385	Premise 45517 45553	Pakistan already has nuclear weapons
+T386	Premise 45602 45665	Pakistan's weapons can already hit Israel and the Mediterranean
+T387	Premise 45555 45600	Pakistan already has deployed nuclear weapons
 T388	Claim 45667 45730	Iran getting a nuclear weapon would be very, very destabilizing
 T389	Claim 45753 45826	they are not close to getting a nuclear weapon that's able to be deployed
 T390	Claim 45828 45858	So they're both very dangerous
 T391	Claim 45860 45892	They both would be game changers
 T392	Claim 45992 46072	John continues to tell us that the central war in the front on terror is in Iraq
-T385	Premise 45517 45553	Pakistan already has nuclear weapons
-T387	Premise 45555 45600	Pakistan already has deployed nuclear weapons
-T386	Premise 45602 45665	Pakistan's weapons can already hit Israel and the Mediterranean
 T393	Claim 46089 46263	if an attack comes in the homeland, it's going to come as our security services have said, it is going to come from al Qaeda planning in the hills of Afghanistan and Pakistan
 T394	Premise 46265 46287	That's where they live
 T395	Premise 46289 46310	That's where they are
@@ -539,8 +539,8 @@ T538	Premise 62575 62781	I, along with Dick Lugar, before we went to war, said i
 T539	Claim 62891 62922	We can now impose a no-fly zone
 T540	Claim 62924 62948	It's within our capacity
 T541	Claim 62950 63004	We can lead NATO if we're willing to take a hard stand
-T543	Premise 63048 63128	I've seen the suffering, thousands and tens of thousands have died and are dying
 T542	Claim 63006 63012	We can
+T543	Premise 63048 63128	I've seen the suffering, thousands and tens of thousands have died and are dying
 T544	Premise 63014 63046	I've been in those camps in Chad
 T545	Claim 63130 63319	We should rally the world to act and we should demonstrate it by our own movement to provide the helicopters to get the 21,000 forces of the African Union in there now to stop this genocide
 T546	Claim 63368 63419	Oh, yeah, it's so obvious I'm a Washington outsider

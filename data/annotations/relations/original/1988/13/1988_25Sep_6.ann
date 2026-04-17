@@ -1,3 +1,6 @@
+T1	Claim 3410 3426	I favor adoption
+T2	Premise 925 1245	the vice president says he wants to impose the death penalty on drug traffickers, and yet his administration has a federal furlough program which is one of the most permissive in the country, which gave last year 7,000 furloughs to drug traffickers and drug pushers, the same people that he says he now wants to execute.
+T3	Claim 1504 1625	And I think it has to be the woman, in the exercise of her own conscience and religious beliefs, that makes that decision
 T404	Claim 288 310	I don't think there is
 T405	Premise 312 352	There are two very different issues here
 T406	Claim 358 397	they've got to be dealt with separately
@@ -66,9 +69,6 @@ T473	Claim 5163 5264	I would hope by this time that Mr. Bush had sorted out this
 T474	Premise 5266 5305	I respect his right to disagree with me
 T475	Premise 5311 5374	I think it's important that we have a position, that we take it
 T476	Claim 5380 5414	we state it to the American people
-T1	Claim 3410 3426	I favor adoption
-T2	Premise 925 1245	the vice president says he wants to impose the death penalty on drug traffickers, and yet his administration has a federal furlough program which is one of the most permissive in the country, which gave last year 7,000 furloughs to drug traffickers and drug pushers, the same people that he says he now wants to execute.
-T3	Claim 1504 1625	And I think it has to be the woman, in the exercise of her own conscience and religious beliefs, that makes that decision
 R1	Support Arg1:T405 Arg2:T406
 R2	Support Arg1:T419 Arg2:T409
 R3	Support Arg1:T421 Arg2:T420

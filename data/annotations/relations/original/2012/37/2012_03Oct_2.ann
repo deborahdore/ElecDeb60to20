@@ -1,3 +1,4 @@
+T1	Premise 4841 4899	this is a major difference that Governor Romney and I have
 T222	Claim 575 614	I think it's not just an economic issue
 T223	Claim 616 642	I think it's a moral issue
 T224	Claim 644 742	I think it's, frankly, not moral for my generation to keep spending massively more than we take in
@@ -188,7 +189,6 @@ R32	Support Arg1:T261 Arg2:T260
 R33	Attack Arg1:T260 Arg2:T259
 R34	Support Arg1:T262 Arg2:T261
 R35	Support Arg1:T263 Arg2:T262
-T1	Premise 4841 4899	this is a major difference that Governor Romney and I have
 R36	Support Arg1:T265 Arg2:T264
 R37	Support Arg1:T264 Arg2:T263
 R38	Support Arg1:T266 Arg2:T267

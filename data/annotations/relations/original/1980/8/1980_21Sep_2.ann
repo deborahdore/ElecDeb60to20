@@ -1,3 +1,4 @@
+T1	Premise 5986 6031	I wouldn't be called a conservative if I were
 T49	Claim 848 914	I believe that conservation, at course, is worthy in and of itself
 T50	Claim 916 1008	Anything that would preserve, or help us use less energy, that would be fine, and I'm for it
 T51	Claim 1014 1098	I do not believe that conservation alone is the answer to the present energy problem
@@ -98,7 +99,6 @@ R45	Support Arg1:T83 Arg2:T79
 R46	Support Arg1:T79 Arg2:T82
 R47	Support Arg1:T83 Arg2:T82
 R48	Support Arg1:T80 Arg2:T82
-T1	Premise 5986 6031	I wouldn't be called a conservative if I were
 R49	Support Arg1:T1 Arg2:T86
 R50	Support Arg1:T88 Arg2:T87
 R51	Support Arg1:T90 Arg2:T89

@@ -1,3 +1,27 @@
+T1	Premise 1033 1054;995 1020	tough, long game here Putin is playing a really
+T2	Claim 1364 1486	We need to make it very clear — whether it's Russia, China, Iran or anybody else — the United States has much greater capacity
+T3	Claim 1999 2082	I was so — I was so shocked when Donald publicly invited Putin to hack into Americans
+T4	Premise 2139 2225;2275 2335	50 national security officials who served in Republican information — in administrations have said that Donald is unfit to be the commander- in-chief
+T5	Claim 2558 2710	I was just endorsed — and more are coming next week — it will be over 200 admirals, many of them here — admirals and generals endorsed me to lead this country
+T6	Claim 2712 2756	That just happened, and many more are coming
+T7	Claim 2762 2782	I'm very proud of it
+T8	Premise 2878 2904	I was just endorsed by ICE
+T9	Claim 3510 3530	I don't — maybe it was
+T10	Claim 6877 7075	President Obama and Secretary Clinton created a vacuum the way they got out of Iraq, because they got out — what, they shouldn't have been in, but once they got in, the way they got out was a disaster
+T11	Premise 10334 10497	But you look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, I mean, they were doing so badly
+T12	Premise 10499 10533	They were choking on the sanctions
+T13	Claim 10922 10991	the 28 countries of NATO, many of them aren't paying their fair share
+T14	Premise 10727 10775	And you have to understand, I'm a businessperson
+T15	Premise 10777 10794	I did really well
+T16	Premise 11444 11461	I was very strong
+T17	Premise 13950 14095	Sean Hannity said — and he called me the other day — and I spoke to him about it — he said you were totally against the war, because he was for the war
+T18	Claim 14313 14334	I was against the war
+T19	Premise 14204 14311	Sean Hannity said very strongly to me and other people — he's willing to say it, but nobody wants to call him
+T20	Premise 14703 14856	And one of your compatriots said, you know, whether it was before or right after, Trump was definitely — because if you read this article, there's no doubt
+T21	Claim 7987 7992	Wrong
+T22	Claim 7994 7999	Wrong
+T23	Premise 10539 10643	now they're going to be actually probably a major power at some point pretty soon, the way they're going
+T24	Claim 19104 19202	The single greatest problem the world has is nuclear armament, nuclear weapons, not global warming
 T410	Claim 7917 7922	Wrong
 T680	Claim 324 425	I think cyber security, cyber warfare will be one of the biggest challenges facing the next president
 T681	Premise 435 504	clearly we're facing at this point two different kinds of adversaries
@@ -136,8 +160,8 @@ T831	Premise 13815 13889	I then spoke to Sean Hannity, which everybody refuses t
 T832	Premise 13768 13813	We talked about the economy is more important
 T833	Premise 14171 14202	that was before the war started
 T836	Premise 14336 14414	He said, you used to have fights with me, because Sean was in favor of the war
-T838	Claim 14472 14503	we should have never been there
 T837	Premise 14618 14632	I think in '04
+T838	Claim 14472 14503	we should have never been there
 T839	Premise 14541 14616	then they did an article in a major magazine, shortly after the war started
 T840	Premise 14509 14535	nobody called Sean Hannity
 T841	Premise 14638 14702	they did an article which had me totally against the war in Iraq
@@ -200,29 +224,20 @@ R2	Support Arg1:T682 Arg2:T681
 R3	Support Arg1:T683 Arg2:T681
 R4	Support Arg1:T685 Arg2:T686
 R5	Support Arg1:T684 Arg2:T683
-T1	Premise 1033 1054;995 1020	tough, long game here Putin is playing a really
 R6	Support Arg1:T689 Arg2:T1
 R7	Support Arg1:T691 Arg2:T1
 R8	Support Arg1:T690 Arg2:T1
 R9	Support Arg1:T695 Arg2:T694
-T2	Claim 1364 1486	We need to make it very clear — whether it's Russia, China, Iran or anybody else — the United States has much greater capacity
-T3	Claim 1999 2082	I was so — I was so shocked when Donald publicly invited Putin to hack into Americans
 R11	Support Arg1:T699 Arg2:T3
 R12	Support Arg1:T701 Arg2:T3
-T4	Premise 2139 2225;2275 2335	50 national security officials who served in Republican information — in administrations have said that Donald is unfit to be the commander- in-chief
 R13	Support Arg1:T4 Arg2:T701
-T5	Claim 2558 2710	I was just endorsed — and more are coming next week — it will be over 200 admirals, many of them here — admirals and generals endorsed me to lead this country
 R14	Attack Arg1:T5 Arg2:T703
-T6	Claim 2712 2756	That just happened, and many more are coming
 R15	Support Arg1:T6 Arg2:T5
 R16	Support Arg1:T706 Arg2:T6
-T7	Claim 2762 2782	I'm very proud of it
 R17	Support Arg1:T707 Arg2:T7
-T8	Premise 2878 2904	I was just endorsed by ICE
 R18	Support Arg1:T712 Arg2:T710
 R19	Attack Arg1:T710 Arg2:T4
 R20	Support Arg1:T714 Arg2:T2
-T9	Claim 3510 3530	I don't — maybe it was
 R21	Support Arg1:T718 Arg2:T9
 R22	Support Arg1:T720 Arg2:T9
 R23	Support Arg1:T721 Arg2:T9
@@ -245,7 +260,6 @@ R39	Support Arg1:T739 Arg2:T744
 R40	Support Arg1:T747 Arg2:T746
 R41	Support Arg1:T748 Arg2:T746
 R42	Support Arg1:T752 Arg2:T753
-T10	Claim 6877 7075	President Obama and Secretary Clinton created a vacuum the way they got out of Iraq, because they got out — what, they shouldn't have been in, but once they got in, the way they got out was a disaster
 R43	Support Arg1:T749 Arg2:T10
 R44	Support Arg1:T754 Arg2:T10
 R45	Support Arg1:T758 Arg2:T757
@@ -265,17 +279,11 @@ R58	Support Arg1:T786 Arg2:T783
 R59	Support Arg1:T787 Arg2:T783
 R60	Attack Arg1:T788 Arg2:T783
 R61	Support Arg1:T789 Arg2:T788
-T11	Premise 10334 10497	But you look at the Middle East, you started the Iran deal, that's another beauty where you have a country that was ready to fall, I mean, they were doing so badly
-T12	Premise 10499 10533	They were choking on the sanctions
 R62	Support Arg1:T12 Arg2:T11
-T13	Claim 10922 10991	the 28 countries of NATO, many of them aren't paying their fair share
-T14	Premise 10727 10775	And you have to understand, I'm a businessperson
-T15	Premise 10777 10794	I did really well
 R63	Support Arg1:T791 Arg2:T13
 R64	Support Arg1:T792 Arg2:T13
 R65	Support Arg1:T794 Arg2:T793
 R66	Support Arg1:T800 Arg2:T799
-T16	Premise 11444 11461	I was very strong
 R67	Support Arg1:T803 Arg2:T795
 R68	Support Arg1:T807 Arg2:T806
 R69	Support Arg1:T808 Arg2:T806
@@ -285,15 +293,11 @@ R72	Support Arg1:T818 Arg2:T816
 R73	Support Arg1:T822 Arg2:T821
 R74	Support Arg1:T825 Arg2:T823
 R75	Support Arg1:T826 Arg2:T825
-T17	Premise 13950 14095	Sean Hannity said — and he called me the other day — and I spoke to him about it — he said you were totally against the war, because he was for the war
 R76	Support Arg1:T17 Arg2:T823
-T18	Claim 14313 14334	I was against the war
-T19	Premise 14204 14311	Sean Hannity said very strongly to me and other people — he's willing to say it, but nobody wants to call him
 R77	Support Arg1:T19 Arg2:T826
 R78	Support Arg1:T830 Arg2:T826
 R79	Support Arg1:T839 Arg2:T826
 R80	Support Arg1:T837 Arg2:T839
-T20	Premise 14703 14856	And one of your compatriots said, you know, whether it was before or right after, Trump was definitely — because if you read this article, there's no doubt
 R81	Support Arg1:T20 Arg2:T18
 R82	Support Arg1:T844 Arg2:T838
 R83	Support Arg1:T846 Arg2:T844
@@ -338,8 +342,6 @@ R120	Support Arg1:T742 Arg2:T743
 R121	Support Arg1:T745 Arg2:T744
 R122	Attack Arg1:T410 Arg2:T762
 R123	Attack Arg1:T765 Arg2:T410
-T21	Claim 7987 7992	Wrong
-T22	Claim 7994 7999	Wrong
 R124	Attack Arg1:T21 Arg2:T765
 R125	Equivalent Arg1:T22 Arg2:T21
 R126	Support Arg1:T767 Arg2:T765
@@ -348,7 +350,6 @@ R128	Attack Arg1:T783 Arg2:T784
 R129	Support Arg1:T782 Arg2:T783
 R130	Support Arg1:T781 Arg2:T783
 R131	Support Arg1:T11 Arg2:T789
-T23	Premise 10539 10643	now they're going to be actually probably a major power at some point pretty soon, the way they're going
 R132	Support Arg1:T23 Arg2:T11
 R133	Support Arg1:T15 Arg2:T13
 R134	Support Arg1:T14 Arg2:T13
@@ -357,7 +358,6 @@ R136	Support Arg1:T855 Arg2:T850
 R137	Attack Arg1:T872 Arg2:T851
 R138	Support Arg1:T851 Arg2:T850
 R139	Attack Arg1:T880 Arg2:T877
-T24	Claim 19104 19202	The single greatest problem the world has is nuclear armament, nuclear weapons, not global warming
 R140	Support Arg1:T892 Arg2:T896
 R141	Equivalent Arg1:T8 Arg2:T706
 R142	Equivalent Arg1:T711 Arg2:T712
