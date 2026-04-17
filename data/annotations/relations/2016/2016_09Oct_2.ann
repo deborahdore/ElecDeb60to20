@@ -1,45 +1,9 @@
-T50	Claim 134 154	it is not affordable
-T51	Premise 93 132	Affordable Care Act, known as Obamacare
-T52	Premise 156 177	Premiums have gone up
-T53	Premise 179 203	Deductibles have gone up
-T54	Premise 205 224	Copays have gone up
-T55	Premise 258 284	the coverage has gone down
-T56	Premise 226 252	Prescriptions have gone up
-T57	Claim 742 761	I’m going to fix it
-T58	Claim 771 787	I agree with you
-T59	Premise 789 818	Premiums have gotten too high
 T60	Claim 2494 2543	That’s the highest we’ve ever been in our country
-T61	Premise 2435 2492	Right now, we are at 90 percent health insurance coverage
-T62	Claim 820 951	Copays, deductibles, prescription drug costs, and I’ve laid out a series of actions that we can take to try to get those costs down
-T63	Claim 2601 2632	I want us to get to 100 percent
-T64	Premise 2638 2672	get costs down and keep quality up
 T65	Claim 2836 2859	Obamacare is a disaster
-T66	Premise 2890 2948	It’s going up at numbers that nobody’s ever seen worldwide
 T67	Premise 2950 3002	Nobody’s ever seen numbers like this for health care
 T68	Claim 4695 4718	It is a disastrous plan
-T69	Claim 4724 4758	it has to be repealed and replaced
-T70	Claim 5281 5343	That’s where the vast majority of people get their health care
-T71	Premise 5247 5279	we have an employer-based system
-T72	Claim 5122 5241	we are in a situation in our country where if we were to start all over again, we might come up with a different system
-T74	Claim 6565 6589	That’s not going to work
-T75	Claim 6431 6463	let’s fix what’s broken about it
-T76	Claim 6469 6563	let’s not throw it away and give it all back to the insurance companies and the drug companies
-T77	Premise 6407 6426	you can’t afford it
-T79	Claim 6700 6728	everything’s broken about it
-T80	Claim 6877 6896	which is a disaster
-T81	Premise 6754 6816	Bernie Sanders said that Hillary Clinton has very bad judgment
-T82	Claim 6851 6875	trying to save Obamacare
-T83	Claim 7226 7251	We’re going to be able to
-T84	Claim 7352 7395	You’re going to have plans that are so good
-T85	Claim 7405 7470	we’re going to have so much competition in the insurance industry
 T86	Claim 8106 8121	it doesn’t work
-T87	Claim 8073 8100	The whole thing was a fraud
-T88	Premise 8010 8071	President Obama said you keep your doctor, you keep your plan
-T89	Premise 7697 7853	President Obama, by keeping those lines, the boundary lines around each state, it was almost gone until just very toward the end of the passage of Obamacare
-T90	Claim 7855 7885	which, by the way, was a fraud
 T92	Claim 8556 8654	that we will be able to take care of people without the necessary funds to take care of themselves
-R1	Support Arg1:T59 Arg2:T58
-R2	Attack Arg1:T57 Arg2:T58
 T1	Premise 1105 1219	when the Affordable Care Act passed, it wasn’t just that 20 million people got insurance who didn’t have it before
 T2	Premise 1221 1263	But that in and of itself was a good thing
 R3	Support Arg1:T2 Arg2:T1
@@ -64,15 +28,11 @@ T12	Claim 2195 2386	But if we repeal it, as Donald has proposed, and start over 
 T13	Claim 2392 2434	then we would have to start all over again
 R12	Support Arg1:T11 Arg2:T10
 R13	Support Arg1:T12 Arg2:T13
-R14	Support Arg1:T61 Arg2:T60
 R15	Attack Arg1:T60 Arg2:T13
-R16	Support Arg1:T60 Arg2:T63
-R17	Attack Arg1:T63 Arg2:T64
 T14	Claim 2861 2872	You know it
 T15	Claim 2874 2888	We all know it
 R18	Support Arg1:T14 Arg2:T65
 R19	Support Arg1:T15 Arg2:T65
-R20	Support Arg1:T66 Arg2:T67
 T16	Claim 3003 3026	It’s only getting worse
 R21	Support Arg1:T67 Arg2:T16
 T17	Claim 3028 3058	In ’17, it implodes by itself.
@@ -106,9 +66,7 @@ T32	Claim 4435 4464	Obamacare is a total disaster
 R34	Support Arg1:T31 Arg2:T30
 R35	Attack Arg1:T32 Arg2:T31
 T33	Claim 4466 4656	And not only are your rates going up by numbers that nobody’s ever believed, but your deductibles are going up, so that unless you get hit by a truck, you’re never going to be able to use it
-R36	Attack Arg1:T69 Arg2:T68
 R37	Support Arg1:T33 Arg2:T68
-R38	Support Arg1:T71 Arg2:T70
 T34	Premise 5348 5526	the Affordable Care Act was meant to try to fill the gap between people who were too poor and couldn’t put together any resources to afford health care, namely people on Medicaid
 T35	Premise 5539 5842	Medicare, which is a single-payer system, which takes care of our elderly and does a great job doing it, by the way, and then all of the people who were employed, but people who were working but didn’t have the money to afford insurance and didn’t have anybody, an employer or anybody else, to help them
 T36	Premise 5843 5900	That was the slot that the Obamacare approach was to take
@@ -116,19 +74,8 @@ T37	Claim 5902 5961	And like I say, 20 million people now have health insurance
 R39	Support Arg1:T34 Arg2:T35
 R40	Support Arg1:T35 Arg2:T36
 R41	Support Arg1:T36 Arg2:T37
-R42	Attack Arg1:T70 Arg2:T72
 T38	Claim 5966 6148;6188 6323;6361 6398	if we just rip it up and throw it away, what Donald’s not telling you is we just turn it back to the insurance companies the way it used to be, and that means the insurance companies get to do pretty much whatever they want, including saying, look, I’m sorry, you’ve got diabetes, you had cancer, your child has asthma you may not be able to have insurance
-R43	Support Arg1:T77 Arg2:T38
 R44	Attack Arg1:T38 Arg2:T37
-R45	Attack Arg1:T75 Arg2:T76
-R46	Attack Arg1:T74 Arg2:T76
-R47	Attack Arg1:T79 Arg2:T75
-R48	Support Arg1:T81 Arg2:T82
-R49	Attack Arg1:T80 Arg2:T82
-R50	Support Arg1:T84 Arg2:T85
-R51	Attack Arg1:T90 Arg2:T89
-R52	Attack Arg1:T87 Arg2:T88
-R53	Support Arg1:T86 Arg2:T87
 T39	Claim 8122 8338	But when we get rid of those lines, you will have competition, and we will be able to keep pre-existing, we’ll also be able to help people that can’t get—don’t have money because we are going to have people protected
 R54	Attack Arg1:T39 Arg2:T86
 T40	Premise 8343 8410	Republicans feel this way, believe it or not, and strongly this way

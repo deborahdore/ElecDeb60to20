@@ -24,10 +24,6 @@ T200	Premise 6975 7027	all of these bad leaders from ISIS are leaving Mosul
 T201	Claim 7029 7057	Why can’t they do it quietly
 T202	Claim 7059 7236	Why can’t they do the attack, make it a sneak attack, and after the attack is made, inform the American public that we’ve knocked out the leaders, we’ve had a tremendous success
 T203	Claim 7252 7373	Why do they have to say we’re going to be attacking Mosul within the next four to six weeks, which is what they’re saying
-T204	Claim 7411 7461	There are sometimes reasons the military does that
-T205	Premise 7463 7484	Psychological warfare
-T206	Claim 7493 7513	I can’t think of any
-T207	Claim 7573 7610	It might be to help get civilians out
 T208	Claim 7926 7959	why would these people stay there
 T209	Claim 7829 7920	why can’t they do something secretively, where they go in and they knock out the leadership
 T210	Premise 7812 7827	They understand
@@ -39,10 +35,6 @@ T215	Claim 9184 9222	I don’t think that is a smart strategy
 T216	Claim 9066 9182	I don’t think American troops should be holding territory, which is what they would have to do as an occupying force
 T217	Claim 9020 9064	I think that would be a very serious mistake
 T218	Claim 8971 9018	I would not use American ground forces in Syria
-T219	Premise 8761 8794	You talk about diplomatic efforts
-T220	Claim 8796 8813	Those have failed
-T221	Claim 8815 8838	Cease-fires have failed
-T222	Claim 8840 8960	Would you introduce the threat of U.S. military force beyond a no-fly zone against the Assad regime to back up diplomacy
 T223	Premise 8282 8373	everybody’s talking about how Iraq, which is us with our leadership, goes in to fight Mosul
 T224	Claim 8260 8272	They’re gone
 T225	Claim 8225 8258	they’re not staying there anymore
@@ -71,7 +63,6 @@ T12	Claim 2305 2333	I did as secretary of state.
 T13	Premise 2334 2385	That’s how we got a treaty reducing nuclear weapons
 T14	Premise 2387 2499	It’s how we got the sanctions on Iran that put a lid on the Iranian nuclear program without firing a single shot
 T15	Claim 2501 2575	So I would go to the negotiating table with more leverage than we have now
-T16	Claim 2577 2717	But I do support the effort to investigate for crimes, war crimes committed by the Syrians and the Russians and try to hold them accountable
 R4	Support Arg1:T3 Arg2:T4
 R5	Support Arg1:T7 Arg2:T6
 R6	Support Arg1:T8 Arg2:T6
@@ -187,7 +178,6 @@ R74	Attack Arg1:T57 Arg2:T223
 R75	Support Arg1:T218 Arg2:T217
 R76	Support Arg1:T217 Arg2:T216
 R77	Support Arg1:T216 Arg2:T215
-T58	Premise 9223 9428	I do think the use of special forces, which we’re using, the use of enablers and trainers in Iraq, which has had some positive effects, are very much in our interests, and so I do support what is happening
 R78	Support Arg1:T228 Arg2:T229
 T59	Claim 9827 9841	No, he doesn’t
 T60	Premise 9842 10020	There are a lot of very important planning going on, and some of it is to signal to the Sunnis in the area, as well as Kurdish Peshmerga fighters, that we all need to be in this.

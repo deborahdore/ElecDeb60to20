@@ -13,9 +13,7 @@ T1028	Premise 956 1160	perhaps they passed the wrong button, they pressed the wr
 T1029	Premise 1210 1270	now it turns out it might be 1,800, and they don't even know
 T1030	Premise 1194 1204	it was 800
 T1031	Premise 1162 1188	Ended up becoming citizens
-T1033	Claim 1466 1508	if she wins, I will absolutely support her
 T1034	Claim 1421 1449	I don't believe Hillary will
-T1035	Claim 1390 1419	I'm going to be able to do it
 R1	Support Arg1:T1019 Arg2:T1017
 R2	Support Arg1:T1018 Arg2:T1017
 R3	Support Arg1:T1021 Arg2:T1022

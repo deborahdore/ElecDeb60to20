@@ -116,3 +116,21 @@ T115	Premise 11160 11209	Mine for foreign affairs is democracy and freedom
 T116	Claim 10541 10575	I'd like to thank the people of St
 T117	Claim 10693 10740	I'd like to thank those of you who are watching
 T118	Claim 10577 10687	Louis and Washington University, the Presidential Debate Commission and all those who made this night possible
+
+R1	Support Arg1:T14 Arg2:T12
+R2	Equivalent Arg1:T29 Arg2:T28
+R3	Equivalent Arg1:T30 Arg2:T29
+R4	Support Arg1:T37 Arg2:T34
+R5	Support Arg1:T35 Arg2:T34
+R6	Support Arg1:T36 Arg2:T34
+R7	Support Arg1:T32 Arg2:T31
+R8	Support Arg1:T34 Arg2:T31
+R9	Support Arg1:T62 Arg2:T63
+R10	Support Arg1:T71 Arg2:T72
+R11	Support Arg1:T70 Arg2:T72
+R12	Equivalent Arg1:T82 Arg2:T83
+R13	Support Arg1:T86 Arg2:T83
+R14	Support Arg1:T87 Arg2:T83
+R15	Support Arg1:T90 Arg2:T83
+R16	Attack Arg1:T95 Arg2:T94
+R17	Support Arg1:T99 Arg2:T97

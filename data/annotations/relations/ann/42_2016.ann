@@ -298,3 +298,23 @@ T297	Premise 40489 40659	China is illegally dumping steel in the United States a
 T298	Claim 40922 40961	we have to look at this comprehensively
 T299	Premise 40882 40917	the price of coal is down worldwide
 T300	Claim 41716 41771	I don’t agree with nearly anything else he says or does
+
+R1	Support Arg1:T59 Arg2:T58
+R2	Attack Arg1:T57 Arg2:T58
+R3	Support Arg1:T61 Arg2:T60
+R4	Support Arg1:T60 Arg2:T63
+R5	Attack Arg1:T63 Arg2:T64
+R6	Support Arg1:T66 Arg2:T67
+R7	Attack Arg1:T69 Arg2:T68
+R8	Support Arg1:T71 Arg2:T70
+R9	Attack Arg1:T70 Arg2:T72
+R10	Support Arg1:T77 Arg2:T78
+R11	Attack Arg1:T75 Arg2:T76
+R12	Attack Arg1:T74 Arg2:T76
+R13	Attack Arg1:T79 Arg2:T75
+R14	Support Arg1:T81 Arg2:T82
+R15	Attack Arg1:T80 Arg2:T82
+R16	Support Arg1:T84 Arg2:T85
+R17	Attack Arg1:T90 Arg2:T89
+R18	Attack Arg1:T87 Arg2:T88
+R19	Support Arg1:T86 Arg2:T87

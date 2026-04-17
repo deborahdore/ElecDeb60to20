@@ -3,9 +3,6 @@ T2	Claim 3816 3848	I agree with everything she said
 T3	Claim 3850 3871	I began this campaign
 T4	Premise 3880 3946	I was so tired of seeing such foolish things happen to our country
 T5	Claim 4202 4250	my whole concept was to make America great again
-T6	Premise 6038 6106	You described kissing women without consent, grabbing their genitals
-T7	Claim 6108 6130	That is sexual assault
-T8	Claim 6132 6182	You bragged that you have sexually assaulted women
 T10	Claim 6219 6243	I didn’t say that at all
 T11	Premise 6331 6355	I apologize to my family
 T14	Premise 6357 6391	I apologize to the American people
@@ -20,7 +17,6 @@ T25	Claim 8928 8969	I never questioned their fitness to serve
 T26	Claim 10462 10499	These are very important values to me
 T27	Premise 10509 10549	this is the America that I know and love
 T29	Premise 12570 12595	That was locker room talk
-T31	Premise 12618 12711	I am a person who has great respect for people, for my family, for the people of this country
 T32	Claim 14087 14130	so much of what he’s just said is not right
 T33	Premise 14136 14182	he gets to run his campaign any way he chooses
 T34	Premise 14184 14229	He gets to decide what he wants to talk about
@@ -41,7 +37,6 @@ T49	Premise 20012 20038	I am very sorry about that
 T13	Premise 2033 2299	I’ve heard from lots of teachers and parents about some of their concerns about some of the things that are being said and done in this campaign.And I think it is very important for us to make clear to our children that our country really is great because we’re good
 T41	Premise 2301 2361	And we are going to respect one another, lift each other up.
 T50	Premise 2362 2635	We are going to be looking for ways to celebrate our diversity, and we are going to try to reach out to every boy and girl, as well as every adult, to bring them in to working on behalf of our country.I have a very positive and optimistic view about what we can do together
-T51	Premise 2637 3198	That’s why the slogan of my campaign is “Stronger Together,” because I think if we work together, if we overcome the divisiveness that sometimes sets Americans against one another, and instead we make some big goals—and I’ve set forth some big goals, getting the economy to work for everyone, not just those at the top, making sure that we have the best education system from preschool through college and making it affordable, and so much else.If we set those goals and we go together to try to achieve them, there’s nothing in my opinion that America can’t do
 T52	Claim 3200 3264	So that’s why I hope that we will come together in this campaign
 R1	Support Arg1:T13 Arg2:T41
 R2	Support Arg1:T41 Arg2:T50
@@ -125,7 +120,6 @@ R42	Attack Arg1:T20 Arg2:T21
 T87	Claim 8167 8205	We’re going to make America safe again
 R43	Support Arg1:T19 Arg2:T87
 R44	Support Arg1:T22 Arg2:T23
-T88	Claim 8207 8246	We’re going to make America great again
 T89	Claim 8248 8290	but we’re going to make America safe again
 R46	Support Arg1:T89 Arg2:T87
 T90	Claim 8296 8337	we’re going to make America wealthy again
@@ -211,7 +205,6 @@ R85	Support Arg1:T33 Arg2:T34
 R86	Support Arg1:T34 Arg2:T35
 T131	Premise 14409 14536	When I hear something like that, I am reminded of what my friend, Michelle Obama, advised us all: When they go low, you go high
 R87	Attack Arg1:T131 Arg2:T35
-T132	Premise 14560 14788	f this were just about one video, maybe what he’s saying tonight would be understandable, but everyone can draw their own conclusions at this point about whether or not the man in the video or the man on the stage respects women
 T133	Claim 14790 14836	But he never apologizes for anything to anyone
 T134	Claim 14836 14957	.He never apologized to Mr. and Mrs. Khan, the Gold Star family whose son, Captain Khan, died in the line of duty in Iraq
 T135	Premise 14963 15027	Donald insulted and attacked them for weeks over their religion.
@@ -289,7 +282,6 @@ R126	Attack Arg1:T167 Arg2:T166
 T168	Claim 22943 22969	Yes, that’s true, I didn’t
 T169	Claim 22978 23009	Because you have nothing to say
 R127	Attack Arg1:T169 Arg2:T168
-T170	Claim 23253 23407	I know you’re into big diversion tonight, anything to avoid talking about your campaign and the way it’s exploding and the way Republicans are leaving you
 R19	Equivalent Arg1:T87 Arg2:T89
 R33	Support Arg1:T23 Arg2:T87
 R45	Support Arg1:T92 Arg2:T90

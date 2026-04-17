@@ -203,7 +203,7 @@ T202	Claim 26842 26890	This permits them to maintain their self-respect
 T203	Claim 26685 26840	I believe instead of doing that, we should concentrate our aid in long-term loans which these people can pay back either in hard money or in local currency
 T204	Claim 26488 26533;26544 26587	We paid more military aid, more aid into Laos per person than in any country in the world
 T205	Claim 26592 26683	we ought to know now that Laos is moving from neutralism in the direction of the Communists
-T206	Claim 26229 26243;26260 26486	I believe that it's far better for the United States, instead of concentrating our aid, particularly in the underdeveloped world, on surplus military equipment - we poured three hundred million dollars of surplus military equipment into Laos
+T206	Claim 26229 26243;26260 26404	I believe that it's far better for the United States, instead of concentrating our aid, particularly in the underdeveloped world, on surplus military equipment
 T207	Claim 25650 25653	Yes
 T208	Claim 25655 25729	We have been wholly indifferent to Latin America until the last few months
 T209	Claim 25731 25838	The program that was put forward this summer, after we broke off the sugar quota with Cuba, really was done
@@ -350,7 +350,7 @@ T349	Claim 45350 45396	We don't know what the future's going to bring
 T350	Claim 45402 45437;45443 45473;45493 45558	I would not want anyone to elect me president of the United States under the expectation that life would be easier if I were elected
 T351	Claim 45727 45837	That's how the United States began to prepare for its great actions in World War II and in the post-war period
 T352	Premise 45565 45608;45686 45725	many of the programs that I'm talking about build the strength of the United States
-T353	Claim 45839 46076	If we're moving ahead, if we're providing a viable economy, if our people have sufficient resources so that they can consume what we produce; then this country's on the move, then we're stronger, then we set a better example to the world
+T353	Claim 45839 45979	If we're moving ahead, if we're providing a viable economy, if our people have sufficient resources so that they can consume what we produce
 T354	Claim 46081 46125;46176 46225	we have the problem of not only building our policies abroad, we have to do a job here at home
 T355	Claim 46230 46340	I believe that the policies that I recommend came under the general heading of strengthening the United States
 T356	Claim 46400 46515	We're not able to consume what we're able to produce at a time when the Soviet Union is making great economic gains
@@ -363,7 +363,7 @@ T362	Claim 46535 46575	I don't know what the sixties will bring
 T363	Claim 46578 46626;46632 46652	except I think they will bring hard times in the international sphere
 T364	Claim 46654 46712	I hope we can move ahead here at home in the United States
 T365	Claim 46714 46815	I'm confident we can do a far better job of mobilizing our economy and resources in the United States
-T366	Claim 47174 47196;47202 47307	l I think we should be under no illusions whatever about what the responsibilities of the American people will be in the sixties
+T366	Claim 47176 47196;47202 47307	I think we should be under no illusions whatever about what the responsibilities of the American people will be in the sixties
 T367	Claim 47309 47468	Our expenditures for defense, our expenditures for mutual security, our expenditures for economic assistance and technical assistance are not going to get less
 T368	Claim 47470 47503;47511 47518	In my opinion they're going to be greater
 T369	Claim 47520 47571	I think it may be necessary that we have more taxes
@@ -396,7 +396,7 @@ T395	Claim 50309 50319	it's wrong
 T396	Claim 50160 50227	I don't think he should say that our prestige is at an all-time low
 T397	Claim 50090 50158	he has a responsibility to be accurate, and not to misstate the case
 T398	Claim 49969 50084	I think he has a perfect right and a responsibility to criticize this Administration whenever he thinks we're wrong
-T399	Claim 49706 49879	In this Administration we've stopped them at Quemoy and Matsu; we've stopped them in Indochina; we've stopped them in Lebanon; we've stopped them in other parts of the world
+T399	Premise 1119 1180	In this Administration we've stopped them at Quemoy and Matsu
 T400	Premise 49547 49704	In the Truman Administration, six hundred million people went behind the Iron Curtain including the satellite countries of Eastern Europe and Communist China
 T401	Claim 49079 49226	I made it very clear that as far as the Korean War was concerned, that I felt that the decision to go into the war in Korea was right and necessary
 T402	Premise 49228 49301	What I criticized were the policies that made it necessary to go to Korea
@@ -500,3 +500,29 @@ T499	Premise 61436 61479	only if it tells something about the record
 T500	Claim 61277 61304	They do stand for something
 T501	Claim 61306 61402	They stand for a whole different approach to the problems facing this country at home and abroad
 T502	Premise 61192 61275	The Republican party has produced McKinley and Harding, Coolidge, Dewey, and Landon
+T503	Claim 3853 3941	For me to have made such a statement would been in direct uh - opposition to that treaty
+T504	Claim 8864 8919	I think Kenne- Senator Kennedy is wrong on three counts
+T505	Premise 9899 9966	We all remember Pearl Harbor. We lost three thousand American lives
+T506	Premise 11206 11305	about one out of every four jobs is held by and is allotted by people who have government contracts
+T507	Premise 12045 12102	I refer for example to our attitude on the sit-in strikes
+T508	Premise 21137 21198	First of all, we hear that our prestige is at an all-time low
+T509	Premise 21200 21263	Senator Kennedy has been hitting that point over and over again
+T510	Premise 26407 26486	we poured three hundred million dollars of surplus military equipment into Laos
+T511	Premise 38434 38511	I'm glad to hear tonight that he does suggest that I have had some experience
+T512	Claim 40703 40825	I would be willing as president to meet with Mr. Khrushchev or any other world leader if it would serve the cause of peace
+T513	Claim 40827 41062	I would not be able wou- would be willing to meet with him however, unless there were preparations for that conference which would give us some reasonable certainty - some reasonable certainty - that you were going to have some success
+T514	Premise 41604 41720	which will delineate the issues and which will prepare the way for the heads of state to meet and make some progress
+T515	Claim 42462 42488	my view is the same as his
+T516	Claim 45986 46012	this country's on the move
+T517	Claim 2079 2093	we're stronger
+T518	Claim 46040 46076	we set a better example to the world
+T519	Claim 49321 49397	I should point out here that Senator Kennedy has attacked our foreign policy
+T520	Premise 49399 49467	He's said that it's been a policy that has led to defeat and retreat
+T521	Premise 49769 49800	we've stopped them in Indochina
+T522	Premise 49802 49831	we've stopped them in Lebanon
+T523	Premise 49833 49879	we've stopped them in other parts of the world
+T524	Premise 51615 51930	Mr. Nixon uh- I'll just give you the testimony of Mr. George Aiken - Senator George Aiken, the ranking minority member - Republican member - and former chairman of the Senate Agricultural Committee testifying in 1959 - said there were twenty-six million Americans who did not have the income to afford a decent diet
+T525	Premise 51932 52080	Mr. Benson, testifying on the food stamp plan in 1957, said there were twenty-five million Americans who could not afford a elementary low-cost diet
+T526	Premise 52086 52144	he defined that as someone who uses beans in place of meat
+T527	Premise 54056 54207	These islands are a few miles - five or six miles - off the coast of Red China, within a general harbor area and more than a hundred miles from Formosa
+T528	Premise 58421 58640	I'm a student of history as is Senator Kennedy, incidentally; and I have found that in the history of this country we've had many great presidents. Some of them have been Democrats and some of them have been Republicans

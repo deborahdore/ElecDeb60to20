@@ -27,6 +27,8 @@ T26	Premise 5210 5311	Governor Carter in November of 1975 indicated that he want
 T27	Premise 5333 5409	he said he wanted to cut the defense budget by eight or nine billion dollars
 T28	Premise 5430 5504	he talks about cutting the defense budget by five to seven billion dollars
 T29	Claim 5506 5600;5606 5619	There is no way you can be strong militarily and have those kind of reductions in our military appropriation
+T30	Premise 5920 6055	if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand
+T31	Premise 6057 6097	civilian personnel by a hundred thousand
 T32	Premise 6138 6191	We would have to stretch out our aircraft procurement
 T33	Premise 6193 6247	we would have to reduce our naval construction program
 T34	Premise 6249 6369	we would have to reduce the uh - research and development for the Army, the Navy, the Air Force and Marines by 8 percent
@@ -99,6 +101,7 @@ T100	Premise 13431 13530	our foreign policy in the last few years, uh - the Amer
 T101	Premise 13580 13641	I've uh - been one who's loved my nation as many Americans do
 T102	Claim 13869 13927	Every time we've made a serious mistake in foreign affairs
 T103	Premise 13947 14002	the American people have been excluded from the process
+T104	Claim 14004 14197	If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed
 T105	Claim 14203 14276	I'm not gonna exclude the American people from that process in the future
 T106	Premise 14315 14463	This is what it takes to have a sound foreign policy strong at home, strong defense, permanent commitments, not betray the principles of our country
 T107	Premise 14469 14550	involve the American people and the Congress in the shaping of our foreign policy
@@ -127,6 +130,7 @@ T129	Claim 17069 17110	Governor Carter again contradicts himself
 T130	Claim 17112 17138	He complains about secrecy
 T131	Claim 17147 17290	he is quoted as saying that in the attempt to find a solution in the Middle East that he would hold unpublicized meetings with the Soviet Union
 T132	Premise 17293 17379	I presume for the purpose of an - imposing a settlement on Israel and the Arab nations
+T133	Premise 19978 20074	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
 T134	Premise 17752 17820	I submitted the Sinai agreement to the Congress of the United States
 T135	Premise 17822 17901	I submitted every single document that was applicable to the Sinai II agreement
 T136	Claim 17903 18028	It was the most complete documentation by any president of any agreement signed by a president on behalf of the United States
@@ -135,6 +139,7 @@ T138	Claim 18291 18455	The secretary of state has appeared in the several years 
 T139	Claim 18457 18577	The secretary of state has made better than fifty speeches all over the United States explaining American foreign policy
 T140	Claim 19707 19729;19735 19821	I believe that we have negotiated with the Soviet Union since I've been president from a position of strength
 T141	Premise 19857 19892;19898 19926;19932 19973	Shortly after I became president in December of 1974, I met with General Secretary Brezhnev in Vladivostok
+T142	Claim 20112 20234	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
 T143	Premise 20236 20271;20277 20376	I've negotiated at Vladivostok with Mr. Brezhnev a limitation on the MIRVing of their ballistic missiles at a figure of thirteen-twenty
 T144	Claim 20384 20471	is the first time that any president has achieved a cap either on launchers or on MIRVs
 T145	Premise 20544 20603	The grain sales have been a benefit to American agriculture
@@ -166,6 +171,8 @@ T170	Claim 23688 23739	The Soviet Union is still jamming Radio Free Europe
 T171	Claim 25319 25394	That's not the way to run our foreign policy, including international trade
 T172	Premise 25175 25232	This grain deal with the Soviet Union in '72 was terrible
 T173	Premise 25238 25317	Mr. Ford made up for it with three embargoes, one against our own ally in Japan
+T174	Premise 31060 31085	Iran has been a good ally
+T175	Claim 32072 32181	that communique, calls for the normalization of relations between the United States and the People's Republic
 T176	Claim 24298 24348	Mr. Ford exclude himself from access to the public
 T177	Premise 24433 24474	One press conference he had without sound
 T178	Premise 24350 24431	He hasn't had a tough cross-examination-type press conference in over thirty days
@@ -302,6 +309,7 @@ T308	Premise 42448 42541	we did agree on a twenty-four-hundred limitation on uh 
 T309	Premise 42548 42595	that would mean a cutback in the Soviet program
 T310	Premise 42660 42719	we put a limitation of thirteen hundred and twenty on MIRVs
 T311	Premise 42721 42873	Our technicians have been working since that time in Geneva, trying to put into technical language a - an agreement that can be verified by both parties
+T312	Claim 44314 44331	I intend to do so
 T313	Claim 43651 43858	I met just last week with the foreign minister of the Soviet Union, and he indicated to me that uh - the Soviet Union was interested in narrowing the differences and making a realistic and a sound compromise
 T314	Premise 43860 43916	I hope and trust, in the best interest of both countries
 T315	Premise 43922 43979	in the best interests of all people throughout this globe
@@ -383,6 +391,7 @@ T390	Premise 54993 55039	the Middle East is the crossroads of the world
 T391	Claim 55041 55144	There've been more disputes in its area where there's more volatility than any other place in the world
 T392	Premise 55158 55268	Arab nations and the Israelis trust the United States, we were able to take the lead in the Sinai II Agreement
 T393	Claim 55274 55418	I can assure you that the United States will have the leadership role in moving toward a comprehensive settlement of the Middle Eastern problems
+T394	Premise 60690 60740	I would continue to negotiate with the Panamanians
 T395	Claim 55462 55509	we will do it with the highest moral principles
 T396	Claim 56509 56597	I think in all fairness and equity we have to recognize the problem that South Korea has
 T397	Claim 56360 56503	I have personally told President Pack that the United States does not condone the kind of repressive measures that he has taken in that country
@@ -392,7 +401,7 @@ T400	Claim 56752 56790	they are supported by the Soviet Union
 T401	Claim 56792 56835	South Korea faces a very delicate situation
 T402	Premise 56875 57132	his administration, has recommended a year ago and we have reiterated it again this year, that the United States, South Korea, North Korea and the uh - People's Republic of China sit down at a conference table to resolve the problems of the Korean peninsula
 T403	Claim 57134 57224	This is a leadership role that the United States under this administration is carrying out
-T404	Claim 57230 57419	if we do it, and I think the opportunities and the possibilities are getting better, we will have solved many of the internal domestic problems that exist in South Korea at the present time
+T404	Claim 57230 57241	if we do it
 T405	Claim 57473 57525	Mr. Ford didn't comment on the uh - prisons in Chile
 T406	Claim 57527 57686	This is an - a typical example, maybe of many others, where this administration overthrew an elected government and helped to establish a military dictatorship
 T407	Premise 57688 57730	This has not been an ancient history story
@@ -438,6 +447,7 @@ T446	Claim 63461 63543;63549 63570;63576 63616	if we had not taken the strong an
 T447	Premise 63618 63644	Captain Miller is thankful
 T448	Premise 63646 63666	The crew is thankful
 T449	Claim 63668 63690	We did the right thing
+T450	Premise 63712 63951	those who sit in Washington eighteen months after the incident are not the best judges of the decision-making process that had to be made by the National Security Council and by myself at the time the incident was developing in the Pacific
 T451	Premise 64088 64180	We made uh - diplomatic uh - protests to the Cambodian government through the United Nations
 T452	Premise 64182 64226	Every possible diplomatic means was utilized
 T453	Premise 64250 64349	I had a responsibility, and so did the National Security Coun- Council, to meet the problem at hand
@@ -458,6 +468,7 @@ T467	Claim 65525 65567	This is uh - what the American people want
 T468	Premise 65569 65619	When something happens that endangers our security
 T469	Premise 65624 65686	when something happens that threatens our stature in the world
 T470	Premise 65691 65762;65769 65806;65808 65873	when American people are endangered by the actions of a foreign country just forty uh sailors on the Mayaguez we obviously have to move aggressively and quickly to rescue them
+T471	Claim 67471 67520	it would've prevented the boycott from continuing
 T472	Claim 66378 66449	I believe that the boycott of American businesses by the Arab countries
 T473	Premise 66458 66492	those businesses trade with Israel
 T474	Premise 66504 66594	they have American Jews who are owners or directors in the company is an absolute disgrace
@@ -476,6 +487,8 @@ T486	Premise 68180 68400	Just on Monday of this week I signed a tax bill that in
 T487	Premise 68406 68776	last week when we were trying to get the Export Administration Act through the Congress - necessary legislation - my administration went to Capitol Hill and tried to convince the House and the Senate that we should have an amendment on that legislation which would take strong and effective action against those who uh - participate or cooperate with the Arab uh boycott
 T488	Premise 68803 68829	the Congress failed to act
 T489	Claim 68831 68972	I am going to announce tomorrow that the Department of Commerce will disclose those companies that have uh - participated in the Arab boycott
+T490	Premise 69008 69036	the Congress failed to do it
+T491	Claim 69511 69589	I will never uh - go along with the admission of Vietnam to the United Nations
 T492	Claim 69591 69795	If they do give us a bona fide, complete uh - accounting of the eight hundred MIA's, then I believe that the United States should begin negotiations for the uh - admission of Vietnam to the United Nations
 T493	Claim 69797 69861	But not until they have given us the full accounting of our MIAs
 T494	Claim 69901 70230	One of the uh - most embarrassing uh - failures of the Ford administration, and one that touches specifically on human rights, is his refusal to appoint a presidential commission to go to Vietnam, to go to Laos, to go to Cambodia and try to trade for the release of information about those who are missing in action in those wars
@@ -516,22 +529,712 @@ T529	Premise 74087 74124	we can debate one decision or another
 T530	Claim 74130 74202	there are two uh things which cannot be debated - experience and results
 T531	Claim 74511 74592	Not a single young American today is fighting or dying on any foreign battlefield
 T532	Claim 74594 74630	America is at peace and with freedom
-T30	Premise 5920 6055	if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand
-T31	Premise 6057 6097	civilian personnel by a hundred thousand
 T533	Premise 6099 6136	jobs in America by a hundred thousand
-T104	Claim 14004 14197	If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed
-T133	Premise 19978 20074	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
-T142	Claim 20112 20234	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
-T174	Premise 31060 31085	Iran has been a good ally
-T175	Claim 32072 32181	that communique, calls for the normalization of relations between the United States and the People's Republic
 T534	Premise 40268 40317	Governor Carter apparently doesn't know the facts
 T535	Premise 42597 42640	it would not interfere with our own program
-T312	Claim 44314 44331	I intend to do so
-T394	Premise 60690 60740	I would continue to negotiate with the Panamanians
-T450	Premise 63712 63951	those who sit in Washington eighteen months after the incident are not the best judges of the decision-making process that had to be made by the National Security Council and by myself at the time the incident was developing in the Pacific
 T536	Claim 64943 65010	the White House made no attempt to block the issuing of that report
-T471	Claim 67471 67520	it would've prevented the boycott from continuing
 T537	Claim 68974 69006	This is something that we can do
-T490	Premise 69008 69036	the Congress failed to do it
 T538	Claim 69042 69060	we intend to do it
-T491	Claim 69511 69589	I will never uh - go along with the admission of Vietnam to the United Nations
+T539	Premise 3182 3252	We've lost in our foreign policy, the character of the American people
+T540	Claim 4509 4569	they've criticized the foreign policy of this administration
+T541	Premise 3254 3377	We've uh - ignored or excluded the American people and the Congress from participation in the shaping of our foreign policy
+T542	Claim 3379 3417	It's been one of secrecy and exclusion
+T543	Premise 4183 4287	The ability to fight, if necessary, is the best way to avoid the chance for, or the requirement to fight
+T544	Premise 4571 4641	This is one instance where I agree with - with the Republican platform
+T545	Claim 8172 8268	maybe two years ago, the Soviet Union looked like they had continued strength in the Middle East
+T546	Premise 12995 13188	I've seen at first hand, in a very vivid way, the deep hurt that's come to this country in the aftermath of Vietnam and Cambodia, Chile, and Pakistan, and Angola, and Watergate, CIA revelations
+T547	Claim 18579 18731	I have made myself at least ten uh - speeches in various parts of the country where I have discussed with the American people defense and foreign policy
+T548	Premise 17478 17724	After the United States took the initiative in working with Israel and with Egypt and achieving the Sinai II agreement - and I'm proud to say that not a single Egyptian or Israeli soldier has lost his life since the signing of the Sinai agreement
+T549	Claim 17385 17476	let me talk just a minute about what we've done to avoid secrecy in the Ford administration
+T550	Claim 19296 19396	We've virtually signed, in Helsinki, an agreement that the Russians have dominance in Eastern Europe
+T551	Claim 22107 22226	the Russians are not using Eastern Europe as their own sphere of influence in occupying mo- most of the countries there
+T552	Claim 23885 24026	apparently Mr. Ford has just endorsed, which said that there's an organic linkage between the Eastern European countries and the Soviet Union
+T553	Claim 24052 24278	Mr. Ford convince the Polish-Americans and the Czech-Americans and the Hungarian-Americans in this country that those countries don't live under the domination and supervision of the Soviet Union behind the Iron - uh - Curtain
+T554	Claim 27492 27525	This is a deviation from idealism
+T555	Claim 34489 34563	There ought to be a clear, unequivocal commitment without change to Israel
+T556	Claim 36319 36395	The so-called Nixon shock against Japan had weakened our relationships there
+T557	Premise 37518 37684	using that base of strength, and using the idealism, the honesty, the predictability, the commitment, the integrity of our own country, that's where our strength lies
+T558	Claim 37701 37772	permit us to deal with the developing nations in a position of strength
+T559	Claim 37972 38031	Our allies - the smaller countries get trampled in the rush
+T560	Premise 38357 38387	I can't say when this can come
+T561	Claim 40972 41019	Our relations with Japan have never been better
+T562	Claim 41361 41418	President Rabin said that our relations were never better
+T563	Claim 41280 41344	You can go around the world - and let me take Israel for example
+T564	Claim 46166 46235	We've seen, in this world, a development of a tremendous threat to us
+T565	Claim 49139 49174	in those respects, we're not strong
+T566	Premise 51043 51114	What is more moral than peace, and the United States is at peace today?
+T567	Premise 51115 51409	What is more moral in foreign policy than for the administration to take the lead in the World Food Conference in Rome in 1974 when the United States committed six million metric tons of food - over 60 percent of the food committed for the disadvantaged and underdeveloped nations of the world?
+T568	Premise 51526 51658	What is more moral than for the United States under the Ford administration to take the lead in southern Africa, in the Middle East?
+T569	Claim 55961 56012	the United States must not spread itself too thinly
+T570	Premise 56015 56094	that was one of the problems that helped to create the circumstances in Vietnam
+T571	Claim 56241 56314	United States will take the leadership and try to resolve the differences
+T572	Premise 56129 56230	we are asked by the various parties, either one nation against another or individuals within a nation
+T573	Premise 57247 57313	I think the opportunities and the possibilities are getting better
+T574	Premise 55906 55954	as we move to one area of the world from another
+T575	Claim 57966 58047	That's one of the problems with this administration's so-called shuttle diplomacy
+T576	Claim 57903 57964	He says we have to move from one area of the world to another
+T577	Claim 58379 58537	what Mr. Ford said about unemployment, that - insinuating that under Johnson and Kennedy that unemployment could only be held down when this country is at war
+T578	Claim 60480 60599	Mr. Ford not only disavowed his instructions, but he also even dropped, parenthetically, the use of the word "detente."
+T579	Premise 60842 60896	Panama retained sovereignty over the Panama Canal Zone
+T580	Claim 62063 62114	I called for a conference of uh - nuclear suppliers
+T581	Claim 62116 62149	That conference has met six times
+T582	Claim 62151 62285	In May of this year, Governor Carter took the first initiative, approximately twelve months after I had taken my initiative a year ago
+T583	Claim 63976 64086	we made every possible overture to the People's Republic of China and through them to the Cambodian Government
+T584	Claim 64182 64226	Every possible diplomatic means was utilized
+T585	Claim 63080 63205	Somebody who sits in Washington, D.C., eighteen months after the Mayaguez incident, can be a very good grandstand quarterback
+T586	Claim 66848 66895	It's not a matter of diplomacy or trade with me
+T587	Claim 66897 66922	It's a matter of morality
+T588	Claim 66496 66570	because they have American Jews who are owners or directors in the company
+T589	Claim 66571 66594	is an absolute disgrace
+T590	Claim 70232 70270	This is what the families of MIAs want
+T591	Premise 71560 71821	Will it be a nightmare world threatened with the proliferation of atomic bombs, not just in five major countries but dozens of smaller countries that have been permitted to develop atomic weapons because of a failure of our top leadership to stop proliferation?
+T592	Premise 71822 72053	Will we have a world of hunger and - and hatred, and will we be living in an armed camp stripped of our friendship and allies hiding behind a tight defense that's been drawn in around us because we are fearful of the outside world?
+T593	Premise 72333 72631	Or will we have a world of peace with the threat of atomic weapons eliminated, with full trade, with our people at work, inflation controlled, openness in government, our people proud once again, Congress, citizens, president, secretary of state working in harmony and unity toward a common future?
+T594	Premise 72632 72721	Or world where people have enough to eat and a world where we care about those who don't?
+T595	Premise 72722 72805	Can we become a breadbasket of the world instead of the arms merchant of the world?
+T596	Premise 73297 73331	Why can't we have that once again?
+T597	Premise 74204 74452	In the last two years, I have made policy decisions involving - long-range difficulties and policies and made day-to-day judgments not only as president of the United States but as the leader of the free world What is the result of that leadership?
+T598    Claim 57230 57241	if we do it
+R1	Support Arg1:T1 Arg2:T2
+R2	Support Arg1:T4 Arg2:T2
+R3	Support Arg1:T3 Arg2:T2
+R4	Support Arg1:T5 Arg2:T3
+R5	Support Arg1:T5 Arg2:T6
+R6	Support Arg1:T7 Arg2:T2
+R7	Support Arg1:T12 Arg2:T14
+R8	Support Arg1:T9 Arg2:T10
+R9	Support Arg1:T10 Arg2:T11
+R10	Support Arg1:T11 Arg2:T15
+R11	Support Arg1:T10 Arg2:T15
+R12	Support Arg1:T13 Arg2:T15
+R13	Support Arg1:T20 Arg2:T22
+R14	Support Arg1:T22 Arg2:T21
+R15	Attack Arg1:T19 Arg2:T22
+R16	Support Arg1:T26 Arg2:T27
+R17	Support Arg1:T27 Arg2:T28
+R18	Support Arg1:T30 Arg2:T36
+R19	Support Arg1:T31 Arg2:T36
+R20	Support Arg1:T533 Arg2:T36
+R21	Support Arg1:T32 Arg2:T36
+R22	Support Arg1:T33 Arg2:T36
+R23	Support Arg1:T34 Arg2:T36
+R24	Support Arg1:T35 Arg2:T36
+R25	Attack Arg1:T37 Arg2:T36
+R26	Support Arg1:T36 Arg2:T38
+R27	Attack Arg1:T14 Arg2:T16
+R28	Attack Arg1:T15 Arg2:T16
+R29	Support Arg1:T379 Arg2:T378
+R30	Support Arg1:T380 Arg2:T379
+R31	Support Arg1:T381 Arg2:T380
+R32	Support Arg1:T382 Arg2:T380
+R33	Support Arg1:T382 Arg2:T378
+R34	Support Arg1:T382 Arg2:T383
+R35	Support Arg1:T383 Arg2:T378
+R36	Support Arg1:T385 Arg2:T384
+R37	Support Arg1:T386 Arg2:T384
+R38	Support Arg1:T385 Arg2:T386
+R39	Support Arg1:T386 Arg2:T387
+R40	Support Arg1:T387 Arg2:T384
+R41	Support Arg1:T384 Arg2:T388
+R42	Support Arg1:T388 Arg2:T389
+R43	Support Arg1:T389 Arg2:T378
+R44	Support Arg1:T390 Arg2:T391
+R45	Support Arg1:T391 Arg2:T392
+R46	Support Arg1:T392 Arg2:T389
+R47	Support Arg1:T391 Arg2:T389
+R48	Support Arg1:T390 Arg2:T389
+R49	Support Arg1:T389 Arg2:T393
+R50	Support Arg1:T395 Arg2:T393
+R51	Support Arg1:T378 Arg2:T395
+R52	Support Arg1:T398 Arg2:T396
+R53	Support Arg1:T399 Arg2:T396
+R54	Support Arg1:T400 Arg2:T396
+R55	Attack Arg1:T397 Arg2:T396
+R56	Support Arg1:T396 Arg2:T401
+R57	Support Arg1:T402 Arg2:T403
+R58	Support Arg1:T404 Arg2:T403
+R60	Support Arg1:T405 Arg2:T406
+R61	Support Arg1:T407 Arg2:T408
+R62	Support Arg1:T408 Arg2:T406
+R63	Support Arg1:T414 Arg2:T413
+R64	Support Arg1:T410 Arg2:T411
+R65	Attack Arg1:T412 Arg2:T413
+R66	Support Arg1:T415 Arg2:T412
+R67	Support Arg1:T421 Arg2:T422
+R68	Support Arg1:T422 Arg2:T423
+R69	Support Arg1:T432 Arg2:T394
+R70	Support Arg1:T394 Arg2:T430
+R71	Support Arg1:T432 Arg2:T430
+R72	Support Arg1:T430 Arg2:T426
+R73	Attack Arg1:T432 Arg2:T425
+R74	Support Arg1:T431 Arg2:T426
+R75	Attack Arg1:T426 Arg2:T425
+R76	Attack Arg1:T428 Arg2:T425
+R77	Support Arg1:T428 Arg2:T433
+R78	Support Arg1:T433 Arg2:T434
+R79	Support Arg1:T434 Arg2:T435
+R80	Support Arg1:T435 Arg2:T433
+R81	Support Arg1:T436 Arg2:T437
+R82	Support Arg1:T428 Arg2:T437
+R83	Support Arg1:T437 Arg2:T438
+R84	Support Arg1:T438 Arg2:T439
+R85	Support Arg1:T429 Arg2:T439
+R86	Support Arg1:T427 Arg2:T439
+R87	Support Arg1:T428 Arg2:T439
+R88	Support Arg1:T433 Arg2:T439
+R89	Support Arg1:T434 Arg2:T439
+R90	Support Arg1:T435 Arg2:T439
+R91	Support Arg1:T441 Arg2:T440
+R92	Support Arg1:T443 Arg2:T442
+R93	Support Arg1:T444 Arg2:T442
+R94	Support Arg1:T445 Arg2:T444
+R95	Support Arg1:T447 Arg2:T449
+R96	Support Arg1:T448 Arg2:T449
+R97	Attack Arg1:T449 Arg2:T450
+R98	Support Arg1:T453 Arg2:T454
+R99	Support Arg1:T455 Arg2:T454
+R100	Support Arg1:T447 Arg2:T455
+R101	Support Arg1:T458 Arg2:T457
+R102	Support Arg1:T459 Arg2:T457
+R103	Support Arg1:T459 Arg2:T460
+R104	Support Arg1:T457 Arg2:T460
+R105	Support Arg1:T461 Arg2:T460
+R106	Support Arg1:T536 Arg2:T460
+R107	Attack Arg1:T462 Arg2:T460
+R108	Support Arg1:T464 Arg2:T462
+R109	Support Arg1:T463 Arg2:T460
+R110	Support Arg1:T465 Arg2:T457
+R111	Support Arg1:T467 Arg2:T465
+R112	Support Arg1:T468 Arg2:T467
+R113	Support Arg1:T468 Arg2:T465
+R114	Attack Arg1:T466 Arg2:T465
+R115	Attack Arg1:T466 Arg2:T458
+R116	Support Arg1:T472 Arg2:T474
+R117	Support Arg1:T475 Arg2:T474
+R118	Support Arg1:T474 Arg2:T476
+R119	Attack Arg1:T477 Arg2:T472
+R120	Attack Arg1:T477 Arg2:T475
+R121	Attack Arg1:T477 Arg2:T474
+R122	Support Arg1:T478 Arg2:T479
+R123	Support Arg1:T478 Arg2:T480
+R124	Support Arg1:T479 Arg2:T480
+R125	Support Arg1:T476 Arg2:T477
+R126	Support Arg1:T477 Arg2:T480
+R127	Support Arg1:T481 Arg2:T471
+R128	Attack Arg1:T481 Arg2:T475
+R129	Attack Arg1:T482 Arg2:T481
+R130	Support Arg1:T483 Arg2:T484
+R131	Support Arg1:T484 Arg2:T482
+R132	Support Arg1:T485 Arg2:T484
+R133	Support Arg1:T485 Arg2:T486
+R134	Support Arg1:T485 Arg2:T482
+R135	Support Arg1:T486 Arg2:T482
+R136	Support Arg1:T487 Arg2:T482
+R137	Support Arg1:T486 Arg2:T487
+R138	Support Arg1:T488 Arg2:T489
+R139	Support Arg1:T489 Arg2:T537
+R140	Support Arg1:T537 Arg2:T538
+R141	Support Arg1:T537 Arg2:T490
+R142	Support Arg1:T490 Arg2:T538
+R143	Equivalent Arg1:T490 Arg2:T488
+R144	Support Arg1:T490 Arg2:T489
+R145	Attack Arg1:T489 Arg2:T481
+R146	Support Arg1:T492 Arg2:T491
+R147	Support Arg1:T492 Arg2:T493
+R148	Support Arg1:T493 Arg2:T491
+R149	Attack Arg1:T501 Arg2:T502
+R150	Support Arg1:T498 Arg2:T502
+R151	Support Arg1:T495 Arg2:T502
+R152	Support Arg1:T499 Arg2:T492
+R153	Support Arg1:T501 Arg2:T500
+R154	Attack Arg1:T500 Arg2:T499
+R155	Support Arg1:T504 Arg2:T503
+R156	Support Arg1:T505 Arg2:T503
+R157	Support Arg1:T506 Arg2:T503
+R158	Support Arg1:T503 Arg2:T507
+R159	Support Arg1:T510 Arg2:T509
+R160	Support Arg1:T509 Arg2:T511
+R161	Attack Arg1:T513 Arg2:T511
+R162	Support Arg1:T514 Arg2:T513
+R163	Support Arg1:T513 Arg2:T515
+R164	Attack Arg1:T516 Arg2:T515
+R165	Support Arg1:T517 Arg2:T515
+R166	Support Arg1:T518 Arg2:T519
+R167	Support Arg1:T515 Arg2:T519
+R168	Attack Arg1:T519 Arg2:T520
+R169	Support Arg1:T521 Arg2:T519
+R170	Support Arg1:T522 Arg2:T519
+R171	Support Arg1:T523 Arg2:T519
+R172	Support Arg1:T528 Arg2:T529
+R173	Attack Arg1:T530 Arg2:T529
+R174	Support Arg1:T527 Arg2:T528
+R175	Support Arg1:T40 Arg2:T39
+R176	Support Arg1:T43 Arg2:T42
+R177	Attack Arg1:T64 Arg2:T47
+R178	Attack Arg1:T63 Arg2:T47
+R179	Support Arg1:T61 Arg2:T56
+R180	Support Arg1:T56 Arg2:T55
+R181	Support Arg1:T61 Arg2:T55
+R182	Support Arg1:T60 Arg2:T61
+R183	Support Arg1:T59 Arg2:T61
+R184	Support Arg1:T58 Arg2:T61
+R185	Support Arg1:T57 Arg2:T61
+R186	Support Arg1:T55 Arg2:T54
+R187	Support Arg1:T42 Arg2:T54
+R188	Attack Arg1:T53 Arg2:T47
+R189	Support Arg1:T54 Arg2:T53
+R190	Support Arg1:T49 Arg2:T52
+R191	Support Arg1:T50 Arg2:T49
+R192	Support Arg1:T50 Arg2:T52
+R193	Attack Arg1:T52 Arg2:T51
+R194	Support Arg1:T67 Arg2:T66
+R195	Support Arg1:T69 Arg2:T68
+R196	Support Arg1:T70 Arg2:T68
+R197	Support Arg1:T74 Arg2:T72
+R198	Support Arg1:T75 Arg2:T72
+R199	Support Arg1:T46 Arg2:T43
+R200	Support Arg1:T44 Arg2:T43
+R201	Attack Arg1:T49 Arg2:T51
+R202	Equivalent Arg1:T80 Arg2:T70
+R203	Support Arg1:T71 Arg2:T70
+R204	Support Arg1:T79 Arg2:T80
+R205	Support Arg1:T78 Arg2:T70
+R206	Support Arg1:T76 Arg2:T70
+R207	Support Arg1:T77 Arg2:T80
+R208	Support Arg1:T86 Arg2:T82
+R209	Support Arg1:T93 Arg2:T82
+R210	Support Arg1:T94 Arg2:T82
+R211	Support Arg1:T95 Arg2:T82
+R212	Support Arg1:T96 Arg2:T82
+R213	Support Arg1:T82 Arg2:T81
+R214	Support Arg1:T87 Arg2:T88
+R215	Support Arg1:T88 Arg2:T89
+R216	Support Arg1:T101 Arg2:T81
+R217	Support Arg1:T101 Arg2:T87
+R218	Support Arg1:T103 Arg2:T100
+R219	Support Arg1:T87 Arg2:T81
+R220	Support Arg1:T88 Arg2:T81
+R221	Support Arg1:T89 Arg2:T81
+R222	Support Arg1:T104 Arg2:T81
+R223	Support Arg1:T105 Arg2:T81
+R224	Support Arg1:T106 Arg2:T105
+R225	Support Arg1:T107 Arg2:T105
+R226	Support Arg1:T109 Arg2:T110
+R227	Support Arg1:T110 Arg2:T81
+R228	Attack Arg1:T105 Arg2:T108
+R229	Support Arg1:T111 Arg2:T110
+R230	Support Arg1:T92 Arg2:T90
+R231	Support Arg1:T90 Arg2:T91
+R232	Support Arg1:T91 Arg2:T110
+R233	Support Arg1:T91 Arg2:T81
+R234	Attack Arg1:T112 Arg2:T108
+R235	Support Arg1:T113 Arg2:T112
+R236	Support Arg1:T112 Arg2:T116
+R237	Support Arg1:T114 Arg2:T112
+R238	Support Arg1:T115 Arg2:T112
+R239	Support Arg1:T117 Arg2:T112
+R240	Support Arg1:T118 Arg2:T112
+R241	Support Arg1:T119 Arg2:T112
+R242	Support Arg1:T122 Arg2:T123
+R243	Support Arg1:T123 Arg2:T124
+R244	Support Arg1:T124 Arg2:T125
+R245	Support Arg1:T125 Arg2:T121
+R246	Support Arg1:T126 Arg2:T127
+R247	Support Arg1:T127 Arg2:T128
+R248	Support Arg1:T128 Arg2:T121
+R249	Support Arg1:T121 Arg2:T84
+R250	Support Arg1:T128 Arg2:T84
+R251	Support Arg1:T84 Arg2:T83
+R252	Attack Arg1:T129 Arg2:T83
+R253	Support Arg1:T131 Arg2:T130
+R254	Support Arg1:T130 Arg2:T129
+R255	Attack Arg1:T130 Arg2:T112
+R256	Support Arg1:T132 Arg2:T131
+R257	Support Arg1:T135 Arg2:T136
+R258	Support Arg1:T134 Arg2:T136
+R259	Support Arg1:T138 Arg2:T139
+R260	Support Arg1:T137 Arg2:T138
+R261	Support Arg1:T100 Arg2:T98
+R262	Support Arg1:T103 Arg2:T102
+R263	Support Arg1:T102 Arg2:T105
+R264	Support Arg1:T133 Arg2:T142
+R265	Support Arg1:T145 Arg2:T146
+R266	Support Arg1:T146 Arg2:T147
+R267	Support Arg1:T147 Arg2:T148
+R268	Support Arg1:T149 Arg2:T148
+R269	Support Arg1:T150 Arg2:T151
+R270	Support Arg1:T152 Arg2:T151
+R271	Attack Arg1:T153 Arg2:T151
+R272	Support Arg1:T154 Arg2:T155
+R273	Support Arg1:T155 Arg2:T156
+R274	Support Arg1:T156 Arg2:T157
+R275	Support Arg1:T162 Arg2:T161
+R276	Support Arg1:T161 Arg2:T163
+R277	Support Arg1:T162 Arg2:T163
+R278	Support Arg1:T164 Arg2:T163
+R279	Support Arg1:T164 Arg2:T160
+R280	Support Arg1:T164 Arg2:T159
+R281	Attack Arg1:T165 Arg2:T153
+R282	Support Arg1:T166 Arg2:T165
+R283	Support Arg1:T168 Arg2:T169
+R284	Support Arg1:T167 Arg2:T169
+R285	Support Arg1:T169 Arg2:T170
+R286	Support Arg1:T167 Arg2:T176
+R287	Support Arg1:T178 Arg2:T176
+R288	Support Arg1:T177 Arg2:T176
+R289	Support Arg1:T181 Arg2:T179
+R290	Support Arg1:T182 Arg2:T183
+R291	Support Arg1:T183 Arg2:T179
+R292	Support Arg1:T182 Arg2:T179
+R293	Support Arg1:T183 Arg2:T184
+R294	Support Arg1:T184 Arg2:T179
+R295	Support Arg1:T185 Arg2:T179
+R296	Attack Arg1:T172 Arg2:T148
+R297	Support Arg1:T173 Arg2:T172
+R298	Attack Arg1:T171 Arg2:T173
+R299	Equivalent Arg1:T191 Arg2:T186
+R300	Support Arg1:T188 Arg2:T189
+R301	Support Arg1:T189 Arg2:T186
+R302	Support Arg1:T190 Arg2:T186
+R303	Support Arg1:T193 Arg2:T194
+R304	Support Arg1:T194 Arg2:T195
+R305	Support Arg1:T195 Arg2:T199
+R306	Support Arg1:T198 Arg2:T196
+R307	Support Arg1:T200 Arg2:T201
+R308	Support Arg1:T201 Arg2:T202
+R309	Support Arg1:T203 Arg2:T202
+R310	Support Arg1:T202 Arg2:T204
+R311	Attack Arg1:T196 Arg2:T200
+R312	Attack Arg1:T196 Arg2:T201
+R313	Support Arg1:T211 Arg2:T212
+R314	Support Arg1:T212 Arg2:T213
+R315	Support Arg1:T204 Arg2:T213
+R316	Support Arg1:T216 Arg2:T217
+R317	Support Arg1:T217 Arg2:T213
+R318	Support Arg1:T214 Arg2:T216
+R319	Support Arg1:T218 Arg2:T215
+R320	Support Arg1:T219 Arg2:T215
+R321	Support Arg1:T220 Arg2:T215
+R322	Support Arg1:T208 Arg2:T215
+R323	Support Arg1:T209 Arg2:T215
+R324	Support Arg1:T210 Arg2:T215
+R325	Attack Arg1:T205 Arg2:T208
+R326	Attack Arg1:T205 Arg2:T209
+R327	Attack Arg1:T205 Arg2:T210
+R328	Support Arg1:T205 Arg2:T206
+R329	Attack Arg1:T206 Arg2:T208
+R330	Attack Arg1:T206 Arg2:T209
+R331	Support Arg1:T206 Arg2:T210
+R332	Attack Arg1:T207 Arg2:T206
+R333	Attack Arg1:T207 Arg2:T205
+R334	Attack Arg1:T224 Arg2:T200
+R335	Attack Arg1:T225 Arg2:T200
+R336	Support Arg1:T226 Arg2:T227
+R337	Support Arg1:T224 Arg2:T226
+R338	Support Arg1:T225 Arg2:T226
+R339	Support Arg1:T224 Arg2:T227
+R340	Support Arg1:T225 Arg2:T227
+R341	Attack Arg1:T228 Arg2:T205
+R342	Attack Arg1:T228 Arg2:T206
+R343	Attack Arg1:T228 Arg2:T207
+R344	Support Arg1:T228 Arg2:T233
+R345	Support Arg1:T229 Arg2:T233
+R346	Support Arg1:T230 Arg2:T231
+R347	Support Arg1:T230 Arg2:T233
+R348	Support Arg1:T231 Arg2:T233
+R349	Support Arg1:T232 Arg2:T233
+R350	Support Arg1:T174 Arg2:T233
+R351	Support Arg1:T234 Arg2:T174
+R352	Support Arg1:T234 Arg2:T233
+R353	Support Arg1:T235 Arg2:T174
+R354	Support Arg1:T235 Arg2:T233
+R355	Support Arg1:T236 Arg2:T235
+R356	Support Arg1:T236 Arg2:T174
+R357	Support Arg1:T236 Arg2:T233
+R358	Support Arg1:T233 Arg2:T237
+R359	Support Arg1:T237 Arg2:T238
+R360	Support Arg1:T187 Arg2:T186
+R361	Support Arg1:T242 Arg2:T175
+R362	Support Arg1:T244 Arg2:T242
+R363	Support Arg1:T243 Arg2:T175
+R364	Support Arg1:T244 Arg2:T175
+R365	Support Arg1:T243 Arg2:T245
+R366	Support Arg1:T245 Arg2:T175
+R367	Support Arg1:T175 Arg2:T246
+R368	Support Arg1:T245 Arg2:T247
+R369	Support Arg1:T247 Arg2:T246
+R370	Support Arg1:T239 Arg2:T246
+R371	Support Arg1:T240 Arg2:T246
+R372	Support Arg1:T246 Arg2:T241
+R373	Support Arg1:T248 Arg2:T249
+R374	Support Arg1:T253 Arg2:T256
+R375	Support Arg1:T254 Arg2:T256
+R376	Support Arg1:T255 Arg2:T256
+R377	Support Arg1:T257 Arg2:T256
+R378	Support Arg1:T258 Arg2:T256
+R379	Support Arg1:T257 Arg2:T258
+R380	Support Arg1:T252 Arg2:T251
+R381	Support Arg1:T251 Arg2:T240
+R382	Support Arg1:T251 Arg2:T241
+R383	Support Arg1:T259 Arg2:T260
+R384	Support Arg1:T260 Arg2:T261
+R385	Attack Arg1:T261 Arg2:T262
+R386	Attack Arg1:T260 Arg2:T262
+R387	Attack Arg1:T259 Arg2:T262
+R388	Support Arg1:T263 Arg2:T262
+R389	Support Arg1:T263 Arg2:T264
+R390	Support Arg1:T265 Arg2:T264
+R391	Support Arg1:T267 Arg2:T266
+R392	Support Arg1:T268 Arg2:T266
+R393	Support Arg1:T269 Arg2:T266
+R394	Support Arg1:T269 Arg2:T270
+R395	Support Arg1:T270 Arg2:T271
+R396	Support Arg1:T270 Arg2:T266
+R397	Support Arg1:T271 Arg2:T266
+R398	Support Arg1:T272 Arg2:T266
+R399	Support Arg1:T272 Arg2:T273
+R400	Support Arg1:T273 Arg2:T274
+R401	Support Arg1:T273 Arg2:T266
+R402	Support Arg1:T274 Arg2:T266
+R403	Support Arg1:T274 Arg2:T275
+R404	Attack Arg1:T275 Arg2:T266
+R405	Attack Arg1:T276 Arg2:T264
+R406	Support Arg1:T277 Arg2:T276
+R407	Support Arg1:T279 Arg2:T278
+R408	Support Arg1:T281 Arg2:T280
+R409	Support Arg1:T283 Arg2:T280
+R410	Attack Arg1:T283 Arg2:T282
+R411	Support Arg1:T284 Arg2:T285
+R412	Support Arg1:T284 Arg2:T288
+R413	Support Arg1:T285 Arg2:T288
+R414	Attack Arg1:T286 Arg2:T287
+R415	Support Arg1:T286 Arg2:T288
+R416	Support Arg1:T288 Arg2:T289
+R417	Support Arg1:T286 Arg2:T289
+R418	Support Arg1:T290 Arg2:T291
+R419	Support Arg1:T289 Arg2:T290
+R420	Attack Arg1:T292 Arg2:T290
+R421	Support Arg1:T293 Arg2:T292
+R422	Support Arg1:T294 Arg2:T292
+R423	Support Arg1:T292 Arg2:T295
+R424	Support Arg1:T534 Arg2:T295
+R425	Attack Arg1:T534 Arg2:T290
+R426	Support Arg1:T301 Arg2:T300
+R427	Support Arg1:T302 Arg2:T300
+R428	Support Arg1:T308 Arg2:T307
+R429	Support Arg1:T309 Arg2:T307
+R430	Support Arg1:T310 Arg2:T307
+R431	Support Arg1:T311 Arg2:T307
+R432	Support Arg1:T307 Arg2:T313
+R433	Attack Arg1:T322 Arg2:T307
+R434	Support Arg1:T317 Arg2:T322
+R435	Support Arg1:T318 Arg2:T322
+R436	Support Arg1:T314 Arg2:T316
+R437	Support Arg1:T313 Arg2:T316
+R438	Support Arg1:T316 Arg2:T305
+R439	Support Arg1:T305 Arg2:T312
+R440	Attack Arg1:T316 Arg2:T304
+R441	Attack Arg1:T304 Arg2:T307
+R442	Support Arg1:T324 Arg2:T323
+R443	Support Arg1:T325 Arg2:T323
+R444	Support Arg1:T323 Arg2:T326
+R445	Support Arg1:T327 Arg2:T326
+R446	Support Arg1:T328 Arg2:T329
+R447	Attack Arg1:T329 Arg2:T307
+R448	Support Arg1:T330 Arg2:T329
+R449	Attack Arg1:T330 Arg2:T306
+R450	Support Arg1:T331 Arg2:T332
+R451	Attack Arg1:T333 Arg2:T326
+R452	Support Arg1:T334 Arg2:T335
+R453	Support Arg1:T334 Arg2:T332
+R454	Support Arg1:T335 Arg2:T332
+R455	Support Arg1:T336 Arg2:T332
+R456	Attack Arg1:T332 Arg2:T344
+R457	Support Arg1:T333 Arg2:T344
+R458	Attack Arg1:T341 Arg2:T340
+R459	Attack Arg1:T342 Arg2:T340
+R460	Support Arg1:T344 Arg2:T340
+R461	Attack Arg1:T343 Arg2:T337
+R462	Support Arg1:T343 Arg2:T338
+R463	Support Arg1:T344 Arg2:T337
+R464	Support Arg1:T342 Arg2:T337
+R465	Support Arg1:T338 Arg2:T339
+R466	Attack Arg1:T339 Arg2:T337
+R467	Attack Arg1:T339 Arg2:T342
+R468	Support Arg1:T339 Arg2:T340
+R469	Support Arg1:T348 Arg2:T347
+R470	Support Arg1:T349 Arg2:T350
+R471	Support Arg1:T349 Arg2:T346
+R472	Support Arg1:T350 Arg2:T346
+R473	Support Arg1:T351 Arg2:T346
+R474	Support Arg1:T353 Arg2:T346
+R475	Attack Arg1:T346 Arg2:T347
+R476	Support Arg1:T358 Arg2:T359
+R477	Support Arg1:T359 Arg2:T360
+R478	Support Arg1:T360 Arg2:T361
+R479	Support Arg1:T359 Arg2:T361
+R480	Support Arg1:T358 Arg2:T361
+R481	Support Arg1:T361 Arg2:T362
+R482	Support Arg1:T355 Arg2:T362
+R483	Support Arg1:T361 Arg2:T355
+R484	Support Arg1:T363 Arg2:T369
+R485	Support Arg1:T364 Arg2:T369
+R486	Support Arg1:T365 Arg2:T369
+R487	Support Arg1:T366 Arg2:T369
+R488	Support Arg1:T367 Arg2:T369
+R489	Support Arg1:T362 Arg2:T369
+R490	Support Arg1:T355 Arg2:T369
+R491	Attack Arg1:T369 Arg2:T356
+R492	Support Arg1:T356 Arg2:T357
+R493	Attack Arg1:T369 Arg2:T357
+R494	Attack Arg1:T371 Arg2:T370
+R495	Support Arg1:T372 Arg2:T355
+R496	Support Arg1:T374 Arg2:T372
+R497	Support Arg1:T372 Arg2:T375
+R498	Support Arg1:T375 Arg2:T357
+R499	Support Arg1:T375 Arg2:T376
+R500	Support Arg1:T377 Arg2:T375
+R501	Support Arg1:T541 Arg2:T539
+R502	Support Arg1:T541 Arg2:T2
+R503	Support Arg1:T541 Arg2:T542
+R504	Support Arg1:T542 Arg2:T2
+R505	Support Arg1:T543 Arg2:T16
+R506	Support Arg1:T544 Arg2:T540
+R507	Support Arg1:T23 Arg2:T543
+R508	Support Arg1:T540 Arg2:T543
+R509	Support Arg1:T544 Arg2:T23
+R510	Support Arg1:T19 Arg2:T544
+R511	Attack Arg1:T25 Arg2:T544
+R512	Attack Arg1:T29 Arg2:T28
+R513	Attack Arg1:T29 Arg2:T27
+R514	Attack Arg1:T29 Arg2:T26
+R515	Attack Arg1:T29 Arg2:T36
+R516	Attack Arg1:T48 Arg2:T545
+R517	Support Arg1:T64 Arg2:T48
+R518	Support Arg1:T63 Arg2:T48
+R519	Attack Arg1:T62 Arg2:T545
+R520	Support Arg1:T62 Arg2:T54
+R521	Attack Arg1:T65 Arg2:T51
+R522	Support Arg1:T66 Arg2:T65
+R523	Support Arg1:T68 Arg2:T65
+R524	Support Arg1:T73 Arg2:T72
+R525	Support Arg1:T73 Arg2:T74
+R526	Support Arg1:T48 Arg2:T62
+R527	Support Arg1:T546 Arg2:T82
+R528	Support Arg1:T139 Arg2:T547
+R529	Attack Arg1:T547 Arg2:T84
+R530	Support Arg1:T548 Arg2:T549
+R531	Attack Arg1:T549 Arg2:T108
+R532	Support Arg1:T136 Arg2:T549
+R533	Support Arg1:T141 Arg2:T133
+R534	Support Arg1:T142 Arg2:T140
+R535	Support Arg1:T143 Arg2:T144
+R536	Support Arg1:T144 Arg2:T140
+R537	Support Arg1:T145 Arg2:T140
+R538	Support Arg1:T148 Arg2:T140
+R539	Attack Arg1:T151 Arg2:T550
+R540	Attack Arg1:T152 Arg2:T550
+R541	Attack Arg1:T156 Arg2:T550
+R542	Attack Arg1:T158 Arg2:T551
+R543	Attack Arg1:T159 Arg2:T551
+R544	Attack Arg1:T160 Arg2:T551
+R545	Attack Arg1:T163 Arg2:T551
+R546	Attack Arg1:T161 Arg2:T551
+R547	Support Arg1:T164 Arg2:T158
+R548	Support Arg1:T170 Arg2:T552
+R549	Attack Arg1:T553 Arg2:T160
+R550	Attack Arg1:T553 Arg2:T159
+R551	Attack Arg1:T553 Arg2:T158
+R552	Attack Arg1:T552 Arg2:T163
+R553	Support Arg1:T180 Arg2:T181
+R554	Support Arg1:T193 Arg2:T192
+R555	Support Arg1:T194 Arg2:T192
+R556	Support Arg1:T195 Arg2:T192
+R557	Support Arg1:T199 Arg2:T192
+R558	Support Arg1:T197 Arg2:T192
+R559	Support Arg1:T196 Arg2:T192
+R560	Support Arg1:T554 Arg2:T200
+R561	Attack Arg1:T215 Arg2:T554
+R562	Support Arg1:T223 Arg2:T222
+R563	Support Arg1:T221 Arg2:T222
+R564	Support Arg1:T250 Arg2:T246
+R565	Support Arg1:T250 Arg2:T175
+R566	Support Arg1:T258 Arg2:T555
+R567	Support Arg1:T252 Arg2:T250
+R568	Support Arg1:T264 Arg2:T556
+R569	Support Arg1:T263 Arg2:T556
+R570	Attack Arg1:T276 Arg2:T556
+R571	Support Arg1:T557 Arg2:T558
+R572	Support Arg1:T276 Arg2:T558
+R573	Support Arg1:T559 Arg2:T278
+R574	Attack Arg1:T560 Arg2:T280
+R575	Support Arg1:T560 Arg2:T282
+R576	Support Arg1:T296 Arg2:T563
+R577	Support Arg1:T297 Arg2:T563
+R578	Support Arg1:T299 Arg2:T563
+R579	Support Arg1:T561 Arg2:T563
+R580	Support Arg1:T302 Arg2:T563
+R581	Support Arg1:T562 Arg2:T563
+R582	Support Arg1:T564 Arg2:T331
+R583	Support Arg1:T564 Arg2:T332
+R584	Support Arg1:T565 Arg2:T346
+R585	Support Arg1:T353 Arg2:T565
+R586	Support Arg1:T351 Arg2:T565
+R587	Support Arg1:T350 Arg2:T565
+R588	Support Arg1:T349 Arg2:T565
+R589	Attack Arg1:T565 Arg2:T347
+R590	Support Arg1:T566 Arg2:T375
+R591	Support Arg1:T567 Arg2:T375
+R592	Support Arg1:T567 Arg2:T376
+R593	Support Arg1:T568 Arg2:T375
+R594	Support Arg1:T570 Arg2:T569
+R595	Support Arg1:T572 Arg2:T571
+R596	Attack Arg1:T569 Arg2:T571
+R597	Support Arg1:T573 Arg2:T598
+R598	Support Arg1:T598 Arg2:T403
+R599	Support Arg1:T571 Arg2:T403
+R600	Support Arg1:T576 Arg2:T575
+R601	Support Arg1:T574 Arg2:T569
+R602	Attack Arg1:T576 Arg2:T574
+R603	Support Arg1:T575 Arg2:T571
+R604	Support Arg1:T410 Arg2:T575
+R605	Support Arg1:T413 Arg2:T577
+R606	Attack Arg1:T412 Arg2:T577
+R607	Support Arg1:T578 Arg2:T425
+R608	Support Arg1:T579 Arg2:T426
+R609	Support Arg1:T580 Arg2:T581
+R610	Attack Arg1:T581 Arg2:T582
+R611	Attack Arg1:T580 Arg2:T582
+R612	Support Arg1:T446 Arg2:T449
+R613	Support Arg1:T585 Arg2:T450
+R614	Support Arg1:T449 Arg2:T583
+R615	Support Arg1:T451 Arg2:T583
+R616	Support Arg1:T584 Arg2:T583
+R617	Support Arg1:T588 Arg2:T589
+R618	Support Arg1:T476 Arg2:T586
+R619	Support Arg1:T586 Arg2:T587
+R620	Support Arg1:T587 Arg2:T589
+R621	Attack Arg1:T477 Arg2:T588
+R622	Support Arg1:T586 Arg2:T477
+R623	Support Arg1:T587 Arg2:T477
+R624	Support Arg1:T494 Arg2:T590
+R625	Attack Arg1:T590 Arg2:T495
+R626	Support Arg1:T496 Arg2:T590
+R627	Support Arg1:T497 Arg2:T590
+R628	Attack Arg1:T590 Arg2:T498
+R629	Support Arg1:T501 Arg2:T590
+R630	Attack Arg1:T590 Arg2:T502
+R631	Attack Arg1:T593 Arg2:T591
+R632	Attack Arg1:T594 Arg2:T592
+R633	Support Arg1:T508 Arg2:T595
+R634	Support Arg1:T508 Arg2:T594
+R635	Support Arg1:T508 Arg2:T593
+R636	Support Arg1:T596 Arg2:T514
+R637	Support Arg1:T597 Arg2:T524
+R638	Support Arg1:T597 Arg2:T525
+R639	Support Arg1:T597 Arg2:T526
+R640	Support Arg1:T597 Arg2:T531
+R641	Support Arg1:T597 Arg2:T532
+R642	Support Arg1:T597 Arg2:T530
+
+

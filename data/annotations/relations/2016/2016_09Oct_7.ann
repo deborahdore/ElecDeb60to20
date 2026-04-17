@@ -12,29 +12,11 @@ T248	Claim 2233 2247	she’s all talk
 T249	Claim 2270 2321	All you have to do is take a look at her Senate run
 T250	Claim 2323 2354	Take a look at upstate New York
 T251	Claim 4497 4556	I want to be the best president I can be for every American
-T252	Claim 4884 4943	You didn’t express regret for using the term deplorables.
-T253	Claim 4970 5049	how can you unite a country if you’ve written off tens of millions of Americans
-T254	Premise 4713 4841	You said that half of Donald Trump’s supporters are, quote, deplorables, racist, sexist, homophobic, xenophobic, Islamophobic.
-T255	Premise 4842 4882	You later said you regretted saying half
 T256	Claim 5146 5184	my argument is not with his supporters
 T257	Premise 5186 5406	It’s with him and with the hateful and divisive campaign that he has run, and the inciting of violence at his rallies, and the very brutal kinds of comments about not just women, but all Americans, all kinds of Americans
 T258	Claim 6859 6894	that’s what you’re getting with her
 T259	Claim 6794 6853	this country cannot take another four years of Barack Obama
 T260	Premise 6761 6788	she’s got tremendous hatred
-T261	Claim 7286 7325	Is that the discipline of a good leader
-T262	Premise 7053 7138	You said, if a leader doesn’t have it, quote, he or she won’t be one for very long.
-T263	Premise 7139 7284	In the days after the first debate, you sent out a series of tweets from 3 a.m. to 5 a.m., including one that told people to check out a sex tape
-T264	Premise 6942 7051	In 2008, you wrote in one of your books that the most important characteristic of a good leader is discipline
-T266	Claim 7338 7371	there wasn’t check out a sex tape
-T267	Premise 7373 7482	It was just take a look at the person that she built up to be this wonderful Girl Scout who was no Girl Scout
-T268	Claim 8348 8383	she shouldn’t be talking about that
-T269	Premise 8235 8332	the only one she talked to was Sidney Blumenthal, who’s her friend and not a good guy, by the way
-T270	Premise 8184 8229	Ambassador Stevens sent 600 requests for help
-T271	Premise 7882 7932	she said she was awake at 3 o’clock in the morning
-T272	Premise 7938 7991	she also sent a tweet out at 3 o’clock in the morning
-T273	Claim 7997 8022	I won’t even mention that
-T274	Premise 8028 8052	she said she’ll be awake
-T276	Claim 8827 8851	I’m shocked to hear that
 T277	Claim 8879 8903	it’s not only my opinion
 T278	Premise 8905 9015	It’s the opinion of many others, national security experts, Republicans, former Republican members of Congress
 T279	Claim 9149 9332	it’s not just because I watched my husband take a $300 billion deficit and turn it into a $200 billion surplus, and 23 million new jobs were created, and incomes went up for everybody
@@ -85,7 +67,6 @@ T17	Premise 1513 1574	African- Americans now 45 percent poverty in the inner cit
 T18	Premise 1447 1511	You go into the inner cities and — you see it’s 45 percent poverty
 R21	Support Arg1:T17 Arg2:T18
 R22	Attack Arg1:T18 Arg2:T16
-T19	Claim 1576 1603	The education is a disaster
 T20	Claim 1605 1637	Jobs are essentially nonexistent
 T21	Claim 1763 1785	It can’t get any worse
 T22	Premise 1791 1845	she’s been talking about the inner cities for 25 years

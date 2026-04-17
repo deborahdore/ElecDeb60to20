@@ -12,10 +12,6 @@ T8	Premise 1749 2036	This is a town where the White House says, "Congress did it
 R4	Support Arg1:T8 Arg2:T7
 T9	Premise 2042 2127	it used to have our money, the taxpayers' money, in it, and we didn't get the results
 R5	Support Arg1:T9 Arg2:T7
-T10	Claim 2220 2246	it's not quite that simple
-T11	Premise 2286 2363	Both parties in Washington, the President and the Congress, have cut Medicare
-T12	Premise 2365 2501	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965 before Medicare came in
-T13	Premise 2503 2600	The President's got another proposal to require them to pay $400 a year more for the next 5 years
 T14	Premise 2606 2780	if you don't have the guts to control cost by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public sector
 T15	Claim 2782 2808	you can't fix this problem
 R6	Support Arg1:T14 Arg2:T15
@@ -37,7 +33,6 @@ T24	Premise 3607 3684	I am the President that stood up and said, "Don't mess wit
 R13	Attack Arg1:T24 Arg2:T23
 T25	Claim 3689 3721	I'm not going to, and we haven't
 R14	Support Arg1:T24 Arg2:T25
-T26	Claim 3723 3781	We are not going to go after the Social Security recipient
 T27	Claim 3783 3827	I have one difference with Mr. Perot on that
 T28	Premise 3836 3882	I don't think we need to touch Social Security
 R15	Support Arg1:T28 Arg2:T27
@@ -49,6 +44,5 @@ R17	Equivalent Arg1:T31 Arg2:T29
 T32	Claim 4247 4297	I believe that is the way you get the deficit down
 T33	Premise 4299 4409	not by the tax-and-spend program that we hear every 4 years, whether it's Mondale, Dukakis, whoever else it is
 R18	Attack Arg1:T32 Arg2:T33
-T34	Claim 4411 4451	I just don't believe we ought to do that
 T35	Claim 4456 4542	hold the line on Social Security, and put a cap on the growth of the mandatory program
 R19	Equivalent Arg1:T31 Arg2:T35
