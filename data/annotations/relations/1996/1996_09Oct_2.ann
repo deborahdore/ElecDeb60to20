@@ -1,6 +1,0 @@
-T21	Claim 2614 2720	I do not believe that Abraham Lincoln would have adopted Bob Dole's position to end all affirmative action
-T22	Premise 2722 3008	There is a specific measure on the ballot in California. It was embodied in legislation, introduced by Senator Dole, to apply to the whole nation. Mr. Kemp campaigned against it, spoke against it, wrote letters against it, went to California to fight against it, and now has endorsed it
-T23	Claim 3010 3043	I don't think it's a minor matter
-T24	Claim 3045 3140	I think this is one of the most important challenges that our country has to face in the future
-R14	Support Arg1:T22 Arg2:T21
-R15	Support Arg1:T23 Arg2:T24

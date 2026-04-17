@@ -1,6 +1,0 @@
-T786	Claim 2597 2661	how to control the cost of health care: medical liability reform
-T827	Claim 5417 5472	Taxes are going up when you run up the top two brackets
-T1	Claim 2677 2695	which he's opposed
-R32	Attack Arg1:T786 Arg2:T1
-T3	Claim 5474 5485	It's a fact
-R74	Support Arg1:T3 Arg2:T827

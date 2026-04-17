@@ -1,6 +1,0 @@
-T1	Premise 769 808	I think I was on the advisory committee
-T3	Premise 859 983	It's an example of how oftentimes we may be associated with organizations all of whose particular positions we don't support
-T15	Claim 2083 2103	I strongly supported
-T16	Premise 2108 2126	most Democrats did
-R10	Support Arg1:T16 Arg2:T15
-R27	Support Arg1:T1 Arg2:T3

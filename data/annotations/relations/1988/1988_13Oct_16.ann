@@ -1,7 +1,0 @@
-T7	Claim 1614 1745	I would challenge Mr. Gorbachev to join with us in limiting in eliminating regional conflict in the Middle East, in Central America
-T9	Claim 1960 2033	I think that's one reason why we need fresh leadership in the White House
-T10	Premise 2099 2227	Let's go to work and end this fiasco in Central America, a failed policy which has actually increased Cuban and Soviet influence
-R7	Support Arg1:T7 Arg2:T9
-T47	Premise 2034 2097	that can make progress now in bringing peace to the Middle East
-R9	Support Arg1:T47 Arg2:T9
-R10	Support Arg1:T10 Arg2:T9

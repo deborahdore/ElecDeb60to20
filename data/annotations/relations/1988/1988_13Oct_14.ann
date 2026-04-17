@@ -1,8 +1,0 @@
-T1	Premise 917 1001	90 percent reductions in lead since I chaired that regulatory task force; 90 percent
-T2	Premise 1003 1062	It's almost you remember that expression, get the lead out?
-T3	Claim 1063 1078	It's almost out
-T27	Claim 2790 2819	I'm against the grain embargo
-T28	Claim 2821 2836	it was a mistak
-R3	Support Arg1:T2 Arg2:T3
-R4	Support Arg1:T1 Arg2:T3
-R20	Support Arg1:T28 Arg2:T27

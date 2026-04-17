@@ -1,6 +1,0 @@
-T385	Premise 885 1072	I suspended campaigning for two days, or parts of two days, to go back and participate in the meetings that charted the President's summit meeting that he just returned from earlier today
-T392	Claim 2730 2813	I readily admit I'm not going to grow the size of the federal government like he is
-T1	Premise 792 859	for the last eight years I've been on the National Security Council
-R1	Support Arg1:T1 Arg2:T385
-T2	Premise 2673 2728	If this were a spending contest, I would come in second
-R22	Support Arg1:T2 Arg2:T392

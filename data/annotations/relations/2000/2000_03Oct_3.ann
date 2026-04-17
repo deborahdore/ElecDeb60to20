@@ -1,8 +1,0 @@
-T209	Claim 3723 3847	I found one thing in Governor Bush's answer that we certainly agree on, and that's the low income heating assistance program
-T222	Premise 4901 4957	There's an interesting issue up in the northwest as well
-T223	Claim 5012 5054	I'm against removing dams in the northwest
-T1	Premise 3849 3883	I commend you for supporting that.
-R28	Support Arg1:T1 Arg2:T209
-T2	Premise 4959 5011	Do we remove dams that produce hydroelectric energy?
-R40	Support Arg1:T2 Arg2:T223
-R41	Support Arg1:T222 Arg2:T2

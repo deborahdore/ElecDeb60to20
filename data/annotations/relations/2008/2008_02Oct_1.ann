@@ -1,8 +1,0 @@
-T6	Premise 2578 2622	first of all, said there has to be oversight
-T14	Premise 2624 2735	We're not going to write any check to anybody unless there's oversight for the -- of the secretary of Treasury.
-R4	Support Arg1:T6 Arg2:T14
-R5	Support Arg1:T14 Arg2:T5
-T39	Premise 4156 4223	Fear about, how are we going to afford to send our kids to college?
-T49	Premise 4224 4343	A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more peopl
-R17	Support Arg1:T49 Arg2:T16
-R18	Support Arg1:T39 Arg2:T16

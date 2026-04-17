@@ -1,7 +1,0 @@
-T3	Claim 771 873	I think what you can do in that one, and which would be very helpful, is to use a lot more natural gas
-T2	Premise 906 1100	what Mike Dukakis has said is that he'll try to break down those regulatory roadblocks that you have in the regulatory agency that denies much of the passage of that natural gas to the northeast
-T47	Premise 1102 1169	a way, in turn, can fight against acid rain which is another threat
-T48	Premise 1179 1228	it's sterilizing our lakes, it's killing our fish
-R2	Support Arg1:T2 Arg2:T3
-R3	Support Arg1:T47 Arg2:T2
-R4	Support Arg1:T48 Arg2:T47

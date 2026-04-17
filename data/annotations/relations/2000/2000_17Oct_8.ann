@@ -1,8 +1,0 @@
-T438	Claim 3616 3633	Governor, I'm not
-T448	Claim 3875 3950	The federal government has been reduced in size by more than 300,000 people
-T1	Premise 3541 3613	a couple of times the governor has said that I am for a bigger governmen
-R32	Attack Arg1:T438 Arg2:T1
-T2	Premise 3678 3792	For the last eight years I have had the challenge of running the streamlining program called Reinventing Governmen
-T3	Premise 3952 4071	And it's now the smallest number that we have had since the -- the smallest in size since John Kennedy's administration
-R33	Support Arg1:T2 Arg2:T448
-R34	Support Arg1:T3 Arg2:T448

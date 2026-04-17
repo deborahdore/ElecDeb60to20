@@ -1,8 +1,0 @@
-T822	Claim 5024 5070	We can't keep spending and borrowing like this
-T830	Premise 5157 5273	President Obama has not even put a credible plan on the table in any of his four years to deal with this debt crisis
-T856	Claim 8299 8349	Putting ideas on the table, working with Democrats
-T2	Claim 5116 5155	 Leaders run to problem to fix problems
-R25	Support Arg1:T822 Arg2:T2
-R26	Support Arg1:T830 Arg2:T2
-T5	Claim 8353 8382	that actually works sometimes
-R45	Support Arg1:T5 Arg2:T856

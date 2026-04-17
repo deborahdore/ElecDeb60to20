@@ -1,9 +1,0 @@
-T830	Claim 926 949	I really don't think so
-T833	Claim 1101 1129	The Patriot Act is necessary
-T839	Claim 1524 1581	I don't think the Patriot Act abridges your rights at all
-T1	Premise 951 978	I hope you don't think that
-T2	Claim 993 1099	because I think whoever is the president must guard your liberties, must not erode your rights in America.
-R5	Attack Arg1:T830 Arg2:T1
-R6	Support Arg1:T1 Arg2:T2
-R7	Support Arg1:T2 Arg2:T833
-R16	Support Arg1:T839 Arg2:T2

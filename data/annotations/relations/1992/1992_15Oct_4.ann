@@ -1,8 +1,0 @@
-T163	Claim 2857 2885	The ideas I express are mine
-T1	Premise 2543 2573	I don't have any speechwriters
-T2	Premise 2512 2541	I don't have any spin doctors
-R11	Attack Arg1:T163 Arg2:T1
-R12	Attack Arg1:T163 Arg2:T2
-T3	Claim 2639 2682	you don't have to wonder if it's me talking
-R14	Support Arg1:T1 Arg2:T3
-R15	Support Arg1:T2 Arg2:T3

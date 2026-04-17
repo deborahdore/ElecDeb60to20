@@ -1,6 +1,0 @@
-T188	Claim 801 887	I'm very proud of the way that came about and I think it's a very, very good beginning
-T190	Claim 979 1086	it's awful hard to say we're going to go out and spend more money when we're trying to get the deficit down
-T1	Premise 711 756	$150 billion for improving the infrastructure
-R2	Support Arg1:T1 Arg2:T188
-T2	Claim 1092 1135	I would cite that as a major accomplishment
-R5	Attack Arg1:T190 Arg2:T2

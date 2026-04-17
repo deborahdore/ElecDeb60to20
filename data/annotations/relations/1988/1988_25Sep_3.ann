@@ -1,9 +1,0 @@
-T170	Claim 756 808	What I will do is permit people to buy into Medicaid
-T173	Claim 839 933	I am proud to have been part of an administration that past the first catastrophic health bill
-T193	Claim 3226 3360	we did it with the support of the business community and labor and the health care community and with virtually everybody in the state
-T1	Claim 810 837	I believe that's the answer
-T2	Premise 939 1059	in that there are some Medicaid provisions that will be very helpful to the very kind of people we're talking about here
-R5	Support Arg1:T1 Arg2:T170
-R7	Support Arg1:T2 Arg2:T173
-T3	Claim 3362 3509	The fact of the matter is that employers who today are insuring their employees are paying the freight, because they're paying for those who aren't
-R39	Attack Arg1:T193 Arg2:T3

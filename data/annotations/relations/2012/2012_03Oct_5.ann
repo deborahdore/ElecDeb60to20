@@ -1,5 +1,0 @@
-T908	Claim 2572 2601	this is an important election
-T2	Premise 2606 2633	I'm concerned about America
-T3	Premise 2635 2718	I'm concerned about the direction America has been taking over the last four years.
-R20	Support Arg1:T3 Arg2:T2
-R24	Attack Arg1:T2 Arg2:T908

@@ -1,5 +1,0 @@
-T721	Claim 2285 2378	the president, I don't think, is living in a world of reality with respect to the environment
-T1	Premise 2380 2420	Now, if you're a Red Sox fan, that's OK.
-T2	Claim 2421 2456	But if you're a president, it's not
-R21	Attack Arg1:T2 Arg2:T1
-R22	Support Arg1:T1 Arg2:T721

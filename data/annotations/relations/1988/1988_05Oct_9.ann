@@ -1,8 +1,0 @@
-T12	Claim 2063 2115	He is opposed to the death penalty for drug kingpins
-T14	Claim 2307 2402	He also was opposed to mandatory drug sentencing for drug dealers in the state of Massachusetts
-R9	Support Arg1:T14 Arg2:T12
-T15	Claim 2404 2482	You cannot have a war on drugs, you cannot be tough on drugs and weak on crime
-R10	Attack Arg1:T15 Arg2:T14
-T18	Premise 2996 3147	What we have seen under this administration - we have seen them using eight cabinet officers, twenty-eight different agencies, all fighting over turf -
-T19	Claim 3152 3225	that is one thing we would correct under a Dukakis-Bentsen administration
-R11	Support Arg1:T18 Arg2:T19

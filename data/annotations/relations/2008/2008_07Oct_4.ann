@@ -1,7 +1,0 @@
-T391	Claim 3446 3493	We've got to sit down together across the table
-T396	Premise 3734 3808	Senator Obama has never taken on his party leaders on a single major issue
-T1	Premise 3519 3661	I saw it done with our -- our wonderful Ronald Reagan, a conservative from California, and the liberal Democrat Tip O'Neill from Massachusetts
-T2	Premise 3495 3516	It's been done before
-R36	Support Arg1:T1 Arg2:T2
-R35	Support Arg1:T2 Arg2:T391
-R38	Attack Arg1:T1 Arg2:T396

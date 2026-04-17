@@ -1,8 +1,0 @@
-T292	Claim 6249 6321	I am talking of taking the treaty back, and going back into negotiations
-T316	Premise 9831 9905	We have thousands, equivalent of megaton, or million tons, of TNT warheads
-T1	Premise 6051 6216	I would like to point out also that senators like Henry Jackson and Hollings of South Carolina - they are taking the lead in the fight against this particular treaty
-R22	Support Arg1:T1 Arg2:T292
-T2	Claim 9907 9985	The control of these weapons is the single major responsibility of a President
-T3	Claim 9991 10127	to cast out this commitment of all Presidents, because of some slight technicalities that can be corrected, is a very dangerous approach
-R39	Support Arg1:T2 Arg2:T3
-R40	Support Arg1:T316 Arg2:T3

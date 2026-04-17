@@ -1,6 +1,0 @@
-T370	Claim 4537 4630	Anyone I think who can cut off funding for the troops after promising not to is another story
-T1	Premise 2119 2195	Number two, with regard to Barack Obama not -- quote -- "funding the troops,
-T2	Claim 2197 2234	John McCain voted the exact same way.
-R21	Attack Arg1:T2 Arg2:T1
-T3	Premise 4495 4536	Barack Obama though, another story there.
-R40	Attack Arg1:T3 Arg2:T370

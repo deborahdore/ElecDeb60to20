@@ -1,8 +1,0 @@
-T14	Claim 2106 2162	I am going to keep that Social Security Trust Fund sound
-T18	Premise 2724 2782	I voted against that at the National Governors Association
-T19	Premise 2784 2801	We won a majority
-T21	Claim 2930 2947	I've opposed that
-T32	Premise 2375 2434	Keep the trust with the older men and women of this country
-R12	Support Arg1:T32 Arg2:T14
-R16	Support Arg1:T19 Arg2:T18
-R19	Support Arg1:T18 Arg2:T21

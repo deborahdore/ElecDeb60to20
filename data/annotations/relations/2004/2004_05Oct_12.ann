@@ -1,7 +1,0 @@
-T846	Claim 1258 1314	they're going to give you is four more years of the same
-T847	Claim 1317 1363	John Kerry and I believe that we can do better
-T878	Claim 980 986	you do
-T1	Claim 871 905	But that light is flickering today
-R7	Support Arg1:T878 Arg2:T1
-R10	Support Arg1:T846 Arg2:T1
-R11	Support Arg1:T1 Arg2:T847

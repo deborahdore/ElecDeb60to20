@@ -1,8 +1,0 @@
-T71	Premise 2082 2175	He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs
-T72	Claim 2225 2268	My opponent thought there was weapons there
-T102	Claim 3472 3496	He's trying to attack me
-T3	Claim 2178 2216	We all thought there was weapons there
-R18	Support Arg1:T71 Arg2:T3
-R19	Support Arg1:T72 Arg2:T3
-T4	Premise 3452 3471	So what does he do?
-R36	Support Arg1:T4 Arg2:T102

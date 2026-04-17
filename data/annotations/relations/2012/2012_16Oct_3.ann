@@ -1,7 +1,0 @@
-T349	Premise 11549 11619	I was someone who ran businesses for 25 years, and balanced the budget
-T350	Premise 11621 11663	I ran the Olympics and balanced the budget
-T351	Premise 11665 11791	I ran the -- the state of Massachusetts as a governor, to the extent any governor does, and balanced the budget all four years
-T1	Claim 11507 11533	Well of course they add up
-R93	Support Arg1:T349 Arg2:T1
-R94	Support Arg1:T350 Arg2:T1
-R95	Support Arg1:T351 Arg2:T1

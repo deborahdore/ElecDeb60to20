@@ -1,9 +1,0 @@
-T249	Claim 5221 5289	We've seen an administration that has lost much of our market abroad
-T241	Claim 6191 6330	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
-T255	Claim 6500 6643	I'll tell you one way that we're not going to recapture the foreign markets and that is if, in fact, we have another Jimmy Carter grain embargo
-T1	Premise 5028 5120	What you have seen them do is cut the farm assistance for the rural areas by over 50 percent
-T2	Premise 5664 6190	I was in January visiting with Mr. Takeshita, the new Prime Minister of Japan. I said, "You're paying five times as much for beef as we pay for our in country - pay for it in our country, six times as much for rice. You have a $60 billion trade surplus with us. You could improve the standard of living of your people. You're spending 27 percent of your disposable income. We spend 14 or 15 percent." "When you have that kind of barrier up against us, that's not free and fair trade and we don't believe that should continue."
-R29	Support Arg1:T2 Arg2:T241
-R33	Support Arg1:T1 Arg2:T249
-T3	Premise 6684 6754	Jimmy Carter - Jimmy Carter grain embargo set the American farmer back
-R35	Support Arg1:T3 Arg2:T255

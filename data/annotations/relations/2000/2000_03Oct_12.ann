@@ -1,8 +1,0 @@
-T914	Premise 2814 2855	we have a very important decision to make
-T1	Claim 2272 2332	My intentions are to earn your vote and earn your confidence
-T2	Premise 2334 2358	I'm asking for your vote
-R20	Support Arg1:T2 Arg2:T1
-T3	Premise 2360 2387	I want you to be on my team
-R21	Support Arg1:T3 Arg2:T1
-T4	Premise 2857 2933	Will we use the prosperity to enrich all of our families and not just a few?
-R25	Attack Arg1:T914 Arg2:T4

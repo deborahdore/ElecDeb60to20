@@ -1,7 +1,0 @@
-T2	Claim 1579 1605	It's gotten a little nasty
-T3	Premise 1640 1669	I would cite again Dan Quayle
-R1	Support Arg1:T3 Arg2:T2
-T4	Premise 1671 1803	I've been in politics a long time, and I don't remember that kind of piling on, that kind of ugly rumor that never was true, printed
-R2	Support Arg1:T4 Arg2:T3
-T7	Premise 1848 1865	he's in the arena
-R5	Support Arg1:T7 Arg2:T3

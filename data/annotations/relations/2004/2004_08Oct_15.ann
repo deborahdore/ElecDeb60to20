@@ -1,6 +1,0 @@
-T954	Claim 2491 2528	It's one way to help reduce abortions
-T964	Claim 3502 3527	it's just not that simple
-T1	Premise 2324 2399	certainly reasonable people can agree on how to reduce abortions in America
-R24	Support Arg1:T1 Arg2:T954
-T2	Premise 3419 3491	categorically, my opponent is against this, my opponent is against that.
-R41	Attack Arg1:T964 Arg2:T2

@@ -1,9 +1,0 @@
-T461	Claim 286 318	we will do what they've not done
-T500	Claim 4444 4541	We are for more tax cuts for the middle class than they're for, have been for the last four years
-T501	Claim 4547 4597	we are not for more tax cuts for multimillionaires
-T5	Premise 706 862	The Washington Post just reported they have several trillion dollars of additional tax cuts and spending, no suggestion of what they're going to do about it
-R4	Support Arg1:T5 Arg2:T461
-T7	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
-T8	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
-R26	Attack Arg1:T8 Arg2:T501
-R27	Attack Arg1:T7 Arg2:T500

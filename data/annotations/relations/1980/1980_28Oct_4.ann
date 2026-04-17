@@ -1,9 +1,0 @@
-T252	Claim 8229 8467	we all committed ourselves, as have all my predecessors in the Oval Office not to permit the spread of nuclear weapons to a terrorist nation, or to any other nation that does not presently have those weapons or capabilities for explosives
-T253	Claim 8476 8574	not to make any sales of materiel or weapons to a nation which is involved in terrorist activities
-T254	Claim 8589 8739	not to deal with the PLO until and unless the PLO recognizes Israel's right to exist and recognizes UN Resolution 242 as a basis for Middle East peace
-T255	Claim 8069 8217	to stop all air flights - commercial air flights - to any nation involved in terrorism or the hijacking of air planes, or the harboring of hijackers
-T1	Claim 8741 8803	These are a few of the things to which our nation is committed
-R22	Support Arg1:T255 Arg2:T1
-R23	Support Arg1:T252 Arg2:T1
-R24	Support Arg1:T253 Arg2:T1
-R25	Support Arg1:T254 Arg2:T1

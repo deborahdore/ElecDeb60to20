@@ -1,7 +1,0 @@
-T371	Claim 2576 2684	WikiLeaks just actually came out -- John Podesta said some horrible things about you, and, boy, was he right
-T374	Claim 2770 2776	You do
-T379	Claim 3058 3076	I think he's right
-T1	Claim 2532 2564	No, you are the one that's unfit
-R20	Support Arg1:T374 Arg2:T1
-R21	Support Arg1:T371 Arg2:T1
-R26	Attack Arg1:T379 Arg2:T1

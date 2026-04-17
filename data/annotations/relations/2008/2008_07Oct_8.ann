@@ -1,5 +1,0 @@
-T703	Premise 5221 5275	I'm just spouting off, and he's somber and responsible
-T711	Claim 6331 6339	Not true
-T6	Premise 5316 5429	Senator McCain, this is the guy who sang, "Bomb, bomb, bomb Iran," who called for the annihilation of North Korea
-R34	Attack Arg1:T6 Arg2:T703
-R35	Attack Arg1:T711 Arg2:T6
