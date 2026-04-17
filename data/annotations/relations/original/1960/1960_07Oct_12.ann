@@ -1,40 +1,6 @@
-T415	Claim 519 563	I believe strongly in the defense of Formosa
-T417	Claim 799 867	We say we will defend it if it's part of a general attack on Formosa
-T418	Claim 718 797	We have never said flatly that we will defend Quemoy and Matsu if it's attacked
-T419	Claim 873 919	it's extremely difficult to make that judgment
-T421	Premise 1159 1198	General Ridgway has said the same thing
-T422	Premise 1027 1157	Admirals Spruance and Callins in 1955 said that we should not attempt to defend these islands, in their conference in the Far East
-T423	Premise 921 1025	Now, Mr. Herter in 1958, when he was Under Secretary of State, said they were strategically undefensible
-T424	Claim 1340 1478	One of the problems, I think, at the time of South Korea was the question of whether the United States would defend it if it were attacked
-T425	Claim 1480 1519	I believe that we should defend Formosa
-T426	Claim 1521 1550	We should come to its defense
-T427	Premise 1552 1649	To leave this rather in the air, that we will defend it under some conditions but not under other
-T428	Claim 1651 1671	I think is a mistake
-T430	Claim 2558 2674	I do not believe that that line in case of war should be drawn on those islands but instead on the island of Formosa
-T432	Claim 2463 2552	I believe we should meet our commitments to every country whose security we've guaranteed
-T433	Claim 2364 2408	I believe strongly we should do so in Berlin
-T435	Claim 1990 2309	with General Ridgway, Mr. Herter, General Collins, Admiral Spruance and many others, I think it's unwise to take the chance of being dragged into a war which may lead to a world war over two islands which are not strategically defensible, which are not, according to their testimony, essential to the defense of Formosa
-T436	Claim 1816 1941	I believe that we should consult with them and attempt to work out a plan by which the line is drawn at the island of Formosa
-T437	Premise 1943 1984	It leaves a hundred miles between the sea
-T438	Claim 1753 1811	It is a decision finally that the Nationalists should make
-T439	Claim 1683 1751	I would not suggest the withdrawal at the point of the Communist gun
-T440	Claim 2940 2996	I disagree completely with Senator Kennedy on this point
-T441	Claim 3425 3444	it didn't mean that
-T442	Premise 3340 3419	I suppose it was hoped when he made that speech that we wouldn't get into a war
-T443	Premise 3143 3338	Secretary Acheson made a very famous speech at the Press Club, early in the year that k- Korean War started, indicating in effect that South Korea was beyond the defense zone of the United States
-T444	Premise 2998 3109	I remember in the period immediately before the Korean War, South Korea was supposed to be indefensible as well
-T445	Premise 3111 3137	Generals testified to that
-T446	Claim 4154 4213	I would never tolerate it as president of the United States
-T447	Claim 4219 4296	I will hope that Senator Kennedy will change his mind if he should be elected
-T448	Claim 4137 4152	I am against it
-T449	Claim 4039 4135	In my opinion this is the same kind of woolly thinking that led to disaster for America in Korea
-T450	Claim 3910 3949	If we do that we start a chain reaction
 T453	Premise 3446 3479	We had to go in when they came in
 T454	Premise 3481 3621	Now I think as far as Quemoy and Matsu are concerned, that the question is not these two little pieces of real estate - they are unimportant
 T455	Premise 3623 3692	It isn't the few people who live on them - they are not too important
-T456	Claim 3694 3721	It's the principle involved
-T457	Premise 3723 3767	These two islands are in the area of freedom
-T458	Premise 3769 3808	The Nationalists have these two islands
 R1	Support Arg1:T417 Arg2:T418
 R3	Equivalent Arg1:T426 Arg2:T425
 R4	Equivalent Arg1:T425 Arg2:T415

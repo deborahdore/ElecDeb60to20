@@ -1,31 +1,4 @@
-T31	Claim 443 581	In my judgment that statement has been distorted uh - by Mr. Nixon and others in their debates around the country and in their discussions
-T33	Claim 805 855	they were not in accordance with international law
-T34	Premise 722 799	The U-2 flights were proper from the point of view of protecting our security
-T37	Claim 1810 1856	That is the accepted procedure between nations
-T38	Premise 1571 1651	We expressed regrets for a flight over Eastern Germany under this Administration
-T39	Premise 1653 1730	The Soviet Union in 1955 expressed regrets to us over the Bering Sea incident
-T40	Premise 1732 1808	The Chinese Communists expressed regrets to us over a plane incident in 1956
-T41	Claim 1862 1993	my judgment is that we should follow the advice of Theodore Roosevelt: Be strong; maintain a strong position; but also speak softly
-T42	Claim 1995 2130	I believe that in those cases where international custom calls for the expression of a regret, if that would have kept the summit going
-T43	Claim 2132 2169	in my judgment it was a proper action
-T44	Claim 2171 2191	It's not appeasement
-T45	Claim 2193 2206	It's not soft
-T46	Claim 2208 2255	I believe we should be stronger than we now are
-T47	Claim 2257 2307	I believe we should have a stronger military force
-T48	Claim 2309 2369	I believe we should increase our strength all over the world
-T49	Claim 2375 2410	I don't confuse words with strength
-T52	Premise 2972 3019	He knew these flights were going on long before
-T53	Claim 3024 3078	that wasn't the reason that he broke up the conference
-T54	Claim 3080 3129	Second, he's wrong in the analogies that he makes
-T55	Claim 3170 3206	Whenever we do anything that's wrong
-T56	Claim 4189 4403	I don't intend ever to express regrets to Mr. Khrushchev or anybody else if I'm doing something that has the support of the Congress and that is right for the purpose of protecting the security of the United States
-T57	Claim 4013 4183	I don't intend to see to it that the United States is ever in a position where, while we're negotiating with the Soviet Union, that we discontinue our intelligence effort
-T58	Claim 3915 4011	I just want to make my position absolutely clear with regard to getting intelligence information
-T59	Claim 3873 3909	We cannot afford an intelligence gap
-T60	Claim 3741 3802	This seems to me is criticism that again is wrong on his part
-T61	Claim 3236 3488	when the president of the United States is doing something that's right, something that is for the purpose of defending the security of this country against surprise attack, he can never express regrets or apologize to anybody, including Mr. Khrushchev
 T62	Premise 3490 3606	Now in that connection Senator Kennedy has criticized the President on the ground not only of not expressing regrets
-T63	Premise 3620 3739	he allowed this flight to take place while the summit conference - or immediately before the summit conference occurred
 R3	Support Arg1:T40 Arg2:T37
 R4	Support Arg1:T39 Arg2:T37
 R5	Support Arg1:T38 Arg2:T37

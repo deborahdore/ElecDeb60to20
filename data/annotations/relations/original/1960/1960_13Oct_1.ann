@@ -1,27 +1,7 @@
-T2	Premise 2523 2629	we have a contractual right to be in Berlin coming out of the conversations at Potsdam and of World War II
-T3	Premise 2631 2715	That has been reinforced by direct commitments of the president of the United States
-T4	Premise 2717 2777	it's been reinforced by a number of other nations under NATO
-T1	Premise 2779 2866	I've stated on many occasions that the United States must meet its commitment on Berlin
 T5	Premise 2868 2964	It is a commitment that we have to meet if we're going to protect the security of Western Europe
-T6	Claim 2997 3062	I don't think that there is any doubt in the mind of any American
-T7	Claim 3064 3151	I hope there is not any doubt in the mind of any member of the community of West Berlin
-T8	Claim 3153 3211	I'm sure there isn't any doubt in the mind of the Russians
-T9	Claim 3213 3297	We will meet our commitments to maintain the freedom and independence of West Berlin
 T11	Premise 3386 3574	the statement that Senator Kennedy made was that - to the effect that there were trigger-happy Republicans, that my stand on Quemoy and Matsu was an indication of trigger-happy Republicans
-T13	Claim 3576 3597	I resent that comment
-T14	Claim 3599 3610	I resent it
-T15	Premise 3623 3683	it's an implication that Republicans have been trigger-happy
-T16	Claim 3700 3731	would lead this nation into war
-T17	Claim 4375 4439	there isn't any question about the necessity of defending Berlin
 T18	Premise 4441 4478	the rights of people there to be free
-T19	Claim 4484 4664	there isn't any question about what the united American people - Republicans and Democrats alike - would do in the event there were an attempt by the Communists to take over Berlin
-T20	Premise 4290 4307	We've been strong
 T21	Claim 4313 4342	we haven't been trigger-happy
-T22	Premise 4178 4196	We got rid of that
-T23	Premise 4198 4226	we've kept out of other wars
-T24	Claim 4242 4288	that doesn't indicate that we're trigger-happy
-T25	Premise 4132 4176	We had a war when we came into power in 1953
-T465	Premise 2166 2308	yesterday you used the words "trigger-happy" in referring to Vice President Richard Nixon's stand on defending the islands of Quemoy and Matsu
 R1	Support Arg1:T3 Arg2:T2
 R2	Support Arg1:T4 Arg2:T2
 R6	Support Arg1:T2 Arg2:T9

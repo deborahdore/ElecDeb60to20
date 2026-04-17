@@ -1,35 +1,15 @@
-T229	Claim 809 880	I have a basic disagreement with Senator Kennedy, though, on this point
-T232	Claim 1326 1398	I do not believe we should have either compulsory arbitration or seizure
-T239	Premise 2045 2118	The record in handling them has been very good during this Administration
 T240	Premise 2120 2245	We have had less man-hours lost by strikes in these last seven years than we had in the previous seven years, by a great deal
 T241	Claim 2275 2324	however good the record is, it's got to be better
 T245	Premise 2532 2656	We cannot afford stoppages of massive effect on the economy when we're in the terrible competition we're in with the Soviets
-T246	Claim 2706 2797	I always have difficulty recognizing my positions when they're stated by the Vice President
-T247	Claim 2799 2893	I never suggested that compulsory arbitration was the solution for national emergency disputes
-T248	Premise 2895 2950	I'm opposed to that, was opposed to it in October, 1958
 T249	Claim 2952 3144	I have suggested that the president should be given other weapons to protect the national interest in case of national emergency strikes beyond the injunction provision of the Taft-Hartley Act
-T250	Premise 3146 3213	I don't know what other weapons the Vice President is talking about
-T251	Premise 3215 3347	I'm talking about giving him four or five tools - not only the fact-finding committee that he now has under the injunction provision
-T252	Premise 3349 3372	not only the injunction
 T253	Premise 3383 3447	the power of the fact-finding commission to make recommendations
 T254	Premise 3450 3563	recommendations which would not be binding, but nevertheless would have great force of public opinion behind them
-T255	Claim 3565 3631	One of the additional powers that I would suggest would be seizure
 T256	Claim 3633 3654	There might be others
-T257	Premise 3656 3757	By the president having five powers - four or five powers - and he only has very limited powers today
-T258	Premise 3759 3832	neither the company nor the union would be sure which power would be used
 T259	Claim 3838 3966	therefore, there would be a greater incentive on both sides to reach an agreement themselves without taking it to the government
-T260	Claim 3968 4029	The difficulty now is the president's course is quite limited
-T261	Premise 4031 4069	He can set up a fact-finding committee
-T262	Premise 4071 4118	The fact-finding committee's powers are limited
-T263	Premise 4120 4223	He can provide an injunction if there's a national emergency for eighty days, then the strike can go on
 T264	Premise 4229 4326	there are no other powers or actions that the president could take unless he went to the Congress
-T265	Claim 4328 4368	This is a difficult and sensitive matter
 T266	Claim 4402 4459	the president should have a variety of things he could do
-T267	Premise 4461 4525	He could leave the parties in doubt as to which one he would use
 T268	Premise 4541 4636	there would be incentive, instead of as now - the steel companies were ready to take the strike
-T269	Premise 4645 4727	they felt the injunction of eighty days would break the union, which didn't happen
 T144	Premise 1090 1324	I understand in his last speech before the Steelworkers Union, that he changed that position and indicated that he felt that government seizure might be the best way to stop a strike which could not be settled by collective bargaining
-T176	Claim 1932 2013	would enable him to be more effective than we have been in handling these strikes
 T1	Claim 588 802	I believe that in this area, the laws which should be passed uh - as far as the big national emergency strikes are concerned, are ones that will give the president more weapons with which to deal with those strikes
 R2	Attack Arg1:T232 Arg2:T144
 R7	Support Arg1:T176 Arg2:T1

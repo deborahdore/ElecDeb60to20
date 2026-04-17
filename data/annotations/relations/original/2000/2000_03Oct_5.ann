@@ -1,49 +1,4 @@
-T320	Claim 458 648	I think we should support the people of Serbia and Yugoslavia, as they call the Serbia plus Montenegro, and put pressure in every way possible to recognize the lawful outcome of the election
-T321	Premise 239 270	Milosevic has lost the election
-T322	Premise 272 317	His opponent, Kostunica, has won the election
-T323	Premise 319 336	It's overwhelming
-T324	Premise 338 394	Milosevic's government refuses to release the vote count
-T325	Premise 396 433	There's now a general strike going on
-T326	Premise 435 456	They're demonstrating
-T327	Premise 650 728	The people of Serbia have acted very bravely in kicking this guy out of office
-T328	Premise 730 877	Now he is trying to not release the votes and then go straight to a so-called runoff election without even announcing the results of the first vote
-T329	Claim 1044 1119	That is a very strong incentive that we've given them to do the right thing
-T330	Premise 884 1042	we've made it clear, along with our allies, that when Milosevic leaves, then Serbia will be able to have a more normal relationship with the rest of the world
-T331	Claim 1190 1235	he should be held accountable for his actions
-T332	Premise 1140 1185	Milosevic has been indicted as a war criminal
-T333	Claim 1242 1272	we have to take measured steps
-T334	Claim 1281 1366	the sentiment within Serbia is, for understandable reasons, against the United States
-T335	Premise 1375 1497	their nationalism -- even if they don't like Milosevic, they still have some feelings lingering from the NATO action there
-T336	Claim 1502 1553	we have to be intelligent in the way we go about it
-T337	Claim 1585 1707	we should do everything we can to see that the will of the Serbian people expressed in this extraordinary election is done
-T338	Claim 1883 1910	It's time for the man to go
-T339	Premise 1926 2003	the United States must have a strong diplomatic hand with our friends in NATO
-T340	Claim 2563 2593	It's time for the man to leave
-T341	Claim 2016 2133	it's important to make sure our alliances are as strong as they possibly can be to keep the pressure on Mr. Milosevic
-T342	Claim 2139 2218	this will be an interesting moment for the Russians to step up and lead as well
-T343	Claim 2220 2387	Be a wonderful time for the Russians to step into the Balkans and convince Mr. Milosevic that it's in his best interest and his country's best interest to leave office
-T344	Premise 2389 2446	The Russians have a lot of sway in that part of the world
-T345	Premise 2448 2531	We would like to see the Russians use that sway to encourage democracy to take hold
-T346	Premise 2533 2561	It's an encouraging election
-T347	Claim 2867 2899	In this particular situation, no
-T348	Premise 2919 2979	we have a lot of sanctions in force against Serbia right now
-T349	Premise 2985 3086	the people of Serbia know that they can escape all those sanctions if this guy is turned out of power
-T350	Claim 3560 3590	I think that's the wrong thing
-T351	Claim 3592 3646	I think the governor's instinct is not necessarily bad
-T352	Premise 3655 3759	we have worked with the Russians in a constructive way in Kosovo, for example, to end the conflict there
-T353	Claim 3765 3889	I think we need to be very careful in the present situation before we invite the Russians to play the lead role in mediating
-T354	Claim 3913 3941	we wouldn't use the Russians
-T355	Premise 3942 3978	if they didn't agree with our answer
 T356	Claim 4007 4019	They donâ€™t
-T357	Claim 4052 4072	I wouldn't use force
-T360	Premise 3244 3334	they have not yet been willing to recognize Kostunica as the lawful winner of the election
-T361	Claim 3336 3438	I'm not sure it's right for us to invite the president of Russia to mediate this -- this dispute there
-T362	Premise 3447 3499	we might not like the results that comes out of that
-T363	Premise 3501 3558	They currently favor going forward with a runoff election
-T364	Claim 4165 4224	It's not in our national interest to use force in this case
-T365	Claim 4226 4260	I would use pressure and diplomacy
-T366	Premise 4350 4419	It's up to the people in this region to take control of their country
-T367	Premise 4262 4348	There is a difference with what the president did in Kosovo which I supported and this
 T1	Claim 4074 4094	I wouldn't use force
 R1	Support Arg1:T321 Arg2:T322
 R2	Support Arg1:T323 Arg2:T322

@@ -1,35 +1,7 @@
-T80	Claim 777 877	the first way we will do that is by supporting the Equal Pay Act which has been proposed in Congress
-T81	Claim 878 1006	which gives women the right to file legal actions against employers who are not treating them fairly and not paying them equally
-T83	Premise 568 662	Al Gore and I have issued an economic plan in which we've stated specific goals for the future
-T84	Claim 668 736	one of those goals is to eliminate the pay gap between men and women
-T85	Premise 738 771	It's unfair and it's unacceptable
 T86	Claim 307 420	fortunately, great advances have been made by women achieving the kind of equality that they were too long denied
-T87	Premise 474 566	actually the number I have received 72 cents for every $1 a man receives in a comparable job
-T88	Claim 1265 1350	there are other civil rights and human rights laws that I think can come to play here
-T89	Premise 1368 1412	this is an unfair and unacceptable situation
-T90	Claim 1641 1692	we've not achieved genuine equality in this country
-T91	Premise 1418 1540	even though, as the economy has risen in the last eight years, America's women have risen with it and received more income
-T92	Premise 1542 1639	until women are receiving the same amount of pay for the same job they're doing as a man receives
-T93	Claim 1694 1769	Al Gore and I are committed to closing that gap and achieving that equality
 T94	Premise 1771 1852	In so many families women are a significant bread earner or the only bread earner
-T95	Premise 1857 1894	this cause affects not only the women
-T96	Claim 1900 1933	families and the children as well
-T97	Premise 1966 2060	I share the view that we ought to have equal pay for equal work regardless of someone's gender
-T98	Premise 2062 2099	We have made progress in recent years
-T99	Claim 2105 2133	I think we have a ways to go
-T100	Claim 3141 3202	The proposal we have from Al Gore, basically, doesn't do that
-T101	Premise 2646 2748	we're trying to change and address in the course of the campaign and what our agenda is for the future
-T102	Claim 2750 2858	our plans are for the future, focus very much about giving as much control as we can to individual Americans
-T103	Premise 2860 2907	be they men or women, be they single or married
-T104	Claim 2909 2957	as much control as possible over their own lives
-T105	Premise 2959 2993	especially in the area of taxation
-T106	Premise 2135 2193	It's not just about the differential with respect to women
 T107	Premise 2195 2419	If you look at our opponent's tax proposal, they discriminate between stay-at-home moms with children that they take care of themselves and those who go to work or who, in fact, have their kids taken care of outside the home
 T108	Claim 2542 2604	It provides tax relief for absolutely everybody who pays taxes
-T110	Claim 3256 3417	If you live your life the way they want you to live your life, if you behave in a certain way, you qualify for a tax credit and at that point you get some relief
-T111	Premise 3443 3536	50 million American taxpayers out there get no advantages at all out of the Gore tax proposal
-T112	Claim 3538 3610	whereas under the Bush plan everybody who pays taxes will get tax relief
-T113	Claim 3204 3254	It in effect lays out some 29 separate tax credits
 T1	Question 43 235	Gentlemen, this is the 21st Century. Yet on average an American working woman in our great nation earns 75 cents for each $1 earned by a working male. What do you males propose to do about it?
 R1	Support Arg1:T87 Arg2:T86
 R2	Support Arg1:T83 Arg2:T84

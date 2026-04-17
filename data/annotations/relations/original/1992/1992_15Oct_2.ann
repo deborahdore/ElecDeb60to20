@@ -1,48 +1,5 @@
-T54	Claim 773 840	I think we can bring it down by 50% in 4 years and grow the economy
-T55	Premise 847 906	I could get rid of it in 4 years in theory on the books now
-T56	Premise 912 1005	to do it you'd have to raise taxes too much and cut benefits too much to people who need them
-T57	Claim 1010 1046	it would even make the economy worse
-T58	Claim 1863 1927	I don't think a president should be judged solely on the deficit
-T59	Premise 674 723	the deficit now has been building up for 12 years
-T60	Claim 1753 1804	If you don't grow the economy you can't get it done
-T61	Premise 1810 1857	I can't foresee all the things that will happen
-T62	Premise 1554 1751	I ask everybody to look at my economic ideas and 9 Nobel prize winners and over 500 economists and hundreds of business people, including a lot of Republicans said, this is the way you've got to go
-T63	Claim 2273 2327	I don't think the American people are taxed too little
-T64	Claim 2329 2359	I think they're taxed too much
-T65	Claim 2856 2952	I think it would discipline not only the Congress, which needs it, but also the executive branch
-T66	Claim 3918 4019	I believe that we need to control the growth of mandatory spending, back to this gentleman's question
-T67	Claim 3281 3298	I think it's good
-T68	Claim 3227 3279	Some sophisticates think it may be a little gimmicky
-T69	Claim 2191 2262	I don't see how you can grow the deficit down by raising people's taxes
-T70	Premise 2361 2425	I went for one tax increase and when I make a mistake I admit it
-T71	Premise 2427 2467	I said that wasn't the right thing to do
-T72	Claim 2469 2577	Governor Clinton's program wants to tax more and spend more -- $150 billion in new taxes, spend another $220
-T73	Claim 2579 2618	I don't believe that's the way to do it
-T76	Premise 3200 3225	I've proposed another one
-T77	Claim 4302 4369	I just don't believe that would stimulate any kind of growth at all
-T78	Claim 4066 4181	The program that the president -- two-thirds of the budget, I as president never get to look at, never get to touch
-T79	Premise 4021 4064	That's the main growing thing in the budget
-T80	Premise 3622 3752	if the Congress won't do it, if they can't get together and negotiate how to do that, then you'd have a sequester across the board
-T81	Premise 3409 3483	You can check 10% of that if you want to, in the 1 box, and that 10%, $100
-T82	Premise 3485 3615	or if you're paying $10,000, whatever it is, $1000, check it off and make the government, make it lower the deficit by that amount
-T83	Claim 3832 3912	I'm the president that said hey, don't mess with Social Security, and we haven't
-T85	Claim 4183 4252	We've got to control that growth to inflation and population increase
-T86	Claim 4258 4300	not raise taxes on the American people now
 T87	Premise 4422 4447	we're $4 trillion in debt
-T88	Premise 4449 4554	We're going into debt an additional $1 billion, little more than $1 billion every working day of the year
-T97	Premise 5150 5167	we have to fix it
 T98	Premise 5329 5374	Young people with high grades can't get a job
-T99	Premise 5251 5327	When I was a young man, when I got out of the Navy I had multiple job offers
-T100	Premise 5169 5249	I'm here tonight for these young people up here in the balcony from this college
-T101	Claim 4929 5006	it's not the Republicans' fault, of course, and it's not the Democrats' fault
-T102	Premise 4795 4921	I just find it fascinating that while we sit here tonight we will go into debt an additional $50 million in an hour and a half
-T103	Premise 5693 5712	whose fault is that
-T104	Premise 5714 5731	Not the Democrats
-T105	Premise 5733 5752	Not the Republicans
-T106	Claim 5754 5825	Somewhere out there there's an extraterrestrial that's doing this to us
-T107	Premise 5840 5879	everybody says they take responsibility
-T108	Claim 5496 5589	we were down to 18% of them were making -- 18- to 24-year- olds were making less than $12,000
-T109	Claim 5650 5685	The dollar's gone through the floor
 R1	Support Arg1:T55 Arg2:T54
 R2	Attack Arg1:T56 Arg2:T55
 R3	Attack Arg1:T57 Arg2:T56

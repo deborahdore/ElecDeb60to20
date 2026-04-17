@@ -1,10 +1,3 @@
-T126	Claim 927 944	It was principled
-T127	Claim 950 966	it was strategic
-T128	Premise 830 925	It was a master class watching President Lincoln get the Congress to approve the 13th Amendment
-T129	Claim 2265 2324	we should demand that Donald release all of his tax returns
-T130	Claim 2835 2843	she lied
-T131	Claim 2663 2692	she got caught in a total lie
-T132	Premise 2694 2800	Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things
 R1	Support Arg1:T128 Arg2:T126
 R2	Support Arg1:T126 Arg2:T127
 T1	Claim 971 1100	I was making the point that it is hard sometimes to get the Congress to do what you want to do and you have to keep working at it

@@ -1,40 +1,7 @@
 T459	Premise 550 601	that's the way we elect a president in this country
-T460	Claim 607 629	it's the way we should
-T461	Claim 1309 1329	It's what we believe
-T462	Claim 1285 1307	It's what we stand for
-T463	Claim 1263 1283	It's our whole lives
-T464	Claim 1245 1261	It's what we are
-T465	Claim 974 1066	I believe that in an election when we are trying to determine who should lead the free world
-T466	Claim 1184 1243	it isn't the label that he wears or that I wear that counts
-T467	Premise 1097 1181	as Senator Kennedy has already indicated, the most important election in our history
-T468	Premise 1069 1085	not just America
-T471	Claim 1483 1625	I don't think it's enough for Senator Kennedy to go before the audiences on the Democratic side and say, "Vote for me because I'm a Democrat."
-T472	Claim 1626 1643	That isn't enough
-T473	Claim 1645 1720	What's involved here is the question of leadership for the whole free world
-T474	Claim 1722 1756	Now that means the best leadership
-T475	Premise 1758 1800	It may be Republican, it may be Democratic
 T479	Claim 1893 2059	I believe the people, therefore, should be asked to make up their minds not simply on the basis of, "Vote the way your grandfather did; vote the way your mother did."
-T480	Claim 2060 2128	I think the people should put America first, rather than party first
-T482	Claim 2576 2605	This is what I deeply believe
-T483	Premise 2485 2518	They will move her forward faster
-T484	Premise 2524 2574	they will move her more surely than in his program
-T485	Claim 2607 2670	I'm sure he believes just as deeply that his will move that way
-T486	Claim 2672 2791	I suggest, however, that in the interest of fairness that he could give me the benefit of also believing as he believes
-T487	Claim 2846 2957	I do think that parties are important in that they tell something about the program and something about the man
 T488	Premise 2959 3014	Abraham Lincoln was a great president of all the people
 T489	Premise 3020 3073	he was selected by his party at a key time in history
-T490	Premise 3082 3111	his party stood for something
-T491	Claim 3113 3173	The Democratic party in this century has stood for something
-T492	Claim 3175 3200	It has stood for progress
-T493	Claim 3202 3251	it has stood for concern for the people's welfare
-T494	Premise 3329 3400	as a result, produced Wilson, President Roosevelt, and President Truman
-T495	Claim 3253 3323	It has stood for a strong foreign policy and a strong national defense
-T496	Claim 3907 3942	I think that record tells something
-T498	Claim 3614 3644	That's the importance of party
-T499	Premise 3646 3689	only if it tells something about the record
-T500	Claim 3487 3514	They do stand for something
-T501	Claim 3516 3612	They stand for a whole different approach to the problems facing this country at home and abroad
-T502	Premise 3402 3485	The Republican party has produced McKinley and Harding, Coolidge, Dewey, and Landon
 R1	Support Arg1:T468 Arg2:T465
 R5	Equivalent Arg1:T466 Arg2:T462
 R6	Equivalent Arg1:T466 Arg2:T461

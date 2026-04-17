@@ -1,38 +1,8 @@
-T99	Premise 975 1040	There were too many infantrymen there, not enough heavy artillery
-T102	Premise 1396 1568	the President has always indicated that we must not make the mistake in dealing with the dictator of indicating that we are going to make a concession at the point of a gun
-T103	Premise 1570 1645	Whenever you do that, inevitably the dictator is encouraged to try it again
-T105	Premise 2001 2015	that means war
-T106	Premise 2017 2079	We went through this tragic experience leading to World War II
-T107	Premise 2081 2117	We learned our lesson again in Korea
-T108	Premise 2119 2145	We must not learn it again
-T110	Premise 2332 2434	Senator Johnson was among those who rejected that position - voted with the seventy against the twelve
-T111	Claim 2436 2456	The Senate was right
-T112	Premise 2465 2496	they knew the lesson of history
-T113	Claim 3047 3183	we're not going to have peace by giving in and indicating in advance that we are not going to defend what has become a symbol of freedom
 T114	Premise 2960 3031	in this instance the good intentions, of course, are a desire for peace
-T115	Claim 2523 2603	I would trust that Senator Kennedy would change his position on this - change it
-T116	Premise 2613 2726	as long as he as a major presidential candidate continues to suggest that we are going to turn over these islands
-T117	Premise 2728 2844	he is only encouraging the aggressors - the Chinese Communist and the Soviet aggressors - to press the United States
-T118	Premise 2846 2900	to press us to the point where war would be inevitable
-T119	Premise 2902 2954	The road to war is always paved with good intentions
-T120	Claim 3221 3346	I don't think it's possible for Mr. Nixon to state the record in distortion of the facts with more precision than he just did
-T121	Premise 3348 3494	In 1955, Mr. Dulles at a press conference said: "The treaty that we have with the Republic of China excludes Quemoy and Matsu from the treaty area
-T122	Premise 3497 3545	That was done with much thought and deliberation
-T123	Claim 3557 3703	that treaty does not commit the United States to defend anything except Formosa and the Pescadores, and to deal with acts against that treaty area
 T124	Claim 3705 3738	I completely sustained the treaty
-T125	Premise 3740 3754	I voted for it
 T126	Claim 3756 3846	I would take any action necessary to defend the treaty, Formosa, and the Pescadores Island
-T127	Claim 4644 4689	I believe that we should meet our commitments
-T128	Claim 4695 4789	if the Chinese Communists attack the Pescadores and Formosa, they know that it will mean a war
-T129	Premise 4553 4642	I stand with the Secretary of State, Mr. Herter, who said these islands were indefensible
-T130	Premise 4492 4528	that concept is completely repugnant
 T131	Claim 4534 4551	I stand with them
-T132	Premise 4290 4343	General Twining said they were still doing it in 1959
 T133	Premise 4345 4484	General Ridgway said - who was Chief of Staff: "To go to war for Quemoy and Matsu to me would seem an unwarranted and tragic course to take
-T134	Claim 4877 4904	the treaty is quite precise
-T135	Claim 4909 4929	I sustain the treaty
-T100	Claim 1056 1208	I don't think there was any implication in Secretary Dulles' statement that Quemoy and Matsu should not be defended in the event that they were attacked
-T101	Claim 1214 1267	that attack was a preliminary to an attack on Formosa
 R1	Support Arg1:T102 Arg2:T103
 R2	Support Arg1:T100 Arg2:T101
 R5	Support Arg1:T106 Arg2:T105

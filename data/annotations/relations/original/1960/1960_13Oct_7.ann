@@ -1,31 +1,7 @@
-T198	Claim 1396 1421	I disapprove of the issue
-T199	Claim 1423 1470	I do not suggest that Mr. Nixon does in any way
-T200	Claim 1068 1088	I don't suggest that
-T201	Claim 1090 1108	I don't support it
-T202	Claim 1053 1066	That's absurd
-T203	Claim 1110 1134	I would disagree with it
 T205	Claim 865 1051	I do not suggest in any way, nor have I ever, that that indicates that Mr. Nixon has the slightest sympathy, involvement, or in any way imply any inferences in regard to the Ku Klux Klan
 T207	Claim 1778 1887	I pointed out that it was my position that Americans must choose the best man that either party could produce
-T208	Premise 1889 1930	We can't settle for anything but the best
-T209	Premise 1959 2000	the best man that this nation can produce
-T210	Premise 2022 2056	we can't have any test of religion
-T211	Premise 2058 2088	We can't have any test of race
-T212	Premise 2090 2116	It must be a test of a man
-T213	Claim 2864 2918	we certainly cannot have it in a presidential campaign
-T214	Premise 2827 2858	We cannot have it in our hearts
-T215	Claim 2446 2476	I obviously repudiate the Klan
-T216	Claim 2478 2526	I repudiate anybody who uses the religious issue
-T217	Claim 2528 2550	I will not tolerate it
-T218	Premise 2552 2613	I have ordered all of my people to have nothing to do with it
-T219	Premise 2690 2715	if you believe in America
-T220	Premise 2717 2774	if you want America to set the right example to the world
-T221	Claim 2781 2825	we cannot have religious or racial prejudice
-T222	Premise 2156 2184	I have seen Communism abroad
-T223	Premise 2186 2204	I see what it does
 T224	Claim 2206 2245	Communism is the enemy of all religions
 T225	Claim 2251 2294	we who do believe in God must join together
-T226	Claim 2296 2332	We must not be divided on this issue
-T227	Premise 2334 2444	The worst thing that I can think can happen in this campaign would be for it to be decided on religious issues
 R1	Support Arg1:T205 Arg2:T202
 R2	Equivalent Arg1:T205 Arg2:T200
 R4	Support Arg1:T202 Arg2:T200

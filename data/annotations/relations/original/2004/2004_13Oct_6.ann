@@ -1,62 +1,13 @@
-T334	Claim 540 573	Health-care costs are on the rise
-T335	Premise 582 643	the consumers are not involved in the decision-making process
-T336	Claim 448 487	I sure hope it's not the administration
-T337	Claim 512 538	there's a systemic problem
-T338	Premise 645 696	Most health-care costs are covered by third parties
-T339	Claim 713 779	the actual user of health care is not the purchaser of health care
-T340	Claim 785 835	there's no market forces involved with health care
-T341	Claim 862 925	I'm a strong believer in what they call health savings accounts
-T342	Claim 1316 1377	the lawsuits are causing health-care costs to rise in America
 T343	Premise 927 1057	These are accounts that allow somebody to buy a low-premium, high-deductible catastrophic plan and couple it with tax-free savings
-T345	Premise 1059 1084	Businesses can contribute
-T346	Premise 1086 1133	employees can contribute on a contractual basis
-T347	Claim 1139 1242	this is a way to make sure people are actually involved with the decision-making process on health care
-T348	Claim 1390 1444	I'm such a strong believer in medical liability reform
-T349	Premise 1467 1541	my opponent said those lawsuits only caused the cost to go up by 1 percent
-T350	Claim 1760 1795	there's still high cost in medicine
-T351	Premise 1818 1859	they don't use any information technology
-T352	Claim 1549 1601	he didn't include the defensive practice of medicine
-T353	Premise 1602 1725	that costs the federal government some $28 billion a year and costs our society between $60 billion and $100 billion a year
-T354	Claim 1999 2054	we've got to introduce high technology into health care
-T355	Premise 1895 1988	it's the equivalent of the buggy and horse days, compared to other industries here in America
 T356	Premise 2205 2358	People tell me that when the health-care field is fully integrated with information technology, it'll wring some 20 percent of the cost out of the system
-T357	Premise 2111 2202	We want there to be electronic medical records to cut down on error, as well as reduce cost
-T358	Claim 2082 2109	We're changing the language
-T359	Claim 2056 2080	We're beginning to do it
-T360	Claim 2374 2416	moving generic drugs to the market quicker
-T361	Claim 2427 2487	those are four ways to help control the costs in health care
-T362	Claim 2611 2709	this administration has stood in the way of common-sense efforts that would have reduced the costs
-T363	Claim 3826 3852	we also have people sicker
-T364	Premise 3861 3893	they don't have health insurance
-T365	Premise 2744 2818	In the Senate we passed the right of Americans to import drugs from Canada
 T367	Premise 2824 2913	the president and his friends took it out in the House, and now you don't have that right
 T368	Premise 2915 2996	The president blocked you from the right to have less expensive drugs from Canada
-T369	Claim 3709 3818	When I'm president, I'm sending that back to Congress and we're going to get a real prescription drug benefit
-T370	Claim 3988 4032	We got to have health care for all Americans
 T371	Premise 3898 3985	whether it's diabetes or cancer, they come to hospitals later and it costs America more
-T372	Claim 2999 3062	We also wanted Medicare to be able to negotiate bulk purchasing
-T373	Premise 3064 3080	The VA does that
-T374	Premise 3082 3130	The VA provides lower-cost drugs to our veterans
-T375	Claim 3132 3167	We could have done that in Medicare
-T376	Claim 3217 3240	Medicare belongs to you
-T377	Claim 3242 3332	Medicare is for seniors, who many of them are on fixed income, to lift them out of poverty
-T378	Claim 3170 3215	Medicare is paid for by the American taxpayer
 T380	Premise 3339 3549	rather than help you, the taxpayer, have lower cost, rather than help seniors have less expensive drugs, the president made it illegal -- illegal -- for Medicare to actually go out and bargain for lower prices.
-T381	Claim 3551 3636	Result: $139 billion windfall profit to the drug companies coming out of your pockets
-T382	Premise 3638 3706	That's a large part of your 17 percent increase in Medicare premiums
-T384	Premise 4144 4196	has he been in the United States Senate for 20 years
 T385	Premise 4198 4242	He has no record on reforming of health care
-T386	Premise 4244 4260	No record at all
 T387	Premise 4262 4311	He introduced some 300 bills and he's passed five
-T388	Claim 4340 4378	I came to Washington to solve problems
 T389	Premise 4380 4469	I was deeply concerned about seniors having to choose between prescription drugs and food
-T390	Claim 4489 4559	in 2006, our seniors will get a prescription drug coverage in Medicare
-T391	Premise 4314 4337	No record of leadership
-T392	Claim 4625 4660	the president is misleading America
-T393	Claim 5096 5117	the president's wrong
 T394	Premise 4662 4731	I've actually passed 56 individual bills that I've personally written
-T395	Claim 4922 5062	I was one of the original authors of the early childhood health care and the expansion of health care that we did in the middle of the 1990s
-T396	Premise 4762 4824	not always under my name, there is amendments on certain bills
 R1	Support Arg1:T335 Arg2:T334
 R2	Support Arg1:T338 Arg2:T339
 R3	Support Arg1:T339 Arg2:T337
