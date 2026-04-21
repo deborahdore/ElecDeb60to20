@@ -528,11 +528,11 @@ T527	Claim 27954 28028	when he makes statements like this, what does this do to 
 T528	Claim 27765 27840	when he says as he did in January of this year that we have the worst slums
 T529	Claim 27486 27531	when he states that we're second in education
 T530	Premise 28737 28940	Let's look at the reaction eh - reaction to Khrushchev and Eisenhower at the last U.N. session. Did Khrushchev gain because he took his shoe off and pounded the table and shouted and insulted? Not at all
-T531	Claim 3264 3440;3442 3483	I believe it my responsibility as the leader of the Democratic party in 1960 to try to warn the American people that in this crucial time we can no longer afford to stand still We can no longer afford to be second best
+T531	Claim 53910 54086;54088 54129	I believe it my responsibility as the leader of the Democratic party in 1960 to try to warn the American people that in this crucial time we can no longer afford to stand still We can no longer afford to be second best
 T532	Premise 55257 55417	Senator Kennedy has said tonight again what he has said several times in the course of this - these debates and in the campaign, that American is standing still
-T533	Claim 5524 5642;5644 5675	Anybody that says America has been standing still for the last seven and a half years hasn't been traveling in America He's been in some other country
-T534	Premise 6677 6753;6755 6780	There were eleven dictators when we came into power in 1953 in Latin America There are only three left
-T535	Premise 6782 6802;6804 6875;6877 6924	Let's look at Africa Twenty new countries in Africa during the course of this Administration Not one of them selected a Communist government
+T533	Claim 56170 56288;56290 56321	Anybody that says America has been standing still for the last seven and a half years hasn't been traveling in America He's been in some other country
+T534	Premise 57323 57399;57401 57426	There were eleven dictators when we came into power in 1953 in Latin America There are only three left
+T535	Premise 57428 57448;57450 57521;57523 57570	Let's look at Africa Twenty new countries in Africa during the course of this Administration Not one of them selected a Communist government
 R1	Support Arg1:T514 Arg2:T515
 R2	Support Arg1:T151 Arg2:T146
 R3	Support Arg1:T497 Arg2:T179
