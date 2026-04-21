@@ -603,8 +603,8 @@ T602	Claim 51658 51768	While I was governor of Georgia, although I'm not a lawye
 T603	Claim 58908 58959	let's talk about the pluses that came out this week
 T604	Claim 63472 63510	Mr. Ford hasn't done anything about it
 T605	Claim 4035 4127	I think, have a long overdue and totally justified tax decrease for the middle-income people
-T607	Claim 26231 26400	I've never heard Mr. Ford say that that was his prim- primary consideration - Who is the best person I could choose in this country to be president of the United States?
-T608	Premise 67685 67806	I mean in Korea - we had uh - three million five hundred thousand young men uh - in the Army, Navy, Air Force and Marines
+T606	Claim 26231 26400	I've never heard Mr. Ford say that that was his prim- primary consideration - Who is the best person I could choose in this country to be president of the United States?
+T607	Premise 67685 67806	I mean in Korea - we had uh - three million five hundred thousand young men uh - in the Army, Navy, Air Force and Marines
 R1	Support Arg1:T3 Arg2:T1
 R2	Support Arg1:T326 Arg2:T314
 R3	Support Arg1:T344 Arg2:T345
@@ -1019,7 +1019,7 @@ R413	Support Arg1:T536 Arg2:T516
 R414	Support Arg1:T78 Arg2:T74
 R415	Attack Arg1:T111 Arg2:T105
 R416	Attack Arg1:T136 Arg2:T126
-R417	Attack Arg1:T189 Arg2:T607
+R417	Attack Arg1:T189 Arg2:T606
 R418	Support Arg1:T222 Arg2:T217
 R419	Support Arg1:T261 Arg2:T266
 R420	Attack Arg1:T285 Arg2:T282
@@ -1053,7 +1053,7 @@ R447	Support Arg1:T47 Arg2:T44
 R448	Support Arg1:T339 Arg2:T333
 R449	Support Arg1:T400 Arg2:T397
 R450	Support Arg1:T441 Arg2:T439
-R451	Support Arg1:T608 Arg2:T496
+R451	Support Arg1:T607 Arg2:T496
 R452	Support Arg1:T538 Arg2:T516
 R453	Support Arg1:T81 Arg2:T80
 R454	Support Arg1:T90 Arg2:T108
@@ -1066,7 +1066,7 @@ R460	Support Arg1:T46 Arg2:T44
 R461	Support Arg1:T336 Arg2:T339
 R462	Support Arg1:T400 Arg2:T395
 R463	Attack Arg1:T439 Arg2:T431
-R464	Support Arg1:T608 Arg2:T499
+R464	Support Arg1:T607 Arg2:T499
 R465	Support Arg1:T539 Arg2:T516
 R466	Support Arg1:T83 Arg2:T82
 R467	Equivalent Arg1:T112 Arg2:T93

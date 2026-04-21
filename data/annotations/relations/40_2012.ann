@@ -990,9 +990,9 @@ T989	Premise 23154 23311	now that you have a democratically elected government i
 T990	Claim 36987 37035	that's undermining our long-term competitiveness
 T991	Premise 40113 40161	To the extent humanly possible, we get that out.
 T992	Premise 42414 42449	That's exactly what our budget does
-T994	Premise 52028 52253	there have been times, Governor, frankly, during the course of this campaign, where it sounded like you thought that you'd do the same things we did, but you'd say them louder and somehow that -- that would make a difference.
-T997	Premise 79530 79666	They look at America's commitments around the world and they see what's happening, and they say, well, OK. Is America going to be strong
-T999	Premise 94607 94666	And there are two very different paths the country can take
+T993	Premise 52028 52253	there have been times, Governor, frankly, during the course of this campaign, where it sounded like you thought that you'd do the same things we did, but you'd say them louder and somehow that -- that would make a difference.
+T994	Premise 79530 79666	They look at America's commitments around the world and they see what's happening, and they say, well, OK. Is America going to be strong
+T995	Premise 94607 94666	And there are two very different paths the country can take
 R1	Support Arg1:T14 Arg2:T12
 R2	Support Arg1:T132 Arg2:T972
 R3	Support Arg1:T252 Arg2:T253
@@ -1239,8 +1239,8 @@ R243	Support Arg1:T289 Arg2:T286
 R244	Support Arg1:T410 Arg2:T409
 R245	Support Arg1:T493 Arg2:T490
 R246	Support Arg1:T668 Arg2:T665
-R247	Attack Arg1:T767 Arg2:T997
-R248	Attack Arg1:T999 Arg2:T947
+R247	Attack Arg1:T767 Arg2:T994
+R248	Attack Arg1:T995 Arg2:T947
 R249	Support Arg1:T38 Arg2:T44
 R250	Support Arg1:T152 Arg2:T151
 R251	Attack Arg1:T290 Arg2:T276
@@ -1365,7 +1365,7 @@ R369	Support Arg1:T57 Arg2:T981
 R370	Support Arg1:T168 Arg2:T178
 R371	Support Arg1:T308 Arg2:T307
 R372	Support Arg1:T442 Arg2:T441
-R373	Attack Arg1:T513 Arg2:T994
+R373	Attack Arg1:T513 Arg2:T993
 R374	Support Arg1:T694 Arg2:T693
 R375	Attack Arg1:T788 Arg2:T790
 R376	Support Arg1:T969 Arg2:T968

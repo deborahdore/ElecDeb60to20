@@ -906,12 +906,12 @@ T905	Premise 22229 22284	as we did in 1983 between Ronald Reagan and Tip O'Neill
 T906	Premise 38408 38550	I saw it done with our -- our wonderful Ronald Reagan, a conservative from California, and the liberal Democrat Tip O'Neill from Massachusetts
 T907	Premise 38384 38405	It's been done before
 T908	Premise 45688 45744	ou know who voted for it? You might never know. That one
-T910	Premise 40953 41054	I traveled all over the world looking at the effects of greenhouse gas emissions, Joe Lieberman and I
-T911	Premise 41101 41122	we forced votes on it
-T912	Premise 42767 42924	The same way the computer was originally invented by a bunch of government scientists who were trying to figure out, for defense purposes, how to communicate
-T913	Claim 42926 42997	we've got to understand that this is a national security issue, as well
-T914	Premise 43828 43869	Senator McCain talks a lot about drilling
-T916	Premise 70226 70339	Senator McCain, this is the guy who sang, "Bomb, bomb, bomb Iran," who called for the annihilation of North Korea
+T909	Premise 40953 41054	I traveled all over the world looking at the effects of greenhouse gas emissions, Joe Lieberman and I
+T910	Premise 41101 41122	we forced votes on it
+T911	Premise 42767 42924	The same way the computer was originally invented by a bunch of government scientists who were trying to figure out, for defense purposes, how to communicate
+T912	Claim 42926 42997	we've got to understand that this is a national security issue, as well
+T913	Premise 43828 43869	Senator McCain talks a lot about drilling
+T914	Premise 70226 70339	Senator McCain, this is the guy who sang, "Bomb, bomb, bomb Iran," who called for the annihilation of North Korea
 R1	Support Arg1:T1 Arg2:T2
 R2	Support Arg1:T807 Arg2:T805
 R3	Support Arg1:T82 Arg2:T83
@@ -1249,7 +1249,7 @@ R334	Attack Arg1:T378 Arg2:T382
 R335	Support Arg1:T455 Arg2:T475
 R336	Support Arg1:T525 Arg2:T523
 R337	Support Arg1:T626 Arg2:T625
-R338	Attack Arg1:T916 Arg2:T703
+R338	Attack Arg1:T914 Arg2:T703
 R339	Support Arg1:T795 Arg2:T796
 R340	Support Arg1:T42 Arg2:T40
 R341	Support Arg1:T856 Arg2:T850
@@ -1259,7 +1259,7 @@ R344	Support Arg1:T907 Arg2:T391
 R345	Support Arg1:T456 Arg2:T475
 R346	Support Arg1:T524 Arg2:T523
 R347	Support Arg1:T627 Arg2:T626
-R348	Attack Arg1:T711 Arg2:T916
+R348	Attack Arg1:T711 Arg2:T914
 R349	Support Arg1:T799 Arg2:T796
 R350	Support Arg1:T863 Arg2:T862
 R351	Support Arg1:T131 Arg2:T134
@@ -1321,7 +1321,7 @@ R406	Support Arg1:T46 Arg2:T48
 R407	Support Arg1:T868 Arg2:T861
 R408	Support Arg1:T144 Arg2:T151
 R409	Support Arg1:T204 Arg2:T220
-R410	Support Arg1:T910 Arg2:T414
+R410	Support Arg1:T909 Arg2:T414
 R411	Support Arg1:T534 Arg2:T533
 R412	Support Arg1:T655 Arg2:T636
 R413	Support Arg1:T725 Arg2:T724
@@ -1337,7 +1337,7 @@ R422	Support Arg1:T62 Arg2:T61
 R423	Support Arg1:T873 Arg2:T872
 R424	Support Arg1:T153 Arg2:T152
 R425	Support Arg1:T226 Arg2:T198
-R426	Support Arg1:T911 Arg2:T414
+R426	Support Arg1:T910 Arg2:T414
 R427	Support Arg1:T543 Arg2:T540
 R428	Support Arg1:T646 Arg2:T645
 R429	Support Arg1:T731 Arg2:T730
@@ -1361,7 +1361,7 @@ R446	Support Arg1:T55 Arg2:T61
 R447	Support Arg1:T883 Arg2:T884
 R448	Support Arg1:T156 Arg2:T152
 R449	Support Arg1:T200 Arg2:T199
-R450	Support Arg1:T912 Arg2:T913
+R450	Support Arg1:T911 Arg2:T912
 R451	Support Arg1:T547 Arg2:T541
 R452	Support Arg1:T649 Arg2:T648
 R453	Support Arg1:T735 Arg2:T736
@@ -1369,14 +1369,14 @@ R454	Attack Arg1:T57 Arg2:T58
 R455	Support Arg1:T882 Arg2:T884
 R456	Support Arg1:T154 Arg2:T152
 R457	Support Arg1:T224 Arg2:T199
-R458	Support Arg1:T913 Arg2:T438
+R458	Support Arg1:T912 Arg2:T438
 R459	Support Arg1:T552 Arg2:T541
 R460	Support Arg1:T746 Arg2:T736
 R461	Support Arg1:T59 Arg2:T58
 R462	Support Arg1:T881 Arg2:T884
 R463	Equivalent Arg1:T892 Arg2:T152
 R464	Support Arg1:T225 Arg2:T199
-R465	Attack Arg1:T448 Arg2:T914
+R465	Attack Arg1:T448 Arg2:T913
 R466	Support Arg1:T551 Arg2:T541
 R467	Support Arg1:T738 Arg2:T740
 R468	Support Arg1:T60 Arg2:T58

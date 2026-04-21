@@ -919,10 +919,10 @@ T918	Premise 78941 79022	they're going to be able to compete in a world economy 
 T919	Premise 79027 79049	that's a patriotic act
 T920	Claim 79051 79077	When we stop the arms race
 T921	Premise 79079 79112	we make this a safer, saner world
-T923	Premise 79146 79188	when we keep the peace young men don't die
-T925	Premise 79294 79446	hen Walter Mondale was attorney general of Minnesota, he led the fight for a man who could not afford to get justice because he couldn't afford a lawyer
-T926	Premise 79448 79612	when he was in the Senate he fought for child nutrition programs, he wrote the Fair Housing Act, he even investigated the concerns and the abuses of migrant workers
-T927	Premise 79967 79988	Now I agree with him.
+T922	Premise 79146 79188	when we keep the peace young men don't die
+T923	Premise 79294 79446	hen Walter Mondale was attorney general of Minnesota, he led the fight for a man who could not afford to get justice because he couldn't afford a lawyer
+T924	Premise 79448 79612	when he was in the Senate he fought for child nutrition programs, he wrote the Fair Housing Act, he even investigated the concerns and the abuses of migrant workers
+T925	Premise 79967 79988	Now I agree with him.
 R1	Support Arg1:T1 Arg2:T2
 R2	Support Arg1:T193 Arg2:T52
 R3	Support Arg1:T129 Arg2:T130
@@ -1318,7 +1318,7 @@ R392	Support Arg1:T669 Arg2:T670
 R393	Attack Arg1:T335 Arg2:T721
 R394	Attack Arg1:T395 Arg2:T879
 R395	Support Arg1:T509 Arg2:T510
-R396	Support Arg1:T919 Arg2:T923
+R396	Support Arg1:T919 Arg2:T922
 R397	Support Arg1:T773 Arg2:T598
 R398	Support Arg1:T72 Arg2:T610
 R399	Support Arg1:T633 Arg2:T634
@@ -1327,7 +1327,7 @@ R401	Support Arg1:T671 Arg2:T263
 R402	Attack Arg1:T335 Arg2:T860
 R403	Support Arg1:T878 Arg2:T877
 R404	Attack Arg1:T513 Arg2:T512
-R405	Support Arg1:T923 Arg2:T920
+R405	Support Arg1:T922 Arg2:T920
 R406	Support Arg1:T598 Arg2:T774
 R407	Support Arg1:T98 Arg2:T103
 R408	Support Arg1:T633 Arg2:T147
@@ -1336,7 +1336,7 @@ R410	Support Arg1:T263 Arg2:T261
 R411	Support Arg1:T336 Arg2:T722
 R412	Support Arg1:T735 Arg2:T395
 R413	Attack Arg1:T513 Arg2:T515
-R414	Support Arg1:T925 Arg2:T926
+R414	Support Arg1:T923 Arg2:T924
 R415	Support Arg1:T772 Arg2:T774
 R416	Support Arg1:T100 Arg2:T103
 R417	Support Arg1:T634 Arg2:T147
@@ -1345,7 +1345,7 @@ R419	Support Arg1:T261 Arg2:T711
 R420	Support Arg1:T722 Arg2:T723
 R421	Support Arg1:T424 Arg2:T395
 R422	Attack Arg1:T513 Arg2:T514
-R423	Support Arg1:T926 Arg2:T754
+R423	Support Arg1:T924 Arg2:T754
 R424	Support Arg1:T773 Arg2:T774
 R425	Support Arg1:T99 Arg2:T103
 R426	Support Arg1:T634 Arg2:T635
@@ -1397,7 +1397,7 @@ R471	Attack Arg1:T832 Arg2:T833
 R472	Support Arg1:T673 Arg2:T674
 R473	Support Arg1:T863 Arg2:T340
 R474	Support Arg1:T436 Arg2:T434
-R475	Support Arg1:T927 Arg2:T563
+R475	Support Arg1:T925 Arg2:T563
 R476	Support Arg1:T778 Arg2:T27
 R477	Support Arg1:T106 Arg2:T109
 R478	Support Arg1:T153 Arg2:T126

@@ -844,17 +844,17 @@ T843	Premise 32689 32702	You know that
 T844	Claim 36618 36634	that's Mr. Ayers
 T845	Claim 37470 37732	If I'm interested in figuring out my foreign policy, I associate myself with my running mate, Joe Biden or with Dick Lugar, the Republican ranking member on the Senate Foreign Relations Committee, or General Jim Jones, the former supreme allied commander of NATO
 T846	Claim 38268 38311	the facts are facts and records are records
-T848	Claim 42637 42653	I'm proud of her
-T849	Claim 42774 42823	I can't tell how proud I am of her and her family
-T850	Premise 42826 42875	Her husband's a pretty tough guy, by the way, too
-T851	Claim 44816 44909	Maybe that's why he's asked for 860 -- sought and proposed $860 billion worth of new spending
-T852	Premise 44914 45032	wants to raise people's taxes in a time of incredible challenge and difficulty and heartache for the American families
-T853	Claim 45824 45844	Canadian oil is fine
-T854	Claim 50197 50215	I am a free trader
-T855	Premise 52831 52898	Detroit had dragged its feet too long in terms of getting that done
-T856	Claim 53033 53122	If we can get that right, then we can move in a direction not only of energy independence
-T857	Premise 53729 53835	Free trade between ourselves and Colombia, I just recited to you the benefits of concluding that agreement
-T858	Premise 53837 53974	a billion dollars of American dollars that could have gone to creating jobs and businesses in the United States, opening up those markets
+T847	Claim 42637 42653	I'm proud of her
+T848	Claim 42774 42823	I can't tell how proud I am of her and her family
+T849	Premise 42826 42875	Her husband's a pretty tough guy, by the way, too
+T850	Claim 44816 44909	Maybe that's why he's asked for 860 -- sought and proposed $860 billion worth of new spending
+T851	Premise 44914 45032	wants to raise people's taxes in a time of incredible challenge and difficulty and heartache for the American families
+T852	Claim 45824 45844	Canadian oil is fine
+T853	Claim 50197 50215	I am a free trader
+T854	Premise 52831 52898	Detroit had dragged its feet too long in terms of getting that done
+T855	Claim 53033 53122	If we can get that right, then we can move in a direction not only of energy independence
+T856	Premise 53729 53835	Free trade between ourselves and Colombia, I just recited to you the benefits of concluding that agreement
+T857	Premise 53837 53974	a billion dollars of American dollars that could have gone to creating jobs and businesses in the United States, opening up those markets
 R1	Support Arg1:T4 Arg2:T5
 R2	Support Arg1:T101 Arg2:T100
 R3	Support Arg1:T216 Arg2:T215
@@ -1008,19 +1008,19 @@ R150	Support Arg1:T812 Arg2:T813
 R151	Support Arg1:T41 Arg2:T38
 R152	Support Arg1:T145 Arg2:T147
 R153	Attack Arg1:T240 Arg2:T233
-R154	Support Arg1:T369 Arg2:T848
+R154	Support Arg1:T369 Arg2:T847
 R155	Support Arg1:T620 Arg2:T619
 R156	Support Arg1:T811 Arg2:T813
 R157	Support Arg1:T37 Arg2:T825
 R158	Support Arg1:T146 Arg2:T147
 R159	Support Arg1:T245 Arg2:T239
-R160	Support Arg1:T370 Arg2:T848
+R160	Support Arg1:T370 Arg2:T847
 R161	Support Arg1:T621 Arg2:T620
 R162	Support Arg1:T813 Arg2:T814
 R163	Support Arg1:T51 Arg2:T52
 R164	Support Arg1:T153 Arg2:T152
 R165	Support Arg1:T246 Arg2:T245
-R166	Support Arg1:T848 Arg2:T357
+R166	Support Arg1:T847 Arg2:T357
 R167	Support Arg1:T814 Arg2:T815
 R168	Support Arg1:T50 Arg2:T49
 R169	Support Arg1:T151 Arg2:T148
@@ -1030,7 +1030,7 @@ R172	Support Arg1:T802 Arg2:T815
 R173	Support Arg1:T53 Arg2:T52
 R174	Support Arg1:T152 Arg2:T148
 R175	Support Arg1:T247 Arg2:T244
-R176	Support Arg1:T850 Arg2:T849
+R176	Support Arg1:T849 Arg2:T848
 R177	Support Arg1:T54 Arg2:T53
 R178	Support Arg1:T154 Arg2:T152
 R179	Support Arg1:T250 Arg2:T244
@@ -1086,7 +1086,7 @@ R228	Support Arg1:T387 Arg2:T381
 R229	Support Arg1:T65 Arg2:T64
 R230	Support Arg1:T186 Arg2:T834
 R231	Support Arg1:T266 Arg2:T269
-R232	Support Arg1:T852 Arg2:T851
+R232	Support Arg1:T851 Arg2:T850
 R233	Attack Arg1:T66 Arg2:T48
 R234	Support Arg1:T185 Arg2:T834
 R235	Support Arg1:T272 Arg2:T274
@@ -1216,19 +1216,19 @@ R358	Support Arg1:T459 Arg2:T458
 R359	Support Arg1:T334 Arg2:T336
 R360	Support Arg1:T460 Arg2:T457
 R361	Support Arg1:T335 Arg2:T336
-R362	Support Arg1:T855 Arg2:T461
+R362	Support Arg1:T854 Arg2:T461
 R363	Support Arg1:T336 Arg2:T338
 R364	Support Arg1:T464 Arg2:T463
 R365	Support Arg1:T337 Arg2:T338
-R366	Support Arg1:T856 Arg2:T463
+R366	Support Arg1:T855 Arg2:T463
 R367	Attack Arg1:T846 Arg2:T326
 R368	Support Arg1:T467 Arg2:T463
 R369	Support Arg1:T458 Arg2:T456
 R370	Support Arg1:T457 Arg2:T456
 R371	Support Arg1:T468 Arg2:T467
-R372	Support Arg1:T858 Arg2:T857
+R372	Support Arg1:T857 Arg2:T856
 R373	Support Arg1:T470 Arg2:T469
-R374	Support Arg1:T857 Arg2:T469
+R374	Support Arg1:T856 Arg2:T469
 R375	Support Arg1:T473 Arg2:T472
 R376	Support Arg1:T472 Arg2:T474
 R377	Equivalent Arg1:T363 Arg2:T356

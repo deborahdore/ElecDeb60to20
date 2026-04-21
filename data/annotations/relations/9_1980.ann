@@ -575,35 +575,35 @@ T574	Claim 41856 41918	These are a few of the things to which our nation is comm
 T575	Premise 48640 48805	I would like to point out also that senators like Henry Jackson and Hollings of South Carolina - they are taking the lead in the fight against this particular treaty
 T576	Claim 52496 52574	The control of these weapons is the single major responsibility of a President
 T577	Claim 52580 52716	to cast out this commitment of all Presidents, because of some slight technicalities that can be corrected, is a very dangerous approach
-T579	Claim 53463 53549	I don't think there's any doubt that, in the future, the cost of oil is going to go up
-T580	Premise 53551 53655	What I've had as a basic commitment since I've been President is to reduce our dependence on foreign oil
-T581	Claim 53657 53743	It can only be done in two ways: one, to conserve energy - to stop the waste of energy
-T582	Claim 53751 53792	secondly, to produce more American energy
-T583	Claim 63068 63123	The Social Security system was based on a false premise
-T584	Premise 63125 63236	with regard to how fast the number of workers would increase and how fast the number of retirees would increase
-T585	Claim 67706 67858	These constant suggestions that the basic Social Security System should be changed does call for concern and consternation among the aged of our country
-T586	Premise 68489 68601	Governor Reagan, as a matter of fact, began his political career campaigning around this nation against Medicare
-T587	Premise 68308 68487	In the past, the relationship between Social Security and Medicare has been very important to providing some modicum of aid for senior citizens in the retention of health benefits
-T588	Premise 69715 69753	it doesn't come out of the payroll tax
-T589	Premise 69755 69785	It comes out of a general fund
-T590	Claim 69791 69824	something should be done about it
-T591	Claim 72253 72319	This is a contest between a Democrat in the mainstream of my party
-T592	Premise 72324 72407	exemplified by the actions that I have taken in the Oval Office the last four years
-T593	Claim 74283 74331	I believe that there is a fundamental difference
-T594	Claim 74338 74519	I think it has been evident in most of the answers that Mr. Carter has given tonight - that he seeks the solution to anything as another opportunity for a Federal Government program
-T595	Claim 75441 75486	I said many foolish things back in those days
-T596	Premise 75358 75439	when I had quoted a Democratic President, as the President says, I was a Democrat
-T597	Premise 76002 76127	I mentioned the radical departure of Governor Reagan from the principles or ideals of historical perspective of his own party
-T598	Claim 83009 83076	The American people now are facing, next Tuesday, a lonely decision
-T599	Claim 83078 83167	Those listening to my voice will have to make a judgment about the future of this country
+T578	Claim 53463 53549	I don't think there's any doubt that, in the future, the cost of oil is going to go up
+T579	Premise 53551 53655	What I've had as a basic commitment since I've been President is to reduce our dependence on foreign oil
+T580	Claim 53657 53743	It can only be done in two ways: one, to conserve energy - to stop the waste of energy
+T581	Claim 53751 53792	secondly, to produce more American energy
+T582	Claim 63068 63123	The Social Security system was based on a false premise
+T583	Premise 63125 63236	with regard to how fast the number of workers would increase and how fast the number of retirees would increase
+T584	Claim 67706 67858	These constant suggestions that the basic Social Security System should be changed does call for concern and consternation among the aged of our country
+T585	Premise 68489 68601	Governor Reagan, as a matter of fact, began his political career campaigning around this nation against Medicare
+T586	Premise 68308 68487	In the past, the relationship between Social Security and Medicare has been very important to providing some modicum of aid for senior citizens in the retention of health benefits
+T587	Premise 69715 69753	it doesn't come out of the payroll tax
+T588	Premise 69755 69785	It comes out of a general fund
+T589	Claim 69791 69824	something should be done about it
+T590	Claim 72253 72319	This is a contest between a Democrat in the mainstream of my party
+T591	Premise 72324 72407	exemplified by the actions that I have taken in the Oval Office the last four years
+T592	Claim 74283 74331	I believe that there is a fundamental difference
+T593	Claim 74338 74519	I think it has been evident in most of the answers that Mr. Carter has given tonight - that he seeks the solution to anything as another opportunity for a Federal Government program
+T594	Claim 75441 75486	I said many foolish things back in those days
+T595	Premise 75358 75439	when I had quoted a Democratic President, as the President says, I was a Democrat
+T596	Premise 76002 76127	I mentioned the radical departure of Governor Reagan from the principles or ideals of historical perspective of his own party
+T597	Claim 83009 83076	The American people now are facing, next Tuesday, a lonely decision
+T598	Claim 83078 83167	Those listening to my voice will have to make a judgment about the future of this country
 R1	Support Arg1:T27 Arg2:T26
 R2	Support Arg1:T6 Arg2:T4
 R3	Support Arg1:T157 Arg2:T550
 R4	Support Arg1:T217 Arg2:T216
 R5	Support Arg1:T261 Arg2:T260
 R6	Support Arg1:T319 Arg2:T317
-R7	Support Arg1:T584 Arg2:T583
-R8	Support Arg1:T592 Arg2:T591
+R7	Support Arg1:T583 Arg2:T582
+R8	Support Arg1:T591 Arg2:T590
 R9	Support Arg1:T513 Arg2:T508
 R10	Support Arg1:T29 Arg2:T28
 R11	Support Arg1:T12 Arg2:T11
@@ -611,8 +611,8 @@ R12	Support Arg1:T158 Arg2:T157
 R13	Support Arg1:T218 Arg2:T216
 R14	Support Arg1:T263 Arg2:T262
 R15	Support Arg1:T321 Arg2:T320
-R16	Support Arg1:T583 Arg2:T389
-R17	Support Arg1:T591 Arg2:T445
+R16	Support Arg1:T582 Arg2:T389
+R17	Support Arg1:T590 Arg2:T445
 R18	Support Arg1:T502 Arg2:T500
 R19	Support Arg1:T35 Arg2:T34
 R20	Support Arg1:T13 Arg2:T10
@@ -711,7 +711,7 @@ R112	Support Arg1:T236 Arg2:T235
 R113	Support Arg1:T279 Arg2:T278
 R114	Support Arg1:T334 Arg2:T335
 R115	Support Arg1:T407 Arg2:T401
-R116	Support Arg1:T594 Arg2:T593
+R116	Support Arg1:T593 Arg2:T592
 R117	Support Arg1:T525 Arg2:T523
 R118	Support Arg1:T45 Arg2:T47
 R119	Support Arg1:T562 Arg2:T20
@@ -720,7 +720,7 @@ R121	Support Arg1:T233 Arg2:T235
 R122	Support Arg1:T281 Arg2:T280
 R123	Support Arg1:T338 Arg2:T337
 R124	Support Arg1:T408 Arg2:T401
-R125	Support Arg1:T455 Arg2:T593
+R125	Support Arg1:T455 Arg2:T592
 R126	Support Arg1:T524 Arg2:T523
 R127	Support Arg1:T40 Arg2:T28
 R128	Support Arg1:T21 Arg2:T20
@@ -730,7 +730,7 @@ R131	Support Arg1:T287 Arg2:T286
 R132	Support Arg1:T339 Arg2:T337
 R133	Support Arg1:T402 Arg2:T404
 R134	Support Arg1:T456 Arg2:T455
-R135	Support Arg1:T599 Arg2:T598
+R135	Support Arg1:T598 Arg2:T597
 R136	Support Arg1:T31 Arg2:T33
 R137	Support Arg1:T22 Arg2:T20
 R138	Support Arg1:T176 Arg2:T175
@@ -810,7 +810,7 @@ R211	Support Arg1:T253 Arg2:T574
 R212	Support Arg1:T292 Arg2:T294
 R213	Support Arg1:T352 Arg2:T351
 R214	Support Arg1:T416 Arg2:T415
-R215	Support Arg1:T465 Arg2:T596
+R215	Support Arg1:T465 Arg2:T595
 R216	Support Arg1:T533 Arg2:T531
 R217	Support Arg1:T65 Arg2:T64
 R218	Support Arg1:T106 Arg2:T104
@@ -819,7 +819,7 @@ R220	Support Arg1:T254 Arg2:T574
 R221	Support Arg1:T296 Arg2:T295
 R222	Support Arg1:T356 Arg2:T354
 R223	Support Arg1:T418 Arg2:T417
-R224	Support Arg1:T468 Arg2:T597
+R224	Support Arg1:T468 Arg2:T596
 R225	Support Arg1:T528 Arg2:T531
 R226	Support Arg1:T73 Arg2:T70
 R227	Attack Arg1:T122 Arg2:T560
@@ -827,7 +827,7 @@ R228	Support Arg1:T572 Arg2:T187
 R229	Support Arg1:T257 Arg2:T256
 R230	Support Arg1:T297 Arg2:T295
 R231	Support Arg1:T357 Arg2:T354
-R232	Support Arg1:T422 Arg2:T585
+R232	Support Arg1:T422 Arg2:T584
 R233	Support Arg1:T469 Arg2:T468
 R234	Support Arg1:T532 Arg2:T533
 R235	Support Arg1:T72 Arg2:T70
@@ -836,7 +836,7 @@ R237	Support Arg1:T190 Arg2:T573
 R238	Support Arg1:T256 Arg2:T258
 R239	Support Arg1:T298 Arg2:T295
 R240	Attack Arg1:T366 Arg2:T365
-R241	Support Arg1:T423 Arg2:T585
+R241	Support Arg1:T423 Arg2:T584
 R242	Support Arg1:T470 Arg2:T468
 R243	Support Arg1:T536 Arg2:T532
 R244	Support Arg1:T76 Arg2:T75
@@ -845,7 +845,7 @@ R246	Support Arg1:T195 Arg2:T194
 R247	Attack Arg1:T259 Arg2:T226
 R248	Support Arg1:T302 Arg2:T552
 R249	Support Arg1:T367 Arg2:T366
-R250	Support Arg1:T424 Arg2:T585
+R250	Support Arg1:T424 Arg2:T584
 R251	Support Arg1:T471 Arg2:T468
 R252	Support Arg1:T535 Arg2:T536
 R253	Support Arg1:T77 Arg2:T76
@@ -854,7 +854,7 @@ R255	Support Arg1:T198 Arg2:T197
 R256	Support Arg1:T258 Arg2:T253
 R257	Support Arg1:T303 Arg2:T552
 R258	Support Arg1:T376 Arg2:T367
-R259	Support Arg1:T420 Arg2:T585
+R259	Support Arg1:T420 Arg2:T584
 R260	Support Arg1:T471 Arg2:T472
 R261	Support Arg1:T535 Arg2:T538
 R262	Support Arg1:T80 Arg2:T79
@@ -927,13 +927,13 @@ R328	Support Arg1:T137 Arg2:T136
 R329	Support Arg1:T212 Arg2:T211
 R330	Support Arg1:T576 Arg2:T577
 R331	Attack Arg1:T36 Arg2:T368
-R332	Attack Arg1:T432 Arg2:T586
+R332	Attack Arg1:T432 Arg2:T585
 R333	Support Arg1:T84 Arg2:T559
 R334	Support Arg1:T138 Arg2:T136
 R335	Support Arg1:T207 Arg2:T211
 R336	Support Arg1:T316 Arg2:T577
 R337	Support Arg1:T546 Arg2:T379
-R338	Support Arg1:T435 Arg2:T590
+R338	Support Arg1:T435 Arg2:T589
 R339	Support Arg1:T85 Arg2:T559
 R340	Support Arg1:T136 Arg2:T139
 R341	Support Arg1:T547 Arg2:T379

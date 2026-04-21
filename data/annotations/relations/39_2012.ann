@@ -993,10 +993,10 @@ T992	Premise 38880 38989	We did it by taking $60 billion that was going to banks
 T993	Claim 62602 62683	who are here just because they're trying to figure out how to feed their families
 T994	Claim 70567 70597	I gave them three instructions
 T995	Claim 71509 71566	when it comes to our national security, I mean what I say
-T997	Claim 95066 95099	I want high wage, high skill jobs
-T999	Claim 35056 35082	Well of course they add up
-T1002	Claim 24303 24309	I have
-T1004	Premise 63087 63294	Now, Governor Romney just said, you know he wants to help those young people too, but during the Republican primary, he said, "I will veto the DREAM Act", that would allow these young people to have access."
+T996	Claim 95066 95099	I want high wage, high skill jobs
+T997	Claim 35056 35082	Well of course they add up
+T998	Claim 24303 24309	I have
+T999	Premise 63087 63294	Now, Governor Romney just said, you know he wants to help those young people too, but during the Republican primary, he said, "I will veto the DREAM Act", that would allow these young people to have access."
 R1	Support Arg1:T2 Arg2:T3
 R2	Support Arg1:T836 Arg2:T837
 R3	Support Arg1:T930 Arg2:T929
@@ -1081,7 +1081,7 @@ R81	Support Arg1:T110 Arg2:T111
 R82	Support Arg1:T236 Arg2:T231
 R83	Support Arg1:T368 Arg2:T367
 R84	Support Arg1:T446 Arg2:T445
-R85	Support Arg1:T507 Arg2:T1002
+R85	Support Arg1:T507 Arg2:T998
 R86	Support Arg1:T580 Arg2:T578
 R87	Support Arg1:T687 Arg2:T994
 R88	Support Arg1:T763 Arg2:T762
@@ -1201,7 +1201,7 @@ R202	Support Arg1:T126 Arg2:T124
 R203	Support Arg1:T255 Arg2:T256
 R204	Support Arg1:T397 Arg2:T395
 R205	Support Arg1:T464 Arg2:T465
-R206	Support Arg1:T1002 Arg2:T523
+R206	Support Arg1:T998 Arg2:T523
 R207	Support Arg1:T603 Arg2:T602
 R208	Support Arg1:T703 Arg2:T699
 R209	Support Arg1:T784 Arg2:T782
@@ -1583,7 +1583,7 @@ R584	Support Arg1:T662 Arg2:T663
 R585	Support Arg1:T736 Arg2:T742
 R586	Support Arg1:T831 Arg2:T830
 R587	Support Arg1:T72 Arg2:T63
-R588	Support Arg1:T997 Arg2:T913
+R588	Support Arg1:T996 Arg2:T913
 R589	Support Arg1:T182 Arg2:T180
 R590	Support Arg1:T300 Arg2:T301
 R591	Support Arg1:T557 Arg2:T556
@@ -1591,14 +1591,14 @@ R592	Attack Arg1:T664 Arg2:T663
 R593	Support Arg1:T747 Arg2:T746
 R594	Support Arg1:T832 Arg2:T830
 R595	Support Arg1:T73 Arg2:T65
-R596	Support Arg1:T997 Arg2:T914
+R596	Support Arg1:T996 Arg2:T914
 R597	Support Arg1:T181 Arg2:T179
 R598	Support Arg1:T301 Arg2:T297
 R599	Support Arg1:T554 Arg2:T555
 R600	Support Arg1:T663 Arg2:T660
 R601	Support Arg1:T748 Arg2:T749
 R602	Support Arg1:T74 Arg2:T65
-R603	Support Arg1:T997 Arg2:T915
+R603	Support Arg1:T996 Arg2:T915
 R604	Support Arg1:T179 Arg2:T180
 R605	Support Arg1:T302 Arg2:T297
 R606	Support Arg1:T556 Arg2:T555
@@ -1703,9 +1703,9 @@ R705	Support Arg1:T344 Arg2:T345
 R706	Support Arg1:T346 Arg2:T343
 R707	Support Arg1:T345 Arg2:T343
 R708	Support Arg1:T352 Arg2:T353
-R709	Support Arg1:T349 Arg2:T999
-R710	Support Arg1:T350 Arg2:T999
-R711	Support Arg1:T351 Arg2:T999
+R709	Support Arg1:T349 Arg2:T997
+R710	Support Arg1:T350 Arg2:T997
+R711	Support Arg1:T351 Arg2:T997
 R712	Support Arg1:T356 Arg2:T355
 R713	Support Arg1:T357 Arg2:T355
 R714	Support Arg1:T355 Arg2:T358
