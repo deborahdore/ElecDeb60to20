@@ -2,8 +2,8 @@ import pandas as pd
 
 if __name__ == '__main__':
 
-    df = pd.read_json("/Users/ddore/Downloads/3_1960.json")
-    ann_file = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/txt/3_1960"
+    df = pd.read_json("./1_1960.json")
+    ann_file = "./1_1960"
     read_file = [line.rstrip("\n") for line in open(f"{ann_file}.txt", "r", encoding="utf-8")]
 
     full_text = "\n".join(read_file) + "\n"
@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     label_idx = 1
 
-    with open(f"prova.ann", "w", encoding="utf-8") as ann_file:
+    with open(f"{ann_file}.ann", "w", encoding="utf-8") as ann_file:
         for _, row in df.iterrows():
             speech_id = row['inner_id']
             speech_text = row['data']['text']
