@@ -33,6 +33,7 @@ T32	Premise 3418 3452	we're the only ones that can do it
 T33	Claim 3465 3512	the burden of maintaining the peace falls on us
 T34	Claim 3518 3558	to maintain that peace requires strength
 T35	Claim 3560 3620	America has never gotten in a war because we were too strong
+T36	Premise 60503 60652	the air pollution standard laws that were passed in California were passed over the objections of Governor Reagan, and this is a very well-known fact
 T37	Claim 3622 3677	We can get into a war by letting events get out of hand
 T38	Premise 3679 3792	as they have in the last three and a half years under the foreign policies of this Administration of Mr. Carter's
 T39	Premise 3794 3835	until we're faced each time with a crisis
@@ -44,17 +45,17 @@ T44	Premise 3841 3965	good management in preserving the peace requires that we c
 T45	Premise 5548 5619	my tax cut does not come close to eliminating that $86 billion increase
 T46	Premise 5621 5665	I'm only reducing the amount of the increase
 T47	Claim 5683 5837	what I'm talking about is not putting government back to getting less money than government's been getting, but simply cutting the increase in in spending
+T48	Premise 7418 7538	what we've done is use that enormous power and prestige and military strength of the United States to preserve the peace
 T49	Claim 5199 5324	we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed
 T50	Premise 5353 5542	Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year
+T51	Claim 6890 6965	I've also learned that there are no simple answers to complicated questions
 T52	Premise 4846 4986	I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it
 T53	Claim 4992 5122	believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture
 T54	Claim 5129 5188	it can provide for a balanced budget by 1983 if not earlier
 T55	Claim 6775 6888	I think I'm a much wiser and more experienced man than I was when I debated four years ago against President Ford
 T56	Premise 6574 6667	I've had to make thousands of decisions since I've been President, serving in the Oval Office
 T57	Premise 6673 6773	with each one of those decisions that affect the future of my country, I have learned in the process
-T51	Claim 6890 6965	I've also learned that there are no simple answers to complicated questions
 T58	Premise 6967 7074	H. L. Mencken said that for every problem there's a simple answer. It would be neat and plausible and wrong
-T48	Premise 7418 7538	what we've done is use that enormous power and prestige and military strength of the United States to preserve the peace
 T59	Claim 7540 7648	We've not only kept peace for our own country, but we've been able to extend the benefits of peace to others
 T60	Premise 7650 7827	In the Middle East, we've worked for a peace treaty between Israel and Egypt, successfully, and have tied ourselves together with Israel and Egypt in a common defense capability
 T61	Claim 7093 7191	this nation, in the eight years before I became President, had its own military strength decreased
@@ -174,20 +175,20 @@ T174	Claim 24665 24710	I think there are things to do in this regard
 T175	Claim 25983 25998	I believe in it
 T176	Premise 26056 26175	we've made great progress from the days when I was young and when this country didn't even know it had a racial problem
 T177	Premise 26000 26025	I am eternally optimistic
+T178	Claim 27670 27708	This has been a very successful effort
 T179	Claim 26345 26405	I believe the Presidency is what Teddy Roosevelt said it was
 T180	Claim 26407 26426	It's a bully pulpit
 T181	Claim 26487 26744	a goal for all of us should be that one day, things will be done neither because of nor in spite of any of the differences between us - ethnic differences or racial differences, whatever they may be - that we will have total equal opportunity for all people
 T182	Claim 26750 26811	I would do everything I could in my power to bring that about
-T178	Claim 27670 27708	This has been a very successful effort
 T183	Claim 27989 28105	We now are planning to continue the revitalization program with increased commitments of rapid transit, mass transit
 T184	Claim 28251 28288	We also are pursuing housing programs
 T185	Claim 27746 27805	we've had such an increase in the number of people employed
+T186	Claim 28562 28652	It's very important to us that this be done with the full involvement of minority citizens
+T187	Premise 28654 28903	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
 T188	Premise 27807 27987	Of the nine million people put to work in new jobs since I've been in office, 1.3 million of those has been among black Americans, and another million among those who speak Spanish
 T189	Premise 28107 28249	Under the windfall profits tax, we expect to spend about $43 billion in the next 10 years to rebuild the transportation systems of our country
 T190	Premise 28290 28371	We've had a 73% increase in the allotment of Federal funds for improved education
 T191	Premise 28373 28560	These are the kinds of efforts worked on a joint basis with community leaders, particularly in the minority areas of the central cities that have been deteriorating so rapidly in the past
-T186	Claim 28562 28652	It's very important to us that this be done with the full involvement of minority citizens
-T187	Premise 28654 28903	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
 T192	Claim 29199 29229	we still have a long way to go
 T193	Claim 29137 29193	We have gone a long way toward correcting these problems
 T194	Claim 29760 29812	Ours is a nation of refugees, a nation of immigrants
@@ -374,6 +375,7 @@ T374	Claim 60230 60300	that have added $130 billion to the cost of production in
 T375	Claim 60306 60351	that are contributing their part to inflation
 T376	Premise 59218 59301	The Department of Energy has a multi-billion-dollar budget in excess of $10 billion
 T377	Premise 59303 59394	It hasn't produced a quart of oil or a lump of coal, or anything else in the line of energy
+T378	Premise 60670 60789	when someone suggested that the Occupational Safety and Health Act should be abolished, Governor Reagan responded, amen
 T379	Claim 61279 61373	we're not putting restraints on American exploration, we're encouraging it in every way we can
 T380	Premise 61096 61274	We have, with our five-year plan for the leasing of offshore lands, proposed more land to be drilled than has been opened up for drilling since this program first started in 1954
 T381	Claim 61455 61718	If it is a well-known fact that I opposed air pollution laws in California, the only thing I can possibly think of is that the President must be suggesting the law that the Federal Government tried to impose on the State of California - not a law, but regulations
@@ -541,8 +543,6 @@ T542	Premise 86263 86328	I know that we did give back authority and autonomy to 
 T543	Claim 86330 86420	I would like to have a crusade today, and I would like to lead that crusade with your help
 T544	Claim 86426 86586	it would be one to take Government off the backs of the great people of this country, and turn you loose again to do those things that I know you can do so well
 T545	Premise 86596 86636	you did them and made this country great
-T36	Premise 60503 60652	the air pollution standard laws that were passed in California were passed over the objections of Governor Reagan, and this is a very well-known fact
-T378	Premise 60670 60789	when someone suggested that the Occupational Safety and Health Act should be abolished, Governor Reagan responded, amen
 T546	Premise 60890 61000	in the proposal for the Alaska lands legislation, 100% of all the offshore lands would be open for exploration
 T547	Premise 61006 61094	95% of all the Alaska lands, where it is suspected or believed that minerals might exist
 T548	Claim 65251 65299	which would, in effect, very quickly bankrupt it

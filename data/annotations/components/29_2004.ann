@@ -46,6 +46,7 @@ T45	Premise 4066 4170	We've upheld the doctrine that said if you harbor a terror
 T46	Premise 4213 4308	Ten million people have registered to vote in Afghanistan in the upcoming presidential election
 T47	Premise 4311 4445	In Iraq, we saw a threat, and we realized that after September the 11th, we must take threats seriously, before they fully materialize
 T48	Claim 4529 4625	We continue to pursue our policy of disrupting those who proliferate weapons of mass destruction
+T49	Premise 4628 4646	Libya has disarmed
 T50	Premise 4648 4697	The A.Q. Khan network has been brought to justice
 T51	Premise 4777 4821	I understand free nations will reject terror
 T52	Premise 4823 4889	Free nations will answer the hopes and aspirations of their people
@@ -58,7 +59,6 @@ T58	Premise 5773 5834	that'll attack unmercifully in Iraq, hoping to shake our w
 T59	Claim 5837 5872	We have a duty to defeat this enemy
 T60	Claim 5874 5930	We have a duty to protect our children and grandchildren
 T61	Claim 5933 6106	The best way to defeat them is to never waver, to be strong, to use every asset at our disposal, is to constantly stay on the offensive and, at the same time, spread liberty
-T49	Premise 4628 4646	Libya has disarmed
 T62	Claim 6113 6174	that's what people are seeing now is happening in Afghanistan
 T63	Premise 6177 6221	Ten million citizens have registered to vote
 T64	Premise 6223 6250	It's a phenomenal statistic
@@ -66,6 +66,7 @@ T65	Claim 6287 6317	they will show up at the polls
 T66	Premise 6257 6285	if given a chance to be free
 T67	Premise 6319 6366	Forty-one percent of those 10 million are women
 T68	Claim 6369 6407	In Iraq, no doubt about it, it's tough
+T69	Claim 6409 6423	It's hard work
 T70	Claim 6425 6445	It's incredibly hard
 T71	Premise 6469 6497	an enemy realizes the stakes
 T72	Premise 6499 6583	The enemy understands a free Iraq will be a major defeat in their ideology of hatred
@@ -153,6 +154,7 @@ T153	Claim 13447 13462	We will succeed
 T154	Claim 13464 13489	We've got a plan to do so
 T155	Premise 13536 13562	the Iraqis want to be free
 T156	Premise 13565 13701	I had the honor of visiting with Prime Minister Allawi. He's a strong, courageous leader. He believes in the freedom of the Iraqi people
+T157	Premise 13704 13803	He doesn't want U.S. leadership, however, to send mixed signals, to not stand with the Iraqi people
 T158	Claim 13806 13891	He believes, like I believe, that the Iraqis are ready to fight for their own freedom
 T159	Claim 13893 13930	They just need the help to be trained
 T160	Premise 13932 13966	There will be elections in January
@@ -399,11 +401,13 @@ T400	Claim 32903 32925	our alliance is strong
 T401	Premise 32951 32999	there's going to be a summit of the Arab nations
 T402	Premise 33001 33031	Japan will be hosting a summit
 T403	Claim 33033 33054	We're making progress
+T404	Claim 33057 33072	It is hard work
 T405	Claim 33074 33125	It is hard work to go from a tyranny to a democracy
 T406	Claim 33127 33244	It's hard work to go from a place where people get their hands cut off, or executed, to a place where people are free
 T407	Claim 33251 33270	it's necessary work
 T408	Claim 33276 33337	a free Iraq is going to make this world a more peaceful place
 T409	Claim 33393 33509	I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake
+T410	Premise 33515 33595	what he has said is that, even knowing there were no weapons of mass destruction
 T411	Premise 33742 33761	Those are his words
 T412	Claim 33768 33779	I would not
 T413	Claim 33948 34000	The president says that I'm denigrating these troops
@@ -419,11 +423,8 @@ T422	Claim 34636 34682	meanwhile, North Korea has got nuclear weapons
 T423	Premise 34711 34797	The president is the one that said, "We can't allow countries to get nuclear weapons."
 T424	Claim 34798 34807	They have
 T425	Claim 34809 34825	I'll change that
-T157	Premise 13704 13803	He doesn't want U.S. leadership, however, to send mixed signals, to not stand with the Iraqi people
-T69	Claim 6409 6423	It's hard work
-T404	Claim 33057 33072	It is hard work
-T427	Claim 35290 35345	I think he has not been candid with the American people
 T426	Premise 35392 35502	we all know that in his state of the union message, he told Congress about nuclear materials that didn't exist
+T427	Claim 35290 35345	I think he has not been candid with the American people
 T428	Premise 35518 35579	he promised America that he was going to build this coalition
 T429	Premise 35613 35705	It is not the kind of coalition we were described when we were talking about voting for this
 T430	Premise 35708 35822	The president said he would exhaust the remedies of the United Nations and go through that full process. He didn't
@@ -718,8 +719,8 @@ T718	Premise 64123 64145	Colin Powell so stated
 T719	Claim 64559 64622	I agree with my opponent that we shouldn't be committing troops
 T720	Claim 64624 64678	We ought to be working with the African Union to do so
 T721	Claim 64682 64714	precisely what we did in Liberia
-T723	Premise 64716 64818	We helped stabilize the situation with some troops, and when the African Union came, we moved them out
 T722	Claim 65966 66005	he changes positions on the war in Iraq
+T723	Premise 64716 64818	We helped stabilize the situation with some troops, and when the African Union came, we moved them out
 T724	Claim 66134 66176	You cannot lead if you send mixed messages
 T725	Premise 66178 66229	Mixed messages send the wrong signals to our troops
 T726	Premise 66231 66282	Mixed messages send the wrong signals to our allies
@@ -849,7 +850,6 @@ T849	Claim 81843 81901	I believe that the free Iraq is in this nation's interest
 T850	Claim 81903 81960	I believe a free Afghanistan is in this nation's interest
 T851	Claim 81967 82122	I believe both a free Afghanistan and a free Iraq will serve as a powerful example for millions who plead in silence for liberty in the broader Middle East
 T852	Claim 7952 8006	all believe I would make a stronger commander in chief
-T410	Premise 33515 33595	what he has said is that, even knowing there were no weapons of mass destruction
 T853	Premise 33597 33638	even knowing there was no imminent threat
 T854	Premise 33640 33690	even knowing there was no connection with Al Qaida
 T855	Claim 33692 33740	he would still have done everything the same way

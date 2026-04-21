@@ -14,11 +14,11 @@ T13	Premise 4664 4963	we might channel specific uh targeted job - job - uh oppor
 T14	Claim 4969 5111	I believe that by the end of the first four years of uh - of the next term we could have the unemployment down to 3 percent adult unemployment
 T15	Premise 5113 5312	which is about uh - 4 to 4 and a half percent overall uh controlled inflation rate and have a uh balance of growth of about - uh 4 to 6 percent, around 5 percent which would give us a balanced budget
 T16	Premise 5600 5693	we now have such uh - a low utilization of uh - our productive capacity - uh about 73 percent
+T17	Claim 5925 6083	I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary
 T18	Premise 5695 5757	I think it's about the lowest since the Great Depression years
+T19	Claim 6085 6194	I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work
 T20	Premise 5760 5814	and such a high unemployment rate now - uh 7.9 percent
 T21	Claim 5827 5919	we have a long way to go in getting people to work before we have the inflationary pressures
-T17	Claim 5925 6083	I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary
-T19	Claim 6085 6194	I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work
 T22	Premise 6200 6379	with tax incentives for the low-income groups we could build up their uh - income levels uh - above the poverty level and not uh make welfare more uh - profitable than - than work
 T23	Claim 6427 6545	I don't believe that uh that Mr. Carter's been any more specific in this case than he has been on many other instances
 T24	Premise 6547 6702	I notice particularly that he didn't endorse the Humphrey-Hawkins bill which he has on occasions and which is included as a part of the Democratic platform
@@ -69,12 +69,12 @@ T68	Claim 12217 12272	The present tax structure is a disgrace to this country
 T69	Claim 12274 12314	it's just a welfare program for the rich
 T70	Premise 12342 12441	25 percent of the total tax deductions, go for only 1 percent of the richest people in this country
 T71	Premise 12447 12544	over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country
+T72	Claim 12147 12215	Mr. Ford is - is uh changing uh considerably his previous philosophy
 T73	Premise 12546 12815	When Mr. Ford first became president in - in August of 1974, the first thing he did in - in October was to ask for a $4.7 billion increase in taxes on our people in the midst of the heaviest recession, since uh - since the great depression of nineteen uh - of the 1940s
 T74	Premise 12817 13024	In uh - January of 1975 he asked for a tax change: a $5.6 billion increase on low-and-middle-income private individuals, a six and a half billion dollar decrease on the corporations and the special interests
 T75	Premise 13026 13160	In uh - December of uh - 1975 he vetoed the roughly 18 to 20 billion dollar uh tax-reduction bill that had been passed by the Congress
 T76	Premise 13166 13410	then he came back later on in January of this year and he did advocate a $10 billion tax reduction, but it would be offset by a $6 billion increase this coming January in deductions for Social Security payments and for unemployment compensation
 T77	Claim 13412 13568	The whole philosophy of the Republican party, including uh - my opponent, has been to pile on taxes on low-income people to take 'em off on the corporations
-T72	Claim 12147 12215	Mr. Ford is - is uh changing uh considerably his previous philosophy
 T78	Premise 13570 13767	As a matter fact, in - sin- since the late sixties when Mr. Nixon took office, we've had a reduction in uh - in the percentage of taxes paid by corporations from 30 percent down to about 20 percent
 T79	Premise 13769 13867	We've had an increase in taxes paid by individuals, payroll taxes, from14 Percent up to 20 percent
 T80	Premise 13873 13917	this is what the Republicans have done to us
@@ -520,6 +520,9 @@ T519	Premise 66832 66983	That story reported several times that I would lower ta
 T520	Claim 66988 67112	I am sure that the president knows about this uh - correction, but he still insists uh - on repeating an erroneous statement
 T521	Claim 68099 68216	the president ought to have a chance to appoint a chairman of the Federal Reserve Board to have a coterminous uh term
 T522	Claim 68218 68278	in other words, both of 'em serve the same four - four years
+T523	Claim 70024 70065	we have had a responsible monetary policy
+T524	Premise 69831 69894	The chairman of the Federal Reserve Board should be independent
+T525	Premise 69896 69976	Fortunately, he has been during Democratic as well as Republican administrations
 T526	Claim 68581 68702	I think that Mr. uh - Burns did take a typical, erroneous Republican attitude in the 1973 year when inflation was so high
 T527	Premise 68704 68844	They assumed that the uh - inflation rate was because of excessive demand and uh - therefore put into effect tight constraint on the economy
 T528	Premise 68846 69038	very high interest rates, which is typical also of the Republican administration, uh - tried to increase the uh - the tax uh - payments by individuals, and cut the tax payments by corporations
@@ -528,9 +531,6 @@ T530	Claim 69076 69332	I think the uh - problem should've been addressed by incr
 T531	Claim 69343 69401	Mr. Burns uh - in that respect made a very serious mistake
 T532	Claim 69403 69488	I would not wanna destroy the - the independence of the uh Federal Reserve - uh Board
 T533	Claim 69494 69782	I do think we ought to have a cohesive economic policy with at - at least the chairman of the Federal Reserve Board and the president's terms being uh - the same and letting the Congress, of course, be the third uh - entity with uh - with independence subject only to the president's veto
-T523	Claim 70024 70065	we have had a responsible monetary policy
-T524	Premise 69831 69894	The chairman of the Federal Reserve Board should be independent
-T525	Premise 69896 69976	Fortunately, he has been during Democratic as well as Republican administrations
 T534	Premise 70070 70207	the Federal Reserve Board indicated that the supply of money would be held between four to four and a half and seven and seven and a half
 T535	Claim 70209 70359	They have done a good job in integrating the money supply with the uh - fiscal policy of the uh - executive and legislative branches of the government
 T536	Premise 70361 70492	It would be catastrophic if the chairman of the Federal Reserve Board became the tool of the political uh - party that was in power

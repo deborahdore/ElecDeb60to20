@@ -242,11 +242,11 @@ T241	Premise 29758 29916	you yourself said to Khrushchev, "You may be ahead of u
 T242	Claim 29918 29984	I think that color television is not as important as rocket thrust
 T243	Claim 29996 30044	I didn't say we had the worst slums in the world
 T244	Premise 30046 30074	I said we had too many slums
-T248	Claim 30223 30275	I didn't say we had the worst education in the world
-T249	Premise 30277 30494	What I said was that ten years ago, we were producing twice as many scientists and engineers as the Soviet Union and today they're producing twice as many as we are, and that this affects our security around the world
 T245	Premise 30080 30138	that they are bad, and we ought to do something about them
 T246	Premise 30144 30221	we ought to support housing legislation which this Administration has opposed
 T247	Claim 30508 30835	I believe that the polls and other studies and votes in the United Nations and anyone reading the paper and any citizen of the United States must come to the conclusion that the United States no longer carries the same image of a vital society on the move with its brightest days ahead as it carried a decade or two decades ago
+T248	Claim 30223 30275	I didn't say we had the worst education in the world
+T249	Premise 30277 30494	What I said was that ten years ago, we were producing twice as many scientists and engineers as the Soviet Union and today they're producing twice as many as we are, and that this affects our security around the world
 T250	Premise 30861 30891	we've stood still here at home
 T251	Premise 30901 30949	we haven't met our problems in the United States
 T252	Premise 30959 30990	we haven't had a moving economy
@@ -256,6 +256,7 @@ T255	Claim 31246 31339	We're first in other areas of science but in space, which
 T256	Claim 31589 31649	the Russians may have resumed the testing of nuclear devices
 T257	Claim 31895 32019	I think the next president of the United States should make one last effort to secure an agreement on the cessation of tests
 T258	Claim 32033 32139	I think we should go back to Geneva, who's ever elected president, Mr. Nixon or myself, and try once again
+T259	Claim 33254 33443	if we fail responsibility will be clearly on the Russians and then we'll have to meet our responsibilities to the security of the United States, and there may have to be testing underground
 T260	Premise 32204 32351	I hope we can come to an agreement because it does not merely involve now the United States, Britain, France, and the Soviet Union as atomic powers
 T261	Premise 32361 32782	new breakthroughs in atomic energy technology there's some indications that by the time the next president's term of office has come to an end, there may be ten, fifteen, or twenty countries with an atomic capacity, perhaps that many testing bombs with all the effect that it could have on the atmosphere and with all the chances that more and more countries will have an atomic capacity, with more and more chance of war
 T262	Claim 32787 32817	one more effort should be made
@@ -264,7 +265,6 @@ T264	Premise 32956 32991	They can be carried out underground
 T265	Premise 32993 33035	they c- could be carried on in outer space
 T266	Claim 33041 33139	I believe the effort should be made once more by who's ever elected president of the United States
 T267	Claim 33141 33220	If we fail, it's been a great serious failure for everyone - for the human race
-T259	Claim 33254 33443	if we fail responsibility will be clearly on the Russians and then we'll have to meet our responsibilities to the security of the United States, and there may have to be testing underground
 T268	Claim 33445 33499	I think the Atomic Energy Committee is prepared for it
 T269	Claim 33501 33536	There may be testing in outer space
 T270	Premise 33538 33624	I hope it will not be necessary for any power to resume uh - testing in the atmosphere
@@ -300,8 +300,8 @@ T299	Claim 37092 37109	We do not help it
 T300	Premise 37111 37217	We can, in other words, negotiate many of these items of difference between us without going to the summit
 T301	Claim 37219 37386	I think we have to make a greater effort than we have been making at the secretary of state level, at the ambassadorial level, to work out the differences that we have
 T302	Premise 37392 37712	so far as the summit conference is concerned, it should only be entered in upon, it should only be agreed upon, if the negotiations have reached the point that we have some reasonable assurance that something is going to come out of it, other than some phony spirit - a spirit of Geneva, or Camp David, or whatever it is
-T304	Premise 37815 37880	the Soviet Union simply doesn't intend to carry out what they say
 T303	Claim 37932 37966	I cannot be more precise than that
+T304	Premise 37815 37880	the Soviet Union simply doesn't intend to carry out what they say
 T305	Premise 37976 38077	until we see what Mr. Khrushchev does and what he says uh - we cannot indicate what our plans will be
 T306	Premise 38133 38345	I think the president of the United States last winter indicated that before he'd go to the summit in May he did last fall, he indicated that there should be some agenda, that there should be some prior agreement
 T307	Premise 38347 38422	He hoped that there would be uh - b- be an agreement in part in disarmament

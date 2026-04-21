@@ -10,6 +10,7 @@ T9	Premise 2168 2202	We passed family and medical leave
 T10	Premise 2285 2350	We passed 100,000 police, the assault weapons ban, the Brady Bill
 T11	Premise 2461 2485	We passed welfare reform
 T12	Claim 2736 2780	We can build that bridge to the 21st Century
+T13	Premise 7725 7847	which says you can't lose your health insurance just because you change jobs or because someone in your family's been sick
 T14	Claim 3572 3604	that's what America is all about
 T15	Claim 3829 3883	America is the greatest place on the face of the earth
 T16	Premise 3607 3707	I remember getting my future back from doctors and nurses and a doctor in Chicago named Dr. Kalikian
@@ -59,6 +60,7 @@ T59	Premise 7849 7993	Our government is smaller and less bureaucratic and has gi
 T60	Claim 7999 8079	I do believe we have to help our people get ready to succeed in the 21st Century
 T61	Claim 8149 8200	we are better off today than we were four years ago
 T62	Claim 8229 8271	he's better off than he was four years ago
+T63	Claim 10708 10761	we are clearly better off than we were four years ago
 T64	Premise 8386 8431	I looked at the slowest growth in the century
 T65	Premise 8433 8509	He inherited a growth of 4.7 4.8 percent, now it's down to about 2.4 percent
 T66	Premise 8511 8593	We're going to pass a million bankruptcies this year for the first time in history
@@ -92,6 +94,7 @@ T93	Premise 10269 10355	The average family's income has gone up over $1600 just 
 T94	Claim 10360 10428	I think it's clear that we're better off than we were four years ago
 T95	Claim 10430 10498	Now we need to focus on what do we need to do to be better off still
 T96	Claim 10500 10702	How can we help people as we are to get their retirements when they work for small businesses, to be able to afford health insurance, to be able to educate their children. That's what I want to focus on
+T97	Claim 12276 12362	It would have charged seniors more for out-of-pocket costs as well as more in premiums
 T98	Premise 10763 10801	as Senator Dole acknowledged this year
 T99	Claim 10834 10876	I doubt that I acknowledged that this year
 T100	Claim 10896 10929	I think we just look at the facts
@@ -105,7 +108,9 @@ T107	Claim 11787 11801	Absolutely not
 T108	Premise 11859 12033	in this campaign season, since Senator Dole's been a candidate, he has bragged about the fact that he voted against Medicare in the beginning, in 1965, one of only 12 members
 T109	Premise 12035 12108	He said he did the right thing then, he knew it wouldn't work at the time
 T110	Premise 12131 12274	Then his budget that he passed along with Speaker Gingrich cut Medicare $270 billion, more than was necessary to repair the Medicare trust fund
+T111	Premise 12409 12636	The American Medical, Hospital Association, the Nurses Association, the Catholic Hospital Association all said hundreds of hospitals could close and people would be hurt badly under the Dole-Gingrich Medicare plan that I vetoed
 T112	Premise 12371 12407	doctors could have charged them more
+T113	Premise 12711 12892	his own friends, his campaign co-chair, Senator D'Amato, says that they can't possibly pay for it without cutting Medicare more and cutting Social Security as well, according to him
 T114	Premise 12647 12704	with this risky $550 billion tax scheme of Senator Dole's
 T115	Claim 12900 12988	my balanced budget plan adds ten years to the life of the Medicare trust fund, ten years
 T116	Premise 12994 13065	we'll have time to deal with the long-term problems of the baby boomers
@@ -158,6 +163,7 @@ T162	Claim 16537 16576	he probably doesn't like this provision
 T163	Premise 16474 16535	the President gets millions of dollars from the trial lawyers
 T164	Premise 16587 16748	when I fell off the podium in Chico, before I lit the ground, hit the ground I had call on my cell phone from a trial lawyer saying I think we've got a case here
 T165	Premise 16754 16781	it's also regulatory reform
+T166	Premise 16967 17199	500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program
 T167	Premise 16920 16939	It sounds very good
 T168	Claim 17201 17456	It's a $550 billion tax scheme that will cause a big hole in the deficit which will raise interest rates and slow down the economy and cause people to pay more for home mortgages, car payments, credit card payments, college loans, and small business loans
 T169	Claim 17458 17492	It's not good to raise the deficit
@@ -211,6 +217,7 @@ T216	Claim 22748 22797	I think Senator Dole and I just honestly disagree
 T217	Claim 22587 22746	I believe that we should take a different approach to this and talk about how we stand on the issues instead of trying to characterize each other's motivations
 T218	Claim 22988 23015	I think it's very difficult
 T219	Claim 23054 23085	we need campaign finance reform
+T220	Claim 30281 30314	We just have a different approach
 T221	Premise 23131 23198	We've done about all, we are the reform party, the Republican Party
 T222	Claim 23586 23609	We couldn't get it done
 T223	Premise 23619 23639	I wasn't enforceable
@@ -219,6 +226,7 @@ T225	Claim 23296 23389	Whatever it is, whatever the checklist was in '92, it's a
 T226	Premise 23391 23467	I worked with Senator Mitchell, who played me, I guess, in the debate warmup
 T227	Premise 23469 23500	We tried six or eight years ago
 T228	Premise 23502 23584	He appointed three people, I appointed three people to get campaign finance reform
+T229	Premise 24446 24476	It took three and a half years
 T230	Claim 23741 23788	We have a commission on campaign finance reform
 T231	Premise 23641 23670	You've suggested a commission
 T232	Premise 23672 23689	Newt Gingrich did
@@ -234,7 +242,6 @@ T241	Premise 24186 24275	That was my first vote against tobacco companies when I
 T242	Claim 24281 24325	I've had a consistent record ever since 1965
 T243	Premise 24327 24422	We passed a bill in 1992 that encouraged the states to adopt programs to stop kids from smoking
 T244	Premise 24424 24444	All 50 states did it
-T229	Premise 24446 24476	It took three and a half years
 T245	Premise 24478 24568	It wasn't until election year, Mr. President, that you ever thought about stopping smoking
 T246	Premise 24640 24702	Cocaine is up 141 percent -- marijuana, cocaine up 166 percent
 T247	Claim 24724 24751	you have a selective memory
@@ -340,10 +347,10 @@ T346	Premise 33367 33433	two years later nobody's lost their handguns. I mean, t
 T347	Premise 33081 33361	when we had the assault weapons ban in the Senate, Senator Dole fought it bitterly and opposed the entire crime bill and almost brought the entire crime bill down because the National Rifle Association didn't want the assault weapons ban, just like they didn't want the Brady Bill
 T348	Premise 33022 33074	He didn't succeed and I signed it and I'm glad I did
 T349	Premise 32978 33020	He tried to keep it from coming to my desk
-T352	Premise 32832 32925	The Brady Bill has kept at least 60,000 felons, fugitives and stalkers from getting hand guns
-T353	Premise 32927 32976	Senator Dole led the fight against the Brady Bill
 T350	Claim 34254 34284	you ought to vote for Bob Dole
 T351	Claim 34289 34323	we'll get the instant check passed
+T352	Premise 32832 32925	The Brady Bill has kept at least 60,000 felons, fugitives and stalkers from getting hand guns
+T353	Premise 32927 32976	Senator Dole led the fight against the Brady Bill
 T354	Claim 34328 34373	we'll keep guns out of the hands of criminals
 T355	Claim 33662 33703	the President doesn't have it quite right
 T356	Premise 33713 33781	it seemed to me at the time the assault weapon ban was not effective
@@ -384,6 +391,7 @@ T390	Premise 36621 36647	they didn't have the tanks
 T391	Premise 36649 36673	They asked for the tanks
 T392	Premise 36734 36757	we were nation building
 T393	Claim 37460 37624	Americans shouldn't have gone there in the first place, had we let them defend themselves, as they have a right to do under Article 57 of the United Nations charter
+T394	Claim 37403 37419	We're way behind
 T395	Premise 37381 37401	We haven't done that
 T396	Premise 37268 37379	We agreed to train and arm the Muslims so they could defend themselves, the policy you had when you ran in 1992
 T397	Premise 36786 36823	We turn it over to the United Nations
@@ -543,6 +551,7 @@ T550	Premise 50776 50835	We have learned that you give him an inch he'll take a 
 T551	Claim 50837 50859	We had to do something
 T552	Claim 50865 51002	even though not all of our allies supported it at first, I think most of them now believe that what we did was an appropriate thing to do
 T553	Claim 51467 51486	It's a real problem
+T554	Premise 51041 51113	the president's own CIA director says Saddam is stronger now than he was
 T555	Premise 51115 51206	I don't understand extending the no-fly zone in the south when the trouble was in the north
 T556	Premise 51212 51349	what we've done during the Bush administration, the Kurds were at the State Department, negotiating, trying to work their differences out
 T557	Premise 51351 51404	Now we've got all thousands and thousands of refugees
@@ -600,9 +609,9 @@ T608	Premise 55901 55988	I hope they talked and I hope they've reached some resu
 T609	Claim 56750 56808	I believe America is the greatest country in human history
 T610	Premise 56817 56979	we have maintained freedom and increasing prosperity by relentlessly pushing the barriers of knowledge, the barriers of the present, always moving into the future
 T611	Claim 57350 57385	we're moving in the right direction
+T612	Premise 56981 57156	That's why when I became President I was determined to kind of move beyond this whole stale debate that had gone on in Washington for too long to get this country moving again
 T613	Premise 57162 57337	that's why we've got a country with ten and a half million more jobs, and record numbers of new businesses, and rising incomes, and falling crime rates, and welfare roll rates
 T614	Claim 57420 57463	what I want to do is to continue to do that
-T612	Premise 56981 57156	That's why when I became President I was determined to kind of move beyond this whole stale debate that had gone on in Washington for too long to get this country moving again
 T615	Claim 57476 57539	my balanced budget plan will still invest and grow this economy
 T616	Claim 57552 57629	I want a tax cut for education and child rearing, but it's got to be paid for
 T617	Claim 57642 57800	I want to continue the work we have done over partisan opposition, to work with communities to bring that crime rate down until our streets are all safe again
@@ -1054,24 +1063,15 @@ T1063	Claim 93119 93145	This election is important
 T1064	Premise 92642 92668	I'm someone older than you
 T1065	Premise 92674 92712	I've had my anxious moments in my life
 T1066	Premise 92714 92766	I've learned to feed myself and to walk and to dress
-T13	Premise 7725 7847	which says you can't lose your health insurance just because you change jobs or because someone in your family's been sick
-T63	Claim 10708 10761	we are clearly better off than we were four years ago
-T97	Claim 12276 12362	It would have charged seniors more for out-of-pocket costs as well as more in premiums
-T111	Premise 12409 12636	The American Medical, Hospital Association, the Nurses Association, the Catholic Hospital Association all said hundreds of hospitals could close and people would be hurt badly under the Dole-Gingrich Medicare plan that I vetoed
-T113	Premise 12711 12892	his own friends, his campaign co-chair, Senator D'Amato, says that they can't possibly pay for it without cutting Medicare more and cutting Social Security as well, according to him
 T1067	Premise 14384 14413	if we take politics out of it
-T166	Premise 16967 17199	500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program
-T220	Claim 30281 30314	We just have a different approach
 T1068	Premise 31459 31575	If we're going to protect American children and American families and people who live as prisoners in their own home
 T1069	Premise 34225 34252	if you want to be protected
 T1070	Claim 36675 36725	They didn't get the tanks from this administration
-T394	Claim 37403 37419	We're way behind
 T1071	Claim 39673 39774	then follow that policy instead of this bottom up review with all the services fighting for the money
 T1072	Premise 39846 39873	he cut defense $112 billion
 T1073	Claim 47766 47778	they said no
 T1074	Claim 48433 48470	I vetoed Senator Dole's Medicare plan
 T1075	Claim 49304 49331	no one will go without food
-T554	Premise 51041 51113	the president's own CIA director says Saddam is stronger now than he was
 T1076	Claim 52520 52546	that would have been wrong
 T1077	Claim 54378 54429	We have a very consistent policy in the Middle East
 T1078	Premise 54467 54500	to support the security of Israel
