@@ -463,3 +463,339 @@ T462	Claim 59625 59742	I don't want historians, ten years from now, to say, thes
 T463	Claim 59744 59872	I want them to say these were the years when the tide came in; these were the years when the United States started to move again
 T464	Claim 60032 60059	I think we're ready to move
 T465	Claim 60065 60142	it is to that great task, if we're successful, that we will address ourselves
+T466	Claim 19882 20007	it's rather difficult to use an overall figure taking those seven and a half years and comparing them to the last eight years
+T467	Premise 20009 20172	I prefer to take the overall percentage record of the last twenty years of the Democrats and the eight years of the Republicans to show an overall period of growth
+T468	Claim 33830 33866	it will be necessary to raise taxes.
+T469	Claim 39854 39894	I am in favor of unbalancing the budget.
+T470	Premise 47432 47594	I think four of the eight Democrats voted to send it to the floor of the House - not one Republican - and they joined with those Democrats who were opposed to it.
+T471	Claim 3351 3442	I'm not satisfied when we have over nine billion dollars worth of food - some of it rotting
+T472	Claim 8727 8926	I think we disagree on the implication of his remarks tonight and on the statements that he has made on many occasions during his campaign to the effect that the United States has been standing still
+T473	Claim 4128 4244	I'm not satisfied when I see men like Jimmy Hoffa - in charge of the largest union in the United States - still free
+T474	Premise 4868 5049	If a Negro baby is born - and this is true also of Puerto Ricans and Mexicans in some of our cities - he has about one-half as much chance to get through high school as a white baby
+T475	Premise 9923 10060	We have the record of the Truman Administration of seven and a half years and the seven and a half years of the Eisenhower Administration
+T476	Question 17457 17813	Mr. Vice President, your campaign stresses the value of your eight year experience, and the question arises as to whether that experience was as an observer or as a participant or as an initiator of policy-making. Would you tell us please specifically what major proposals you have made in the last eight years that have been adopted by the Administration?
+T477	Claim 17821 17903	It would be rather difficult to cover them in eight and- in two and a half minutes
+T478	Premise 18847 19106	Within the Administration, as a chairman of the President's Committee on Price Stability and Economic Growth, I have had the opportunity to make recommendations which have been adopted within the Administration and which I think have been reasonably effective
+T479	Claim 19108 19233	I know Senator Kennedy suggested in his speech at Cleveland yesterday that that committee had not been particularly effective
+T480	Premise 19235 19432	I would only suggest that while we do not take the credit for it - I would not presume to - that since that committee has been formed the price line has been held very well within the United States
+T482	Claim 19449 19659	I would say in the latter that the - and that's what I found uh - somewhat unsatisfactory about the figures uh - Mr. Nixon, that you used in your previous speech, when you talked about the Truman Administration
+T484	Premise 20174 20389	In regard to uh - price stability uh - I'm not aware that that committee did produce recommendations that ever were certainly before the Congress from the point of view of legislation in regard to controlling prices
+T485	Premise 20391 20490	In regard to the exchange of students and labor unions, I am chairman of the subcommittee on Africa
+T486	Claim 25681 25917	I would propose holding that income up not through a type of program that Senator Kennedy has suggested that would raise prices, but one that would indemnify the farmer, pay the farmer in kind uh - from the products which are in surplus
+T487	Premise 27972 28015	I do not say that I have made the decisions
+T488	Premise 28021 28149	I would say that no president should ever allow anybody else to make the major decisions, The president only makes the decisions
+T489	Premise 28151 28214	All that his advisers do is to give counsel when he asks for it
+T490	Premise 28469 28509	we came to the Congress in the same year
+T491	Claim 28511 28554	His experience has been different from mine
+T493	Claim 33610 33808	I think, too, that it should be pointed out that of course it is not possible, particularly under the proposals that Senator Kennedy has advocated, either to cut the national debt or to reduce taxes
+T494	Claim 36163 36265	I think that the reason that I voted against having the federal government uh - pay teachers' salaries
+T496	Premise 36279 36441	the very reason that concerned Senator Kennedy when in January of this year, in his kick-off press conference, he said that he favored aid for school construction
+T497	Premise 36532 36565	that's the way I read his remarks
+T498	Premise 40177 40313	My view is that you can do these programs - and they should be carefully drawn - within a balanced budget if our economy is moving ahead
+T499	Premise 41430 41494	We were threatened by a veto if we passed a dollar and a quarter
+T501	Claim 45497 45647	we get the opinion that in getting programs through the House or the Senate it's purely a question of legislative finagling and all that sort of thing
+T502	Claim 51452 51638	The test of whether America moves is whether the federal government, plus the state government, plus the local government, plus the biggest segment of all - individual enterprise - moves
+T503	Claim 51928 51967	the Eisenhower Administration has moved
+T504	Claim 51980 52084	that we've had the funds, for example, locally to build the schools, and the hospitals, and the highways
+R1	Support Arg1:T6 Arg2:T5
+R2	Support Arg1:T382 Arg2:T381
+R3	Support Arg1:T403 Arg2:T402
+R4	Support Arg1:T414 Arg2:T413
+R5	Support Arg1:T112 Arg2:T115
+R6	Support Arg1:T127 Arg2:T126
+R7	Support Arg1:T152 Arg2:T147
+R8	Equivalent Arg1:T204 Arg2:T196
+R9	Support Arg1:T229 Arg2:T227
+R10	Support Arg1:T271 Arg2:T270
+R11	Support Arg1:T325 Arg2:T324
+R12	Support Arg1:T359 Arg2:T358
+R13	Support Arg1:T11 Arg2:T12
+R14	Support Arg1:T383 Arg2:T382
+R15	Support Arg1:T503 Arg2:T401
+R16	Support Arg1:T422 Arg2:T421
+R17	Support Arg1:T113 Arg2:T115
+R18	Support Arg1:T128 Arg2:T126
+R19	Support Arg1:T150 Arg2:T152
+R20	Support Arg1:T221 Arg2:T216
+R21	Support Arg1:T227 Arg2:T226
+R22	Equivalent Arg1:T277 Arg2:T279
+R23	Support Arg1:T321 Arg2:T325
+R24	Support Arg1:T361 Arg2:T359
+R25	Support Arg1:T17 Arg2:T14
+R26	Support Arg1:T384 Arg2:T382
+R27	Support Arg1:T409 Arg2:T407
+R28	Support Arg1:T425 Arg2:T424
+R29	Support Arg1:T114 Arg2:T115
+R30	Support Arg1:T126 Arg2:T477
+R31	Support Arg1:T151 Arg2:T152
+R32	Support Arg1:T208 Arg2:T491
+R33	Support Arg1:T225 Arg2:T226
+R34	Equivalent Arg1:T277 Arg2:T284
+R35	Support Arg1:T327 Arg2:T326
+R36	Support Arg1:T362 Arg2:T357
+R37	Support Arg1:T8 Arg2:T9
+R38	Support Arg1:T385 Arg2:T382
+R39	Support Arg1:T408 Arg2:T407
+R40	Support Arg1:T426 Arg2:T424
+R41	Attack Arg1:T115 Arg2:T111
+R42	Equivalent Arg1:T129 Arg2:T126
+R43	Support Arg1:T156 Arg2:T158
+R44	Attack Arg1:T487 Arg2:T198
+R45	Attack Arg1:T225 Arg2:T223
+R46	Support Arg1:T282 Arg2:T278
+R47	Support Arg1:T330 Arg2:T329
+R48	Support Arg1:T363 Arg2:T359
+R49	Support Arg1:T23 Arg2:T471
+R50	Support Arg1:T390 Arg2:T381
+R51	Support Arg1:T402 Arg2:T503
+R52	Support Arg1:T428 Arg2:T429
+R53	Support Arg1:T122 Arg2:T123
+R54	Support Arg1:T130 Arg2:T129
+R55	Support Arg1:T161 Arg2:T163
+R56	Support Arg1:T488 Arg2:T198
+R57	Support Arg1:T235 Arg2:T234
+R58	Support Arg1:T283 Arg2:T278
+R59	Support Arg1:T329 Arg2:T328
+R60	Support Arg1:T364 Arg2:T363
+R61	Support Arg1:T24 Arg2:T471
+R62	Support Arg1:T387 Arg2:T386
+R63	Support Arg1:T504 Arg2:T503
+R64	Support Arg1:T431 Arg2:T430
+R65	Support Arg1:T118 Arg2:T117
+R66	Support Arg1:T478 Arg2:T477
+R67	Support Arg1:T153 Arg2:T154
+R68	Support Arg1:T489 Arg2:T198
+R69	Support Arg1:T239 Arg2:T234
+R70	Support Arg1:T286 Arg2:T285
+R71	Support Arg1:T332 Arg2:T330
+R72	Attack Arg1:T366 Arg2:T365
+R73	Attack Arg1:T10 Arg2:T5
+R74	Support Arg1:T392 Arg2:T390
+R75	Attack Arg1:T404 Arg2:T402
+R76	Attack Arg1:T454 Arg2:T448
+R77	Support Arg1:T119 Arg2:T117
+R78	Attack Arg1:T480 Arg2:T479
+R79	Support Arg1:T155 Arg2:T154
+R80	Attack Arg1:T206 Arg2:T198
+R81	Support Arg1:T242 Arg2:T241
+R82	Support Arg1:T287 Arg2:T278
+R83	Support Arg1:T334 Arg2:T333
+R84	Equivalent Arg1:T369 Arg2:T365
+R85	Support Arg1:T15 Arg2:T14
+R86	Support Arg1:T391 Arg2:T393
+R87	Equivalent Arg1:T401 Arg2:T399
+R88	Support Arg1:T433 Arg2:T429
+R89	Support Arg1:T117 Arg2:T123
+R90	Support Arg1:T466 Arg2:T482
+R91	Support Arg1:T166 Arg2:T165
+R92	Support Arg1:T205 Arg2:T198
+R93	Support Arg1:T238 Arg2:T236
+R94	Support Arg1:T290 Arg2:T289
+R95	Support Arg1:T335 Arg2:T333
+R96	Attack Arg1:T372 Arg2:T373
+R97	Support Arg1:T16 Arg2:T14
+R98	Support Arg1:T393 Arg2:T389
+R99	Equivalent Arg1:T401 Arg2:T400
+R100	Attack Arg1:T455 Arg2:T448
+R101	Support Arg1:T121 Arg2:T123
+R102	Support Arg1:T134 Arg2:T466
+R103	Support Arg1:T165 Arg2:T164
+R104	Support Arg1:T199 Arg2:T198
+R105	Support Arg1:T240 Arg2:T236
+R106	Equivalent Arg1:T291 Arg2:T278
+R107	Support Arg1:T348 Arg2:T341
+R108	Support Arg1:T470 Arg2:T374
+R109	Support Arg1:T18 Arg2:T14
+R110	Support Arg1:T395 Arg2:T394
+R111	Support Arg1:T436 Arg2:T437
+R112	Support Arg1:T467 Arg2:T482
+R113	Support Arg1:T167 Arg2:T164
+R114	Support Arg1:T200 Arg2:T198
+R115	Equivalent Arg1:T239 Arg2:T238
+R116	Support Arg1:T292 Arg2:T282
+R117	Support Arg1:T349 Arg2:T348
+R118	Support Arg1:T379 Arg2:T375
+R119	Support Arg1:T19 Arg2:T18
+R120	Support Arg1:T396 Arg2:T395
+R121	Support Arg1:T439 Arg2:T438
+R122	Support Arg1:T482 Arg2:T479
+R123	Support Arg1:T164 Arg2:T168
+R124	Support Arg1:T201 Arg2:T198
+R125	Support Arg1:T237 Arg2:T234
+R126	Support Arg1:T299 Arg2:T303
+R127	Support Arg1:T343 Arg2:T341
+R128	Support Arg1:T378 Arg2:T379
+R129	Support Arg1:T20 Arg2:T18
+R130	Attack Arg1:T438 Arg2:T428
+R131	Attack Arg1:T484 Arg2:T478
+R132	Support Arg1:T162 Arg2:T161
+R133	Support Arg1:T202 Arg2:T198
+R134	Support Arg1:T231 Arg2:T230
+R135	Support Arg1:T307 Arg2:T300
+R136	Support Arg1:T344 Arg2:T341
+R137	Attack Arg1:T358 Arg2:T501
+R138	Support Arg1:T21 Arg2:T18
+R139	Support Arg1:T438 Arg2:T440
+R140	Support Arg1:T485 Arg2:T138
+R141	Support Arg1:T159 Arg2:T158
+R142	Support Arg1:T203 Arg2:T198
+R143	Support Arg1:T232 Arg2:T230
+R144	Support Arg1:T294 Arg2:T291
+R145	Support Arg1:T345 Arg2:T344
+R146	Attack Arg1:T501 Arg2:T357
+R147	Support Arg1:T25 Arg2:T26
+R148	Support Arg1:T443 Arg2:T440
+R149	Attack Arg1:T138 Arg2:T127
+R150	Support Arg1:T175 Arg2:T174
+R151	Support Arg1:T490 Arg2:T207
+R152	Support Arg1:T233 Arg2:T230
+R153	Equivalent Arg1:T294 Arg2:T303
+R154	Support Arg1:T360 Arg2:T357
+R155	Support Arg1:T26 Arg2:T13
+R156	Support Arg1:T441 Arg2:T440
+R157	Support Arg1:T140 Arg2:T141
+R158	Support Arg1:T176 Arg2:T174
+R159	Support Arg1:T491 Arg2:T207
+R160	Support Arg1:T244 Arg2:T243
+R161	Support Arg1:T308 Arg2:T303
+R162	Support Arg1:T353 Arg2:T352
+R163	Attack Arg1:T370 Arg2:T369
+R164	Support Arg1:T27 Arg2:T13
+R165	Support Arg1:T456 Arg2:T446
+R166	Attack Arg1:T139 Arg2:T128
+R167	Support Arg1:T184 Arg2:T181
+R168	Attack Arg1:T217 Arg2:T207
+R169	Support Arg1:T248 Arg2:T247
+R170	Support Arg1:T300 Arg2:T303
+R171	Support Arg1:T499 Arg2:T326
+R172	Support Arg1:T377 Arg2:T378
+R173	Support Arg1:T28 Arg2:T13
+R174	Equivalent Arg1:T446 Arg2:T445
+R176	Support Arg1:T174 Arg2:T178
+R177	Support Arg1:T209 Arg2:T491
+R178	Support Arg1:T250 Arg2:T247
+R179	Support Arg1:T304 Arg2:T307
+R180	Support Arg1:T322 Arg2:T326
+R181	Support Arg1:T380 Arg2:T375
+R182	Support Arg1:T31 Arg2:T13
+R183	Support Arg1:T463 Arg2:T465
+R184	Support Arg1:T138 Arg2:T141
+R185	Support Arg1:T172 Arg2:T171
+R186	Attack Arg1:T218 Arg2:T207
+R187	Equivalent Arg1:T253 Arg2:T252
+R188	Attack Arg1:T312 Arg2:T313
+R189	Support Arg1:T336 Arg2:T333
+R190	Support Arg1:T473 Arg2:T13
+R191	Support Arg1:T462 Arg2:T465
+R192	Support Arg1:T139 Arg2:T141
+R193	Support Arg1:T170 Arg2:T171
+R194	Attack Arg1:T219 Arg2:T207
+R195	Support Arg1:T252 Arg2:T225
+R196	Support Arg1:T312 Arg2:T310
+R197	Support Arg1:T337 Arg2:T338
+R198	Support Arg1:T32 Arg2:T31
+R199	Support Arg1:T459 Arg2:T456
+R200	Support Arg1:T177 Arg2:T174
+R201	Attack Arg1:T220 Arg2:T207
+R202	Support Arg1:T257 Arg2:T468
+R203	Support Arg1:T311 Arg2:T310
+R204	Support Arg1:T340 Arg2:T339
+R205	Support Arg1:T33 Arg2:T13
+R206	Attack Arg1:T413 Arg2:T412
+R207	Equivalent Arg1:T168 Arg2:T173
+R208	Attack Arg1:T262 Arg2:T234
+R209	Support Arg1:T496 Arg2:T494
+R210	Support Arg1:T342 Arg2:T343
+R211	Support Arg1:T40 Arg2:T39
+R212	Support Arg1:T415 Arg2:T413
+R213	Equivalent Arg1:T179 Arg2:T181
+R214	Attack Arg1:T263 Arg2:T250
+R215	Attack Arg1:T276 Arg2:T496
+R216	Attack Arg1:T341 Arg2:T339
+R217	Equivalent Arg1:T41 Arg2:T40
+R218	Attack Arg1:T412 Arg2:T411
+R219	Support Arg1:T180 Arg2:T181
+R220	Support Arg1:T497 Arg2:T276
+R221	Attack Arg1:T348 Arg2:T339
+R222	Support Arg1:T42 Arg2:T39
+R223	Support Arg1:T424 Arg2:T423
+R224	Support Arg1:T182 Arg2:T181
+R225	Support Arg1:T260 Arg2:T263
+R226	Support Arg1:T281 Arg2:T280
+R227	Support Arg1:T350 Arg2:T348
+R228	Support Arg1:T43 Arg2:T39
+R229	Support Arg1:T432 Arg2:T433
+R230	Support Arg1:T186 Arg2:T187
+R231	Support Arg1:T266 Arg2:T265
+R232	Support Arg1:T280 Arg2:T282
+R233	Support Arg1:T50 Arg2:T49
+R234	Support Arg1:T449 Arg2:T448
+R235	Support Arg1:T188 Arg2:T186
+R236	Support Arg1:T267 Arg2:T266
+R237	Support Arg1:T288 Arg2:T287
+R238	Support Arg1:T64 Arg2:T62
+R239	Support Arg1:T452 Arg2:T448
+R240	Equivalent Arg1:T186 Arg2:T189
+R241	Support Arg1:T261 Arg2:T260
+R242	Support Arg1:T285 Arg2:T284
+R243	Support Arg1:T46 Arg2:T44
+R244	Support Arg1:T453 Arg2:T448
+R245	Support Arg1:T158 Arg2:T163
+R246	Attack Arg1:T261 Arg2:T246
+R247	Support Arg1:T309 Arg2:T303
+R248	Equivalent Arg1:T53 Arg2:T54
+R249	Support Arg1:T450 Arg2:T448
+R250	Support Arg1:T152 Arg2:T154
+R251	Attack Arg1:T256 Arg2:T257
+R252	Support Arg1:T498 Arg2:T311
+R253	Equivalent Arg1:T53 Arg2:T56
+R254	Support Arg1:T451 Arg2:T448
+R255	Support Arg1:T157 Arg2:T158
+R256	Equivalent Arg1:T468 Arg2:T262
+R257	Attack Arg1:T310 Arg2:T469
+R258	Equivalent Arg1:T54 Arg2:T56
+R259	Equivalent Arg1:T149 Arg2:T161
+R260	Equivalent Arg1:T57 Arg2:T58
+R261	Equivalent Arg1:T164 Arg2:T169
+R262	Support Arg1:T68 Arg2:T67
+R263	Support Arg1:T168 Arg2:T169
+R264	Support Arg1:T65 Arg2:T53
+R265	Support Arg1:T185 Arg2:T181
+R266	Support Arg1:T63 Arg2:T61
+R267	Support Arg1:T70 Arg2:T65
+R268	Attack Arg1:T75 Arg2:T18
+R269	Support Arg1:T80 Arg2:T77
+R270	Attack Arg1:T77 Arg2:T65
+R271	Support Arg1:T81 Arg2:T77
+R272	Support Arg1:T82 Arg2:T77
+R273	Support Arg1:T83 Arg2:T77
+R274	Support Arg1:T84 Arg2:T77
+R275	Support Arg1:T85 Arg2:T87
+R276	Support Arg1:T86 Arg2:T87
+R277	Support Arg1:T100 Arg2:T99
+R278	Support Arg1:T101 Arg2:T99
+R279	Support Arg1:T98 Arg2:T99
+R280	Support Arg1:T89 Arg2:T91
+R281	Support Arg1:T88 Arg2:T91
+R282	Support Arg1:T91 Arg2:T90
+R283	Support Arg1:T97 Arg2:T99
+R284	Support Arg1:T87 Arg2:T92
+R285	Support Arg1:T93 Arg2:T92
+R286	Support Arg1:T96 Arg2:T94
+R287	Support Arg1:T110 Arg2:T109
+R288	Support Arg1:T104 Arg2:T105
+R289	Support Arg1:T106 Arg2:T105
+R290	Support Arg1:T107 Arg2:T105
+R291	Support Arg1:T14 Arg2:T13
+R292	Support Arg1:T29 Arg2:T28
+R293	Support Arg1:T474 Arg2:T33
+R294	Support Arg1:T35 Arg2:T33
+R295	Support Arg1:T36 Arg2:T33
+R296	Support Arg1:T37 Arg2:T33
+R297	Support Arg1:T38 Arg2:T33
+R298	Attack Arg1:T45 Arg2:T46
+R299	Support Arg1:T73 Arg2:T472
+R300	Support Arg1:T74 Arg2:T75
+R301	Support Arg1:T75 Arg2:T472
+R302	Support Arg1:T475 Arg2:T77
+R303	Equivalent Arg1:T39 Arg2:T48
