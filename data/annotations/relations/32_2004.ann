@@ -52,7 +52,7 @@ T51	Claim 6779 6859	we took the right action and didn't allow contaminated medic
 T52	Claim 7083 7151	if you're healthy, if you're younger, don't get a flu shot this year
 T53	Claim 7366 7416	I haven't gotten a flu shot, and I don't intend to
 T54	Premise 7425 7486	I want to make sure those who are most vulnerable get treated
-T55	Premise 7190 7218;7266 7375	We're working with Canada to realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season
+T55	Premise 6861 6890;6937 7046	We're working with Canada to realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season
 T56	Premise 7153 7233	Help us prioritize those who need to get the flu shot, the elderly and the young
 T57	Claim 7624 7680	they have backed off from providing this kind of vaccine
 T58	Premise 7556 7608	Vaccine manufacturers are worried about getting sued
@@ -100,7 +100,7 @@ T99	Premise 11589 11608	6 million jobs lost
 T100	Claim 11696 11737	the only president to see exports go down
 T101	Claim 11739 11834	the only president to see the lowest level of business investment in our country as it is today
 T102	Claim 11895 11959	We're going to restore the fiscal discipline we had in the 1990s
-T103	Premise 12291 12322;12429 12478	Every plan that I have laid out I've shown exactly how I'm going to pay for those
+T103	Premise 11962 11994;12100 12149	Every plan that I have laid out I've shown exactly how I'm going to pay for those
 T104	Claim 11842 11867	I'm going to reverse that
 T105	Claim 11869 11893	I'm going to change that
 T106	Claim 13077 13122	This president has never once vetoed one bill
@@ -511,7 +511,7 @@ T510	Claim 45306 45339	I support it for the middle class
 T511	Premise 45341 45414	not that part of it that goes to people earning more than $200,000 a year
 T512	Claim 46046 46128	The jobs the president is creating pay $9,000 less than the jobs that we're losing
 T513	Premise 44768 44849	6 trillion surplus in the '90s that was for the purpose of saving Social Security
-T514	Claim 45180 45253;45325 45437	If you take the tax cut that the president of the United States has given just that tax cut that went to the top 1 percent of America would have saved Social Security until the year 2075
+T514	Claim 44851 44925;44996 45108	If you take the tax cut that the president of the United States has given just that tax cut that went to the top 1 percent of America would have saved Social Security until the year 2075
 T515	Premise 45111 45184	The president decided to give it to the wealthiest Americans in a tax cut
 T516	Claim 45421 45547	when I roll it back and we invest in the things that I have talked about to move our economy, we're going to grow sufficiently
 T517	Claim 45549 45715	it would begin to cut the deficit in half, and we get back to where we were at the end of the 1990s when we balanced the budget and paid down the debt of this country
@@ -714,7 +714,7 @@ T713	Claim 60750 60769	You agreed with him
 T714	Claim 60903 60947	Some of them say that it's a back-door draft
 T715	Premise 60950 61035	Is there any relief that could be offered to these brave Americans and their families
 T716	Premise 61078 61244	what would you do about this situation of holding National Guard and Reservists for these extended periods of time and these repeated call-ups that they're now facing
-T717	Claim 61590 61650;61796 61915	I think the fact that they're facing these repeated call-ups is a reflection of the bad judgment this president exercised in how he has engaged in the world and deployed our forces
+T717	Claim 61261 61321;61467 61586	I think the fact that they're facing these repeated call-ups is a reflection of the bad judgment this president exercised in how he has engaged in the world and deployed our forces
 T718	Claim 62723 62826	I believe the president broke faith with the American people in the way that he took this nation to war
 T719	Claim 61588 61616	Our military is overextended
 T720	Premise 61618 61721	Nine out of 10 active-duty Army divisions are either in Iraq, going to Iraq or have come back from Iraq
@@ -748,7 +748,7 @@ T747	Claim 64536 64611	I have never suggested a test where we turn over our secu
 T748	Premise 64718 64757	No nation will ever have a veto over us
 T749	Claim 64787 64876	I think most Americans in their guts know, that we ought to pass a sort of truth standard
 T750	Claim 64763 64785	I think it makes sense
-T751	Premise 65207 65265	That's how you gain legitimacy with your own countrypeople
+T751	Premise 64878 64937	That's how you gain legitimacy with your own countrypeople
 T752	Premise 64943 64986	that's how you gain legitimacy in the world
 T753	Claim 64993 65048	I'll never fail to protect the United States of America
 T754	Premise 65058 65142	In 1990, there was a vast coalition put together to run Saddam Hussein out of Kuwait
