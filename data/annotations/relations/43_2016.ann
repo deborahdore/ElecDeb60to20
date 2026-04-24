@@ -2,7 +2,7 @@ T1	Claim 2633 2744	I have major disagreements with my opponent about these issue
 T2	Claim 2750 2882	I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v
 T3	Claim 2895 2930	we stand up against Citizens United
 T4	Claim 3875 3918	The Supreme Court: It's what it's all about
-T5	Premise 3720 4008	Our country is so imperative that we have the right justices
+T5	Premise 3920 3937;3955 3997	Our country is so imperative that we have the right justices
 T6	Claim 6079 6109	I support the Second Amendment
 T7	Premise 6111 6153	I lived in Arkansas for 18 wonderful years
 T8	Premise 6155 6185	I represented upstate New York
@@ -32,7 +32,7 @@ T31	Claim 11406 11430	I strongly support Roe v
 T32	Claim 11438 11599	which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine
 T33	Premise 11619 11644	it's not only about Roe v
 T34	Premise 11652 11701	It is about what's happening right now in America
-T35	Premise 12223 12469	he said women should be punished there should be some form of punishment for women who obtain abortions
+T35	Premise 12353 12462	he said women should be punished, that there should be some form of punishment for women who obtain abortions
 T36	Claim 12468 12525	I could just not be more opposed to that kind of thinking
 T37	Premise 12289 12338	we have come too far to have that turned back now
 T38	Premise 13033 13071	I did not think that that was the case
@@ -79,13 +79,13 @@ T78	Claim 23398 23427	We will not have open borders
 T79	Premise 23484 23518	That is a rank mischaracterization
 T80	Claim 23559 23614	We will have secure borders, but we'll also have reform
 T81	Premise 23620 23654	this used to be a bipartisan issue
-T82	Claim 23639 23814	Ronald Reagan was the last president to sign immigration reform, and George W. Bush supported it, as well
+T82	Claim 23656 23692;23767 23835	Ronald Reagan was the last president to sign immigration reform, and George W. Bush supported it, as well
 T83	Claim 24073 24145	My dream is a hemispheric common market with open trade and open borders
 T84	Premise 24296 24371	if you went on to read the rest of the sentence, I was talking about energy
 T85	Claim 24383 24472	we trade more energy with our neighbors than we trade with the rest of the world combined
 T86	Premise 24478 24554	I do want us to have an electric grid, an energy system that crosses borders
 T87	Claim 24556 24599	I think that would be a great benefit to us
-T88	Claim 25123 25183;25205 25273;25297 25351;25358 25446	I actually think the most important question of this evening will Donald Trump admit and condemn that the Russians are doing this he will not have the help of Putin in in this election he rejects Russian espionage against Americans, which he actually encouraged in the past
+T88	Claim 225146 25466  I actually think the most important question of this evening will Donald Trump admit and condemn that the Russians are doing this he will not have the help of Putin in in this election he rejects Russian espionage against Americans, which he actually encouraged in the past
 T89	Premise 25468 25508	Those are the questions we need answered
 T90	Premise 25510 25582	We've never had anything like this happen in any of our elections before
 T91	Claim 25606 25669	That was a great pivot off the fact that she wants open borders
@@ -98,7 +98,7 @@ T97	Claim 26158 26196	They have no idea where they come from
 T98	Premise 26604 26629	He has no respect for her
 T99	Premise 26631 26666	He has no respect for our president
 T100	Claim 26692 26721	We're in very serious trouble
-T101	Premise 26533 26843	we have a country with tremendous numbers of nuclear warheads - 1,800, by the way - where they expanded and we didn't, 1,800 nuclear warheads
+T101	Premise 26731 26868	we have a country with tremendous numbers of nuclear warheads-1,800, by the way-where they expanded and we didn't, 1,800 nuclear warheads
 T102	Claim 26874 26895	she's playing chicken
 T103	Claim 26961 26998	I see, has no respect for this person
 T104	Claim 38716 38780	three times more than the tax cuts under the Bush administration
@@ -111,12 +111,12 @@ T110	Claim 28091 28106	She has no idea
 T111	Claim 28046 28080	I think it's time you take a stand
 T112	Premise 28161 28184	I am not quoting myself
 T113	Claim 28091 28150	She has no idea whether it's Russia, China, or anybody else
-T114	Claim 27128 27315	you won't admit the Russians have engaged in cyberattacks against the United States of America
+T114	Claim 27207 27222;27269 27352	you won't admit the Russians have engaged in cyberattacks against the United States of America
 T115	Claim 27359 27402	you encouraged espionage against our people
 T116	Claim 27409 27518	you are willing to spout the Putin line, sign up for his wish list, break up NATO, do whatever he wants to do
 T117	Claim 27529 27562	you continue to get help from him
 T118	Premise 27572 27613	he has a very clear favorite in this race
-T119	Premise 27911 28350	I am quoting 17 17 intelligence - do you doubt 17 military and civilian agencies
+T119	Premise 28219 28234;28285 28338;28391 28399	I am quoting 17 17 intelligence - do you doubt 17 military and civilian agencies
 T120	Claim 28408 28424	Yeah, I doubt it
 T121	Claim 28453 28573	he'd rather believe Vladimir Putin than the military and civilian intelligence professionals who are sworn to protect us
 T122	Claim 28613 28635	She doesn't like Putin
@@ -135,13 +135,13 @@ T134	Premise 30366 30455	This is a person who has been very cavalier, even casua
 T135	Premise 30484 30562	ON: ... advocated more countries getting them, Japan, Korea, even Saudi Arabia
 T136	Premise 30564 30617	He said, well, if we have them, why don't we use them
 T137	Claim 30625 30646	I think is terrifying
-T138	Premise 30688 31206	I have 200 generals and admirals, 21 endorsing me, 21 congressional Medal of Honor recipients
+T138	Premise 31117 31136;31174 31246	I have 200 generals and admirals, 21 endorsing me, 21 congressional Medal of Honor recipients
 T139	Premise 31246 31361	s. As far as Japan and other countries, we are being ripped off by everybody in the-we're defending other countries
 T140	Claim 31363 31397	We are spending a fortune doing it
 T141	Premise 31399 31435	They have the bargain of the century
 T142	Premise 31699 31755	she's been proven to be a liar on so many different ways
 T143	Claim 31757 31781	This is just another lie
-T144	Claim 31757 31985	I'm just quoting you when you were asked about a potential nuclear - nuclear competition in Asia, you said, you know, go ahead, enjoy yourselves, folks
+T144	Claim 31798 31838;31922 32030	I'm just quoting you when you were asked about a potential nuclear - nuclear competition in Asia, you said, you know, go ahead, enjoy yourselves, folks
 T145	Claim 32326 32405	I think it makes the world safer and, frankly, it makes the United States safer
 T146	Premise 32187 32285	N: The United States has kept the peace-the United States has kept the peace through our alliances
 T147	Claim 32138 32158	I didn't say nuclear
@@ -156,7 +156,7 @@ T155	Premise 33377 33470	my plan is based on growing the economy, giving middle-
 T156	Premise 33472 33584	I want us to have the biggest jobs program since World War II, jobs in infrastructure and advanced manufacturing
 T157	Claim 33586 33633	I think we can compete with high-wage countries
 T158	Claim 33639 33658	I believe we should
-T159	Premise 33609 33748	New jobs and clean energy, not only to fight climate change to create new opportunities and new businesses
+T159	Premise 33660 33719;33753 33799	New jobs and clean energy, not only to fight climate change to create new opportunities and new businesses
 T160	Claim 35741 35800	her plan is going to raise taxes and even double your taxes
 T161	Claim 35802 35828	Her tax plan is a disaster
 T162	Premise 35834 35881	she can say all she wants about college tuition
@@ -164,7 +164,7 @@ T163	Premise 35887 35906	I'm a big proponent
 T164	Premise 35908 35961	We're going to do a lot of things for college tuition
 T165	Claim 35967 36017	the rest of the public's going to be paying for it
 T166	Claim 36019 36092	We will have a massive, massive tax increase under Hillary Clinton's plan
-T167	Premise 35905 36211	I said Japan and Germany, South Korea, these are very rich, powerful countries
+T167	Premise 36148 36148;36210 36262	I said Japan and Germany, South Korea, these are very rich, powerful countries
 T168	Premise 36264 36295	Saudi Arabia, nothing but money
 T169	Claim 36297 36320	We protect Saudi Arabia
 T170	Claim 38401 38447	We are going to start the engine rolling again
@@ -262,11 +262,11 @@ T261	Claim 30472 30477	Wrong
 T262	Claim 56204 56230	I think that's been proven
 T263	Claim 54880 54918	she talks about violence at my rallies
 T264	Claim 54924 54947	she caused the violence
-T265	Claim 53586 54024	He went after Mr. and Mrs. Khan a Gold Star family, because of their religion
-T266	Claim 63841 64130	if you look at your voter rolls, you will see millions of people that are registered to vote that shouldn't be registered to vote
+T265	Claim 53970 54001;54060 54105	He went after Mr. and Mrs. Khan a Gold Star family, because of their religion
+T266	Claim 63975 64067;64199 64235	if you look at your voter rolls, you will see millions of people that are registered to vote that shouldn't be registered to vote
 T267	Claim 66967 67087	I think what the FBI did and what the Department of Justice did, including meeting with her husband, the attorney genera
-T268	Claim 53889 54115	He went after John McCain said he prefers "people who aren't captured
-T269	Claim 53923 54302	He went after a federal judge who Donald said couldn't be trusted to try the fraud and racketeering case against Trump University because his parents were Mexican
+T268	Claim 54107 54132;54153 54196	He went after John McCain said he prefers "people who aren't captured
+T269	Claim 54199 54228;54251 54383	He went after a federal judge who Donald said couldn't be trusted to try the fraud and racketeering case against Trump University because his parents were Mexican
 T270	Claim 67143 67167	I think it's disgraceful
 T271	Claim 54998 55024	The other things are false
 T272	Claim 55179 55199	she knows, are false
@@ -334,7 +334,7 @@ T333	Claim 66224 66263	that is not the way our democracy works
 T334	Premise 66265 66296	We've been around for 240 years
 T335	Premise 66298 66331	We've had free and fair elections
 T336	Premise 66333 66392	We've accepted the outcomes when we may not have liked them
-T337	Claim 66393 66598	President Obama said the other day when you're whining before the game is even finished it just shows you're not up to doing the job
+T337	Claim 66502 66589;66656 66700	President Obama said the other day when you're whining before the game is even finished it just shows you're not up to doing the job
 T338	Claim 66398 66490	that is what must be expected of anyone standing on a debate stage during a general election
 T339	Claim 67221 67279	I think we've never had a situation so bad in this country
 T340	Claim 66781 66831	 He is denigrating-he's talking down our democracy
@@ -347,7 +347,7 @@ T346	Premise 68224 68261	I don't think that is in our interest
 T347	Premise 68267 68306	I don't think that would be smart to do
 T348	Claim 73088 73148	he believes it makes him look better now to contrast with me
 T349	Premise 73157 73174	I did vote for it
-T350	Claim 72282 72629	He has consistently denied what is a very clear fact that before the invasion, he supported it
+T350	Claim 72574 72608;72639 72661;72692 72728   He has consistently denied what is a very clear fact that before the invasion, he supported it
 T351	Premise 72745 72782	I just want everybody to go Google it
 T352	Claim 72816 72900	you will see the dozens of sources which verify that he was for the invasion of Iraq
 T353	Premise 72929 72979	you can actually hear the audio of him saying that
@@ -402,7 +402,7 @@ T401	Claim 78357 78420	d wait until you see-this is going to be the great Trojan
 T402	Premise 78426 78477	wait until you see what happens in the coming years
 T403	Claim 78733 78771	President Obama has refused to do that
 T404	Premise 78780 78845	he fears it's going to draw us closer or deeper into the conflict
-T405	Premise 78277 78638	you have talked about - and in the last debate and again today - that you would impose a no-fly zone to try to protect the people of Aleppo and to stop the killing there
+T405	Premise 78566 78731	you have talked about-and in the last debate and again today-that you would impose a no-fly zone to try to protect the people of Aleppo and to stop the killing there
 T406	Claim 79287 79366	I think a no-fly zone could save lives and could hasten the end of the conflict
 T407	Claim 81259 81279	she will defeat ISIS
 T408	Premise 81281 81336	We should have never let ISIS happen in the first place
@@ -454,7 +454,7 @@ T453	Claim 88258 88297	We have to repeal and replace Obamacare
 T454	Premise 89246 89337	I am on record as saying that we need to put more money into the Social Security Trust Fund
 T455	Premise 89339 89397	That's part of my commitment to raise taxes on the wealthy
 T456	Claim 89399 89518	My Social Security payroll contribution will go up, as will Donald's, assuming he can't figure out how to get out of it
-T457	Premise 89291 89578	we want to do is to replenish the Social Security Trust Fund by making sure that we have sufficient resources
+T457	Premise 89529 89589;89633 89681	we want to do is to replenish the Social Security Trust Fund by making sure that we have sufficient resources
 T458	Premise 89687 89781	that will come from either raising the cap and/or finding other ways to get more money into it
 T459	Claim 89783 89806	I will not cut benefits
 T460	Claim 89808 89937	I want to enhance benefits for low-income workers and for women who have been disadvantaged by the current Social Security system

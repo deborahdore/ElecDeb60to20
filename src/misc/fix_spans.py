@@ -207,10 +207,13 @@ def main():
         # ------------------------------------------------------------------ #
         # No mismatch — keep as-is                                            #
         # ------------------------------------------------------------------ #
-        if extracted_direct is not None and extracted_direct.strip() == ann_text.strip():
-            already_ok.append(ann_id)
-            new_lines.append(raw)
-            continue
+        if extracted_direct is not None:
+            extracted_direct = extracted_direct.lower()
+            ann_text = ann_text.lower()
+            if extracted_direct.strip() == ann_text.strip():
+                already_ok.append(ann_id)
+                new_lines.append(raw)
+                continue
 
         # ------------------------------------------------------------------ #
         # DISCONTINUOUS SPAN — adjust boundaries to match ann_text            #
