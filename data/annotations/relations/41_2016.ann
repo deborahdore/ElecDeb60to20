@@ -154,7 +154,7 @@ T153	Premise 12327 12370	$13 trillion in family wealth was wiped out
 T154	Premise 12285 12321	Five million people lost their homes
 T155	Premise 12611 12982	Independent experts have looked at what I've proposed and looked at what Donald's proposed, and basically they've said this, that if his tax plan, which would blow up the debt by over $5 trillion and would in some instances disadvantage middle—class families compared to the wealthy, were to go into effect, we would lose 3.5 million jobs and maybe have another recession
 T156	Claim 13056 13079	I intend to get it done
-T157	Premise 12984 13187	They've looked at my plans and they've said, OK, if we can do this we will have 10 million more new jobs, because we will be making investments where we can grow the economy
+T157	Premise 12984 13050;13081 13187	They've looked at my plans and they've said, OK, if we can do this we will have 10 million more new jobs, because we will be making investments where we can grow the economy
 T158	Claim 13286 13356	Donald thinks that climate change is a hoax perpetrated by the Chinese
 T159	Claim 13498 13580	I think it's important that we grip this and deal with it, both at home and abroad
 T160	Claim 13406 13423	I do not say that
@@ -183,7 +183,7 @@ T182	Claim 15427 15452	You can't bring back jobs
 T183	Claim 15403 15425	I will bring back jobs
 T184	Claim 15592 15645	I think my husband did a pretty good job in the 1990s
 T185	Claim 15479 15516	I have thought about this quite a bit
-T186	Premise 15382 15810	I think a lot about what worked and how we can make it work again million new jobs, a balanced budget
+T186	Premise 15647 15712;15775 15810	I think a lot about what worked and how we can make it work again million new jobs, a balanced budget
 T187	Claim 15821 15906	He approved NAFTA, which is the single worst trade deal ever approved in this country
 T188	Premise 15917 15946	Incomes went up for everybody
 T189	Premise 15948 16038	Manufacturing jobs went up also in the 1990s, if we're actually going to look at the facts
@@ -215,8 +215,8 @@ T214	Claim 18486 18507	that is not the facts
 T215	Premise 18452 18480	you live in your own reality
 T216	Claim 18523 18564	I did say I hoped it would be a good deal
 T217	Claim 18049 18052	not
-T218	Claim 18570 18675	when it was negotiated which I was not responsible for, I concluded it wasn't
-T219	Premise 18477 18789	I wrote about that in my book before you even announced
+T218	Claim 18570 18592;18621 18675	when it was negotiated which I was not responsible for, I concluded it wasn't
+T219	Premise 18677 18706;18763 18789	I wrote about that in my book before you even announced
 T220	Premise 19100 19175	it's important to look at what we need to do to get the economy going again
 T221	Claim 19195 19258	new jobs with rising incomes, investments, not in more tax cuts
 T222	Premise 19260 19297	hat would add $5 trillion to the debt
@@ -238,7 +238,7 @@ T237	Claim 20936 20997	you want to increase the regulations and make them even w
 T238	Premise 20647 20665	I've been all over
 T239	Premise 20671 20811	when I go around, despite the tax cut, the thing—the things that business as in people like the most is the fact that I'm cutting regulation
 T240	Premise 20813 20930	You have regulations on top of regulations, and new companies cannot form and old companies are going out of business
-T241	Claim 21641 21820	what I have proposed would not add a penny to the debt
+T241	Claim 21696 21716;21787 21820	what I have proposed would not add a penny to the debt
 T242	Claim 21826 21870	your plans would add $5 trillion to the debt
 T243	Claim 21872 21955	What I have proposed would cut regulations and streamline them for small businesses
 T244	Premise 21393 21464	I kind of assumed that there would be a lot of these charges and claims
@@ -319,7 +319,7 @@ T318	Claim 30033 30081	it's the kind of thinking that our country needs
 T319	Premise 30109 30214	we have a trade deficit with all of the countries that we do business with, of almost $800 billion a year
 T320	Claim 30288 30355	We have people that are political hacks negotiating our trade deals
 T321	Claim 30595 30635	I will release them as soon as the audit
-T322	Premise 30269 30489	The IRS says an audit of your taxes—you're perfectly free to release your taxes during an audit
+T322	Premise 30363 30384;30415 30489	The IRS says an audit of your taxes—you're perfectly free to release your taxes during an audit
 T323	Claim 31057 31086	I will release my tax returns
 T324	Claim 31175 31219	As soon as she releases them, I will release
 T325	Claim 31057 31173	I will release my tax returns—against my lawyer's wishes—when she releases her 33,000 e—mails that have been deleted
@@ -349,7 +349,7 @@ T348	Premise 33380 33438	They don't give you all the details that tax returns wo
 T349	Claim 33532 33607	I have no reason to believe that he's ever going to release his tax returns
 T350	Premise 33617 33646	there's something he's hiding
 T351	Claim 33857 33916	he owes you the answers to that, and he should provide them
-T352	Claim 34031 34071	I made a mistake using a private e—mail
+T352	Claim 34031 34071	I made a mistake using a private e— mail
 T353	Claim 34218 34270	It was a mistake, and I take responsibility for that
 T354	Claim 34110 34177	if I had to do it over again, I would, obviously, do it differently
 T355	Claim 34183 34216	I'm not going to make any excuses
@@ -443,7 +443,7 @@ T442	Claim 42471 42590	I've laid out a platform that I think would begin to reme
 T443	Claim 42755 42843	we have to bring communities together in order to begin working on that as a mutual goal
 T444	Premise 42596 42750	we also have to recognize, in addition to the challenges that we face with policing, there are so many good, brave police officers who equally want reform
 T445	Claim 42849 42922	we've got to get guns out of the hands of people who should not have them
-T446	Premise 42924 43046	The gun epidemic is the leading cause of death of young African—American men, more than the next nine causes put together
+T446	Premise 42924 43046	The gun epidemic is the leading cause of death of young African— American men, more than the next nine causes put together
 T447	Claim 42026 42050	We have to restore trust
 T448	Claim 43114 43145	We have to work with the police
 T449	Premise 43147 43229	We have to make sure they respect the communities and the communities respect them
@@ -456,7 +456,7 @@ T455	Premise 43633 43859	when I look at what's going on in Charlotte, a city I l
 T456	Premise 43898 44003	I just got today the, as you know, the endorsement of the Fraternal Order of Police, we just—just came in
 T457	Premise 44005 44128	We have endorsements from, I think, almost every police group, very—I mean, a large percentage of them in the United States
 T458	Premise 44259 44297	You walk down the street, you get shot
-T459	Premise 44130 44256	We have a situation where we have our inner cities, African—Americans, Hispanics are living in he'll because it's so dangerou
+T459	Premise 44130 44256	We have a situation where we have our inner cities, African— Americans, Hispanics are living in he'll because it's so dangerou
 T460	Premise 44323 44345	thousands of shootings
 T461	Premise 44300 44374	n Chicago, they've had thousands of shootings, thousands since January 1st
 T462	Claim 44482 44510	we have to stop the violence
@@ -561,7 +561,7 @@ T560	Claim 51800 51927	when people are on there, even if they shouldn't be on th
 T561	Premise 51642 51719	These are very, very good people, and they're protecting the Second Amendment
 T562	Premise 51527 51640	When a person is on a watch list or a no—fly list, and I have the endorsement of the NRA, which I'm very proud of
 T563	Claim 51509 51525	I agree with you
-T564	Premise 51391 51500	a lot of people even within my own party want to give certain rights to people on watch lists and no—fly list
+T564	Premise 51396 51506	a lot of people even within my own party want to give certain rights to people on watch lists and no— fly list
 T565	Claim 52927 52996	stop—and—frisk had a tremendous impact on the safety of New York City
 T566	Claim 53073 53103	It had a very, very big impact
 T567	Claim 53058 53071	it really did
@@ -656,7 +656,6 @@ T655	Premise 61105 61203	we, along with many, many other companies throughout th
 T656	Premise 60967 61099	as far as the lawsuit, yes, when I was very young, I went into my father's company, had a real estate company in Brooklyn and Queens
 T657	Premise 61206 61262	We settled the suit with zero—with no admission of guilt
 T658	Premise 61264 61286	It was very easy to do
-T659	Premise 61483 61504	they sued many people
 T660	Premise 61560 61609	I settled that lawsuit with no admission of guilt
 T661	Premise 61615 61672	that was a lawsuit brought against many real estate firms
 T662	Claim 61678 61707	it's just one of those things
@@ -674,7 +673,7 @@ T673	Premise 62869 62947	increasingly, we are seeing cyber attacks coming from s
 T674	Claim 62949 63003	The most recent and troubling of these has been Russia
 T675	Premise 63005 63110	There's no doubt now that Russia has used cyber attacks against all kinds of organizations in our country
 T676	Claim 63116 63148	I am deeply concerned about this
-T677	Claim 63196 63272	Putin is playing a really tough, long game here
+T677	Claim 63207 63232;63251 63272	Putin is playing a really tough, long game here
 T678	Premise 63150 63201	I know Donald's very praiseworthy of Vladimir Putin
 T679	Premise 63278 63367	one of the things he's done is to let loose cyber attackers to hack into government files
 T680	Premise 63398 63441	hack into the Democratic National Committee
@@ -689,9 +688,9 @@ T688	Claim 64069 64105	the Russians need to understand that
 T689	Claim 64107 64202	I think they've been treating it as almost a probing, how far would we go, how much would we do
 T690	Premise 64219 64302	I was so—I was so shocked when Donald publicly invited Putin to hack into Americans
 T691	Claim 64304 64329	That is just unacceptable
-T692	Premise 64331 64559	It's one of the reasons why 50 national security officials who served in Republican information—in administrations have said that Donald is unfit to be the commander—in—chief
+T692	Premise 64331 64445;64499 64558	It's one of the reasons why 50 national security officials who served in Republican information—in administrations have said that Donald is unfit to be the commander—in—chief
 T693	Claim 64561 64649	It's comments like that that really worry people who understand the threats that we face
-T694	Premise 64761 64934	I do want to say that I was just endorsed—and more are coming next week—it will be over 200 admirals, many of them here—admirals and generals endorsed me to lead this country
+T694	Premise 64760 64934	I do want to say that I was just endorsed—and more are coming next week—it will be over 200 admirals, many of them here—admirals and generals endorsed me to lead this country
 T695	Claim 64960 64980	many more are coming
 T696	Premise 65021 65047	I was just endorsed by ICE
 T697	Premise 65049 65101	They've never endorsed anybody before on immigration
@@ -774,7 +773,7 @@ T773	Premise 72018 72088	They can provide information to us that we might not ge
 T774	Claim 72090 72265	They need to have close working cooperation with law enforcement in these communities, not be alienated and pushed away as some of Donald's rhetoric, unfortunately, has led to
 T775	Premise 72399 72492	we've been working with them for many years, and we have the greatest mess anyone's ever seen
 T776	Premise 72494 72540	You look at the Middle East, it's a total mess
-T777	Claim 73199 73274	many of them aren't paying their fair share and that bothers me
+T777	Claim 73199 73243;73255 73274	many of them aren't paying their fair share and that bothers me
 T778	Premise 73304 73324	we're defending them
 T779	Premise 73330 73421	they should at least be paying us what they're supposed to be paying by treaty and contract
 T780	Claim 73467 73489	NATO could be obsolete
@@ -789,7 +788,7 @@ T788	Claim 74035 74051	I'm all for NATO
 T789	Claim 74057 74092	I said they have to focus on terror
 T790	Premise 73933 73984	we pay approximately 73 percent of the cost of NATO
 T791	Claim 73986 74029	It's a lot of money to protect other people
-T792	Claim 74104 74272	they're going to do that. that was largely because of what I was saying and my criticism of NATO
+T792	Claim 74104 74130;74202 74272	they're going to do that. that was largely because of what I was saying and my criticism of NATO
 T793	Claim 74274 74372	I think we have to get NATO to go into the Middle East with us, in addition to surrounding nations
 T794	Claim 74378 74415	we have to knock the hell out of ISIS
 T795	Claim 74421 74442	we have to do it fast
@@ -862,10 +861,10 @@ T861	Claim 79967 79991	That's not good judgment
 T862	Premise 79865 79965	He said, you know, if they taunted our sailors, I'd blow them out of the water and start another war
 T863	Premise 79689 79863	The other day, I saw Donald saying that there were some Iranian sailors on a ship in the waters off of Iran, and they were taunting American sailors who were on a nearby ship
 T864	Premise 80241 80359	He has said repeatedly that he didn't care if other nations got nuclear weapons, Japan, South Korea, even Saudi Arabia
-T865	Claim 79922 80239	the worst part of what we heard Donald say has been about nuclear weapons
+T865	Claim 80116 80130;80181 80239	the worst part of what we heard Donald say has been about nuclear weapons
 T866	Premise 80361 80505	It has been the policy of the United States, Democrats and Republicans, to do everything we could to reduce the proliferation of nuclear weapons
 T867	Claim 80667 80676	It's lies
-T868	Claim 80146 80658	He even said, well, you know, if there were nuclear war in East Asia, well, you know, that's fine have a good time, folks
+T868	Claim 80507 80604;80635 80658   He even said, well, you know, if there were nuclear war in East Asia, well, you know, that's fine have a good time, folks
 T869	Claim 11205 11210	wrong
 T870	Claim 80701 80767	his cavalier attitude about nuclear weapons is so deeply troubling
 T871	Premise 80825 80919	it becomes particularly threatening if terrorists ever get their hands on any nuclear material
@@ -937,7 +936,7 @@ T936	Claim 86300 86360	we need to be more precise in how we talk about these iss
 T937	Premise 86362 86472	People around the word follow our presidential campaigns so closely, trying to get hints about what we will do
 T938	Claim 86495 86601	Are we going to lead the world with strength and in accordance with our values? That's what I intend to do
 T939	Claim 86603 86829	I intend to be a leader of our country that people can count on, both here at home and around the world, to make decisions that will further peace and prosperity, but also stand up to bullies, whether they're abroad or at home
-T940	Claim 86831 87021	We cannot let those who would try to destabilize the world to interfere with American interests and security to be given any opportunities at all
+T940	Claim 86831 86939;86985 87021	We cannot let those who would try to destabilize the world to interfere with American interests and security to be given any opportunities at all
 T941	Claim 87179 87349	Hillary will tell you to go to her website and read all about how to defeat ISIS, which she could have defeated by never having it, you know, get going in the first place
 T942	Claim 87351 87409	Right now, it's getting tougher and tougher to defeat them
 T943	Premise 87419 87495	they're in more and more places, more and more states, more and more nations
