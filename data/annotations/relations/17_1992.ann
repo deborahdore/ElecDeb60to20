@@ -1,6 +1,6 @@
 T1	Claim 55541 55596	America has a lot of families that are in trouble today
 T2	Claim 55222 55312	A family involves at least one parent, whether natural or adoptive or foster, and children
-T3	Premise 55116 55433	A good family is a place where love and discipline and good values are transmuted from the elders to the children
+T3	Premise 55314 55433	A good family is a place where love and discipline and good values are transmuted (sic) from the elders to the children
 T4	Premise 55435 55471	a place where people turn for refuge
 T5	Premise 55477 55539	where they know they're the most important people in the world
 T6	Premise 55688 55762	I was born to a widowed mother who gave me family values, and grandparents
@@ -10,11 +10,11 @@ T9	Premise 55881 55954	who are out there killing themselves working harder for l
 T10	Premise 55955 56002	that's had the worst economic years in 50 years
 T11	Premise 56007 56054	the first decline in industrial production ever
 T12	Claim 57379 57418	I do think we need to strengthen family
-T13	Premise 57080 57272	one meeting that made a profound impression on me was when the mayors of the big cities came to see me
+T13	Premise 57121 57208;57257 57272 one meeting that made a profound impression on me was when the mayors of the big cities came to see me
 T14	Premise 57278 57374	they unanimously said the decline in urban America stems from the decline in the American family
 T15	Premise 57420 57498	When Barbara holds an AIDS baby, she's showing a certain compassion for family
 T16	Premise 57500 57542	when she reads to children, the same thing
-T17	Claim 58745 59020	I think wouldn't it be wonderful if every child had that love and support
+T17	Claim 58937 58944;58954 59020	I think wouldn't it be wonderful if every child had that love and support
 T18	Claim 33237 33247	they don't
 T19	Claim 58455 58555	I would say a strong family unit in every home, where every child is loved, nurtured, and encouraged
 T20	Premise 58275 58332	If I had to solve all the problems that face this country
@@ -109,7 +109,7 @@ T108	Claim 87755 87783	You have to make tough calls
 T109	Claim 87785 87839	You can't be on one hand this way and one hand another
 T110	Claim 87841 87901	You can't take different positions on these difficult issues
 T111	Premise 87912 87979	you need a philosophical - I'd call it a philosophical underpinning
-T112	Claim 88083 88103	The Cold War is over
+T112	Claim 45992 46012	the cold war is over
 T113	Claim 88105 88176	The Soviet Union is no more and we're working with a democratic country
 T114	Claim 88178 88231	Poland, Hungary, Czechoslovakia, the Baltics are free
 T115	Premise 87981 88030	Mine for foreign affairs is democracy and freedom
@@ -122,18 +122,18 @@ T121	Claim 60355 60407	we've got to keep fighting on this war against drugs
 T122	Claim 60409 60452	We're doing a little better in interdiction
 T123	Premise 60715 60769	Our funding for recovery is up, recovering the addicts
 T124	Premise 69081 69115	We have increased funding for AIDS
-T125	Premise 69117 69177	We've doubled it, on research and on every other aspect of it
+T125	Premise 69117 69177	We've doubled it on research and on every other aspect of it
 T126	Claim 71145 71191	We're lucky to have her heading the Commission
 T127	Premise 45992 46012	the cold war is over
 T128	Claim 78790 78848	I have proposed a managed competition plan for health care
-T129	Claim 78676 78788	Mr Bush is trying to run against Lyndon Johnson and Jimmy Carter and everybody in the world but me in this race
+T129	Claim 78676 78788	Mr. Bush is trying to run against Lyndon Johnson and Jimmy Carter and everybody in the world but me in this race
 T130	Premise 79126 79184	More and more people get on the rolls as poverty increases
 T131	Claim 80861 80897	The Oregon plan made some good sense
 T132	Claim 80903 80952	it's easy to dismiss the concerns of the disabled
-T133	Premise 80909 81072	As President, I have to be sure that those waivers which we're approving all over the place are covered under the law
+T133	Premise 80954 81071	As president I have to be sure that those waivers, which we're approving all over the place, are covered under the la
 T134	Premise 82095 82152	We got the most expensive health care system in the world
 T135	Premise 88178 88231	Poland, Hungary, Czechoslovakia, the Baltics are free
-T136	Premise 87907 88176	The Soviet Union is no more, and we're working with a democratic country
+T136	Premise 88105 88177	The Soviet Union is no more and we're working with a democratic country.
 T137	Claim 1422 1549	I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot
 T138	Premise 1551 1605	I was not put on the ballot by either of the 2 parties
 T139	Premise 1607 1713	I was not put on the ballot by any PAC money, by any foreign lobbyist money, by any special interest money
@@ -269,11 +269,11 @@ T268	Premise 51619 51720	You have ancient ethnic rivalries that have cropped up 
 T269	Claim 51726 51785	it isn't going to be solved by sending in the 82nd Airborne
 T270	Claim 51791 51838	I am not going to do that as commander-in-chief
 T271	Premise 51952 51984	we're making some progress there
-T272	Premise 52044 52162	right now, as you know, the US took the lead in a no-fly operation up there in - no- fly order up in the United Nations
+T272	Premise 52044 52164	right now, as you know, the US took the lead in a no-fly operation up there in– no- fly order up in the United Nations. 
 T273	Premise 52164 52217	We're working through the international organizations
 T274	Claim 52702 52733	I think I am on the right track
-T275	Premise 52219 52349	That's one thing I learned by forging that tremendous and greatly - highly successful coalition against Saddam Hussein, the dictator
-T276	Premise 52351 52384	Use - work internationally to do it
+T275	Premise 52219 52352	That's one thing I learned by forging that tremendous and greatly–highly successful coalition against Saddam Hussein, the dictator. U
+T276	Premise 52351 52387	Use–work internationally to do it. I
 T277	Premise 52386 52414	I am very concerned about it
 T278	Premise 52416 52453	I am concerned about ethnic cleansing
 T279	Premise 52455 52517	I am concerned about a tax on Muslims, for example, over there
@@ -293,7 +293,7 @@ T292	Claim 54033 54126	I think that it's important to recognize that there are t
 T293	Premise 54165 54295	There are, after all, 2 million refugees now because of the problems in what was Yugoslavia, the largest number since World War II
 T294	Premise 54301 54395	there may be hundreds of thousands of people who will starve or freeze to death in this winter
 T295	Claim 54397 54450	The US should try to work with its allies and stop it
-T296	Premise 54254 54530	I urged the president to support this air cover, and he did - and I applaud that
+T296	Premise 54449 54530	t. I urged the president to support this air cover, and he did–and I applaud that
 T297	Premise 54532 54650	I applaud the no-fly zone, and I know that he's going back to the United Nations to try to get authority to enforce it
 T298	Claim 54652 54716	I think we should stiffen the embargo on the Belgrade government
 T299	Claim 54722 54816	I think we have to consider whether or not we should lift the arms embargo now on the Bosnians
@@ -306,76 +306,76 @@ T305	Claim 51840 51946	I am going to stand by and use the moral persuasion of th
 T306	Premise 53164 53253	Certainly we care about the people, we care about the children, we care about the tragedy
 T307	Premise 55820 56054	I have seen the family values of all these people in America who are out there killing themselves working harder for less in a country that's had the worst economic years in 50 years and the first decline in industrial production ever
 T308	Claim 55663 55686	I know a lot about that
-T309	Claim 55870 56144	I think the President owes it to family values to show that he values America's families
-T310	Premise 56146 56456	Whether they're people on welfare, you're trying to move from welfare to work; the working poor, whom I think deserve a tax break to lift them above poverty if they've got a child in the house and working 40 hours a week; working families, who deserve a fair tax system and the opportunity for constant retraining
-T311	Premise 56304 56487	They deserve a strong economy
+T309	Claim 56056 56144	I think the president owes it to family values to show that he values America's families
+T310	Premise 56146 56456	Whether they're people on welfare you're trying to move from welfare to work, the working poor whom I think deserve a tax break to lift them above poverty if they've got a child in the house and working 40 hours a week, working families who deserve a fair tax system and the opportunity for constant retraining
+T311	Premise 56458 56487	they deserve a strong economy
 T312	Claim 56493 56544	I think they deserve a family and medical leave act
 T313	Premise 56546 56595	Seventy-two other nations have been able to do it
 T314	Premise 56597 56740	Mr. Bush vetoed it twice because he says we can't do something seventy-two other countries do, even though there was a small business exemption
 T315	Premise 57104 57374	I would say that one meeting that made a profound impression on me was when the mayors of the big cities, including the mayor of Los Angeles, a Democrat, came to see me, and they unanimously said the decline in urban America stems from the decline in the American family
-T316	Claim 57348 57694	I believe that discipline and respect for the law, all of these things, should be taught to children, not in our schools but families have to do that
-T317	Premise 57495 57755	I am appalled at the high, outrageous numbers of divorces
+T316	Claim 57544 57693	I believe that discipline and respect for the law - all of these things should be taught to children, not in our schools, but families have to do tha
+T317	Premise 57696 57755	I am appalled at the highest outrageous numbers of divorces
 T318	Premise 57782 57803	it's happened in ours
 T319	Premise 57782 57803	it's happened in ours
 T320	Premise 57809 57829	it's gotten too much
 T321	Claim 57835 57916	I just think that we ought to do everything we can to respect the American family
-T322	Premise 57981 58072	One way to do it is to get these deadbeat fathers to pay their obligations to these mothers
+T322	Premise 57981 58072	one way to do it is to get these deadbeat fathers to pay their obligations to these mothers
 T323	Claim 58075 58120	That will help strengthen the American family
 T324	Premise 58126 58215	there's a whole bunch of other things that I can't click off in this short period of time
 T325	Premise 57918 57975	It can be a single-parent family. Those mothers need help
 T326	Claim 59038 59118	We will not be a great country unless we have a strong family unit in every home
-T327	Premise 58745 59384	I think you can use the White House as a bully pulpit to stress the importance of these little children, particularly in their young and formative years, to mold these little precious pieces of clay so that they, too, can live rich, full lives when they're grow
+T327	Premise 59124 59385	I think you can use the White House as a bully pulpit to stress the importance of these little children, particularly in their young and formative years, to mold these little precious pieces of clay so that they, too, can live rich full lives when they're grown
 T328	Premise 60454 60653	Many of the countries below that used to say, well, this is the US' problem - if you'd get the demand down, then we wouldn't have the problem - are working cooperatively with the DEA and the military
-T329	Claim 60771 60852	Where we're not making the progress, Sander, is in we're making it in teenagers
+T329	Claim 60771 60851	Where we're not making the progress, Sander, is in - we're making it in teenager
 T330	Claim 60968 61023	where we're not making it is with the confirmed addicts
-T331	Claim 61029 61148	I'll tell you one place that's working well, and that is the private sector, Jim Burke and this task force that he has
-T332	Premise 61034 61469	Tell the American people, but this man said, "I'll get you a million dollars a day in pro bono advertising," something that's very hard for the Government to do. He went out and he did it, and people are beginning to educate through this program, teaching these kids you shouldn't use drugs
+T331	Claim 61029 61147	I'll tell you one place that's working well, and that is the private sector - Jim Burke and this task force that he ha
+T332	Premise 61178 61469	tell the American people, but this man said I'll get you a million dollars a day in pro bono advertising, something that's very hard for the government to do. And he went out and he did it. And people are beginning to educate through this program, teaching these kids you shouldn't use drugs
 T333	Claim 61474 61498	we're still in the fight
-T334	Claim 61361 61656	I think legalization of narcotics or something of that nature, in the face of the medical evidence, would be totally counterproductive
+T334	Claim 61521 61655	I think legalization of narcotics, or something of that nature, in the face of the medical evidence, would be totally counterproductiv
 T335	Claim 61662 61727	I oppose it, and I am going to stand up and continue to oppose it
 T336	Premise 61767 61963	Anytime you think you want to legalize drugs, go to a neonatal unit - if you can get in. They're between 100 and 200% capacity up and down the East Coast. And the reason is crack babies being born
-T337	Premise 61946 62035	babies in the hospital 42 days; typical cost to you and me is $125,000
+T337	Premise 61965 62035	babies in the hospital 42 days. Typical cost to you and me is $125,000
 T338	Premise 62037 62187	Again and again and again, the mother disappears in 3 days, and the child becomes a ward of the State because he's permanently and genetically damaged
 T339	Claim 62229 62294	if anybody can even think about legalizing drugs, they've lost me
 T340	Premise 62337 62477	we went on the Libyan raid - do you remember that one? - because we were worried to death that Gaddafi might be building up chemical weapons
-T341	Premise 62479 62635	We've got chemical warfare being conducted against our children on the streets in this country all day, every day, and we don't have the will to stamp it out
+T341	Premise 62479 62635	We've got chemical warfare being conducted against our children on the streets in this country all day every day, and we don't have the will to stamp it out
 T342	Claim 62649 62731	if I get up there, if you send me, we're going to have some blunt talks about this
-T343	Premise 62869 62976	There are guys that couldn't get a job third shift in a Dairy Queen, driving BMW's and Mercedes, selling drugs
+T343	Premise 62869 62976	There are guys that couldn't get a job third shift in a Dairy Queen driving BMWs and Mercedes selling drugs
 T344	Premise 62737 62867	we're really going to get down in the trenches and say, is this one you want to talk about or fix, because talk won't do it, folks
-T345	Claim 62982 63023	These old boys are not going to quit easy
+T345	Claim 62982 63023	these old boys are not going to quit easy
 T346	Premise 63294 63348	If drugs were legal, I don't think he'd be alive today
 T347	Claim 63350 63392	I am adamantly opposed to legalizing drugs
 T348	Premise 63394 63450	He is alive today because of the criminal justice system
 T349	Claim 63654 63706	We need a hundred thousand more police on the street
-T350	Premise 63544 63652	Thirty years ago there were three policemen for every crime. Now there are three crimes for every policeman
+T350	Premise 63544 63652	Thirty years ago, there were three policemen for every crime. Now there are three crimes for every policeman
 T351	Claim 63708 63730	I have a plan for that
 T352	Claim 63732 63778	Secondly, we ought to have treatment on demand
 T353	Claim 63489 63542	First, we ought to prevent more of this on the street
 T354	Claim 63780 63852	Thirdly, we ought to have boot camps for first-time nonviolent offenders
 T355	Premise 63856 64040	they can get discipline and treatment and education and get reconnected to the community before they're severed and sent to prison, where they can learn how to be first class criminals
 T356	Premise 64042 64208	There is a crime bill that, lamentably, was blocked from passage once again, mostly by Republicans in the US Senate, which would have addressed some of these problems
-T357	Premise 64064 64304	That crime bill is going to be one of my highest priorities next January if I become President
+T357	Premise 64210 64304	That crime bill is going to be one of my highest priorities next January if I become president
 T358	Claim 64940 64968	We ought to love one another
 T359	Premise 64977 65016	united teams win and divided teams lose
-T360	Claim 65022 65090	If we can't love one another, we ought to get along with one another
-T361	Premise 65022 65199	If you can't get there, just recognize we're all stuck with one another, because nobody's going anywhere
+T360	Claim 65022 65090	if we can't love one another, we ought to get along with one another
+T361	Premise 65096 65200	if you can't get there, just recognize we're all stuck with one another because nobody's going anywhere,
 T362	Claim 65295 65322	Our diversity is a strength
 T363	Premise 65324 65355	We've turned it into a weakness
 T364	Claim 65368 65401	the White House is a bully pulpit
 T365	Claim 65403 65502	I think whoever is in the White House should just make it absolutely unconscionable and inexcusable
-T366	Claim 65723 65756	Our differences are our strengths
+T366	Claim 65723 65756	our differences are our strengths
 T367	Claim 65758 65786	We have got to pull together
 T368	Premise 65788 65812	In athletics, we know it
-T369	Premise 65551 65855	You see, divided teams lose; united teams win
+T369	Premise 65809 65855	 it. See, divided teams lose; united teams win
 T370	Claim 65857 65895	We have got to unite and pull together
-T371	Premise 66033 66414	I grew up in the segregated south, thankfully raised by a grandfather with almost no formal education but with a heart of gold who taught me early that all people were equal in the eyes of God
-T372	Premise 66222 66550	I saw the winds of hatred divide people and keep the people of my State poorer than they would have been, spiritually and economically
+T371	Premise 66222 66414	I grew up in the segregated South, thankfully raised by a grandfather with almost no formal education but with a heart of gold who taught me early that all people were equal in the eyes of God
+T372	Premise 66416 66550	I saw the winds of hatred divide people and keep the people of my state poorer than they would have been, spiritually and economically
 T373	Premise 66635 66682	We don't have a person to waste in this country
-T374	Premise 66635 66753	We are being murdered economically because we have too many dropouts
+T374	Premise 66684 66752	We are being murdered economically because we have too many drop-out
 T375	Premise 66755 66794	we have too many low birthweight babies
-T376	Premise 66635 66833	We have too many drug addicts as kids
-T377	Premise 66635 66860	We have too much violence
-T378	Premise 66635 66910	We are too divided by race, by income, by region
+T376	Premise 66796 66833	we have too many drug addicts as kids
+T377	Premise 66835 66860	we have too much violence
+T378	Premise 66862 66910	we are too divided by race, by income, by region
 T379	Claim 66916 67139	I have devoted a major portion of this campaign to going across this country and looking for opportunities to go to white groups and African American groups and Latino groups and Asian American groups and say the same thing
 T380	Claim 67141 67225	If the American people cannot be brought together, we can't turn this country around
 T381	Claim 67227 67271	If we can come together, nothing can stop us
@@ -390,31 +390,31 @@ T389	Claim 69288 69348	I think that we're showing the proper compassion and conc
 T390	Claim 69353 69392	I can't tell you where it's coming from
 T391	Claim 69398 69433	I am very much concerned about AIDS
 T392	Claim 69438 69533	I believe that we've got the best researchers in the world out there at NIH working the problem
-T393	Premise 69535 69553	We're funding them
-T394	Premise 69376 69650	I wish there was more money, but we're funding them far more than any time in the past
+T393	Premise 69597 69615	we're funding them
+T394	Premise 69563 69649	I wish there was more money - but we're funding them far more than any time in the pas
 T395	Claim 46346 46379	We're going to keep on doing that
-T396	Claim 69484 69741	I don't know, I was a little disappointed in Magic
-T397	Premise 69550 69926	he came to me and I said, "Now, if you see something we're not doing, get ahold of me, call me, let me know." He went to one meeting, and then we heard that he was stepping down
+T396	Claim 69691 69741	I don't know. I was a little disappointed in Magic
+T397	Premise 69750 69927	he came to me and I said, "Now if you see something we're not doing, get ahold of me. Call me, let me know." He went to one meeting, and then we heard that he was stepping down.
 T398	Premise 69931 70062	he's replaced by Mary Fisher who electrified the Republican Convention by talking about the compassion and the concern that we feel
-T399	Claim 69918 70148	I think she'll do a first-class job on that Commission
+T399	Claim 70094 70148	I think she'll do a first-class job on that commission
 T400	Premise 70064 70089	It was a beautiful moment
-T401	Claim 69918 70187	I think the appeal is, yes, we care
-T402	Claim 70019 70278	The other thing is, part of AIDS, it's one of the few diseases where behavior matters
+T401	Claim 70153 70188	I think the appeal is yes, we care.
+T402	Claim 70193 70277	the other thing is part of AIDS - it's one of the few diseases where behavior matter
 T403	Premise 70284 70544	I once called on somebody, "Well, change your behavior. Is the behavior you're using prone to cause AIDS? Change the behavior." Next thing I know, one of these ACT UP groups is out saying, "Bush ought to change his behavior." You can't talk about it rationally
 T404	Claim 70546 70585	The extremes are hurting the AIDS cause
 T405	Premise 70587 70775	To go into a Catholic mass in a beautiful cathedral in New York under the cause of helping in AIDS and start throwing condoms around in the mass, I am sorry, I think it sets back the cause
 T406	Claim 70777 70806	We cannot move to the extreme
-T407	Claim 70808 70901	We've got to continue everything we can at the Federal and the local level
-T408	Premise 70903 70974	Barbara, I think, is doing a superb job in destroying the myth about AIDS
-T409	Claim 70540 71016	All of us are in this fight together.
-T410	Claim 70540 70825	All of us care
+T407	Claim 70827 70901	We've got to continue everything we can at the federal and the local level
+T408	Premise 70903 70974	Barbara I think is doing a superb job in destroying the myth about AIDS
+T409	Claim 70980 71017	all of us are in this fight together,
+T410	Claim 71018 71032	all of us care
 T411	Claim 71034 71058	Do not go to the extreme
-T412	Claim 71482 71709	I think we can expedite the problem there
-T413	Premise 71553 71657	We could be moving out to the human population a whole lot faster than we are on some of these new drugs
+T412	Claim 71668 71709	d think we can expedite the problem there
+T413	Premise 71553 71657	we could be moving out to the human population a whole lot faster than we are on some of these new drugs
 T414	Claim 71479 71547	Believe me, people with AIDS are more than willing to take that risk
-T415	Claim 72415 72734	The President should lead a national effort to change behavior to keep our children alive in the schools, responsible behavior to keep people alive
+T415	Claim 72586 72733	the president should lead a national effort to change behavior, to keep our children alive in the schools, responsible behavior to keep people aliv
 T416	Premise 72736 72770	This is a matter of life and death
-T417	Premise 72594 72849	I have worked in my State to reduce teen pregnancy and illness among children
+T417	Premise 72772 72849	I have worked in my state to reduce teen pregnancy and illness among children
 T418	Premise 72870 73048	The reason Magic Johnson resigned from the AIDS Commission is because the statement you heard tonight from Mr. Bush is the longest and best statement he's made about it in public
 T419	Claim 73050 73104	I am proud of what we did at the Democratic Convention
 T420	Premise 73106 73151	putting 2 HIV-positive people on the platform
@@ -423,28 +423,28 @@ T422	Claim 72851 72868	I know it's tough
 T423	Premise 73790 73841	the people, not the special interests, put me there
 T424	Claim 73963 74092	we're going to inform the people in detail on the issues through an electronic town hall so that they really know what's going on
 T425	Premise 74094 74142	They will want to do what's good for our country
-T427	Claim 74060 74493	The Congress will be listening to the people
+T427	Claim 74449 74493	the Congress will be listening to the people
 T426	Claim 74149 74443	all these fellows with thousand-dollar suits and alligator shoes running up and down the halls of Congress that make policy now - the lobbyists, the PAC guys, the foreign lobbyists, and what-have-you, they'll be over there in the Smithsonian, you know - - because we're going to get rid of them
 T428	Claim 74937 74984	They've never seen anything happen in that town
 T429	Premise 74986 75257	This is a town where the White House says, Congress did it; Congress says, the White House did it. And I am sitting there and saying, well, who else could be around, you know? Then when they get off by themselves, they say nobody did it. And yet the cash register's empty
 T430	Premise 75262 75347	it used to have our money, the taxpayers' money, in it, and we didn't get the results
 T431	Claim 75444 75470	it's not quite that simple
-T432	Premise 75499 75576	Both parties in Washington, the President and the Congress, have cut Medicare
-T433	Premise 75488 75715	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965 before Medicare came in
-T434	Premise 75527 75814	The President's got another proposal to require them to pay $400 a year more for the next 5 years
-T435	Premise 75820 75995	if you don't have the guts to control cost by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public sector
+T432	Premise 75499 75576	Both parties in Washington, the president and the Congress, have cut Medicare
+T433	Premise 75578 75714	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965, before Medicare came i
+T434	Premise 75717 75814	The president's got another proposal to require them to pay $400 a year more for the next 5 years
+T435	Premise 75820 75994	if you don't have the guts to control costs by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public secto
 T436	Claim 75997 76023	you can't fix this problem
 T437	Claim 76025 76054	Costs will continue to spiral
 T438	Premise 76087 76181	A lot of folks on Medicare are out there every day making the choice between food and medicine
-T439	Premise 76183 76220	Not poor enough for Medicare, Medicaid
+T439	Premise 76183 76222	not poor enough for Medicare-Medicaid, 
 T440	Premise 76222 76262	not wealthy enough to buy their medicine
 T441	Premise 76264 76368	I have met them, people like Mary Annie and Edward Davis in Nashua, New Hampshire. All over this country
-T442	Premise 76370 76399	They cannot even buy medicine
+T442	Premise 76370 76399	they cannot even buy medicine
 T443	Claim 76422 76586	When we talk about cutting health care costs, let's start with the insurance companies and the people that are making a killing instead of making our people healthy
 T444	Premise 76688 76816	every 4 years, the Democrats go around and say, Republicans are going to cut Social Security and Medicare. They started it again
 T445	Premise 76818 76892	I am the president that stood up and said, don't mess with Social Security
-T446	Claim 76612 76930	I am not going to, and we haven't
-T447	Claim 76630 76993	We are not going to go after the Social Security recipient
+T446	Claim 76898 76931	I am not going to and we haven't 
+T447	Claim 76935 76993	we are not going to go after the Social Security recipient
 T448	Claim 76995 77039	I have one difference with Mr. Perot on that
 T449	Premise 77048 77094	I don't think we need to touch Social Security
 T450	Claim 77096 77176	What we do need to do, though, is control the growth of these mandatory programs
@@ -453,7 +453,7 @@ T452	Claim 77298 77332	what we've got to do is control it
 T453	Claim 77449 77499	I believe that is the way you get the deficit down
 T454	Premise 77501 77611	not by the tax-and-spend program that we hear every 4 years, whether it's Mondale, Dukakis, whoever else it is
 T455	Claim 77613 77653	I just don't believe we ought to do that
-T456	Claim 77430 77743	hold the line on Social Security, and put a cap on the growth of the mandatory program
+T456	Claim 77658 77744	hold the line on Social Security and put a cap on the growth of the mandatory program.
 T457	Claim 1422 1549	I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot
 T458	Premise 1551 1605	I was not put on the ballot by either of the 2 parties
 T459	Premise 1607 1651	I was not put on the ballot by any PAC money
@@ -582,7 +582,7 @@ T581	Premise 13399 13483	The tax increase I have proposed triggers in at family 
 T582	Premise 13485 13574	Those are the people who in the 1980s had their incomes go up while their taxes went down
 T583	Premise 13576 13769	Middle-class people, defined as people with incomes of $52,000 and down, had their incomes go down while their taxes went up in the Reagan-Bush years because of 6 increases in the payroll taxes
 T584	Premise 13955 14029	my plan triggers in at gross incomes, family incomes of $200,000 and above
-T585	Claim 13828 13909	There will be no tax increases below 200,000
+T585	Claim 13828 13858;13896 13909	There will be no tax increases below 200,000
 T586	Premise 14036 14187	we want to give modest middle-class tax relief to restore some fairness, especially to middle- class people with families with incomes of under $60,000
 T587	Claim 14210 14446	the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people
 T588	Premise 14517 14615	like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again
@@ -610,7 +610,7 @@ T609	Claim 15776 15878	I do not believe we need to go back to the Mondale propos
 T610	Premise 15880 15958	Governor Clinton says $200,000 but he also says he wants to raise $150 billion
 T611	Claim 15960 16017	Taxing people over $200,000 will not get you $150 billion
 T612	Claim 16028 16126	when you add in his other spending proposals, regrettably you end up socking it to the working man
-T613	Premise 16128 16303	That old adage they use - we're going to soak the rich- -we're going to soak the rich - it always ends up being the poor cab driver or the working man that ends up paying the bill
+T613	Premise 16128 16303	That old adage they use–we're going to soak the rich- -we're going to soak the rich–it always ends up being the poor cab driver or the working man that ends up paying the bill
 T614	Premise 16312 16344	I just have a different approach
 T615	Claim 16346 16487	I believe the way to get the deficit down is to control the growth of mandatory spending programs, and not raise taxes on the American people
 T616	Claim 16561 16649	We've got to have a growing, expanding job base to give us a growing, expanding tax base
@@ -710,7 +710,7 @@ T709	Claim 26234 26253	I think that's good
 T710	Claim 26310 26412	I don't think we need to tax more and spend more, and then say that's going to make the problem better
 T711	Claim 26430 26484	that's what I think I am hearing from Governor Clinton
 T712	Claim 26486 26614	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
-T713	Premise 26616 26672	He's mentioned some ways to do it - and I agree with those
+T713	Premise 26616 26675	He's mentioned some ways to do it–and I agree with those. I
 T714	Premise 26674 26735	I have been talking about getting a capital gains cut forever
 T715	Claim 26819 26848	It would stimulate investment
 T716	Premise 26850 26886	I am for an investment tax allowance
@@ -760,11 +760,11 @@ T759	Premise 31104 31182	No other nation would have cut defense as much as we al
 T760	Premise 31248 31363	we have cut defense without planning to retrain them and to reinvest in the technologies of the future here at home
 T761	Claim 31365 31390	That is what I want to do
 T762	Premise 31392 31549	This administration may say they have a plan, but the truth is they have not even released all the money, the paltry sum of money, that Congress appropriated
-T763	Premise 31220 31737	I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century - in new transportation, in communication, in environmental clean-up technologies
+T763	Premise 31548 31737	d. I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century–in new transportation, in communication, in environmental clean-up technologies
 T764	Claim 33327 33394	we have an adversarial relationship between government and business
 T765	Premise 33396 33549	Our international competitors that are cleaning our plate have an intelligent relationship between government and business, and a supportive relationship
-T766	Claim 32180 32452	the American people send me up there, the day after election, I'll get with congressional - we won't even wait till inauguration
-T767	Claim 32416 32643	we will start putting together teams to put together - to take all the plans that exist and do something with them
+T766	Claim 32323 32452	e, the American people send me up there, the day after election, I'll get with congressional–we won't even wait till inauguration
+T767	Claim 32529 32643	d we will start putting together teams to put together–to take all the plans that exist and do something with them
 T768	Premise 32664 32732	There are great plans lying all over Washington nobody ever executes
 T769	Premise 32734 32790	It's like having a blueprint for a house you never built
 T770	Claim 32830 32891	our challenge is to take these things, do something with them
@@ -773,14 +773,14 @@ T772	Premise 33026 33109	you've got your big companies that are in trouble, incl
 T773	Claim 33136 33189	Have a 3rd task force on new industries of the future
 T774	Premise 33276 33320	Convert from 19th to 21st century capitalism
 T775	Premise 33598 33655	next to jobs, our people are concerned about their safety
-T776	Claim 33657 33705	Health care, schools - one on the debt and deficit
+T776	Claim 33657 33708	Health care, schools–one on the debt and deficit. A
 T777	Premise 33719 33860	in that 90- day period before the inauguration, put together the framework for the town hall and give the American people a Christmas present
 T778	Premise 33862 33913	Show them by Christmas the first cut at these plans
 T779	Premise 33915 34019	By the time Congress comes into session to go to work, have those plans ready to go in front of Congress
 T780	Claim 34026 34081	get off to a flying start in '93 to execute these plans
 T781	Claim 34283 34315	my orientation is let's go do it
 T782	Premise 34322 34358	put together your plans by Christmas
-T783	Claim 34414 34455	Small business - you've got to have capital
+T783	Claim 34414 34458	Small business–you've got to have capital, y
 T784	Claim 34483 34519	many of them need mentors or coaches
 T785	Claim 34525 34586	we can create more jobs there in a hurry than any other place
 T786	Claim 34635 34680	This country desperately needs a jobs program
@@ -813,8 +813,8 @@ T812	Claim 37660 37698	I don't think that's the problem today
 T813	Premise 37700 37732	We have low interest rates today
 T814	Premise 37743 37794	we have low interest rates that the Fed can control
 T815	Premise 37847 37869	because of our deficit
-T816	Premise 37915 38150	there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics - another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment
-T817	Claim 37976 38350	I think the important thing - the important thing - is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down
+T816	Premise 37915 38153	there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics–another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment. B
+T817	Claim 38156 38350	I think the important thing–the important thing– is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down
 T818	Claim 38461 38509	I think the American people are ready for action
 T819	Claim 38511 38600	I think Congress is hungry for someone who will work with them instead of manipulate them
 T820	Premise 38602 38752	Someone who will not veto a bill that has an investment tax credit, middle class tax relief, research and development tax credits as Mr. Bush has done
@@ -908,7 +908,7 @@ T907	Claim 46048 46113	we're so, turned so inward we don't understand the global
 T908	Claim 46119 46143	we are helping democracy
 T909	Premise 46151 46214	The Freedom Support Act is something I got through the Congress
 T910	Claim 46220 46242	it's a very good thing
-T911	Premise 46220 46340	it does exactly what you say to help Russian democracy
+T911	Premise 46252 46280;46314 46340	it does exactly what you say to help Russian democracy
 T912	Claim 46346 46379	we're going to keep on doing that
 T913	Claim 46636 46686	I think our relationships with China are important
 T914	Claim 46691 46720	I don't want to isolate China
@@ -968,13 +968,13 @@ T967	Claim 51505 51617	I think you got to be a little bit careful and you have t
 T968	Premise 51619 51720	You have ancient ethnic rivalries that have cropped up as Yugoslavia's dissolved or getting dissolved
 T969	Claim 51726 51785	it isn't going to be solved by sending in the 82nd Airborne
 T970	Claim 51791 51838	I am not going to do that as commander-in-chief
-T971	Claim 51590 52038	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps and in terms of getting humanitarian relief in there
+T971	Claim 51840 51946;51985 52038	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps and in terms of getting humanitarian relief in there
 T972	Premise 51952 51984	we're making some progress there
-T973	Premise 52044 52162	right now, as you know, the US took the lead in a no-fly operation up there in - no- fly order up in the United Nations
+T973	Premise 52044 52164	right now, as you know, the US took the lead in a no-fly operation up there in– no- fly order up in the United Nations. 
 T974	Premise 52164 52217	We're working through the international organizations
 T975	Claim 52702 52733	I think I am on the right track
-T976	Premise 52219 52349	That's one thing I learned by forging that tremendous and greatly - highly successful coalition against Saddam Hussein, the dictator
-T977	Premise 52351 52384	Use - work internationally to do it
+T976	Premise 52219 52352	That's one thing I learned by forging that tremendous and greatly–highly successful coalition against Saddam Hussein, the dictator. U
+T977	Premise 52351 52387	Use–work internationally to do it. I
 T978	Premise 52386 52414	I am very concerned about it
 T979	Premise 52416 52453	I am concerned about ethnic cleansing
 T980	Premise 52455 52517	I am concerned about a tax on Muslims, for example, over there
@@ -997,7 +997,7 @@ T996	Claim 54033 54126	I think that it's important to recognize that there are t
 T997	Premise 54165 54295	There are, after all, 2 million refugees now because of the problems in what was Yugoslavia, the largest number since World War II
 T998	Premise 54301 54395	there may be hundreds of thousands of people who will starve or freeze to death in this winter
 T999	Claim 54397 54450	The US should try to work with its allies and stop it
-T1000	Premise 54254 54530	I urged the president to support this air cover, and he did - and I applaud that
+T1000	Premise 54449 54530	t. I urged the president to support this air cover, and he did–and I applaud that
 T1001	Premise 54532 54650	I applaud the no-fly zone, and I know that he's going back to the United Nations to try to get authority to enforce it
 T1002	Claim 54652 54716	I think we should stiffen the embargo on the Belgrade government
 T1003	Claim 54722 54816	I think we have to consider whether or not we should lift the arms embargo now on the Bosnians
@@ -1102,46 +1102,46 @@ T1101	Premise 49987 50033	to make sure that we do not cozy up to tyrants
 T1102	Claim 50295 50342	I don't want the American people to be confused
 T1103	Premise 51444 51503	when you go to put somebody else's son or daughter into war
 T1104	Claim 54137 54163	we do have interests there
-T1105	Premise 79031 79106	States have cut Medicaid; we've done it in Arkansas under budget pressures
+T1105	Premise 79031 79105	states have cut Medicaid - we've done it in Arkansas under budget pressure
 T1106	Premise 79302 79443	We set up a national ceiling on health care costs tied to inflation and population growth set by health care providers, not by the government
-T1107	Premise 79302 79572	We provide for managed competition, not Government models, in every State, and we control private and public health care costs
-T1108	Premise 79574 79871	Now, just a few days ago, a bipartisan commission of Republicans and Democrats, more Republicans than Democrats, said my plan will save the average family $1,200 a year more than the Bush plan will by the year 2000; $2.2 trillion in the next 12 years; $400 billion a year by the end of this decade
+T1107	Premise 79445 79571	We provide for managed competition, not government models, in every states. And we control private and public health care cost
+T1108	Premise 79574 79869	Now, just a few days ago a bipartisan commission of Republicans and Democrats - more Republicans than Democrats - said my plan will save the average family $1200 a year more than the Bush plan will by the year 2000, $2.2 trillion in the next 12 years, $400 billion a year by the end of this deca
 T1109	Claim 79873 79919	I have got a plan to control health care costs
 T1110	Claim 79925 79965	you can't just do it by cutting Medicare
-T1111	Claim 79925 80070	You have to take on the insurance companies, the bureaucracies, and you have to have cost controls, yes
+T1111	Claim 79967 80070	you have to take on the insurance companies, the bureaucracies. And you have to have cost controls, yes
 T1112	Premise 80089 80171	we are spending 30% more on health care than any country in the world, any country
-T1113	Premise 80177 80215	Yet, we have 35 million people uninsure
+T1113	Premise 80177 80215	yet we have 35 million people uninsure
 T1114	Premise 80218 80256	we have no preventing and primary care
-T1115	Claim 80149 80368	The Oregon plan is a good start if the Federal Government is going to continue to abandon its responsibilities
+T1115	Claim 80258 80368	The Oregon plan is a good start if the federal government is going to continue to abandon its responsibilities
 T1116	Premise 80370 80437	I say if Germany can cover everybody and keep costs under inflation
 T1117	Premise 80439 80525	if Hawaii can cover 98% of their people at lower health care costs than the rest of us
-T1118	Premise 80376 80709	if Rochester, New York, can do it with two-thirds of the cost of the rest of us
+T1118	Premise 80527 80606	if Rochester, New York, can do it with two-thirds of the cost of the rest of it
 T1119	Claim 80608 80630	America can do it, too
 T1120	Claim 80681 80710	We can do better, and we must
 T1121	Claim 81327 81428	Governor Clinton clicked off the things - he's going to take on insurance companies and bureaucracies
 T1122	Premise 81430 81640	He failed to take on somebody else - the malpractice suit people, those that bring these lawsuits against - these frivolous trial lawyers' lawsuits that are running the costs of medical care up 25 to 50 billion
-T1123	Premise 81468 81707	He refuses to put anything - controls on these crazy lawsuits
+T1123	Premise 81646 81707	he refuses to put anything, controls, on these crazy lawsuits
 T1124	Premise 81709 81985	If you want to help somebody, don't run the costs up by making doctors have to have 5 or 6 tests where one would do for fear of being sued, or have somebody along the highway not stop to pick up a guy and help him because he's afraid a trial lawyer will come along and sue him
 T1125	Premise 81987 82055	We're suing each other too much and caring for each other too little
-T1126	Premise 82050 82273	It ranks behind 15 other nations when we come to life expectancy and 22 other nations when we come to infant mortality
+T1126	Premise 82154 82272	it ranks behind 15 other nations when we come to life expectancy, and 22 other nations when we come to infant mortalit
 T1127	Claim 82394 82445	go copy the people who have the best who spend less
 T1128	Premise 82325 82393	if you're paying more and you don't have the best, if all else fails
 T1129	Claim 82460 82486	we can do better than that
 T1130	Claim 83705 83735	We've got to change the system
-T1131	Premise 82694 82898	we just have a bad system
+T1131	Premise 83678 83703	We just have a bad system
 T1132	Premise 83737 83825	It's time to do it because we have run up so much debt that time is no longer our friend
 T1133	Claim 84266 84374	They told you at the tax and budget summit that if you agreed to a tax increase, we could balance the budget
 T1134	Premise 84376 84482	They didn't tell you that that same year they increased spending $1.83 for every dollar we increased taxes
-T1135	Premise 86810 87117	He was President for 3 years before he proposed a health care plan that still hasn't been sent to Congress in total
-T1136	Premise 87023 87154	3 years before an economic plan
-T1137	Premise 86991 87305	he still didn't say tonight that that tax bill he vetoed raised taxes only on the rich and gave the rest of you a break, but he vetoed it anyway
+T1135	Premise 87002 87117	He was president for 3 years before he proposed a health care plan that still hasn't been sent to Congress in total
+T1136	Premise 87123 87154	e years before an economic plan
+T1137	Premise 87160 87304	he still didn't say tonight that that tax bill he vetoed raised taxes only on the rich and gave the rest of you a break - but he vetoed it anywa
 T1138	Claim 87307 87330	I offer a new direction
 T1139	Claim 87332 87437	Invest in American jobs, American education, control health care costs, bring this country together again
 T1140	Premise 88302 88356	The US came together as we haven't in many, many years
 T1141	Premise 88265 88300	We had to stand up against a tyrant
-T1142	Premise 88265 88394	We kicked this man out of Kuwait
+T1142	Premise 88362 88394	we kicked this man out of Kuwait
 T1143	Premise 88233 88263	Take a look at the Middle East
-T1144	Premise 88147 88539	In the process, as a result of that will and that decision and that toughness, we now have ancient enemies talking peace in the Middle East
+T1144	Premise 88400 88539	in the process, as a result of that will and that decision and that toughness, we now have ancient enemies talking peace in the Middle East
 T1145	Claim 88584 88691	I think the biggest dividend of making these tough calls is the fact that we are less afraid of nuclear war
 T1146	Premise 88693 88796	Every parent out there has much less worry that their kids are going to be faced with nuclear holocaust
 T1147	Claim 8638 8693	I think the American people should be the judge of that
@@ -1195,7 +1195,7 @@ T1194	Premise 13399 13483	The tax increase I have proposed triggers in at family
 T1195	Premise 13485 13574	Those are the people who in the 1980s had their incomes go up while their taxes went down
 T1196	Premise 13576 13769	Middle-class people, defined as people with incomes of $52,000 and down, had their incomes go down while their taxes went up in the Reagan-Bush years because of 6 increases in the payroll taxes
 T1197	Premise 13955 14029	my plan triggers in at gross incomes, family incomes of $200,000 and above
-T1198	Claim 13828 13909	There will be no tax increases below 200,000
+T1198	Claim 13828 13858;13896 13909	There will be no tax increases below 200,000
 T1199	Premise 14036 14187	we want to give modest middle-class tax relief to restore some fairness, especially to middle- class people with families with incomes of under $60,000
 T1200	Claim 14210 14446	the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people
 T1201	Premise 14517 14615	like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again
@@ -1223,7 +1223,7 @@ T1222	Claim 15776 15878	I do not believe we need to go back to the Mondale propo
 T1223	Premise 15880 15958	Governor Clinton says $200,000 but he also says he wants to raise $150 billion
 T1224	Claim 15960 16017	Taxing people over $200,000 will not get you $150 billion
 T1225	Claim 16028 16126	when you add in his other spending proposals, regrettably you end up socking it to the working man
-T1226	Premise 16128 16303	That old adage they use - we're going to soak the rich- -we're going to soak the rich - it always ends up being the poor cab driver or the working man that ends up paying the bill
+T1226	Premise 16128 16303	That old adage they use–we're going to soak the rich- -we're going to soak the rich–it always ends up being the poor cab driver or the working man that ends up paying the bill
 T1227	Claim 16312 16344	I just have a different approach
 T1228	Claim 16346 16487	I believe the way to get the deficit down is to control the growth of mandatory spending programs, and not raise taxes on the American people
 T1229	Claim 16561 16649	We've got to have a growing, expanding job base to give us a growing, expanding tax base
@@ -1343,7 +1343,7 @@ T1342	Claim 26234 26253	I think that's good
 T1343	Claim 26310 26412	I don't think we need to tax more and spend more, and then say that's going to make the problem better
 T1344	Claim 26430 26484	that's what I think I am hearing from Governor Clinton
 T1345	Claim 26486 26614	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
-T1346	Premise 26616 26672	He's mentioned some ways to do it - and I agree with those
+T1346	Premise 26616 26675	He's mentioned some ways to do it–and I agree with those. I
 T1347	Premise 26674 26735	I have been talking about getting a capital gains cut forever
 T1348	Claim 26819 26848	It would stimulate investment
 T1349	Claim 26850 26886	I am for an investment tax allowance
@@ -1406,7 +1406,7 @@ T1405	Premise 31104 31182	No other nation would have cut defense as much as we a
 T1406	Premise 31248 31363	we have cut defense without planning to retrain them and to reinvest in the technologies of the future here at home
 T1407	Claim 31365 31390	That is what I want to do
 T1408	Premise 31392 31549	This administration may say they have a plan, but the truth is they have not even released all the money, the paltry sum of money, that Congress appropriated
-T1409	Premise 31220 31737	I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century - in new transportation, in communication, in environmental clean-up technologies
+T1409	Premise 31548 31737	d. I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century–in new transportation, in communication, in environmental clean-up technologies
 T1410	Premise 28869 28916	if you go with the programs I have talked about
 T1411	Premise 28921 28966	if you help with job retraining and education
 T1412	Claim 28968 29042	I am a firm believer that our America 2000 education problem is the answer
@@ -1416,8 +1416,8 @@ T1415	Claim 31184 31239	There are 200,000 people unemployed in California alone
 T1416	Claim 28590 28622	stimulate investment and savings
 T1417	Claim 33327 33394	we have an adversarial relationship between government and business
 T1418	Claim 33396 33549	Our international competitors that are cleaning our plate have an intelligent relationship between government and business, and a supportive relationship
-T1419	Claim 32180 32452	the American people send me up there, the day after election, I'll get with congressional - we won't even wait till inauguration
-T1420	Claim 32416 32643	we will start putting together teams to put together - to take all the plans that exist and do something with them
+T1419	Claim 32323 32452	e, the American people send me up there, the day after election, I'll get with congressional–we won't even wait till inauguration
+T1420	Claim 32529 32643	d we will start putting together teams to put together–to take all the plans that exist and do something with them
 T1421	Premise 32664 32732	There are great plans lying all over Washington nobody ever executes
 T1422	Premise 32734 32790	It's like having a blueprint for a house you never built
 T1423	Claim 32830 32891	our challenge is to take these things, do something with them
@@ -1425,14 +1425,14 @@ T1424	Claim 32903 32938	we want to put America back to work
 T1425	Claim 33136 33189	Have a 3rd task force on new industries of the future
 T1426	Premise 33276 33320	Convert from 19th to 21st century capitalism
 T1427	Premise 33598 33655	next to jobs, our people are concerned about their safety
-T1428	Claim 33657 33705	Health care, schools - one on the debt and deficit
+T1428	Claim 33657 33708	Health care, schools–one on the debt and deficit. A
 T1429	Premise 33719 33860	in that 90- day period before the inauguration, put together the framework for the town hall and give the American people a Christmas present
 T1430	Premise 33862 33913	Show them by Christmas the first cut at these plans
 T1431	Premise 33915 34019	By the time Congress comes into session to go to work, have those plans ready to go in front of Congress
 T1432	Claim 34026 34081	get off to a flying start in '93 to execute these plans
 T1433	Claim 34283 34315	my orientation is let's go do it
 T1434	Premise 34322 34358	put together your plans by Christmas
-T1435	Claim 34414 34455	Small business - you've got to have capital
+T1435	Claim 34414 34458	Small business–you've got to have capital, y
 T1436	Claim 34483 34519	many of them need mentors or coaches
 T1437	Claim 34525 34586	we can create more jobs there in a hurry than any other place
 T1438	Claim 34635 34680	This country desperately needs a jobs program
@@ -1474,15 +1474,15 @@ T1473	Claim 34737 34787	to introduce it on the first day I was inaugurated
 T1474	Premise 35893 35936	some of which have been echoed here tonight
 T1475	Premise 35937 36059	investment tax allowance, capital gains reduction, more on research and development, tax credit for first-time home buyers
 T1476	Claim 36438 36511	we're going to say to them, you've listened to the voters the way we have
-T1477	Premise 33026 33134	you've got your big companies that are in trouble, including the defense industries - have another one on that
+T1477	Premise 33026 33137	you've got your big companies that are in trouble, including the defense industries–have another one on that. H
 T1478	Claim 35752 35818	We've got the plan announced for what we can do for small business
 T1479	Claim 37580 37645	I think that we might ought to review the terms, the way it works
 T1480	Claim 37660 37698	I don't think that's the problem today
 T1481	Premise 37700 37732	We have low interest rates today
 T1482	Premise 37743 37794	we have low interest rates that the Fed can control
 T1483	Premise 37847 37869	because of our deficit
-T1484	Premise 37915 38150	there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics - another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment
-T1485	Claim 37976 38350	I think the important thing - the important thing - is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down
+T1484	Premise 37915 38153	there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics–another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment. B
+T1485	Claim 38156 38350	I think the important thing–the important thing– is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down
 T1486	Claim 38511 38600	I think Congress is hungry for someone who will work with them instead of manipulate them
 T1487	Premise 38602 38752	Someone who will not veto a bill that has an investment tax credit, middle class tax relief, research and development tax credits as Mr. Bush has done
 T1488	Claim 38783 38847	I don't have to worry in the near term about the Federal Reserve
@@ -1582,7 +1582,7 @@ T1581	Claim 46048 46113	we're so, turned so inward we don't understand the globa
 T1582	Claim 46119 46143	we are helping democracy
 T1583	Premise 46151 46214	The Freedom Support Act is something I got through the Congress
 T1584	Claim 46220 46242	it's a very good thing
-T1585	Premise 46220 46340	it does exactly what you say to help Russian democracy
+T1585	Premise 46252 46280;46314 46340	it does exactly what you say to help Russian democracy
 T1586	Claim 46346 46379	we're going to keep on doing that
 T1587	Claim 41860 41886	you've got to make it here
 T1588	Premise 41590 41608	if you're not rich

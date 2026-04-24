@@ -126,7 +126,7 @@ T125	Premise 13373 13457	The tax increase I have proposed triggers in at family 
 T126	Premise 13459 13548	Those are the people who in the 1980s had their incomes go up while their taxes went down
 T127	Premise 13550 13743	Middle-class people, defined as people with incomes of $52,000 and down, had their incomes go down while their taxes went up in the Reagan-Bush years because of 6 increases in the payroll taxes
 T128	Premise 13923 13997	my plan triggers in at gross incomes, family incomes of $200,000 and above
-T129	Claim 13802 13832;13866 13879	There will be no tax increases below 200,000
+T129	Claim 13802 13832;13865 13879	There will be no tax increases below 200,000
 T130	Premise 14004 14155	we want to give modest middle-class tax relief to restore some fairness, especially to middle- class people with families with incomes of under $60,000
 T131	Claim 14178 14414	the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people
 T132	Premise 14485 14583	like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again
@@ -455,7 +455,7 @@ T454	Claim 45978 46043	we're so, turned so inward we don't understand the global
 T455	Claim 46049 46073	we are helping democracy
 T456	Premise 46081 46144	The Freedom Support Act is something I got through the Congress
 T457	Claim 46150 46172	it's a very good thing
-T458	Premise 46175 46203;46237 46263	it does exactly what you say to help Russian democracy
+T458	Premise 46182 46210;46244 46270	it does exactly what you say to help Russian democracy
 T459	Claim 46276 46309	we're going to keep on doing that
 T460	Claim 46566 46616	I think our relationships with China are important
 T461	Claim 46621 46650	I don't want to isolate China
@@ -515,7 +515,7 @@ T514	Claim 51428 51540	I think you got to be a little bit careful and you have t
 T515	Premise 51542 51643	You have ancient ethnic rivalries that have cropped up as Yugoslavia's dissolved or getting dissolved
 T516	Claim 51649 51708	it isn't going to be solved by sending in the 82nd Airborne
 T517	Claim 51714 51760	I'm not going to do that as commander-in-chief
-T518	Claim 51755 51861;51900 51953	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps and in terms of getting humanitarian relief in there
+T518	Claim 51762 51868;51907 51960	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps and in terms of getting humanitarian relief in there
 T519	Premise 51874 51906	we're making some progress there
 T520	Premise 51966 52083	right now, as you know, the US took the lead in a no-fly operation up there in no- fly order up in the United Nations
 T521	Premise 52085 52138	We're working through the international organizations
@@ -702,12 +702,12 @@ T701	Premise 56054 56364	whether they're people on welfare you're trying to move
 T702	Premise 56366 56395	they deserve a strong economy
 T703	Claim 56401 56452	I think they deserve a family and medical leave act
 T704	Premise 56454 56503	Seventy-two other nations have been able to do it
-T705	Premise 56541 56675	Mr. Bush vetoed it twice because he says we can't do something 72 other countries do, even though there was a small business exemption
+T705	Premise 56505 56648	Mr. Bush vetoed it twice because he says we can't do something seventy-two other countries do, even though there was a small business exemption
 T706	Claim 57287 57326	I do think we need to strengthen family
 T707	Premise 57012 57282	I would say that one meeting that made a profound impression on me was when the mayors of the big cities, including the mayor of Los Angeles, a Democrat, came to see me, and they unanimously said the decline in urban America stems from the decline in the American family
-T708	Claim 57249 57595	I believe that discipline and respect for the law, all of these things, should be taught to children, not in our schools but families have to do that
-T709	Premise 57597 57655	I'm appalled at the high, outrageous numbers of divorces
-T710	Premise 57713 57741	It's happened in families
+T708	Claim 57452 57601	I believe that discipline and respect for the law - all of these things should be taught to children, not in our schools, but families have to do tha
+T709	Premise 57604 57662	I'm appalled at the highest outrageous numbers of divorces
+T710	Premise 57665 57690	it happens in families, i
 T711	Premise 57689 57710	it's happened in ours
 T712	Premise 57716 57736	it's gotten too much
 T713	Claim 57742 57823	I just think that we ought to do everything we can to respect the American family
@@ -728,45 +728,45 @@ T726	Claim 60316 60359	We're doing a little better in interdiction
 T727	Premise 60361 60560	Many of the countries below that used to say, well, this is the US' problem - if you'd get the demand down, then we wouldn't have the problem - are working cooperatively with the DEA and the military
 T728	Premise 60562 60620	We're using the military more now in terms of interdiction
 T729	Premise 60622 60676	Our funding for recovery is up, recovering the addicts
-T730	Claim 60671 60752	Where we're not making the progress, Sander, is in we're making it in teenagers
+T730	Claim 60678 60758	Where we're not making the progress, Sander, is in - we're making it in teenager
 T731	Claim 60875 60930	where we're not making it is with the confirmed addicts
-T732	Claim 60929 61048	I'll tell you one place that's working well, and that is the private sector, Jim Burke and this task force that he has
-T733	Premise 60934 61369	Tell the American people, but this man said, "I'll get you a million dollars a day in pro bono advertising," something that's very hard for the Government to do. He went out and he did it, and people are beginning to educate through this program, teaching these kids you shouldn't use drugs
+T732	Claim 60936 61054	I'll tell you one place that's working well, and that is the private sector - Jim Burke and this task force that he ha
+T733	Premise 61085 61376	tell the American people, but this man said I'll get you a million dollars a day in pro bono advertising, something that's very hard for the government to do. And he went out and he did it. And people are beginning to educate through this program, teaching these kids you shouldn't use drugs
 T734	Claim 61381 61405	we're still in the fight
-T735	Claim 61261 61556	I think legalization of narcotics or something of that nature, in the face of the medical evidence, would be totally counterproductive
+T735	Claim 61428 61562	I think legalization of narcotics, or something of that nature, in the face of the medical evidence, would be totally counterproductiv
 T736	Claim 61569 61633	I oppose it, and I'm going to stand up and continue to oppose it
-T737	Premise 2364 2568	Any time you think you want to legalize drugs, go to a neonatal unit, if you can get in. They are between 100 and 200 percent capacity up and down the East Coast, and the reason is crack babies being born
-T738	Premise 2570 2640	Baby's in the hospital 42 days; typical cost to you and me is $125,000
+T737	Premise 61673 61876	Anytime you think you want to legalize drugs, go to a neonatal unit - if you can get in. They're between 100 and 200 percent capacity up and down the East Coast. And the reason is crack babies being born
+T738	Premise 61878 61947	babies in the hospital 42 days. Typical cost to you and me is $125,00
 T739	Premise 61950 62100	Again and again and again, the mother disappears in 3 days, and the child becomes a ward of the state because he's permanently and genetically damaged
 T740	Claim 62142 62207	if anybody can even think about legalizing drugs, they've lost me
-T741	Premise 2932 3066	We went on the Libyan raid, you remember that one, because we were worried to death that Qadhafi might be building up chemical weapons
-T742	Premise 62378 62534	We've got chemical warfare being conducted against our children on the streets in this country all day, every day, and we don't have the will to stamp it out
+T741	Premise 62250 62390	we went on the Libyan raid - do you remember that one? - because we were worried to death that Gaddafi might be building up chemical weapons
+T742	Premise 62392 62549	We've got chemical warfare being conducted against our children on the streets in this country all day every day, and we don't have the will to stamp it out.
 T743	Claim 62562 62644	if I get up there, if you send me, we're going to have some blunt talks about this
-T744	Premise 62768 62875	There are guys that couldn't get a job third shift in a Dairy Queen, driving BMW's and Mercedes, selling drugs
-T745	Premise 3318 3449	We're really going to get out in the trenches and say, "Is this one you want to talk about or fix?" Because talk won't do it, folks
+T744	Premise 62782 62892	There are guys that couldn't get a job third shift in a Dairy Queen driving BMWs and Mercedes selling drugs. A
+T745	Premise 62650 62779	we're really going to get down in the trenches and say, is this one you want to talk about or fix, because talk won't do it, folk
 T746	Claim 62895 62936	these old boys are not going to quit easy
 T747	Claim 63042 63100	I know more about this, I think, than anybody else up here
 T748	Premise 63109 63156	I have a brother who's a recovering drug addict
 T749	Premise 63206 63260	If drugs were legal, I don't think he'd be alive today
 T750	Claim 63262 63304	I am adamantly opposed to legalizing drugs
 T751	Premise 63306 63362	He is alive today because of the criminal justice system
-T752	Claim 4233 4274	We need 100,000 more police on the street
-T753	Premise 63442 63550	Thirty years ago there were three policemen for every crime. Now there are three crimes for every policeman
+T752	Claim 63566 63618	We need a hundred thousand more police on the street
+T753	Premise 63456 63563	Thirty years ago, there were three policemen for every crime. Now there are three crimes for every policema
 T754	Claim 63620 63642	I have a plan for that
 T755	Claim 63644 63690	Secondly, we ought to have treatment on demand
 T756	Claim 63401 63454	First, we ought to prevent more of this on the street
 T757	Claim 63692 63764	Thirdly, we ought to have boot camps for first-time nonviolent offenders
-T758	Premise 63797 63982	they can get discipline and treatment and education and get reconnected to the community, before they are severed and sent to prison where they can learn how to be first-class criminals
-T759	Premise 63971 64151	There is a crime bill that, lamentably, was blocked from passage once again, mostly by Republicans in the United States Senate, which would have addressed some of these problems
+T758	Premise 63768 63954	they can get discipline and treatment and education and get reconnected to the community before they're severed and sent to prison, where they can learn how to be first class criminals. 
+T759	Premise 63954 64120	There is a crime bill that, lamentably, was blocked from passage once again, mostly by Republicans in the US Senate, which would have addressed some of these problems
 T760	Premise 64122 64216	That crime bill is going to be one of my highest priorities next January if I become president
 T761	Claim 64852 64880	We ought to love one another
 T762	Premise 64889 64928	united teams win and divided teams lose
 T763	Claim 64934 65002	if we can't love one another, we ought to get along with one another
-T764	Premise 64920 65097	If you can't get there, just recognize we're all stuck with one another, because nobody's going anywhere
+T764	Premise 65008 65112	if you can't get there, just recognize we're all stuck with one another because nobody's going anywhere,
 T765	Claim 65207 65234	Our diversity is a strength
 T766	Premise 65236 65267	We've turned it into a weakness
 T767	Claim 65280 65313	the White House is a bully pulpit
-T768	Claim 1097 1195	I think whoever's in the White House should just make it absolutely unconscionable and inexcusable
+T768	Claim 65315 65412	I think whoever is in the White House should just make it absolutely unconscionable and inexcusab
 T769	Claim 65635 65668	our differences are our strengths
 T770	Claim 65670 65698	We have got to pull together
 T771	Premise 65700 65724	In athletics, we know it
@@ -776,14 +776,14 @@ T774	Premise 66134 66326	I grew up in the segregated South, thankfully raised by
 T775	Premise 66328 66462	I saw the winds of hatred divide people and keep the people of my state poorer than they would have been, spiritually and economically
 T776	Premise 66545 66592	We don't have a person to waste in this country
 T777	Premise 66594 66664	We are being murdered economically because we have too many drop-outs,
-T778	Premise 66682 66725	We have too many low-birth weight babies
+T778	Premise 66665 66704	we have too many low birthweight babies
 T779	Premise 66706 66743	we have too many drug addicts as kids
 T780	Premise 66745 66770	we have too much violence
 T781	Premise 66772 66820	we are too divided by race, by income, by region
-T782	Claim 66843 67066	I have devoted a major portion of this campaign to going across this country and looking for opportunities to go to white groups and African-American groups and Latino groups, Asian-American groups and say the same thing
+T782	Claim 66826 67049	I have devoted a major portion of this campaign to going across this country and looking for opportunities to go to white groups and African American groups and Latino groups and Asian American groups and say the same thing
 T783	Claim 67051 67135	If the American people cannot be brought together, we can't turn this country around
-T784	Claim 67154 67210	If we can come together, nothing, nothing can stop us
-T785	Premise 67298 67434	I do think it's fair to note - he can rebut it - that Arkansas is one of the few States that doesn't have any civil rights legislation
+T784	Claim 67137 67181	If we can come together, nothing can stop us
+T785	Premise 67269 67404	I do think it's fair to note - he can rebut it - but Arkansas is one of the few states that doesn't have any civil rights legislation. 
 T786	Claim 67404 67492	I've tried to use the White House as a bully pulpit, speaking out against discrimination
 T787	Premise 67494 67547	We passed two very forward-looking civil rights bills
 T788	Claim 67599 67709	I do think that you need to make an appeal every time you can to eliminate racial divisions and discrimination
@@ -792,62 +792,62 @@ T790	Premise 67715 67800	I'll keep on doing that and pointing to some legislativ
 T791	Claim 67230 67267	I think Governor Clinton is committed
 T792	Premise 68988 69022	We have increased funding for AIDS
 T793	Premise 69024 69084	We've doubled it on research and on every other aspect of it
-T794	Premise 69116 69221	My request for this year was $4.9 billion for AIDS, 10 times as much for AIDS victim as per cancer victim
+T794	Premise 69086 69193	My request for this year was $4.9 billion for AIDS - ten times as much per AIDS victim as per cancer victim
 T795	Claim 69195 69255	I think that we're showing the proper compassion and concern
 T796	Claim 69260 69299	I can't tell you where it's coming from
 T797	Claim 69305 69340	I am very much concerned about AIDS
 T798	Claim 69345 69440	I believe that we've got the best researchers in the world out there at NIH working the problem
 T799	Premise 69442 69460	We're funding them
-T800	Premise 69269 69541	I wish there was more money, but we're funding them far more than any time in the past
-T801	Claim 69377 69632	I don't know, I was a little disappointed in Magic
-T802	Premise 69443 69817	he came to me and I said, "Now, if you see something we're not doing, get ahold of me, call me, let me know." He went to one meeting, and then we heard that he was stepping down
-T803	Premise 1401 1538	he's been replaced by Mary Fisher, who electrified the Republican Convention by talking about the compassion and the concern that we feel
+T800	Premise 69468 69554	I wish there was more money - but we're funding them far more than any time in the pas
+T801	Claim 69596 69646	I don't know. I was a little disappointed in Magic
+T802	Premise 69655 69832	he came to me and I said, "Now if you see something we're not doing, get ahold of me. Call me, let me know." He went to one meeting, and then we heard that he was stepping down.
+T803	Premise 69836 69967	he's replaced by Mary Fisher who electrified the Republican Convention by talking about the compassion and the concern that we feel
 T804	Claim 69999 70053	I think she'll do a first-class job on that commission
 T805	Premise 69969 69994	It was a beautiful moment
-T806	Claim 69809 70078	I think the appeal is, yes, we care
-T807	Claim 69910 70169	The other thing is, part of AIDS, it's one of the few diseases where behavior matters
-T808	Premise 70221 70488	I once called on somebody, "Well, change your behavior. If the behavior you're using is prone to cause AIDS, change the behavior." The next thing I know, one of these ACT-UP groups is out saying, "Bush ought to change his behavior." You can't talk about it rationally
+T806	Claim 70058 70093	I think the appeal is yes, we care.
+T807	Claim 70098 70182	the other thing is part of AIDS - it's one of the few diseases where behavior matter
+T808	Premise 70189 70449	I once called on somebody, "Well, change your behavior. Is the behavior you're using prone to cause AIDS? Change the behavior." Next thing I know, one of these ACT UP groups is out saying, "Bush ought to change his behavior." You can't talk about it rationally
 T809	Claim 70451 70490	The extremes are hurting the AIDS cause
 T810	Premise 70492 70679	To go into a Catholic mass in a beautiful cathedral in New York under the cause of helping in AIDS and start throwing condoms around in the mass, I'm sorry, I think it sets back the cause
 T811	Claim 70681 70710	We cannot move to the extreme
 T812	Claim 70731 70805	We've got to continue everything we can at the federal and the local level
-T813	Premise 70793 70864	Barbara, I think, is doing a superb job in destroying the myth about AIDS
+T813	Premise 70807 70880	Barbara I think is doing a superb job in destroying the myth about AIDS. 
 T814	Claim 70884 70924	all of us are in this fight together, al
 T815	Claim 70922 70936	all of us care
 T816	Claim 70938 70962	Do not go to the extreme
 T817	Claim 71009 71047	I think Mary Fisher was a great choice
 T818	Claim 71049 71095	We're lucky to have her heading the commission
-T819	Claim 71372 71599	I think we can expedite the problem there
+T819	Claim 71572 71613	d think we can expedite the problem there
 T820	Premise 71457 71561	we could be moving out to the human population a whole lot faster than we are on some of these new drugs
 T821	Claim 71383 71451	Believe me, people with AIDS are more than willing to take that risk
-T822	Premise 71294 71402	If you're going to die, you don't have to go through this 10-year cycle that FDA goes through on new drugs
+T822	Premise 71275 71381	f you're going to die, you don't have to go through this ten-year cycle that FDA goes through on new drugs
 T823	Premise 72080 72120	Over 150,000 Americans have died of AIDS
 T824	Premise 72122 72182	Well over a million and a quarter Americans are HIV-positive
 T825	Claim 72184 72295	We need to put one person in charge of the battle against AIDS to cut across all the agencies that deal with it
 T826	Claim 72297 72344	We need to accelerate the drug approval process
-T827	Claim 72108 72470	We need to fully fund the act named for that wonderful boy, Ryan White, to make sure we're doing everything we can on research and treatment
-T828	Claim 72305 72624	The President should lead a national effort to change behavior to keep our children alive in the schools, responsible behavior to keep people alive
+T827	Claim 72346 72486	We need to fully fund the act named for that wonderful boy Ryan White to make sure we're doing everything we can on research and treatment. 
+T828	Claim 72490 72637	the president should lead a national effort to change behavior, to keep our children alive in the schools, responsible behavior to keep people aliv
 T829	Premise 72640 72674	This is a matter of life and death
-T830	Premise 72563 72739	I've worked in my State to reduce teen pregnancy and illness among children
+T830	Premise 72679 72753	ave worked in my state to reduce teen pregnancy and illness among children
 T831	Premise 72774 72952	The reason Magic Johnson resigned from the AIDS Commission is because the statement you heard tonight from Mr. Bush is the longest and best statement he's made about it in public
-T832	Claim 4516 4569	I'm proud of what we did at the Democratic Convention
-T833	Premise 4571 4618	putting two HIV-positive people on the platform
-T834	Claim 4624 4723	I'm proud of the leadership that I'm going to bring to this country in dealing with the AIDS crisis
+T832	Claim 72956 73008	am proud of what we did at the Democratic Convention
+T833	Premise 73007 73055	n, putting 2 HIV-positive people on the platform
+T834	Claim 73063 73161	am proud of the leadership that I'm going to bring to this country in dealing with the AIDS crisis
 T835	Claim 72755 72772	I know it's tough
 T836	Claim 73622 73681	I get there, it will be a very unusual and historical event
 T837	Premise 73692 73743	the people, not the special interests, put me there
 T838	Claim 73865 73994	we're going to inform the people in detail on the issues through an electronic town hall so that they really know what's going on
 T839	Premise 73996 74044	They will want to do what's good for our country
-T840	Claim 74084 74376	all these fellows with thousand-dollar suits and alligator shoes running up and down the Halls of Congress that make policy now, the lobbyists, the PAC guys, the foreign lobbyists, what have you, they'll be over there in the Smithsonian - [laughter] - because we're going to get rid of them
+T840	Claim 74051 74345	all these fellows with thousand-dollar suits and alligator shoes running up and down the halls of Congress that make policy now - the lobbyists, the PAC guys, the foreign lobbyists, and what-have-you, they'll be over there in the Smithsonian, you know - - because we're going to get rid of them
 T841	Claim 74351 74395	the Congress will be listening to the people
 T842	Claim 74839 74886	They've never seen anything happen in that town
-T843	Premise 74921 75208	This is a town where the White House says, "Congress did it." Congress says, "The White House did it." And I'm sitting there and saying, "Well, who else could be around?" And then when they get off by themselves, they said, "Nobody did it." [Laughter] And yet, the cash register is empty
+T843	Premise 74888 75158	This is a town where the White House says, Congress did it; Congress says, the White House did it. And I'm sitting there and saying, well, who else could be around, you know? Then when they get off by themselves, they say nobody did it. And yet the cash register's empty
 T844	Premise 75163 75248	it used to have our money, the taxpayers' money, in it, and we didn't get the results
 T845	Claim 75345 75371	it's not quite that simple
 T846	Premise 75400 75477	Both parties in Washington, the president and the Congress, have cut Medicare
-T847	Premise 75375 75602	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965 before Medicare came in
+T847	Premise 75479 75615	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965, before Medicare came i
 T848	Premise 75618 75715	The president's got another proposal to require them to pay $400 a year more for the next 5 years
-T849	Premise 75707 75882	if you don't have the guts to control cost by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public sector
+T849	Premise 75721 75895	if you don't have the guts to control costs by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public secto
 T850	Claim 75898 75924	you can't fix this problem
 T851	Claim 75926 75955	Costs will continue to spiral
 T852	Premise 75988 76082	A lot of folks on Medicare are out there every day making the choice between food and medicine
