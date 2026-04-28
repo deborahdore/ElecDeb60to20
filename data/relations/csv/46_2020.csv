@@ -1,0 +1,319 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+"Top, top academic, good in every way",Claim,"((2402, 2438),)",Good in every way,Claim,"((2440, 2457),)",Equivalent
+We have plenty of time.,Claim,"((2596, 2619),)","I have a lot of time after the election, as you know",Premise,"((2665, 2717),)",Support
+She’s going to be as good as anybody that has served on that court,Claim,"((2760, 2826),)",We really feel that,Claim,"((2828, 2847),)",Support
+He’s in the Supreme Court right now trying to get rid of the Affordable Care Act,Claim,"((4594, 4674),)",which will strip 20 million people from having health insurance now,Premise,"((4676, 4743),)",Support
+He’s in the Supreme Court right now trying to get rid of the Affordable Care Act,Claim,"((4594, 4674),)",if it goes into court,Premise,"((4745, 4766),)",Support
+We’re not elected for three years,Claim,"((6049, 6082),)",We’re not elected for three years,Claim,"((6049, 6082),)",Equivalent
+We’re not elected for three years,Claim,"((6049, 6082),)",I’m elected for four years,Claim,"((6319, 6345),)",Attack
+That’s simply not true,Claim,"((6593, 6615),)",you’re certainly going to socialist,Claim,"((6630, 6665),)",Attack
+They will under my proposal,Claim,"((7172, 7199),)",That’s not what you’ve said,Claim,"((7208, 7235),)",Attack
+They will under my proposal,Claim,"((7172, 7199),)",it’s not what your party is saying,Claim,"((7240, 7274),)",Attack
+That’s not what you’ve said,Claim,"((7208, 7235),)",That is simply a lie,Claim,"((7283, 7303),)",Attack
+That is simply a lie,Claim,"((7283, 7303),)",Your party doesn’t say it,Claim,"((7312, 7337),)",Attack
+Your party doesn’t say it,Claim,"((7312, 7337),)",Your party wants to go socialist medicine and socialist healthcare,Claim,"((7339, 7405),)",Attack
+"Right now, I am the Democratic Party",Claim,"((7431, 7467),)","they’re going to dominate you, Joe",Claim,"((7480, 7514),)",Attack
+"Right now, I am the Democratic Party",Claim,"((7431, 7467),)",I am the Democratic Party right now,Claim,"((7538, 7573),)",Equivalent
+there’s seven million people that contracted COVID,Claim,"((7895, 7945),)",don’t tell me about this,Claim,"((8157, 8181),)",Attack
+"you’ve had 308,000 military people dying",Claim,"((8044, 8084),)",you couldn’t provide them proper healthcare in the military,Premise,"((8093, 8152),)",Support
+"it wouldn’t be 200, it would be two million people",Claim,"((8249, 8299),)",you were very late on the draw,Premise,"((8308, 8338),)",Support
+"That’s on the ballot as well and the court, in the court",Claim,"((8855, 8911),)",You don’t know what’s on the ballot,Claim,"((8987, 9022),)",Attack
+You don’t know what’s on the ballot,Claim,"((8987, 9022),)",It’s not on the ballot,Claim,"((9074, 9096),)",Equivalent
+It’s not on the ballot,Claim,"((9074, 9096),)",It’s on the ballot in the court,Claim,"((9105, 9136),)",Attack
+It’s not on the ballot,Claim,"((9074, 9096),)",In the court,Claim,"((9170, 9182),)",Attack
+In the court,Claim,"((9170, 9182),)",There’s nothing happening there,Claim,"((9191, 9222),)",Attack
+I got rid of the individual mandate,Claim,"((10264, 10299),)",which was a big chunk of Obamacare,Premise,"((10301, 10335),)",Support
+I got rid of the individual mandate,Claim,"((10264, 10299),)",That is absolutely a big thing,Claim,"((10387, 10417),)",Support
+That was the worst part of Obamacare,Claim,"((10419, 10455),)",That was the worst part of Obamacare,Claim,"((10419, 10455),)",Equivalent
+The individual mandate was the most unpopular aspect of Obamacare,Claim,"((10625, 10690),)",I got rid of it,Claim,"((10723, 10738),)",Support
+I’m not surprised,Claim,"((11319, 11336),)","first of all, I guess I’m debating you, not him, but that’s okay",Premise,"((11253, 11317),)",Support
+There’s nothing symbolic,Claim,"((11370, 11394),)",I’m going with Favored Nations,Premise,"((11421, 11451),)",Support
+He has not done healthcare,Claim,"((11806, 11832),)",I’ll give you an example,Claim,"((11841, 11865),)",Attack
+I beat Bernie Sanders,Claim,"((13455, 13476),)",Not by much.,Claim,"((13549, 13561),)",Attack
+I beat Bernie Sanders,Claim,"((13455, 13476),)",I beat him by a whole hell of a lot,Claim,"((13505, 13540),)",Equivalent
+Not by much.,Claim,"((13549, 13561),)",Not by much.,Claim,"((13549, 13561),)",Equivalent
+Everybody knows he’s a liar,Claim,"((14090, 14117),)",I’m not here to call out his lies,Claim,"((14055, 14088),)",Support
+Everybody knows he’s a liar,Claim,"((14090, 14117),)",you’re the liar,Claim,"((14146, 14161),)",Attack
+You’d be surprised,Claim,"((14377, 14395),)",You’d be surprised,Claim,"((14377, 14395),)",Equivalent
+you agreed with Bernie Sanders and the manifesto,Premise,"((14485, 14533),)",There is no manifesto,Claim,"((14542, 14563),)",Attack
+He won’t ever look you in the eye and say that’s what he wants to do,Claim,"((15253, 15321),)",already has cost 10 million people their healthcare that they had from their employers because of his recession,Premise,"((15016, 15127),)",Support
+He won’t ever look you in the eye and say that’s what he wants to do,Claim,"((15253, 15321),)",there are 20 million people getting healthcare through Obamacare now that he wants to take it away,Premise,"((15153, 15251),)",Support
+I’ve already fixed it,Claim,"((15506, 15527),)",He has never offered a plan,Claim,"((15536, 15563),)",Attack
+I’ve already fixed it,Claim,"((15506, 15527),)",We’ve already fixed it to an extent,Claim,"((15572, 15607),)",Equivalent
+We made it better,Claim,"((15817, 15834),)",I had a choice to make very early on,Premise,"((15839, 15875),)",Support
+We made it better,Claim,"((15817, 15834),)",We took away the individual mandate,Premise,"((15877, 15912),)",Support
+We guaranteed pre-existing conditions,Claim,"((15914, 15951),)",took away the individual mandate,Premise,"((15957, 15989),)",Support
+He has no plan for healthcare,Claim,"((16776, 16805),)","Of course, we do",Claim,"((16814, 16830),)",Attack
+"Of course, we do",Claim,"((16814, 16830),)",He sends out wishful thinking,Claim,"((16856, 16885),)",Attack
+He does not have a plan,Claim,"((17090, 17113),)",He has Executive Orders that have no power,Premise,"((16887, 16929),)",Support
+He does not have a plan,Claim,"((17090, 17113),)",He hasn’t lowered drug costs for anybody,Premise,"((16931, 16971),)",Support
+He does not have a plan,Claim,"((17090, 17113),)",He’s been promising a healthcare plan since he got elected,Premise,"((16973, 17031),)",Support
+He does not have a plan,Claim,"((17090, 17113),)","He has none, like almost everything else he talks about",Premise,"((17033, 17088),)",Support
+He does not have a plan,Claim,"((17090, 17113),)",He does not have a plan,Claim,"((17090, 17113),)",Equivalent
+that’ll become the issue,Claim,"((17969, 17993),)",Whatever position I take on that,Premise,"((17935, 17967),)",Support
+He doesn’t want to answer the question,Claim,"((18311, 18349),)",I’m not going to answer the question,Claim,"((18358, 18394),)",Attack
+you’ve done nothing,Claim,"((18980, 18999),)",They understand,Claim,"((19001, 19016),)",Support
+He went in,Claim,"((20539, 20549),)",we were insisting that the people we had in the ground in China should be able to go to Wuhan and determine for themselves how dangerous this was,Premise,"((20554, 20699),)",Support
+He did not even ask Xi to do that,Claim,"((20701, 20734),)",Wrong,Claim,"((20988, 20993),)",Attack
+Wrong,Claim,"((20988, 20993),)",Wrong,Claim,"((20988, 20993),)",Equivalent
+Wrong,Claim,"((20988, 20993),)",It’s so wrong,Claim,"((21038, 21051),)",Equivalent
+He then did nothing,Claim,"((20897, 20916),)",He waited and waited and waited,Claim,"((20918, 20949),)",Support
+He then did nothing,Claim,"((20897, 20916),)",He still doesn’t have a plan,Claim,"((20951, 20979),)",Support
+You should get out of your bunker,Claim,"((21414, 21447),)",get out of the sand trap in your golf course and go in the Oval Office,Premise,"((21452, 21522),)",Support
+You should get out of your bunker,Claim,"((21414, 21447),)",bring together the Democrats and Republicans,Claim,"((21527, 21571),)",Support
+You should get out of your bunker,Claim,"((21414, 21447),)",fund what needs to be done now to save lives,Premise,"((21576, 21620),)",Support
+"the country would have been left wide open, millions of people would have died, not 200,000",Claim,"((21754, 21845),)",If we would’ve listened to you,Premise,"((21722, 21752),)",Support
+you don’t know how many people died in China,Claim,"((22029, 22073),)",when you talk about numbers,Premise,"((22000, 22027),)",Support
+I closed it,Claim,"((22274, 22285),)",if you look at what we’ve done,Premise,"((22242, 22272),)",Support
+go take a look,Claim,"((22820, 22834),)",We worked with the Governor,Claim,"((22780, 22807),)",Support
+The Governors said I did a phenomenal job,Claim,"((22836, 22877),)",Most of them said that,Claim,"((22879, 22901),)",Support
+We’re doing therapeutics already,Claim,"((23157, 23189),)",Fewer people are dying when they get sick,Premise,"((23191, 23232),)",Support
+Fewer people are dying when they get sick,Premise,"((23191, 23232),)",Far fewer people are dying,Premise,"((23234, 23260),)",Support
+you could never have done the job that we did,Claim,"((23645, 23690),)",I know how to do the job,Claim,"((23767, 23791),)",Attack
+I know how to do the job,Claim,"((23767, 23791),)",I know how to get the job done,Claim,"((23793, 23823),)",Equivalent
+I know how to get the job done,Claim,"((23793, 23823),)",you didn’t do very well in Swine Flu,Claim,"((23838, 23874),)",Attack
+"14,000 people died, not 200,000",Premise,"((23961, 23992),)","A far less lethal disease, by the way",Claim,"((24001, 24038),)",Attack
+The reason it’s shut down is,Claim,"((24188, 24216),)",you folks at home,Premise,"((24232, 24249),)",Support
+we can save half those numbers,Claim,"((24812, 24842),)",if we just wear a mask,Premise,"((24788, 24810),)",Support
+It’s a very political thing,Claim,"((25810, 25837),)",people like this would rather make it political than save lives,Premise,"((25846, 25909),)",Attack
+It’s a very political thing,Claim,"((25810, 25837),)",It is a very political thing,Claim,"((25930, 25958),)",Equivalent
+This is the same man,Claim,"((27281, 27301),)","That was said sarcastically, and you know that",Claim,"((27310, 27356),)",Attack
+"That was said sarcastically, and you know that",Claim,"((27310, 27356),)",That was said sarcastically,Claim,"((27358, 27385),)",Equivalent
+the distribution of that vaccine will not occur until sometime beginning of the middle of next year to get it out,Claim,"((27546, 27659),)",if we get the vaccine,Premise,"((27661, 27682),)",Support
+pray God we will,Claim,"((27688, 27704),)",pray God we will,Claim,"((27688, 27704),)",Equivalent
+they will have the vaccine very soon,Claim,"((29057, 29093),)",We spoke to the scientists that are in charge,Premise,"((28982, 29027),)",Support
+Don’t ever use the word smart with me,Claim,"((29864, 29901),)",Don’t ever use that word,Claim,"((29903, 29927),)",Equivalent
+I had to close the greatest economy in the history of our country,Claim,"((30196, 30261),)",If you would have had the charge of what I was put through,Premise,"((30136, 30194),)",Support
+I’d know what the plan is,Claim,"((30949, 30974),)",If I were running it,Premise,"((30927, 30947),)",Support
+"Well, I mean, literally, think about it",Claim,"((31446, 31485),)",Think about it.,Claim,"((31487, 31502),)",Equivalent
+We just went through it,Claim,"((31901, 31924),)",We had to,Claim,"((31926, 31935),)",Support
+We had to,Claim,"((31926, 31935),)",we didn’t know anything about the disease,Claim,"((31945, 31986),)",Support
+We’ve learned a lot,Claim,"((32176, 32195),)",he wants to shut it down,Premise,"((32201, 32225),)",Support
+they have Democrat governors,Claim,"((32352, 32380),)",If you look at Pennsylvania,Premise,"((32267, 32294),)",Support
+I think masks are okay,Claim,"((33200, 33222),)",I’m okay with masks,Claim,"((34690, 34709),)",Equivalent
+he’s got a mask,Claim,"((33639, 33654),)",Every time you see him,Premise,"((33615, 33637),)",Support
+"we’d probably save up to 100,000 lives",Claim,"((34156, 34194),)",if we just wore masks between now,Premise,"((34050, 34083),)",Support
+"we’d probably save up to 100,000 lives",Claim,"((34156, 34194),)",if everybody wore a mask and social distanced between now and January,Premise,"((34085, 34154),)",Support
+"we’d probably save up to 100,000 lives",Claim,"((34156, 34194),)",they’ve also said the opposite,Claim,"((34231, 34261),)",Attack
+they’ve also said the opposite,Claim,"((34231, 34261),)",No serious person has said the opposite,Claim,"((34289, 34328),)",Attack
+No serious person has said the opposite,Claim,"((34289, 34328),)",No serious person,Claim,"((34330, 34347),)",Equivalent
+No serious person has said the opposite,Claim,"((34289, 34328),)",He did not say the opposite,Claim,"((34437, 34464),)",Equivalent
+I’m okay with masks,Claim,"((34690, 34709),)",I’m not fighting masks,Claim,"((34711, 34733),)",Support
+"I’ll have 25, 35,000 people show up at airports",Claim,"((35479, 35526),)",We use airports and hangers and we have a lot of people,Premise,"((35528, 35583),)",Support
+"I’ll have 25, 35,000 people show up at airports",Claim,"((35479, 35526),)","we’ve had 35, 40,000 people at these rallies",Claim,"((36406, 36450),)",Equivalent
+We’ve had no negative effect.,Claim,"((36299, 36328),)",No negative effect,Claim,"((36336, 36354),)",Attack
+We’ve had no negative effect.,Claim,"((36299, 36328),)",We’ve had no negative effect,Claim,"((36372, 36400),)",Equivalent
+"He’s been totally irresponsible the way in which he has handled the social distancing and people wearing masks, basically encouraged them not to",Claim,"((36571, 36715),)",He’s a fool on this,Claim,"((36717, 36736),)",Support
+Nobody cares.,Claim,"((36889, 36902),)",Nobody cares.,Claim,"((36889, 36902),)",Equivalent
+he was wrong,Claim,"((37762, 37774),)",He didn’t think we should close it down,Premise,"((37718, 37757),)",Support
+People know what to do,Claim,"((38760, 38782),)",They can social distance,Premise,"((38784, 38808),)",Support
+People know what to do,Claim,"((38760, 38782),)","They can wash their hands, they can wear masks",Premise,"((38810, 38856),)",Support
+People know what to do,Claim,"((38760, 38782),)","They can do whatever they want, but they got to open these states up",Premise,"((38858, 38926),)",Support
+"It’s a very, very sad thing",Claim,"((39268, 39295),)",you look at what’s going on with divorce,Premise,"((39175, 39215),)",Support
+"It’s a very, very sad thing",Claim,"((39268, 39295),)",look at what’s going on with alcoholism and drugs,Premise,"((39217, 39266),)",Support
+millionaires and billionaires like him in the middle of the COVID crisis have done very well,Claim,"((39770, 39862),)","Billionaires have made another $300 billion because of his profligate tax proposal, and he only focused on the market",Premise,"((39864, 39981),)",Support
+This guy paid a total of $750 in taxes,Claim,"((40132, 40170),)",That’s wrong,Claim,"((40179, 40191),)",Attack
+"The fact is that he has in fact, worked on this in a way that he’s going to be the first president of the United States to leave office, having fewer jobs in his administration than when he became president",Claim,"((40362, 40568),)",Fewer jobs than when he became president,Premise,"((40570, 40610),)",Support
+"The fact is that he has in fact, worked on this in a way that he’s going to be the first president of the United States to leave office, having fewer jobs in his administration than when he became president",Claim,"((40362, 40568),)",First one in American history,Premise,"((40612, 40641),)",Support
+You can’t fix the economy until you fix the COVID crisis,Claim,"((41231, 41287),)",the idea that he is insisting that we go forward and open when you have almost half the states in America with a significant increase in COVID deaths and COVID cases in the United States of America,Premise,"((40936, 41133),)",Attack
+You can’t fix the economy until you fix the COVID crisis,Claim,"((41231, 41287),)",he wants to open it up more,Premise,"((41139, 41166),)",Attack
+They’ve done nothing to help small businesses,Claim,"((41715, 41760),)",One in six is now gone,Claim,"((41788, 41810),)",Support
+people want their schools open,Claim,"((42133, 42163),)",They don’t want to be shut down,Premise,"((42165, 42196),)",Support
+people want their schools open,Claim,"((42133, 42163),)",They don’t want their state shut down,Premise,"((42198, 42235),)",Support
+people want their schools open,Claim,"((42133, 42163),)",They want their restaurants,Premise,"((42237, 42264),)",Support
+People want to be safe.,Claim,"((42595, 42618),)",People want to be safe.,Claim,"((42595, 42618),)",Equivalent
+I’m the one that brought back football,Claim,"((42626, 42664),)",I brought back Big Ten football,Claim,"((42678, 42709),)",Equivalent
+"I paid millions of dollars in taxes, millions of dollars of income tax",Claim,"((43360, 43430),)",Show us your tax returns.,Claim,"((43613, 43638),)",Attack
+Show us your tax returns.,Claim,"((43613, 43638),)",Show us your tax returns.,Claim,"((43613, 43638),)",Equivalent
+Show us your tax returns.,Claim,"((43613, 43638),)",Release your tax return,Claim,"((44063, 44086),)",Equivalent
+Show us your tax returns.,Claim,"((43613, 43638),)","You’ll see it as soon as it’s finished, you’ll see it",Claim,"((43646, 43699),)",Attack
+you’ll get to see it.,Claim,"((44452, 44473),)",you’ll get to see it.,Claim,"((44452, 44473),)",Equivalent
+I don’t want to pay tax,Claim,"((44610, 44633),)","Before I came here, I was a private developer, I was a private business people",Premise,"((44635, 44713),)",Support
+I don’t want to pay tax,Claim,"((44610, 44633),)","Like every other private person, unless they’re stupid, they go through the laws, and that’s what it is",Premise,"((44715, 44818),)",Support
+You’re the worst president America has ever had,Claim,"((45951, 45998),)","I’ve done more than you’ve done in 47 years, Joe",Claim,"((46067, 46115),)",Attack
+it would create an additional $1 trillion in economic growth,Claim,"((47085, 47145),)",it would be about buying American,Premise,"((47155, 47188),)",Support
+I’m going to eliminate a significant number of the taxes,Claim,"((47495, 47551),)",I’m going to make the corporate tax 28%,Claim,"((47553, 47592),)",Support
+I’m going to eliminate a significant number of the taxes,Claim,"((47495, 47551),)",It shouldn’t be 21%,Claim,"((47594, 47613),)",Support
+I got it done,Claim,"((47887, 47900),)",I got it done,Claim,"((47887, 47900),)",Equivalent
+It was the slowest recovery,Claim,"((48572, 48599),)",they took over something that was down here,Premise,"((48607, 48650),)",Support
+you want to terminate my taxes,Claim,"((48944, 48974),)","If you got in, if you ever became president with your ideas",Premise,"((48883, 48942),)",Support
+"I’ll tell you what, you’ll lose",Claim,"((48976, 49007),)",Half of the companies that have poured in here will leave,Claim,"((49009, 49066),)",Support
+"I’ll tell you what, you’ll lose",Claim,"((48976, 49007),)","plenty of companies that are already here, they’ll leave for other places",Claim,"((49072, 49145),)",Support
+"We handed him a booming economy, he blew it",Claim,"((49489, 49532),)",It wasn’t booming.,Claim,"((49586, 49604),)",Attack
+It wasn’t booming.,Claim,"((49586, 49604),)",He blew it.,Claim,"((49567, 49578),)",Attack
+It wasn’t booming.,Claim,"((49586, 49604),)",It wasn’t booming.,Claim,"((49586, 49604),)",Equivalent
+He blew it.,Claim,"((49567, 49578),)",It wasn’t booming.,Claim,"((49586, 49604),)",Attack
+It wasn’t booming.,Claim,"((49586, 49604),)",It was the weakest recovery since 1929,Claim,"((49605, 49643),)",Support
+They gave up on manufacturing,Claim,"((50254, 50283),)",I’m the guy that brought back the automobile industry,Claim,"((50347, 50400),)",Attack
+I’m the guy that brought back the automobile industry,Claim,"((50347, 50400),)",He totally gave up on manufacturing,Claim,"((50409, 50444),)",Attack
+He blew it,Claim,"((50630, 50640),)",They’re gone,Claim,"((50616, 50628),)",Support
+He blew it,Claim,"((50630, 50640),)",He blew it.,Claim,"((49567, 49578),)",Equivalent
+They’re gone,Claim,"((50616, 50628),)",they’re gone,Claim,"((50655, 50667),)",Equivalent
+Ohio had the best year it’s ever had last year,Claim,"((50676, 50722),)",That is not true.,Claim,"((50776, 50793),)",Attack
+That is not true.,Claim,"((50776, 50793),)","Many car companies came in from Germany, from Japan, went to Michigan, went to Ohio and they didn’t come in with you",Claim,"((50801, 50917),)",Attack
+He’s done very little,Claim,"((51029, 51050),)",His trade deals are the same way,Premise,"((51052, 51084),)",Support
+He’s done very little,Claim,"((51029, 51050),)",He talks about these great trade deals,Premise,"((51086, 51124),)",Support
+He’s done very little,Claim,"((51029, 51050),)",He talks about the art of the deal,Premise,"((51126, 51160),)",Support
+China ate your lunch,Claim,"((51304, 51324),)","China ate your lunch, Joe",Claim,"((51368, 51393),)",Equivalent
+he takes out billions of dollars,Claim,"((51437, 51469),)",He takes out billions of dollars to manage,Claim,"((51471, 51513),)",Support
+he takes out billions of dollars,Claim,"((51437, 51469),)",He makes millions of dollars,Claim,"((51515, 51543),)",Equivalent
+That is not true.,Claim,"((50776, 50793),)",None of that is true.,Claim,"((51901, 51922),)",Equivalent
+That is not true.,Claim,"((50776, 50793),)",That is not true.,Claim,"((50776, 50793),)",Equivalent
+Totally discredited.,Claim,"((52121, 52141),)",Totally discredited.,Claim,"((52121, 52141),)",Equivalent
+Totally discredited.,Claim,"((52121, 52141),)",It’s been totally discredited,Claim,"((52573, 52602),)",Equivalent
+It’s a fact,Claim,"((52456, 52467),)",It is not a fact,Claim,"((52476, 52492),)",Attack
+My son did nothing wrong at Burisma,Claim,"((52714, 52749),)",I think he did,Claim,"((52758, 52772),)",Attack
+He doesn’t want to let me answer,Claim,"((52864, 52896),)",he knows I have the truth,Premise,"((52906, 52931),)",Support
+I’m sure that you’ve already fired most of them,Claim,"((53894, 53941),)",Some people don’t do a good job,Claim,"((53979, 54010),)",Attack
+I don’t want to do that,Claim,"((54508, 54531),)",We want to talk about families and ethics,Premise,"((54465, 54506),)",Support
+My family lost a fortune by coming down and helping us with government,Claim,"((54661, 54731),)",Every single one of them lost a fortune by coming down and helping us with government,Premise,"((54802, 54887),)",Support
+My family lost a fortune by coming down and helping us with government,Claim,"((54661, 54731),)",This is not about my family or his family,Claim,"((54896, 54937),)",Attack
+It’s about you,Claim,"((55155, 55169),)",That’s what we’re talking about here,Claim,"((55171, 55207),)",Support
+It’s about equity and equality,Claim,"((57242, 57272),)","we have never walked away from trying to require, acquire equity for everyone, equality for the whole of America",Premise,"((57327, 57439),)",Support
+we’ve never accomplished it,Claim,"((57445, 57472),)",we’ve never walked away from it like he has done,Claim,"((57478, 57526),)",Attack
+"This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division",Claim,"((58525, 58636),)","This is a man who, in fact, you talk about helping African-Americans, one in 1000 African Americans has been killed because of the coronavirus",Claim,"((58638, 58780),)",Support
+one in 500 will have been killed,Claim,"((58846, 58878),)","if he doesn’t do something quickly, by the end of the year",Premise,"((58786, 58844),)",Support
+one in 500 will have been killed,Claim,"((58846, 58878),)",One in 500 African Americans,Claim,"((58880, 58908),)",Equivalent
+what he did has been disastrous for the African-American community,Claim,"((59124, 59190),)",You have to look at what he did,Premise,"((59087, 59118),)",Support
+I’m doing better than any Republican has done in a long time,Claim,"((59866, 59926),)",if you look at the polls,Premise,"((59840, 59864),)",Support
+I’m doing better than any Republican has done in a long time,Claim,"((59866, 59926),)",they saw what you did,Claim,"((59936, 59957),)",Support
+you’ve called them a lot worse than that,Claim,"((60086, 60126),)",Because you look back at your testimony over the years,Premise,"((60030, 60084),)",Support
+you’re going to lose all of your radical left supporters,Claim,"((60633, 60689),)",if you say those words,Premise,"((60609, 60631),)",Support
+we would put out that fire in a half an hour,Claim,"((60834, 60878),)",If they called us in Portland,Premise,"((60803, 60832),)",Support
+they heard we were coming in the following day and they put up their hands and we got back Seattle,Claim,"((61025, 61123),)",If you look at Chicago,Premise,"((60949, 60971),)",Support
+they heard we were coming in the following day and they put up their hands and we got back Seattle,Claim,"((61025, 61123),)","if you look at any place you want to look, Seattle",Premise,"((60973, 61023),)",Support
+"Minneapolis, we got it back, Joe",Claim,"((61125, 61157),)",we believe in law and order,Premise,"((61167, 61194),)",Support
+"the vast majority of police officers are good, decent, honorable men and women",Claim,"((62084, 62162),)",They risk their lives every day to take care of us,Premise,"((62164, 62214),)",Support
+They have to be held accountable.,Claim,"((62351, 62384),)",They have to be held accountable.,Claim,"((62351, 62384),)",Equivalent
+"No it’s not, but you say it is",Claim,"((63352, 63382),)",I did not say it is,Claim,"((63391, 63410),)",Attack
+I ended it,Claim,"((63908, 63918),)",it’s racist,Premise,"((63895, 63906),)",Support
+I ended it,Claim,"((63908, 63918),)",a lot of people were complaining that they were asked to do things that were absolutely insane,Premise,"((63927, 64021),)",Support
+I’m not going to allow that to happen,Claim,"((64617, 64654),)",He’s the racist,Claim,"((64977, 64992),)",Attack
+Nobody’s doing that.,Claim,"((64956, 64976),)",Nobody’s doing that.,Claim,"((64956, 64976),)",Equivalent
+He’s the racist,Claim,"((64977, 64992),)",You just don’t know,Claim,"((65001, 65020),)",Attack
+You just don’t know,Claim,"((65001, 65020),)",You don’t know,Claim,"((65096, 65110),)",Equivalent
+"it’s amazing, it makes a big difference",Claim,"((65396, 65435),)",Many people don’t want to hurt other people’s feelings,Premise,"((65336, 65390),)",Support
+we’re all Americans,Claim,"((65894, 65913),)","They look down their nose on people like Irish Catholics, like me, and grew up in Scranton",Premise,"((65639, 65729),)",Support
+we’re all Americans,Claim,"((65894, 65913),)",They look down on people who don’t have money,Premise,"((65731, 65776),)",Support
+we’re all Americans,Claim,"((65894, 65913),)",They look down on people who are of a different faith,Premise,"((65778, 65831),)",Support
+we’re all Americans,Claim,"((65894, 65913),)",They look down on people who are a different color,Premise,"((65833, 65883),)",Support
+it was more violent than what I’m even seeing now,Claim,"((66445, 66494),)","You look at, uh, Ferguson, you look at, or you go to very…many places",Premise,"((66257, 66326),)",Support
+it was more violent than what I’m even seeing now,Claim,"((66445, 66494),)",Look at Oakland,Premise,"((66328, 66343),)",Support
+it was more violent than what I’m even seeing now,Claim,"((66445, 66494),)",Look what happened in Oakland,Premise,"((66345, 66374),)",Support
+it was more violent than what I’m even seeing now,Claim,"((66445, 66494),)",Look what happened in Baltimore,Premise,"((66376, 66407),)",Support
+it was more violent than what I’m even seeing now,Claim,"((66445, 66494),)",This is ridiculous,Claim,"((66545, 66563),)",Attack
+This is ridiculous,Claim,"((66545, 66563),)",Absolutely ridiculous,Claim,"((66626, 66647),)",Equivalent
+I’m in favor of law,Claim,"((66850, 66869),)","the fact of the matter is, violent crime went down 17 percent, 15 percent in our Administration",Premise,"((67171, 67266),)",Support
+I think it’s a party issue,Claim,"((67907, 67933),)","You can bring in a couple of examples but if you look at Chicago, what’s going on in Chicago where, uh, 53 people were shot and eight died",Premise,"((67935, 68073),)",Support
+like nobody’s ever seen anything,Claim,"((68126, 68158),)",If you look at New York where it’s going up,Premise,"((68081, 68124),)",Support
+you would see problems like you’ve never seen before,Claim,"((68671, 68723),)",He wouldn’t know a suburb unless you took a wrong turn,Claim,"((68732, 68786),)",Attack
+He wouldn’t know a suburb unless you took a wrong turn,Claim,"((68732, 68786),)",I know suburbs so much better than you,Claim,"((68819, 68857),)",Attack
+I know suburbs so much better than you,Claim,"((68819, 68857),)",I was raised in the suburbs,Claim,"((68900, 68927),)",Attack
+Suburbs are by and large integrated,Claim,"((69001, 69036),)",All these dog whistles and racism don’t work anymore,Premise,"((68947, 68999),)",Support
+"That’s when crime went down, it didn’t go up",Claim,"((70580, 70624),)","We have to have community policing like we had before, where the officers get to know the people in the communities",Premise,"((70463, 70578),)",Support
+That’s not true,Claim,"((70950, 70965),)",Name one group that supports you,Claim,"((71033, 71065),)",Attack
+That’s not true,Claim,"((70950, 70965),)",Name one group that came out and supported you,Claim,"((71067, 71113),)",Attack
+Think,Claim,"((71125, 71130),)",Think about it.,Claim,"((31487, 31502),)",Equivalent
+Many of those turned into riots,Claim,"((71735, 71766),)","In Portland, Oregon, especially we had a, more than a hundred straight days of protests, which I think you would agree, you talk about peaceful protests",Premise,"((71581, 71733),)",Support
+I’ve made it clear in my public statements that the violence should be prosecuted,Claim,"((72317, 72398),)","It should be prosecuted, and anyone who commits it should be prosecuted",Claim,"((72400, 72471),)",Support
+I’ve made it clear in my public statements that the violence should be prosecuted,Claim,"((72317, 72398),)",He’s never done that,Claim,"((72529, 72549),)",Attack
+They can in fact take care of it if he’d just stay out of the way,Claim,"((72721, 72786),)",For three days Portland didn’t do anything,Claim,"((73042, 73084),)",Attack
+That’s what this is all about,Claim,"((73379, 73408),)",I don’t know who said that,Claim,"((73417, 73443),)",Attack
+I don’t know who said that,Claim,"((73417, 73443),)",I think it–Kellyanne Conway,Claim,"((73477, 73504),)",Attack
+I think it–Kellyanne Conway,Claim,"((73477, 73504),)",I don’t think she said that,Claim,"((73513, 73540),)",Attack
+I’m willing to do anything,Claim,"((75277, 75303),)",I would say almost everything I see is from the left-wing not from the right wing,Premise,"((75140, 75221),)",Support
+Say it.,Claim,"((75375, 75382),)",Say it,Claim,"((75360, 75366),)",Equivalent
+somebody’s got to do something about Antifa and the left,Claim,"((75734, 75790),)",this is not a right wing problem this is a left-wing,Premise,"((75799, 75851),)",Support
+This is a left-wing problem. . .,Claim,"((75853, 75885),)",This is a left-wing problem,Claim,"((75853, 75880),)",Equivalent
+Antifa is an idea not an organization,Claim,"((75994, 76031),)",Oh you gotta be kidding,Claim,"((76044, 76067),)",Support
+Antifa is an idea not an organization,Claim,"((75994, 76031),)","Well, then you know what, he’s wrong",Claim,"((76135, 76171),)",Attack
+Antifa is bad.,Claim,"((76402, 76416),)",Antifa is bad.,Claim,"((76402, 76416),)",Equivalent
+they’ll overthrow you,Claim,"((76703, 76724),)",you ought to be careful of them,Premise,"((76670, 76701),)",Support
+there has never been an administration or president who has done more than I’ve done in a period of three and a half years,Claim,"((77237, 77359),)","that’s despite the impeachment hoax and you saw what happened today with Hillary Clinton, where it was a whole big con job",Premise,"((77365, 77487),)",Support
+there has never been an administration that’s done what I’ve done,Claim,"((77594, 77659),)","despite going through all of these things where I had to fight, both flanks and behind me and above",Premise,"((77493, 77592),)",Support
+It was a mess,Claim,"((78261, 78274),)","And we now got a 91% approval rating at the VA, our vets",Premise,"((78276, 78332),)",Support
+"I’ll have approximately 300 Federal judges and Court of Appeals judges, 300, and hopefully three great Supreme Court judges, justices",Claim,"((78527, 78660),)",That is a record the likes of which very few people,Claim,"((78662, 78713),)",Support
+You can’t be a good Vice President but I want to thank you,Claim,"((79104, 79162),)",it gives us almost,Premise,"((79171, 79189),)",Support
+he caused the recession,Claim,"((79639, 79662),)",We left him a booming economy,Premise,"((79604, 79633),)",Support
+He’s Putin’s puppy,Claim,"((79811, 79829),)",I’ve gone head to head with Putin and made it clear to him we’re not going to take any of his stuff,Premise,"((79710, 79809),)",Support
+The billionaires have gotten much more wealthy by a tune of over three to four hundred billion dollars more just since COVID,Claim,"((80505, 80629),)","You in the home, you got less",Claim,"((80631, 80660),)",Attack
+he didn’t have a job until you became Vice-President,Claim,"((81703, 81755),)",None of that is true.,Claim,"((51901, 51922),)",Attack
+"he made a fortune in Ukraine, in China, in Moscow and various other places",Claim,"((81830, 81904),)",That is simply not true,Claim,"((81913, 81936),)",Attack
+I’m proud of him,Claim,"((82199, 82215),)",Like a lot of people we know at home had a drug problem,Premise,"((82079, 82134),)",Support
+I’m proud of him,Claim,"((82199, 82215),)",He’s overtaken it,Premise,"((82136, 82153),)",Support
+I’m proud of him,Claim,"((82199, 82215),)","He’s, he’s fixed it",Premise,"((82155, 82174),)",Support
+I’m proud of him,Claim,"((82199, 82215),)",He’s worked on it,Premise,"((82176, 82193),)",Support
+I’m proud of him,Claim,"((82199, 82215),)",I’m proud of my son,Claim,"((82217, 82236),)",Equivalent
+That was totally discredited,Claim,"((82437, 82465),)",Totally discredited.,Claim,"((52121, 52141),)",Equivalent
+That was totally discredited,Claim,"((82437, 82465),)",That report is totally discredited,Claim,"((82938, 82972),)",Equivalent
+we are doing phenomenally,Claim,"((83858, 83883),)",If you look at our numbers right now,Premise,"((83820, 83856),)",Support
+it was a disaster from our standpoint,Claim,"((84003, 84040),)",If you look at the Paris Accord,Premise,"((83970, 84001),)",Support
+it’s very exciting for a lot of people,Claim,"((84739, 84777),)",we’re planting a billion trees–the Billion Tree Project,Premise,"((84679, 84734),)",Support
+"I think to an extent, yes.",Claim,"((84968, 84994),)","I think to an extent, yes.",Claim,"((84968, 84994),)",Equivalent
+you wouldn’t be getting those calls,Claim,"((85220, 85255),)","If that was cleaned, if that were, if you had forest management, good forest management",Premise,"((85131, 85218),)",Support
+the car would be safer,Claim,"((86583, 86605),)",If you did that,Premise,"((86566, 86581),)",Support
+There’s so many things that we can do now to create thousands and thousands of jobs,Claim,"((88705, 88788),)",They’re going to move to renewable energy,Premise,"((88083, 88124),)",Support
+There’s so many things that we can do now to create thousands and thousands of jobs,Claim,"((88705, 88788),)","we’re going to make sure that we are able to take the federal fleet and turn it into a fleet that’s run on, that’re electric vehicles",Premise,"((88150, 88283),)",Support
+There’s so many things that we can do now to create thousands and thousands of jobs,Claim,"((88705, 88788),)","we’re going to put 500,000 charging stations and all of the highways that we’re going to be building in the future",Premise,"((88318, 88432),)",Support
+creating jobs,Claim,"((88888, 88901),)",Not only not costing people jobs,Premise,"((88854, 88886),)",Support
+I will join the Paris Accord,Claim,"((89103, 89131),)","with us out of it, look what’s happening",Premise,"((89140, 89180),)",Support
+"Brazil, the rainforests of Brazil are being torn down, are being ripped down",Claim,"((89282, 89358),)","More, more carbon is absorbed in that rainforest than every bit of carbon that’s emitted in the United States",Premise,"((89360, 89469),)",Support
+I would be gathering up and making sure we had the comp–countries of the world coming up with 20 billion dollars,Claim,"((89510, 89622),)",Instead of doing something about that,Premise,"((89471, 89508),)",Support
+he hadn’t drawn a line,Claim,"((89972, 89994),)",he wants to make sure that methane’s not a problem,Premise,"((90039, 90089),)",Support
+it’s going to create thousands and millions of jobs,Claim,"((91752, 91803),)",it’s going to create millions of good-paying jobs,Claim,"((91974, 92023),)",Equivalent
+It’s going to make the economy much safer,Claim,"((92122, 92163),)","these tax incentives to people, for people to weatherize, which he wants to get, get rid of",Premise,"((92029, 92120),)",Support
+I never said that at all,Claim,"((92376, 92400),)","Yeah, you did say that",Claim,"((92409, 92431),)",Attack
+here’s the deal,Claim,"((92468, 92483),)","we’re going to be in a position where we can create hard, hard, good jobs by making sure the environment is clean, and we all are in better shape",Premise,"((92528, 92673),)",Support
+That is not my plan,Claim,"((93552, 93571),)",The Green New Deal is not my plan,Claim,"((93614, 93647),)",Equivalent
+he called the military stupid bastards,Claim,"((94224, 94262),)",I did not say that,Claim,"((94271, 94289),)",Attack
+He said it on tape,Claim,"((94298, 94316),)",Not true,Claim,"((94341, 94349),)",Attack
+I don’t support the Green New Deal,Claim,"((95222, 95256),)",that’s a big statement,Claim,"((95290, 95312),)",Attack
+we’re going to make sure that those people who want to vote in person are able to vote,Claim,"((96754, 96840),)",there are enough poll watchers are there to make sure they can socially distance,Premise,"((96849, 96929),)",Support
+this is all about trying to dissuade people from voting,Claim,"((97016, 97071),)",he’s trying to conf–to scare people into thinking that it’s not going to be legitimate,Premise,"((97080, 97166),)",Support
+vote early,Claim,"((97297, 97307),)",If you’re able to vote early in your state,Premise,"((97253, 97295),)",Support
+vote in person,Claim,"((97343, 97357),)",If you’re able to vote in person,Premise,"((97309, 97341),)",Support
+that will be accepted,Claim,"((97614, 97635),)",when the votes are counted and they’re all counted,Premise,"((97529, 97579),)",Support
+that will be accepted.,Claim,"((97614, 97636),)",If I win,Premise,"((97604, 97612),)",Support
+that’ll be accepted,Claim,"((97648, 97667),)",If I lose,Premise,"((97637, 97646),)",Support
+it’s going to be all over,Claim,"((97827, 97852),)",if we get the votes,Premise,"((97806, 97825),)",Support
+It won’t happen.,Claim,"((97910, 97926),)",It won’t happen.,Claim,"((97910, 97926),)",Equivalent
+there has been no transition from when I won,Claim,"((98240, 98284),)",when I listen to Joe talking about a transition,Premise,"((98191, 98238),)",Support
+there was no transition,Claim,"((98395, 98418),)",if you look at all of the different people,Premise,"((98351, 98393),)",Support
+there was no transition,Claim,"((98395, 98418),)",they came after me trying to do a coup,Premise,"((98428, 98466),)",Support
+They came after me spying on my campaign,Claim,"((98468, 98508),)","They started from the day I won, and even before I won",Premise,"((98510, 98564),)",Support
+They came after me spying on my campaign,Claim,"((98468, 98508),)",From the day I came down the escalator with our first lady,Premise,"((98566, 98624),)",Support
+we’ve caught ’em,Claim,"((98689, 98705),)",We’ve caught ’em all,Claim,"((98707, 98727),)",Equivalent
+we’ve caught ’em,Claim,"((98689, 98705),)",We’ve got it all on tape,Claim,"((98729, 98753),)",Equivalent
+You better take a look at that,Claim,"((98852, 98882),)","we caught you in a sense, and President Obama was sitting in the office",Premise,"((98892, 98963),)",Support
+it’s a disaster,Claim,"((99066, 99081),)",As far as the ballots are concerned,Premise,"((99029, 99064),)",Support
+they’re sending millions of ballots all over the country,Claim,"((99239, 99295),)",If you have an unsolicited,Premise,"((99212, 99238),)",Support
+I think we’re going to do well because people are really happy with the job we’ve done,Claim,"((99743, 99829),)","On November 3rd, you’re watching, and you see who won the election",Premise,"((99671, 99737),)",Support
+"They’re not losing 2%, 1%, which by the way is too much",Claim,"((100088, 100143),)",Take a look at what happened in Manhattan,Premise,"((99942, 99983),)",Support
+"They’re not losing 2%, 1%, which by the way is too much",Claim,"((100088, 100143),)",Take a look at what happened in New Jersey,Premise,"((99985, 100027),)",Support
+"They’re not losing 2%, 1%, which by the way is too much",Claim,"((100088, 100143),)",Take a look at what happened in Virginia and other places,Premise,"((100029, 100086),)",Support
+They take ’em,Claim,"((101556, 101569),)",I read today where at least 1% of the ballots for 2016 were invalidated,Premise,"((101483, 101554),)",Support
+We don’t like ’em.,Claim,"((101590, 101608),)",We don’t like ’em.,Claim,"((101590, 101608),)",Equivalent
+mailman selling the ballots,Claim,"((102429, 102456),)",Take a look at West Virginia,Premise,"((102399, 102427),)",Support
+This is not going to end well.,Claim,"((102691, 102721),)",This is not going to end well.,Claim,"((102691, 102721),)",Equivalent
+it still should be counted,Claim,"((103133, 103159),)","If it doesn’t get in until the seventh, eighth, ninth",Premise,"((103078, 103131),)",Support
+You’re wrong,Claim,"((103236, 103248),)",You’re wrong,Claim,"((103236, 103248),)",Equivalent
+I am concerned that any court would settle this,Claim,"((103987, 104034),)",here’s the deal,Premise,"((104044, 104059),)",Support
+"you have someone say that, this is me",Claim,"((104176, 104213),)",If you didn’t know,Premise,"((104156, 104174),)",Support
+That is totally legitimate,Claim,"((104492, 104518),)","Who they voted for, testify, say who they voted for, say it’s you",Premise,"((104425, 104490),)",Support
+I’m urging my supporters to go into the polls and watch very carefully,Claim,"((105852, 105922),)",that’s what has to happen,Premise,"((105932, 105957),)",Support
+bad things happen in Philadelphia,Claim,"((106205, 106238),)","In Philadelphia, they went in to watch",Premise,"((106030, 106068),)",Support
+bad things happen in Philadelphia,Claim,"((106205, 106238),)","They’re called poll watchers, a very safe, very nice thing",Premise,"((106070, 106128),)",Support
+bad things happen in Philadelphia,Claim,"((106205, 106238),)",They were thrown out,Premise,"((106130, 106150),)",Support
+bad things happen in Philadelphia,Claim,"((106205, 106238),)",They weren’t allowed to watch,Premise,"((106152, 106181),)",Support
+I can’t go along with that,Claim,"((106490, 106516),)",if I see tens of thousands of ballots being manipulated,Premise,"((106433, 106488),)",Support
+These people aren’t equipped to handle it,Claim,"((106937, 106978),)",They’re not equipped,Claim,"((106915, 106935),)",Support
+they cheat,Claim,"((107004, 107014),)",they cheat,Claim,"((107004, 107014),)",Equivalent
+"they found ballots in a wastepaper basket three days ago, and they all had the name military ballots",Claim,"((107033, 107133),)",They were military,Premise,"((107135, 107153),)",Support
+"they found ballots in a wastepaper basket three days ago, and they all had the name military ballots",Claim,"((107033, 107133),)",They all had the name Trump on them,Premise,"((107155, 107190),)",Support
+"our military–they’ve been voting by ballots for since the end of the Civil War, in effect",Claim,"((107708, 107797),)","And that’s, and that’s what’s going to happen",Claim,"((107799, 107844),)",Support
+"No one has established at all that there is fraud related to mail-in ballots, that the, somehow it’s a fraudulent process",Claim,"((107942, 108063),)",It’s already been established,Claim,"((108072, 108101),)",Attack
+that’ll be the end of it,Claim,"((108566, 108590),)",once the winner is declared after all the ballots are counted,Premise,"((108476, 108537),)",Support
+that’ll be the end of it,Claim,"((108566, 108590),)",all the votes are counted,Premise,"((108539, 108564),)",Support
+fine,Claim,"((108643, 108647),)",if it’s me,Premise,"((108622, 108632),)",Support
+"And I’ll be a president, not just for the Democrats",Claim,"((108691, 108742),)",I’ll be a president for Democrats and Republicans,Claim,"((108744, 108793),)",Equivalent
+I want to see an honest ballot count. . .,Claim,"((108831, 108872),)",I want to see an honest ballot count,Claim,"((108831, 108867),)",Equivalent

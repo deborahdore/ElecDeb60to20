@@ -1,0 +1,556 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+Chris Stevens was one of our best,Premise,"((1678, 1711),)",it was a tragedy,Claim,"((1646, 1662),)",Support
+The percentage of unemployed just fell below 8 percent for the first time in 43 months,Premise,"((22817, 22903),)",The number-one issue here at home is jobs,Claim,"((22774, 22815),)",Support
+My mom and I had my grandmother move in with us who was facing Alzheimer's,Premise,"((34856, 34930),)",we've all had tragedies in our lives,Premise,"((34767, 34803),)",Support
+"Of the Bush tax cuts for the wealthy, $800 million -- billion of that goes to people making a minimum of $1 million",Premise,"((47471, 47586),)",the Bush tax cuts for the wealthy should be allowed to expire,Claim,"((47408, 47469),)",Support
+We want to make sure that the Taliban does not come back in and give Al Qaida a safe haven,Claim,"((61951, 62041),)",We don't want to lose the gains we've gotten,Claim,"((61905, 61949),)",Support
+It is five times as large geographically,Premise,"((72879, 72919),)",It's a different country,Premise,"((72853, 72877),)",Support
+"I guarantee you, that will not happen",Claim,"((85104, 85141),)",I suspect that would happen,Claim,"((85075, 85102),)",Support
+People are in real trouble,Premise,"((93891, 93917),)",The fact is that we're in a situation where we inherited a god-awful circumstance,Claim,"((93808, 93889),)",Support
+We lost three other brave Americans,Premise,"((1713, 1748),)",it was a tragedy,Claim,"((1646, 1662),)",Support
+The economy was in free fall,Premise,"((23364, 23392),)",Let's look at where we were when we came to office,Premise,"((23312, 23362),)",Support
+"Medicare was there for here, just like it's there for my mom right now who is a Florida senior",Premise,"((34932, 35026),)",I think about what they've done for my own family,Premise,"((34805, 34854),)",Support
+We see no justification in these economic times for those,Premise,"((47588, 47645),)",the Bush tax cuts for the wealthy should be allowed to expire,Claim,"((47408, 47469),)",Support
+"First time I was there in 2002, it was amazing to me what they were facing",Premise,"((62253, 62327),)","when I think about Afghanistan, I think about the incredible job that our troops have done",Claim,"((62109, 62199),)",Support
+"it has one-fifth the population, that is Libya, one-fifth the population",Premise,"((72921, 72993),)",It's a different country,Premise,"((72853, 72877),)",Support
+that people through their elected representatives in reaching a consensus in society through the democratic process should make this determination,Claim,"((84528, 84674),)",We don't think that unelected judges should make this decision,Claim,"((84464, 84526),)",Support
+The fact is that we're in a situation where we inherited a god-awful circumstance,Claim,"((93808, 93889),)",We acted to move to bring relief to the people who need the most help now,Claim,"((93919, 93992),)",Support
+we will find and bring to justice the men who did this,Claim,"((1837, 1891),)",I can make absolutely two commitments to you and all the American people tonight,Claim,"((1750, 1830),)",Support
+the great recession hit,Premise,"((23404, 23427),)",The economy was in free fall,Premise,"((23364, 23392),)",Support
+"After my dad died, my mom and I got Social Security survivors benefits",Premise,"((35029, 35099),)",I think about what they've done for my own family,Premise,"((34805, 34854),)",Support
+"120,000 families by continuing that tax cut will get an additional $500 billion in tax relief in the next 10 years and their income is an average of $8 million",Premise,"((47790, 47949),)",the Bush tax cuts for the wealthy should be allowed to expire,Claim,"((47408, 47469),)",Support
+"When I went to the Ahgandah (ph) Valley in Kandahar before the surge, I sat down with a young private in the 82nd from the Monamanee (ph) Indian reservation who would tell me what he did every day, and I was in awe",Premise,"((62329, 62543),)","when I think about Afghanistan, I think about the incredible job that our troops have done",Claim,"((62109, 62199),)",Support
+It's in a part of the world where they're not going to see whatever would come from that war,Premise,"((73031, 73123),)",It's a different country,Premise,"((72853, 72877),)",Support
+We pick people who are open-minded,Premise,"((85165, 85199),)",We picked two people,Premise,"((85143, 85163),)",Support
+you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)","and in the process, we -- in case you haven't noticed, we have strong disagreements",Claim,"((94001, 94084),)",Support
+we will get to the bottom of it,Claim,"((1907, 1938),)",I can make absolutely two commitments to you and all the American people tonight,Claim,"((1750, 1830),)",Support
+9 million people lost their job,Premise,"((23429, 23460),)",The economy was in free fall,Premise,"((23364, 23392),)",Support
+"helped me pay for college, it helped her go back to college in her 50s where she started a small business because of the new skills she got",Premise,"((35101, 35240),)",I think about what they've done for my own family,Premise,"((34805, 34854),)",Support
+"They're not suggesting it, but my friends are insisting on it",Premise,"((47727, 47788),)",They're not asking for this continued tax cut,Premise,"((47680, 47725),)",Support
+to see what they had in front of them,Premise,"((62549, 62586),)","when I think about Afghanistan, I think about the incredible job that our troops have done",Claim,"((62109, 62199),)",Support
+It seep into a regional war,Premise,"((73125, 73152),)",It's in a part of the world where they're not going to see whatever would come from that war,Premise,"((73031, 73123),)",Support
+They've been good justices,Premise,"((85201, 85227),)",We pick people who are open-minded,Premise,"((85165, 85199),)",Support
+My friend says that 30 percent of the American people are takers,Premise,"((94179, 94243),)",you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)",Support
+That's caring for the national security of the country,Claim,"((2236, 2290),)","When you're looking at a president, Martha, it seems to me that you should take a look at his most important responsibility",Claim,"((2111, 2234),)",Support
+"$1.7 -- $1.6 trillion in wealth lost in equity in your homes, in retirement accounts for the middle class",Premise,"((23462, 23567),)",The economy was in free fall,Premise,"((23364, 23392),)",Support
+She paid all of her taxes on the promise that these programs would be there for her,Premise,"((35242, 35325),)",I think about what they've done for my own family,Premise,"((34805, 34854),)",Support
+"We say ""let's have a vote -- let's have a vote on the middle-class tax cut and let's have a vote on the upper (ph) tax cut; let's go ahead and vote on it.""",Premise,"((48123, 48278),)","We want to extend permanently the middle-class tax cut for -- permanently, from the Bush middle-class tax cut",Claim,"((47952, 48061),)",Support
+"then to go back there in December, to go throughout Helmand with the Marines, to see what they had accomplished",Premise,"((62593, 62704),)",it's nothing short of amazing,Claim,"((62706, 62735),)",Support
+You're in a country that is heavily populated in the midst of the most dangerous area in the world,Premise,"((73155, 73253),)",It's a different country,Premise,"((72853, 72877),)",Support
+we only have one truly sacred obligation as a government,Claim,"((86170, 86226),)",I would say to him the same thing I say to my son who did serve a year in Iraq,Claim,"((86085, 86163),)",Support
+Romney points out 47 percent of the people won't take responsibility,Premise,"((94245, 94313),)",you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)",Support
+"On Iraq, the president said he would end the war",Premise,"((2379, 2427),)",the best way to do that is take a look at how he's handled the issues of the day,Claim,"((2296, 2376),)",Support
+We knew we had to act for the middle class,Premise,"((23569, 23611),)",We went ahead and made sure that we cut taxes for the middle class,Premise,"((23665, 23731),)",Support
+I think about what they've done for my own family,Premise,"((34805, 34854),)",We will honor this promise,Claim,"((35328, 35354),)",Support
+They're saying no,Premise,"((48280, 48297),)",These guys won't allow us to,Claim,"((48063, 48091),)",Support
+it's nothing short of amazing,Claim,"((62706, 62735),)","when I think about Afghanistan, I think about the incredible job that our troops have done",Claim,"((62109, 62199),)",Support
+"if in fact it blows up and the wrong people gain control, it's going to have impact on the entire region causing potentially regional wars",Premise,"((73269, 73407),)",It seep into a regional war,Premise,"((73125, 73152),)",Support
+That's to equip those we send into harm's way and care for those who come home,Claim,"((86228, 86306),)",we only have one truly sacred obligation as a government,Claim,"((86170, 86226),)",Support
+He's talking about my mother and father,Premise,"((94316, 94355),)",you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)",Support
+"He said, ""I wouldn't move heaven and earth to get bin Laden.""",Premise,"((3118, 3179),)","Prior to the election, prior to the -- him being sworn in, Governor Romney was asked the question about how he would proceed",Premise,"((2992, 3116),)",Support
+for a guy who says 47 percent of the American people are unwilling to take responsibility for their own lives,Premise,"((24001, 24110),)",it shouldn't be surprising,Claim,"((23974, 24000),)",Support
+the best way to do it is reform it for my generation,Claim,"((35360, 35412),)",We will honor this promise,Claim,"((35328, 35354),)",Support
+They're holding hostage the middle class tax cut to the super wealthy,Claim,"((48299, 48368),)",These guys won't allow us to,Claim,"((48063, 48091),)",Support
+"We would have more likely taken into accounts the recommendations from our commanders, General Petraeus, Admiral Mullen, on troop levels throughout this year's fighting season",Premise,"((62851, 63026),)",we've disagreed from time to time on a few issues,Claim,"((62800, 62849),)",Support
+"The last thing America needs is to get in another ground war in the Middle East, requiring tens of thousands, if not well over 100,000 American forces",Claim,"((73952, 74102),)",what more would they do other than put American boots on the ground,Claim,"((73882, 73949),)",Support
+"He should not be thrown into a category of a 47 percent who don't pay their taxes while he was out there fighting and not having to pay taxes, and somehow not taking responsibility",Claim,"((86525, 86705),)","I would also tell him that the fact that he, this decorated soldier you talked about, fought for his country, that that should be honored",Claim,"((86386, 86523),)",Support
+"He's talking about the places I grew up in, my neighbors in Scranton and Claymont",Premise,"((94357, 94438),)",you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)",Support
+The last thing we need now is another war,Claim,"((3557, 3598),)",the president of the United States has -- has led with a steady hand and clear vision,Claim,"((3439, 3524),)",Support
+"Governor Romney said, ""No, let foreclosures hit the bottom.""",Premise,"((23908, 23968),)",for a guy who says 47 percent of the American people are unwilling to take responsibility for their own lives,Premise,"((24001, 24110),)",Support
+"if you reform these programs for my generation, people 54 and below, you can guarantee they don't change for people in or near retirement",Claim,"((35424, 35561),)",the best way to do it is reform it for my generation,Claim,"((35360, 35412),)",Support
+"they've got another tax cut coming that's $5 trillion that all of the studies point out will in fact give another $250 million -- yeah, $250,000 a year to those 120,000 families and raise taxes for people who are middle income with a child by $2,000 a year",Premise,"((48390, 48646),)",This is unconscionable,Premise,"((48649, 48671),)",Support
+"We've been skeptical about negotiations with the Taliban, especially while they're shooting at us",Premise,"((63028, 63125),)",we've disagreed from time to time on a few issues,Claim,"((62800, 62849),)",Support
+"he goes up with a whole lot of verbiage, but when he gets pressed he says, no, he would not do anything different than we are doing now",Premise,"((74234, 74369),)","every time the governor is asked about this, he doesn't say anything",Premise,"((74158, 74226),)",Support
+Everything else falls behind that,Claim,"((86351, 86384),)",That's the only sacred obligation we have,Claim,"((86308, 86349),)",Support
+he's talking about the people that have built this country,Premise,"((94466, 94524),)",you probably detected my frustration with their attitude about the American people,Claim,"((94095, 94177),)",Support
+"When it came to Osama bin Laden, the president the first day in office, I was sitting with him in the Oval Office, he called in the CIA and signed an order saying, ""My highest priority is to get bin Laden.""",Premise,"((2784, 2990),)",the president of the United States has -- has led with a steady hand and clear vision,Claim,"((3439, 3524),)",Support
+"when that occurred, what did Romney do? Romney said, ""No, let Detroit go bankrupt.""",Premise,"((23771, 23854),)",for a guy who says 47 percent of the American people are unwilling to take responsibility for their own lives,Premise,"((24001, 24110),)",Support
+their own chief actuary at Medicare backs this up,Premise,"((35731, 35780),)",Obamacare takes $716 billion from Medicare to spend on Obamacare,Claim,"((35660, 35724),)",Support
+This is unconscionable,Premise,"((48649, 48671),)",There is no need for this,Claim,"((48673, 48698),)",Support
+we want to make sure our commanders have what they need to make sure that it is successful,Claim,"((63197, 63287),)",we want to see the 2014 transition be successful,Claim,"((63132, 63180),)",Support
+"We are working hand and glove with the Turks, with the Jordanians, with the Saudis, and with all the people in the region attempting to identify the people who deserve the help so that when Assad goes -- and he will go -- there will be a legitimate government that follows on, not an Al Qaida-sponsored government that follows on",Premise,"((73410, 73739),)","We are doing it exactly like we need to do to identify those forces who, in fact, will provide for a stable government and not cause a regional Sunni-Shia war when Bassad (sic) -- when Bashar Assad falls",Claim,"((74587, 74790),)",Support
+"particularly in these -- these special new groups that can go out there, raise all the money they want, not have to identify themselves, who say the most scurrilous things about the other candidate",Premise,"((86868, 87065),)",it's an abomination,Claim,"((87075, 87094),)",Support
+"Whenever you give them the shot, they've done it",Premise,"((94600, 94648),)",all they're looking for is an even shot,Claim,"((94559, 94598),)",Support
+"Governor Romney said that was a tragic mistake, we should have left 30,000 -- he ended it",Premise,"((2429, 2518),)",the best way to do that is take a look at how he's handled the issues of the day,Claim,"((2296, 2376),)",Support
+They are elderly people who in fact are living off of Social Security,Premise,"((24368, 24437),)","My friend recently in a speech in Washington said ""30 percent of the American people are takers.""",Premise,"((24112, 24209),)",Support
+He says you can't spend the same dollar twice,Premise,"((35782, 35827),)",their own chief actuary at Medicare backs this up,Premise,"((35731, 35780),)",Support
+The middle class got knocked on their heels,Premise,"((48700, 48743),)",They need some help now,Claim,"((48779, 48802),)",Support
+so that this does not once again become a launching pad for terrorists,Premise,"((63288, 63358),)",we want to make sure our commanders have what they need to make sure that it is successful,Claim,"((63197, 63287),)",Support
+He's vetoed three of them,Premise,"((75225, 75250),)",We wouldn't be outsourcing our foreign policy to the United Nations giving Vladimir Putin veto power over our efforts to try and deal with this issue,Claim,"((75074, 75223),)",Support
+"Or whether or not he's going to continue to focus on taking care of only the very wealthy, not asking them to make -- pay any part of the deal to bring -- bring back the middle class and the economy of this country",Claim,"((87367, 87581),)","I'd ask that hero you referenced to take a look at whether or not Governor Romney or President Obama has the conviction to help lift up the middle class, restore them to where they were before this great recession hit and they got wiped out",Claim,"((87125, 87365),)",Support
+"Whenever you've leveled the playing field, they've been able to move",Premise,"((94667, 94735),)",all they're looking for is an even shot,Claim,"((94559, 94598),)",Support
+"With regard to Afghanistan, he said he will end the war in 2014",Premise,"((2610, 2673),)",the president of the United States has -- has led with a steady hand and clear vision,Claim,"((3439, 3524),)",Support
+"They are veterans and people fighting in Afghanistan right now who are, quote, ""not paying any tax.""",Premise,"((24439, 24539),)","My friend recently in a speech in Washington said ""30 percent of the American people are takers.""",Premise,"((24112, 24209),)",Support
+You can't claim that this money goes to Medicare and Obamacare,Claim,"((35829, 35891),)",Obamacare takes $716 billion from Medicare to spend on Obamacare,Claim,"((35660, 35724),)",Support
+The great recession crushed them,Premise,"((48745, 48777),)",The middle class got knocked on their heels,Premise,"((48700, 48743),)",Support
+"we went there for one reason: to get those people who killed Americans, Al Qaida",Premise,"((63655, 63735),)",That was our purpose,Premise,"((63807, 63827),)",Support
+She said they were on the wrong side of history,Premise,"((75350, 75397),)",She was right about that,Claim,"((75399, 75423),)",Support
+there are things that have been said in campaigns that I -- I find not very appealing,Claim,"((87828, 87913),)",I would also tell him that there are things that have occurred in this campaign and occur in every campaign that I'm sure both of us regret anyone having said,Claim,"((86708, 86866),)",Support
+all they're looking for is an even shot,Claim,"((94559, 94598),)","the president and I are not going to rest until that playing field is leveled, they, in fact, have a clear shot, and they have peace of mind, until they can turn to their kid and say with a degree of confidence, ""Honey, it's going to be OK. It's going to be OK.""",Claim,"((94787, 95049),)",Support
+"Governor Romney said that was a tragic mistake, we should have left 30,000 troops there",Premise,"((2520, 2607),)","Governor Romney, the opposite",Claim,"((3526, 3555),)",Support
+They pay more effective tax than Governor Romney pays in his federal income tax,Premise,"((24287, 24366),)","instead of signing pledges to Grover Norquist not to ask the wealthiest among us to contribute to bring back the middle class, they should be signing a pledge saying to the middle class we're going to level the playing field",Claim,"((24656, 24880),)",Support
+not one of them even has to have medical training,Premise,"((36149, 36198),)","This board, by the way, it's 15 people, the president's supposed to appoint them next year",Premise,"((36053, 36143),)",Support
+They need some help now,Claim,"((48779, 48802),)",There is no need for this,Claim,"((48673, 48698),)",Support
+We've decimated Al Qaida central,Premise,"((63737, 63769),)",That was our purpose,Premise,"((63807, 63827),)",Support
+Hillary Clinton went to Russia to try and convince them not to do so,Premise,"((75253, 75321),)",We wouldn't be outsourcing our foreign policy to the United Nations giving Vladimir Putin veto power over our efforts to try and deal with this issue,Claim,"((75074, 75223),)",Support
+"if you don't have a good record to run on, then you paint your opponent as someone to run from",Premise,"((88330, 88424),)","then I would say, you have a president who ran for president four years ago promising hope and change, who has now turned his campaign into attack, blame and defame",Claim,"((88154, 88318),)",Support
+"the president and I are not going to rest until that playing field is leveled, they, in fact, have a clear shot, and they have peace of mind, until they can turn to their kid and say with a degree of confidence, ""Honey, it's going to be OK. It's going to be OK.""",Claim,"((94787, 95049),)",That's what this is all about,Claim,"((95050, 95079),)",Support
+"Governor Romney said we should not set a date, number one",Premise,"((2675, 2732),)","Governor Romney, the opposite",Claim,"((3526, 3555),)",Support
+"He's from Scranton, Pennsylvania",Premise,"((25554, 25586),)",Joe and I are from similar towns,Premise,"((25520, 25552),)",Support
+"This board, by the way, it's 15 people, the president's supposed to appoint them next year",Premise,"((36053, 36143),)",they put this new Obamacare board in charge of cutting Medicare each and every year in ways that will lead to denied care for current seniors,Premise,"((35910, 36051),)",Support
+"The last people who need help are 120,000 families for another -- another $500 billion tax cut over the next 10 years",Claim,"((48804, 48921),)",There is no need for this,Claim,"((48673, 48698),)",Support
+We have eliminated Osama bin Laden,Premise,"((63771, 63805),)",That was our purpose,Premise,"((63807, 63827),)",Support
+They thwarted her efforts,Premise,"((75323, 75348),)",Hillary Clinton went to Russia to try and convince them not to do so,Premise,"((75253, 75321),)",Support
+That was what President Obama said in 2008,Premise,"((88426, 88468),)","if you don't have a good record to run on, then you paint your opponent as someone to run from",Premise,"((88330, 88424),)",Support
+"President Obama, he had his chance",Premise,"((95395, 95429),)",We face a very big choice,Claim,"((95275, 95300),)",Support
+He went to the U.N. and in his speech at the U.N. he said six times -- he talked about the YouTube video,Premise,"((3952, 4056),)",It took the president two weeks to acknowledge that this was a terrorist attack,Premise,"((3871, 3950),)",Support
+they say we won't pass -- we won't continue the middle class tax cut unless you give the tax cut for the super wealthy,Premise,"((25325, 25443),)",they're holding hostage the middle class tax cut,Claim,"((25268, 25316),)",Support
+He'll tell you about vouchers,Claim,"((36519, 36548),)",They haven't put a credible solution on the table,Claim,"((36468, 36517),)",Support
+It's a plan that's estimated to create 7 million jobs,Premise,"((49039, 49092),)",Our entire premise of these tax reform plans is to grow the economy and create jobs,Claim,"((48954, 49037),)",Support
+"with 49 of our allies in Afghanistan, we've agreed on a gradual drawdown so we're out of there by the year 20 -- in the year 2014",Premise,"((63998, 64127),)",It's their responsibility to take over their own security,Claim,"((63928, 63985),)",Support
+It's been over a year,Premise,"((75603, 75624),)","After international pressure mounted, the President Obama said Bashar Assad should go",Premise,"((75516, 75601),)",Support
+Look at all the string of broken promises,Claim,"((88503, 88544),)",It's what he's doing right now,Claim,"((88470, 88500),)",Support
+He made his choices,Premise,"((95431, 95450),)","President Obama, he had his chance",Premise,"((95395, 95429),)",Support
+the loss of these four Americans who were murdered,Premise,"((3645, 3695),)","if we're hit by terrorists we're going to call it for what it is, a terrorist attack",Claim,"((4065, 4149),)",Support
+"I'm from Janesville, Wisconsin",Premise,"((25588, 25618),)",Joe and I are from similar towns,Premise,"((25520, 25552),)",Support
+He'll say all these things to try and scare people,Claim,"((36550, 36600),)",They haven't put a credible solution on the table,Claim,"((36468, 36517),)",Support
+"if you taxed every person and successful business making over $250,000 at 100 percent, it would only run the government for 98 days",Premise,"((49322, 49453),)",we think that government taking 28 percent of a family and business's income is enough,Claim,"((49099, 49185),)",Support
+It does not depend for us,Claim,"((64211, 64236),)",It is the responsibility of the Afghans to take care of their own security,Claim,"((64238, 64312),)",Support
+The man has slaughtered tens of thousands of his own people,Premise,"((75626, 75685),)",It's been over a year,Premise,"((75603, 75624),)",Support
+"If you like your health care plan, you can keep it",Premise,"((88546, 88596),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+It's failed to create the jobs we need,Claim,"((95574, 95612),)","His economic agenda, more spending, more borrowing, higher taxes, a government takeover of health care. It's not working",Claim,"((95452, 95572),)",Support
+that's what's happening here,Claim,"((5329, 5357),)",what we also want it do is make sure that we're not projecting weakness abroad,Claim,"((5245, 5323),)",Support
+That's not how it's going,Claim,"((25915, 25940),)",That's how it's going all around America,Claim,"((25825, 25865),)",Attack
+"Here's what we're saying: give younger people, when they become Medicare eligible, guaranteed coverage options that you can't be denied, including traditional Medicare",Claim,"((36602, 36769),)",We're going to stop that from happening,Claim,"((36426, 36465),)",Support
+"If everybody who paid income taxes last year, including successful small businesses, doubled their income taxes this year, we'd still have a $300 billion deficit",Premise,"((49455, 49616),)",we think that government taking 28 percent of a family and business's income is enough,Claim,"((49099, 49185),)",Support
+We will not train in the field,Claim,"((64568, 64598),)","if the measures the military has taken do not take hold, we will not go on joint patrols",Claim,"((64478, 64566),)",Support
+more foreign fighters are spilling into this country,Premise,"((75691, 75743),)","the longer this has gone on, the more people, groups like Al Qaida are going in",Premise,"((75749, 75828),)",Support
+"Or remember when he said this: I guarantee if you make less than $250,000, your taxes won't go up",Premise,"((88788, 88885),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+Twenty-three million Americans are struggling for work today,Premise,"((95615, 95675),)",It's failed to create the jobs we need,Claim,"((95574, 95612),)",Support
+They first blamed the YouTube video,Premise,"((4398, 4433),)",This is becoming more troubling by the day,Claim,"((4354, 4396),)",Support
+You don't read the statistics,Claim,"((25884, 25913),)",That's not how it's going,Claim,"((25915, 25940),)",Support
+"Choose your plan, and then Medicare subsidizes your premiums, not as much for the wealthy people, more coverage for middle-income people, and total out-of-pocket coverage for the poor and the sick",Claim,"((36771, 36967),)","Here's what we're saying: give younger people, when they become Medicare eligible, guaranteed coverage options that you can't be denied, including traditional Medicare",Claim,"((36602, 36769),)",Support
+There aren't enough rich people and small businesses to tax to pay for all their spending,Claim,"((49627, 49716),)",we think that government taking 28 percent of a family and business's income is enough,Claim,"((49099, 49185),)",Support
+We'll only train in the -- in the Army bases that exist there,Claim,"((64600, 64661),)","if the measures the military has taken do not take hold, we will not go on joint patrols",Claim,"((64478, 64566),)",Support
+we waited for Kofi Annan to try and come up with an agreement through the U.N.,Premise,"((76057, 76135),)",That bought Bashar Assad time,Premise,"((76136, 76165),)",Support
+Try telling that to the 20 million people who are projected to lose their health insurance if Obamacare goes through or the 7-point million -- 7.4 million seniors who are going to lose it,Premise,"((88598, 88785),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+Fifteen percent of Americans are in poverty,Premise,"((95677, 95720),)","His economic agenda, more spending, more borrowing, higher taxes, a government takeover of health care. It's not working",Claim,"((95452, 95572),)",Support
+Now they're trying to blame the Romney-Ryan ticket for making this an issue,Premise,"((4435, 4510),)",This is becoming more troubling by the day,Claim,"((4354, 4396),)",Support
+It's going down,Premise,"((25942, 25957),)",That's not how it's going,Claim,"((25915, 25940),)",Support
+"What we did is, we saved $716 billion and put it back, applied it to Medicare",Claim,"((37388, 37465),)",it extends the life of Medicare to 2024,Claim,"((37624, 37663),)",Support
+"the next time you hear them say, ""Don't worry about it, we'll get a few wealthy people to pay their fair share,"" watch out, middle class, the tax bill's coming to you",Claim,"((49725, 49891),)",There aren't enough rich people and small businesses to tax to pay for all their spending,Claim,"((49627, 49716),)",Support
+We are leaving in 2014,Claim,"((64684, 64706),)",we are leaving,Claim,"((64668, 64682),)",Support
+That bought Bashar Assad time,Premise,"((76136, 76165),)","meanwhile about 30,000 Syrians are dead",Premise,"((76232, 76271),)",Support
+"Of the 21 tax increases in Obamacare, 12 of them hit the middle class",Premise,"((88887, 88956),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+"His economic agenda, more spending, more borrowing, higher taxes, a government takeover of health care. It's not working",Claim,"((95452, 95572),)",This is not what a real recovery looks like,Claim,"((26539, 26582),)",Support
+The vice president was put in charge of those negotiations by President Obama and they failed to get the agreement,Premise,"((4713, 4827),)",Let's have a status of forces agreement to make sure that we secure our gains,Premise,"((4634, 4711),)",Support
+The economy is barely limping along,Claim,"((26146, 26181),)",we're going in the wrong direction,Claim,"((26088, 26122),)",Support
+"We stopped overpaying insurance companies, doctors and hospitals",Premise,"((37496, 37560),)",We cut the cost of Medicare,Premise,"((37467, 37494),)",Support
+"Eight out of 10 businesses, they file their taxes as individuals, not as corporations",Premise,"((49984, 50069),)",we need fundamental tax reform,Claim,"((49918, 49948),)",Support
+"We have trained over 315,000, mostly without incident",Premise,"((64314, 64367),)",It is the responsibility of the Afghans to take care of their own security,Claim,"((64238, 64312),)",Support
+you don't go through the U.N,Claim,"((76473, 76501),)",we would not be going through the U.N. in all of these things,Claim,"((76392, 76453),)",Attack
+"remember when he said health insurance premiums will go down $2,500 per family, per year",Premise,"((88962, 89050),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+Mitt Romney and I want to earn your support,Claim,"((95787, 95830),)",You deserve better,Claim,"((95767, 95785),)",Support
+"the Obama foreign policy, which is making the (inaudible) more chaotic us less safe",Claim,"((5552, 5635),)",it's indicative of a broader problem,Claim,"((5442, 5478),)",Support
+It's growing a 1.3 percent,Premise,"((26183, 26209),)",The economy is barely limping along,Claim,"((26146, 26181),)",Support
+We cut the cost of Medicare,Premise,"((37467, 37494),)",it extends the life of Medicare to 2024,Claim,"((37624, 37663),)",Support
+"where I come from, overseas, which is Lake Superior, the Canadians, they dropped their tax rates to 15 percent",Premise,"((50075, 50185),)",we need fundamental tax reform,Claim,"((49918, 49948),)",Support
+There have been more than two dozen cases of green-on-blue where Americans have been killed,Premise,"((64369, 64460),)",It is the responsibility of the Afghans to take care of their own security,Claim,"((64238, 64312),)",Support
+"We are in the process now -- and have been for months -- in making sure that help, humanitarian aid, as well as other aid and training is getting to those forces that we believe, the Turks believe, the Jordanians believe, the Saudis believe are the free forces inside of Syria",Premise,"((76503, 76779),)",That is underway,Premise,"((76781, 76797),)",Support
+"They've gone up $3,000, and they're expected to go up another $2,400",Premise,"((89052, 89120),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+We're offering real reforms for a real recovery for every American,Claim,"((95832, 95898),)",Mitt Romney and I want to earn your support,Claim,"((95787, 95830),)",Support
+when the mullahs in Iran were attacking their people,Claim,"((6274, 6326),)",We should have spoken out right away when the green revolution was up and starting,Claim,"((6190, 6272),)",Support
+we're going in the wrong direction,Claim,"((26088, 26122),)",That's not how it's going,Claim,"((25915, 25940),)",Attack
+"If you're near the donut hole, you have $800 -- $600 more to help your prescription drug costs",Premise,"((37803, 37897),)",You do,Claim,"((37795, 37801),)",Support
+The average tax rate on businesses in the industrialized world is 25 percent,Premise,"((50187, 50263),)",we need fundamental tax reform,Claim,"((49918, 49948),)",Support
+"in the process, we're going to be saving over the next 10 years another $800 billion",Claim,"((64720, 64804),)",We are leaving in 2014,Claim,"((64684, 64706),)",Support
+"Our allies were all on the same page, NATO, as well as our Arab allies, in terms of trying to get a settlement",Premise,"((76799, 76909),)",That was their idea,Claim,"((76911, 76930),)",Support
+A debt crisis is coming,Premise,"((89289, 89312),)",We can't keep spending and borrowing like this,Claim,"((89314, 89360),)",Support
+"his experience, his ideas, his solutions -- is uniquely qualified to get this job done",Premise,"((95916, 96002),)",Mitt Romney and I want to earn your support,Claim,"((95787, 95830),)",Support
+We should have spoken out right away when the green revolution was up and starting,Claim,"((6190, 6272),)","We should always stand up for peace, for democracy, for individual rights",Claim,"((6443, 6516),)",Support
+That's slower than it grew last year and last year was slower than the year before,Premise,"((26211, 26293),)",The economy is barely limping along,Claim,"((26146, 26181),)",Support
+You get wellness visits without co-pays,Premise,"((37899, 37938),)",You do,Claim,"((37795, 37801),)",Support
+the president wants the top effective tax rate on successful small businesses to go above 40 percent,Premise,"((50269, 50369),)",we need fundamental tax reform,Claim,"((49918, 49948),)",Support
+We've been in this war for over a decade,Premise,"((64806, 64846),)",We are leaving in 2014,Claim,"((64684, 64706),)",Support
+That is underway,Premise,"((76781, 76797),)",you don't go through the U.N,Claim,"((76473, 76501),)",Support
+We can't keep spending money we don't have,Claim,"((89362, 89404),)",We can't keep spending and borrowing like this,Claim,"((89314, 89360),)",Support
+a stagnant economy that promotes more government dependency,Premise,"((96137, 96196),)",The choice is clear,Claim,"((96116, 96135),)",Support
+We should not have called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people,Claim,"((6328, 6441),)","We should always stand up for peace, for democracy, for individual rights",Claim,"((6443, 6516),)",Support
+Job growth in September was slower than it was in August,Premise,"((26295, 26351),)",The economy is barely limping along,Claim,"((26146, 26181),)",Support
+"When they first proposed -- when the congressman had his first voucher program, the CBO said it would cost $6,400 a year, Martha, more for every senior, 55 and below, when they got there",Premise,"((38078, 38264),)","Who you believe, the AMA, me, a guy who's fought his whole life for this, or somebody who would actually put in motion a plan that knowingly cut -- added $6,400 a year more to the cost of Medicare?",Premise,"((38435, 38632),)",Support
+Two-thirds of our jobs come from small businesses,Premise,"((50372, 50421),)","It's expected to cost us 710,000 jobs",Claim,"((50498, 50535),)",Support
+The primary objective is almost completed,Claim,"((64848, 64889),)",We are leaving in 2014,Claim,"((64684, 64706),)",Support
+That was their idea,Claim,"((76911, 76930),)",you don't go through the U.N,Claim,"((76473, 76501),)",Support
+"remember when he said, ""I promise by the end of my first term I'll cut the deficit in half in four years""",Premise,"((89126, 89231),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+"dynamic, growing economy that promotes opportunity and jobs",Premise,"((96202, 96261),)",The choice is clear,Claim,"((96116, 96135),)",Support
+"what that does when we equivocate on our values, when we show that we're cutting down on defense, it makes us more weak",Premise,"((6589, 6708),)",we should not be imposing these devastating defense cuts,Claim,"((6523, 6579),)",Support
+August was slower than it was in July,Premise,"((26357, 26394),)",The economy is barely limping along,Claim,"((26146, 26181),)",Support
+"They wipe all of this out, and Medicare goes -- becomes insolvent in 2016",Claim,"((37940, 38013),)",they eliminate the guarantee of Medicare,Claim,"((39052, 39092),)",Support
+This one tax would actually tax about 53 percent of small-business income,Premise,"((50423, 50496),)","It's expected to cost us 710,000 jobs",Claim,"((50498, 50535),)",Support
+all we're doing is putting the Kabul government in a position to be able to maintain their own security,Premise,"((64896, 64999),)","It's their responsibility, not America's",Claim,"((65002, 65042),)",Support
+He's a sponsor of terrorism,Premise,"((77328, 77355),)",Then Iran keeps their greatest ally in the region,Premise,"((77277, 77326),)",Support
+"We've had four budgets, four trillion-dollar deficits",Premise,"((89233, 89286),)",Look at all the string of broken promises,Claim,"((88503, 88544),)",Support
+Mitt Romney and I will not duck the tough issues,Claim,"((96263, 96311),)",We will take responsibility,Claim,"((96367, 96394),)",Support
+we should not be imposing these devastating defense cuts,Claim,"((6523, 6579),)","We should always stand up for peace, for democracy, for individual rights",Claim,"((6443, 6516),)",Support
+23 million Americans are struggling for work today,Premise,"((26434, 26484),)",We're heading in the wrong direction,Claim,"((26396, 26432),)",Support
+"If we had listened to Romney, Governor Romney, and the congressman during the Bush years, imagine where all those seniors would be now if their money had been in the market",Premise,"((38828, 39000),)",their ideas are bad,Claim,"((39027, 39046),)",Support
+"It's expected to cost us 710,000 jobs",Claim,"((50498, 50535),)",we need fundamental tax reform,Claim,"((49918, 49948),)",Support
+Our wives are best friends,Premise,"((65283, 65309),)","one of my best friends in Janesville, a reservist, is at a forward-operating base in eastern Afghanistan right now",Premise,"((65167, 65281),)",Support
+"We're the ones that said, ""Enough.""",Claim,"((76932, 76967),)",That was their idea,Claim,"((76911, 76930),)",Support
+We can't keep spending and borrowing like this,Claim,"((89314, 89360),)",Leaders run to problem to fix problems,Claim,"((89407, 89445),)",Support
+we will not blame others for the next four years,Claim,"((96317, 96365),)",We will take responsibility,Claim,"((96367, 96394),)",Support
+It projects weakness,Premise,"((6710, 6730),)","what that does when we equivocate on our values, when we show that we're cutting down on defense, it makes us more weak",Premise,"((6589, 6708),)",Support
+15 percent of Americans are living in poverty today,Premise,"((26486, 26537),)",We're heading in the wrong direction,Claim,"((26396, 26432),)",Support
+they eliminate the guarantee of Medicare,Claim,"((39052, 39092),)",their ideas are bad,Claim,"((39027, 39046),)",Support
+It doesn't even pay for 10 percent of their proposed deficit spending increases,Claim,"((50556, 50635),)","What we are saying is, lower tax rates across the board and close loopholes, primarily to the higher-income people",Claim,"((50638, 50752),)",Support
+Our daughters are best friends,Premise,"((65311, 65341),)","one of my best friends in Janesville, a reservist, is at a forward-operating base in eastern Afghanistan right now",Premise,"((65167, 65281),)",Support
+He'll probably continue slaughtering his people,Claim,"((77357, 77404),)",We and the world community will lose our credibility on this,Claim,"((77406, 77466),)",Support
+President Obama has not even put a credible plan on the table in any of his four years to deal with this debt crisis,Premise,"((89447, 89563),)",Leaders run to problem to fix problems,Claim,"((89407, 89445),)",Support
+We will reapply our founding principles,Claim,"((96452, 96491),)",we will not try to replace our founding principles,Claim,"((96400, 96450),)",Support
+"when we look weak, our adversaries are much more willing to test us",Premise,"((6736, 6803),)",we should not be imposing these devastating defense cuts,Claim,"((6523, 6579),)",Support
+This is not what a real recovery looks like,Premise,"((26539, 26582),)",We're heading in the wrong direction,Claim,"((26396, 26432),)",Support
+Their own actuary from the administration came to Congress and said one out of six hospitals and nursing homes are going to go out of business as a result of this,Premise,"((39223, 39385),)","They got caught with their hands in the cookie jar, turning Medicare into a piggybank for Obamacare",Claim,"((39122, 39221),)",Support
+even their own deputy campaign manager acknowledged that it wasn't correct,Premise,"((51025, 51099),)",It's been discredited by six other studies,Premise,"((50977, 51019),)",Support
+I want him and all of our troops to come home as soon and safely as possible,Claim,"((65353, 65429),)",We don't want to stay,Claim,"((65127, 65148),)",Support
+"we agree with the same red line, actually, they do on chemical weapons, but not putting American troops in, other than to secure those chemical weapons",Premise,"((77576, 77727),)",They're right about that,Claim,"((77729, 77753),)",Support
+We've got to tackle this debt crisis before it tackles us,Premise,"((89644, 89701),)",Mitt Romney's put ideas on the table,Premise,"((89605, 89641),)",Support
+"The choice is clear, and the choice rests with you",Claim,"((96494, 96544),)",And we ask you for your vote,Claim,"((96546, 96574),)",Support
+not a single thing he said is accurate,Claim,"((6999, 7037),)",that's a bunch of malarkey,Claim,"((6925, 6951),)",Support
+Get America energy independent in North America by the end of the decade,Claim,"((26704, 26776),)",We need real reforms for real recovery,Claim,"((26584, 26622),)",Support
+More people signed up,Premise,"((39617, 39638),)",That didn't happen,Claim,"((39561, 39579),)",Support
+Lower tax rates 20 percent,Claim,"((51940, 51966),)","What we're saying is, here's our framework",Claim,"((51896, 51938),)",Support
+We want to make sure that 2014 is successful,Claim,"((65431, 65475),)",We don't want to stay,Claim,"((65127, 65148),)",Support
+They're -- they're still arming the man,Premise,"((78216, 78255),)",we should not have waited to Russia should not have waited for Russia to give us the green light at the U.N. to do something about it,Claim,"((77995, 78030), (78092, 78189))",Support
+He gave a speech,Premise,"((89745, 89761),)",The president likes to say he has a plan,Premise,"((89703, 89743),)",Support
+we will not try to replace our founding principles,Claim,"((96400, 96450),)","The choice is clear, and the choice rests with you",Claim,"((96494, 96544),)",Support
+the congressman here cut embassy security in his budget by $300 million below what we asked for,Claim,"((7166, 7261),)",not a single thing he said is accurate,Claim,"((6999, 7037),)",Support
+We need real reforms for real recovery,Claim,"((26584, 26622),)",that's exactly what Mitt Romney and I are proposing,Claim,"((26627, 26678),)",Support
+These are from your own actuaries,Premise,"((39647, 39680),)",More people signed up,Premise,"((39617, 39638),)",Attack
+We forego about $1.1 trillion in loopholes and deductions,Premise,"((52020, 52077),)","deny those loopholes and deductions to higher-income taxpayers so that more of their income is taxed, which has a broader base of taxation so we can lower tax rates across the board",Claim,"((52108, 52246), (52287, 52329))",Support
+We don't want to extend beyond 2014,Claim,"((65584, 65619),)",We want to make sure that 2014 is successful,Claim,"((65431, 65475),)",Support
+We should not have called Bashar Assad a reformer,Claim,"((77856, 77905),)","what we should have done earlier is work with those freedom fighters, those dissidents in Syria",Claim,"((77759, 77854),)",Support
+"We asked his budget office, ""Can we see the plan?""",Premise,"((89763, 89813),)",The president likes to say he has a plan,Premise,"((89703, 89743),)",Support
+We will take responsibility,Claim,"((96367, 96394),)","The choice is clear, and the choice rests with you",Claim,"((96494, 96544),)",Support
+"Governor Romney, before he knew the facts, before he even knew that our ambassador was killed, he was out making a political statement which was panned by the media around the world",Claim,"((7327, 7508),)",not a single thing he said is accurate,Claim,"((6999, 7037),)",Support
+Help people who are hurting get the skills they need to get the jobs they want,Claim,"((26778, 26856),)",We need real reforms for real recovery,Claim,"((26584, 26622),)",Support
+more people signed up for Medicare Advantage after the change,Premise,"((39706, 39767),)",More people signed up,Premise,"((39617, 39638),)",Support
+"deny those loopholes and deductions to higher-income taxpayers so that more of their income is taxed, which has a broader base of taxation so we can lower tax rates across the board",Claim,"((52108, 52246), (52287, 52329))","What we're saying is, here's our framework",Claim,"((51896, 51938),)",Support
+we want to make sure that we give our commanders what they say they need to make it successful,Claim,"((65488, 65582),)",We don't want to extend beyond 2014,Claim,"((65584, 65619),)",Support
+Iran is flying flights over Iraq,Premise,"((78257, 78289),)",We should not have called Bashar Assad a reformer,Claim,"((77856, 77905),)",Support
+They sent us to the press secretary,Premise,"((89814, 89849),)",The president likes to say he has a plan,Premise,"((89703, 89743),)",Support
+You deserve better,Claim,"((95767, 95785),)","The choice is clear, and the choice rests with you",Claim,"((96494, 96544),)",Support
+this talk about this -- this weakness. I -- I don't understand what my friend's talking about here,Claim,"((7514, 7612),)",not a single thing he said is accurate,Claim,"((6999, 7037),)",Support
+Get this deficit and debt under control to prevent a debt crisis,Claim,"((26858, 26922),)",We need real reforms for real recovery,Claim,"((26584, 26622),)",Support
+7.4 million seniors are projected to lose their current Medicare Advantage coverage they have,Premise,"((39429, 39522),)","They got caught with their hands in the cookie jar, turning Medicare into a piggybank for Obamacare",Claim,"((39122, 39221),)",Support
+Six studies have guaranteed -- six studies have verified that this math adds up,Premise,"((52849, 52928),)",Absolutely,Claim,"((52837, 52847),)",Support
+problems are growing abroad,Premise,"((65928, 65955),)",What we are witnessing as we turn on our television screens these days is the absolute unraveling of the Obama foreign policy,Claim,"((65764, 65889),)",Support
+the opposition is being armed,Premise,"((78305, 78334),)",We should not have called Bashar Assad a reformer,Claim,"((77856, 77905),)",Support
+He gave us a copy of the speech,Premise,"((89851, 89882),)",The president likes to say he has a plan,Premise,"((89703, 89743),)",Support
+This is not what a real recovery looks like,Claim,"((26539, 26582),)","The choice is clear, and the choice rests with you",Claim,"((96494, 96544),)",Support
+this is a president who's gone out and done everything he has said he was going to do,Premise,"((7621, 7706),)",this talk about this -- this weakness. I -- I don't understand what my friend's talking about here,Claim,"((7514, 7612),)",Support
+"Make trade work for America so we can make more things in America and sell them overseas, and champion small businesses",Claim,"((26925, 27044),)",We need real reforms for real recovery,Claim,"((26584, 26622),)",Support
+They already organized their retirement around these promises,Premise,"((40247, 40308),)",we're saying don't change benefits for people 55 and above,Claim,"((40187, 40245),)",Support
+"he gave specifics of what he was going to cut, number one, in terms of tax expenditures",Claim,"((53199, 53286),)",I was there when Ronald Reagan tax breaks,Claim,"((53154, 53195),)",Support
+Problems are growing at home,Premise,"((65891, 65919),)",What we are witnessing as we turn on our television screens these days is the absolute unraveling of the Obama foreign policy,Claim,"((65764, 65889),)",Support
+he failed to achieve that,Claim,"((78555, 78580),)","if we had the status-of-forces agreement that the vice president said he would bet his vice presidency on in Iraq, we probably would have been able to prevent that",Claim,"((78386, 78549),)",Support
+we're not getting leadership,Claim,"((90120, 90148),)",that's what we get in this administration -- speeches,Claim,"((90059, 90112),)",Support
+This is a guy who's repaired our alliances so the rest of the world follows us again,Premise,"((7708, 7792),)",this talk about this -- this weakness. I -- I don't understand what my friend's talking about here,Claim,"((7514, 7612),)",Support
+they're our job creators,Premise,"((27092, 27116),)",Don't raise taxes on small businesses,Claim,"((27046, 27083),)",Support
+It's a plan I put together with a prominent Democrat senator from Oregon,Premise,"((40997, 41069),)",This is a plan that's bipartisan,Claim,"((40963, 40995),)",Support
+"Governor Romney on ""60 Minutes"" -- I guess it was about 10 days ago -- was asked, ""Governor, you pay 14 percent on $20 million. Someone making $50,000 pays more than that. Do you think that's fair?"" He said, ""Oh, yes, that's fair. That's fair.""",Premise,"((53652, 53896),)",Let's look at how sincere they are,Premise,"((53587, 53621),)",Support
+jobs aren't growing here at home,Premise,"((65961, 65993),)",What we are witnessing as we turn on our television screens these days is the absolute unraveling of the Obama foreign policy,Claim,"((65764, 65889),)",Support
+putting American troops on the ground? That's got to be within the national security interests of the American people,Claim,"((79110, 79227),)",What is in the national security of the American people,Claim,"((78877, 78932),)",Support
+"They said, ""It's a speech, we can't estimate speeches.""",Premise,"((89993, 90048),)",that's what we get in this administration -- speeches,Claim,"((90059, 90112),)",Support
+"This is the guy who brought the entire world, including Russia and China, to bring about the most devastating -- most devastating -- the most devastating efforts on Iran to make sure that they in fact stop (inaudible)",Premise,"((7794, 8011),)",this talk about this -- this weakness. I -- I don't understand what my friend's talking about here,Claim,"((7514, 7612),)",Support
+Don't raise taxes on small businesses,Claim,"((27046, 27083),)",We need real reforms for real recovery,Claim,"((26584, 26622),)",Support
+There's not one Democrat who endorses it,Claim,"((41080, 41120),)",This is a plan that's bipartisan,Claim,"((40963, 40995),)",Attack
+"the reason why the AEI study, the American Enterprise Institute study, the Tax Policy Center study, the reason they all say it's going -- taxes go up on the middle class, the only way you can find $5 trillion in loopholes is cut the mortgage deduction for middle-class people, cut the health care deduction, middle-class people, take away their ability to get a tax break to send their kids to college",Premise,"((54192, 54593),)",That's why they arrive at it,Claim,"((54595, 54623),)",Support
+we don't want to embolden our enemies to hold and wait out for us and then take over,Premise,"((66816, 66900),)",what we don't want to do is give our allies reason to trust us less and our enemies more,Premise,"((66724, 66812),)",Support
+those are things that don't put American troops on the ground,Premise,"((79356, 79417),)",That means like embargoes and sanctions and overflights,Claim,"((79299, 79354),)",Support
+"His lifetime of experience, his proven track record of bipartisanship",Premise,"((90208, 90277),)",Mitt Romney is uniquely qualified to fix these problems,Claim,"((90151, 90206),)",Support
+"As they learned more facts about exactly what happened, they changed their assessment",Premise,"((8510, 8595),)","That's why there's also an investigation headed by Tom Pickering, a leading diplomat from the Reagan years, who is doing an investigation as to whether or not there are any lapses, what the lapses were, so that they will never happen again",Premise,"((8597, 8836),)",Support
+He cares about 100 percent of Americans in this country,Claim,"((28100, 28155),)",Mitt Romney's a good man,Claim,"((28074, 28098),)",Support
+Our partner is a Democrat from Oregon,Premise,"((41193, 41230),)",It's a plan I put together with a prominent Democrat senator from Oregon,Premise,"((40997, 41069),)",Support
+you can cut tax rates by 20 percent and still preserve these important preferences for middle-class taxpayers,Claim,"((54739, 54848),)",He is wrong about that,Claim,"((54666, 54688),)",Support
+what we don't want to do is give our allies reason to trust us less and our enemies more,Premise,"((66724, 66812),)",what any administration will do in 2013 is assess the situation to see how best to complete this timeline,Claim,"((66546, 66651),)",Support
+Our faith informs us in everything we do,Premise,"((80223, 80263),)",I don't see how a person can separate their public life from their private life or from their faith,Claim,"((80122, 80221),)",Support
+Mitt Romney is uniquely qualified to fix these problems,Claim,"((90151, 90206),)",We can do better than this,Claim,"((90499, 90525),)",Support
+we said exactly what the intelligence community told us that they knew,Claim,"((9049, 9119),)",We did not know they wanted more security again,Claim,"((8948, 8995),)",Support
+"This is a guy who I was talking to a family in Northborough, Massachusetts the other day, Sheryl and Mark Nixon",Premise,"((27251, 27362),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+Who disavows it,Premise,"((41391, 41406),)",we put it together with the former Clinton budget director,Premise,"((41323, 41381),)",Attack
+Not mathematically possible,Claim,"((54860, 54887),)",you can cut tax rates by 20 percent and still preserve these important preferences for middle-class taxpayers,Claim,"((54739, 54848),)",Attack
+We will leave in 2014,Claim,"((66690, 66711),)",what any administration will do in 2013 is assess the situation to see how best to complete this timeline,Claim,"((66546, 66651),)",Attack
+"My faith informs me about how to take care of the vulnerable, of how to make sure that people have a chance in life",Premise,"((80265, 80380),)",Our faith informs us in everything we do,Premise,"((80223, 80263),)",Support
+We can do better than this,Claim,"((90499, 90525),)",what I would tell him is we don't have to settle for this,Claim,"((90416, 90473),)",Support
+That was the assessment,Premise,"((9121, 9144),)",we said exactly what the intelligence community told us that they knew,Claim,"((9049, 9119),)",Support
+"Their kids were hit in a car crash, four of them",Premise,"((27364, 27412),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+Which was rejected,Premise,"((41555, 41573),)",this idea came from the Clinton commission to save Medicare chaired by Senator John Breaux,Premise,"((41428, 41518),)",Attack
+It is mathematically possible,Claim,"((54896, 54925),)",Not mathematically possible,Claim,"((54860, 54887),)",Attack
+Forty-nine of our allies -- hear me -- 49 of our allies signed on to this position,Premise,"((67068, 67150),)",We will leave in 2014,Claim,"((66690, 66711),)",Support
+"That's a factor, of course",Premise,"((80484, 80510),)",It's not simply because of my Catholic faith,Claim,"((80438, 80482),)",Support
+He broke his big promise to bring people together to solve the country's biggest problems,Claim,"((90320, 90409),)",We can do better than this,Claim,"((90499, 90525),)",Support
+"You know, usually when there's a crisis, we pull together",Premise,"((9295, 9352),)",That's why I said we will get to the bottom of this,Claim,"((9242, 9293),)",Support
+"Two of them, Rob and Reed, were paralyzed",Premise,"((27414, 27455),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+"10,000 people are retiring every single day in America today and they will for 20 years",Premise,"((41688, 41775),)","That's not a political thing, that's a math thing",Premise,"((41777, 41826),)",Support
+It's been done before,Claim,"((54927, 54948),)",It is mathematically possible,Claim,"((54896, 54925),)",Support
+"Forty-nine -- 49 of our allies said ""out in 2014.""",Premise,"((67219, 67269),)",It's the responsibility of the Afghans,Claim,"((67270, 67308),)",Support
+it's also because of reason and science,Claim,"((80516, 80555),)",It's not simply because of my Catholic faith,Claim,"((80438, 80482),)",Support
+It is (inaudible) he will knock 19 million people off of Medicare,Premise,"((90752, 90817),)",The two budgets the congressman introduced have eviscerated all the things that the middle class cares about,Claim,"((90642, 90750),)",Support
+We pull together as a nation,Premise,"((9354, 9382),)","You know, usually when there's a crisis, we pull together",Premise,"((9295, 9352),)",Support
+The Romneys didn't know them,Premise,"((27457, 27485),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+"That's not a political thing, that's a math thing",Premise,"((41777, 41826),)",if we don't fix this problem pretty soon then current seniors get cut,Claim,"((41597, 41666),)",Support
+It has never been done before,Claim,"((54995, 55024),)",It's been done before,Claim,"((54927, 54948),)",Attack
+We have other responsibilities,Claim,"((67310, 67340),)",It's the responsibility of the Afghans,Claim,"((67270, 67308),)",Support
+A little baby was in the shape of a bean,Premise,"((80756, 80796),)","to this day, we have nicknamed our firstborn child Liza, ""Bean.""",Premise,"((80802, 80866),)",Support
+"It will kick 200,000 children off of early education",Premise,"((90819, 90871),)",The two budgets the congressman introduced have eviscerated all the things that the middle class cares about,Claim,"((90642, 90750),)",Support
+"even before we knew what happened to the ambassador, the governor was holding a press conference -- was holding a press conference",Premise,"((9399, 9529),)",That's not presidential leadership,Claim,"((9531, 9565),)",Support
+They went to the same church,Premise,"((27487, 27515),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+it would deny seniors choices,Claim,"((42025, 42054),)","if they just allowed Medicare to bargain for the cost of drugs like Medicaid can, that would save $156 billion right off the bat",Claim,"((41884, 42012),)",Attack
+It's been done a couple of times,Claim,"((55033, 55065),)",It has never been done before,Claim,"((54995, 55024),)",Attack
+international security forces to do the job,Premise,"((67893, 67936),)",They're happy to let us continue to do the job,Premise,"((67845, 67891),)",Support
+"I think about 10 1/2 years ago, my wife Janna and I went to Mercy Hospital in Janesville where I was born, for our seven week ultrasound for our firstborn child, and we saw that heartbeat",Premise,"((80567, 80754),)",I believe that life begins at conception,Claim,"((80871, 80911),)",Support
+It will eliminate the tax credit people have to be able to send their children to college,Premise,"((90873, 90962),)",The two budgets the congressman introduced have eviscerated all the things that the middle class cares about,Claim,"((90642, 90750),)",Support
+"What we should not be doing is saying to the Egyptian people, while Mubarak is cracking down on them, that he's a good guy and, in the next week, say he ought to go",Claim,"((10073, 10237),)",what we should not be apologizing for are standing up for our values,Claim,"((10003, 10071),)",Support
+they never met before,Premise,"((27517, 27538),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+"the voucher says, ""Mom, when you're -- when you're 65, go out there, shop for the best insurance you can get. You're out of Medicare.""",Premise,"((43032, 43166),)","We will not, though, be part of any voucher plan eliminating",Claim,"((42968, 43028),)",Support
+It has never been done before,Claim,"((54995, 55024),)",It's been done a couple of times,Claim,"((55033, 55065),)",Support
+They're happy to let us continue to do the job,Premise,"((67845, 67891),)","The only way they step up is to say, ""Fellas, we're leaving; we've trained you; step up, step up.""",Claim,"((67938, 68036),)",Support
+I believe that life begins at conception,Claim,"((80871, 80911),)",those are the reasons why I'm pro-life,Claim,"((80928, 80966),)",Support
+It cuts education by $450 billion,Premise,"((90964, 90997),)",The two budgets the congressman introduced have eviscerated all the things that the middle class cares about,Claim,"((90642, 90750),)",Support
+"What we should not be doing is rejecting claims for -- for calls for more security in our barracks, in our Marine -- we need Marines in Benghazi when the commander on the ground says we need more forces for security",Claim,"((10239, 10454),)",what we should not be apologizing for are standing up for our values,Claim,"((10003, 10071),)",Support
+Mitt asked if he could come over on Christmas,Premise,"((27540, 27585),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+"A voucher is you go to your mailbox, get a check, and buy something",Premise,"((43497, 43564),)",Nobody's proposing that,Claim,"((43566, 43589),)",Support
+"Jack Kennedy lowered tax rates, increased growth",Premise,"((55123, 55171),)",It has never been done before,Claim,"((54995, 55024),)",Attack
+"the Taliban -- what we've found out, and we -- you saw it in Iraq, Martha, unless you set a timeline, Baghdad, in the case of Iraq, and -- and Kabul, in the case of Afghanistan will not step up",Claim,"((67650, 67843),)","The only way they step up is to say, ""Fellas, we're leaving; we've trained you; step up, step up.""",Claim,"((67938, 68036),)",Support
+I understand this is a difficult issue,Premise,"((80972, 81010),)",I respect people who don't agree with me on this,Claim,"((81016, 81064),)",Support
+We're not getting that,Claim,"((92242, 92264),)","What you need are, when people see problems, they offer solutions to fix those problems",Claim,"((92153, 92240),)",Support
+those requests were not honored,Premise,"((10496, 10527),)",There were requests for extra security,Premise,"((10456, 10494),)",Support
+"He brought his boys, his wife, and gifts",Premise,"((27587, 27627),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+Because we've changed the law,Premise,"((42378, 42407),)",it's working well right now,Claim,"((42328, 42355),)",Support
+"When we did it Reagan, we said, here -- here are the things we're going to cut",Premise,"((55580, 55658),)",we told each other what we're going to do,Claim,"((55493, 55534),)",Support
+"The only way they step up is to say, ""Fellas, we're leaving; we've trained you; step up, step up.""",Claim,"((67938, 68036),)",That's the only way it works,Claim,"((68072, 68100),)",Support
+Look at what they're doing through Obamacare with respect to assaulting the religious liberties of this country,Premise,"((81279, 81390),)",What troubles me more is how this administration has handled all of these issues,Premise,"((81197, 81277),)",Support
+That's what our five- point plan for a stronger middle class is all about,Claim,"((92305, 92378),)",we can grow this economy faster,Claim,"((92272, 92303),)",Support
+There were requests for extra security,Premise,"((10456, 10494),)","What we should not be doing is rejecting claims for -- for calls for more security in our barracks, in our Marine -- we need Marines in Benghazi when the commander on the ground says we need more forces for security",Claim,"((10239, 10454),)",Support
+"Later on, he said, ""I know you're struggling, Mark. Don't worry about their college. I'll pay for it.""",Premise,"((27629, 27731),)",The Nixons told this story,Premise,"((27827, 27853),)",Support
+"You can buy back in if you want with this voucher, which will not keep pace -- will not keep pace with health care costs",Premise,"((43167, 43287),)",That's why they go the voucher,Claim,"((43368, 43398),)",Support
+"We said here's the framework, let's work together to fill in the details",Premise,"((55709, 55781),)",That's how you get things done,Claim,"((55836, 55866),)",Support
+The military said the surge will be out,Premise,"((68788, 68827),)",Nothing political about this,Claim,"((68829, 68857),)",Support
+"They're infringing upon our first freedom, the freedom of religion, by infringing on Catholic charities, Catholic churches, Catholic hospitals",Premise,"((81392, 81534),)",Look at what they're doing through Obamacare with respect to assaulting the religious liberties of this country,Premise,"((81279, 81390),)",Support
+"What you need are, when people see problems, they offer solutions to fix those problems",Claim,"((92153, 92240),)","what you need are people who, when they say they're going to do something, they go do it",Claim,"((92063, 92151),)",Support
+"When Barack Obama was elected, they had enough fissile material -- nuclear material to make one bomb",Premise,"((11866, 11966),)",They're racing toward a nuclear weapon,Claim,"((11999, 12037),)",Support
+The Nixons told this story,Premise,"((27827, 27853),)",He cares about 100 percent of Americans in this country,Claim,"((28100, 28155),)",Support
+"if it did keep pace with health care costs, there would be no savings",Claim,"((43297, 43366),)",That's why they go the voucher,Claim,"((43368, 43398),)",Support
+You work with Congress,Claim,"((55868, 55890),)",That's how you get things done,Claim,"((55836, 55866),)",Support
+That's what the military said,Premise,"((69013, 69042),)","Before the surge occurred -- so you be a little straight with me here, too -- before the surge occurred, we said they'll be out by the end of the summer",Premise,"((68859, 69011),)",Support
+"Taxpayer funding in Obamacare, taxpayer funding with foreign aid",Premise,"((81806, 81870),)",they support it without restriction and with taxpayer funding,Claim,"((81743, 81804),)",Support
+that actually works sometimes,Claim,"((92643, 92672),)","Putting ideas on the table, working with Democrats",Claim,"((92589, 92639),)",Support
+Now they have enough for five,Premise,"((11968, 11997),)",They're racing toward a nuclear weapon,Claim,"((11999, 12037),)",Support
+"It's that he gave his time, and he has consistently",Premise,"((27926, 27977),)","When he told me this story, he said it wasn't the help, the cash help",Premise,"((27855, 27924),)",Support
+"What we said then, and what I've always agreed is let younger Americans have a voluntary choice of making their money work faster for them within the Social Security system",Premise,"((44033, 44205),)",For younger people,Premise,"((44013, 44031),)",Support
+"That's coming from a Republican Congress working bipartisanly, 7 percent rating",Premise,"((55945, 56024),)",You work with Congress,Claim,"((55868, 55890),)",Attack
+"Before the surge occurred -- so you be a little straight with me here, too -- before the surge occurred, we said they'll be out by the end of the summer",Premise,"((68859, 69011),)",Nothing political about this,Claim,"((68829, 68857),)",Support
+The vice president himself went to China and said that he sympathized and wouldn't second guess their one child policy of forced abortions and sterilizations,Premise,"((81872, 82029),)",they support it without restriction and with taxpayer funding,Claim,"((81743, 81804),)",Support
+"It's about getting 12 million jobs, higher take-home pay, getting people out of poverty into the middle class",Claim,"((92380, 92489),)",That's what our five- point plan for a stronger middle class is all about,Claim,"((92305, 92378),)",Support
+They're four years closer toward a nuclear weapons capability,Premise,"((12039, 12100),)",They're racing toward a nuclear weapon,Claim,"((11999, 12037),)",Support
+"When he told me this story, he said it wasn't the help, the cash help",Premise,"((27855, 27924),)",He cares about 100 percent of Americans in this country,Claim,"((28100, 28155),)",Support
+You saw how well that worked,Premise,"((44215, 44243),)","What we said then, and what I've always agreed is let younger Americans have a voluntary choice of making their money work faster for them within the Social Security system",Premise,"((44033, 44205),)",Attack
+"Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)","That's coming from a Republican Congress working bipartisanly, 7 percent rating",Premise,"((55945, 56024),)",Attack
+"when the president announced the surge, you'll remember, Martha, he said the surge will be out by the end of the summer",Premise,"((68667, 68786),)",Nothing political about this,Claim,"((68829, 68857),)",Support
+they support it without restriction and with taxpayer funding,Claim,"((81743, 81804),)",That to me is pretty extreme,Claim,"((82031, 82059),)",Support
+"That means going with proven, pro- growth policies that we know works to get people back to work",Claim,"((92491, 92587),)","It's about getting 12 million jobs, higher take-home pay, getting people out of poverty into the middle class",Claim,"((92380, 92489),)",Support
+Mitt Romney proposed these sanctions in 2007,Premise,"((12333, 12377),)",The administration was blocking us every step of the way,Claim,"((12443, 12499),)",Support
+"This is a man who gave 30 percent of his income to charity, more than the two of us combined",Premise,"((27980, 28072),)",He cares about 100 percent of Americans in this country,Claim,"((28100, 28155),)",Support
+What we're saying is no changes for anybody 55 and above,Premise,"((44293, 44349),)",That's not what Mitt Romney's proposing,Claim,"((44252, 44291),)",Support
+He didn't demonize them,Premise,"((56154, 56177),)","Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)",Support
+That was their recommendation in the Oval Office to the president of the United States of America,Premise,"((69292, 69389),)","There are people that are concerned, but not the Joint Chiefs",Claim,"((69229, 69290),)",Support
+I've been a practicing Catholic my whole life,Premise,"((82136, 82181),)",My religion defines who I am,Premise,"((82102, 82130),)",Support
+"Putting ideas on the table, working with Democrats",Claim,"((92589, 92639),)",That's what our five- point plan for a stronger middle class is all about,Claim,"((92305, 92378),)",Support
+"In Congress, I've been fighting for these sanctions since 2009",Premise,"((12379, 12441),)",The administration was blocking us every step of the way,Claim,"((12443, 12499),)",Support
+"We want to get people out of poverty, in the middle class, onto a life of self-sufficiently",Claim,"((28409, 28500),)",That's what we're going to push for in a Romney administration,Claim,"((28549, 28611),)",Support
+then the kinds of changes we're talking about for younger people like myself is don't increase the benefits for wealthy people as fast as everybody else,Premise,"((44403, 44555),)",What we're saying is no changes for anybody 55 and above,Premise,"((44293, 44349),)",Support
+He didn't demagogue them,Premise,"((56179, 56203),)","Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)",Support
+I sat there,Premise,"((69391, 69402),)","There are people that are concerned, but not the Joint Chiefs",Claim,"((69229, 69290),)",Support
+And has particularly informed my social doctrine,Premise,"((82183, 82231),)",My religion defines who I am,Premise,"((82102, 82130),)",Support
+I never say anything I don't mean,Claim,"((93055, 93088),)",my record stands for itself,Claim,"((93026, 93053),)",Support
+"They tried a terrorist attack in the United States last year when they tried to blow up the Saudi ambassador at a restaurant in Washington, D.C.",Premise,"((12840, 12984),)",They're stepping up their terrorist attacks,Claim,"((12795, 12838),)",Support
+We want everybody to succeed,Claim,"((28379, 28407),)",That's what we're going to push for in a Romney administration,Claim,"((28549, 28611),)",Support
+It wouldn't get to the age of 70 until the year 2103 according to the actuaries,Premise,"((44625, 44704),)",Slowly raise the retirement age over time,Premise,"((44557, 44598),)",Support
+He met with those party leaders every week,Premise,"((56205, 56247),)","Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)",Support
+I'm sure you'll find someone who disagrees with the Pentagon,Premise,"((69404, 69464),)","There are people that are concerned, but not the Joint Chiefs",Claim,"((69229, 69290),)",Support
+"The Catholic social doctrine talks about taking care of those who -- who can't take care of themselves, people who need help",Premise,"((82233, 82357),)",And has particularly informed my social doctrine,Premise,"((82183, 82231),)",Support
+"Everybody knows, whatever I say, I do",Claim,"((93090, 93127),)",my record stands for itself,Claim,"((93026, 93053),)",Support
+this administration has no credibility on this issue,Claim,"((13371, 13423),)",They're moving faster toward a nuclear weapon,Claim,"((13311, 13356),)",Support
+We believe in opportunity and upward mobility,Premise,"((28502, 28547),)",That's what we're going to push for in a Romney administration,Claim,"((28549, 28611),)",Support
+"If you're in your 20s now, you get $4,700 (inaudible) less",Premise,"((45013, 45071),)","The idea of changing, and change being in this case to cut the benefits for people without taking other action you could do to make it work is absolutely the wrong way",Claim,"((45073, 45240),)",Support
+He reached across the aisle,Premise,"((56249, 56276),)","Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)",Support
+I'm positive you'll find that within the military,Premise,"((69466, 69515),)","There are people that are concerned, but not the Joint Chiefs",Claim,"((69229, 69290),)",Support
+I accept it in my personal life,Premise,"((82541, 82572),)",Life begins at conception in the church's judgment,Premise,"((82489, 82539),)",Support
+my whole life has been devoted to leveling the playing field for middle-class people,Premise,"((93133, 93217),)",my record stands for itself,Claim,"((93026, 93053),)",Support
+this administration watered down sanctions,Claim,"((13438, 13480),)",They're moving faster toward a nuclear weapon,Claim,"((13311, 13356),)",Support
+I understand what it's like,Claim,"((28922, 28949),)",I don't doubt his personal generosity,Claim,"((28879, 28916),)",Support
+"all the studies show that if we went with Social Security proposal made by Mitt Romney, if you're 40 -- in your 40s now you will pay $2,600 a year -- you get $2,600 a year less in Social Security",Premise,"((44816, 45011),)","The idea of changing, and change being in this case to cut the benefits for people without taking other action you could do to make it work is absolutely the wrong way",Claim,"((45073, 45240),)",Support
+He didn't compromise principles,Premise,"((56278, 56309),)","Mitt Romney was governor of Massachusetts, where 87 percent of the legislators he served, which were Democrats",Premise,"((56042, 56152),)",Support
+"There are people that are concerned, but not the Joint Chiefs",Claim,"((69229, 69290),)",that's not the case here,Claim,"((69521, 69545),)",Support
+Life begins at conception in the church's judgment,Premise,"((82489, 82539),)",I believe that life begins at conception,Claim,"((80871, 80911),)",Support
+giving them an even break,Premise,"((93219, 93244),)",my whole life has been devoted to leveling the playing field for middle-class people,Premise,"((93133, 93217),)",Support
+delayed sanctions,Claim,"((13482, 13499),)",They're moving faster toward a nuclear weapon,Claim,"((13311, 13356),)",Support
+I don't doubt his personal generosity,Claim,"((28879, 28916),)",Mitt Romney's a good man,Claim,"((28074, 28098),)",Support
+these guys haven't been big on Medicare from the beginning,Premise,"((45258, 45316),)","Look, folks, use your common sense",Claim,"((45449, 45483),)",Support
+we can't afford $800 billion going to people making a minimum of $1 million,Premise,"((56880, 56955),)",They do not need it,Claim,"((56957, 56976),)",Support
+It takes -- you know -- months and months and months to draw down forces,Premise,"((69638, 69710),)",you cannot wait and have a cliff,Claim,"((69604, 69636),)",Support
+I refuse to impose it on equally devout Christians and Muslims and Jews,Premise,"((82578, 82649),)",I just refuse to impose that on others,Premise,"((82655, 82693),)",Support
+hold them to the same responsibility,Premise,"((93293, 93329),)",treating Main Street and Wall Street the same,Premise,"((93246, 93291),)",Support
+tried to stop us for putting the tough sanctions in place,Claim,"((13501, 13558),)",They're moving faster toward a nuclear weapon,Claim,"((13311, 13356),)",Support
+"the one thing you can give people solace is to know if they know you've been through it, that they can make it",Premise,"((29174, 29284),)",I have sat in the homes of many people who've gone through what I get through,Premise,"((29087, 29164),)",Support
+Their party's not been big on Medicare from the beginning,Premise,"((45318, 45375),)","Look, folks, use your common sense",Claim,"((45449, 45483),)",Support
+They do not need it,Claim,"((56957, 56976),)",Just let the taxes expire like they're supposed to on those millionaires,Claim,"((56794, 56866),)",Support
+The mountain passes fill in with snow,Premise,"((69976, 70013),)",Here's the way it works,Premise,"((69951, 69974),)",Support
+"unlike my friend here, the -- the congressman",Premise,"((82695, 82740),)",I just refuse to impose that on others,Premise,"((82655, 82693),)",Support
+treating Main Street and Wall Street the same,Premise,"((93246, 93291),)",my record stands for itself,Claim,"((93026, 93053),)",Support
+"the key is to do this peacefully, is to make sure that we have credibility",Claim,"((13696, 13770),)","Under a Romney administration, we will have credibility on this issue",Claim,"((13772, 13841),)",Support
+"When I was a little younger than the congressman, my wife was in an accident, killed my daughter and my wife, and my two sons survived",Premise,"((28951, 29085),)","the one thing you can give people solace is to know if they know you've been through it, that they can make it",Premise,"((29174, 29284),)",Support
+they've always been about Social Security as little as you can do,Premise,"((45381, 45446),)","Look, folks, use your common sense",Claim,"((45449, 45483),)",Support
+"Those 120,000 families make $8 million a year",Premise,"((56986, 57031),)",They do not need it,Claim,"((56957, 56976),)",Support
+The Taliban and the terrorists and the Haqqani and the Quetta Shura come over from Pakistan to fight our men and women,Premise,"((70015, 70133),)",Here's the way it works,Premise,"((69951, 69974),)",Support
+I just refuse to impose that on others,Premise,"((82655, 82693),)",I do not believe that we have a right to tell other people that -- women they can't control their body,Claim,"((82747, 82849),)",Support
+They're the people who grow this country,Claim,"((93389, 93429),)",It's been all about the middle class,Claim,"((93351, 93387),)",Support
+How are they going to prevent war if they say there's nothing more that we -- that they say we should do than what we've already done,Premise,"((14481, 14614),)",We want to prevent war,Claim,"((14384, 14406),)",Attack
+I have sat in the homes of many people who've gone through what I get through,Premise,"((29087, 29164),)",I don't doubt his personal commitment to individuals,Claim,"((29289, 29341),)",Support
+"a man who introduced a bill that would raise it 40 -- $6,400 a year; knowing it and passing it, and Romney saying he'd sign it",Premise,"((45513, 45639),)","Look, folks, use your common sense",Claim,"((45449, 45483),)",Support
+Middle-class people need the help,Claim,"((57033, 57066),)",They do not need it,Claim,"((56957, 56976),)",Support
+"When it fills in with snow, they can't do it",Premise,"((70135, 70179),)",Here's the way it works,Premise,"((69951, 69974),)",Support
+I do not believe that we have a right to tell other people that -- women they can't control their body,Claim,"((82747, 82849),)",That to me is pretty extreme,Claim,"((82031, 82059),)",Attack
+"We think you grow this country from the middle out, not from the top down",Claim,"((93431, 93504),)",It's been all about the middle class,Claim,"((93351, 93387),)",Support
+There is no difference between our view and theirs,Premise,"((15122, 15172),)",They are a good way away,Claim,"((15096, 15120),)",Support
+"He just -- he said, let it go bankrupt, period",Premise,"((29418, 29464),)",I know he had no commitment to the automobile industry,Claim,"((29362, 29416),)",Support
+That statistic was completely misleading,Claim,"((45674, 45714),)","Look, folks, use your common sense",Claim,"((45449, 45483),)",Attack
+"Ninety-seven percent of the small businesses make less than $250,000 a year, would not be affected",Premise,"((57767, 57865),)",He keeps trying to make you think that it's just some movie star or hedge fund guy or an actor,Claim,"((57661, 57755),)",Attack
+That's what we call fighting seasons,Premise,"((70181, 70217),)",Here's the way it works,Premise,"((69951, 69974),)",Support
+It's a decision between them and their doctor,Premise,"((82851, 82896),)",I do not believe that we have a right to tell other people that -- women they can't control their body,Claim,"((82747, 82849),)",Support
+We picked people who had an open mind,Premise,"((85343, 85380),)",We pick people who are open-minded,Premise,"((85165, 85199),)",Equivalent
+"When my friend talks about fissile material, they have to take this highly enriched uranium, get it from 20 percent up, then they have to be able to have something to put it in",Premise,"((15175, 15351),)",They are a good way away,Claim,"((15096, 15120),)",Support
+Let it drop out,Premise,"((29466, 29481),)",I know he had no commitment to the automobile industry,Claim,"((29362, 29416),)",Support
+This is what politicians do when they don't have a record to run on: try to scare people from voting for you,Claim,"((45807, 45915),)",That statistic was completely misleading,Claim,"((45674, 45714),)",Support
+"this taxes a million people, a million small businesses",Premise,"((57909, 57964),)","Ninety-seven percent of the small businesses make less than $250,000 a year, would not be affected",Premise,"((57767, 57865),)",Attack
+"In the warm months, fighting gets really high",Premise,"((70219, 70264),)",That's what we call fighting seasons,Premise,"((70181, 70217),)",Support
+I do not believe that we have a right to tell other people that -- women they can't control their body,Claim,"((82747, 82849),)","In my view and the Supreme Court, I'm not going to interfere with that",Claim,"((82898, 82968),)",Support
+There is no weapon that the Iranians have at this point,Premise,"((15353, 15408),)",They are a good way away,Claim,"((15096, 15120),)",Support
+It came from this man voting to put two wars on a credit card,Claim,"((30434, 30495),)","they talk about this Great Recession if it fell out of the sky, like, ""Oh, my goodness, where did it come from?""",Claim,"((30321, 30433),)",Support
+Medicare and Social Security did so much for my own family,Premise,"((46217, 46275),)",We're not going to run away,Claim,"((46188, 46215),)",Support
+we're not just going to cut the defense budget like they're -- they're proposing,Claim,"((58397, 58477),)",you're going to increase the defense budget,Claim,"((58250, 58293),)",Attack
+"In the winter, it goes down",Premise,"((70266, 70293),)",That's what we call fighting seasons,Premise,"((70181, 70217),)",Support
+"With regard to the assault on the Catholic church, let me make it absolutely clear, no religious institution, Catholic or otherwise, including Catholic Social Services, Georgetown Hospital, Mercy Hospital, any hospital, none has to either refer contraception, none has to pay for contraception, none has to be a vehicle to get contraception in any insurance policy they provide",Premise,"((82970, 83347),)",That is a fact,Premise,"((83366, 83380),)",Support
+"the Israelis and the United States, our military and intelligence communities are absolutely the same exact place in terms of how close -- how close the Iranians are to getting a nuclear weapon",Premise,"((14901, 15094),)",Both the Israelis and we know -- we'll know if they start the process of building a weapon,Claim,"((15410, 15500),)",Support
+"to at the same time put a prescription drug benefit on the credit card, a trillion-dollar tax cut for the very wealthy",Claim,"((30497, 30615),)","they talk about this Great Recession if it fell out of the sky, like, ""Oh, my goodness, where did it come from?""",Claim,"((30321, 30433),)",Support
+We are not going to jeopardize this program,Claim,"((46277, 46320),)",We're not going to run away,Claim,"((46188, 46215),)",Support
+They're going to increase it $2 billion,Claim,"((58489, 58528),)",we're not just going to cut the defense budget like they're -- they're proposing,Claim,"((58397, 58477),)",Attack
+"Admiral Mullen and General Petraeus came to Congress and said, if you pull these people out before the fighting season is end, it puts people more at risk",Premise,"((70308, 70462),)",That's the problem,Premise,"((70464, 70482),)",Support
+because in the past he has argued that there was -- there's rape and forcible rape,Premise,"((83518, 83600),)","Now with regard to the way in which the -- we differ, my friend says that he -- well I guess he accepts Governor Romney's position now",Claim,"((83382, 83516),)",Support
+They see this administration trying to water down sanctions in Congress for over two years,Premise,"((15986, 16076),)",Let's look at this from the view of the ayatollahs,Premise,"((15916, 15966),)",Support
+I voted against them,Premise,"((30630, 30650),)",I was there,Premise,"((30617, 30628),)",Support
+You are jeopardizing this program,Claim,"((46369, 46402),)",We are not going to jeopardize this program,Claim,"((46277, 46320),)",Attack
+"If these cuts go through, our Navy will be the smallest -- the smallest it has been since before World War I",Premise,"((59753, 59861),)",This invites weakness,Claim,"((59863, 59884),)",Support
+"the remaining troops that are there, who still have the same mission to prosecute counterinsurgency, are doing it with fewer people",Premise,"((70533, 70664),)",That makes them less safe,Claim,"((70666, 70691),)",Support
+"He's argued that in the case of rape or incest, it was still -- it would be a crime to engage in having an abortion",Premise,"((83602, 83717),)",because in the past he has argued that there was -- there's rape and forcible rape,Premise,"((83518, 83600),)",Support
+They're spinning the centrifuges faster,Premise,"((16125, 16164),)",They're moving faster toward a nuclear weapon,Premise,"((16078, 16123),)",Support
+"I said, no, we can't afford that",Premise,"((30652, 30684),)",I was there,Premise,"((30617, 30628),)",Support
+You're changing the program from a guaranteed benefit to premium support,Premise,"((46404, 46476),)",You are jeopardizing this program,Claim,"((46369, 46402),)",Support
+do we believe in peace through strength? You bet we do,Claim,"((59892, 59946),)",you don't impose these devastating cuts on our military,Claim,"((59963, 60018),)",Support
+"we drew 22,000 troops down last month",Premise,"((70490, 70527),)",That makes them less safe,Claim,"((70666, 70691),)",Support
+"Now with regard to the way in which the -- we differ, my friend says that he -- well I guess he accepts Governor Romney's position now",Claim,"((83382, 83516),)",I just fundamentally disagree with my friend,Claim,"((83719, 83763),)",Support
+"They see us saying when we come into the administration, when they're sworn in, we need more space with our ally, Israel",Premise,"((16166, 16286),)",Let's look at this from the view of the ayatollahs,Premise,"((15916, 15966),)",Support
+"now, all of a sudden, these guys are so seized with the concern about the debt that they created",Premise,"((30691, 30787),)","they talk about this Great Recession if it fell out of the sky, like, ""Oh, my goodness, where did it come from?""",Claim,"((30321, 30433),)",Support
+people are going to have to pay more money out of their pocket,Claim,"((46519, 46581),)",You are jeopardizing this program,Claim,"((46369, 46402),)",Support
+"Not increase it by a trillion, don't cut it by a trillion dollars",Claim,"((60083, 60148),)",we're saying don't cut the military by a trillion dollars,Claim,"((60024, 60081),)",Support
+"we took 22,000 people out",Premise,"((70894, 70919),)",We're sending fewer people out in all of these hotspots to do the same job that they were supposed to do a month ago,Premise,"((70728, 70844),)",Support
+"if you believe that life begins at conception, that, therefore, doesn't change the definition of life",Premise,"((83820, 83921),)",That's a principle,Premise,"((83923, 83941),)",Support
+"They see President Obama in New York City the same day Bibi Netanyahu is and he, instead of meeting with him, goes on a -- on a daily talk show",Premise,"((16288, 16431),)",Let's look at this from the view of the ayatollahs,Premise,"((15916, 15966),)",Support
+"When Barack Obama was elected, his party controlled everything",Premise,"((30884, 30946),)",they came in with one-party control,Claim,"((30847, 30882),)",Support
+"the families I know and the families I come from, they don't have the money to pay more out...",Premise,"((46586, 46680),)",You are jeopardizing this program,Claim,"((46369, 46402),)",Support
+This invites weakness,Claim,"((59863, 59884),)",we're saying don't cut the military by a trillion dollars,Claim,"((60024, 60081),)",Support
+we turned it over to the Afghan troops we trained,Premise,"((70935, 70984),)","we took 22,000 people out",Premise,"((70894, 70919),)",Support
+That's a principle,Premise,"((83923, 83941),)","The policy of a Romney administration is to oppose abortion with exceptions for rape, incest and life of the mother.",Claim,"((83943, 84059),)",Support
+"They see, when we say that these options are on the table, the secretary of defense walked them back",Premise,"((16434, 16534),)",Let's look at this from the view of the ayatollahs,Premise,"((15916, 15966),)",Support
+They had the ability to do everything of their choosing,Premise,"((30948, 31003),)","When Barack Obama was elected, his party controlled everything",Premise,"((30884, 30946),)",Support
+we're saying more for lower income people and less for higher income people,Premise,"((46712, 46787),)",people are going to have to pay more money out of their pocket,Claim,"((46519, 46581),)",Attack
+we don't cut it,Claim,"((60233, 60248),)",You don't cut defense by a trillion dollars,Claim,"((59376, 59419),)",Attack
+The fighting season that Petraeus was talking about and former -- and Admiral Mullen was the fighting season this spring,Premise,"((71103, 71223),)",he's conflating two issues,Claim,"((71075, 71101),)",Support
+"The policy of a Romney administration is to oppose abortion with exceptions for rape, incest and life of the mother.",Claim,"((83943, 84059),)",I do not believe that we have a right to tell other people that -- women they can't control their body,Claim,"((82747, 82849),)",Attack
+Let's look at this from the view of the ayatollahs,Premise,"((15916, 15966),)",They are not changing their mind,Premise,"((16537, 16569),)",Support
+It's growing at 1.3,Premise,"((31388, 31407),)",look at where we are right now,Premise,"((31009, 31039),)",Support
+He's raising the cost of Medicare,Premise,"((46995, 47028),)",I gave you a simple answer,Claim,"((46967, 46993),)",Support
+"He said, and I'm paraphrase, We've been looking for this moment for a long time",Premise,"((60511, 60590),)",let me tell you what my friend said at a press conference announcing his support of the deal,Premise,"((60417, 60509),)",Support
+No one got pulled out that didn't get filled in by trained Afghan personnel,Claim,"((70986, 71061),)",That makes them less safe,Claim,"((70666, 70691),)",Attack
+It's a different country,Premise,"((72853, 72877),)",Different country,Premise,"((72834, 72851),)",Equivalent
+they're going faster,Premise,"((16662, 16682),)",They are not changing their mind,Premise,"((16537, 16569),)",Support
+"The idea that we could borrow $831 billion, spend it on all of these special interest groups, and that it would work out just fine, that unemployment would never get to 8 percent -- it went up above 8 percent for 43 months",Premise,"((31067, 31289),)",look at where we are right now,Premise,"((31009, 31039),)",Support
+They are not denied,Claim,"((42187, 42206),)",Seniors are not denied,Claim,"((42136, 42158),)",Equivalent
+"I might add, this so-called -- I know we don't want to use the fancy word ""sequester,"" this automatic cut -- that was part of a debt deal that they asked for",Premise,"((60254, 60411),)",we don't cut it,Claim,"((60233, 60248),)",Support
+"Spring, summer, fall",Premise,"((71426, 71446),)",The calendar works the same every year,Premise,"((71306, 71344),)",Support
+five times as large geographically,Premise,"((72995, 73029),)",It is five times as large geographically,Premise,"((72879, 72919),)",Equivalent
+to do this peacefully,Premise,"((17366, 17387),)",you've got to get them to change their minds,Claim,"((17388, 17432),)",Support
+"They said that, right now, if we just passed this stimulus, the economy would grow at 4 percent",Premise,"((31291, 31386),)",They passed the stimulus,Premise,"((31041, 31065),)",Support
+"the bipartisanship is what he voted for, the automatic cuts in defense if they didn't act",Premise,"((60722, 60811),)","I might add, this so-called -- I know we don't want to use the fancy word ""sequester,"" this automatic cut -- that was part of a debt deal that they asked for",Premise,"((60254, 60411),)",Support
+"It's warm, or it's not",Premise,"((71448, 71470),)",The calendar works the same every year,Premise,"((71306, 71344),)",Support
+They're not changing their minds,Premise,"((17434, 17466),)",you've got to get them to change their minds,Claim,"((17388, 17432),)",Support
+getting the economy growing at 4 percent,Claim,"((31562, 31602),)",That's what our entire premise of our pro-growth plan for a stronger middle class is all about,Claim,"((31466, 31560),)",Support
+we don't need more M1 tanks,Claim,"((60952, 60979),)","the military says we need a smaller, leaner Army, we need more special forces",Claim,"((60862, 60939),)",Support
+It does work the same every year,Premise,"((71354, 71386),)",The calendar works the same every year,Premise,"((71306, 71344),)",Support
+The ayatollah sees his economy being crippled,Premise,"((17648, 17693),)",Let me tell you what the ayatollah sees,Premise,"((17562, 17601),)",Support
+creating 12 million jobs over the next four years,Claim,"((31604, 31653),)",That's what our entire premise of our pro-growth plan for a stronger middle class is all about,Claim,"((31466, 31560),)",Support
+what we need is more UAVs,Claim,"((60981, 61006),)","the military says we need a smaller, leaner Army, we need more special forces",Claim,"((60862, 60939),)",Support
+They're still coming over the passes,Premise,"((71499, 71535),)",They're still fighting us,Claim,"((71472, 71497),)",Support
+The ayatollah sees that there are 50 percent fewer exports of oil,Premise,"((17695, 17760),)",Let me tell you what the ayatollah sees,Premise,"((17562, 17601),)",Support
+$90 billion in green pork to campaign contributors and special interest groups,Claim,"((31750, 31828),)",Look at just the $90 billion in stimulus,Claim,"((31655, 31695),)",Support
+Not some of the military,Claim,"((61062, 61086),)",Some of the military,Claim,"((61019, 61039),)",Attack
+"They're still coming into Zabul, to Kunar, to all of these areas, but we are sending fewer people to the front to fight them",Premise,"((71537, 71661),)",They're still fighting us,Claim,"((71472, 71497),)",Support
+He sees the currency going into the tank,Premise,"((17762, 17802),)",Let me tell you what the ayatollah sees,Premise,"((17562, 17601),)",Support
+The vice president was in charge of overseeing this,Premise,"((31697, 31748),)",Look at just the $90 billion in stimulus,Claim,"((31655, 31695),)",Support
+"That was the decision of the Joint Chiefs of Staff, recommended to us and agreed to by the president",Premise,"((61088, 61188),)",That is a fact,Premise,"((61190, 61204),)",Support
+They're still fighting us,Claim,"((71472, 71497),)",No one got pulled out that didn't get filled in by trained Afghan personnel,Claim,"((70986, 71061),)",Attack
+He sees the economy going into freefall,Premise,"((17804, 17843),)",Let me tell you what the ayatollah sees,Premise,"((17562, 17601),)",Support
+They found no evidence of cronyism,Premise,"((32281, 32315),)",$90 billion in green pork to campaign contributors and special interest groups,Claim,"((31750, 31828),)",Attack
+That is a fact,Premise,"((61190, 61204),)",Not some of the military,Claim,"((61062, 61086),)",Support
+We've trained them,Premise,"((71754, 71772),)",that's the Afghan responsibility,Claim,"((71720, 71752),)",Support
+He's spoken to Bibi Netanyahu as much as he's spoken to anybody,Premise,"((18052, 18115),)","with regard to Bibi, who's been my friend 39 years, the president has met with Bibi a dozen times",Premise,"((17953, 18050),)",Support
+Months and months,Premise,"((32262, 32279),)",They found no evidence of cronyism,Premise,"((32281, 32315),)",Support
+They made the recommendation first,Premise,"((61258, 61292),)",Who answers to a civilian leader,Premise,"((61216, 61248),)",Attack
+"We are already sending Americans to do the job, but fewer of them",Claim,"((72219, 72284),)",That's the whole problem,Claim,"((72286, 72310),)",Support
+"I was in a, just before he went to the U.N., I was in a conference call with the -- with the president, with him talking to Bibi for well over an hour, in -- in -- in stark relief and detail of what was going on",Premise,"((18144, 18355),)",He's spoken to Bibi Netanyahu as much as he's spoken to anybody,Premise,"((18052, 18115),)",Support
+"that program, again, investigated",Premise,"((33125, 33158),)",Less than four-tenths of 1 percent waste or fraud in the program,Claim,"((33203, 33267),)",Support
+Who answers to a civilian leader,Premise,"((61216, 61248),)","That was the decision of the Joint Chiefs of Staff, recommended to us and agreed to by the president",Premise,"((61088, 61188),)",Support
+"We're sending in more Afghans to do the job, Afghans to do the job",Claim,"((72334, 72400),)",He is right,Claim,"((20488, 20499),)",Support
+"The secretary of defense has made it absolutely clear, we didn't walk anything back",Premise,"((18690, 18773),)","They see, when we say that these options are on the table, the secretary of defense walked them back",Premise,"((16434, 16534),)",Attack
+What the Congress said was it was a model,Premise,"((33160, 33201),)",Less than four-tenths of 1 percent waste or fraud in the program,Claim,"((33203, 33267),)",Support
+you're going to increase the defense budget,Claim,"((58250, 58293),)",you're going to increase the defense budget,Claim,"((58250, 58293),)",Equivalent
+What we don't want to do is lose the gains we've gotten,Claim,"((62738, 62793),)",We don't want to lose the gains we've gotten,Claim,"((61905, 61949),)",Equivalent
+Iran is more isolated today than when we took office,Claim,"((19025, 19077),)",Let's all calm down a little bit here,Claim,"((18986, 19023),)",Support
+"They investigated and investigated, did not find one single piece of evidence",Premise,"((33304, 33381),)","that program, again, investigated",Premise,"((33125, 33158),)",Support
+It is the responsibility of the Afghans to take care of their own security,Claim,"((64238, 64312),)",It's their responsibility to take over their own security,Claim,"((63928, 63985),)",Equivalent
+They don't have a weapon to put it into,Claim,"((18945, 18984),)",Let's all calm down a little bit here,Claim,"((18986, 19023),)",Support
+Moody's and others said that this was exactly what we needed to stop this from going off the cliff,Premise,"((33765, 33863),)",It was a good idea,Claim,"((33745, 33763),)",Support
+It is totally isolated,Premise,"((19125, 19147),)",Iran is more isolated today than when we took office,Claim,"((19025, 19077),)",Support
+It set the conditions to be able to grow again,Premise,"((33865, 33911),)",It was a good idea,Claim,"((33745, 33763),)",Support
+It was on the ascendancy when we took office,Premise,"((19079, 19123),)",Iran is more isolated today than when we took office,Claim,"((19025, 19077),)",Support
+"We have, in fact, 4 percent of those green jobs didn't go under -- went under, didn't work",Premise,"((33913, 34003),)",It set the conditions to be able to grow again,Premise,"((33865, 33911),)",Support
+They've given 20 waivers to this sanction,Premise,"((19345, 19386),)",It's in spite of their opposition,Premise,"((19286, 19319),)",Support
+We're heading in the wrong direction,Claim,"((26396, 26432),)",we're going in the wrong direction,Claim,"((26088, 26122),)",Equivalent
+They're four years closer toward a nuclear weapon,Claim,"((19432, 19481),)",I think that case speaks for itself,Claim,"((19483, 19518),)",Support
+they are not four years closer to a nuclear weapon,Claim,"((19677, 19727),)",They're four years closer toward a nuclear weapon,Claim,"((19432, 19481),)",Attack
+they're closer to being able to get enough fissile material to put in a weapon if they had a weapon,Premise,"((19775, 19874),)",Of course they are,Claim,"((19736, 19754),)",Support
+It could prove catastrophic,Claim,"((20501, 20528),)",He is right,Claim,"((20488, 20499),)",Support
+if we didn't do it with precision,Premise,"((20530, 20563),)",It could prove catastrophic,Claim,"((20501, 20528),)",Support
+that's the problem,Claim,"((21441, 21459),)","when they see this kind of activity, they are encouraged to continue",Claim,"((21367, 21435),)",Support
+"When they see Russia watering down any further sanctions, the only reason we got a U.N. sanction is because Russia watered it down and prevented these central bank sanctions in the first place",Premise,"((21170, 21362),)","when they see this kind of activity, they are encouraged to continue",Claim,"((21367, 21435),)",Support
+"when they see us putting daylight between ourselves and our allies in Israel, that gives them encouragement",Premise,"((21061, 21168),)","when they see this kind of activity, they are encouraged to continue",Claim,"((21367, 21435),)",Support
+"The ayatollahs see these kinds of statements and they think, ""I'm going to get a nuclear weapon.""",Claim,"((20743, 20840),)","when they see this kind of activity, they are encouraged to continue",Claim,"((21367, 21435),)",Support
+This is the world's largest sponsor of -- of terrorism,Premise,"((21813, 21867),)",I'll tell you what's worse. A nuclear-armed Iran which triggers a nuclear arms race in the Middle East,Claim,"((21683, 21711), (21737, 21811))",Support
+They've dedicated themselves to wiping an entire country off the map,Premise,"((21869, 21897), (21925, 21964))",This is the world's largest sponsor of -- of terrorism,Premise,"((21813, 21867),)",Support
+They call us the Great Satan,Premise,"((21966, 21994),)",This is the world's largest sponsor of -- of terrorism,Premise,"((21813, 21867),)",Support
+"if they get nuclear weapons, other people in the neighborhood will pursue their nuclear weapons, as well",Premise,"((22000, 22104),)",I'll tell you what's worse. A nuclear-armed Iran which triggers a nuclear arms race in the Middle East,Claim,"((21683, 21711), (21737, 21811))",Support
+"we've made it clear, big nations can't bluff",Premise,"((22569, 22613),)",This president doesn't bluff,Claim,"((22615, 22643),)",Support
+The intelligence community told us that,Claim,"((8469, 8508),)",that was exactly what we were told by the intelligence community,Claim,"((8403, 8467),)",Equivalent
+"when it comes to speaking up for our values, we should not apologize for those",Claim,"((10866, 10944),)",what we should not be apologizing for are standing up for our values,Claim,"((10003, 10071),)",Equivalent
+Facts matter,Premise,"((20051, 20063),)",facts matter,Premise,"((19997, 20009),)",Equivalent
+That matters,Claim,"((20341, 20353),)",that matters,Claim,"((20327, 20339),)",Equivalent

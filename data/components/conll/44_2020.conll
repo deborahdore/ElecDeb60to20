@@ -1,4 +1,3 @@
-
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
@@ -36,7 +35,8 @@ Presidential	_	_	O
 Debates	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 Susan	_	_	O
 Page	_	_	O
 of	_	_	O
@@ -73,7 +73,8 @@ distant	_	_	O
 audience	_	_	O
 and	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 taken	_	_	O
 extra	_	_	O
 precautions	_	_	O
@@ -116,7 +117,8 @@ candidates	_	_	O
 ,	_	_	O
 but	_	_	O
 they	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 agreed	_	_	O
 to	_	_	O
 express	_	_	O
@@ -153,11 +155,9 @@ Mike	_	_	O
 Pence	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 Senator	_	_	O
 Harris	_	_	O
@@ -172,7 +172,8 @@ being	_	_	O
 here	_	_	O
 .	_	_	O
 We	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 meeting	_	_	O
 as	_	_	O
 President	_	_	O
@@ -191,7 +192,9 @@ after	_	_	O
 testing	_	_	O
 positive	_	_	O
 for	_	_	O
-COVID-19	_	_	O
+COVID	_	_	O
+-	_	_	O
+19	_	_	O
 .	_	_	O
 We	_	_	O
 send	_	_	O
@@ -237,7 +240,8 @@ for	_	_	O
 tonight	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 here	_	_	O
 to	_	_	O
 enforce	_	_	O
@@ -277,13 +281,15 @@ advance	_	_	O
 what	_	_	O
 topics	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 raise	_	_	O
 or	_	_	O
 what	_	_	O
 questions	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 ask	_	_	O
 .	_	_	O
 This	_	_	O
@@ -304,7 +310,8 @@ minutes	_	_	O
 each	_	_	O
 .	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 begin	_	_	O
 a	_	_	O
 segment	_	_	O
@@ -351,7 +358,8 @@ candidate	_	_	O
 .	_	_	O
 Then	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 take	_	_	O
 six	_	_	O
 minutes	_	_	O
@@ -376,7 +384,8 @@ to	_	_	O
 say	_	_	O
 ,	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 move	_	_	O
 on	_	_	O
 to	_	_	O
@@ -425,7 +434,8 @@ our	_	_	O
 nation	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 begin	_	_	O
 with	_	_	O
 the	_	_	O
@@ -513,8 +523,9 @@ that	_	_	O
 a	_	_	O
 Trump	_	_	O
 administration	_	_	O
-would	_	_	O
-n’t	_	_	O
+wouldn	_	_	O
+’	_	_	O
+t	_	_	O
 do	_	_	O
 ?	_	_	O
 Would	_	_	O
@@ -546,7 +557,6 @@ respond	_	_	O
 without	_	_	O
 interruption	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -580,8 +590,10 @@ here	_	_	B-Claim
 are	_	_	I-Claim
 the	_	_	I-Claim
 facts	_	_	I-Claim
-.	_	_	I-Claim
-210,000	_	_	B-Premise
+.	_	_	O
+210	_	_	B-Premise
+,	_	_	I-Premise
+000	_	_	I-Premise
 dead	_	_	I-Premise
 people	_	_	I-Premise
 in	_	_	I-Premise
@@ -593,7 +605,7 @@ the	_	_	I-Premise
 last	_	_	I-Premise
 several	_	_	I-Premise
 months	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Over	_	_	O
 7	_	_	O
 million	_	_	O
@@ -611,7 +623,8 @@ businesses	_	_	O
 closed	_	_	O
 .	_	_	O
 We	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 looking	_	_	O
 at	_	_	O
 frontline	_	_	O
@@ -646,7 +659,8 @@ unemployment	_	_	O
 .	_	_	O
 And	_	_	O
 here	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 thing	_	_	O
 ,	_	_	O
@@ -674,7 +688,8 @@ were	_	_	O
 informed	_	_	O
 that	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 lethal	_	_	O
 in	_	_	O
 consequence	_	_	O
@@ -710,8 +725,9 @@ happening	_	_	O
 ,	_	_	O
 and	_	_	O
 they	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 tell	_	_	O
 you	_	_	O
 .	_	_	O
@@ -769,7 +785,8 @@ The	_	_	O
 president	_	_	O
 said	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 on	_	_	O
 one	_	_	O
 side	_	_	O
@@ -783,7 +800,8 @@ a	_	_	O
 mask	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 on	_	_	O
 the	_	_	O
 other	_	_	O
@@ -793,8 +811,9 @@ his	_	_	O
 ledger	_	_	O
 if	_	_	O
 you	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 .	_	_	O
 And	_	_	O
 in	_	_	O
@@ -807,16 +826,18 @@ that	_	_	O
 today	_	_	O
 they	_	_	O
 still	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 have	_	_	O
 a	_	_	O
 plan	_	_	O
 .	_	_	O
 They	_	_	O
 still	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 have	_	_	O
 a	_	_	O
 plan	_	_	O
@@ -826,7 +847,7 @@ Well	_	_	O
 Joe	_	_	B-Claim
 Biden	_	_	I-Claim
 does	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 our	_	_	B-Premise
 plan	_	_	I-Premise
@@ -863,7 +884,7 @@ be	_	_	I-Premise
 free	_	_	I-Premise
 for	_	_	I-Premise
 all	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 That	_	_	O
 is	_	_	O
 the	_	_	O
@@ -926,9 +947,9 @@ on	_	_	O
 this	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
-you-	_	_	O
+you	_	_	O
+-	_	_	O
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -947,12 +968,16 @@ Pence	_	_	O
 ,	_	_	O
 more	_	_	O
 than	_	_	O
-210,000	_	_	O
+210	_	_	O
+,	_	_	O
+000	_	_	O
 Americans	_	_	O
 have	_	_	O
 died	_	_	O
 of	_	_	O
-COVID-19	_	_	O
+COVID	_	_	O
+-	_	_	O
+19	_	_	O
 since	_	_	O
 February	_	_	O
 .	_	_	O
@@ -1002,7 +1027,8 @@ You	_	_	O
 head	_	_	O
 the	_	_	O
 administration	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 Coronavirus	_	_	O
 Task	_	_	O
 Force	_	_	O
@@ -1010,7 +1036,10 @@ Force	_	_	O
 Why	_	_	O
 is	_	_	O
 the	_	_	O
-U.S.	_	_	O
+U	_	_	O
+.	_	_	O
+S	_	_	O
+.	_	_	O
 death	_	_	O
 toll	_	_	O
 ,	_	_	O
@@ -1043,7 +1072,6 @@ without	_	_	O
 interruption	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 thank	_	_	O
 you	_	_	O
@@ -1070,7 +1098,8 @@ Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 privilege	_	_	O
 to	_	_	O
@@ -1118,7 +1147,7 @@ health	_	_	I-Claim
 of	_	_	I-Claim
 America	_	_	I-Claim
 first	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Before	_	_	O
 there	_	_	O
 were	_	_	O
@@ -1151,7 +1180,7 @@ president	_	_	I-Claim
 had	_	_	I-Claim
 ever	_	_	I-Claim
 done	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 that	_	_	O
 was	_	_	O
@@ -1179,7 +1208,7 @@ Biden	_	_	I-Claim
 opposed	_	_	I-Claim
 that	_	_	I-Claim
 decision	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	O
 said	_	_	O
 it	_	_	O
@@ -1230,7 +1259,8 @@ And	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 it	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 saved	_	_	I-Claim
 hundreds	_	_	I-Claim
 of	_	_	I-Claim
@@ -1238,7 +1268,7 @@ thousands	_	_	I-Claim
 of	_	_	I-Claim
 American	_	_	I-Claim
 lives	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
 with	_	_	B-Premise
 that	_	_	I-Premise
@@ -1249,7 +1279,7 @@ able	_	_	I-Premise
 to	_	_	I-Premise
 reinvent	_	_	I-Premise
 testing	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 More	_	_	O
 than	_	_	O
 115	_	_	O
@@ -1309,7 +1339,9 @@ develop	_	_	O
 medicines	_	_	O
 and	_	_	O
 therapeutics	_	_	O
-that’ve	_	_	O
+that	_	_	O
+’	_	_	O
+ve	_	_	O
 been	_	_	O
 saving	_	_	O
 lives	_	_	O
@@ -1322,7 +1354,8 @@ And	_	_	O
 under	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 leadership	_	_	O
 ,	_	_	O
 Operation	_	_	O
@@ -1472,24 +1505,26 @@ have	_	_	O
 made	_	_	O
 .	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 saved	_	_	O
 countless	_	_	O
 American	_	_	O
 lives	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Vice	_	_	O
-Pres-	_	_	O
+Pres	_	_	O
+-	_	_	O
 Thank	_	_	O
 you	_	_	O
 Vice	_	_	O
 President	_	_	O
-Pence-	_	_	O
+Pence	_	_	O
+-	_	_	O
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -1507,7 +1542,6 @@ to	_	_	O
 respond	_	_	O
 ?	_	_	O
 
-
 Oh	_	_	O
 ,	_	_	O
 absolutely	_	_	O
@@ -1516,7 +1550,8 @@ Whatever	_	_	O
 the	_	_	O
 Vice	_	_	O
 President	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 claiming	_	_	O
 the	_	_	O
 administration	_	_	O
@@ -1525,16 +1560,20 @@ done	_	_	O
 ,	_	_	O
 clearly	_	_	O
 it	_	_	O
-has	_	_	O
-n’t	_	_	O
+hasn	_	_	O
+’	_	_	O
+t	_	_	O
 worked	_	_	O
 when	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 looking	_	_	O
 at	_	_	O
 over	_	_	O
-210,000	_	_	O
+210	_	_	O
+,	_	_	O
+000	_	_	O
 dead	_	_	O
 bodies	_	_	O
 in	_	_	O
@@ -1615,9 +1654,11 @@ asked	_	_	O
 Well	_	_	O
 ,	_	_	O
 why	_	_	O
-did	_	_	O
-n’t	_	_	O
-y’	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
+y	_	_	O
+’	_	_	O
 all	_	_	O
 tell	_	_	O
 anybody	_	_	O
@@ -1638,14 +1679,13 @@ calm	_	_	O
 ’	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 go	_	_	O
 –	_	_	O
-
 
 No	_	_	O
 ,	_	_	O
@@ -1660,7 +1700,6 @@ is	_	_	O
 important	_	_	O
 –	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1671,16 +1710,16 @@ in	_	_	O
 here	_	_	O
 –	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 have	_	_	O
@@ -1689,15 +1728,14 @@ weigh	_	_	O
 in	_	_	O
 –	_	_	O
 
-
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
 I	_	_	O
 wanna	_	_	O
 –	_	_	O
-
 
 You	_	_	O
 have	_	_	O
@@ -1707,7 +1745,8 @@ seconds	_	_	O
 and	_	_	O
 then	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 give	_	_	O
 the	_	_	O
 vice	_	_	O
@@ -1717,7 +1756,6 @@ chance	_	_	O
 to	_	_	O
 respond	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -1742,7 +1780,8 @@ panicked	_	_	O
 about	_	_	O
 where	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 get	_	_	O
@@ -1767,8 +1806,9 @@ from	_	_	O
 school	_	_	O
 and	_	_	O
 you	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 know	_	_	O
 when	_	_	O
 they	_	_	O
@@ -1776,7 +1816,6 @@ could	_	_	O
 go	_	_	O
 back	_	_	O
 ?	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -1788,7 +1827,6 @@ Senator	_	_	O
 Harris	_	_	O
 –	_	_	O
 
-
 How	_	_	O
 calm	_	_	O
 were	_	_	O
@@ -1796,8 +1834,9 @@ you	_	_	O
 when	_	_	O
 your	_	_	O
 children	_	_	O
-could	_	_	O
-n’t	_	_	O
+couldn	_	_	O
+’	_	_	O
+t	_	_	O
 see	_	_	O
 your	_	_	O
 parents	_	_	O
@@ -1811,9 +1850,9 @@ kill	_	_	O
 them	_	_	O
 ?	_	_	O
 
-
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 give	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -1835,11 +1874,11 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-
 You	_	_	O
 know	_	_	O
 there	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 not	_	_	O
 a	_	_	O
 day	_	_	O
@@ -1847,15 +1886,17 @@ gone	_	_	O
 by	_	_	O
 that	_	_	O
 I	_	_	O
-have	_	_	O
-n’t	_	_	O
+haven	_	_	O
+’	_	_	O
+t	_	_	O
 thought	_	_	O
 of	_	_	O
 every	_	_	O
 American	_	_	O
 family	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 lost	_	_	O
 a	_	_	O
 loved	_	_	O
@@ -1871,7 +1912,8 @@ to	_	_	O
 know	_	_	O
 that	_	_	O
 you	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 always	_	_	O
 be	_	_	O
 in	_	_	O
@@ -1897,12 +1939,14 @@ these	_	_	I-Premise
 last	_	_	I-Premise
 eight	_	_	I-Premise
 months	_	_	I-Premise
-has	_	_	I-Premise
-n’t	_	_	I-Premise
+hasn	_	_	I-Premise
+’	_	_	I-Premise
+t	_	_	I-Premise
 worked	_	_	I-Premise
 ,	_	_	O
 that	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 a	_	_	I-Claim
 great	_	_	I-Claim
 disservice	_	_	I-Claim
@@ -1914,17 +1958,16 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 have	_	_	I-Claim
 made	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 referring	_	_	O
 to	_	_	O
 your	_	_	O
 president	_	_	O
 .	_	_	O
-
 
 The	_	_	O
 reality	_	_	O
@@ -1943,7 +1986,8 @@ Senator	_	_	O
 The	_	_	O
 reality	_	_	O
 is	_	_	O
-Dr.	_	_	O
+Dr	_	_	O
+.	_	_	O
 Fauci	_	_	O
 said	_	_	O
 everything	_	_	O
@@ -1986,7 +2030,8 @@ with	_	_	O
 confidence	_	_	O
 that	_	_	O
 we	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 get	_	_	O
 through	_	_	O
 this	_	_	O
@@ -1997,15 +2042,18 @@ when	_	_	O
 you	_	_	O
 say	_	_	O
 it	_	_	O
-has	_	_	O
-n’t	_	_	O
+hasn	_	_	O
+’	_	_	O
+t	_	_	O
 worked	_	_	O
 –	_	_	O
 when	_	_	O
-Dr.	_	_	O
+Dr	_	_	O
+.	_	_	O
 Fauci	_	_	O
 and	_	_	O
-Dr.	_	_	O
+Dr	_	_	O
+.	_	_	O
 Birks	_	_	O
 and	_	_	O
 our	_	_	O
@@ -2026,8 +2074,9 @@ said	_	_	O
 if	_	_	O
 the	_	_	O
 President	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 take	_	_	O
 the	_	_	O
 unprecedented	_	_	O
@@ -2045,16 +2094,18 @@ that	_	_	O
 we	_	_	O
 could	_	_	O
 lose	_	_	O
-2.2	_	_	O
+2	_	_	O
+.	_	_	O
+2	_	_	O
 million	_	_	O
 Americans	_	_	O
 .	_	_	O
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 reality	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -2066,7 +2117,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 They	_	_	O
 also	_	_	O
@@ -2087,16 +2137,16 @@ still	_	_	O
 lose	_	_	O
 more	_	_	O
 than	_	_	O
-200,000	_	_	O
+200	_	_	O
+,	_	_	O
+000	_	_	O
 Americans	_	_	O
 .	_	_	O
-
 
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 Now	_	_	O
 ,	_	_	O
@@ -2110,11 +2160,9 @@ many	_	_	I-Claim
 Susan	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
-
 
 But	_	_	O
 the	_	_	B-Claim
@@ -2156,7 +2204,6 @@ first	_	_	I-Claim
 responders	_	_	I-Claim
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2165,11 +2212,11 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 and	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 going	_	_	O
 to	_	_	O
 speak	_	_	O
@@ -2184,7 +2231,6 @@ people	_	_	O
 have	_	_	O
 done	_	_	O
 .	_	_	O
-
 
 Vice	_	_	O
 President	_	_	O
@@ -2272,7 +2318,6 @@ doing	_	_	O
 so	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -2291,7 +2336,8 @@ given	_	_	O
 the	_	_	O
 facts	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 willing	_	_	O
 to	_	_	O
 put	_	_	O
@@ -2307,8 +2353,9 @@ neighbors	_	_	O
 and	_	_	O
 people	_	_	O
 they	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 even	_	_	O
 know	_	_	O
 first	_	_	O
@@ -2352,7 +2399,9 @@ a	_	_	O
 heartbreaking	_	_	O
 number	_	_	O
 of	_	_	O
-2,500	_	_	O
+2	_	_	O
+,	_	_	O
+500	_	_	O
 Americans	_	_	O
 a	_	_	O
 day	_	_	O
@@ -2448,11 +2497,11 @@ Coney	_	_	O
 Barrett	_	_	O
 –	_	_	O
 
-
 Yes	_	_	O
 ,	_	_	O
 thank	_	_	O
-you-	_	_	O
+you	_	_	O
+-	_	_	O
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2461,9 +2510,9 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 At	_	_	O
-that-	_	_	O
+that	_	_	O
+-	_	_	O
 If	_	_	O
 I	_	_	O
 may	_	_	O
@@ -2475,7 +2524,8 @@ Garden	_	_	O
 event	_	_	O
 ,	_	_	O
 there	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 been	_	_	O
 a	_	_	O
 great	_	_	O
@@ -2587,9 +2637,9 @@ New	_	_	O
 Deal	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
-you-	_	_	O
+you	_	_	O
+-	_	_	O
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -2598,14 +2648,14 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 all	_	_	O
 government	_	_	O
 control	_	_	O
 .	_	_	O
 We	_	_	B-Claim
-’re	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
 about	_	_	I-Claim
 freedom	_	_	I-Claim
 and	_	_	I-Claim
@@ -2616,11 +2666,11 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 respecting	_	_	O
@@ -2639,7 +2689,7 @@ tell	_	_	I-Claim
 them	_	_	I-Claim
 the	_	_	I-Claim
 truth	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 respect	_	_	O
 the	_	_	O
@@ -2656,14 +2706,13 @@ a	_	_	O
 leader	_	_	O
 –	_	_	O
 
-
 Which	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 always	_	_	O
 done	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 speaking	_	_	O
@@ -2711,8 +2760,9 @@ a	_	_	O
 worker	_	_	O
 knowing	_	_	O
 you	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 have	_	_	O
 enough	_	_	O
 money	_	_	O
@@ -2722,7 +2772,8 @@ up	_	_	O
 and	_	_	O
 now	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 standing	_	_	O
 in	_	_	O
 a	_	_	O
@@ -2749,7 +2800,8 @@ people	_	_	O
 .	_	_	O
 So	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 caring	_	_	O
@@ -2787,7 +2839,6 @@ the	_	_	O
 people	_	_	O
 –	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -2798,12 +2849,10 @@ American	_	_	O
 people	_	_	O
 –	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 It	_	_	O
@@ -2837,18 +2886,17 @@ their	_	_	O
 children	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 the	_	_	O
 president	_	_	O
 –	_	_	O
 
-
 No	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 .	_	_	O
 Kamala	_	_	O
@@ -2861,27 +2909,29 @@ I	_	_	O
 mean	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 .	_	_	O
 
-
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 fine	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 Kamala	_	_	O
 .	_	_	O
-
 
 No	_	_	O
 ,	_	_	O
 no	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 Senator	_	_	O
 Harris	_	_	O
 to	_	_	O
@@ -2894,7 +2944,8 @@ get	_	_	O
 back	_	_	O
 to	_	_	O
 normal	_	_	O
-Dr.	_	_	O
+Dr	_	_	O
+.	_	_	O
 Anthony	_	_	O
 Fauci	_	_	O
 and	_	_	O
@@ -2922,8 +2973,9 @@ Americans	_	_	O
 now	_	_	O
 say	_	_	O
 they	_	_	O
-would	_	_	O
-n’t	_	_	O
+wouldn	_	_	O
+’	_	_	O
+t	_	_	O
 take	_	_	O
 a	_	_	O
 vaccine	_	_	O
@@ -2958,7 +3010,6 @@ take	_	_	O
 it	_	_	O
 ?	_	_	O
 
-
 If	_	_	O
 the	_	_	O
 public	_	_	O
@@ -2966,7 +3017,8 @@ health	_	_	O
 professionals	_	_	O
 ,	_	_	O
 if	_	_	O
-Dr.	_	_	O
+Dr	_	_	O
+.	_	_	O
 Fauci	_	_	O
 ,	_	_	O
 if	_	_	B-Premise
@@ -2981,7 +3033,8 @@ take	_	_	I-Premise
 it	_	_	I-Premise
 ,	_	_	O
 I	_	_	B-Claim
-’ll	_	_	I-Claim
+’	_	_	I-Claim
+ll	_	_	I-Claim
 be	_	_	I-Claim
 the	_	_	I-Claim
 first	_	_	I-Claim
@@ -2990,7 +3043,7 @@ line	_	_	I-Claim
 to	_	_	I-Claim
 take	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Absolutely	_	_	O
 .	_	_	O
 But	_	_	O
@@ -3006,12 +3059,12 @@ take	_	_	I-Premise
 it	_	_	I-Premise
 ,	_	_	O
 I	_	_	B-Claim
-’m	_	_	I-Claim
+’	_	_	I-Claim
+m	_	_	I-Claim
 not	_	_	I-Claim
 taking	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Vice	_	_	O
 President	_	_	O
@@ -3034,10 +3087,13 @@ days	_	_	O
 ,	_	_	O
 the	_	_	O
 president	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 diagnosis	_	_	O
 of	_	_	O
-COVID-19	_	_	O
+COVID	_	_	O
+-	_	_	O
+19	_	_	O
 has	_	_	O
 underscored	_	_	O
 the	_	_	O
@@ -3056,14 +3112,16 @@ are	_	_	O
 seeking	_	_	O
 .	_	_	O
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 our	_	_	O
 second	_	_	O
 topic	_	_	O
 tonight	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 role	_	_	O
 of	_	_	O
@@ -3138,7 +3196,8 @@ sharpened	_	_	O
 by	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 hospitalization	_	_	O
 in	_	_	O
 recent	_	_	O
@@ -3192,7 +3251,6 @@ without	_	_	O
 interruption	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Susan	_	_	O
@@ -3209,7 +3267,6 @@ go	_	_	O
 back	_	_	O
 –	_	_	O
 
-
 I	_	_	O
 think	_	_	O
 we	_	_	O
@@ -3225,7 +3282,6 @@ the	_	_	O
 vice	_	_	O
 presidency	_	_	O
 –	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -3246,7 +3302,8 @@ reality	_	_	O
 is	_	_	O
 that	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 have	_	_	O
@@ -3282,7 +3339,8 @@ trials	_	_	O
 .	_	_	O
 And	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 right	_	_	O
 now	_	_	O
 producing	_	_	O
@@ -3333,7 +3391,8 @@ playing	_	_	O
 politics	_	_	O
 with	_	_	O
 people	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 lives	_	_	O
 .	_	_	O
 The	_	_	O
@@ -3381,7 +3440,8 @@ is	_	_	O
 just	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 just	_	_	O
 unacceptable	_	_	O
 .	_	_	O
@@ -3514,7 +3574,7 @@ lost	_	_	I-Claim
 million	_	_	I-Claim
 American	_	_	I-Claim
 lives	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 His	_	_	O
 own	_	_	O
 Chief	_	_	O
@@ -3575,7 +3635,6 @@ I	_	_	O
 think	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -3593,16 +3652,15 @@ is	_	_	O
 up	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 the	_	_	O
 American	_	_	O
 people	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+m	_	_	O
+gonna	_	_	O
 say	_	_	O
 again	_	_	O
 ,	_	_	O
@@ -3616,13 +3674,13 @@ have	_	_	O
 done	_	_	O
 –	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 .	_	_	O
 Your	_	_	O
@@ -3638,7 +3696,6 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 and	_	_	O
 ,	_	_	O
@@ -3652,7 +3709,6 @@ in	_	_	O
 a	_	_	O
 vaccine	_	_	O
 .	_	_	O
-
 
 Senator	_	_	O
 Harris	_	_	O
@@ -3728,7 +3784,6 @@ minutes	_	_	O
 ,	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
-
 
 So	_	_	O
 let	_	_	O
@@ -3825,7 +3880,8 @@ the	_	_	O
 thought	_	_	O
 that	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 be	_	_	O
 sitting	_	_	O
 here	_	_	O
@@ -4057,7 +4113,8 @@ Intelligence	_	_	O
 Committee	_	_	O
 where	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 been	_	_	O
 in	_	_	O
 regular	_	_	O
@@ -4077,13 +4134,15 @@ the	_	_	O
 world	_	_	O
 .	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 traveled	_	_	O
 the	_	_	O
 world	_	_	O
 .	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 met	_	_	O
 with	_	_	O
 our	_	_	O
@@ -4126,7 +4185,7 @@ up	_	_	I-Premise
 the	_	_	I-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 after	_	_	O
 the	_	_	O
@@ -4150,7 +4209,6 @@ values	_	_	O
 and	_	_	O
 principles	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -4195,7 +4253,8 @@ days	_	_	O
 ,	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 doctors	_	_	O
 have	_	_	O
 given	_	_	O
@@ -4244,7 +4303,6 @@ go	_	_	O
 first	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Susan	_	_	O
@@ -4272,7 +4330,8 @@ Lady	_	_	O
 how	_	_	O
 moved	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 all	_	_	O
 been	_	_	O
 by	_	_	O
@@ -4291,7 +4350,8 @@ I	_	_	O
 do	_	_	O
 believe	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 emblematic	_	_	O
 of	_	_	O
 the	_	_	O
@@ -4363,7 +4423,8 @@ President	_	_	O
 .	_	_	O
 And	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 continue	_	_	O
 to	_	_	O
 do	_	_	O
@@ -4371,7 +4432,8 @@ that	_	_	O
 .	_	_	O
 But	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 just	_	_	O
 extremely	_	_	O
 grateful	_	_	O
@@ -4436,11 +4498,9 @@ your	_	_	O
 nomination	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 never	_	_	O
@@ -4465,7 +4525,8 @@ reality	_	_	O
 is	_	_	O
 ,	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 got	_	_	O
 an	_	_	O
 election	_	_	O
@@ -4490,7 +4551,6 @@ never	_	_	O
 been	_	_	O
 higher	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -4543,7 +4603,8 @@ presidents	_	_	O
 especially	_	_	O
 when	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 facing	_	_	O
 some	_	_	O
 kind	_	_	O
@@ -4551,12 +4612,12 @@ of	_	_	O
 challenge	_	_	O
 ?	_	_	O
 
-
 Absolutely	_	_	O
 .	_	_	O
 And	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 why	_	_	O
 Joe	_	_	O
 Biden	_	_	O
@@ -4587,7 +4648,8 @@ records	_	_	O
 but	_	_	O
 also	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 look	_	_	O
 at	_	_	O
 taxes	_	_	O
@@ -4623,7 +4685,9 @@ said	_	_	O
 You	_	_	O
 mean	_	_	O
 $	_	_	O
-750,000	_	_	O
+750	_	_	O
+,	_	_	O
+000	_	_	O
 ?	_	_	O
 ”	_	_	O
 .	_	_	O
@@ -4673,7 +4737,8 @@ somebody	_	_	O
 .	_	_	O
 And	_	_	O
 it	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 be	_	_	O
 really	_	_	O
 good	_	_	O
@@ -4709,7 +4774,8 @@ is	_	_	O
 influencing	_	_	O
 the	_	_	O
 president	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 decisions	_	_	O
 .	_	_	O
 And	_	_	O
@@ -4739,7 +4805,8 @@ So	_	_	O
 Susan	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 glad	_	_	O
 you	_	_	O
 asked	_	_	O
@@ -4781,17 +4848,17 @@ it	_	_	I-Claim
 all	_	_	I-Claim
 out	_	_	I-Claim
 there	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Claim
 ,	_	_	I-Claim
 he	_	_	I-Claim
 is	_	_	I-Claim
 honest	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Claim
 is	_	_	I-Claim
 forthright	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 Donald	_	_	O
 Trump	_	_	O
@@ -4808,10 +4875,8 @@ up	_	_	O
 everything	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 –	_	_	O
-
 
 Thank	_	_	O
 –	_	_	O
@@ -4836,7 +4901,6 @@ respond	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -4865,11 +4929,9 @@ as	_	_	O
 well	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 But	_	_	O
 the	_	_	B-Claim
@@ -4884,14 +4946,16 @@ a	_	_	I-Claim
 businessman	_	_	I-Claim
 ,	_	_	I-Claim
 he	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 a	_	_	I-Claim
 job	_	_	I-Claim
 -	_	_	I-Claim
 creator	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Premise
-’s	_	_	I-Premise
+’	_	_	I-Premise
+s	_	_	I-Premise
 paid	_	_	I-Premise
 tens	_	_	I-Premise
 of	_	_	I-Premise
@@ -4906,9 +4970,10 @@ taxes	_	_	I-Premise
 ,	_	_	I-Premise
 property	_	_	I-Premise
 taxes	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
-’s	_	_	I-Premise
+’	_	_	I-Premise
+s	_	_	I-Premise
 created	_	_	I-Premise
 tens	_	_	I-Premise
 of	_	_	I-Premise
@@ -4916,7 +4981,7 @@ thousands	_	_	I-Premise
 of	_	_	I-Premise
 American	_	_	I-Premise
 jobs	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	O
 president	_	_	O
 said	_	_	O
@@ -4982,7 +5047,6 @@ years	_	_	O
 ago	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
@@ -4992,7 +5056,6 @@ you	_	_	O
 Vice	_	_	O
 President	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 and	_	_	O
@@ -5010,8 +5073,8 @@ regulation	_	_	O
 ,	_	_	O
 unleashing	_	_	O
 American	_	_	O
-energy-	_	_	O
-
+energy	_	_	O
+-	_	_	O
 
 Thank	_	_	O
 you	_	_	O
@@ -5023,7 +5086,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 fighting	_	_	O
@@ -5043,7 +5105,6 @@ the	_	_	O
 line	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -5051,7 +5112,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 if	_	_	O
@@ -5067,12 +5127,12 @@ White	_	_	O
 House	_	_	O
 .	_	_	O
 
-
 You	_	_	O
 know	_	_	O
 ,	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 good	_	_	O
 segue	_	_	O
@@ -5082,14 +5142,13 @@ third	_	_	O
 topic	_	_	O
 –	_	_	O
 
-
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 great	_	_	O
 segue	_	_	O
 .	_	_	O
-
 
 –	_	_	O
 which	_	_	O
@@ -5108,7 +5167,8 @@ life	_	_	O
 for	_	_	O
 Americans	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 been	_	_	O
 so	_	_	O
 affected	_	_	O
@@ -5135,7 +5195,9 @@ rate	_	_	O
 had	_	_	O
 declined	_	_	O
 to	_	_	O
-7.9	_	_	O
+7	_	_	O
+.	_	_	O
+9	_	_	O
 %	_	_	O
 in	_	_	O
 September	_	_	O
@@ -5193,8 +5255,9 @@ of	_	_	O
 the	_	_	O
 year	_	_	O
 ,	_	_	O
-have	_	_	O
-n’t	_	_	O
+haven	_	_	O
+’	_	_	O
+t	_	_	O
 been	_	_	O
 replaced	_	_	O
 .	_	_	O
@@ -5280,7 +5343,6 @@ answer	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -5294,8 +5356,9 @@ economy	_	_	O
 I	_	_	O
 think	_	_	O
 there	_	_	O
-could	_	_	O
-n’t	_	_	O
+couldn	_	_	O
+’	_	_	O
+t	_	_	O
 be	_	_	O
 a	_	_	O
 more	_	_	O
@@ -5308,8 +5371,8 @@ and	_	_	O
 Joe	_	_	O
 Biden	_	_	O
 .	_	_	O
-Joe	_	_	I-Claim
-Biden	_	_	I-Claim
+Joe	_	_	O
+Biden	_	_	B-Claim
 believes	_	_	I-Claim
 you	_	_	I-Claim
 measure	_	_	I-Claim
@@ -5320,7 +5383,8 @@ the	_	_	I-Claim
 strength	_	_	I-Claim
 of	_	_	I-Claim
 America	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 economy	_	_	I-Claim
 based	_	_	I-Claim
 on	_	_	I-Claim
@@ -5338,7 +5402,7 @@ and	_	_	I-Claim
 the	_	_	I-Claim
 American	_	_	I-Claim
 family	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 On	_	_	B-Claim
 the	_	_	I-Claim
 other	_	_	I-Claim
@@ -5363,7 +5427,7 @@ rich	_	_	I-Claim
 people	_	_	I-Claim
 are	_	_	I-Claim
 doing	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Which	_	_	B-Premise
 is	_	_	I-Premise
 why	_	_	I-Premise
@@ -5396,13 +5460,12 @@ the	_	_	I-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
 are	_	_	I-Premise
-gon	_	_	I-Premise
-na	_	_	I-Premise
+gonna	_	_	I-Premise
 have	_	_	I-Premise
 to	_	_	I-Premise
 pay	_	_	I-Premise
 for	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 On	_	_	B-Claim
 day	_	_	I-Claim
 one	_	_	I-Claim
@@ -5414,18 +5477,20 @@ repeal	_	_	I-Claim
 that	_	_	I-Claim
 tax	_	_	I-Claim
 bill	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Claim
-’ll	_	_	I-Claim
+’	_	_	I-Claim
+ll	_	_	I-Claim
 get	_	_	I-Claim
 rid	_	_	I-Claim
 of	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 what	_	_	B-Claim
 he	_	_	I-Claim
-’ll	_	_	I-Claim
+’	_	_	I-Claim
+ll	_	_	I-Claim
 do	_	_	I-Claim
 with	_	_	I-Claim
 the	_	_	I-Claim
@@ -5437,7 +5502,7 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 through	_	_	O
 a	_	_	O
@@ -5467,8 +5532,9 @@ infrastructure	_	_	O
 week	_	_	O
 ,	_	_	O
 I	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 think	_	_	O
 it	_	_	O
 ever	_	_	O
@@ -5482,13 +5548,15 @@ do	_	_	O
 that	_	_	O
 .	_	_	O
 He	_	_	B-Claim
-’ll	_	_	I-Claim
+’	_	_	I-Claim
+ll	_	_	I-Claim
 invest	_	_	I-Claim
 in	_	_	I-Claim
 infrastructure	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 about	_	_	O
 upgrading	_	_	O
 our	_	_	O
@@ -5508,8 +5576,7 @@ energy	_	_	O
 .	_	_	O
 Joe	_	_	B-Claim
 is	_	_	I-Claim
-gon	_	_	I-Claim
-na	_	_	I-Claim
+gonna	_	_	I-Claim
 invest	_	_	I-Claim
 that	_	_	I-Claim
 money	_	_	I-Claim
@@ -5521,7 +5588,7 @@ to	_	_	I-Claim
 do	_	_	I-Claim
 around	_	_	I-Claim
 innovation	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 There	_	_	O
 was	_	_	O
 a	_	_	O
@@ -5559,7 +5626,7 @@ to	_	_	I-Claim
 invest	_	_	I-Claim
 in	_	_	I-Claim
 education	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 for	_	_	O
 example	_	_	O
@@ -5593,10 +5660,13 @@ makes	_	_	O
 less	_	_	O
 than	_	_	O
 $	_	_	O
-125,000	_	_	O
+125	_	_	O
+,	_	_	O
+000	_	_	O
 ,	_	_	O
 you	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 go	_	_	O
 to	_	_	O
 a	_	_	O
@@ -5611,7 +5681,8 @@ the	_	_	O
 board	_	_	O
 ,	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 make	_	_	O
 sure	_	_	O
 that	_	_	O
@@ -5622,14 +5693,18 @@ student	_	_	O
 loan	_	_	O
 debt	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 cut	_	_	O
 by	_	_	O
 $	_	_	O
-10,000	_	_	O
+10	_	_	O
+,	_	_	O
+000	_	_	O
 .	_	_	O
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 how	_	_	O
 Joe	_	_	O
 Biden	_	_	O
@@ -5641,7 +5716,8 @@ economy	_	_	O
 which	_	_	O
 is	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 about	_	_	O
 investing	_	_	O
 in	_	_	O
@@ -5675,7 +5751,6 @@ their	_	_	O
 business	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -5683,12 +5758,11 @@ Senator	_	_	O
 Harris	_	_	O
 .	_	_	O
 
-
 You	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 welcome	_	_	O
 .	_	_	O
-
 
 Vice	_	_	O
 President	_	_	O
@@ -5712,7 +5786,8 @@ economic	_	_	O
 report	_	_	O
 suggests	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 not	_	_	O
 happening	_	_	O
 .	_	_	O
@@ -5748,7 +5823,6 @@ answer	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 When	_	_	B-Premise
 President	_	_	I-Premise
 Trump	_	_	I-Premise
@@ -5769,7 +5843,7 @@ since	_	_	I-Claim
 the	_	_	I-Claim
 Great	_	_	I-Claim
 Depression	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 When	_	_	B-Premise
 Joe	_	_	I-Premise
 Biden	_	_	I-Premise
@@ -5796,7 +5870,7 @@ to	_	_	I-Claim
 a	_	_	I-Claim
 growing	_	_	I-Claim
 economy	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 President	_	_	O
 Trump	_	_	O
 cut	_	_	O
@@ -5820,7 +5894,9 @@ of	_	_	O
 four	_	_	O
 had	_	_	O
 $	_	_	O
-2,000	_	_	O
+2	_	_	O
+,	_	_	O
+000	_	_	O
 in	_	_	O
 savings	_	_	O
 in	_	_	O
@@ -5857,11 +5933,14 @@ four	_	_	O
 increased	_	_	O
 by	_	_	O
 $	_	_	O
-4,000	_	_	O
+4	_	_	O
+,	_	_	O
+000	_	_	O
 following	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 tax	_	_	O
 cuts	_	_	O
 .	_	_	O
@@ -5881,15 +5960,16 @@ day	_	_	O
 one	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-’s	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+s	_	_	O
+gonna	_	_	O
 raise	_	_	O
 your	_	_	O
 taxes	_	_	O
 .	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 really	_	_	O
 remarkable	_	_	O
 to	_	_	O
@@ -5898,15 +5978,14 @@ think	_	_	O
 Susan	_	_	O
 –	_	_	O
 
-
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 not	_	_	O
 what	_	_	O
 I	_	_	O
 said	_	_	O
 .	_	_	O
-
 
 –	_	_	O
 I	_	_	O
@@ -5918,7 +5997,8 @@ a	_	_	O
 time	_	_	O
 where	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 through	_	_	O
 a	_	_	O
@@ -5933,11 +6013,14 @@ the	_	_	O
 height	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
-’ve	_	_	I-Claim
+’	_	_	I-Claim
+ve	_	_	I-Claim
 already	_	_	I-Claim
 added	_	_	I-Claim
 back	_	_	I-Claim
-11.6	_	_	I-Claim
+11	_	_	I-Claim
+.	_	_	I-Claim
+6	_	_	I-Claim
 million	_	_	I-Claim
 jobs	_	_	I-Claim
 because	_	_	O
@@ -5992,7 +6075,7 @@ the	_	_	I-Premise
 paycheck	_	_	I-Premise
 protection	_	_	I-Premise
 program	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	O
 literally	_	_	O
 have	_	_	O
@@ -6020,7 +6103,7 @@ want	_	_	I-Claim
 to	_	_	I-Claim
 raise	_	_	I-Claim
 taxes	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 They	_	_	B-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
@@ -6106,7 +6189,7 @@ was	_	_	I-Premise
 with	_	_	I-Premise
 China	_	_	I-Premise
 alone	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 Joe	_	_	B-Premise
 Biden	_	_	I-Premise
@@ -6131,16 +6214,17 @@ jobs	_	_	I-Premise
 and	_	_	I-Premise
 American	_	_	I-Premise
 workers	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Joe	_	_	B-Claim
 Biden	_	_	I-Claim
 says	_	_	I-Claim
 democracy	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 on	_	_	I-Claim
 the	_	_	I-Claim
 ballot	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Make	_	_	B-Claim
 no	_	_	I-Claim
 mistake	_	_	I-Claim
@@ -6170,7 +6254,6 @@ and	_	_	O
 opportunity	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
@@ -6181,7 +6264,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 with	_	_	O
@@ -6195,8 +6277,7 @@ Trump	_	_	O
 .	_	_	O
 2021	_	_	O
 is	_	_	O
-gon	_	_	O
-na	_	_	O
+gonna	_	_	O
 be	_	_	O
 the	_	_	O
 biggest	_	_	O
@@ -6209,7 +6290,6 @@ of	_	_	O
 this	_	_	O
 country	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -6229,7 +6309,6 @@ Senator	_	_	O
 Harris	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6245,7 +6324,8 @@ it	_	_	O
 in	_	_	O
 last	_	_	O
 week	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 debate	_	_	O
 ,	_	_	O
 but	_	_	O
@@ -6278,7 +6358,7 @@ has	_	_	I-Premise
 been	_	_	I-Premise
 very	_	_	I-Premise
 clear	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Claim
 will	_	_	I-Claim
 not	_	_	I-Claim
@@ -6291,16 +6371,18 @@ makes	_	_	I-Claim
 less	_	_	I-Claim
 than	_	_	I-Claim
 $	_	_	I-Claim
-400,000	_	_	I-Claim
+400	_	_	I-Claim
+,	_	_	I-Claim
+000	_	_	I-Claim
 a	_	_	I-Claim
 year	_	_	I-Claim
 –	_	_	O
 
-
 He	_	_	O
 said	_	_	O
 he	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 to	_	_	O
 repeal	_	_	O
@@ -6310,29 +6392,29 @@ tax	_	_	O
 cuts	_	_	O
 –	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 –	_	_	O
 
-
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
 
-
 –	_	_	O
 it	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 be	_	_	O
 important	_	_	O
 if	_	_	O
@@ -6352,7 +6434,8 @@ last	_	_	O
 week	_	_	O
 that	_	_	O
 he	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 to	_	_	O
 repeal	_	_	O
@@ -6372,7 +6455,9 @@ average	_	_	O
 working	_	_	O
 family	_	_	O
 $	_	_	O
-2,000	_	_	O
+2	_	_	O
+,	_	_	O
+000	_	_	O
 in	_	_	O
 a	_	_	O
 tax	_	_	O
@@ -6381,7 +6466,6 @@ every	_	_	O
 single	_	_	O
 year	_	_	O
 –	_	_	O
-
 
 That	_	_	O
 is	_	_	O
@@ -6393,16 +6477,15 @@ not	_	_	O
 true	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 Senator	_	_	O
 ,	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 math	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 that	_	_	O
@@ -6410,12 +6493,10 @@ tax	_	_	O
 bill	_	_	O
 –	_	_	O
 
-
 Is	_	_	O
 he	_	_	O
 only	_	_	O
-gon	_	_	O
-na	_	_	O
+gonna	_	_	O
 repeal	_	_	O
 part	_	_	O
 of	_	_	O
@@ -6425,20 +6506,18 @@ tax	_	_	O
 cuts	_	_	O
 ?	_	_	O
 
-
 If	_	_	O
 you	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 mind	_	_	O
 letting	_	_	O
 me	_	_	O
 finish	_	_	O
 –	_	_	O
 
-
 Please	_	_	O
-
 
 We	_	_	O
 can	_	_	O
@@ -6450,9 +6529,7 @@ conversation	_	_	O
 Okay	_	_	O
 ?	_	_	O
 
-
 Please	_	_	O
-
 
 Okay	_	_	O
 .	_	_	O
@@ -6469,10 +6546,12 @@ makes	_	_	I-Premise
 less	_	_	I-Premise
 than	_	_	I-Premise
 $	_	_	I-Premise
-400,000	_	_	I-Premise
+400	_	_	I-Premise
+,	_	_	I-Premise
+000	_	_	I-Premise
 a	_	_	I-Premise
 year	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Claim
 has	_	_	I-Claim
 been	_	_	I-Claim
@@ -6480,7 +6559,7 @@ very	_	_	I-Claim
 clear	_	_	I-Claim
 about	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Joe	_	_	O
 Biden	_	_	O
 will	_	_	O
@@ -6538,7 +6617,8 @@ coattails	_	_	O
 of	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 success	_	_	O
 for	_	_	O
 the	_	_	O
@@ -6684,14 +6764,12 @@ rid	_	_	O
 of	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Senator	_	_	O
 Harris	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 trying	_	_	O
@@ -6732,7 +6810,6 @@ important	_	_	O
 Susan	_	_	O
 –	_	_	O
 
-
 Yes	_	_	O
 ,	_	_	O
 well	_	_	O
@@ -6749,11 +6826,11 @@ Vice	_	_	O
 President	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 and	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 just	_	_	O
 –	_	_	O
 He	_	_	O
@@ -6761,7 +6838,8 @@ interrupted	_	_	O
 me	_	_	O
 and	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 just	_	_	O
@@ -6787,11 +6865,12 @@ breast	_	_	I-Premise
 cancer	_	_	I-Premise
 ,	_	_	O
 they	_	_	B-Claim
-’re	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
 coming	_	_	I-Claim
 for	_	_	I-Claim
 you	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 If	_	_	O
 you	_	_	O
 love	_	_	O
@@ -6805,9 +6884,7 @@ existing	_	_	O
 condition	_	_	O
 –	_	_	O
 
-
 Nonsense	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -6819,15 +6896,15 @@ Senator	_	_	O
 Harris	_	_	O
 –	_	_	O
 
-
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 nonsense	_	_	O
-
 
 –	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 coming	_	_	O
 for	_	_	O
 you	_	_	O
@@ -6846,12 +6923,12 @@ parents	_	_	O
 coverage	_	_	O
 ,	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 coming	_	_	O
 for	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 Senator	_	_	O
 Harris	_	_	O
@@ -6860,12 +6937,11 @@ thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-
 You	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 welcome	_	_	O
 .	_	_	O
-
 
 Let	_	_	O
 me	_	_	O
@@ -6876,7 +6952,6 @@ chance	_	_	O
 to	_	_	O
 respond	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 I	_	_	O
@@ -6934,7 +7009,8 @@ Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 entitled	_	_	O
 to	_	_	O
 your	_	_	O
@@ -6942,7 +7018,8 @@ own	_	_	O
 opinion	_	_	O
 but	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 not	_	_	O
 entitled	_	_	O
 to	_	_	O
@@ -6951,14 +7028,13 @@ own	_	_	O
 facts	_	_	O
 –	_	_	O
 
-
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 good	_	_	O
 line	_	_	O
 .	_	_	O
-
 
 You	_	_	O
 yourself	_	_	O
@@ -7026,8 +7102,9 @@ USA	_	_	O
 TODAY	_	_	O
 said	_	_	O
 really	_	_	O
-was	_	_	O
-n’t	_	_	O
+wasn	_	_	O
+’	_	_	O
+t	_	_	O
 that	_	_	O
 very	_	_	O
 different	_	_	O
@@ -7081,7 +7158,8 @@ V	_	_	O
 shape	_	_	O
 recovery	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 underway	_	_	O
 right	_	_	O
 now	_	_	O
@@ -7100,7 +7178,6 @@ the	_	_	O
 White	_	_	O
 House	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -7136,7 +7213,8 @@ President	_	_	O
 Pence	_	_	O
 ,	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 pose	_	_	O
@@ -7149,7 +7227,8 @@ you	_	_	O
 This	_	_	O
 year	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 seen	_	_	O
 record	_	_	O
 -	_	_	O
@@ -7228,7 +7307,6 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 Susan	_	_	O
@@ -7237,7 +7315,8 @@ Well	_	_	O
 first	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 very	_	_	O
 proud	_	_	O
 of	_	_	O
@@ -7344,7 +7423,8 @@ issue	_	_	O
 is	_	_	O
 ,	_	_	O
 what	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 cause	_	_	O
 and	_	_	O
@@ -7363,7 +7443,8 @@ it	_	_	O
 clear	_	_	O
 that	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 continue	_	_	O
@@ -7391,7 +7472,8 @@ Climate	_	_	O
 Accord	_	_	O
 .	_	_	O
 They	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 impose	_	_	O
 the	_	_	O
 Green	_	_	O
@@ -7454,7 +7536,8 @@ economy	_	_	O
 You	_	_	O
 know	_	_	O
 what	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 remarkable	_	_	O
 is	_	_	O
 the	_	_	O
@@ -7478,7 +7561,8 @@ Accord	_	_	O
 ,	_	_	O
 but	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 done	_	_	O
 it	_	_	O
 through	_	_	O
@@ -7486,7 +7570,8 @@ innovation	_	_	O
 .	_	_	O
 And	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 done	_	_	O
 it	_	_	O
 through	_	_	O
@@ -7537,13 +7622,12 @@ banning	_	_	O
 fracking	_	_	O
 .	_	_	O
 
-
 That	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 not	_	_	O
 true	_	_	O
 .	_	_	O
-
 
 And	_	_	O
 so	_	_	O
@@ -7556,7 +7640,8 @@ American	_	_	O
 innovation	_	_	O
 ,	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 actually	_	_	O
 steering	_	_	O
 toward	_	_	O
@@ -7597,7 +7682,8 @@ state	_	_	O
 has	_	_	O
 agreed	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 got	_	_	O
 to	_	_	O
 work	_	_	O
@@ -7628,7 +7714,6 @@ they	_	_	O
 are	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
@@ -7638,7 +7723,6 @@ you	_	_	O
 Vice	_	_	O
 President	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 there	_	_	O
@@ -7655,14 +7739,12 @@ years	_	_	O
 ago	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 but	_	_	O
@@ -7680,13 +7762,13 @@ try	_	_	O
 and	_	_	O
 –	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 ,	_	_	O
 your	_	_	O
@@ -7701,7 +7783,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 sell	_	_	O
@@ -7721,8 +7802,7 @@ Trump	_	_	O
 and	_	_	O
 I	_	_	O
 are	_	_	O
-gon	_	_	O
-na	_	_	O
+gonna	_	_	O
 always	_	_	O
 put	_	_	O
 American	_	_	O
@@ -7732,7 +7812,6 @@ American	_	_	O
 workers	_	_	O
 first	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -7769,7 +7848,8 @@ said	_	_	O
 in	_	_	O
 last	_	_	O
 week	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 debate	_	_	O
 that	_	_	O
 he	_	_	O
@@ -7827,7 +7907,6 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Alright	_	_	O
 ,	_	_	O
 so	_	_	O
@@ -7852,17 +7931,17 @@ will	_	_	I-Claim
 not	_	_	I-Claim
 ban	_	_	I-Claim
 fracking	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 That	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
 fact	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 That	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
 fact	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 will	_	_	O
 repeat	_	_	O
@@ -7895,18 +7974,22 @@ makes	_	_	O
 less	_	_	O
 than	_	_	O
 $	_	_	O
-400,000	_	_	O
+400	_	_	O
+,	_	_	O
+000	_	_	O
 a	_	_	O
 year	_	_	O
 .	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 economic	_	_	O
 plan	_	_	O
 –	_	_	O
 Moody	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 ,	_	_	O
 which	_	_	O
 is	_	_	O
@@ -7927,7 +8010,8 @@ jobs	_	_	O
 than	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 .	_	_	O
 And	_	_	O
 part	_	_	O
@@ -8026,7 +8110,8 @@ in	_	_	O
 science	_	_	O
 .	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 tell	_	_	O
 you	_	_	O
 something	_	_	O
@@ -8048,7 +8133,8 @@ on	_	_	O
 the	_	_	O
 committee	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 responsible	_	_	O
 for	_	_	O
 the	_	_	O
@@ -8091,21 +8177,24 @@ administration	_	_	O
 which	_	_	O
 is	_	_	O
 they	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 believe	_	_	O
 in	_	_	O
 science	_	_	O
 .	_	_	O
 And	_	_	O
 Joe	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 plan	_	_	O
 is	_	_	O
 about	_	_	O
 saying	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 deal	_	_	O
@@ -8114,7 +8203,8 @@ it	_	_	O
 ,	_	_	O
 but	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 also	_	_	O
 going	_	_	O
 to	_	_	O
@@ -8154,14 +8244,16 @@ Trump	_	_	O
 said	_	_	O
 ?	_	_	O
 Science	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 know	_	_	O
 .	_	_	O
 So	_	_	O
 ,	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 who	_	_	O
@@ -8196,7 +8288,8 @@ is	_	_	O
 about	_	_	O
 saying	_	_	O
 we	_	_	B-Premise
-’re	_	_	I-Premise
+’	_	_	I-Premise
+re	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 invest	_	_	I-Premise
@@ -8206,7 +8299,8 @@ renewable	_	_	I-Premise
 energy	_	_	I-Premise
 ,	_	_	O
 we	_	_	B-Premise
-’re	_	_	I-Premise
+’	_	_	I-Premise
+re	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 be	_	_	I-Premise
@@ -8236,7 +8330,7 @@ Joe	_	_	B-Claim
 has	_	_	I-Claim
 a	_	_	I-Claim
 plan	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 This	_	_	O
 has	_	_	O
 been	_	_	O
@@ -8272,7 +8366,6 @@ with	_	_	O
 pride	_	_	O
 .	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 just	_	_	O
@@ -8301,7 +8394,6 @@ existential	_	_	O
 threat	_	_	O
 ?	_	_	O
 
-
 As	_	_	O
 I	_	_	O
 said	_	_	O
@@ -8314,7 +8406,8 @@ is	_	_	O
 changing	_	_	O
 .	_	_	O
 We	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 follow	_	_	O
 the	_	_	O
 science	_	_	O
@@ -8332,9 +8425,9 @@ the	_	_	O
 fact	_	_	O
 that	_	_	O
 they	_	_	O
-’re	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+re	_	_	O
+gonna	_	_	O
 raise	_	_	O
 taxes	_	_	O
 on	_	_	O
@@ -8369,7 +8462,9 @@ tax	_	_	O
 cuts	_	_	O
 delivered	_	_	O
 $	_	_	O
-2,000	_	_	O
+2	_	_	O
+,	_	_	O
+000	_	_	O
 in	_	_	O
 tax	_	_	O
 relief	_	_	O
@@ -8458,7 +8553,8 @@ TODAY	_	_	O
 said	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 essentially	_	_	O
 the	_	_	O
 same	_	_	O
@@ -8487,7 +8583,8 @@ senator	_	_	O
 say	_	_	O
 that	_	_	O
 she	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 to	_	_	O
 resubmit	_	_	O
@@ -8517,7 +8614,8 @@ cherish	_	_	O
 it	_	_	O
 .	_	_	O
 We	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 made	_	_	O
 great	_	_	O
 progress	_	_	O
@@ -8537,8 +8635,9 @@ through	_	_	O
 fracking	_	_	O
 .	_	_	O
 We	_	_	B-Claim
-do	_	_	I-Claim
-n’t	_	_	I-Claim
+don	_	_	I-Claim
+’	_	_	I-Claim
+t	_	_	I-Claim
 need	_	_	I-Claim
 a	_	_	I-Claim
 massive	_	_	I-Claim
@@ -8572,7 +8671,6 @@ retrofit	_	_	I-Claim
 million	_	_	I-Claim
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 –	_	_	O
@@ -8583,7 +8681,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 American	_	_	O
@@ -8594,16 +8691,15 @@ It	_	_	B-Claim
 makes	_	_	I-Claim
 no	_	_	I-Claim
 sense	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
 will	_	_	I-Claim
 cost	_	_	I-Claim
 jobs	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 President	_	_	O
 Trump	_	_	O
 –	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -8613,18 +8709,18 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 he	_	_	O
-’s	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+s	_	_	O
+gonna	_	_	O
 put	_	_	O
 America	_	_	O
 first	_	_	O
 .	_	_	O
 He	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 to	_	_	O
 put	_	_	O
@@ -8632,9 +8728,9 @@ jobs	_	_	O
 first	_	_	O
 and	_	_	O
 we	_	_	O
-’re	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+re	_	_	O
+gonna	_	_	O
 take	_	_	O
 care	_	_	O
 of	_	_	O
@@ -8646,7 +8742,6 @@ the	_	_	O
 science	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -8655,7 +8750,6 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 On	_	_	O
 the	_	_	O
 issue	_	_	O
@@ -8663,13 +8757,12 @@ of	_	_	O
 jobs	_	_	O
 –	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 
-
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 that	_	_	O
@@ -8695,7 +8788,8 @@ accomplishment	_	_	O
 ,	_	_	O
 the	_	_	O
 President	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 trade	_	_	O
 war	_	_	O
 with	_	_	O
@@ -8706,11 +8800,11 @@ lost	_	_	I-Claim
 that	_	_	I-Claim
 trade	_	_	I-Claim
 war	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	B-Claim
 lost	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 What	_	_	O
 ended	_	_	O
 up	_	_	O
@@ -8730,10 +8824,12 @@ China	_	_	O
 ,	_	_	O
 America	_	_	B-Premise
 lost	_	_	I-Premise
-300,000	_	_	I-Premise
+300	_	_	I-Premise
+,	_	_	I-Premise
+000	_	_	I-Premise
 manufacturing	_	_	I-Premise
 jobs	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Farmers	_	_	B-Claim
 have	_	_	I-Claim
 experienced	_	_	I-Claim
@@ -8793,10 +8889,8 @@ presidential	_	_	O
 administration	_	_	O
 –	_	_	O
 
-
 Susan	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 And	_	_	O
@@ -8806,10 +8900,11 @@ people	_	_	I-Claim
 know	_	_	I-Claim
 what	_	_	I-Claim
 I	_	_	I-Claim
-’m	_	_	I-Claim
+’	_	_	I-Claim
+m	_	_	I-Claim
 talking	_	_	I-Claim
 about	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 know	_	_	O
 .	_	_	O
@@ -8854,7 +8949,8 @@ right	_	_	O
 now	_	_	O
 and	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 wondering	_	_	O
 ,	_	_	O
 “	_	_	O
@@ -8872,7 +8968,8 @@ me	_	_	O
 ”	_	_	O
 .	_	_	O
 We	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 looking	_	_	O
 at	_	_	O
 people	_	_	O
@@ -8884,7 +8981,8 @@ figure	_	_	O
 out	_	_	O
 how	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 pay	_	_	O
@@ -8906,7 +9004,8 @@ worried	_	_	O
 about	_	_	O
 whether	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 be	_	_	O
@@ -8948,7 +9047,6 @@ this	_	_	O
 administration	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -8977,11 +9075,11 @@ move	_	_	O
 on	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 love	_	_	O
 to	_	_	O
 respond	_	_	O
@@ -9000,7 +9098,7 @@ Biden	_	_	I-Claim
 never	_	_	I-Claim
 fought	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Joe	_	_	B-Claim
 Biden	_	_	I-Claim
 has	_	_	I-Claim
@@ -9016,7 +9114,7 @@ the	_	_	I-Claim
 last	_	_	I-Claim
 several	_	_	I-Claim
 decades	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 ,	_	_	O
 and	_	_	O
@@ -9026,21 +9124,23 @@ Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 you	_	_	B-Claim
-’re	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
 entitled	_	_	I-Claim
 to	_	_	I-Claim
 your	_	_	I-Claim
 opinion	_	_	I-Claim
 ,	_	_	O
 you	_	_	B-Claim
-’re	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
 not	_	_	I-Claim
 entitled	_	_	I-Claim
 to	_	_	I-Claim
 your	_	_	I-Claim
 own	_	_	I-Claim
 facts	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 When	_	_	O
 Joe	_	_	O
 Biden	_	_	O
@@ -9050,7 +9150,9 @@ president	_	_	O
 ,	_	_	O
 we	_	_	O
 lost	_	_	O
-200,000	_	_	O
+200	_	_	O
+,	_	_	O
+000	_	_	O
 manufacturing	_	_	O
 jobs	_	_	O
 and	_	_	O
@@ -9091,7 +9193,6 @@ back	_	_	O
 regulation	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -9099,7 +9200,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 unleashed	_	_	O
@@ -9109,12 +9209,13 @@ energy	_	_	O
 this	_	_	O
 administration	_	_	O
 saw	_	_	O
-500,000	_	_	O
+500	_	_	O
+,	_	_	O
+000	_	_	O
 manufacturing	_	_	O
 jobs	_	_	O
 created	_	_	O
 –	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -9124,18 +9225,19 @@ President	_	_	O
 Pence	_	_	O
 –	_	_	O
 
-
 –	_	_	O
 And	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 exactly	_	_	O
 the	_	_	O
 kind	_	_	O
 of	_	_	O
 growth	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 continue	_	_	O
@@ -9151,7 +9253,6 @@ this	_	_	O
 pandemic	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -9166,7 +9267,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 your	_	_	O
@@ -9185,9 +9285,9 @@ Climate	_	_	O
 Accord	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+s	_	_	O
+gonna	_	_	O
 kill	_	_	O
 jobs	_	_	O
 this	_	_	O
@@ -9203,7 +9303,6 @@ last	_	_	O
 administration	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -9217,32 +9316,32 @@ briefly	_	_	O
 please	_	_	O
 .	_	_	O
 
-
 15	_	_	O
 seconds	_	_	O
 and	_	_	O
 then	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 move	_	_	O
 on	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-Joe	_	_	I-Claim
-Biden	_	_	I-Claim
+Joe	_	_	O
+Biden	_	_	B-Claim
 is	_	_	I-Claim
 responsible	_	_	I-Claim
 for	_	_	I-Claim
 saving	_	_	I-Claim
 America	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 auto	_	_	I-Claim
 industry	_	_	I-Claim
 and	_	_	I-Claim
@@ -9250,22 +9349,23 @@ you	_	_	I-Claim
 voted	_	_	I-Claim
 against	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 let	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 set	_	_	I-Claim
 the	_	_	I-Claim
 record	_	_	I-Claim
 straight	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 talk	_	_	O
@@ -9306,7 +9406,8 @@ agricultural	_	_	O
 goods	_	_	O
 .	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 potential	_	_	O
 partner	_	_	O
@@ -9368,7 +9469,6 @@ have	_	_	O
 two	_	_	O
 minutes	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -9469,7 +9569,7 @@ vote	_	_	I-Premise
 against	_	_	I-Premise
 the	_	_	I-Premise
 USMCA	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -9479,7 +9579,7 @@ for	_	_	I-Claim
 American	_	_	I-Claim
 auto	_	_	I-Claim
 workers	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -9495,7 +9595,7 @@ in	_	_	I-Claim
 the	_	_	I-Claim
 upper	_	_	I-Claim
 Midwest	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 ,	_	_	O
 Senator	_	_	O
@@ -9503,8 +9603,9 @@ Senator	_	_	O
 you	_	_	O
 said	_	_	O
 it	_	_	B-Premise
-did	_	_	I-Premise
-n’t	_	_	I-Premise
+didn	_	_	I-Premise
+’	_	_	I-Premise
+t	_	_	I-Premise
 go	_	_	I-Premise
 far	_	_	I-Premise
 enough	_	_	I-Premise
@@ -9531,7 +9632,7 @@ ahead	_	_	I-Premise
 of	_	_	I-Premise
 American	_	_	I-Premise
 jobs	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -9541,9 +9642,10 @@ deserve	_	_	I-Claim
 to	_	_	I-Claim
 know	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 probably	_	_	O
 why	_	_	O
 Newsweek	_	_	O
@@ -9620,19 +9722,20 @@ about	_	_	O
 it	_	_	O
 .	_	_	O
 He	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 made	_	_	I-Claim
 that	_	_	I-Claim
 very	_	_	I-Claim
 clear	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Claim
 made	_	_	I-Claim
 it	_	_	I-Claim
 clear	_	_	I-Claim
 again	_	_	I-Claim
 today	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 China	_	_	O
 and	_	_	O
 the	_	_	O
@@ -9705,7 +9808,8 @@ wake	_	_	O
 of	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 cheerleading	_	_	O
 for	_	_	O
 China	_	_	O
@@ -9742,7 +9846,8 @@ Biden	_	_	O
 opposed	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 decision	_	_	O
 to	_	_	O
 suspend	_	_	O
@@ -9764,7 +9869,6 @@ was	_	_	O
 xenophobic	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -9781,7 +9885,6 @@ time	_	_	O
 is	_	_	O
 up	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 but	_	_	O
@@ -9800,7 +9903,6 @@ stand	_	_	O
 strong	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -9808,7 +9910,6 @@ Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 We	_	_	O
 want	_	_	O
@@ -9819,7 +9920,8 @@ relationship	_	_	O
 ,	_	_	O
 but	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 level	_	_	O
@@ -9828,7 +9930,8 @@ playing	_	_	O
 field	_	_	O
 and	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 hold	_	_	O
@@ -9844,7 +9947,6 @@ with	_	_	O
 the	_	_	O
 coronavirus	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -9885,7 +9987,8 @@ adversaries	_	_	O
 enemies	_	_	O
 ?	_	_	O
 You	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 have	_	_	O
 two	_	_	O
 minutes	_	_	O
@@ -9893,13 +9996,13 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 the	_	_	O
 Trump	_	_	O
 administration	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 perspective	_	_	O
 ,	_	_	O
 and	_	_	O
@@ -9919,7 +10022,8 @@ American	_	_	O
 jobs	_	_	O
 and	_	_	O
 America	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 standing	_	_	O
 .	_	_	O
 There	_	_	O
@@ -9980,11 +10084,9 @@ of	_	_	O
 it	_	_	O
 .	_	_	O
 
-
 Not	_	_	O
 true	_	_	O
 .	_	_	O
-
 
 There	_	_	O
 was	_	_	O
@@ -10024,7 +10126,9 @@ now	_	_	O
 are	_	_	O
 looking	_	_	O
 at	_	_	O
-210,000	_	_	O
+210	_	_	O
+,	_	_	O
+000	_	_	O
 Americans	_	_	O
 who	_	_	O
 have	_	_	O
@@ -10033,7 +10137,8 @@ their	_	_	O
 lives	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 look	_	_	O
 at	_	_	O
 the	_	_	O
@@ -10101,7 +10206,8 @@ it	_	_	O
 .	_	_	O
 And	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 standing	_	_	O
@@ -10190,12 +10296,12 @@ this	_	_	O
 administration	_	_	O
 .	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 seen	_	_	O
 changes	_	_	O
 in	_	_	O
@@ -10226,12 +10332,14 @@ do	_	_	O
 change	_	_	O
 .	_	_	O
 What	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 your	_	_	O
 definition	_	_	O
 –	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 seen	_	_	O
 strains	_	_	O
 with	_	_	O
@@ -10247,7 +10355,8 @@ President	_	_	O
 mentioned	_	_	O
 ,	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 seen	_	_	O
 strains	_	_	O
 with	_	_	O
@@ -10272,7 +10381,6 @@ leadership	_	_	O
 in	_	_	O
 2020	_	_	O
 ?	_	_	O
-
 
 So	_	_	O
 ,	_	_	O
@@ -10327,11 +10435,13 @@ complicated	_	_	O
 but	_	_	O
 really	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 relationships	_	_	O
 ,	_	_	O
 they	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 –	_	_	O
 just	_	_	O
 think	_	_	O
@@ -10354,15 +10464,14 @@ professional	_	_	O
 relationships	_	_	O
 –	_	_	O
 you	_	_	B-Claim
-got	_	_	I-Claim
-ta	_	_	I-Claim
+gotta	_	_	I-Claim
 keep	_	_	I-Claim
 your	_	_	I-Claim
 word	_	_	I-Claim
 to	_	_	I-Claim
 your	_	_	I-Claim
 friends	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Got	_	_	B-Claim
 to	_	_	I-Claim
 be	_	_	I-Claim
@@ -10370,7 +10479,7 @@ loyal	_	_	I-Claim
 to	_	_	I-Claim
 your	_	_	I-Claim
 friends	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 People	_	_	B-Claim
 who	_	_	I-Claim
 have	_	_	I-Claim
@@ -10383,7 +10492,7 @@ to	_	_	I-Claim
 stand	_	_	I-Claim
 with	_	_	I-Claim
 them	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 got	_	_	O
 to	_	_	O
@@ -10422,7 +10531,8 @@ the	_	_	O
 world	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 take	_	_	O
 for	_	_	O
 example	_	_	O
@@ -10446,7 +10556,8 @@ States	_	_	O
 Senate	_	_	O
 .	_	_	O
 America	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 intelligence	_	_	I-Claim
 community	_	_	I-Claim
 told	_	_	I-Claim
@@ -10470,7 +10581,7 @@ is	_	_	I-Claim
 playing	_	_	I-Claim
 in	_	_	I-Claim
 2020	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Christopher	_	_	B-Claim
 Wray	_	_	I-Claim
 ,	_	_	I-Claim
@@ -10514,7 +10625,7 @@ the	_	_	I-Claim
 American	_	_	I-Claim
 intelligence	_	_	I-Claim
 community	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 look	_	_	O
 at	_	_	O
@@ -10597,7 +10708,8 @@ because	_	_	O
 of	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 unilateral	_	_	O
 approach	_	_	O
 to	_	_	O
@@ -10624,7 +10736,8 @@ So	_	_	O
 Susan	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 about	_	_	O
 relationships	_	_	O
 .	_	_	O
@@ -10661,15 +10774,17 @@ word	_	_	O
 But	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 understand	_	_	O
 that	_	_	O
 ,	_	_	O
 because	_	_	O
 he	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 understand	_	_	O
 what	_	_	O
 it	_	_	O
@@ -10678,7 +10793,6 @@ to	_	_	O
 be	_	_	O
 honest	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -10705,7 +10819,6 @@ chance	_	_	O
 to	_	_	O
 respond	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -10753,7 +10866,8 @@ never	_	_	O
 did	_	_	O
 .	_	_	O
 We	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 stood	_	_	O
 strong	_	_	O
 with	_	_	O
@@ -10762,7 +10876,8 @@ allies	_	_	O
 ,	_	_	O
 but	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 been	_	_	O
 demanding	_	_	O
 .	_	_	O
@@ -10783,11 +10898,13 @@ Thanks	_	_	O
 to	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 leadership	_	_	O
 ,	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 strengthen	_	_	O
 our	_	_	O
 alliances	_	_	O
@@ -10798,7 +10915,8 @@ Pacific	_	_	O
 .	_	_	O
 And	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 stood	_	_	O
 strong	_	_	O
 against	_	_	O
@@ -10874,7 +10992,8 @@ But	_	_	O
 notably	_	_	O
 ,	_	_	O
 America	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 hearts	_	_	O
 today	_	_	O
 are	_	_	O
@@ -10910,7 +11029,8 @@ responsible	_	_	O
 for	_	_	O
 Kayla	_	_	O
 Mueller	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 murder	_	_	O
 ,	_	_	O
 were	_	_	O
@@ -10955,7 +11075,7 @@ to	_	_	I-Claim
 save	_	_	I-Claim
 Kayla	_	_	I-Claim
 Mueller	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Breaks	_	_	O
 my	_	_	O
 heart	_	_	O
@@ -11027,7 +11147,8 @@ it	_	_	O
 was	_	_	O
 clear	_	_	O
 she	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 been	_	_	O
 moved	_	_	O
 two	_	_	O
@@ -11068,14 +11189,12 @@ alive	_	_	O
 today	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 We	_	_	O
 destroyed	_	_	O
@@ -11101,7 +11220,9 @@ last	_	_	O
 administration	_	_	O
 transferred	_	_	O
 $	_	_	O
-1.8	_	_	O
+1	_	_	O
+.	_	_	O
+8	_	_	O
 billion	_	_	O
 to	_	_	O
 the	_	_	O
@@ -11112,14 +11233,12 @@ of	_	_	O
 terrorism	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 President	_	_	O
 Donald	_	_	O
@@ -11170,7 +11289,6 @@ should	_	_	O
 know	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -11209,7 +11327,6 @@ talk	_	_	O
 about	_	_	O
 .	_	_	O
 
-
 But	_	_	O
 I	_	_	O
 would	_	_	O
@@ -11218,14 +11335,12 @@ equal	_	_	O
 time	_	_	O
 .	_	_	O
 
-
 Yes	_	_	O
 .	_	_	O
 Please	_	_	O
 go	_	_	O
 ahead	_	_	O
 .	_	_	O
-
 
 First	_	_	O
 of	_	_	O
@@ -11241,17 +11356,20 @@ know	_	_	O
 about	_	_	O
 your	_	_	O
 daughter	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 case	_	_	O
 ,	_	_	O
 and	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 so	_	_	O
 sorry	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 so	_	_	O
 sorry	_	_	O
 .	_	_	O
@@ -11295,7 +11413,8 @@ mentioned	_	_	O
 Soleimani	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 start	_	_	O
 there	_	_	O
 .	_	_	O
@@ -11347,7 +11466,8 @@ pattern	_	_	O
 of	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 ,	_	_	O
 where	_	_	O
 he	_	_	O
@@ -11391,7 +11511,8 @@ said	_	_	O
 ,	_	_	O
 ‘	_	_	O
 What	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 in	_	_	O
 it	_	_	O
 for	_	_	O
@@ -11410,14 +11531,16 @@ only	_	_	O
 thinks	_	_	O
 about	_	_	O
 what	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 in	_	_	O
 it	_	_	O
 for	_	_	O
 him	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 take	_	_	O
 what	_	_	O
 he	_	_	O
@@ -11436,8 +11559,9 @@ Donald	_	_	O
 Trump	_	_	O
 says	_	_	O
 he	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 deserve	_	_	O
 to	_	_	O
 be	_	_	O
@@ -11485,8 +11609,9 @@ about	_	_	O
 and	_	_	O
 what	_	_	O
 they	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 care	_	_	O
 about	_	_	O
 .	_	_	O
@@ -11548,14 +11673,14 @@ brought	_	_	I-Premise
 up	_	_	I-Premise
 the	_	_	I-Premise
 subject	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Joe	_	_	B-Claim
 Biden	_	_	I-Claim
 would	_	_	I-Claim
 never	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Joe	_	_	O
 Biden	_	_	O
 –	_	_	O
@@ -11572,7 +11697,8 @@ threat	_	_	O
 to	_	_	O
 our	_	_	O
 nation	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 security	_	_	O
 or	_	_	O
 to	_	_	O
@@ -11593,7 +11719,6 @@ and	_	_	O
 our	_	_	O
 safety	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -11628,7 +11753,6 @@ a	_	_	O
 chance	_	_	O
 .	_	_	O
 
-
 I	_	_	O
 really	_	_	O
 have	_	_	O
@@ -11641,18 +11765,17 @@ She	_	_	O
 has	_	_	O
 –	_	_	O
 
-
 Fifteen	_	_	O
 seconds	_	_	O
 ,	_	_	O
 because	_	_	O
 –	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 got	_	_	O
 to	_	_	O
 have	_	_	O
@@ -11661,29 +11784,31 @@ than	_	_	O
 that	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
 you	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 had	_	_	O
 more	_	_	O
 time	_	_	O
 than	_	_	O
 she	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 had	_	_	O
 ,	_	_	O
 so	_	_	O
 far	_	_	O
 –	_	_	O
-
 
 The	_	_	O
 slanders	_	_	O
@@ -11703,16 +11828,15 @@ are	_	_	O
 absurd	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 sorry	_	_	O
 ,	_	_	O
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
 –	_	_	O
-
 
 My	_	_	O
 son	_	_	O
@@ -11784,7 +11908,6 @@ also	_	_	O
 say	_	_	O
 –	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
@@ -11794,8 +11917,9 @@ President	_	_	O
 Pence	_	_	O
 .	_	_	O
 I	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 –	_	_	O
 Vice	_	_	O
 President	_	_	O
@@ -11818,7 +11942,8 @@ the	_	_	O
 rules	_	_	O
 for	_	_	O
 tonight	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 debate	_	_	O
 ,	_	_	O
 with	_	_	O
@@ -11829,7 +11954,8 @@ Presidential	_	_	O
 Debates	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 here	_	_	O
 to	_	_	O
 enforce	_	_	O
@@ -11857,7 +11983,8 @@ which	_	_	O
 is	_	_	O
 what	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 trying	_	_	O
 very	_	_	O
 hard	_	_	O
@@ -11912,7 +12039,8 @@ on	_	_	O
 Amy	_	_	O
 Coney	_	_	O
 Barrett	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 nomination	_	_	O
 to	_	_	O
 the	_	_	O
@@ -11923,7 +12051,8 @@ Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 you	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 be	_	_	O
 there	_	_	O
 as	_	_	O
@@ -11939,7 +12068,8 @@ would	_	_	O
 cement	_	_	O
 the	_	_	O
 court	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 conservative	_	_	O
 majority	_	_	O
 ,	_	_	O
@@ -11979,7 +12109,8 @@ President	_	_	O
 Pence	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 the	_	_	O
 former	_	_	O
 governor	_	_	O
@@ -12020,7 +12151,6 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 thank	_	_	O
 you	_	_	O
@@ -12030,7 +12160,8 @@ question	_	_	O
 ,	_	_	O
 but	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 use	_	_	O
 a	_	_	O
 little	_	_	O
@@ -12090,8 +12221,9 @@ Americans	_	_	O
 ,	_	_	O
 President	_	_	O
 Trump	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 hesitate	_	_	O
 and	_	_	O
 Quasem	_	_	O
@@ -12121,7 +12253,8 @@ Quasem	_	_	O
 Soleimani	_	_	O
 .	_	_	O
 It	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 really	_	_	I-Claim
 inexplicable	_	_	I-Claim
 ,	_	_	O
@@ -12132,7 +12265,8 @@ to	_	_	O
 Joe	_	_	O
 Biden	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 explainable	_	_	O
 ,	_	_	O
 because	_	_	O
@@ -12149,9 +12283,10 @@ against	_	_	I-Premise
 Osama	_	_	I-Premise
 bin	_	_	I-Premise
 Laden	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 absolutely	_	_	O
 essential	_	_	O
 that	_	_	O
@@ -12179,7 +12314,8 @@ servicemembers	_	_	O
 ,	_	_	O
 and	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 what	_	_	O
 you	_	_	O
 have	_	_	O
@@ -12229,7 +12365,8 @@ Coney	_	_	O
 Barrett	_	_	O
 .	_	_	O
 She	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 brilliant	_	_	O
 woman	_	_	O
@@ -12293,8 +12430,9 @@ particularly	_	_	O
 hope	_	_	O
 that	_	_	O
 we	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 see	_	_	O
 the	_	_	O
 kind	_	_	O
@@ -12393,7 +12531,6 @@ life	_	_	O
 views	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
@@ -12409,7 +12546,6 @@ time	_	_	O
 is	_	_	O
 up	_	_	O
 .	_	_	O
-
 
 My	_	_	O
 hope	_	_	O
@@ -12431,13 +12567,11 @@ be	_	_	O
 respected	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 –	_	_	O
 treated	_	_	O
@@ -12455,12 +12589,12 @@ United	_	_	O
 States	_	_	O
 .	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 the	_	_	O
 senator	_	_	O
 from	_	_	O
@@ -12528,7 +12662,6 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -12550,7 +12683,8 @@ faith	_	_	O
 .	_	_	O
 And	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 insulting	_	_	O
 to	_	_	O
 suggest	_	_	O
@@ -12642,7 +12776,8 @@ up	_	_	O
 you	_	_	O
 know	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 been	_	_	O
 about	_	_	O
 election	_	_	O
@@ -12652,7 +12787,8 @@ election	_	_	O
 time	_	_	O
 .	_	_	O
 We	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 literally	_	_	O
 in	_	_	O
 an	_	_	O
@@ -12704,7 +12840,8 @@ House	_	_	O
 and	_	_	O
 then	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 fill	_	_	O
 that	_	_	O
 seat	_	_	O
@@ -12726,14 +12863,16 @@ the	_	_	O
 issues	_	_	O
 before	_	_	O
 us	_	_	O
-could	_	_	O
-n’t	_	_	O
+couldn	_	_	O
+’	_	_	O
+t	_	_	O
 be	_	_	O
 more	_	_	O
 serious	_	_	O
 .	_	_	O
 There	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 issue	_	_	O
 of	_	_	O
@@ -12747,7 +12886,8 @@ fight	_	_	I-Claim
 for	_	_	I-Claim
 a	_	_	I-Claim
 woman	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 right	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
@@ -12757,7 +12897,7 @@ about	_	_	I-Claim
 her	_	_	I-Claim
 own	_	_	I-Claim
 body	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
 should	_	_	I-Claim
 be	_	_	I-Claim
@@ -12777,10 +12917,11 @@ President	_	_	I-Claim
 ,	_	_	I-Claim
 Michael	_	_	I-Claim
 Pence	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 also	_	_	O
 look	_	_	O
 at	_	_	O
@@ -12792,7 +12933,8 @@ the	_	_	O
 court	_	_	O
 .	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 Affordable	_	_	O
 Care	_	_	O
@@ -12812,7 +12954,9 @@ pandemic	_	_	O
 –	_	_	O
 when	_	_	O
 over	_	_	O
-210,000	_	_	O
+210	_	_	O
+,	_	_	O
+000	_	_	O
 people	_	_	O
 have	_	_	O
 died	_	_	O
@@ -12859,7 +13003,8 @@ Act	_	_	O
 .	_	_	O
 And	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 said	_	_	O
 it	_	_	O
 before	_	_	O
@@ -12901,13 +13046,14 @@ will	_	_	I-Claim
 lose	_	_	I-Claim
 your	_	_	I-Claim
 coverage	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	O
 means	_	_	O
 that	_	_	O
 if	_	_	B-Premise
 you	_	_	I-Premise
-’re	_	_	I-Premise
+’	_	_	I-Premise
+re	_	_	I-Premise
 under	_	_	I-Premise
 the	_	_	I-Premise
 age	_	_	I-Premise
@@ -12915,31 +13061,35 @@ of	_	_	I-Premise
 26	_	_	I-Premise
 ,	_	_	O
 you	_	_	B-Claim
-ca	_	_	I-Claim
-n’t	_	_	I-Claim
+can	_	_	I-Claim
+’	_	_	I-Claim
+t	_	_	I-Claim
 stay	_	_	I-Claim
 on	_	_	I-Claim
 your	_	_	I-Claim
 parents	_	_	I-Claim
 coverage	_	_	I-Claim
 anymore	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 here	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 the	_	_	O
 thing	_	_	O
 .	_	_	O
 The	_	_	O
 contrast	_	_	O
-could	_	_	O
-n’t	_	_	O
+couldn	_	_	O
+’	_	_	O
+t	_	_	O
 be	_	_	O
 more	_	_	O
 clear	_	_	O
 .	_	_	O
 They	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 trying	_	_	O
 to	_	_	O
 get	_	_	O
@@ -12955,12 +13105,14 @@ Biden	_	_	I-Claim
 is	_	_	I-Claim
 saying	_	_	I-Claim
 let	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 expand	_	_	I-Claim
 coverage	_	_	I-Claim
 ,	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 give	_	_	O
 you	_	_	O
 a	_	_	O
@@ -12974,13 +13126,15 @@ private	_	_	O
 coverage	_	_	O
 ,	_	_	O
 let	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 bring	_	_	I-Claim
 down	_	_	I-Claim
 premiums	_	_	I-Claim
 ,	_	_	O
 let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 lower	_	_	O
 Medicare	_	_	O
 eligibility	_	_	O
@@ -12988,11 +13142,11 @@ to	_	_	O
 60	_	_	O
 .	_	_	O
 That	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 true	_	_	I-Claim
 leadership	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 You	_	_	O
 know	_	_	O
@@ -13058,7 +13212,8 @@ says	_	_	O
 ,	_	_	O
 that	_	_	O
 he	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 to	_	_	O
 protect	_	_	O
@@ -13134,7 +13289,6 @@ struck	_	_	O
 down	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 thank	_	_	O
@@ -13154,8 +13308,9 @@ first	_	_	O
 question	_	_	O
 ,	_	_	O
 I	_	_	O
-could	_	_	O
-n’t	_	_	O
+couldn	_	_	O
+’	_	_	O
+t	_	_	O
 be	_	_	O
 more	_	_	O
 proud	_	_	O
@@ -13179,18 +13334,20 @@ human	_	_	O
 life	_	_	O
 .	_	_	O
 I	_	_	B-Claim
-’m	_	_	I-Claim
+’	_	_	I-Claim
+m	_	_	I-Claim
 pro	_	_	I-Claim
 -	_	_	I-Claim
 life	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n’t	_	_	I-Claim
+don	_	_	I-Claim
+’	_	_	I-Claim
+t	_	_	I-Claim
 apologize	_	_	I-Claim
 for	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 this	_	_	O
 is	_	_	O
@@ -13201,7 +13358,8 @@ those	_	_	O
 cases	_	_	O
 where	_	_	O
 there	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 such	_	_	O
 a	_	_	O
 dramatic	_	_	O
@@ -13270,7 +13428,8 @@ United	_	_	O
 States	_	_	O
 but	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 continue	_	_	O
 to	_	_	O
 stand	_	_	O
@@ -13309,8 +13468,7 @@ you	_	_	O
 and	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-gon	_	_	O
-na	_	_	O
+gonna	_	_	O
 pack	_	_	O
 the	_	_	O
 court	_	_	O
@@ -13379,8 +13537,9 @@ years	_	_	O
 ,	_	_	O
 if	_	_	O
 you	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 get	_	_	O
 your	_	_	O
 way	_	_	O
@@ -13393,15 +13552,17 @@ case	_	_	O
 of	_	_	O
 if	_	_	O
 you	_	_	O
-ca	_	_	O
-n’t	_	_	O
+can	_	_	O
+’	_	_	O
+t	_	_	O
 win	_	_	O
 by	_	_	O
 the	_	_	O
 rules	_	_	O
 ,	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 change	_	_	O
@@ -13410,7 +13571,8 @@ rules	_	_	O
 .	_	_	O
 Now	_	_	O
 you	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 refused	_	_	O
 to	_	_	O
 answer	_	_	O
@@ -13478,9 +13640,9 @@ your	_	_	O
 way	_	_	O
 ?	_	_	O
 
-
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 so	_	_	O
 glad	_	_	O
 we	_	_	O
@@ -13492,7 +13654,8 @@ history	_	_	O
 lesson	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 do	_	_	O
 that	_	_	O
 a	_	_	O
@@ -13503,11 +13666,11 @@ In	_	_	O
 1864	_	_	O
 –	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 you	_	_	O
 to	_	_	O
@@ -13516,17 +13679,19 @@ the	_	_	O
 question	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 speaking	_	_	O
 .	_	_	O
 In	_	_	O
@@ -13554,7 +13719,8 @@ of	_	_	O
 you	_	_	O
 also	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 –	_	_	O
@@ -13592,7 +13758,8 @@ Court	_	_	O
 .	_	_	O
 Abraham	_	_	O
 Lincoln	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 party	_	_	O
 was	_	_	O
 in	_	_	O
@@ -13614,7 +13781,8 @@ honest	_	_	O
 Abe	_	_	O
 said	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 not	_	_	O
 the	_	_	O
 right	_	_	O
@@ -13699,7 +13867,6 @@ a	_	_	O
 lifetime	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -13707,7 +13874,6 @@ Senator	_	_	O
 Harris	_	_	O
 and	_	_	O
 –	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -13720,7 +13886,8 @@ right	_	_	O
 now	_	_	O
 .	_	_	O
 They	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 know	_	_	O
@@ -13730,16 +13897,16 @@ and	_	_	O
 Joe	_	_	O
 Biden	_	_	O
 are	_	_	O
-gon	_	_	O
-na	_	_	O
+gonna	_	_	O
 pack	_	_	O
 the	_	_	O
 Supreme	_	_	O
 Court	_	_	O
 if	_	_	O
 you	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 get	_	_	O
 your	_	_	O
 way	_	_	O
@@ -13748,14 +13915,13 @@ this	_	_	O
 nomination	_	_	O
 .	_	_	O
 
-
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 packing	_	_	O
 –	_	_	O
-
 
 Once	_	_	O
 again	_	_	O
@@ -13774,11 +13940,11 @@ a	_	_	I-Claim
 non	_	_	I-Claim
 -	_	_	I-Claim
 answer	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 trying	_	_	O
 to	_	_	O
 answer	_	_	O
@@ -13786,19 +13952,19 @@ you	_	_	O
 now	_	_	O
 .	_	_	O
 
-
 The	_	_	B-Claim
 people	_	_	I-Claim
 deserve	_	_	I-Claim
 a	_	_	I-Claim
 straight	_	_	I-Claim
 answer	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 if	_	_	O
 you	_	_	O
-have	_	_	O
-n’t	_	_	O
+haven	_	_	O
+’	_	_	O
+t	_	_	O
 figured	_	_	O
 it	_	_	O
 out	_	_	O
@@ -13824,8 +13990,7 @@ this	_	_	O
 election	_	_	O
 .	_	_	O
 I	_	_	O
-got	_	_	O
-ta	_	_	O
+gotta	_	_	O
 tell	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -13883,9 +14048,9 @@ Supreme	_	_	O
 Court	_	_	O
 .	_	_	O
 
-
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 packing	_	_	O
@@ -13894,20 +14059,20 @@ court	_	_	O
 then	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 talk	_	_	O
 about	_	_	O
 .	_	_	O
 
-
 Please	_	_	O
 –	_	_	O
-
 
 Yeah	_	_	O
 ,	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 about	_	_	O
 to	_	_	O
 .	_	_	O
@@ -13938,7 +14103,8 @@ mentioned	_	_	O
 .	_	_	O
 And	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 witnessed	_	_	O
 the	_	_	O
 appointments	_	_	O
@@ -14014,7 +14180,8 @@ This	_	_	O
 is	_	_	O
 what	_	_	O
 they	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 been	_	_	O
 doing	_	_	O
 .	_	_	O
@@ -14028,12 +14195,12 @@ a	_	_	O
 court	_	_	O
 ?	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 have	_	_	O
 that	_	_	O
 discussion	_	_	O
 .	_	_	O
-
 
 All	_	_	O
 right	_	_	O
@@ -14047,7 +14214,8 @@ you	_	_	O
 Senator	_	_	O
 .	_	_	O
 Let	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 go	_	_	O
 on	_	_	O
 and	_	_	O
@@ -14059,7 +14227,6 @@ of	_	_	O
 racial	_	_	O
 justice	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 just	_	_	O
@@ -14096,7 +14263,6 @@ know	_	_	O
 the	_	_	O
 answer	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -14150,12 +14316,14 @@ identified	_	_	O
 themselves	_	_	O
 .	_	_	O
 Taylor	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 boyfriend	_	_	O
 said	_	_	O
 he	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 hear	_	_	O
 them	_	_	O
 do	_	_	O
@@ -14232,20 +14400,22 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 believe	_	_	O
 so	_	_	O
 ,	_	_	O
 and	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 talked	_	_	O
 with	_	_	O
 Breonna	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 mother	_	_	O
 ,	_	_	O
 Tamika	_	_	O
@@ -14290,7 +14460,8 @@ to	_	_	O
 first	_	_	O
 learn	_	_	O
 what	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 going	_	_	O
 on	_	_	O
 out	_	_	O
@@ -14461,7 +14632,8 @@ ideals	_	_	O
 .	_	_	O
 And	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 why	_	_	O
 Joe	_	_	O
 Biden	_	_	O
@@ -14477,7 +14649,8 @@ look	_	_	O
 ,	_	_	O
 and	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 a	_	_	O
 former	_	_	O
 career	_	_	O
@@ -14487,10 +14660,11 @@ I	_	_	B-Claim
 know	_	_	I-Claim
 what	_	_	I-Claim
 I	_	_	I-Claim
-’m	_	_	I-Claim
+’	_	_	I-Claim
+m	_	_	I-Claim
 talking	_	_	I-Claim
 about	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Bad	_	_	B-Claim
 cops	_	_	I-Claim
 are	_	_	I-Claim
@@ -14498,7 +14672,7 @@ bad	_	_	I-Claim
 for	_	_	I-Claim
 good	_	_	I-Claim
 cops	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Claim
 need	_	_	I-Claim
 reform	_	_	I-Claim
@@ -14526,7 +14700,7 @@ chokeholds	_	_	I-Claim
 and	_	_	I-Claim
 carotid	_	_	I-Claim
 holds	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 George	_	_	O
 Floyd	_	_	O
 would	_	_	O
@@ -14607,7 +14781,6 @@ tragic	_	_	O
 issue	_	_	O
 …	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -14651,7 +14824,6 @@ minutes	_	_	O
 uninterrupted	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 our	_	_	O
 heart	_	_	O
@@ -14689,7 +14861,7 @@ that	_	_	I-Premise
 reviews	_	_	I-Premise
 the	_	_	I-Premise
 evidence	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 it	_	_	O
 really	_	_	O
@@ -14724,7 +14896,8 @@ wrong	_	_	O
 .	_	_	O
 But	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 entitled	_	_	O
 to	_	_	O
 your	_	_	O
@@ -14740,7 +14913,8 @@ George	_	_	O
 Floyd	_	_	O
 ,	_	_	O
 there	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 no	_	_	O
 excuse	_	_	O
 for	_	_	O
@@ -14757,7 +14931,8 @@ served	_	_	O
 .	_	_	O
 But	_	_	O
 there	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 also	_	_	O
 no	_	_	O
 excuse	_	_	O
@@ -14961,7 +15136,8 @@ filibustered	_	_	O
 Senator	_	_	O
 Tim	_	_	O
 Scott	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 bill	_	_	O
 on	_	_	O
 the	_	_	O
@@ -14979,8 +15155,9 @@ resources	_	_	O
 .	_	_	O
 But	_	_	O
 we	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 have	_	_	O
 to	_	_	O
 choose	_	_	O
@@ -15008,18 +15185,18 @@ minorities	_	_	O
 Under	_	_	O
 President	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 leadership	_	_	O
 –	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
-
 
 –	_	_	O
 we	_	_	O
@@ -15031,11 +15208,13 @@ law	_	_	O
 enforcement	_	_	O
 and	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 do	_	_	O
 what	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 done	_	_	O
 from	_	_	O
 day	_	_	O
@@ -15058,15 +15237,14 @@ in	_	_	O
 education	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 –	_	_	O
 Fight	_	_	O
@@ -15077,11 +15255,9 @@ choice	_	_	O
 for	_	_	O
 –	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 will	_	_	O
@@ -15128,7 +15304,8 @@ to	_	_	O
 homicide	_	_	O
 .	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 the	_	_	O
 only	_	_	O
 one	_	_	O
@@ -15146,7 +15323,8 @@ taking	_	_	O
 advantage	_	_	O
 of	_	_	O
 America	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 homeowners	_	_	O
 .	_	_	O
 I	_	_	O
@@ -15213,31 +15391,32 @@ to	_	_	I-Claim
 condemn	_	_	I-Claim
 white	_	_	I-Claim
 supremacists	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 –	_	_	O
-
 
 Not	_	_	O
 true	_	_	O
 .	_	_	O
 
-
 –	_	_	O
 it	_	_	O
-was	_	_	O
-n’t	_	_	O
+wasn	_	_	O
+’	_	_	O
+t	_	_	O
 like	_	_	O
 he	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 have	_	_	O
 a	_	_	O
 chance	_	_	O
 .	_	_	O
 He	_	_	B-Claim
-did	_	_	I-Claim
-n’t	_	_	I-Claim
+didn	_	_	I-Claim
+’	_	_	I-Claim
+t	_	_	I-Claim
 do	_	_	I-Claim
 it	_	_	I-Claim
 ,	_	_	O
@@ -15246,7 +15425,7 @@ then	_	_	O
 he	_	_	B-Claim
 doubled	_	_	I-Claim
 down	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 then	_	_	O
 he	_	_	O
@@ -15274,7 +15453,8 @@ pattern	_	_	O
 of	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 .	_	_	O
 He	_	_	O
 was	_	_	O
@@ -15393,11 +15573,9 @@ country	_	_	O
 together	_	_	O
 .	_	_	O
 
-
 Senator	_	_	O
 Harris	_	_	O
 –	_	_	O
-
 
 –	_	_	O
 and	_	_	O
@@ -15425,7 +15603,6 @@ separates	_	_	O
 us	_	_	O
 .	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
@@ -15439,7 +15616,6 @@ minute	_	_	O
 to	_	_	O
 respond	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -15455,7 +15631,8 @@ much	_	_	O
 I	_	_	O
 think	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 one	_	_	O
 of	_	_	O
 the	_	_	O
@@ -15544,8 +15721,9 @@ Your	_	_	O
 concern	_	_	O
 that	_	_	O
 he	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 condemn	_	_	O
 neo	_	_	O
 -	_	_	O
@@ -15591,7 +15769,8 @@ personally	_	_	O
 prosecuted	_	_	O
 –	_	_	O
 I	_	_	O
-’m	_	_	O
+’	_	_	O
+m	_	_	O
 glad	_	_	O
 you	_	_	O
 brought	_	_	O
@@ -15602,11 +15781,9 @@ record	_	_	O
 Senator	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 really	_	_	O
@@ -15677,8 +15854,9 @@ in	_	_	O
 California	_	_	O
 .	_	_	O
 You	_	_	O
-did	_	_	O
-n’t	_	_	O
+didn	_	_	O
+’	_	_	O
+t	_	_	O
 lift	_	_	O
 a	_	_	O
 finger	_	_	O
@@ -15715,14 +15893,12 @@ justice	_	_	O
 for	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Vice	_	_	O
 President	_	_	O
 Pence	_	_	O
-
 
 –	_	_	O
 fought	_	_	O
@@ -15736,24 +15912,22 @@ African	_	_	O
 Americans	_	_	O
 –	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
 
-
 And	_	_	O
 we	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 do	_	_	O
 it	_	_	O
 for	_	_	O
 four	_	_	O
 more	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -15772,7 +15946,8 @@ final	_	_	O
 issue	_	_	O
 that	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 talk	_	_	O
@@ -15790,7 +15965,6 @@ election	_	_	O
 itself	_	_	O
 .	_	_	O
 
-
 Susan	_	_	O
 ,	_	_	O
 he	_	_	O
@@ -15807,7 +15981,6 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-
 Let	_	_	O
 me	_	_	O
 give	_	_	O
@@ -15816,13 +15989,13 @@ you	_	_	O
 seconds	_	_	O
 because	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 running	_	_	O
 out	_	_	O
 of	_	_	O
 time	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 appreciate	_	_	O
@@ -15899,11 +16072,9 @@ carotid	_	_	O
 holes	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 I	_	_	O
 would	_	_	O
@@ -15912,7 +16083,6 @@ to	_	_	O
 go	_	_	O
 through	_	_	O
 –	_	_	O
-
 
 These	_	_	O
 are	_	_	O
@@ -15938,7 +16108,6 @@ we	_	_	O
 have	_	_	O
 to	_	_	O
 –	_	_	O
-
 
 But	_	_	O
 I	_	_	O
@@ -16021,7 +16190,8 @@ bias	_	_	O
 does	_	_	O
 exist	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -16107,7 +16277,6 @@ of	_	_	O
 America	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
@@ -16116,14 +16285,16 @@ Harris	_	_	O
 ,	_	_	O
 and	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 pose	_	_	O
 the	_	_	O
 –	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 you	_	_	O
 to	_	_	O
@@ -16200,11 +16371,11 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-
 So	_	_	O
 ,	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 tell	_	_	O
 you	_	_	O
 .	_	_	O
@@ -16219,7 +16390,8 @@ the	_	_	O
 coalition	_	_	O
 that	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 built	_	_	O
 around	_	_	O
 our	_	_	O
@@ -16237,7 +16409,8 @@ of	_	_	O
 folks	_	_	O
 that	_	_	O
 you	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 ever	_	_	O
 seen	_	_	O
 in	_	_	O
@@ -16268,9 +16441,11 @@ members	_	_	O
 of	_	_	O
 President	_	_	O
 George	_	_	O
-W.	_	_	O
+W	_	_	O
+.	_	_	O
 Bush	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 cabinet	_	_	O
 are	_	_	O
 supporting	_	_	O
@@ -16374,10 +16549,12 @@ democracy	_	_	O
 .	_	_	O
 And	_	_	O
 here	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 what	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 say	_	_	O
@@ -16402,7 +16579,9 @@ vote	_	_	O
 ,	_	_	O
 go	_	_	O
 to	_	_	O
-IWillVote.com	_	_	O
+IWillVote	_	_	O
+.	_	_	O
+com	_	_	O
 .	_	_	O
 You	_	_	O
 can	_	_	O
@@ -16410,7 +16589,9 @@ also	_	_	O
 go	_	_	O
 to	_	_	O
 Joe	_	_	O
-Biden.com	_	_	O
+Biden	_	_	O
+.	_	_	O
+com	_	_	O
 .	_	_	O
 We	_	_	O
 have	_	_	O
@@ -16528,8 +16709,9 @@ because	_	_	O
 clearly	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-does	_	_	O
-n’t	_	_	O
+doesn	_	_	O
+’	_	_	O
+t	_	_	O
 think	_	_	O
 he	_	_	O
 can	_	_	O
@@ -16539,7 +16721,8 @@ a	_	_	O
 record	_	_	O
 because	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 failed	_	_	O
 record	_	_	O
@@ -16562,7 +16745,8 @@ vote	_	_	O
 ’	_	_	O
 So	_	_	O
 I	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 repeat	_	_	O
 what	_	_	O
 Joe	_	_	O
@@ -16571,7 +16755,6 @@ said	_	_	O
 Please	_	_	O
 vote	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -16644,7 +16827,6 @@ two	_	_	O
 minutes	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Susan	_	_	O
@@ -16656,13 +16838,13 @@ foremost	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
-’re	_	_	I-Claim
-gon	_	_	I-Claim
-na	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
+gonna	_	_	I-Claim
 win	_	_	I-Claim
 this	_	_	I-Claim
 election	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
 while	_	_	O
 Joe	_	_	O
@@ -16686,7 +16868,8 @@ the	_	_	O
 establishment	_	_	O
 Joe	_	_	O
 Biden	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 been	_	_	O
 a	_	_	O
 part	_	_	O
@@ -16732,7 +16915,8 @@ they	_	_	O
 see	_	_	O
 this	_	_	O
 President	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 record	_	_	O
 ,	_	_	O
 where	_	_	O
@@ -16848,7 +17032,8 @@ last	_	_	O
 election	_	_	O
 .	_	_	O
 It	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 amazing	_	_	O
 .	_	_	O
 When	_	_	O
@@ -16908,7 +17093,8 @@ of	_	_	O
 course	_	_	O
 ,	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 all	_	_	O
 seen	_	_	O
 the	_	_	O
@@ -17011,13 +17197,13 @@ say	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
-’re	_	_	I-Claim
-gon	_	_	I-Claim
-na	_	_	I-Claim
+’	_	_	I-Claim
+re	_	_	I-Claim
+gonna	_	_	I-Claim
 win	_	_	I-Claim
 this	_	_	I-Claim
 election	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 President	_	_	O
 Trump	_	_	O
 and	_	_	O
@@ -17049,7 +17235,8 @@ in	_	_	O
 voting	_	_	O
 ,	_	_	O
 that	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 create	_	_	O
 a	_	_	O
 massive	_	_	O
@@ -17069,7 +17256,8 @@ election	_	_	O
 we	_	_	O
 know	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 have	_	_	O
@@ -17088,9 +17276,9 @@ that	_	_	O
 President	_	_	O
 Donald	_	_	O
 Trump	_	_	O
-’s	_	_	O
-gon	_	_	O
-na	_	_	O
+’	_	_	O
+s	_	_	O
+gonna	_	_	O
 be	_	_	O
 reelected	_	_	O
 for	_	_	O
@@ -17099,25 +17287,28 @@ more	_	_	O
 years	_	_	O
 .	_	_	O
 
-
 You	_	_	O
 know	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 ,	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 asked	_	_	O
 –	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 written	_	_	O
 all	_	_	O
 the	_	_	O
 questions	_	_	O
 that	_	_	O
 I	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 asked	_	_	O
 tonight	_	_	O
 ,	_	_	O
@@ -17131,7 +17322,8 @@ the	_	_	O
 debate	_	_	O
 ,	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 to	_	_	O
 read	_	_	O
@@ -17169,7 +17361,8 @@ want	_	_	O
 to	_	_	O
 close	_	_	O
 tonight	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 debate	_	_	O
 with	_	_	O
 the	_	_	O
@@ -17180,7 +17373,8 @@ Brecklynn	_	_	O
 Brown	_	_	O
 .	_	_	O
 She	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 an	_	_	O
 eighth	_	_	O
 grader	_	_	O
@@ -17195,7 +17389,8 @@ Utah	_	_	O
 ,	_	_	O
 and	_	_	O
 here	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 what	_	_	O
 she	_	_	O
 wrote	_	_	O
@@ -17260,8 +17455,9 @@ down	_	_	O
 If	_	_	O
 our	_	_	O
 leaders	_	_	O
-ca	_	_	O
-n’t	_	_	O
+can	_	_	O
+’	_	_	O
+t	_	_	O
 get	_	_	O
 along	_	_	O
 ,	_	_	O
@@ -17307,7 +17503,8 @@ in	_	_	O
 turn	_	_	O
 ,	_	_	O
 I	_	_	O
-’d	_	_	O
+’	_	_	O
+d	_	_	O
 like	_	_	O
 you	_	_	O
 to	_	_	O
@@ -17330,11 +17527,11 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-
 Brecklynn	_	_	O
 ,	_	_	O
 it	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 a	_	_	O
 wonderful	_	_	O
 question	_	_	O
@@ -17378,7 +17575,7 @@ open	_	_	I-Claim
 exchange	_	_	I-Claim
 of	_	_	I-Claim
 debate	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	O
 celebrate	_	_	O
@@ -17386,10 +17583,12 @@ that	_	_	O
 ,	_	_	O
 and	_	_	O
 it	_	_	B-Premise
-’s	_	_	I-Premise
+’	_	_	I-Premise
+s	_	_	I-Premise
 how	_	_	I-Premise
 we	_	_	I-Premise
-’ve	_	_	I-Premise
+’	_	_	I-Premise
+ve	_	_	I-Premise
 created	_	_	I-Premise
 literally	_	_	I-Premise
 the	_	_	I-Premise
@@ -17404,20 +17603,22 @@ history	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 world	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 would	_	_	O
 tell	_	_	O
 you	_	_	O
 that	_	_	O
 –	_	_	O
-do	_	_	O
-n’t	_	_	O
+don	_	_	O
+’	_	_	O
+t	_	_	O
 assume	_	_	O
 that	_	_	O
 what	_	_	O
 you	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 seeing	_	_	O
 on	_	_	O
 your	_	_	O
@@ -17489,7 +17690,8 @@ conservative	_	_	O
 .	_	_	O
 But	_	_	O
 what	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 been	_	_	O
 learned	_	_	O
 since	_	_	O
@@ -17545,10 +17747,11 @@ come	_	_	I-Claim
 together	_	_	I-Claim
 as	_	_	I-Claim
 Americans	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 that	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 what	_	_	O
 people	_	_	O
 do	_	_	O
@@ -17580,7 +17783,8 @@ tell	_	_	O
 you	_	_	O
 that	_	_	O
 we	_	_	O
-’re	_	_	O
+’	_	_	O
+re	_	_	O
 going	_	_	O
 to	_	_	O
 work	_	_	O
@@ -17636,7 +17840,8 @@ need	_	_	O
 .	_	_	O
 And	_	_	O
 we	_	_	O
-’ve	_	_	O
+’	_	_	O
+ve	_	_	O
 especially	_	_	O
 learned	_	_	O
 that	_	_	O
@@ -17647,7 +17852,6 @@ of	_	_	O
 this	_	_	O
 year	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -17665,7 +17869,6 @@ say	_	_	O
 to	_	_	O
 Brecklynn	_	_	O
 ?	_	_	O
-
 
 First	_	_	O
 of	_	_	O
@@ -17841,16 +18044,18 @@ way	_	_	O
 .	_	_	O
 And	_	_	O
 that	_	_	B-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 what	_	_	I-Claim
 he	_	_	I-Claim
-’s	_	_	I-Claim
+’	_	_	I-Claim
+s	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 as	_	_	I-Claim
 President	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Joe	_	_	B-Claim
 Biden	_	_	I-Claim
 has	_	_	I-Claim
@@ -17865,7 +18070,7 @@ fighting	_	_	I-Claim
 for	_	_	I-Claim
 their	_	_	I-Claim
 dignity	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 mean	_	_	O
 you	_	_	O
@@ -17873,7 +18078,8 @@ have	_	_	O
 to	_	_	O
 know	_	_	O
 Joe	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 story	_	_	O
 to	_	_	O
 know	_	_	O
@@ -17934,7 +18140,8 @@ fight	_	_	O
 for	_	_	O
 each	_	_	O
 person	_	_	O
-’s	_	_	O
+’	_	_	O
+s	_	_	O
 voice	_	_	O
 through	_	_	O
 their	_	_	O
@@ -17980,7 +18187,6 @@ leadership	_	_	O
 looks	_	_	O
 like	_	_	O
 .	_	_	O
-
 
 Thank	_	_	O
 you	_	_	O
@@ -18057,7 +18263,9 @@ everyone	_	_	O
 who	_	_	O
 is	_	_	O
 battling	_	_	O
-COVID-19	_	_	O
+COVID	_	_	O
+-	_	_	O
+19	_	_	O
 .	_	_	O
 The	_	_	O
 second	_	_	O
@@ -18081,7 +18289,8 @@ Miami	_	_	O
 We	_	_	O
 hope	_	_	O
 you	_	_	O
-’ll	_	_	O
+’	_	_	O
+ll	_	_	O
 join	_	_	O
 us	_	_	O
 then	_	_	O
@@ -18089,5 +18298,3 @@ then	_	_	O
 Good	_	_	O
 evening	_	_	O
 .	_	_	O
-
-

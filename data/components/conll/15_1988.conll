@@ -1,4 +1,3 @@
-
 On	_	_	O
 behalf	_	_	O
 of	_	_	O
@@ -81,7 +80,6 @@ nominee	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 For	_	_	O
 the	_	_	O
 next	_	_	O
@@ -148,7 +146,8 @@ first	_	_	O
 question	_	_	O
 goes	_	_	O
 to	_	_	O
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 You	_	_	O
@@ -180,12 +179,10 @@ the	_	_	O
 killer	_	_	O
 ?	_	_	O
 
-
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 ,	_	_	O
 Bernard	_	_	O
 .	_	_	O
@@ -195,8 +192,7 @@ think	_	_	O
 you	_	_	O
 know	_	_	O
 that	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 opposed	_	_	I-Premise
 the	_	_	I-Premise
 death	_	_	I-Premise
@@ -206,16 +202,14 @@ all	_	_	I-Premise
 of	_	_	I-Premise
 my	_	_	I-Premise
 life	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 see	_	_	I-Premise
 any	_	_	I-Premise
 evidence	_	_	I-Premise
 that	_	_	I-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 a	_	_	I-Premise
 deterrent	_	_	I-Premise
 ,	_	_	O
@@ -234,19 +228,17 @@ deal	_	_	I-Claim
 with	_	_	I-Claim
 violent	_	_	I-Claim
 crime	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+We've	_	_	B-Premise
 done	_	_	I-Premise
 so	_	_	I-Premise
 in	_	_	I-Premise
 my	_	_	I-Premise
 own	_	_	I-Premise
 state	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 one	_	_	O
 of	_	_	O
 the	_	_	O
@@ -266,7 +258,7 @@ industrial	_	_	I-Premise
 state	_	_	I-Premise
 in	_	_	I-Premise
 America	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 why	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
@@ -280,7 +272,7 @@ industrial	_	_	I-Premise
 state	_	_	I-Premise
 in	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 have	_	_	I-Claim
@@ -290,7 +282,7 @@ do	_	_	I-Claim
 in	_	_	I-Claim
 this	_	_	I-Claim
 nation	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Claim
 have	_	_	I-Claim
 work	_	_	I-Claim
@@ -309,10 +301,9 @@ war	_	_	I-Claim
 ,	_	_	I-Claim
 against	_	_	I-Claim
 drugs	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 something	_	_	O
 I	_	_	O
 want	_	_	O
@@ -321,8 +312,7 @@ lead	_	_	O
 ,	_	_	O
 something	_	_	B-Claim
 we	_	_	I-Claim
-have	_	_	I-Claim
-n't	_	_	I-Claim
+haven't	_	_	I-Claim
 had	_	_	I-Claim
 over	_	_	I-Claim
 the	_	_	I-Claim
@@ -348,7 +338,7 @@ charge	_	_	I-Premise
 of	_	_	I-Premise
 that	_	_	I-Premise
 war	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 have	_	_	I-Premise
 much	_	_	I-Premise
@@ -384,7 +374,7 @@ neighbors	_	_	I-Premise
 in	_	_	I-Premise
 this	_	_	I-Premise
 hemisphere	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
@@ -407,7 +397,7 @@ to	_	_	I-Claim
 fight	_	_	I-Claim
 that	_	_	I-Claim
 war	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 also	_	_	I-Claim
@@ -421,10 +411,9 @@ prevention	_	_	I-Claim
 here	_	_	I-Claim
 at	_	_	I-Claim
 home	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 one	_	_	O
 of	_	_	O
 the	_	_	O
@@ -444,8 +433,7 @@ the	_	_	O
 United	_	_	O
 States	_	_	O
 .	_	_	O
-We	_	_	B-Premise
-'ve	_	_	I-Premise
+We've	_	_	B-Premise
 had	_	_	I-Premise
 great	_	_	I-Premise
 success	_	_	I-Premise
@@ -453,10 +441,9 @@ in	_	_	I-Premise
 my	_	_	I-Premise
 own	_	_	I-Premise
 state	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 reached	_	_	I-Premise
 out	_	_	I-Premise
 to	_	_	I-Premise
@@ -482,7 +469,7 @@ the	_	_	I-Premise
 early	_	_	I-Premise
 elementary	_	_	I-Premise
 grades	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 we	_	_	B-Claim
 can	_	_	I-Claim
@@ -496,7 +483,7 @@ can	_	_	I-Claim
 win	_	_	I-Claim
 this	_	_	I-Claim
 war	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 can	_	_	I-Claim
@@ -560,8 +547,7 @@ this	_	_	I-Claim
 avalanche	_	_	I-Claim
 of	_	_	I-Claim
 drugs	_	_	I-Claim
-that	_	_	I-Claim
-'s	_	_	I-Claim
+that's	_	_	I-Claim
 pouring	_	_	I-Claim
 into	_	_	I-Claim
 the	_	_	I-Claim
@@ -588,10 +574,10 @@ secure	_	_	I-Claim
 and	_	_	I-Claim
 decent	_	_	I-Claim
 neighborhoods	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -601,7 +587,6 @@ one	_	_	O
 minute	_	_	O
 rebuttal	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -665,8 +650,7 @@ so	_	_	I-Premise
 outrageous	_	_	I-Premise
 ,	_	_	I-Premise
 and	_	_	I-Premise
-I	_	_	I-Premise
-'d	_	_	I-Premise
+I'd	_	_	I-Premise
 say	_	_	I-Premise
 particularly	_	_	I-Premise
 those	_	_	I-Premise
@@ -708,10 +692,9 @@ believe	_	_	I-Claim
 we	_	_	I-Claim
 need	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 glad	_	_	I-Premise
 that	_	_	I-Premise
 the	_	_	I-Premise
@@ -733,7 +716,7 @@ these	_	_	I-Premise
 narcotics	_	_	I-Premise
 drug	_	_	I-Premise
 kingpins	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 we	_	_	O
@@ -750,10 +733,8 @@ support	_	_	O
 it	_	_	O
 and	_	_	O
 he	_	_	O
-does	_	_	O
-n't	_	_	O
+doesn't	_	_	O
 .	_	_	O
-
 
 Now	_	_	O
 to	_	_	O
@@ -825,10 +806,8 @@ before	_	_	O
 inauguration	_	_	O
 day	_	_	O
 
-
 Bernie	_	_	O
 .	_	_	O
-
 
 automatically	_	_	O
 automatically	_	_	O
@@ -855,24 +834,21 @@ that	_	_	O
 possibility	_	_	O
 ?	_	_	O
 
-
-I	_	_	B-Claim
-'d	_	_	I-Claim
+I'd	_	_	B-Claim
 have	_	_	I-Claim
 confidence	_	_	I-Claim
 in	_	_	I-Claim
 him	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 made	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 selection	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 never	_	_	I-Premise
 seen	_	_	I-Premise
 such	_	_	I-Premise
@@ -891,10 +867,9 @@ in	_	_	I-Premise
 my	_	_	I-Premise
 entire	_	_	I-Premise
 life	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 never	_	_	I-Premise
 seen	_	_	I-Premise
 a	_	_	I-Premise
@@ -910,16 +885,15 @@ my	_	_	I-Premise
 vice	_	_	I-Premise
 presidential	_	_	I-Premise
 nominee	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 never	_	_	B-Premise
 seen	_	_	I-Premise
 one	_	_	I-Premise
 before	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 But	_	_	O
 you	_	_	O
@@ -937,8 +911,7 @@ Dan	_	_	I-Premise
 Quayle	_	_	I-Premise
 said	_	_	I-Premise
 ,	_	_	I-Premise
-he	_	_	I-Premise
-'s	_	_	I-Premise
+he's	_	_	I-Premise
 had	_	_	I-Premise
 roughly	_	_	I-Premise
 the	_	_	I-Premise
@@ -946,7 +919,7 @@ same	_	_	I-Premise
 amount	_	_	I-Premise
 of	_	_	I-Premise
 experience	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 had	_	_	I-Premise
 two	_	_	I-Premise
@@ -954,7 +927,7 @@ terms	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 Congress	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 had	_	_	I-Premise
 two	_	_	I-Premise
@@ -967,7 +940,7 @@ serving	_	_	I-Premise
 his	_	_	I-Premise
 second	_	_	I-Premise
 term	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 founded	_	_	I-Premise
 authored	_	_	I-Premise
@@ -977,7 +950,7 @@ job	_	_	I-Premise
 training	_	_	I-Premise
 partnership	_	_	I-Premise
 act	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Premise
 says	_	_	I-Premise
 to	_	_	I-Premise
@@ -999,15 +972,13 @@ of	_	_	I-Premise
 their	_	_	I-Premise
 own	_	_	I-Premise
 that	_	_	I-Premise
-they	_	_	I-Premise
-'re	_	_	I-Premise
+they're	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 have	_	_	I-Premise
 jobs	_	_	I-Premise
-.	_	_	I-Premise
-We	_	_	B-Premise
-'re	_	_	I-Premise
+.	_	_	O
+We're	_	_	B-Premise
 moving	_	_	I-Premise
 into	_	_	I-Premise
 a	_	_	I-Premise
@@ -1022,7 +993,7 @@ that	_	_	I-Claim
 kind	_	_	I-Claim
 of	_	_	I-Claim
 thing	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Claim
 ,	_	_	I-Claim
 unlike	_	_	I-Claim
@@ -1035,7 +1006,7 @@ expert	_	_	I-Claim
 in	_	_	I-Claim
 national	_	_	I-Claim
 defense	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 helped	_	_	B-Premise
 amend	_	_	I-Premise
 the	_	_	I-Premise
@@ -1060,10 +1031,9 @@ talking	_	_	I-Premise
 about	_	_	I-Premise
 a	_	_	I-Premise
 freeze	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 If	_	_	B-Claim
-we	_	_	I-Claim
-'d	_	_	I-Claim
+we'd	_	_	I-Claim
 listened	_	_	I-Claim
 to	_	_	I-Claim
 them	_	_	I-Claim
@@ -1075,7 +1045,7 @@ have	_	_	I-Claim
 had	_	_	I-Claim
 a	_	_	I-Claim
 treaty	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	B-Claim
@@ -1084,13 +1054,12 @@ great	_	_	I-Claim
 confidence	_	_	I-Claim
 in	_	_	I-Claim
 him	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 turning	_	_	I-Claim
 around	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
@@ -1099,15 +1068,13 @@ American	_	_	I-Claim
 people	_	_	I-Claim
 are	_	_	I-Claim
 fair	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 They	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 like	_	_	I-Premise
 it	_	_	I-Premise
 when	_	_	I-Premise
-there	_	_	I-Premise
-'s	_	_	I-Premise
+there's	_	_	I-Premise
 an	_	_	I-Premise
 unfair	_	_	I-Premise
 pounding	_	_	I-Premise
@@ -1117,7 +1084,7 @@ of	_	_	I-Premise
 hooting	_	_	I-Premise
 about	_	_	I-Premise
 people	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
@@ -1127,39 +1094,35 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 record	_	_	I-Premise
 itself	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 proud	_	_	I-Claim
 of	_	_	I-Claim
 my	_	_	I-Claim
 choice	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 you	_	_	O
 know	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 age	_	_	I-Claim
 is	_	_	I-Claim
 the	_	_	I-Claim
 only	_	_	I-Claim
 criterion	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-I	_	_	O
-'ll	_	_	O
+I'll	_	_	O
 tell	_	_	O
 you	_	_	O
 something	_	_	O
 ,	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 proud	_	_	I-Premise
 that	_	_	I-Premise
 people	_	_	I-Premise
@@ -1191,13 +1154,13 @@ United	_	_	I-Premise
 States	_	_	I-Premise
 of	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 made	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 selection	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
@@ -1206,17 +1169,14 @@ seeing	_	_	I-Premise
 it	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 proud	_	_	I-Premise
 of	_	_	I-Premise
 it	_	_	I-Premise
-;	_	_	I-Premise
-that	_	_	O
-'s	_	_	O
+;	_	_	O
+that's	_	_	O
 what	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 say	_	_	O
 .	_	_	O
 And	_	_	O
@@ -1225,10 +1185,10 @@ could	_	_	I-Claim
 do	_	_	I-Claim
 the	_	_	I-Claim
 job	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 
-
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
 your	_	_	O
@@ -1237,7 +1197,6 @@ one	_	_	O
 minute	_	_	O
 rebuttal	_	_	O
 .	_	_	O
-
 
 Bernard	_	_	O
 ,	_	_	O
@@ -1256,16 +1215,15 @@ called	_	_	I-Premise
 upon	_	_	I-Premise
 to	_	_	I-Premise
 make	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 why	_	_	I-Claim
 people	_	_	I-Claim
 are	_	_	I-Claim
 so	_	_	I-Claim
 concerned	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
 it	_	_	B-Premise
 was	_	_	I-Premise
@@ -1284,7 +1242,7 @@ in	_	_	I-Premise
 a	_	_	I-Premise
 running	_	_	I-Premise
 mate	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 More	_	_	O
 than	_	_	O
 that	_	_	O
@@ -1301,7 +1259,7 @@ we	_	_	I-Premise
 had	_	_	I-Premise
 to	_	_	I-Premise
 make	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Vice	_	_	I-Premise
 President	_	_	I-Premise
@@ -1309,7 +1267,7 @@ talks	_	_	I-Premise
 about	_	_	I-Premise
 national	_	_	I-Premise
 security	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Three	_	_	B-Premise
 times	_	_	I-Premise
 since	_	_	I-Premise
@@ -1331,7 +1289,7 @@ and	_	_	I-Premise
 commander	_	_	I-Premise
 in	_	_	I-Premise
 chief	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 picked	_	_	O
 Lloyd	_	_	O
@@ -1349,15 +1307,13 @@ person	_	_	I-Claim
 for	_	_	I-Claim
 the	_	_	I-Claim
 job	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-GOY	_	_	O
+
+Mr	_	_	O
 .	_	_	O
-
-
-Mr.	_	_	O
 Bush	_	_	O
 picked	_	_	O
 Dan	_	_	O
@@ -1396,7 +1352,6 @@ did	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
@@ -1405,13 +1360,13 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
 Thank	_	_	O
 you	_	_	O
 ,	_	_	O
 Bernie	_	_	O
 .	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -1425,7 +1380,7 @@ lips	_	_	O
 no	_	_	B-Claim
 new	_	_	I-Claim
 taxes	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 despite	_	_	B-Premise
 that	_	_	I-Premise
@@ -1470,20 +1425,17 @@ long	_	_	I-Premise
 distance	_	_	I-Premise
 telephone	_	_	I-Premise
 calls	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
-that	_	_	B-Premise
-'s	_	_	I-Premise
+that's	_	_	B-Premise
 money	_	_	I-Premise
 straight	_	_	I-Premise
 out	_	_	I-Premise
 of	_	_	I-Premise
-people	_	_	I-Premise
-'s	_	_	I-Premise
+people's	_	_	I-Premise
 wallets	_	_	I-Premise
-.	_	_	I-Premise
-Is	_	_	O
-n't	_	_	O
+.	_	_	O
+Isn't	_	_	O
 the	_	_	O
 phrase	_	_	O
 ,	_	_	O
@@ -1496,12 +1448,10 @@ the	_	_	O
 voters	_	_	O
 ?	_	_	O
 
-
 No	_	_	B-Claim
 ,	_	_	O
 because	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 pledged	_	_	I-Premise
 to	_	_	I-Premise
 that	_	_	I-Premise
@@ -1514,7 +1464,7 @@ taxes	_	_	I-Premise
 have	_	_	I-Premise
 gone	_	_	I-Premise
 up	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 the	_	_	O
 main	_	_	O
@@ -1543,7 +1493,7 @@ the	_	_	I-Premise
 last	_	_	I-Premise
 three	_	_	I-Premise
 years	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 what	_	_	B-Claim
@@ -1556,10 +1506,9 @@ keep	_	_	I-Claim
 this	_	_	I-Claim
 expansion	_	_	I-Claim
 going	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 kill	_	_	I-Claim
@@ -1569,7 +1518,7 @@ by	_	_	I-Claim
 a	_	_	I-Claim
 tax	_	_	I-Claim
 increase	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 More	_	_	B-Premise
 Americans	_	_	I-Premise
 at	_	_	I-Premise
@@ -1594,7 +1543,7 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 work	_	_	I-Premise
 force	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 the	_	_	B-Premise
 way	_	_	I-Premise
@@ -1605,11 +1554,10 @@ is	_	_	I-Premise
 to	_	_	I-Premise
 raise	_	_	I-Premise
 taxes	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
@@ -1617,11 +1565,10 @@ that	_	_	I-Claim
 ,	_	_	O
 and	_	_	O
 I	_	_	B-Claim
-wo	_	_	I-Claim
-n't	_	_	I-Claim
+won't	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 what	_	_	B-Claim
 I	_	_	I-Claim
@@ -1631,10 +1578,9 @@ is	_	_	I-Claim
 something	_	_	I-Claim
 much	_	_	I-Claim
 better	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 take	_	_	I-Claim
@@ -1643,9 +1589,8 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 executive	_	_	I-Claim
 branch	_	_	I-Claim
-;	_	_	I-Claim
-it	_	_	B-Claim
-'s	_	_	I-Claim
+;	_	_	O
+it's	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 take	_	_	I-Claim
@@ -1654,7 +1599,7 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 congressional	_	_	I-Claim
 branch	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 that	_	_	B-Premise
 is	_	_	I-Premise
@@ -1686,7 +1631,7 @@ to	_	_	I-Premise
 add	_	_	I-Premise
 on	_	_	I-Premise
 spending	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 hear	_	_	O
 this	_	_	O
@@ -1761,8 +1706,7 @@ on	_	_	O
 taxes	_	_	O
 .	_	_	O
 So	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 pledged	_	_	O
 to	_	_	O
 do	_	_	O
@@ -1774,13 +1718,11 @@ pessimists	_	_	O
 who	_	_	O
 say	_	_	O
 it	_	_	O
-ca	_	_	O
-n't	_	_	O
+can't	_	_	O
 be	_	_	O
 done	_	_	O
 ,	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 sorry	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -1792,8 +1734,8 @@ disagreement	_	_	O
 with	_	_	O
 them	_	_	O
 
-
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
 your	_	_	O
@@ -1803,7 +1745,6 @@ minute	_	_	O
 response	_	_	O
 .	_	_	O
 
-
 Ann	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -1812,9 +1753,8 @@ President	_	_	I-Premise
 made	_	_	I-Premise
 that	_	_	I-Premise
 pledge	_	_	I-Premise
-.	_	_	I-Premise
-He	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+He's	_	_	B-Premise
 broken	_	_	I-Premise
 it	_	_	I-Premise
 three	_	_	I-Premise
@@ -1824,23 +1764,20 @@ the	_	_	I-Premise
 past	_	_	I-Premise
 year	_	_	I-Premise
 already	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 it	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 worth	_	_	I-Claim
 the	_	_	I-Claim
 paper	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 printed	_	_	I-Claim
 on	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 what	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 concerned	_	_	O
 about	_	_	O
 is	_	_	O
@@ -1852,7 +1789,8 @@ with	_	_	O
 the	_	_	O
 policies	_	_	O
 that	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Bush	_	_	O
 is	_	_	O
 talking	_	_	O
@@ -1890,8 +1828,7 @@ around	_	_	O
 .	_	_	O
 He	_	_	O
 says	_	_	O
-he	_	_	B-Claim
-'s	_	_	I-Claim
+he's	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
@@ -1905,7 +1842,7 @@ broken	_	_	I-Premise
 that	_	_	I-Premise
 pledge	_	_	I-Premise
 repeatedly	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	O
 says	_	_	O
 he	_	_	B-Premise
@@ -1933,17 +1870,15 @@ tax	_	_	I-Premise
 break	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-we	_	_	B-Claim
-'re	_	_	I-Claim
+we're	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 pay	_	_	I-Claim
 for	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-he	_	_	B-Premise
-'s	_	_	I-Premise
+he's	_	_	B-Premise
 been	_	_	I-Premise
 proposing	_	_	I-Premise
 all	_	_	I-Premise
@@ -1955,7 +1890,7 @@ new	_	_	I-Premise
 spending	_	_	I-Premise
 costing	_	_	I-Premise
 billions	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 if	_	_	B-Claim
 we	_	_	I-Claim
@@ -1974,8 +1909,7 @@ worth	_	_	I-Claim
 of	_	_	I-Claim
 new	_	_	I-Claim
 debt	_	_	I-Claim
-that	_	_	I-Claim
-'s	_	_	I-Claim
+that's	_	_	I-Claim
 already	_	_	I-Claim
 been	_	_	I-Claim
 added	_	_	I-Claim
@@ -2005,8 +1939,7 @@ four	_	_	I-Claim
 years	_	_	I-Claim
 ,	_	_	I-Claim
 then	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 worried	_	_	I-Claim
 about	_	_	I-Claim
 the	_	_	I-Claim
@@ -2021,7 +1954,7 @@ turn	_	_	I-Claim
 this	_	_	I-Claim
 situation	_	_	I-Claim
 around	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 No	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -2034,14 +1967,13 @@ is	_	_	I-Claim
 prepared	_	_	I-Claim
 to	_	_	I-Claim
 lead	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 who	_	_	B-Claim
-wo	_	_	I-Claim
-n't	_	_	I-Claim
+won't	_	_	I-Claim
 blame	_	_	I-Claim
 the	_	_	I-Claim
 Congress	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 who	_	_	B-Claim
 will	_	_	I-Claim
 lead	_	_	I-Claim
@@ -2059,9 +1991,7 @@ choices	_	_	I-Claim
 on	_	_	I-Claim
 spending	_	_	I-Claim
 
-
 Governor	_	_	O
-
 
 will	_	_	B-Claim
 go	_	_	I-Claim
@@ -2085,18 +2015,16 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 And	_	_	O
 to	_	_	O
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -2109,8 +2037,7 @@ that	_	_	O
 by	_	_	O
 asking	_	_	O
 you	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 said	_	_	O
 it	_	_	O
 many	_	_	O
@@ -2152,21 +2079,18 @@ federal	_	_	O
 budget	_	_	O
 ?	_	_	O
 
-
 No	_	_	B-Claim
 ,	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 not	_	_	I-Premise
 sure	_	_	I-Premise
 I	_	_	I-Premise
 can	_	_	I-Premise
 promise	_	_	I-Premise
 that	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 either	_	_	I-Claim
 one	_	_	I-Claim
@@ -2174,7 +2098,7 @@ of	_	_	I-Claim
 us	_	_	I-Claim
 can	_	_	I-Claim
 really	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 There	_	_	B-Claim
 is	_	_	I-Claim
 no	_	_	I-Claim
@@ -2184,7 +2108,7 @@ anticipating	_	_	I-Claim
 what	_	_	I-Claim
 may	_	_	I-Claim
 happen	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 will	_	_	O
 say	_	_	O
@@ -2213,7 +2137,7 @@ tough	_	_	I-Claim
 choices	_	_	I-Claim
 on	_	_	I-Claim
 spending	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 it	_	_	B-Claim
 will	_	_	I-Claim
 require	_	_	I-Claim
@@ -2224,7 +2148,7 @@ rate	_	_	I-Claim
 of	_	_	I-Claim
 economic	_	_	I-Claim
 growth	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 it	_	_	B-Claim
 will	_	_	I-Claim
 require	_	_	I-Claim
@@ -2238,8 +2162,7 @@ out	_	_	I-Claim
 with	_	_	I-Claim
 the	_	_	I-Claim
 Congress	_	_	I-Claim
-does	_	_	I-Claim
-n't	_	_	I-Claim
+doesn't	_	_	I-Claim
 blame	_	_	I-Claim
 them	_	_	I-Claim
 ,	_	_	I-Claim
@@ -2254,7 +2177,7 @@ brings	_	_	I-Claim
 that	_	_	I-Claim
 deficit	_	_	I-Claim
 down	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 it	_	_	B-Claim
 will	_	_	I-Claim
 require	_	_	I-Claim
@@ -2273,17 +2196,15 @@ in	_	_	I-Claim
 taxes	_	_	I-Claim
 owed	_	_	I-Claim
 that	_	_	I-Claim
-are	_	_	I-Claim
-n't	_	_	I-Claim
+aren't	_	_	I-Claim
 being	_	_	I-Claim
 paid	_	_	I-Claim
 in	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-that	_	_	B-Premise
-'s	_	_	I-Premise
+that's	_	_	B-Premise
 grossly	_	_	I-Premise
 unfair	_	_	I-Premise
 to	_	_	I-Premise
@@ -2301,21 +2222,20 @@ them	_	_	I-Premise
 on	_	_	I-Premise
 time	_	_	I-Premise
 and	_	_	I-Premise
-does	_	_	I-Premise
-n't	_	_	I-Premise
+doesn't	_	_	I-Premise
 have	_	_	I-Premise
 any	_	_	I-Premise
 alternative	_	_	I-Premise
 :	_	_	I-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 taken	_	_	I-Premise
 out	_	_	I-Premise
 of	_	_	I-Premise
 his	_	_	I-Premise
 paycheck	_	_	I-Premise
-.	_	_	I-Premise
-Mr.	_	_	O
+.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Bush	_	_	O
 says	_	_	O
 we	_	_	B-Claim
@@ -2328,9 +2248,8 @@ IRS	_	_	I-Claim
 on	_	_	I-Claim
 every	_	_	I-Claim
 taxpayer	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+That's	_	_	B-Claim
 not	_	_	I-Claim
 what	_	_	I-Claim
 we	_	_	I-Claim
@@ -2338,21 +2257,19 @@ are	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'m	_	_	I-Premise
+.	_	_	O
+I'm	_	_	B-Premise
 for	_	_	I-Premise
 the	_	_	I-Premise
 taxpayer	_	_	I-Premise
 bill	_	_	I-Premise
 of	_	_	I-Premise
 rights	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 unconscionable	_	_	I-Claim
 ,	_	_	I-Claim
 Ann	_	_	I-Claim
@@ -2387,11 +2304,10 @@ in	_	_	I-Claim
 taxes	_	_	I-Claim
 owed	_	_	I-Claim
 that	_	_	I-Claim
-are	_	_	I-Claim
-n't	_	_	I-Claim
+aren't	_	_	I-Claim
 being	_	_	I-Claim
 paid	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -2492,7 +2408,7 @@ clean	_	_	I-Claim
 and	_	_	I-Claim
 safe	_	_	I-Claim
 environment	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Claim
 can	_	_	I-Claim
 do	_	_	I-Claim
@@ -2520,7 +2436,7 @@ good	_	_	I-Claim
 strong	_	_	I-Claim
 fiscal	_	_	I-Claim
 foundation	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Senator	_	_	O
 Bentsen	_	_	O
 said	_	_	O
@@ -2559,7 +2475,7 @@ an	_	_	I-Claim
 illusion	_	_	I-Claim
 of	_	_	I-Claim
 prosperity	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 sooner	_	_	B-Claim
 or	_	_	I-Claim
@@ -2568,12 +2484,11 @@ that	_	_	I-Claim
 credit	_	_	I-Claim
 card	_	_	I-Claim
 mentality	_	_	I-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 work	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
@@ -2628,17 +2543,16 @@ kids	_	_	I-Premise
 and	_	_	I-Premise
 our	_	_	I-Premise
 grandkids	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
 your	_	_	O
 response	_	_	O
 .	_	_	O
-
 
 The	_	_	B-Premise
 Governor	_	_	I-Premise
@@ -2656,14 +2570,14 @@ required	_	_	I-Premise
 to	_	_	I-Premise
 by	_	_	I-Premise
 law	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 has	_	_	I-Premise
 raised	_	_	I-Premise
 taxes	_	_	I-Premise
 several	_	_	I-Premise
 times	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 wish	_	_	I-Premise
 he	_	_	I-Premise
@@ -2699,12 +2613,11 @@ line	_	_	I-Premise
 -	_	_	I-Premise
 item	_	_	I-Premise
 veto	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-I	_	_	B-Premise
-'d	_	_	I-Premise
+I'd	_	_	B-Premise
 like	_	_	I-Premise
 to	_	_	I-Premise
 have	_	_	I-Premise
@@ -2725,18 +2638,16 @@ would	_	_	I-Claim
 be	_	_	I-Claim
 extraordinarily	_	_	I-Claim
 helpful	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
-wo	_	_	I-Claim
-n't	_	_	I-Claim
+won't	_	_	I-Claim
 do	_	_	I-Claim
 one	_	_	I-Claim
 other	_	_	I-Claim
 thing	_	_	I-Claim
 that	_	_	I-Claim
-he	_	_	I-Claim
-'s	_	_	I-Claim
+he's	_	_	I-Claim
 had	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
@@ -2751,8 +2662,7 @@ his	_	_	I-Claim
 state	_	_	I-Claim
 pension	_	_	I-Claim
 fund	_	_	I-Claim
-that	_	_	I-Claim
-'s	_	_	I-Claim
+that's	_	_	I-Claim
 equivalent	_	_	I-Claim
 at	_	_	I-Claim
 the	_	_	I-Claim
@@ -2767,28 +2677,25 @@ Social	_	_	I-Claim
 Security	_	_	I-Claim
 trust	_	_	I-Claim
 fund	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 I	_	_	B-Claim
-wo	_	_	I-Claim
-n't	_	_	I-Claim
+won't	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
 And	_	_	O
 so	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 still	_	_	I-Premise
 a	_	_	I-Premise
 little	_	_	I-Premise
@@ -2796,15 +2703,14 @@ unclear	_	_	I-Premise
 as	_	_	I-Premise
 to	_	_	I-Premise
 whether	_	_	I-Premise
-he	_	_	I-Premise
-'s	_	_	I-Premise
+he's	_	_	I-Premise
 for	_	_	I-Premise
 or	_	_	I-Premise
 against	_	_	I-Premise
 the	_	_	I-Premise
 tax	_	_	I-Premise
 increase	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 have	_	_	O
 been	_	_	O
@@ -2838,14 +2744,12 @@ of	_	_	I-Premise
 IRS	_	_	I-Premise
 agents	_	_	I-Premise
 into	_	_	I-Premise
-everybody	_	_	I-Premise
-'s	_	_	I-Premise
+everybody's	_	_	I-Premise
 kitchen	_	_	I-Premise
 I	_	_	I-Premise
 mean	_	_	I-Premise
 ,	_	_	I-Premise
-he	_	_	I-Premise
-'s	_	_	I-Premise
+he's	_	_	I-Premise
 against	_	_	I-Premise
 most	_	_	I-Premise
 defense	_	_	I-Premise
@@ -2865,35 +2769,31 @@ auditors	_	_	I-Premise
 going	_	_	I-Premise
 out	_	_	I-Premise
 there	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 against	_	_	I-Claim
 that	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 I	_	_	B-Claim
 oppose	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Boos	_	_	O
 and	_	_	O
 applause	_	_	O
 )	_	_	O
 
-
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 going	_	_	O
 to	_	_	O
 say	_	_	O
 this	_	_	O
 and	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 going	_	_	O
 to	_	_	O
 say	_	_	O
@@ -2919,7 +2819,7 @@ to	_	_	I-Premise
 the	_	_	I-Premise
 American	_	_	I-Premise
 voters	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 they	_	_	B-Claim
 should	_	_	I-Claim
 be	_	_	I-Claim
@@ -2929,7 +2829,7 @@ you	_	_	B-Claim
 should	_	_	I-Claim
 be	_	_	I-Claim
 quiet	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 If	_	_	O
 you	_	_	O
 are	_	_	O
@@ -2954,8 +2854,7 @@ partisans	_	_	O
 .	_	_	O
 But	_	_	O
 we	_	_	B-Claim
-can	_	_	I-Claim
-not	_	_	I-Claim
+cannot	_	_	I-Claim
 get	_	_	I-Claim
 through	_	_	I-Claim
 this	_	_	I-Claim
@@ -2963,7 +2862,7 @@ program	_	_	I-Claim
 with	_	_	I-Claim
 these	_	_	I-Claim
 outbursts	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Margaret	_	_	O
 Warner	_	_	O
 for	_	_	O
@@ -2971,13 +2870,13 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-
 Good	_	_	O
 evening	_	_	O
 ,	_	_	O
 Governor	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
@@ -3000,24 +2899,19 @@ on	_	_	O
 heart	_	_	O
 .	_	_	O
 
-
 Just	_	_	O
 a	_	_	O
 minute	_	_	O
 .	_	_	O
 
-
-You	_	_	O
-'ll	_	_	O
+You'll	_	_	O
 get	_	_	O
 your	_	_	O
 turn	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 know	_	_	O
 if	_	_	O
 the	_	_	O
@@ -3028,7 +2922,6 @@ with	_	_	O
 that	_	_	O
 .	_	_	O
 
-
 The	_	_	B-Claim
 American	_	_	I-Claim
 public	_	_	I-Claim
@@ -3037,14 +2930,13 @@ your	_	_	I-Claim
 performance	_	_	I-Claim
 ,	_	_	I-Claim
 but	_	_	I-Claim
-did	_	_	I-Claim
-n't	_	_	I-Claim
+didn't	_	_	I-Claim
 seem	_	_	I-Claim
 to	_	_	I-Claim
 like	_	_	I-Claim
 you	_	_	I-Claim
 much	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 Ronald	_	_	B-Premise
@@ -3060,7 +2952,7 @@ a	_	_	I-Premise
 tremendous	_	_	I-Premise
 political	_	_	I-Premise
 asset	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Do	_	_	O
 you	_	_	O
 think	_	_	O
@@ -3078,7 +2970,6 @@ effective	_	_	O
 leader	_	_	O
 ?	_	_	O
 
-
 Margaret	_	_	O
 ,	_	_	O
 may	_	_	O
@@ -3094,8 +2985,7 @@ vice	_	_	O
 president	_	_	O
 that	_	_	O
 I	_	_	B-Claim
-did	_	_	I-Claim
-n't	_	_	I-Claim
+didn't	_	_	I-Claim
 raid	_	_	I-Claim
 the	_	_	I-Claim
 pension	_	_	I-Claim
@@ -3110,19 +3000,17 @@ wrong	_	_	I-Claim
 George	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
-did	_	_	I-Claim
-n't	_	_	I-Claim
+didn't	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 As	_	_	O
 a	_	_	O
 matter	_	_	O
 of	_	_	O
 fact	_	_	O
 ,	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 the	_	_	I-Premise
 first	_	_	I-Premise
 governor	_	_	I-Premise
@@ -3139,8 +3027,7 @@ pension	_	_	I-Premise
 system	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 very	_	_	O
 proud	_	_	O
 of	_	_	O
@@ -3162,16 +3049,14 @@ years	_	_	I-Premise
 ,	_	_	O
 Margaret	_	_	O
 ;	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 won	_	_	I-Premise
 a	_	_	I-Premise
 lot	_	_	I-Premise
 of	_	_	I-Premise
 elections	_	_	I-Premise
 ,	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 lost	_	_	I-Premise
 a	_	_	I-Premise
 few	_	_	I-Premise
@@ -3185,7 +3070,7 @@ learned	_	_	I-Premise
 from	_	_	I-Premise
 those	_	_	I-Premise
 losses	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 won	_	_	I-Premise
 the	_	_	I-Premise
@@ -3197,30 +3082,27 @@ fifty	_	_	I-Premise
 one	_	_	I-Premise
 separate	_	_	I-Premise
 contests	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 a	_	_	I-Claim
 reasonably	_	_	I-Claim
 likable	_	_	I-Claim
 guy	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Laughter	_	_	O
 ,	_	_	O
 scattered	_	_	O
 applause	_	_	O
 )	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 serious	_	_	O
 though	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 a	_	_	I-Claim
 little	_	_	I-Claim
 more	_	_	I-Claim
@@ -3243,15 +3125,14 @@ in	_	_	I-Claim
 my	_	_	I-Claim
 state	_	_	I-Claim
 legislature	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 also	_	_	I-Claim
 a	_	_	I-Claim
 serious	_	_	I-Claim
 guy	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -3280,7 +3161,7 @@ a	_	_	I-Claim
 very	_	_	I-Claim
 serious	_	_	I-Claim
 way	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 I	_	_	O
 hope	_	_	O
@@ -3326,8 +3207,7 @@ But	_	_	O
 I	_	_	B-Claim
 also	_	_	I-Claim
 think	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 important	_	_	I-Claim
 to	_	_	I-Claim
 be	_	_	I-Claim
@@ -3340,7 +3220,7 @@ make	_	_	I-Claim
 those	_	_	I-Claim
 tough	_	_	I-Claim
 choices	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -3356,14 +3236,13 @@ the	_	_	O
 vice	_	_	O
 president	_	_	O
 :	_	_	O
-he	_	_	B-Claim
-'s	_	_	I-Claim
+he's	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 raise	_	_	I-Claim
 taxes	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 repeat	_	_	O
 ,	_	_	O
@@ -3378,7 +3257,7 @@ pledge	_	_	I-Premise
 you	_	_	I-Premise
 broke	_	_	I-Premise
 it	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 you	_	_	B-Premise
 said	_	_	I-Premise
 ,	_	_	I-Premise
@@ -3389,19 +3268,17 @@ as	_	_	I-Premise
 a	_	_	I-Premise
 last	_	_	I-Premise
 resort	_	_	I-Premise
-we	_	_	I-Premise
-'ll	_	_	I-Premise
+we'll	_	_	I-Premise
 do	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 you	_	_	B-Premise
 supported	_	_	I-Premise
 legislation	_	_	I-Premise
 this	_	_	I-Premise
 year	_	_	I-Premise
-that	_	_	I-Premise
-'s	_	_	I-Premise
+that's	_	_	I-Premise
 involved	_	_	I-Premise
 tax	_	_	I-Premise
 increases	_	_	I-Premise
@@ -3410,12 +3287,11 @@ once	_	_	I-Premise
 ,	_	_	I-Premise
 but	_	_	I-Premise
 twice	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 that	_	_	B-Claim
 pledge	_	_	I-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 realistic	_	_	I-Claim
 ,	_	_	O
 and	_	_	O
@@ -3426,7 +3302,7 @@ vice	_	_	I-Claim
 president	_	_	I-Claim
 knows	_	_	I-Claim
 it	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -3436,7 +3312,7 @@ this	_	_	I-Claim
 country	_	_	I-Claim
 know	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	O
 fact	_	_	O
 of	_	_	O
@@ -3475,8 +3351,7 @@ the	_	_	I-Claim
 Congress	_	_	I-Claim
 seriously	_	_	I-Claim
 he	_	_	B-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 turn	_	_	I-Premise
 to	_	_	I-Premise
 the	_	_	I-Premise
@@ -3489,8 +3364,7 @@ the	_	_	I-Premise
 fact	_	_	I-Premise
 that	_	_	I-Premise
 we	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 have	_	_	I-Premise
 a	_	_	I-Premise
 balanced	_	_	I-Premise
@@ -3507,7 +3381,7 @@ dollars	_	_	I-Premise
 in	_	_	I-Premise
 red	_	_	I-Premise
 ink	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
@@ -3544,8 +3418,7 @@ kind	_	_	I-Claim
 of	_	_	I-Claim
 job	_	_	I-Claim
 that	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 elected	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
@@ -3585,7 +3458,7 @@ ourselves	_	_	I-Claim
 and	_	_	I-Claim
 our	_	_	I-Claim
 people	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -3612,8 +3485,7 @@ all	_	_	I-Premise
 of	_	_	I-Premise
 our	_	_	I-Premise
 citizens	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 One	_	_	O
 minute	_	_	O
@@ -3623,13 +3495,10 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 a	_	_	I-Claim
 question	_	_	I-Claim
 of	_	_	I-Claim
@@ -3645,11 +3514,10 @@ you	_	_	I-Claim
 an	_	_	I-Claim
 effective	_	_	I-Claim
 leader	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 whether	_	_	I-Claim
 you	_	_	I-Claim
 share	_	_	I-Claim
@@ -3667,8 +3535,7 @@ have	_	_	I-Claim
 confidence	_	_	I-Claim
 in	_	_	I-Claim
 the	_	_	I-Claim
-people	_	_	I-Claim
-'s	_	_	I-Claim
+people's	_	_	I-Claim
 ability	_	_	I-Claim
 to	_	_	I-Claim
 get	_	_	I-Claim
@@ -3695,14 +3562,16 @@ do	_	_	O
 to	_	_	O
 Washington	_	_	O
 ,	_	_	O
-D.C.	_	_	O
+D	_	_	O
+.	_	_	O
+C	_	_	O
+.	_	_	O
 You	_	_	O
 see	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-it	_	_	I-Claim
-'s	_	_	I-Claim
+it's	_	_	I-Claim
 a	_	_	I-Claim
 question	_	_	I-Claim
 of	_	_	I-Claim
@@ -3711,10 +3580,10 @@ values	_	_	I-Claim
 not	_	_	I-Claim
 likability	_	_	I-Claim
 or	_	_	I-Claim
-loveability	_	_	I-Claim
+love	_	_	I-Claim
+ability	_	_	I-Claim
 ,	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 a	_	_	I-Claim
 question	_	_	I-Claim
 in	_	_	I-Claim
@@ -3743,14 +3612,13 @@ arms	_	_	I-Claim
 control	_	_	I-Claim
 ,	_	_	O
 because	_	_	O
-you	_	_	B-Premise
-'d	_	_	I-Premise
+you'd	_	_	B-Premise
 know	_	_	I-Premise
 exactly	_	_	I-Premise
 how	_	_	I-Premise
 to	_	_	I-Premise
 begin	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	B-Premise
 have	_	_	I-Premise
 to	_	_	I-Premise
@@ -3772,9 +3640,8 @@ that	_	_	I-Premise
 you	_	_	I-Premise
 enhance	_	_	I-Premise
 peace	_	_	I-Premise
-.	_	_	I-Premise
-You	_	_	O
-'ve	_	_	O
+.	_	_	O
+You've	_	_	O
 got	_	_	O
 to	_	_	O
 understand	_	_	O
@@ -3797,8 +3664,7 @@ the	_	_	I-Claim
 world	_	_	I-Claim
 and	_	_	O
 we	_	_	B-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 turn	_	_	I-Claim
 it	_	_	I-Claim
 over	_	_	I-Claim
@@ -3810,7 +3676,7 @@ or	_	_	I-Claim
 other	_	_	I-Claim
 multilateral	_	_	I-Claim
 organizations	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Premise
 is	_	_	I-Premise
 ,	_	_	I-Premise
@@ -3824,7 +3690,7 @@ heartbeat	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 country	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 know	_	_	O
@@ -3838,8 +3704,7 @@ lot	_	_	I-Premise
 but	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-I	_	_	I-Claim
-'d	_	_	I-Claim
+I'd	_	_	I-Claim
 be	_	_	I-Claim
 a	_	_	I-Claim
 better	_	_	I-Claim
@@ -3863,15 +3728,13 @@ the	_	_	I-Claim
 importance	_	_	I-Claim
 of	_	_	I-Claim
 neighborhood	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 Please	_	_	O
 .	_	_	O
-
 
 Margaret	_	_	O
 Warner	_	_	O
@@ -3881,16 +3744,15 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 like	_	_	O
 to	_	_	O
 follow	_	_	O
 up	_	_	O
 on	_	_	O
 that	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
@@ -3899,8 +3761,7 @@ tenor	_	_	I-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
 campaign	_	_	I-Claim
-you	_	_	I-Claim
-'ve	_	_	I-Claim
+you've	_	_	I-Claim
 been	_	_	I-Claim
 running	_	_	I-Claim
 ,	_	_	I-Claim
@@ -3920,12 +3781,11 @@ some	_	_	I-Claim
 of	_	_	I-Claim
 your	_	_	I-Claim
 friends	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Senator	_	_	B-Premise
 Mark	_	_	I-Premise
 Hatfield	_	_	I-Premise
-who	_	_	I-Premise
-'s	_	_	I-Premise
+who's	_	_	I-Premise
 known	_	_	I-Premise
 your	_	_	I-Premise
 family	_	_	I-Premise
@@ -3958,8 +3818,7 @@ were	_	_	I-Premise
 alive	_	_	I-Premise
 today	_	_	I-Premise
 ,	_	_	I-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 sure	_	_	I-Premise
 his	_	_	I-Premise
 father	_	_	I-Premise
@@ -3978,14 +3837,12 @@ Hatfield	_	_	O
 right	_	_	O
 ?	_	_	O
 
-
 What	_	_	O
 was	_	_	O
 he	_	_	O
 referring	_	_	O
 to	_	_	O
 ?	_	_	O
-
 
 He	_	_	O
 was	_	_	O
@@ -3997,7 +3854,6 @@ in	_	_	O
 the	_	_	O
 campaign	_	_	O
 .	_	_	O
-
 
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -4013,8 +3869,7 @@ me	_	_	I-Claim
 because	_	_	O
 I	_	_	O
 think	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 come	_	_	I-Premise
 a	_	_	I-Premise
 long	_	_	I-Premise
@@ -4044,11 +3899,10 @@ had	_	_	I-Premise
 written	_	_	I-Premise
 me	_	_	I-Premise
 off	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 what	_	_	B-Claim
-I	_	_	I-Claim
-'ve	_	_	I-Claim
+I've	_	_	I-Claim
 had	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
@@ -4067,8 +3921,7 @@ his	_	_	I-Claim
 and	_	_	O
 I	_	_	O
 hope	_	_	O
-I	_	_	O
-'ve	_	_	O
+I've	_	_	O
 done	_	_	O
 it	_	_	O
 fairly	_	_	O
@@ -4076,8 +3929,7 @@ fairly	_	_	O
 And	_	_	O
 the	_	_	O
 reason	_	_	O
-I	_	_	O
-'ve	_	_	O
+I've	_	_	O
 had	_	_	O
 to	_	_	O
 do	_	_	O
@@ -4105,7 +3957,7 @@ ran	_	_	I-Premise
 on	_	_	I-Premise
 his	_	_	I-Premise
 record	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 then	_	_	B-Premise
 at	_	_	I-Premise
@@ -4123,13 +3975,12 @@ said	_	_	I-Premise
 there	_	_	I-Premise
 ,	_	_	I-Premise
 ideology	_	_	I-Premise
-does	_	_	I-Premise
-n't	_	_	I-Premise
+doesn't	_	_	I-Premise
 matter	_	_	I-Premise
 ,	_	_	I-Premise
 just	_	_	I-Premise
 competence	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 in	_	_	B-Premise
 the	_	_	I-Premise
@@ -4137,10 +3988,9 @@ process	_	_	I-Premise
 the	_	_	I-Premise
 negatives	_	_	I-Premise
 began	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Premise
-was	_	_	I-Premise
-n't	_	_	I-Premise
+wasn't	_	_	I-Premise
 me	_	_	I-Premise
 that	_	_	I-Premise
 was	_	_	I-Premise
@@ -4148,7 +3998,7 @@ there	_	_	I-Premise
 at	_	_	I-Premise
 that	_	_	I-Premise
 convention	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Thank	_	_	O
 God	_	_	O
 I	_	_	B-Premise
@@ -4163,8 +4013,7 @@ camping	_	_	I-Premise
 out	_	_	I-Premise
 and	_	_	O
 I	_	_	B-Premise
-did	_	_	I-Premise
-n't	_	_	I-Premise
+didn't	_	_	I-Premise
 have	_	_	I-Premise
 to	_	_	I-Premise
 hear	_	_	I-Premise
@@ -4179,10 +4028,9 @@ of	_	_	I-Premise
 that	_	_	I-Premise
 Democratic	_	_	I-Premise
 convention	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 the	_	_	I-Claim
 one	_	_	I-Claim
@@ -4204,13 +4052,12 @@ from	_	_	I-Claim
 the	_	_	I-Claim
 head	_	_	I-Claim
 down	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
-did	_	_	I-Claim
-n't	_	_	I-Claim
+didn't	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 have	_	_	I-Claim
@@ -4238,8 +4085,7 @@ these	_	_	I-Claim
 very	_	_	I-Claim
 liberal	_	_	I-Claim
 position	_	_	I-Claim
-he	_	_	O
-'s	_	_	O
+he's	_	_	O
 the	_	_	O
 one	_	_	O
 a	_	_	O
@@ -4252,8 +4098,7 @@ progressive	_	_	O
 liberal	_	_	O
 Democrat	_	_	O
 .	_	_	O
-He	_	_	B-Premise
-'s	_	_	I-Premise
+He's	_	_	B-Premise
 the	_	_	I-Premise
 one	_	_	I-Premise
 that	_	_	I-Premise
@@ -4271,7 +4116,7 @@ question	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 ACLU	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	B-Premise
 I	_	_	I-Premise
 have	_	_	I-Premise
@@ -4284,7 +4129,7 @@ on	_	_	I-Premise
 their	_	_	I-Premise
 politic	_	_	I-Premise
 agenda	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Not	_	_	B-Premise
 on	_	_	I-Premise
 their	_	_	I-Premise
@@ -4298,16 +4143,15 @@ right	_	_	I-Premise
 or	_	_	I-Premise
 the	_	_	I-Premise
 left	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 support	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 what	_	_	B-Premise
 I	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 like	_	_	I-Premise
 is	_	_	I-Premise
 this	_	_	I-Premise
@@ -4325,8 +4169,7 @@ define	_	_	I-Claim
 that	_	_	I-Claim
 and	_	_	O
 if	_	_	B-Premise
-he	_	_	I-Premise
-'s	_	_	I-Premise
+he's	_	_	I-Premise
 unwilling	_	_	I-Premise
 to	_	_	I-Premise
 do	_	_	I-Premise
@@ -4336,21 +4179,18 @@ if	_	_	I-Premise
 he	_	_	I-Premise
 says	_	_	I-Premise
 ideology	_	_	I-Premise
-does	_	_	I-Premise
-n't	_	_	I-Premise
+doesn't	_	_	I-Premise
 matter	_	_	I-Premise
 ,	_	_	I-Premise
 I	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 agree	_	_	I-Premise
 with	_	_	I-Premise
 him	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 One	_	_	O
 minute	_	_	O
@@ -4359,26 +4199,23 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Margaret	_	_	O
 ,	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 heard	_	_	I-Premise
 it	_	_	I-Premise
 again	_	_	I-Premise
 tonight	_	_	I-Premise
 and	_	_	I-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 not	_	_	I-Premise
 surprised	_	_	I-Premise
 ,	_	_	I-Premise
 the	_	_	I-Premise
 labels	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 guess	_	_	I-Premise
 the	_	_	I-Premise
@@ -4396,7 +4233,7 @@ coming	_	_	I-Premise
 from	_	_	I-Premise
 the	_	_	I-Premise
 left	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 In	_	_	B-Premise
 1980	_	_	I-Premise
 ,	_	_	I-Premise
@@ -4412,7 +4249,7 @@ for	_	_	I-Premise
 Federal	_	_	I-Premise
 gun	_	_	I-Premise
 control	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 this	_	_	B-Premise
 is	_	_	I-Premise
@@ -4424,7 +4261,7 @@ for	_	_	I-Premise
 a	_	_	I-Premise
 long	_	_	I-Premise
 time	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
 tried	_	_	I-Premise
 it	_	_	I-Premise
@@ -4437,19 +4274,17 @@ Truman	_	_	I-Premise
 and	_	_	I-Premise
 John	_	_	I-Premise
 Kennedy	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+It's	_	_	B-Claim
 not	_	_	I-Claim
 labels	_	_	I-Claim
-.	_	_	I-Claim
-It	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+It's	_	_	B-Claim
 our	_	_	I-Claim
 vision	_	_	I-Claim
 of	_	_	I-Claim
 America	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 have	_	_	I-Claim
@@ -4459,7 +4294,7 @@ different	_	_	I-Claim
 visions	_	_	I-Claim
 of	_	_	I-Claim
 America	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Premise
 Vice	_	_	I-Premise
 President	_	_	I-Premise
@@ -4476,8 +4311,7 @@ the	_	_	I-Premise
 status	_	_	I-Premise
 quo	_	_	I-Premise
 ,	_	_	O
-does	_	_	B-Premise
-n't	_	_	I-Premise
+doesn't	_	_	B-Premise
 think	_	_	I-Premise
 we	_	_	I-Premise
 ought	_	_	I-Premise
@@ -4492,11 +4326,10 @@ okay	_	_	I-Premise
 as	_	_	I-Premise
 they	_	_	I-Premise
 are	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
-.	_	_	I-Claim
+don't	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 this	_	_	I-Claim
@@ -4506,8 +4339,7 @@ great	_	_	I-Claim
 country	_	_	I-Claim
 ,	_	_	O
 because	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 always	_	_	I-Premise
 wanted	_	_	I-Premise
 to	_	_	I-Premise
@@ -4525,9 +4357,8 @@ make	_	_	I-Premise
 our	_	_	I-Premise
 lives	_	_	I-Premise
 better	_	_	I-Premise
-.	_	_	I-Premise
-We	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+We've	_	_	B-Premise
 always	_	_	I-Premise
 been	_	_	I-Premise
 a	_	_	I-Premise
@@ -4541,19 +4372,17 @@ and	_	_	I-Premise
 we	_	_	I-Premise
 move	_	_	I-Premise
 forward	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 the	_	_	I-Claim
 kind	_	_	I-Claim
 of	_	_	I-Claim
 America	_	_	I-Claim
 I	_	_	I-Claim
 want	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+That's	_	_	B-Claim
 the	_	_	I-Claim
 kind	_	_	I-Claim
 of	_	_	I-Claim
@@ -4562,11 +4391,10 @@ I	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 provide	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 these	_	_	I-Claim
 labels	_	_	I-Claim
@@ -4598,8 +4426,7 @@ disagreements	_	_	O
 on	_	_	O
 issues	_	_	O
 .	_	_	O
-There	_	_	O
-'s	_	_	O
+There's	_	_	O
 nothing	_	_	O
 the	_	_	O
 matter	_	_	O
@@ -4607,8 +4434,7 @@ with	_	_	O
 that	_	_	O
 .	_	_	O
 But	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 stop	_	_	O
 labeling	_	_	O
 each	_	_	O
@@ -4624,17 +4450,16 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 matter	_	_	I-Claim
 which	_	_	O
-is	_	_	I-Claim
+is	_	_	B-Claim
 the	_	_	I-Claim
 future	_	_	I-Claim
 of	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Andrea	_	_	O
 Mitchell	_	_	O
@@ -4645,14 +4470,15 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
 Governor	_	_	O
 .	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -4699,11 +4525,10 @@ problem	_	_	I-Claim
 of	_	_	I-Claim
 the	_	_	I-Claim
 deficit	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 ,	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 turn	_	_	O
 to	_	_	O
 defense	_	_	O
@@ -4750,7 +4575,7 @@ already	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 pipeline	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	O
 were	_	_	O
 asked	_	_	O
@@ -4790,7 +4615,6 @@ you	_	_	O
 could	_	_	O
 ?	_	_	O
 
-
 If	_	_	B-Premise
 I	_	_	I-Premise
 knew	_	_	I-Premise
@@ -4806,21 +4630,19 @@ were	_	_	I-Premise
 purely	_	_	I-Premise
 waste	_	_	I-Premise
 and	_	_	I-Premise
-were	_	_	I-Premise
-n't	_	_	I-Premise
+weren't	_	_	I-Premise
 protected	_	_	I-Premise
 by	_	_	I-Premise
 the	_	_	I-Premise
 Congress	_	_	I-Premise
 ,	_	_	O
 they	_	_	B-Claim
-would	_	_	I-Claim
-n't	_	_	I-Claim
+wouldn't	_	_	I-Claim
 be	_	_	I-Claim
 in	_	_	I-Claim
 the	_	_	I-Claim
 budget	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 They	_	_	O
 would	_	_	O
 not	_	_	O
@@ -4835,8 +4657,7 @@ want	_	_	O
 one	_	_	O
 now	_	_	O
 ?	_	_	O
-I	_	_	B-Premise
-'ll	_	_	I-Premise
+I'll	_	_	B-Premise
 give	_	_	I-Premise
 you	_	_	I-Premise
 one	_	_	I-Premise
@@ -4848,8 +4669,7 @@ that	_	_	I-Premise
 heavy	_	_	I-Premise
 truck	_	_	I-Premise
 ,	_	_	I-Premise
-that	_	_	I-Premise
-'s	_	_	I-Premise
+that's	_	_	I-Premise
 cost	_	_	I-Premise
 what	_	_	I-Premise
 is	_	_	I-Premise
@@ -4860,8 +4680,7 @@ million	_	_	I-Premise
 and	_	_	I-Premise
 the	_	_	I-Premise
 Pentagon	_	_	I-Premise
-did	_	_	I-Premise
-n't	_	_	I-Premise
+didn't	_	_	I-Premise
 request	_	_	I-Premise
 it	_	_	I-Premise
 and	_	_	I-Premise
@@ -4883,7 +4702,7 @@ it	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 budget	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -4908,7 +4727,7 @@ understand	_	_	I-Claim
 of	_	_	I-Claim
 competitive	_	_	I-Claim
 strategies	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Premise
 is	_	_	I-Premise
 new	_	_	I-Premise
@@ -4919,13 +4738,11 @@ very	_	_	I-Premise
 very	_	_	I-Premise
 different	_	_	I-Premise
 than	_	_	I-Premise
-what	_	_	I-Premise
-'s	_	_	I-Premise
+what's	_	_	I-Premise
 happened	_	_	I-Premise
 ,	_	_	O
 but	_	_	O
-it	_	_	B-Premise
-'s	_	_	I-Premise
+it's	_	_	B-Premise
 not	_	_	I-Premise
 quite	_	_	I-Premise
 ready	_	_	I-Premise
@@ -4933,13 +4750,12 @@ to	_	_	I-Premise
 be	_	_	I-Premise
 totally	_	_	I-Premise
 implemented	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 very	_	_	I-Claim
 important	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 think	_	_	O
 we	_	_	O
@@ -4952,8 +4768,7 @@ Packard	_	_	O
 Commission	_	_	O
 Report	_	_	O
 and	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 very	_	_	O
 proud	_	_	O
 that	_	_	O
@@ -4973,8 +4788,7 @@ me	_	_	O
 .	_	_	O
 So	_	_	O
 ,	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 not	_	_	I-Claim
 a	_	_	I-Claim
 question	_	_	I-Claim
@@ -4989,20 +4803,18 @@ a	_	_	I-Claim
 lot	_	_	I-Claim
 of	_	_	I-Claim
 waste	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 do	_	_	O
 think	_	_	O
 this	_	_	O
 .	_	_	O
-We	_	_	B-Premise
-'re	_	_	I-Premise
+We're	_	_	B-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 serious	_	_	I-Premise
@@ -5019,10 +4831,9 @@ strategic	_	_	I-Premise
 arms	_	_	I-Premise
 control	_	_	I-Premise
 talks	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-we	_	_	B-Premise
-'re	_	_	I-Premise
+we're	_	_	B-Premise
 protecting	_	_	I-Premise
 a	_	_	I-Premise
 couple	_	_	I-Premise
@@ -5035,7 +4846,7 @@ modernizing	_	_	I-Premise
 our	_	_	I-Premise
 strategic	_	_	I-Premise
 forces	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 My	_	_	B-Claim
 Secretary	_	_	I-Claim
 of	_	_	I-Claim
@@ -5057,7 +4868,7 @@ to	_	_	I-Claim
 go	_	_	I-Claim
 forward	_	_	I-Claim
 with	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 we	_	_	B-Premise
 are	_	_	I-Premise
@@ -5065,7 +4876,7 @@ protecting	_	_	I-Premise
 both	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 are	_	_	I-Premise
 moving	_	_	I-Premise
@@ -5102,38 +4913,34 @@ two	_	_	I-Claim
 options	_	_	I-Claim
 right	_	_	I-Claim
 now	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Premise
 Soviets	_	_	I-Premise
 are	_	_	I-Premise
 modernizing	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
 continue	_	_	I-Premise
 to	_	_	I-Premise
 modernize	_	_	I-Premise
 and	_	_	O
 we	_	_	B-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 simply	_	_	I-Claim
-we	_	_	I-Claim
-'ve	_	_	I-Claim
+we've	_	_	I-Claim
 got	_	_	I-Claim
 enough	_	_	I-Claim
 nuclear	_	_	I-Claim
 weapons	_	_	I-Claim
 ,	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 freeze	_	_	O
 .	_	_	O
 We	_	_	B-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Claim
 have	_	_	I-Claim
 to	_	_	I-Claim
@@ -5160,17 +4967,15 @@ the	_	_	I-Premise
 leadership	_	_	I-Premise
 to	_	_	I-Premise
 attain	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 ,	_	_	O
 so	_	_	O
 ,	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 the	_	_	O
 way	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 reply	_	_	O
 to	_	_	O
 it	_	_	O
@@ -5208,8 +5013,7 @@ the	_	_	I-Premise
 Packard	_	_	I-Premise
 Commission	_	_	I-Premise
 report	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 Governor	_	_	O
 Dukakis	_	_	O
@@ -5218,13 +5022,11 @@ one	_	_	O
 minute	_	_	O
 .	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
 ,	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 just	_	_	I-Premise
 had	_	_	I-Premise
 another	_	_	I-Premise
@@ -5233,29 +5035,25 @@ of	_	_	I-Premise
 why	_	_	I-Premise
 the	_	_	I-Premise
 Vice	_	_	I-Premise
-President	_	_	I-Premise
-'s	_	_	I-Premise
+President's	_	_	I-Premise
 mathematics	_	_	I-Premise
 just	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 add	_	_	I-Premise
 up	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 think	_	_	O
 you	_	_	O
 know	_	_	O
 because	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 covered	_	_	O
 these	_	_	O
 issues	_	_	O
 ,	_	_	O
 that	_	_	O
-there	_	_	B-Claim
-'s	_	_	I-Claim
+there's	_	_	B-Claim
 no	_	_	I-Claim
 way	_	_	I-Claim
 that	_	_	I-Claim
@@ -5278,7 +5076,7 @@ within	_	_	I-Claim
 the	_	_	I-Claim
 defense	_	_	I-Claim
 budget	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Everybody	_	_	B-Premise
 knows	_	_	I-Premise
 that	_	_	I-Premise
@@ -5288,7 +5086,7 @@ people	_	_	I-Premise
 at	_	_	I-Premise
 the	_	_	I-Premise
 Pentagon	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 my	_	_	B-Premise
@@ -5307,15 +5105,13 @@ those	_	_	I-Premise
 decisions	_	_	I-Premise
 ,	_	_	O
 but	_	_	B-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 be	_	_	I-Premise
 the	_	_	I-Premise
 President	_	_	I-Premise
-who	_	_	I-Premise
-'s	_	_	I-Premise
+who's	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 have	_	_	I-Premise
@@ -5342,7 +5138,7 @@ are	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 stay	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Claim
 are	_	_	I-Claim
 not	_	_	I-Claim
@@ -5354,7 +5150,8 @@ billions	_	_	I-Claim
 and	_	_	I-Claim
 trillions	_	_	I-Claim
 that	_	_	I-Claim
-Mr.	_	_	I-Claim
+Mr	_	_	I-Claim
+.	_	_	I-Claim
 Bush	_	_	I-Claim
 wants	_	_	I-Claim
 to	_	_	I-Claim
@@ -5362,17 +5159,15 @@ spend	_	_	I-Claim
 on	_	_	I-Claim
 Star	_	_	I-Claim
 Wars	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+We're	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 spend	_	_	I-Claim
 billions	_	_	I-Claim
 on	_	_	I-Claim
-MX	_	_	I-Claim
-'s	_	_	I-Claim
+MX's	_	_	I-Claim
 on	_	_	I-Claim
 railroad	_	_	I-Claim
 cars	_	_	I-Claim
@@ -5383,25 +5178,21 @@ a	_	_	I-Premise
 weapons	_	_	I-Premise
 system	_	_	I-Premise
 we	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 need	_	_	I-Premise
 ,	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 afford	_	_	I-Premise
 and	_	_	I-Premise
-wo	_	_	I-Premise
-n't	_	_	I-Premise
+won't	_	_	I-Premise
 help	_	_	I-Premise
 our	_	_	I-Premise
 defense	_	_	I-Premise
 posture	_	_	I-Premise
 at	_	_	I-Premise
 all	_	_	I-Premise
-.	_	_	I-Premise
-We	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+We're	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
@@ -5417,7 +5208,7 @@ from	_	_	I-Claim
 Washington	_	_	I-Claim
 to	_	_	I-Claim
 Tokyo	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Those	_	_	B-Premise
 are	_	_	I-Premise
 decisions	_	_	I-Premise
@@ -5428,11 +5219,10 @@ executive	_	_	I-Premise
 has	_	_	I-Premise
 to	_	_	I-Premise
 make	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Yes	_	_	O
 ,	_	_	O
-we	_	_	B-Claim
-'re	_	_	I-Claim
+we're	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 have	_	_	I-Claim
@@ -5444,9 +5234,8 @@ and	_	_	I-Claim
 effective	_	_	I-Claim
 nuclear	_	_	I-Claim
 deterrent	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+We're	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 go	_	_	I-Claim
@@ -5456,7 +5245,9 @@ the	_	_	I-Claim
 Stealth	_	_	I-Claim
 and	_	_	I-Claim
 the	_	_	I-Claim
-D-5	_	_	I-Claim
+D	_	_	I-Claim
+-	_	_	I-Claim
+5	_	_	I-Claim
 and	_	_	I-Claim
 the	_	_	I-Claim
 advance	_	_	I-Claim
@@ -5466,7 +5257,7 @@ and	_	_	I-Claim
 good	_	_	I-Claim
 conventional	_	_	I-Claim
 forces	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 the	_	_	B-Premise
 next	_	_	I-Premise
@@ -5484,9 +5275,8 @@ tough	_	_	I-Premise
 and	_	_	I-Premise
 difficult	_	_	I-Premise
 decisions	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 prepared	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
@@ -5497,8 +5287,7 @@ Vice	_	_	I-Claim
 President	_	_	I-Claim
 is	_	_	I-Claim
 not	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Governor	_	_	O
 ,	_	_	O
@@ -5509,7 +5298,6 @@ question	_	_	O
 for	_	_	O
 you	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -5530,7 +5318,7 @@ something	_	_	I-Claim
 about	_	_	I-Claim
 conventional	_	_	I-Claim
 forces	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	B-Premise
 have	_	_	I-Premise
 supported	_	_	I-Premise
@@ -5540,12 +5328,14 @@ launch	_	_	I-Premise
 missile	_	_	I-Premise
 ,	_	_	I-Premise
 the	_	_	I-Premise
-D-5	_	_	I-Premise
+D	_	_	I-Premise
+-	_	_	I-Premise
+5	_	_	I-Premise
 you	_	_	I-Premise
 just	_	_	I-Premise
 referred	_	_	I-Premise
 to	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Yet	_	_	O
 ,	_	_	O
 from	_	_	B-Premise
@@ -5572,7 +5362,7 @@ the	_	_	I-Premise
 land	_	_	I-Premise
 based	_	_	I-Premise
 missiles	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 you	_	_	B-Premise
@@ -5584,7 +5374,7 @@ MX	_	_	I-Premise
 and	_	_	I-Premise
 the	_	_	I-Premise
 Midgetman	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 More	_	_	B-Premise
 recently	_	_	I-Premise
 ,	_	_	I-Premise
@@ -5607,7 +5397,7 @@ new	_	_	I-Premise
 form	_	_	I-Premise
 of	_	_	I-Premise
 missile	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Can	_	_	O
 you	_	_	O
 tell	_	_	O
@@ -5649,7 +5439,6 @@ you	_	_	O
 consider	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -5657,7 +5446,9 @@ Andrea	_	_	O
 today	_	_	O
 we	_	_	O
 have	_	_	O
-13,000	_	_	O
+13	_	_	O
+,	_	_	O
+000	_	_	O
 strategic	_	_	O
 nuclear	_	_	O
 warheads	_	_	O
@@ -5672,8 +5463,7 @@ in	_	_	O
 the	_	_	O
 sea	_	_	O
 .	_	_	O
-That	_	_	O
-'s	_	_	O
+That's	_	_	O
 an	_	_	O
 incredibly	_	_	O
 powerful	_	_	O
@@ -5681,8 +5471,7 @@ nuclear	_	_	O
 deterrent	_	_	O
 .	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 rule	_	_	I-Claim
 out	_	_	I-Claim
 modernization	_	_	I-Claim
@@ -5716,7 +5505,7 @@ leg	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 triad	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 there	_	_	B-Premise
 are	_	_	I-Premise
@@ -5726,21 +5515,20 @@ what	_	_	I-Premise
 we	_	_	I-Premise
 can	_	_	I-Premise
 spend	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 There	_	_	B-Premise
 are	_	_	I-Premise
 limits	_	_	I-Premise
 to	_	_	I-Premise
 this	_	_	I-Premise
-nation	_	_	I-Premise
-'s	_	_	I-Premise
+nation's	_	_	I-Premise
 ability	_	_	I-Premise
 to	_	_	I-Premise
 finance	_	_	I-Premise
 these	_	_	I-Premise
 weapons	_	_	I-Premise
 systems	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 one	_	_	O
 of	_	_	O
@@ -5753,16 +5541,14 @@ President	_	_	O
 either	_	_	O
 ignores	_	_	O
 or	_	_	O
-wo	_	_	O
-n't	_	_	O
+won't	_	_	O
 address	_	_	O
 is	_	_	O
 the	_	_	O
 fact	_	_	O
 that	_	_	O
 you	_	_	B-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 divorce	_	_	I-Claim
 our	_	_	I-Claim
 military	_	_	I-Claim
@@ -5771,7 +5557,7 @@ from	_	_	I-Claim
 our	_	_	I-Claim
 economic	_	_	I-Claim
 security	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 How	_	_	O
 can	_	_	O
 we	_	_	O
@@ -5780,8 +5566,7 @@ a	_	_	O
 strong	_	_	O
 America	_	_	O
 militarily	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 teeter	_	_	O
 -	_	_	O
 tottering	_	_	O
@@ -5825,7 +5610,7 @@ and	_	_	I-Claim
 bigger	_	_	I-Claim
 and	_	_	I-Claim
 bigger	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 military	_	_	B-Claim
 security	_	_	I-Claim
@@ -5836,7 +5621,7 @@ go	_	_	I-Claim
 hand	_	_	I-Claim
 in	_	_	I-Claim
 hand	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Claim
 will	_	_	I-Claim
@@ -5849,9 +5634,8 @@ and	_	_	I-Claim
 credible	_	_	I-Claim
 nuclear	_	_	I-Claim
 deterrent	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+We're	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 have	_	_	I-Claim
@@ -5870,7 +5654,7 @@ trained	_	_	I-Claim
 ,	_	_	I-Claim
 well	_	_	I-Claim
 supported	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
@@ -5886,8 +5670,7 @@ present	_	_	I-Premise
 time	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-they	_	_	B-Claim
-'ll	_	_	I-Claim
+they'll	_	_	B-Claim
 get	_	_	I-Claim
 worse	_	_	I-Claim
 unless	_	_	I-Claim
@@ -5904,7 +5687,7 @@ some	_	_	I-Claim
 of	_	_	I-Claim
 these	_	_	I-Claim
 decisions	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 also	_	_	I-Premise
@@ -5932,7 +5715,7 @@ training	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 environment	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 all	_	_	B-Claim
 of	_	_	I-Claim
@@ -5945,9 +5728,8 @@ have	_	_	I-Claim
 to	_	_	I-Claim
 be	_	_	I-Claim
 addressed	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	O
-'s	_	_	O
+.	_	_	O
+That's	_	_	O
 why	_	_	O
 I	_	_	O
 say	_	_	O
@@ -6001,7 +5783,7 @@ need	_	_	I-Premise
 to	_	_	I-Premise
 defend	_	_	I-Premise
 us	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 the	_	_	B-Premise
 support	_	_	I-Premise
 they	_	_	I-Premise
@@ -6021,11 +5803,10 @@ keep	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
 free	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 we	_	_	B-Claim
-can	_	_	I-Claim
-not	_	_	I-Claim
+cannot	_	_	I-Claim
 continue	_	_	I-Claim
 to	_	_	I-Claim
 live	_	_	I-Claim
@@ -6033,10 +5814,9 @@ on	_	_	I-Claim
 a	_	_	I-Claim
 credit	_	_	I-Claim
 card	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Premise
-can	_	_	I-Premise
-not	_	_	I-Premise
+cannot	_	_	I-Premise
 continue	_	_	I-Premise
 to	_	_	I-Premise
 tell	_	_	I-Premise
@@ -6044,8 +5824,7 @@ the	_	_	I-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
 that	_	_	I-Premise
-we	_	_	I-Premise
-'re	_	_	I-Premise
+we're	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 build	_	_	I-Premise
@@ -6078,10 +5857,9 @@ strong	_	_	I-Premise
 and	_	_	I-Premise
 good	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 the	_	_	I-Claim
 kind	_	_	I-Claim
 of	_	_	I-Claim
@@ -6090,8 +5868,7 @@ I	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 build	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 One	_	_	O
 minute	_	_	O
@@ -6101,7 +5878,6 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
 I	_	_	O
 think	_	_	O
 the	_	_	O
@@ -6109,7 +5885,6 @@ foremost	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Can	_	_	O
 we	_	_	O
@@ -6126,14 +5901,12 @@ the	_	_	O
 applause	_	_	O
 .	_	_	O
 
-
 You	_	_	O
 can	_	_	O
 proceed	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
-
 
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -6153,7 +5926,7 @@ security	_	_	I-Claim
 of	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Premise
 Governor	_	_	I-Premise
 talks	_	_	I-Premise
@@ -6162,8 +5935,7 @@ limits	_	_	I-Premise
 ,	_	_	I-Premise
 what	_	_	I-Premise
 we	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 do	_	_	I-Premise
 ,	_	_	O
 opposes	_	_	B-Premise
@@ -6177,8 +5949,7 @@ now	_	_	I-Premise
 about	_	_	I-Premise
 well	_	_	I-Premise
 ,	_	_	I-Premise
-we	_	_	I-Premise
-'ll	_	_	I-Premise
+we'll	_	_	I-Premise
 develop	_	_	I-Premise
 some	_	_	I-Premise
 new	_	_	I-Premise
@@ -6186,7 +5957,7 @@ kind	_	_	I-Premise
 of	_	_	I-Premise
 a	_	_	I-Premise
 missile	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Premise
 takes	_	_	I-Premise
 eight	_	_	I-Premise
@@ -6198,7 +5969,7 @@ years	_	_	I-Premise
 to	_	_	I-Premise
 do	_	_	I-Premise
 that	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 talked	_	_	I-Premise
 about	_	_	I-Premise
@@ -6233,7 +6004,7 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 INF	_	_	I-Premise
 weapons	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 thank	_	_	O
 God	_	_	O
@@ -6248,7 +6019,7 @@ heard	_	_	O
 They	_	_	B-Claim
 were	_	_	I-Claim
 wrong	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	B-Premise
 the	_	_	I-Premise
 result	_	_	I-Premise
@@ -6269,7 +6040,7 @@ we	_	_	I-Premise
 negotiated	_	_	I-Premise
 from	_	_	I-Premise
 strength	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 now	_	_	B-Premise
 we	_	_	I-Premise
@@ -6286,11 +6057,10 @@ age	_	_	I-Premise
 to	_	_	I-Premise
 ban	_	_	I-Premise
 weapons	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	B-Premise
 just	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 make	_	_	I-Premise
 unilateral	_	_	I-Premise
 cuts	_	_	I-Premise
@@ -6306,7 +6076,7 @@ going	_	_	I-Premise
 to	_	_	I-Premise
 behave	_	_	I-Premise
 themselves	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 World	_	_	O
 peace	_	_	O
 is	_	_	O
@@ -6318,10 +6088,9 @@ have	_	_	I-Claim
 enhanced	_	_	I-Claim
 the	_	_	I-Claim
 peace	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 proud	_	_	O
 to	_	_	O
 have	_	_	O
@@ -6341,16 +6110,15 @@ Peace	_	_	B-Claim
 through	_	_	I-Claim
 strength	_	_	I-Claim
 works	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Ann	_	_	O
 Compton	_	_	O
 for	_	_	O
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -6437,7 +6205,6 @@ this	_	_	O
 country	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -6469,7 +6236,7 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
 today	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Some	_	_	B-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
@@ -6483,7 +6250,7 @@ Senate	_	_	I-Premise
 ,	_	_	I-Premise
 the	_	_	I-Premise
 Congress	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Some	_	_	B-Premise
 of	_	_	I-Premise
 my	_	_	I-Premise
@@ -6495,7 +6262,7 @@ real	_	_	I-Premise
 heroes	_	_	I-Premise
 to	_	_	I-Premise
 me	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -6511,7 +6278,7 @@ Olympics	_	_	I-Premise
 were	_	_	I-Premise
 tremendously	_	_	I-Premise
 impressive	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	O
 were	_	_	O
 proud	_	_	O
@@ -6559,13 +6326,12 @@ diseases	_	_	I-Premise
 we	_	_	I-Premise
 ever	_	_	I-Premise
 had	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-he	_	_	B-Claim
-'s	_	_	I-Claim
+he's	_	_	B-Claim
 a	_	_	I-Claim
 hero	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -6593,16 +6359,16 @@ to	_	_	I-Premise
 our	_	_	I-Premise
 young	_	_	I-Premise
 people	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Because	_	_	O
 they	_	_	B-Premise
 inspire	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
 teach	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 more	_	_	O
 than	_	_	O
@@ -6612,7 +6378,7 @@ they	_	_	B-Premise
 are	_	_	I-Premise
 role	_	_	I-Premise
 models	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Members	_	_	B-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
@@ -6622,7 +6388,7 @@ have	_	_	I-Premise
 done	_	_	I-Premise
 the	_	_	I-Premise
 same	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Drug	_	_	B-Premise
 counselors	_	_	I-Premise
 out	_	_	I-Premise
@@ -6680,7 +6446,7 @@ that	_	_	I-Premise
 kind	_	_	I-Premise
 of	_	_	I-Premise
 support	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -6728,7 +6494,7 @@ and	_	_	I-Premise
 into	_	_	I-Premise
 our	_	_	I-Premise
 kids	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 there	_	_	B-Claim
 are	_	_	I-Claim
@@ -6740,7 +6506,7 @@ in	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
 today	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 These	_	_	B-Premise
 are	_	_	I-Premise
 people	_	_	I-Premise
@@ -6755,7 +6521,7 @@ week	_	_	I-Premise
 and	_	_	I-Premise
 every	_	_	I-Premise
 month	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 In	_	_	B-Premise
 many	_	_	I-Premise
 cases	_	_	I-Premise
@@ -6773,7 +6539,7 @@ and	_	_	I-Premise
 are	_	_	I-Premise
 role	_	_	I-Premise
 models	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 would	_	_	O
@@ -6854,7 +6620,6 @@ to	_	_	O
 come	_	_	O
 .	_	_	O
 
-
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -6862,7 +6627,6 @@ Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
 .	_	_	O
-
 
 I	_	_	B-Premise
 think	_	_	I-Premise
@@ -6893,7 +6657,7 @@ going	_	_	I-Premise
 on	_	_	I-Premise
 to	_	_	I-Premise
 college	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -6914,7 +6678,7 @@ from	_	_	I-Premise
 a	_	_	I-Premise
 Cuban	_	_	I-Premise
 jail	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Came	_	_	B-Premise
 out	_	_	I-Premise
 and	_	_	I-Premise
@@ -6937,7 +6701,7 @@ actually	_	_	I-Premise
 happening	_	_	I-Premise
 in	_	_	I-Premise
 Cuba	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
@@ -6964,7 +6728,7 @@ are	_	_	I-Premise
 worthy	_	_	I-Premise
 of	_	_	I-Premise
 this	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 agree	_	_	I-Premise
 with	_	_	I-Premise
@@ -6972,10 +6736,9 @@ the	_	_	I-Premise
 Governor	_	_	I-Premise
 on	_	_	I-Premise
 athletics	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-there	_	_	B-Claim
-'s	_	_	I-Claim
+there's	_	_	B-Claim
 nothing	_	_	I-Claim
 corny	_	_	I-Claim
 about	_	_	I-Claim
@@ -6996,13 +6759,14 @@ there	_	_	I-Premise
 setting	_	_	I-Premise
 the	_	_	I-Premise
 pace	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 of	_	_	I-Premise
-Dr.	_	_	I-Premise
-Fauci	_	_	I-Premise
+Dr	_	_	I-Premise
 .	_	_	I-Premise
+Fauci	_	_	I-Premise
+.	_	_	O
 Probably	_	_	O
 never	_	_	O
 heard	_	_	O
@@ -7017,8 +6781,7 @@ heard	_	_	O
 of	_	_	O
 him	_	_	O
 .	_	_	O
-He	_	_	B-Premise
-'s	_	_	I-Premise
+He's	_	_	B-Premise
 a	_	_	I-Premise
 very	_	_	I-Premise
 fine	_	_	I-Premise
@@ -7045,7 +6808,7 @@ this	_	_	I-Premise
 disease	_	_	I-Premise
 of	_	_	I-Premise
 AIDS	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 look	_	_	O
 ,	_	_	O
@@ -7066,7 +6829,7 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Premise
 is	_	_	I-Premise
 the	_	_	I-Premise
@@ -7080,13 +6843,12 @@ first	_	_	I-Premise
 arms	_	_	I-Premise
 control	_	_	I-Premise
 agreement	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
-
 
 And	_	_	O
 the	_	_	O
@@ -7112,8 +6874,8 @@ because	_	_	O
 American	_	_	B-Premise
 people	_	_	I-Premise
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -7123,18 +6885,16 @@ has	_	_	O
 expired	_	_	O
 .	_	_	O
 
-
-say	_	_	I-Premise
+say	_	_	B-Premise
 ,	_	_	I-Premise
 he	_	_	I-Premise
 is	_	_	I-Premise
 our	_	_	I-Premise
 hero	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Ann	_	_	O
 has	_	_	O
@@ -7143,14 +6903,13 @@ question	_	_	O
 for	_	_	O
 you	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-Let	_	_	O
-'s	_	_	O
+Let's	_	_	O
 change	_	_	O
 the	_	_	O
 pace	_	_	O
@@ -7158,7 +6917,8 @@ a	_	_	O
 little	_	_	O
 bit	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
@@ -7182,13 +6942,13 @@ each	_	_	O
 side	_	_	O
 .	_	_	O
 If	_	_	O
-you	_	_	O
-'d	_	_	O
+you'd	_	_	O
 consider	_	_	O
 for	_	_	O
 a	_	_	O
 moment	_	_	O
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 and	_	_	O
 his	_	_	O
@@ -7213,9 +6973,7 @@ find	_	_	O
 admirable	_	_	O
 ?	_	_	O
 
-
-You	_	_	O
-'re	_	_	O
+You're	_	_	O
 stealing	_	_	O
 my	_	_	O
 close	_	_	O
@@ -7231,7 +6989,6 @@ in	_	_	O
 there	_	_	O
 .	_	_	O
 
-
 Somebody	_	_	O
 leak	_	_	O
 my	_	_	O
@@ -7239,7 +6996,6 @@ question	_	_	O
 to	_	_	O
 you	_	_	O
 ?	_	_	O
-
 
 No	_	_	B-Claim
 ,	_	_	O
@@ -7286,10 +7042,9 @@ mother	_	_	I-Premise
 who	_	_	I-Premise
 was	_	_	I-Premise
 there	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 saying	_	_	O
 to	_	_	O
 Barbara	_	_	O
@@ -7297,8 +7052,7 @@ Barbara	_	_	O
 you	_	_	O
 know	_	_	O
 ,	_	_	O
-we	_	_	O
-'ve	_	_	O
+we've	_	_	O
 always	_	_	O
 kept	_	_	O
 family	_	_	O
@@ -7317,8 +7071,7 @@ know	_	_	O
 me	_	_	O
 ,	_	_	O
 and	_	_	O
-we	_	_	O
-'ve	_	_	O
+we've	_	_	O
 held	_	_	O
 it	_	_	O
 back	_	_	O
@@ -7350,15 +7103,14 @@ family	_	_	I-Premise
 means	_	_	I-Premise
 to	_	_	I-Premise
 him	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 got	_	_	I-Premise
 a	_	_	I-Premise
 strong	_	_	I-Premise
 family	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 we	_	_	O
 watched	_	_	O
@@ -7370,15 +7122,14 @@ said	_	_	O
 ,	_	_	O
 hey	_	_	O
 ,	_	_	O
-we	_	_	B-Claim
-'ve	_	_	I-Claim
+we've	_	_	B-Claim
 got	_	_	I-Claim
 to	_	_	I-Claim
 unleash	_	_	I-Claim
 the	_	_	I-Claim
 Bush	_	_	I-Claim
 kids	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 so	_	_	B-Premise
 you	_	_	I-Premise
@@ -7394,7 +7145,7 @@ grandfather	_	_	I-Premise
 at	_	_	I-Premise
 the	_	_	I-Premise
 convention	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	B-Premise
 see	_	_	I-Premise
 our	_	_	I-Premise
@@ -7409,7 +7160,7 @@ country	_	_	I-Premise
 and	_	_	I-Premise
 their	_	_	I-Premise
 spouses	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	O
@@ -7426,25 +7177,22 @@ has	_	_	I-Claim
 my	_	_	I-Claim
 great	_	_	I-Claim
 respect	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	O
 would	_	_	O
 say	_	_	O
 ,	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 know	_	_	O
 whether	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 kind	_	_	O
 or	_	_	O
 not	_	_	O
 ,	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 just	_	_	O
 an	_	_	O
 objective	_	_	O
@@ -7473,31 +7221,28 @@ a	_	_	I-Claim
 word	_	_	I-Claim
 of	_	_	I-Claim
 praise	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
-it	_	_	B-Premise
-'s	_	_	I-Premise
+it's	_	_	B-Premise
 gotten	_	_	I-Premise
 a	_	_	I-Premise
 little	_	_	I-Premise
 ugly	_	_	I-Premise
 out	_	_	I-Premise
 there	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+It's	_	_	B-Premise
 gotten	_	_	I-Premise
 a	_	_	I-Premise
 little	_	_	I-Premise
 nasty	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+It's	_	_	B-Premise
 not	_	_	I-Premise
 much	_	_	I-Premise
 fun	_	_	I-Premise
 sometimes	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 would	_	_	O
@@ -7506,8 +7251,7 @@ again	_	_	O
 Dan	_	_	O
 Quayle	_	_	O
 .	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 been	_	_	I-Premise
 in	_	_	I-Premise
 politics	_	_	I-Premise
@@ -7517,8 +7261,7 @@ time	_	_	I-Premise
 ,	_	_	I-Premise
 and	_	_	I-Premise
 I	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 remember	_	_	I-Premise
 that	_	_	I-Premise
 kind	_	_	I-Premise
@@ -7537,7 +7280,7 @@ was	_	_	I-Premise
 true	_	_	I-Premise
 ,	_	_	I-Premise
 printed	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 come	_	_	O
@@ -7549,14 +7292,13 @@ of	_	_	I-Claim
 it	_	_	I-Claim
 is	_	_	I-Claim
 unfair	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-he	_	_	B-Premise
-'s	_	_	I-Premise
+he's	_	_	B-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
 arena	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Teddy	_	_	B-Premise
 Roosevelt	_	_	I-Premise
 used	_	_	I-Premise
@@ -7578,12 +7320,11 @@ succeed	_	_	I-Premise
 ,	_	_	I-Premise
 no	_	_	I-Premise
 matter	_	_	I-Premise
-.	_	_	I-Premise
-He	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+He's	_	_	B-Premise
 in	_	_	I-Premise
 there	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 I	_	_	O
 salute	_	_	O
@@ -7656,7 +7397,6 @@ George	_	_	O
 Bush	_	_	O
 .	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
 a	_	_	O
@@ -7666,10 +7406,8 @@ minute	_	_	O
 response	_	_	O
 .	_	_	O
 
-
 I	_	_	O
-did	_	_	O
-n't	_	_	O
+didn't	_	_	O
 hear	_	_	O
 the	_	_	O
 word	_	_	O
@@ -7690,21 +7428,16 @@ for	_	_	O
 that	_	_	O
 .	_	_	O
 
-
-That	_	_	B-Claim
-'s	_	_	I-Claim
+That's	_	_	B-Claim
 not	_	_	I-Claim
 bad	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+That's	_	_	B-Claim
 true	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 And	_	_	O
-does	_	_	O
-n't	_	_	O
+doesn't	_	_	O
 that	_	_	O
 prove	_	_	O
 the	_	_	O
@@ -7751,7 +7484,9 @@ house	_	_	I-Premise
 for	_	_	I-Premise
 some	_	_	I-Premise
 $	_	_	I-Premise
-19,000	_	_	I-Premise
+19	_	_	I-Premise
+,	_	_	I-Premise
+000	_	_	I-Premise
 back	_	_	I-Premise
 in	_	_	I-Premise
 1962	_	_	I-Premise
@@ -7761,16 +7496,14 @@ had	_	_	I-Premise
 seven	_	_	I-Premise
 children	_	_	I-Premise
 ,	_	_	I-Premise
-they	_	_	I-Premise
-'re	_	_	I-Premise
+they're	_	_	I-Premise
 all	_	_	I-Premise
 making	_	_	I-Premise
 good	_	_	I-Premise
 livings	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 live	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
@@ -7780,38 +7513,36 @@ they	_	_	I-Premise
 grew	_	_	I-Premise
 up	_	_	I-Premise
 in	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Those	_	_	B-Claim
 are	_	_	I-Claim
 basic	_	_	I-Claim
 American	_	_	I-Claim
 values	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 think	_	_	I-Premise
 you	_	_	I-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
-They	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+They're	_	_	B-Claim
 not	_	_	I-Claim
 left	_	_	I-Claim
 or	_	_	I-Claim
 right	_	_	I-Claim
-.	_	_	I-Claim
-They	_	_	B-Claim
-'re	_	_	I-Claim
+.	_	_	O
+They're	_	_	B-Claim
 decent	_	_	I-Claim
 American	_	_	I-Claim
 values	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 guess	_	_	O
 the	_	_	O
@@ -7837,13 +7568,13 @@ of	_	_	I-Premise
 us	_	_	I-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 may	_	_	I-Premise
 have	_	_	I-Premise
 different	_	_	I-Premise
 approaches	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 may	_	_	I-Premise
 think	_	_	I-Premise
@@ -7855,10 +7586,9 @@ them	_	_	I-Premise
 in	_	_	I-Premise
 different	_	_	I-Premise
 ways	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-they	_	_	B-Claim
-'re	_	_	I-Claim
+they're	_	_	B-Claim
 basically	_	_	I-Claim
 American	_	_	I-Claim
 ,	_	_	O
@@ -7866,13 +7596,13 @@ I	_	_	B-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 George	_	_	B-Premise
 Bush	_	_	I-Premise
 believes	_	_	I-Premise
 in	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 think	_	_	O
 the	_	_	B-Premise
@@ -7883,20 +7613,17 @@ Americans	_	_	I-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 hope	_	_	O
 
-
 Governor	_	_	O
 .	_	_	O
 
-
 the	_	_	O
 tone	_	_	O
-we	_	_	O
-'ve	_	_	O
+we've	_	_	O
 just	_	_	O
 heard	_	_	O
 might	_	_	O
@@ -7921,11 +7648,10 @@ people	_	_	I-Claim
 would	_	_	I-Claim
 appreciate	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Margaret	_	_	O
 Warner	_	_	O
@@ -7934,7 +7660,6 @@ the	_	_	O
 vice	_	_	O
 president	_	_	O
 .	_	_	O
-
 
 Vice	_	_	O
 President	_	_	O
@@ -7951,8 +7676,7 @@ troubling	_	_	O
 issue	_	_	O
 ,	_	_	O
 and	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 like	_	_	O
 to	_	_	O
 explore	_	_	O
@@ -7985,7 +7709,7 @@ of	_	_	I-Claim
 rape	_	_	I-Claim
 and	_	_	I-Claim
 incest	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 My	_	_	O
 question	_	_	O
 is	_	_	O
@@ -8058,7 +7782,6 @@ her	_	_	O
 fetus	_	_	O
 ?	_	_	O
 
-
 Because	_	_	O
 you	_	_	O
 left	_	_	O
@@ -8082,8 +7805,7 @@ and	_	_	O
 I	_	_	O
 hope	_	_	O
 it	_	_	O
-does	_	_	O
-n't	_	_	O
+doesn't	_	_	O
 get	_	_	O
 too	_	_	O
 personal	_	_	O
@@ -8106,7 +7828,7 @@ a	_	_	I-Premise
 daughter	_	_	I-Premise
 ,	_	_	I-Premise
 Robin	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 was	_	_	I-Premise
 over	_	_	I-Premise
@@ -8126,7 +7848,7 @@ her	_	_	I-Premise
 ,	_	_	I-Premise
 come	_	_	I-Premise
 home	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 went	_	_	B-Premise
 to	_	_	I-Premise
 the	_	_	I-Premise
@@ -8147,7 +7869,7 @@ few	_	_	I-Premise
 weeks	_	_	I-Premise
 to	_	_	I-Premise
 live	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 said	_	_	I-Premise
@@ -8158,7 +7880,7 @@ we	_	_	I-Premise
 do	_	_	I-Premise
 about	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	O
 said	_	_	O
 ,	_	_	O
@@ -8176,7 +7898,7 @@ few	_	_	I-Premise
 weeks	_	_	I-Premise
 to	_	_	I-Premise
 live	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	O
 took	_	_	O
 the	_	_	O
@@ -8205,7 +7927,7 @@ months	_	_	I-Premise
 and	_	_	I-Premise
 then	_	_	I-Premise
 died	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 If	_	_	B-Premise
 that	_	_	I-Premise
 child	_	_	I-Premise
@@ -8246,12 +7968,11 @@ rest	_	_	I-Premise
 of	_	_	I-Premise
 her	_	_	I-Premise
 life	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 that	_	_	I-Claim
 you	_	_	I-Claim
@@ -8265,7 +7986,7 @@ knowledge	_	_	I-Claim
 at	_	_	I-Claim
 the	_	_	I-Claim
 time	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 think	_	_	O
 human	_	_	B-Premise
@@ -8275,14 +7996,13 @@ very	_	_	I-Premise
 ,	_	_	I-Premise
 very	_	_	I-Premise
 precious	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 ,	_	_	O
 look	_	_	O
 ,	_	_	O
 this	_	_	O
-has	_	_	O
-n't	_	_	O
+hasn't	_	_	O
 been	_	_	O
 an	_	_	O
 easy	_	_	O
@@ -8342,7 +8062,7 @@ child	_	_	I-Premise
 up	_	_	I-Premise
 for	_	_	I-Premise
 adoption	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	B-Premise
@@ -8351,11 +8071,10 @@ feel	_	_	I-Premise
 this	_	_	I-Premise
 is	_	_	I-Premise
 where	_	_	I-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 coming	_	_	I-Premise
 from	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 it	_	_	O
 is	_	_	O
@@ -8363,8 +8082,7 @@ personal	_	_	O
 .	_	_	O
 And	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 assail	_	_	I-Claim
 him	_	_	I-Claim
 on	_	_	I-Claim
@@ -8376,10 +8094,9 @@ others	_	_	I-Claim
 on	_	_	I-Claim
 that	_	_	I-Claim
 issue	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-that	_	_	B-Premise
-'s	_	_	I-Premise
+that's	_	_	B-Premise
 the	_	_	I-Premise
 way	_	_	I-Premise
 I	_	_	I-Premise
@@ -8390,12 +8107,11 @@ Bush	_	_	I-Premise
 feel	_	_	I-Premise
 about	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Scattered	_	_	O
 applause	_	_	O
 )	_	_	O
-
 
 One	_	_	O
 minute	_	_	O
@@ -8403,7 +8119,6 @@ for	_	_	O
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
-
 
 Margaret	_	_	O
 ,	_	_	O
@@ -8436,10 +8151,9 @@ after	_	_	I-Premise
 it	_	_	I-Premise
 was	_	_	I-Premise
 born	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-is	_	_	O
-n't	_	_	O
+isn't	_	_	O
 the	_	_	O
 real	_	_	O
 question	_	_	O
@@ -8466,8 +8180,7 @@ to	_	_	O
 make	_	_	O
 exceptions	_	_	O
 .	_	_	O
-It	_	_	O
-'s	_	_	O
+It's	_	_	O
 who	_	_	O
 makes	_	_	O
 the	_	_	O
@@ -8511,7 +8224,7 @@ that	_	_	I-Claim
 makes	_	_	I-Claim
 that	_	_	I-Claim
 decision	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Who	_	_	O
 are	_	_	O
 we	_	_	O
@@ -8524,8 +8237,7 @@ under	_	_	O
 certain	_	_	O
 circumstances	_	_	O
 ,	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 all	_	_	O
 right	_	_	O
 ,	_	_	O
@@ -8534,11 +8246,9 @@ under	_	_	O
 other	_	_	O
 circumstances	_	_	O
 it	_	_	O
-is	_	_	O
-n't	_	_	O
+isn't	_	_	O
 ?	_	_	O
-That	_	_	B-Claim
-'s	_	_	I-Claim
+That's	_	_	B-Claim
 a	_	_	I-Claim
 decision	_	_	I-Claim
 that	_	_	I-Claim
@@ -8557,7 +8267,7 @@ consulting	_	_	I-Premise
 her	_	_	I-Premise
 religious	_	_	I-Premise
 principles	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 would	_	_	O
@@ -8596,7 +8306,6 @@ beliefs	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
 Margaret	_	_	O
@@ -8607,11 +8316,9 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 like	_	_	O
 to	_	_	O
 return	_	_	O
@@ -8653,7 +8360,6 @@ the	_	_	O
 advisory	_	_	O
 board	_	_	O
 
-
 And	_	_	O
 ,	_	_	O
 incidentally	_	_	O
@@ -8662,8 +8368,7 @@ may	_	_	O
 I	_	_	O
 say	_	_	O
 that	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 the	_	_	O
 decision	_	_	O
 of	_	_	O
@@ -8676,7 +8381,6 @@ president	_	_	O
 has	_	_	O
 concurred	_	_	O
 .	_	_	O
-
 
 Yet	_	_	O
 you	_	_	B-Premise
@@ -8716,7 +8420,7 @@ to	_	_	I-Premise
 the	_	_	I-Premise
 domestic	_	_	I-Premise
 economy	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 My	_	_	O
 question	_	_	O
 is	_	_	O
@@ -8763,7 +8467,6 @@ for	_	_	O
 fundraising	_	_	O
 ?	_	_	O
 
-
 I	_	_	O
 think	_	_	O
 I	_	_	O
@@ -8778,16 +8481,14 @@ Margaret	_	_	O
 No	_	_	B-Claim
 ,	_	_	I-Claim
 I	_	_	I-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 happen	_	_	I-Claim
 to	_	_	I-Claim
 share	_	_	I-Claim
 that	_	_	I-Claim
 goal	_	_	I-Claim
-.	_	_	I-Claim
-It	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+It's	_	_	B-Premise
 an	_	_	I-Premise
 example	_	_	I-Premise
 of	_	_	I-Premise
@@ -8805,8 +8506,7 @@ whose	_	_	I-Premise
 particular	_	_	I-Premise
 positions	_	_	I-Premise
 we	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 support	_	_	I-Premise
 ,	_	_	O
 even	_	_	B-Premise
@@ -8915,7 +8615,7 @@ of	_	_	I-Premise
 us	_	_	I-Premise
 care	_	_	I-Premise
 about	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -8934,8 +8634,7 @@ relatively	_	_	I-Claim
 stable	_	_	I-Claim
 budget	_	_	I-Claim
 and	_	_	I-Claim
-that	_	_	I-Claim
-'s	_	_	I-Claim
+that's	_	_	I-Claim
 what	_	_	I-Claim
 we	_	_	I-Claim
 are	_	_	I-Claim
@@ -8960,16 +8659,16 @@ talking	_	_	I-Claim
 about	_	_	I-Claim
 and	_	_	I-Claim
 that	_	_	I-Claim
-Mr.	_	_	I-Claim
+Mr	_	_	I-Claim
+.	_	_	I-Claim
 Bush	_	_	I-Claim
-does	_	_	I-Claim
-n't	_	_	I-Claim
+doesn't	_	_	I-Claim
 seem	_	_	I-Claim
 to	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 that	_	_	B-Claim
 really	_	_	I-Claim
@@ -8987,13 +8686,11 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 think	_	_	O
-there	_	_	O
-'s	_	_	O
+there's	_	_	O
 any	_	_	O
 question	_	_	O
 about	_	_	O
@@ -9019,8 +8716,7 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 progress	_	_	I-Premise
 that	_	_	I-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 made	_	_	I-Premise
 with	_	_	I-Premise
 the	_	_	I-Premise
@@ -9063,7 +8759,7 @@ conventional	_	_	I-Premise
 forces	_	_	I-Premise
 in	_	_	I-Premise
 Europe	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 if	_	_	B-Premise
 we	_	_	I-Premise
@@ -9157,8 +8853,7 @@ who	_	_	I-Premise
 have	_	_	I-Premise
 a	_	_	I-Premise
 child	_	_	I-Premise
-that	_	_	I-Premise
-'s	_	_	I-Premise
+that's	_	_	I-Premise
 a	_	_	I-Premise
 freshman	_	_	I-Premise
 in	_	_	I-Premise
@@ -9175,8 +8870,7 @@ bright	_	_	I-Premise
 student	_	_	I-Premise
 and	_	_	I-Premise
 they	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 afford	_	_	I-Premise
 to	_	_	I-Premise
 keep	_	_	I-Premise
@@ -9184,7 +8878,7 @@ that	_	_	I-Premise
 child	_	_	I-Premise
 in	_	_	I-Premise
 college	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 I	_	_	B-Premise
 hope	_	_	I-Premise
@@ -9196,15 +8890,14 @@ to	_	_	I-Premise
 move	_	_	I-Premise
 those	_	_	I-Premise
 resources	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+It's	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 happen	_	_	I-Claim
 overnight	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 it	_	_	B-Premise
 certainly	_	_	I-Premise
 will	_	_	I-Premise
@@ -9232,7 +8925,7 @@ control	_	_	I-Premise
 and	_	_	I-Premise
 arms	_	_	I-Premise
 reduction	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 it	_	_	B-Claim
 certainly	_	_	I-Claim
@@ -9254,7 +8947,6 @@ it	_	_	O
 is	_	_	O
 .	_	_	O
 
-
 One	_	_	O
 minute	_	_	O
 for	_	_	O
@@ -9262,7 +8954,6 @@ the	_	_	O
 vice	_	_	O
 president	_	_	O
 .	_	_	O
-
 
 The	_	_	B-Premise
 defense	_	_	I-Premise
@@ -9282,23 +8973,21 @@ it	_	_	I-Premise
 did	_	_	I-Premise
 in	_	_	I-Premise
 President	_	_	I-Premise
-Kennedy	_	_	I-Premise
-'s	_	_	I-Premise
+Kennedy's	_	_	I-Premise
 time	_	_	I-Premise
 ,	_	_	I-Premise
 for	_	_	I-Premise
 example	_	_	I-Premise
 moved	_	_	I-Premise
 tremendously	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 you	_	_	O
 see	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
-we	_	_	I-Claim
-'re	_	_	I-Claim
+we're	_	_	I-Claim
 facing	_	_	I-Claim
 a	_	_	I-Claim
 real	_	_	I-Claim
@@ -9306,7 +8995,7 @@ opportunity	_	_	I-Claim
 for	_	_	I-Claim
 world	_	_	I-Claim
 peace	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 This	_	_	O
 is	_	_	O
 a	_	_	O
@@ -9314,8 +9003,7 @@ big	_	_	O
 question	_	_	O
 .	_	_	O
 And	_	_	O
-it	_	_	B-Premise
-'s	_	_	I-Premise
+it's	_	_	B-Premise
 a	_	_	I-Premise
 question	_	_	I-Premise
 as	_	_	I-Premise
@@ -9330,12 +9018,11 @@ to	_	_	I-Premise
 lead	_	_	I-Premise
 for	_	_	I-Premise
 peace	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 See	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 believe	_	_	I-Claim
 any	_	_	I-Claim
 other	_	_	I-Claim
@@ -9345,16 +9032,15 @@ pick	_	_	I-Claim
 up	_	_	I-Claim
 the	_	_	I-Claim
 mantel	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 served	_	_	I-Premise
 at	_	_	I-Premise
 the	_	_	I-Premise
 UN	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
 can	_	_	I-Claim
@@ -9375,12 +9061,11 @@ Nations	_	_	I-Claim
 or	_	_	I-Claim
 anything	_	_	I-Claim
 else	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 ,	_	_	O
 what	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 saying	_	_	O
 is	_	_	O
 ,	_	_	O
@@ -9392,7 +9077,7 @@ have	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
 choices	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 said	_	_	I-Premise
 I	_	_	I-Premise
@@ -9404,7 +9089,7 @@ of	_	_	I-Premise
 Defense	_	_	I-Premise
 sit	_	_	I-Premise
 down	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 while	_	_	B-Premise
 the	_	_	I-Premise
@@ -9426,7 +9111,7 @@ make	_	_	I-Premise
 these	_	_	I-Premise
 unilateral	_	_	I-Premise
 cuts	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -9455,7 +9140,7 @@ a	_	_	I-Premise
 principle	_	_	I-Premise
 asymmetrical	_	_	I-Premise
 cuts	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Soviets	_	_	I-Premise
 take	_	_	I-Premise
@@ -9470,7 +9155,7 @@ principle	_	_	I-Premise
 of	_	_	I-Premise
 intrusive	_	_	I-Premise
 verification	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 those	_	_	B-Premise
 two	_	_	I-Premise
@@ -9489,15 +9174,13 @@ forces	_	_	I-Premise
 ,	_	_	I-Premise
 provided	_	_	I-Premise
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 
-
-We	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+We	_	_	B-Premise
+don't	_	_	I-Premise
 give	_	_	I-Premise
 away	_	_	I-Premise
 our	_	_	I-Premise
@@ -9510,11 +9193,10 @@ at	_	_	I-Premise
 the	_	_	I-Premise
 head	_	_	I-Premise
 table	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Andrea	_	_	O
 Mitchell	_	_	O
@@ -9523,11 +9205,9 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 said	_	_	O
 tonight	_	_	O
 that	_	_	O
@@ -9544,8 +9224,7 @@ the	_	_	O
 deficit	_	_	O
 .	_	_	O
 And	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 talked	_	_	O
 about	_	_	O
 making	_	_	O
@@ -9601,7 +9280,6 @@ cutting	_	_	O
 weapons	_	_	O
 systems	_	_	O
 
-
 And	_	_	O
 some	_	_	O
 domestic	_	_	O
@@ -9612,7 +9290,6 @@ well	_	_	O
 Andrea	_	_	O
 .	_	_	O
 
-
 And	_	_	O
 some	_	_	O
 domestic	_	_	O
@@ -9622,8 +9299,7 @@ well	_	_	O
 .	_	_	O
 So	_	_	O
 ,	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 assume	_	_	O
 now	_	_	O
 ,	_	_	O
@@ -9681,7 +9357,6 @@ least	_	_	O
 onerous	_	_	O
 ?	_	_	O
 
-
 May	_	_	O
 I	_	_	O
 disagree	_	_	O
@@ -9692,7 +9367,6 @@ of	_	_	O
 your	_	_	O
 question	_	_	O
 ?	_	_	O
-
 
 For	_	_	O
 the	_	_	O
@@ -9705,7 +9379,6 @@ no	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 As	_	_	O
 a	_	_	O
@@ -9754,21 +9427,18 @@ owed	_	_	I-Premise
 by	_	_	I-Premise
 average	_	_	I-Premise
 Americans	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 have	_	_	I-Claim
 an	_	_	I-Claim
 alternative	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Premise
-'ll	_	_	I-Premise
+.	_	_	O
+We'll	_	_	B-Premise
 lose	_	_	I-Premise
 it	_	_	I-Premise
 when	_	_	I-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 taken	_	_	I-Premise
 out	_	_	I-Premise
 of	_	_	I-Premise
@@ -9779,10 +9449,9 @@ we	_	_	I-Premise
 even	_	_	I-Premise
 get	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-it	_	_	B-Premise
-'s	_	_	I-Premise
+it's	_	_	B-Premise
 the	_	_	I-Premise
 Internal	_	_	I-Premise
 Revenue	_	_	I-Premise
@@ -9792,8 +9461,7 @@ estimates	_	_	I-Premise
 now	_	_	I-Premise
 that	_	_	I-Premise
 we	_	_	I-Premise
-are	_	_	I-Premise
-n't	_	_	I-Premise
+aren't	_	_	I-Premise
 collecting	_	_	I-Premise
 $	_	_	I-Premise
 100	_	_	I-Premise
@@ -9806,7 +9474,7 @@ owed	_	_	I-Premise
 in	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 that	_	_	B-Claim
 is	_	_	I-Claim
@@ -9828,7 +9496,7 @@ pay	_	_	I-Premise
 them	_	_	I-Premise
 on	_	_	I-Premise
 time	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Dorgan	_	_	I-Premise
 Task	_	_	I-Premise
@@ -9848,7 +9516,7 @@ Republican	_	_	I-Premise
 one	_	_	I-Premise
 a	_	_	I-Premise
 Democrat	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Premise
 was	_	_	I-Premise
 a	_	_	I-Premise
@@ -9879,19 +9547,17 @@ dollars	_	_	I-Premise
 of	_	_	I-Premise
 those	_	_	I-Premise
 funds	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	O
 point	_	_	O
 is	_	_	O
-you	_	_	B-Claim
-'ve	_	_	I-Claim
+you've	_	_	B-Claim
 got	_	_	I-Claim
 to	_	_	I-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
 president	_	_	I-Claim
-who	_	_	I-Claim
-'s	_	_	I-Claim
+who's	_	_	I-Claim
 prepared	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
@@ -9914,8 +9580,7 @@ governor	_	_	I-Claim
 of	_	_	I-Claim
 a	_	_	I-Claim
 state	_	_	I-Claim
-that	_	_	I-Claim
-'s	_	_	I-Claim
+that's	_	_	I-Claim
 had	_	_	I-Claim
 very	_	_	I-Claim
 ,	_	_	I-Claim
@@ -9925,7 +9590,7 @@ experience	_	_	I-Claim
 at	_	_	I-Claim
 doing	_	_	I-Claim
 this	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 In	_	_	B-Premise
 my	_	_	I-Premise
 own	_	_	I-Premise
@@ -9934,16 +9599,15 @@ state	_	_	I-Premise
 we	_	_	I-Premise
 did	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 In	_	_	B-Premise
 other	_	_	I-Premise
 states	_	_	I-Premise
 ,	_	_	I-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 done	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Republican	_	_	B-Premise
 governors	_	_	I-Premise
 as	_	_	I-Premise
@@ -9951,17 +9615,16 @@ well	_	_	I-Premise
 as	_	_	I-Premise
 Democratic	_	_	I-Premise
 governors	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 had	_	_	I-Premise
 great	_	_	I-Premise
 success	_	_	I-Premise
 at	_	_	I-Premise
 revenue	_	_	I-Premise
 enforcement	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -9972,8 +9635,7 @@ probably	_	_	I-Premise
 tell	_	_	I-Premise
 you	_	_	I-Premise
 that	_	_	I-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 take	_	_	I-Premise
@@ -9983,7 +9645,7 @@ of	_	_	I-Premise
 IRS	_	_	I-Premise
 collectors	_	_	I-Premise
 again	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Well	_	_	O
 ,	_	_	O
 his	_	_	B-Premise
@@ -10032,8 +9694,7 @@ these	_	_	I-Premise
 funds	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 happy	_	_	I-Premise
 to	_	_	I-Premise
 join	_	_	I-Premise
@@ -10046,7 +9707,7 @@ we	_	_	I-Premise
 agree	_	_	I-Premise
 on	_	_	I-Premise
 this	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 ,	_	_	O
 the	_	_	O
@@ -10063,8 +9724,7 @@ that	_	_	I-Claim
 we	_	_	I-Claim
 must	_	_	I-Claim
 begin	_	_	I-Claim
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 take	_	_	I-Claim
@@ -10077,7 +9737,7 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 new	_	_	I-Claim
 administration	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 ,	_	_	O
 the	_	_	B-Premise
@@ -10118,37 +9778,32 @@ more	_	_	I-Premise
 than	_	_	I-Premise
 that	_	_	I-Premise
 
-
 Governor	_	_	O
 .	_	_	O
 
-
 and	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 where	_	_	I-Claim
 you	_	_	I-Claim
 begin	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 One	_	_	O
 minute	_	_	O
 response	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
 Andrea	_	_	O
 ,	_	_	O
 you	_	_	O
-did	_	_	O
-n't	_	_	O
+didn't	_	_	O
 predicate	_	_	O
 that	_	_	O
 lack	_	_	O
@@ -10220,7 +9875,7 @@ this	_	_	I-Claim
 longest	_	_	I-Claim
 expansion	_	_	I-Claim
 going	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 was	_	_	I-Claim
 not	_	_	I-Claim
@@ -10251,14 +9906,13 @@ were	_	_	I-Claim
 ,	_	_	O
 because	_	_	O
 it	_	_	B-Premise
-is	_	_	I-Premise
-n't	_	_	I-Premise
+isn't	_	_	I-Premise
 the	_	_	I-Premise
 end	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 world	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 what	_	_	B-Claim
 we	_	_	I-Claim
@@ -10271,7 +9925,7 @@ the	_	_	I-Claim
 growth	_	_	I-Claim
 of	_	_	I-Claim
 spending	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 are	_	_	I-Premise
@@ -10281,7 +9935,7 @@ better	_	_	I-Premise
 job	_	_	I-Premise
 of	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Congress	_	_	I-Premise
 is	_	_	I-Premise
@@ -10291,16 +9945,15 @@ better	_	_	I-Premise
 job	_	_	I-Premise
 of	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 the	_	_	B-Premise
 dynamics	_	_	I-Premise
 work	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 they	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 work	_	_	I-Claim
 if	_	_	I-Claim
 you	_	_	I-Claim
@@ -10317,7 +9970,7 @@ continues	_	_	I-Claim
 to	_	_	I-Claim
 spend	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Claim
 American	_	_	I-Claim
 working	_	_	I-Claim
@@ -10329,7 +9982,7 @@ not	_	_	I-Claim
 taxed	_	_	I-Claim
 too	_	_	I-Claim
 little	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Claim
 Federal	_	_	I-Claim
 Government	_	_	I-Claim
@@ -10338,18 +9991,17 @@ to	_	_	I-Claim
 spend	_	_	I-Claim
 too	_	_	I-Claim
 much	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Hold	_	_	O
 it	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10361,8 +10013,8 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -10452,14 +10104,12 @@ this	_	_	O
 panel	_	_	O
 ?	_	_	O
 
-
 More	_	_	B-Claim
 so	_	_	I-Claim
 you	_	_	I-Claim
 than	_	_	I-Claim
 me	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 We	_	_	O
 could	_	_	O
@@ -10467,7 +10117,6 @@ argue	_	_	O
 about	_	_	O
 that	_	_	O
 .	_	_	O
-
 
 No	_	_	O
 ,	_	_	O
@@ -10486,19 +10135,17 @@ when	_	_	I-Premise
 it	_	_	I-Premise
 was	_	_	I-Premise
 created	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Claim
-was	_	_	I-Claim
-n't	_	_	I-Claim
+wasn't	_	_	I-Claim
 created	_	_	I-Claim
 as	_	_	I-Claim
 a	_	_	I-Claim
 welfare	_	_	I-Claim
 program	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
-was	_	_	I-Claim
-n't	_	_	I-Claim
+wasn't	_	_	I-Claim
 created	_	_	I-Claim
 that	_	_	I-Claim
 is	_	_	I-Claim
@@ -10514,24 +10161,21 @@ supplement	_	_	I-Claim
 to	_	_	I-Claim
 retirement	_	_	I-Claim
 program	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
-was	_	_	I-Claim
-n't	_	_	I-Claim
+wasn't	_	_	I-Claim
 created	_	_	I-Claim
 as	_	_	I-Claim
 a	_	_	I-Claim
 welfare	_	_	I-Claim
 program	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 ,	_	_	O
-here	_	_	B-Premise
-'s	_	_	I-Premise
-what	_	_	I-Premise
-'s	_	_	I-Premise
+here's	_	_	B-Premise
+what's	_	_	I-Premise
 happened	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 came	_	_	I-Premise
 into	_	_	I-Premise
@@ -10580,32 +10224,29 @@ sound	_	_	I-Premise
 ,	_	_	I-Premise
 solvent	_	_	I-Premise
 condition	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 ,	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
 fool	_	_	I-Premise
 around	_	_	I-Premise
 with	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 there	_	_	O
 are	_	_	O
 several	_	_	O
-there	_	_	B-Claim
-'s	_	_	I-Claim
+there's	_	_	B-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 political	_	_	I-Claim
 reason	_	_	I-Claim
 because	_	_	O
-it	_	_	B-Premise
-'s	_	_	I-Premise
+it's	_	_	B-Premise
 just	_	_	I-Premise
 about	_	_	I-Premise
 this	_	_	I-Premise
@@ -10627,33 +10268,31 @@ away	_	_	I-Premise
 your	_	_	I-Premise
 Social	_	_	I-Premise
 Security	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Claim
 always	_	_	I-Claim
 works	_	_	I-Claim
 that	_	_	I-Claim
 way	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 seen	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 In	_	_	B-Premise
 precinct	_	_	I-Premise
 politics	_	_	I-Premise
 in	_	_	I-Premise
 Texas	_	_	I-Premise
 and	_	_	I-Premise
-I	_	_	I-Premise
-'ve	_	_	I-Premise
+I've	_	_	I-Premise
 seen	_	_	I-Premise
 it	_	_	I-Premise
 at	_	_	I-Premise
 the	_	_	I-Premise
 national	_	_	I-Premise
 level	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 have	_	_	I-Premise
 made	_	_	I-Premise
@@ -10663,7 +10302,7 @@ Security	_	_	I-Premise
 Trust	_	_	I-Premise
 Fund	_	_	I-Premise
 sound	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 it	_	_	B-Claim
 is	_	_	I-Claim
@@ -10675,8 +10314,7 @@ at	_	_	I-Claim
 surpluses	_	_	I-Claim
 and	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 want	_	_	I-Premise
 the	_	_	I-Premise
 liberal	_	_	I-Premise
@@ -10702,10 +10340,9 @@ for	_	_	I-Premise
 some	_	_	I-Premise
 other	_	_	I-Premise
 purpose	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 want	_	_	O
 that	_	_	O
 .	_	_	O
@@ -10722,7 +10359,7 @@ changes	_	_	I-Claim
 in	_	_	I-Claim
 Social	_	_	I-Claim
 Security	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 learned	_	_	I-Premise
 that	_	_	I-Premise
@@ -10742,7 +10379,7 @@ COLAs	_	_	I-Claim
 for	_	_	I-Claim
 one	_	_	I-Claim
 year	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 He	_	_	B-Premise
 supported	_	_	I-Premise
 it	_	_	I-Premise
@@ -10776,7 +10413,7 @@ the	_	_	I-Premise
 election	_	_	I-Premise
 over	_	_	I-Premise
 that	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
@@ -10815,8 +10452,7 @@ the	_	_	I-Premise
 next	_	_	I-Premise
 century	_	_	I-Premise
 ,	_	_	I-Premise
-you	_	_	I-Premise
-'re	_	_	I-Premise
+you're	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 have	_	_	I-Premise
@@ -10830,7 +10466,7 @@ it	_	_	I-Premise
 but	_	_	O
 not	_	_	B-Claim
 now	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Claim
 do	_	_	I-Claim
 not	_	_	I-Claim
@@ -10838,7 +10474,7 @@ have	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Keep	_	_	O
 the	_	_	O
 trust	_	_	O
@@ -10853,7 +10489,6 @@ this	_	_	O
 country	_	_	O
 .	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -10864,21 +10499,18 @@ minute	_	_	O
 sir	_	_	O
 .	_	_	O
 
-
 Andrea	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 know	_	_	I-Claim
 which	_	_	I-Claim
 George	_	_	I-Claim
 Bush	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 listening	_	_	I-Claim
 to	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 George	_	_	B-Premise
 Bush	_	_	I-Premise
 ,	_	_	I-Premise
@@ -10896,15 +10528,13 @@ basically	_	_	I-Premise
 a	_	_	I-Premise
 welfare	_	_	I-Premise
 system	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 Oh	_	_	O
 ,	_	_	O
 come	_	_	O
 on	_	_	O
 .	_	_	O
-
 
 And	_	_	O
 in	_	_	B-Premise
@@ -10921,7 +10551,7 @@ to	_	_	I-Premise
 cut	_	_	I-Premise
 that	_	_	I-Premise
 COLA	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 voted	_	_	I-Premise
 against	_	_	I-Premise
@@ -10931,15 +10561,14 @@ the	_	_	I-Premise
 National	_	_	I-Premise
 Governors	_	_	I-Premise
 Association	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 won	_	_	I-Premise
 a	_	_	I-Premise
 majority	_	_	I-Premise
 ,	_	_	I-Premise
 we	_	_	I-Premise
-did	_	_	I-Premise
-n't	_	_	I-Premise
+didn't	_	_	I-Premise
 win	_	_	I-Premise
 the	_	_	I-Premise
 two	_	_	I-Premise
@@ -10964,11 +10593,10 @@ we	_	_	I-Premise
 were	_	_	I-Premise
 doing	_	_	I-Premise
 and	_	_	I-Premise
-I	_	_	I-Premise
-'ve	_	_	I-Premise
+I've	_	_	I-Premise
 opposed	_	_	I-Premise
 that	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	O
 reason	_	_	O
 that	_	_	O
@@ -10990,19 +10618,18 @@ because	_	_	O
 Republicans	_	_	B-Claim
 ,	_	_	I-Claim
 once	_	_	I-Claim
-they	_	_	I-Claim
-'re	_	_	I-Claim
+they're	_	_	I-Claim
 elected	_	_	I-Claim
 and	_	_	I-Claim
 start	_	_	I-Claim
 cutting	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	B-Premise
 did	_	_	I-Premise
 it	_	_	I-Premise
 in	_	_	I-Premise
 1985	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Administration	_	_	I-Premise
 tried	_	_	I-Premise
@@ -11015,22 +10642,19 @@ repeatedly	_	_	I-Premise
 in	_	_	I-Premise
 81	_	_	I-Premise
 82	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 sure	_	_	O
-you	_	_	B-Claim
-'ll	_	_	I-Claim
+you'll	_	_	B-Claim
 try	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 it	_	_	I-Claim
 again	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
-there	_	_	B-Claim
-'s	_	_	I-Claim
+there's	_	_	B-Claim
 no	_	_	I-Claim
 way	_	_	I-Claim
 you	_	_	I-Claim
@@ -11041,9 +10665,8 @@ you	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 spend	_	_	I-Claim
-.	_	_	I-Claim
-There	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+There's	_	_	B-Premise
 no	_	_	I-Premise
 way	_	_	I-Premise
 you	_	_	I-Premise
@@ -11081,11 +10704,10 @@ Social	_	_	I-Premise
 Security	_	_	I-Premise
 Trust	_	_	I-Premise
 Fund	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Ann	_	_	O
 Compton	_	_	O
@@ -11095,8 +10717,8 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -11112,11 +10734,9 @@ who	_	_	O
 are	_	_	O
 in	_	_	O
 their	_	_	O
-80	_	_	O
-'s	_	_	O
+80's	_	_	O
 and	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 very	_	_	O
 likely	_	_	O
 that	_	_	O
@@ -11187,16 +10807,14 @@ the	_	_	O
 Court	_	_	O
 .	_	_	O
 
-
 One	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
 list	_	_	I-Claim
 yet	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 feel	_	_	I-Premise
 pretty	_	_	I-Premise
@@ -11207,22 +10825,20 @@ but	_	_	I-Premise
 not	_	_	I-Premise
 that	_	_	I-Premise
 confident	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
 
-
 Secondly	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 have	_	_	I-Claim
 any	_	_	I-Claim
 litmus	_	_	I-Claim
 test	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 what	_	_	B-Claim
 I	_	_	I-Claim
@@ -11248,7 +10864,7 @@ will	_	_	I-Claim
 interpret	_	_	I-Claim
 the	_	_	I-Claim
 Constitution	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 do	_	_	I-Premise
 not	_	_	I-Premise
@@ -11260,7 +10876,7 @@ go	_	_	I-Premise
 to	_	_	I-Premise
 again	_	_	I-Premise
 and	_	_	I-Premise
-Fm	_	_	I-Premise
+I'm	_	_	I-Premise
 using	_	_	I-Premise
 this	_	_	I-Premise
 word	_	_	I-Premise
@@ -11276,10 +10892,9 @@ legislate	_	_	I-Premise
 from	_	_	I-Premise
 the	_	_	I-Premise
 Bench	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 like	_	_	I-Premise
 the	_	_	I-Premise
 use	_	_	I-Premise
@@ -11321,13 +10936,12 @@ Democrat	_	_	I-Premise
 .	_	_	I-Premise
 "	_	_	I-Premise
 I	_	_	B-Claim
-wo	_	_	I-Claim
-n't	_	_	I-Claim
+won't	_	_	I-Claim
 support	_	_	I-Claim
 judges	_	_	I-Claim
 like	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 There	_	_	B-Claim
 is	_	_	I-Claim
 no	_	_	I-Claim
@@ -11336,7 +10950,7 @@ test	_	_	I-Claim
 on	_	_	I-Claim
 any	_	_	I-Claim
 issue	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
@@ -11350,11 +10964,10 @@ and	_	_	I-Claim
 women	_	_	I-Claim
 to	_	_	I-Claim
 interpret	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
 list	_	_	I-Claim
@@ -11378,24 +10991,21 @@ outstanding	_	_	I-Claim
 ,	_	_	I-Claim
 outstanding	_	_	I-Claim
 appointments	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Including	_	_	O
 Bork	_	_	O
 ?	_	_	O
 
-
 Yeah	_	_	B-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 supported	_	_	I-Premise
 him	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 If	_	_	B-Premise
 the	_	_	I-Premise
@@ -11419,7 +11029,6 @@ and	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 that	_	_	B-Claim
 is	_	_	I-Claim
 a	_	_	I-Claim
@@ -11439,13 +11048,12 @@ the	_	_	I-Claim
 8th	_	_	I-Claim
 of	_	_	I-Claim
 November	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Cheers	_	_	O
 and	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 And	_	_	O
 I	_	_	B-Premise
@@ -11457,20 +11065,20 @@ supported	_	_	I-Premise
 the	_	_	I-Premise
 Bork	_	_	I-Premise
 nomination	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	O
 know	_	_	O
 ,	_	_	O
-Mr.	_	_	B-Premise
+Mr	_	_	B-Premise
+.	_	_	I-Premise
 Bush	_	_	I-Premise
 has	_	_	I-Premise
 never	_	_	I-Premise
 appointed	_	_	I-Premise
 a	_	_	I-Premise
 judge	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 appointed	_	_	I-Premise
 over	_	_	I-Premise
 130	_	_	I-Premise
@@ -11480,45 +11088,38 @@ I	_	_	B-Claim
 have	_	_	I-Claim
 a	_	_	I-Claim
 record	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Laughter	_	_	O
 )	_	_	O
 
-
 And	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 very	_	_	O
 proud	_	_	O
 of	_	_	O
 it	_	_	O
 .	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 ask	_	_	I-Premise
 people	_	_	I-Premise
 whether	_	_	I-Premise
-they	_	_	I-Premise
-'re	_	_	I-Premise
+they're	_	_	I-Premise
 Republicans	_	_	I-Premise
 or	_	_	I-Premise
 Democrats	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 appointed	_	_	I-Premise
 prosecutors	_	_	I-Premise
 ,	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 appointed	_	_	I-Premise
 defenders	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 appoint	_	_	I-Premise
 people	_	_	I-Premise
 I	_	_	I-Premise
@@ -11535,7 +11136,7 @@ I	_	_	I-Premise
 think	_	_	I-Premise
 are	_	_	I-Premise
 conservative	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 appoint	_	_	I-Claim
 people	_	_	I-Claim
@@ -11555,7 +11156,7 @@ credit	_	_	I-Claim
 to	_	_	I-Claim
 the	_	_	I-Claim
 Bench	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 those	_	_	B-Claim
 are	_	_	I-Claim
@@ -11576,7 +11177,7 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 These	_	_	O
 appointments	_	_	O
 are	_	_	O
@@ -11604,8 +11205,7 @@ Bench	_	_	O
 I	_	_	O
 wonder	_	_	O
 who	_	_	O
-he	_	_	O
-'s	_	_	O
+he's	_	_	O
 talking	_	_	O
 about	_	_	O
 ?	_	_	O
@@ -11655,7 +11255,6 @@ do	_	_	O
 too	_	_	O
 .	_	_	O
 
-
 Ann	_	_	O
 Compton	_	_	O
 has	_	_	O
@@ -11667,7 +11266,6 @@ you	_	_	O
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -11704,7 +11302,7 @@ Medicaid	_	_	I-Premise
 for	_	_	I-Premise
 the	_	_	I-Premise
 poor	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 in	_	_	O
 fact	_	_	O
@@ -11722,8 +11320,7 @@ eligible	_	_	I-Premise
 the	_	_	B-Claim
 government	_	_	I-Claim
 just	_	_	I-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 continue	_	_	I-Claim
 to	_	_	I-Claim
 pay	_	_	I-Claim
@@ -11733,11 +11330,10 @@ of	_	_	I-Claim
 those	_	_	I-Claim
 programs	_	_	I-Claim
 as	_	_	I-Claim
-they	_	_	I-Claim
-'re	_	_	I-Claim
+they're	_	_	I-Claim
 currently	_	_	I-Claim
 constituted	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 A	_	_	O
 blue	_	_	O
 ribbon	_	_	O
@@ -11795,7 +11391,6 @@ be	_	_	O
 redrawn	_	_	O
 ?	_	_	O
 
-
 Andrea	_	_	O
 ,	_	_	O
 why	_	_	O
@@ -11847,16 +11442,17 @@ entirely	_	_	I-Premise
 on	_	_	I-Premise
 that	_	_	I-Premise
 check	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 they	_	_	B-Premise
 have	_	_	I-Premise
 no	_	_	I-Premise
 other	_	_	I-Premise
 income	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 yet	_	_	O
-Mr.	_	_	B-Premise
+Mr	_	_	B-Premise
+.	_	_	I-Premise
 Bush	_	_	I-Premise
 tried	_	_	I-Premise
 to	_	_	I-Premise
@@ -11868,14 +11464,14 @@ living	_	_	I-Premise
 increase	_	_	I-Premise
 in	_	_	I-Premise
 1985	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Medicare	_	_	B-Premise
 is	_	_	I-Premise
 not	_	_	I-Premise
 getting	_	_	I-Premise
 less	_	_	I-Premise
 expensive	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 medical	_	_	B-Premise
 care	_	_	I-Premise
 for	_	_	I-Premise
@@ -11898,8 +11494,7 @@ the	_	_	I-Premise
 kinds	_	_	I-Premise
 of	_	_	I-Premise
 things	_	_	I-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 had	_	_	I-Premise
 under	_	_	I-Premise
 this	_	_	I-Premise
@@ -11920,7 +11515,7 @@ one	_	_	I-Premise
 gets	_	_	I-Premise
 under	_	_	I-Premise
 Medicare	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Yes	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -11931,15 +11526,13 @@ health	_	_	I-Claim
 insurance	_	_	I-Claim
 ,	_	_	O
 but	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 cost	_	_	I-Claim
 ,	_	_	O
 and	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 be	_	_	I-Claim
@@ -11949,19 +11542,19 @@ burden	_	_	I-Claim
 on	_	_	I-Claim
 elderly	_	_	I-Claim
 citizens	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Premise
 had	_	_	I-Premise
 bipartisan	_	_	I-Premise
 support	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 it	_	_	B-Premise
 should	_	_	I-Premise
 have	_	_	I-Premise
 had	_	_	I-Premise
 bipartisan	_	_	I-Premise
 support	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 I	_	_	O
 suggest	_	_	O
@@ -11982,18 +11575,16 @@ citizens	_	_	I-Claim
 across	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 begin	_	_	I-Claim
 ,	_	_	I-Claim
 and	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
@@ -12008,8 +11599,7 @@ cutting	_	_	I-Claim
 that	_	_	I-Claim
 deficit	_	_	I-Claim
 when	_	_	O
-we	_	_	B-Premise
-'re	_	_	I-Premise
+we're	_	_	B-Premise
 spending	_	_	I-Premise
 billions	_	_	I-Premise
 on	_	_	I-Premise
@@ -12019,8 +11609,7 @@ Star	_	_	I-Premise
 Wars	_	_	I-Premise
 ,	_	_	O
 when	_	_	O
-we	_	_	B-Premise
-'re	_	_	I-Premise
+we're	_	_	B-Premise
 spending	_	_	I-Premise
 billions	_	_	I-Premise
 on	_	_	I-Premise
@@ -12080,7 +11669,7 @@ very	_	_	I-Premise
 very	_	_	I-Premise
 modest	_	_	I-Premise
 means	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 there	_	_	B-Claim
 are	_	_	I-Claim
@@ -12102,7 +11691,7 @@ get	_	_	I-Claim
 off	_	_	I-Claim
 public	_	_	I-Claim
 assistance	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	O
 talked	_	_	O
 in	_	_	O
@@ -12127,8 +11716,7 @@ of	_	_	O
 welfare	_	_	O
 ,	_	_	O
 and	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 proud	_	_	I-Premise
 to	_	_	I-Premise
 say	_	_	I-Premise
@@ -12206,14 +11794,11 @@ get	_	_	I-Premise
 a	_	_	I-Premise
 decent	_	_	I-Premise
 job	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 Governor	_	_	O
 
-
-That	_	_	B-Claim
-'s	_	_	I-Claim
+That's	_	_	B-Claim
 the	_	_	I-Claim
 way	_	_	I-Claim
 you	_	_	I-Claim
@@ -12235,8 +11820,7 @@ at	_	_	I-Claim
 the	_	_	I-Claim
 same	_	_	I-Claim
 time	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 One	_	_	O
 minute	_	_	O
@@ -12246,11 +11830,9 @@ Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
 I	_	_	O
 think	_	_	O
-I	_	_	O
-'ve	_	_	O
+I've	_	_	O
 addressed	_	_	O
 it	_	_	O
 .	_	_	O
@@ -12270,7 +11852,7 @@ vote	_	_	I-Claim
 to	_	_	I-Claim
 cut	_	_	I-Claim
 COLAs	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 voted	_	_	I-Premise
@@ -12289,7 +11871,7 @@ national	_	_	I-Premise
 governors	_	_	I-Premise
 '	_	_	I-Premise
 conference	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 he	_	_	B-Premise
 said	_	_	I-Premise
@@ -12310,14 +11892,12 @@ paraphrase	_	_	I-Premise
 a	_	_	I-Premise
 freeze	_	_	I-Premise
 ,	_	_	I-Premise
-that	_	_	I-Premise
-'s	_	_	I-Premise
+that's	_	_	I-Premise
 easy	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
 we	_	_	I-Claim
@@ -12325,18 +11905,15 @@ need	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 what	_	_	I-Claim
-you	_	_	I-Claim
-'ve	_	_	I-Claim
+you've	_	_	I-Claim
 suggested	_	_	I-Claim
 here	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
-I	_	_	O
-'ve	_	_	O
+I've	_	_	O
 said	_	_	O
 that	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 keep	_	_	I-Claim
@@ -12351,7 +11928,7 @@ that	_	_	I-Claim
 trust	_	_	I-Claim
 fund	_	_	I-Claim
 sound	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
 do	_	_	I-Claim
@@ -12373,7 +11950,7 @@ that	_	_	I-Claim
 affect	_	_	I-Claim
 our	_	_	I-Claim
 children	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 have	_	_	I-Claim
@@ -12382,7 +11959,7 @@ some	_	_	I-Claim
 good	_	_	I-Claim
 sound	_	_	I-Claim
 proposals	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 again	_	_	O
 ,	_	_	O
@@ -12397,7 +11974,7 @@ care	_	_	I-Premise
 ,	_	_	I-Premise
 for	_	_	I-Premise
 example	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 You	_	_	O
 see	_	_	O
 ,	_	_	O
@@ -12409,10 +11986,9 @@ to	_	_	I-Premise
 have	_	_	I-Premise
 the	_	_	I-Premise
 choice	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
 see	_	_	I-Premise
@@ -12421,10 +11997,9 @@ Federal	_	_	I-Premise
 Government	_	_	I-Premise
 licensing	_	_	I-Premise
 grandmothers	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
 see	_	_	I-Premise
@@ -12438,15 +12013,13 @@ communities	_	_	I-Premise
 well	_	_	I-Premise
 ,	_	_	I-Premise
 you	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 do	_	_	I-Premise
 this	_	_	I-Premise
 any	_	_	I-Premise
 more	_	_	I-Premise
 .	_	_	I-Premise
-We	_	_	I-Premise
-'re	_	_	I-Premise
+We're	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 tell	_	_	I-Premise
@@ -12456,7 +12029,7 @@ to	_	_	I-Premise
 do	_	_	I-Premise
 it	_	_	I-Premise
 all	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
 flexibility	_	_	I-Premise
@@ -12476,7 +12049,7 @@ thousand	_	_	I-Claim
 points	_	_	I-Claim
 of	_	_	I-Claim
 light	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	B-Premise
 ought	_	_	I-Premise
 to	_	_	I-Premise
@@ -12487,8 +12060,7 @@ see	_	_	I-Premise
 around	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
-what	_	_	I-Premise
-'s	_	_	I-Premise
+what's	_	_	I-Premise
 happening	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
@@ -12498,7 +12070,7 @@ section	_	_	I-Premise
 Americans	_	_	I-Premise
 helping	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
@@ -12513,21 +12085,19 @@ and	_	_	I-Claim
 in	_	_	I-Claim
 other	_	_	I-Claim
 entitlements	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Margaret	_	_	O
 Warner	_	_	O
 for	_	_	O
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-
 Governor	_	_	O
 ,	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 going	_	_	O
 to	_	_	O
 pass	_	_	O
@@ -12602,8 +12172,7 @@ freeze	_	_	O
 proposal	_	_	O
 .	_	_	O
 And	_	_	O
-what	_	_	O
-'s	_	_	O
+what's	_	_	O
 more	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -12615,8 +12184,7 @@ your	_	_	O
 fellow	_	_	O
 governors	_	_	O
 who	_	_	O
-would	_	_	O
-n't	_	_	O
+wouldn't	_	_	O
 go	_	_	O
 along	_	_	O
 as	_	_	O
@@ -12624,14 +12192,12 @@ political	_	_	O
 cowards	_	_	O
 .	_	_	O
 
-
 That	_	_	B-Claim
 is	_	_	I-Claim
 absolutely	_	_	I-Claim
 not	_	_	I-Claim
 true	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 You	_	_	O
 said	_	_	O
@@ -12644,13 +12210,12 @@ takes	_	_	O
 will	_	_	O
 .	_	_	O
 
-
 That	_	_	B-Claim
 is	_	_	I-Claim
 absolutely	_	_	I-Claim
 not	_	_	I-Claim
 true	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
 had	_	_	I-Claim
 nothing	_	_	I-Claim
@@ -12662,7 +12227,7 @@ debate	_	_	I-Claim
 on	_	_	I-Claim
 Social	_	_	I-Claim
 Security	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 It	_	_	B-Claim
 had	_	_	I-Claim
 to	_	_	I-Claim
@@ -12684,15 +12249,13 @@ of	_	_	I-Claim
 reducing	_	_	I-Claim
 the	_	_	I-Claim
 budget	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 My	_	_	O
 question	_	_	O
 is	_	_	O
 :	_	_	O
-Are	_	_	O
-n't	_	_	O
+Aren't	_	_	O
 you	_	_	O
 demagoguing	_	_	O
 the	_	_	O
@@ -12700,7 +12263,6 @@ Social	_	_	O
 Security	_	_	O
 issue	_	_	O
 ?	_	_	O
-
 
 No	_	_	B-Claim
 ,	_	_	O
@@ -12712,7 +12274,6 @@ to	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 I	_	_	O
 just	_	_	O
 have	_	_	O
@@ -12723,14 +12284,12 @@ record	_	_	O
 .	_	_	O
 That	_	_	B-Claim
 simply	_	_	I-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 true	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
-we	_	_	B-Premise
-'re	_	_	I-Premise
+we're	_	_	B-Premise
 not	_	_	I-Premise
 a	_	_	I-Premise
 parliamentary	_	_	I-Premise
@@ -12740,16 +12299,15 @@ the	_	_	I-Premise
 National	_	_	I-Premise
 Governors	_	_	I-Premise
 Association	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 vote	_	_	I-Premise
 on	_	_	I-Premise
 resolutions	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 If	_	_	B-Premise
 you	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 get	_	_	I-Premise
 a	_	_	I-Premise
 two	_	_	I-Premise
@@ -12759,10 +12317,9 @@ thirds	_	_	I-Premise
 then	_	_	I-Premise
 your	_	_	I-Premise
 resolution	_	_	I-Premise
-does	_	_	I-Premise
-n't	_	_	I-Premise
+doesn't	_	_	I-Premise
 pass	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 everybody	_	_	B-Premise
 knew	_	_	I-Premise
@@ -12784,17 +12341,17 @@ we	_	_	I-Premise
 did	_	_	I-Premise
 so	_	_	I-Premise
 emphatically	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 never	_	_	I-Claim
 made	_	_	I-Claim
 that	_	_	I-Claim
 statement	_	_	I-Claim
-;	_	_	I-Claim
+;	_	_	O
 never	_	_	B-Claim
 would	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	O
 point	_	_	O
 is	_	_	O
@@ -12804,8 +12361,7 @@ we	_	_	I-Premise
 look	_	_	I-Premise
 at	_	_	I-Premise
 this	_	_	I-Premise
-nation	_	_	I-Premise
-'s	_	_	I-Premise
+nation's	_	_	I-Premise
 future	_	_	I-Premise
 ,	_	_	I-Premise
 and	_	_	I-Premise
@@ -12818,13 +12374,13 @@ visions	_	_	I-Premise
 of	_	_	I-Premise
 this	_	_	I-Premise
 future	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 move	_	_	I-Claim
 ahead	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Premise
 Vice	_	_	I-Premise
 President	_	_	I-Premise
@@ -12835,9 +12391,8 @@ thousand	_	_	I-Premise
 points	_	_	I-Premise
 of	_	_	I-Premise
 light	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 interested	_	_	I-Claim
 in	_	_	I-Claim
 240	_	_	I-Claim
@@ -12845,9 +12400,8 @@ million	_	_	I-Claim
 points	_	_	I-Claim
 of	_	_	I-Claim
 light	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 interested	_	_	I-Claim
 in	_	_	I-Claim
 240	_	_	I-Claim
@@ -12897,8 +12451,7 @@ make	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
 just	_	_	I-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 believe	_	_	I-Claim
 the	_	_	I-Claim
 place	_	_	I-Claim
@@ -12939,8 +12492,7 @@ disabled	_	_	I-Premise
 for	_	_	I-Premise
 people	_	_	I-Premise
 who	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 make	_	_	I-Premise
 their	_	_	I-Premise
 way	_	_	I-Premise
@@ -12961,7 +12513,7 @@ deal	_	_	I-Premise
 to	_	_	I-Premise
 this	_	_	I-Premise
 country	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 Vice	_	_	I-Premise
 President	_	_	I-Premise
@@ -12979,20 +12531,17 @@ largely	_	_	I-Premise
 a	_	_	I-Premise
 welfare	_	_	I-Premise
 program	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
-.	_	_	I-Claim
-It	_	_	B-Claim
-'s	_	_	I-Claim
+isn't	_	_	I-Claim
+.	_	_	O
+It's	_	_	B-Claim
 a	_	_	I-Claim
 contract	_	_	I-Claim
 between	_	_	I-Claim
 generations	_	_	I-Claim
-.	_	_	I-Claim
-It	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+It's	_	_	B-Premise
 something	_	_	I-Premise
 that	_	_	I-Premise
 we	_	_	I-Premise
@@ -13018,9 +12567,8 @@ have	_	_	I-Premise
 a	_	_	I-Premise
 secure	_	_	I-Premise
 retirement	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+It's	_	_	B-Claim
 a	_	_	I-Claim
 very	_	_	I-Claim
 sacred	_	_	I-Claim
@@ -13031,17 +12579,16 @@ I	_	_	B-Claim
 believe	_	_	I-Claim
 in	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 not	_	_	I-Claim
 where	_	_	I-Claim
 we	_	_	I-Claim
 ought	_	_	I-Claim
 to	_	_	I-Claim
 go	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 There	_	_	B-Claim
 are	_	_	I-Claim
 plenty	_	_	I-Claim
@@ -13049,9 +12596,8 @@ of	_	_	I-Claim
 places	_	_	I-Claim
 to	_	_	I-Claim
 cut	_	_	I-Claim
-.	_	_	I-Claim
-There	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+There's	_	_	B-Premise
 lots	_	_	I-Premise
 we	_	_	I-Premise
 can	_	_	I-Premise
@@ -13074,22 +12620,20 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 American	_	_	I-Premise
 taxpayer	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 There	_	_	O
 are	_	_	O
-we	_	_	B-Premise
-certainly	_	_	I-Premise
-ought	_	_	I-Premise
-to	_	_	I-Premise
-be	_	_	I-Premise
-able	_	_	I-Premise
-to	_	_	I-Premise
-
+we	_	_	O
+certainly	_	_	O
+ought	_	_	O
+to	_	_	O
+be	_	_	O
+able	_	_	O
+to	_	_	O
 
 Governor	_	_	O
 
-
-Give	_	_	I-Premise
+Give	_	_	B-Premise
 our	_	_	I-Premise
 farm	_	_	I-Premise
 families	_	_	I-Premise
@@ -13108,18 +12652,16 @@ year	_	_	I-Premise
 on	_	_	I-Premise
 farm	_	_	I-Premise
 subsidies	_	_	I-Premise
-,	_	_	O
-and	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
-sure	_	_	I-Claim
-we	_	_	I-Claim
-can	_	_	I-Claim
-do	_	_	I-Claim
-that	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	B-Claim
-'s	_	_	I-Claim
+,	_	_	I-Premise
+and	_	_	I-Premise
+I'm	_	_	I-Premise
+sure	_	_	I-Premise
+we	_	_	I-Premise
+can	_	_	I-Premise
+do	_	_	I-Premise
+that	_	_	I-Premise
+.	_	_	O
+That's	_	_	B-Claim
 where	_	_	I-Claim
 we	_	_	I-Claim
 ought	_	_	I-Claim
@@ -13136,8 +12678,7 @@ ought	_	_	I-Claim
 to	_	_	I-Claim
 review	_	_	I-Claim
 first	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 One	_	_	O
 minute	_	_	O
@@ -13146,7 +12687,6 @@ the	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 Well	_	_	O
 ,	_	_	O
@@ -13180,13 +12720,12 @@ maintenance	_	_	I-Premise
 or	_	_	I-Premise
 production	_	_	I-Premise
 controls	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	O
 said	_	_	O
 that	_	_	O
 .	_	_	O
-He	_	_	B-Premise
-'s	_	_	I-Premise
+He's	_	_	B-Premise
 been	_	_	I-Premise
 out	_	_	I-Premise
 in	_	_	I-Premise
@@ -13200,9 +12739,8 @@ Midwestern	_	_	O
 states	_	_	O
 .	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
-.	_	_	I-Claim
+don't	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
 the	_	_	I-Claim
@@ -13217,7 +12755,7 @@ legislation	_	_	I-Claim
 ,	_	_	I-Claim
 outstanding	_	_	I-Claim
 legislation	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
@@ -13240,10 +12778,9 @@ but	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 what	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 suggesting	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 In	_	_	O
 the	_	_	O
 first	_	_	O
@@ -13274,7 +12811,8 @@ under	_	_	I-Premise
 us	_	_	I-Premise
 and	_	_	I-Premise
 made	_	_	I-Premise
-Mr.	_	_	I-Premise
+Mr	_	_	I-Premise
+.	_	_	I-Premise
 Gorbachev	_	_	I-Premise
 say	_	_	I-Premise
 to	_	_	I-Premise
@@ -13288,8 +12826,7 @@ how	_	_	I-Premise
 do	_	_	I-Premise
 I	_	_	I-Premise
 know	_	_	I-Premise
-you	_	_	I-Premise
-'re	_	_	I-Premise
+you're	_	_	I-Premise
 reliable	_	_	I-Premise
 suppliers	_	_	I-Premise
 ?	_	_	I-Premise
@@ -13300,7 +12837,7 @@ go	_	_	I-Claim
 back	_	_	I-Claim
 to	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 ought	_	_	I-Premise
@@ -13309,7 +12846,7 @@ expand	_	_	I-Premise
 our	_	_	I-Premise
 markets	_	_	I-Premise
 abroad	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 ought	_	_	I-Premise
 to	_	_	I-Premise
@@ -13317,7 +12854,7 @@ have	_	_	I-Premise
 rural	_	_	I-Premise
 enterprise	_	_	I-Premise
 zones	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 ought	_	_	I-Premise
 to	_	_	I-Premise
@@ -13346,10 +12883,9 @@ for	_	_	I-Premise
 our	_	_	I-Premise
 agricultural	_	_	I-Premise
 products	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 not	_	_	O
 go	_	_	O
 back	_	_	O
@@ -13369,12 +12905,11 @@ Republican	_	_	O
 support	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
-
 
 The	_	_	B-Claim
 farm	_	_	I-Claim
@@ -13389,8 +12924,7 @@ economy	_	_	I-Premise
 is	_	_	I-Premise
 coming	_	_	I-Premise
 back	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 Margaret	_	_	O
 Warner	_	_	O
@@ -13400,26 +12934,25 @@ question	_	_	O
 for	_	_	O
 you	_	_	O
 ,	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 like	_	_	O
 to	_	_	O
 cover	_	_	O
 a	_	_	O
 subject	_	_	O
 that	_	_	O
-was	_	_	O
-n't	_	_	O
+wasn't	_	_	O
 covered	_	_	O
 in	_	_	O
 the	_	_	O
@@ -13442,12 +12975,12 @@ and	_	_	O
 described	_	_	O
 yourself	_	_	O
 as	_	_	O
-having	_	_	I-Claim
+having	_	_	B-Claim
 zero	_	_	I-Claim
 tolerance	_	_	I-Claim
 for	_	_	I-Claim
 polluters	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 yet	_	_	O
 your	_	_	B-Claim
@@ -13457,15 +12990,14 @@ seem	_	_	I-Claim
 to	_	_	I-Claim
 suggest	_	_	I-Claim
 otherwise	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 When	_	_	B-Premise
 you	_	_	I-Premise
 were	_	_	I-Premise
 head	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
-President	_	_	I-Premise
-'s	_	_	I-Premise
+President's	_	_	I-Premise
 task	_	_	I-Premise
 force	_	_	I-Premise
 on	_	_	I-Premise
@@ -13486,7 +13018,7 @@ of	_	_	I-Premise
 lead	_	_	I-Premise
 from	_	_	I-Premise
 gasoline	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 believe	_	_	O
 you	_	_	B-Premise
@@ -13505,7 +13037,7 @@ discharging	_	_	I-Premise
 them	_	_	I-Premise
 in	_	_	I-Premise
 sewers	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 your	_	_	B-Premise
 group	_	_	I-Premise
@@ -13528,7 +13060,7 @@ at	_	_	I-Premise
 the	_	_	I-Premise
 work	_	_	I-Premise
 site	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Finally	_	_	O
 ,	_	_	O
 I	_	_	O
@@ -13537,23 +13069,22 @@ you	_	_	B-Premise
 did	_	_	I-Premise
 support	_	_	I-Premise
 the	_	_	I-Premise
-President	_	_	I-Premise
-'s	_	_	I-Premise
+President's	_	_	I-Premise
 veto	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 Clean	_	_	I-Premise
 Water	_	_	I-Premise
 Act	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 My	_	_	O
 question	_	_	O
 is	_	_	O
 ,	_	_	O
-are	_	_	O
-n't	_	_	O
+aren't	_	_	O
 you	_	_	O
---	_	_	O
+-	_	_	O
+-	_	_	O
 how	_	_	O
 do	_	_	O
 you	_	_	O
@@ -13565,7 +13096,6 @@ with	_	_	O
 this	_	_	O
 record	_	_	O
 ?	_	_	O
-
 
 90	_	_	B-Premise
 percent	_	_	I-Premise
@@ -13582,9 +13112,8 @@ force	_	_	I-Premise
 ;	_	_	I-Premise
 90	_	_	I-Premise
 percent	_	_	I-Premise
-.	_	_	I-Premise
-It	_	_	O
-'s	_	_	O
+.	_	_	O
+It's	_	_	O
 almost	_	_	O
 you	_	_	O
 remember	_	_	O
@@ -13596,8 +13125,7 @@ the	_	_	O
 lead	_	_	O
 out	_	_	O
 ?	_	_	O
-It	_	_	O
-'s	_	_	O
+It's	_	_	O
 almost	_	_	O
 out	_	_	O
 .	_	_	O
@@ -13607,21 +13135,18 @@ gone	_	_	O
 Clean	_	_	O
 water	_	_	O
 ?	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 for	_	_	I-Claim
 clean	_	_	I-Claim
 water	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 what	_	_	B-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 not	_	_	I-Premise
 for	_	_	I-Premise
 what	_	_	I-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 not	_	_	I-Premise
 for	_	_	I-Premise
 is	_	_	I-Premise
@@ -13634,7 +13159,7 @@ the	_	_	I-Premise
 Democratic	_	_	I-Premise
 Congress	_	_	I-Premise
 does	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Claim
 sent	_	_	I-Claim
 up	_	_	I-Claim
@@ -13651,7 +13176,7 @@ bill	_	_	I-Claim
 on	_	_	I-Claim
 clean	_	_	I-Claim
 water	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 the	_	_	B-Premise
 only	_	_	I-Premise
@@ -13679,15 +13204,14 @@ rant	_	_	I-Premise
 against	_	_	I-Premise
 the	_	_	I-Premise
 deficit	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
 for	_	_	I-Claim
 clean	_	_	I-Claim
 water	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 been	_	_	I-Premise
 an	_	_	I-Premise
 outdoorsman	_	_	I-Premise
@@ -13697,15 +13221,14 @@ sportsman	_	_	I-Premise
 all	_	_	I-Premise
 my	_	_	I-Premise
 life	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 been	_	_	I-Premise
 to	_	_	I-Premise
 these	_	_	I-Premise
 national	_	_	I-Premise
 parks	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 led	_	_	I-Premise
 for	_	_	I-Premise
@@ -13718,7 +13241,7 @@ formerly	_	_	I-Premise
 Dingell	_	_	I-Premise
 -	_	_	I-Premise
 Johnson	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 headed	_	_	I-Premise
 the	_	_	I-Premise
@@ -13749,40 +13272,37 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 Republican	_	_	I-Premise
 side	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 led	_	_	I-Premise
 for	_	_	I-Premise
 that	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	B-Claim
 refuse	_	_	I-Claim
 to	_	_	I-Claim
 measure	_	_	I-Claim
-one	_	_	I-Claim
-'s	_	_	I-Claim
+one's	_	_	I-Claim
 commitment	_	_	I-Claim
 as	_	_	I-Claim
 to	_	_	I-Claim
 whether	_	_	I-Claim
-you	_	_	I-Claim
-'re	_	_	I-Claim
+you're	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 double	_	_	I-Claim
 the	_	_	I-Claim
 spending	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 That	_	_	B-Premise
 is	_	_	I-Premise
 the	_	_	I-Premise
 same	_	_	I-Premise
 old	_	_	I-Premise
 argument	_	_	I-Premise
-that	_	_	I-Premise
-'s	_	_	I-Premise
+that's	_	_	I-Premise
 gotten	_	_	I-Premise
 us	_	_	I-Premise
 into	_	_	I-Premise
@@ -13791,10 +13311,9 @@ on	_	_	I-Premise
 the	_	_	I-Premise
 deficit	_	_	I-Premise
 side	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
-I	_	_	O
-'ll	_	_	O
+I'll	_	_	O
 just	_	_	O
 keep	_	_	O
 saying	_	_	O
@@ -13802,9 +13321,8 @@ saying	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
 one	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
@@ -13826,15 +13344,14 @@ off	_	_	I-Claim
 of	_	_	I-Claim
 New	_	_	I-Claim
 Jersey	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 That	_	_	O
 boo	_	_	O
 was	_	_	O
@@ -13872,38 +13389,34 @@ too	_	_	O
 much	_	_	O
 .	_	_	O
 But	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 not	_	_	I-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 do	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 an	_	_	I-Claim
 environmentalist	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 our	_	_	I-Premise
 parks	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 believe	_	_	I-Premise
 in	_	_	I-Premise
 the	_	_	I-Premise
-President	_	_	I-Premise
-'s	_	_	I-Premise
+President's	_	_	I-Premise
 commission	_	_	I-Premise
 on	_	_	I-Premise
 outdoors	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-I	_	_	B-Claim
-'ll	_	_	I-Claim
+I'll	_	_	B-Claim
 do	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
@@ -13913,10 +13426,10 @@ because	_	_	O
 I	_	_	B-Premise
 am	_	_	I-Premise
 committed	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 
-
-Gov.	_	_	O
+Gov	_	_	O
+.	_	_	O
 Dukakis	_	_	O
 ,	_	_	O
 you	_	_	O
@@ -13927,11 +13440,9 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-
 Margaret	_	_	O
 ,	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 not	_	_	O
 sure	_	_	O
 I	_	_	O
@@ -13957,8 +13468,7 @@ the	_	_	O
 1985	_	_	O
 bill	_	_	O
 .	_	_	O
-It	_	_	O
-'s	_	_	O
+It's	_	_	O
 called	_	_	O
 set	_	_	O
 -	_	_	O
@@ -13996,20 +13506,18 @@ foreign	_	_	I-Premise
 policy	_	_	I-Premise
 advisers	_	_	I-Premise
 ?	_	_	I-Premise
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 against	_	_	I-Premise
 the	_	_	I-Premise
 grain	_	_	I-Premise
 embargo	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 it	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
 mistake	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'m	_	_	I-Premise
+.	_	_	O
+I'm	_	_	B-Premise
 also	_	_	I-Premise
 against	_	_	I-Premise
 the	_	_	I-Premise
@@ -14022,7 +13530,7 @@ folks	_	_	I-Premise
 attempted	_	_	I-Premise
 to	_	_	I-Premise
 impose	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 That	_	_	B-Claim
 was	_	_	I-Claim
 a	_	_	I-Claim
@@ -14050,28 +13558,26 @@ United	_	_	I-Premise
 States	_	_	I-Premise
 of	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Margaret	_	_	O
 ,	_	_	O
 once	_	_	O
 again	_	_	O
 ,	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 know	_	_	I-Claim
 which	_	_	I-Claim
 George	_	_	I-Claim
 Bush	_	_	I-Claim
-I	_	_	I-Claim
-'m	_	_	I-Claim
+I'm	_	_	I-Claim
 talking	_	_	I-Claim
 about	_	_	I-Claim
 here	_	_	I-Claim
 or	_	_	I-Claim
 looking	_	_	I-Claim
 at	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	O
 George	_	_	B-Premise
 Bush	_	_	I-Premise
@@ -14105,8 +13611,7 @@ EPA	_	_	I-Premise
 or	_	_	B-Premise
 the	_	_	I-Premise
 one	_	_	I-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 been	_	_	I-Premise
 seeing	_	_	I-Premise
 and	_	_	I-Premise
@@ -14118,7 +13623,7 @@ two	_	_	I-Premise
 or	_	_	I-Premise
 three	_	_	I-Premise
 months	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 let	_	_	O
 me	_	_	O
@@ -14141,7 +13646,7 @@ subject	_	_	I-Premise
 of	_	_	I-Premise
 Boston	_	_	I-Premise
 Harbor	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 George	_	_	O
 ,	_	_	O
 Boston	_	_	B-Premise
@@ -14151,9 +13656,8 @@ polluted	_	_	I-Premise
 for	_	_	I-Premise
 100	_	_	I-Premise
 years	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 the	_	_	I-Claim
 first	_	_	I-Claim
 governor	_	_	I-Claim
@@ -14161,19 +13665,18 @@ to	_	_	I-Claim
 clean	_	_	I-Claim
 it	_	_	I-Claim
 up	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 No	_	_	B-Claim
 thanks	_	_	I-Claim
 to	_	_	I-Claim
 you	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 No	_	_	B-Claim
 thanks	_	_	I-Claim
 to	_	_	I-Claim
 you	_	_	I-Claim
-.	_	_	I-Claim
-We	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+We've	_	_	B-Premise
 been	_	_	I-Premise
 cleaning	_	_	I-Premise
 it	_	_	I-Premise
@@ -14181,7 +13684,7 @@ up	_	_	I-Premise
 for	_	_	I-Premise
 four	_	_	I-Premise
 years	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 passed	_	_	I-Premise
 landmark	_	_	I-Premise
@@ -14189,12 +13692,12 @@ legislation	_	_	I-Premise
 in	_	_	I-Premise
 '	_	_	I-Premise
 84	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 No	_	_	B-Claim
 thanks	_	_	I-Claim
 to	_	_	I-Claim
 you	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 You	_	_	B-Claim
 did	_	_	I-Claim
 everything	_	_	I-Claim
@@ -14207,12 +13710,10 @@ Clean	_	_	I-Claim
 Water	_	_	I-Claim
 Act	_	_	I-Claim
 
-
 Governor	_	_	O
 .	_	_	O
 
-
-And	_	_	I-Claim
+And	_	_	B-Claim
 those	_	_	I-Claim
 grants	_	_	I-Claim
 which	_	_	I-Claim
@@ -14232,13 +13733,13 @@ and	_	_	I-Claim
 harbors	_	_	I-Claim
 and	_	_	I-Claim
 streams	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -14325,8 +13826,7 @@ another	_	_	O
 debate	_	_	O
 ,	_	_	O
 before	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 all	_	_	O
 over	_	_	O
 ,	_	_	O
@@ -14348,9 +13848,8 @@ you	_	_	O
 two	_	_	O
 ?	_	_	O
 
-
 No	_	_	B-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
 not	_	_	I-Claim
@@ -14358,7 +13857,7 @@ agree	_	_	I-Claim
 to	_	_	I-Claim
 another	_	_	I-Claim
 debate	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 The	_	_	B-Claim
 American	_	_	I-Claim
 people	_	_	I-Claim
@@ -14368,27 +13867,26 @@ to	_	_	I-Claim
 here	_	_	I-Claim
 with	_	_	I-Claim
 debates	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 They	_	_	B-Premise
 had	_	_	I-Premise
 thirty	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 we	_	_	B-Premise
 had	_	_	I-Premise
 seven	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	B-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 got	_	_	I-Premise
 three	_	_	I-Premise
 of	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 am	_	_	O
 going	_	_	O
@@ -14436,20 +13934,18 @@ more	_	_	I-Claim
 debates	_	_	I-Claim
 ,	_	_	O
 we	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 need	_	_	I-Claim
 any	_	_	I-Claim
 more	_	_	I-Claim
 debates	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 spelled	_	_	I-Premise
 out	_	_	I-Premise
 my	_	_	I-Premise
 position	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 In	_	_	O
 terms	_	_	O
 of	_	_	O
@@ -14460,8 +13956,7 @@ you	_	_	O
 know	_	_	O
 ,	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 want	_	_	O
 to	_	_	O
 sound	_	_	O
@@ -14475,7 +13970,7 @@ schoolyard	_	_	O
 he	_	_	B-Claim
 started	_	_	I-Claim
 it	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 take	_	_	B-Premise
 a	_	_	I-Premise
@@ -14489,7 +13984,7 @@ a	_	_	I-Premise
 look	_	_	I-Premise
 at	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Do	_	_	B-Premise
 you	_	_	I-Premise
 remember	_	_	I-Premise
@@ -14513,7 +14008,7 @@ that	_	_	I-Premise
 was	_	_	I-Premise
 on	_	_	I-Premise
 there	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 I	_	_	O
 mean	_	_	O
 ,	_	_	O
@@ -14524,10 +14019,9 @@ this	_	_	B-Claim
 was	_	_	I-Claim
 just	_	_	I-Claim
 outrageous	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-I	_	_	O
-'ll	_	_	O
+I'll	_	_	O
 try	_	_	O
 harder	_	_	O
 to	_	_	O
@@ -14561,7 +14055,7 @@ issues	_	_	I-Premise
 about	_	_	I-Premise
 seven	_	_	I-Premise
 stops	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 had	_	_	I-Premise
 some	_	_	I-Premise
@@ -14589,7 +14083,7 @@ and	_	_	I-Premise
 I	_	_	I-Premise
 talked	_	_	I-Premise
 agriculture	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 not	_	_	B-Claim
 one	_	_	I-Claim
@@ -14619,7 +14113,7 @@ read	_	_	I-Claim
 in	_	_	I-Claim
 any	_	_	I-Claim
 newspaper	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Why	_	_	O
 ?	_	_	O
 Because	_	_	O
@@ -14647,12 +14141,11 @@ nasty	_	_	I-Premise
 about	_	_	I-Premise
 somebody	_	_	I-Premise
 else	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 know	_	_	O
 what	_	_	O
 the	_	_	O
@@ -14674,7 +14167,7 @@ talk	_	_	I-Premise
 on	_	_	I-Premise
 issues	_	_	I-Premise
 more	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 How	_	_	B-Premise
 can	_	_	I-Premise
 Barry	_	_	I-Premise
@@ -14684,8 +14177,7 @@ in	_	_	I-Premise
 Arizona	_	_	I-Premise
 know	_	_	I-Premise
 whether	_	_	I-Premise
-I	_	_	I-Premise
-'m	_	_	I-Premise
+I'm	_	_	I-Premise
 talking	_	_	I-Premise
 on	_	_	I-Premise
 the	_	_	I-Premise
@@ -14710,7 +14202,7 @@ paper	_	_	I-Premise
 after	_	_	I-Premise
 position	_	_	I-Premise
 paper	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 and	_	_	O
 we	_	_	B-Claim
 see	_	_	I-Claim
@@ -14727,15 +14219,13 @@ fascinated	_	_	I-Premise
 with	_	_	I-Premise
 polls	_	_	I-Premise
 and	_	_	O
-who	_	_	B-Premise
-'s	_	_	I-Premise
+who's	_	_	B-Premise
 up	_	_	I-Premise
 or	_	_	I-Premise
 down	_	_	I-Premise
 today	_	_	I-Premise
 and	_	_	O
-who	_	_	B-Premise
-'s	_	_	I-Premise
+who's	_	_	B-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 be	_	_	I-Premise
@@ -14743,7 +14233,7 @@ up	_	_	I-Premise
 or	_	_	I-Premise
 down	_	_	I-Premise
 tomorrow	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
 I	_	_	B-Claim
 think	_	_	I-Claim
@@ -14766,10 +14256,9 @@ is	_	_	I-Claim
 not	_	_	I-Claim
 getting	_	_	I-Claim
 out	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 not	_	_	I-Claim
 getting	_	_	I-Claim
 out	_	_	I-Claim
@@ -14779,18 +14268,17 @@ are	_	_	I-Premise
 too	_	_	I-Premise
 few	_	_	I-Premise
 debates	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 There	_	_	B-Claim
 will	_	_	I-Claim
 be	_	_	I-Claim
 no	_	_	I-Claim
 more	_	_	I-Claim
 debates	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 (	_	_	O
 Applause	_	_	O
 )	_	_	O
-
 
 Governor	_	_	O
 Dukakis	_	_	O
@@ -14805,7 +14293,6 @@ respond	_	_	O
 sir	_	_	O
 .	_	_	O
 
-
 I	_	_	O
 can	_	_	O
 understand	_	_	O
@@ -14817,7 +14304,8 @@ presidential	_	_	O
 debate	_	_	O
 ,	_	_	O
 why	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Bush	_	_	O
 would	_	_	O
 want	_	_	O
@@ -14830,8 +14318,7 @@ Laughter	_	_	O
 ,	_	_	O
 boos	_	_	O
 )	_	_	O
-That	_	_	O
-'s	_	_	O
+That's	_	_	O
 my	_	_	O
 five	_	_	O
 seconds	_	_	O
@@ -14851,7 +14338,7 @@ to	_	_	I-Claim
 address	_	_	I-Claim
 the	_	_	I-Claim
 issues	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Yes	_	_	O
 ,	_	_	O
 we	_	_	O
@@ -14881,10 +14368,10 @@ rid	_	_	O
 of	_	_	O
 the	_	_	O
 labels	_	_	O
---	_	_	O
+-	_	_	O
+-	_	_	O
 and	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 not	_	_	O
 keeping	_	_	O
 count	_	_	O
@@ -14892,7 +14379,8 @@ count	_	_	O
 but	_	_	O
 I	_	_	O
 think	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Bush	_	_	O
 has	_	_	O
 used	_	_	O
@@ -14921,8 +14409,7 @@ used	_	_	O
 that	_	_	O
 label	_	_	O
 ,	_	_	O
-I	_	_	O
-'d	_	_	O
+I'd	_	_	O
 qualify	_	_	O
 for	_	_	O
 one	_	_	O
@@ -14945,8 +14432,7 @@ Laughter	_	_	O
 ,	_	_	O
 applause	_	_	O
 )	_	_	O
-Is	_	_	O
-n't	_	_	O
+Isn't	_	_	O
 that	_	_	O
 the	_	_	O
 point	_	_	O
@@ -14957,7 +14443,7 @@ believe	_	_	I-Premise
 in	_	_	I-Premise
 basic	_	_	I-Premise
 values	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 have	_	_	I-Premise
 differences	_	_	I-Premise
@@ -14966,7 +14452,7 @@ how	_	_	I-Premise
 to	_	_	I-Premise
 achieve	_	_	I-Premise
 them	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -14980,7 +14466,7 @@ nation	_	_	I-Claim
 to	_	_	I-Claim
 move	_	_	I-Claim
 forward	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
 concerned	_	_	I-Claim
@@ -15019,7 +14505,7 @@ hands	_	_	I-Claim
 of	_	_	I-Claim
 foreign	_	_	I-Claim
 investors	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 am	_	_	I-Premise
 concerned	_	_	I-Premise
@@ -15030,9 +14516,8 @@ does	_	_	I-Premise
 to	_	_	I-Premise
 our	_	_	I-Premise
 future	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Claim
-'m	_	_	I-Claim
+.	_	_	O
+I'm	_	_	B-Claim
 concerned	_	_	I-Claim
 about	_	_	I-Claim
 the	_	_	I-Claim
@@ -15055,7 +14540,7 @@ of	_	_	I-Premise
 these	_	_	I-Premise
 massive	_	_	I-Premise
 deficits	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 those	_	_	B-Claim
 are	_	_	I-Claim
@@ -15105,8 +14590,7 @@ have	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 success	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Andrea	_	_	O
 Mitchell	_	_	O
@@ -15120,7 +14604,6 @@ Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
 
-
 We	_	_	O
 are	_	_	O
 talking	_	_	O
@@ -15128,8 +14611,7 @@ about	_	_	O
 issues	_	_	O
 ,	_	_	O
 so	_	_	O
-let	_	_	O
-'s	_	_	O
+let's	_	_	O
 return	_	_	O
 to	_	_	O
 something	_	_	O
@@ -15149,8 +14631,7 @@ You	_	_	O
 said	_	_	O
 that	_	_	O
 you	_	_	B-Claim
-did	_	_	I-Claim
-n't	_	_	I-Claim
+didn't	_	_	I-Claim
 rule	_	_	I-Claim
 it	_	_	I-Claim
 out	_	_	I-Claim
@@ -15186,7 +14667,7 @@ namely	_	_	I-Premise
 ,	_	_	I-Premise
 conventional	_	_	I-Premise
 forces	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Do	_	_	O
 you	_	_	O
 somehow	_	_	O
@@ -15241,7 +14722,6 @@ our	_	_	O
 triad	_	_	O
 ?	_	_	O
 
-
 I	_	_	B-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
@@ -15285,7 +14765,7 @@ and	_	_	I-Claim
 credible	_	_	I-Claim
 nuclear	_	_	I-Claim
 deterrent	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 we	_	_	B-Claim
 also	_	_	I-Claim
@@ -15303,7 +14783,7 @@ well	_	_	I-Claim
 supported	_	_	I-Claim
 conventional	_	_	I-Claim
 forces	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 every	_	_	B-Premise
 defense	_	_	I-Premise
@@ -15346,8 +14826,7 @@ president	_	_	I-Premise
 has	_	_	I-Premise
 signed	_	_	I-Premise
 ,	_	_	I-Premise
-there	_	_	I-Premise
-'s	_	_	I-Premise
+there's	_	_	I-Premise
 no	_	_	I-Premise
 way	_	_	I-Premise
 that	_	_	I-Premise
@@ -15362,9 +14841,8 @@ and	_	_	I-Premise
 do	_	_	I-Premise
 them	_	_	I-Premise
 well	_	_	I-Premise
-.	_	_	I-Premise
-That	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+That's	_	_	B-Claim
 why	_	_	I-Claim
 tough	_	_	I-Claim
 choices	_	_	I-Claim
@@ -15379,14 +14857,15 @@ prepared	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
 ,	_	_	O
-Mr.	_	_	B-Claim
+Mr	_	_	B-Claim
+.	_	_	I-Claim
 Bush	_	_	I-Claim
 is	_	_	I-Claim
 not	_	_	I-Claim
 prepared	_	_	I-Claim
 to	_	_	I-Claim
 make	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 ,	_	_	O
 Andrea	_	_	O
@@ -15432,11 +14911,12 @@ those	_	_	I-Premise
 conventional	_	_	I-Premise
 force	_	_	I-Premise
 reductions	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 would	_	_	I-Claim
 challenge	_	_	I-Claim
-Mr.	_	_	I-Claim
+Mr	_	_	I-Claim
+.	_	_	I-Claim
 Gorbachev	_	_	I-Claim
 to	_	_	I-Claim
 join	_	_	I-Claim
@@ -15456,9 +14936,8 @@ East	_	_	I-Claim
 in	_	_	I-Claim
 Central	_	_	I-Claim
 America	_	_	I-Claim
-.	_	_	I-Claim
-Let	_	_	B-Premise
-'s	_	_	I-Premise
+.	_	_	O
+Let's	_	_	B-Premise
 get	_	_	I-Premise
 him	_	_	I-Premise
 working	_	_	I-Premise
@@ -15473,8 +14952,7 @@ and	_	_	O
 see	_	_	B-Premise
 if	_	_	I-Premise
 we	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 get	_	_	I-Premise
 them	_	_	I-Premise
 to	_	_	I-Premise
@@ -15502,12 +14980,11 @@ to	_	_	I-Premise
 that	_	_	I-Premise
 troubled	_	_	I-Premise
 region	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	O
 think	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 one	_	_	O
 reason	_	_	O
 why	_	_	O
@@ -15531,9 +15008,8 @@ to	_	_	I-Claim
 the	_	_	I-Claim
 Middle	_	_	I-Claim
 East	_	_	I-Claim
-.	_	_	I-Claim
-Let	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+Let's	_	_	B-Claim
 go	_	_	I-Claim
 to	_	_	I-Claim
 work	_	_	I-Claim
@@ -15556,7 +15032,7 @@ Cuban	_	_	I-Premise
 and	_	_	I-Premise
 Soviet	_	_	I-Premise
 influence	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 democratic	_	_	I-Premise
 leaders	_	_	I-Premise
@@ -15570,9 +15046,8 @@ to	_	_	I-Premise
 work	_	_	I-Premise
 with	_	_	I-Premise
 us	_	_	I-Premise
-.	_	_	I-Premise
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+I've	_	_	B-Premise
 met	_	_	I-Premise
 with	_	_	I-Premise
 them	_	_	I-Premise
@@ -15581,8 +15056,7 @@ I	_	_	B-Premise
 know	_	_	I-Premise
 them	_	_	I-Premise
 ,	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 spent	_	_	I-Premise
 time	_	_	I-Premise
 in	_	_	I-Premise
@@ -15597,7 +15071,7 @@ so	_	_	I-Premise
 does	_	_	I-Premise
 Senator	_	_	I-Premise
 Bentsen	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
@@ -15614,7 +15088,7 @@ and	_	_	I-Premise
 they	_	_	I-Premise
 with	_	_	I-Premise
 us	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	B-Premise
 not	_	_	I-Premise
 a	_	_	I-Premise
@@ -15630,10 +15104,9 @@ policy	_	_	I-Premise
 in	_	_	I-Premise
 Central	_	_	I-Premise
 America	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-we	_	_	B-Claim
-'ve	_	_	I-Claim
+we've	_	_	B-Claim
 got	_	_	I-Claim
 to	_	_	I-Claim
 work	_	_	I-Claim
@@ -15688,7 +15161,7 @@ virtually	_	_	I-Premise
 destroying	_	_	I-Premise
 those	_	_	I-Premise
 countries	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Those	_	_	B-Claim
 are	_	_	I-Claim
 the	_	_	I-Claim
@@ -15707,7 +15180,8 @@ I	_	_	I-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 pursue	_	_	I-Claim
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Bush	_	_	O
 and	_	_	O
 I	_	_	O
@@ -15730,8 +15204,8 @@ pursue	_	_	O
 them	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -15740,7 +15214,6 @@ have	_	_	O
 one	_	_	O
 minute	_	_	O
 .	_	_	O
-
 
 In	_	_	O
 terms	_	_	O
@@ -15758,12 +15231,11 @@ of	_	_	I-Claim
 the	_	_	I-Claim
 Soviet	_	_	I-Claim
 Union	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 the	_	_	O
 reason	_	_	O
-we	_	_	B-Claim
-'ve	_	_	I-Claim
+we've	_	_	B-Claim
 gotten	_	_	I-Claim
 it	_	_	I-Claim
 is	_	_	O
@@ -15794,7 +15266,7 @@ for	_	_	I-Premise
 the	_	_	I-Premise
 discredited	_	_	I-Premise
 freeze	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 My	_	_	B-Premise
 opponent	_	_	I-Premise
 had	_	_	I-Premise
@@ -15808,7 +15280,7 @@ our	_	_	I-Premise
 policy	_	_	I-Premise
 in	_	_	I-Premise
 Angola	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 It	_	_	O
 now	_	_	O
 looks	_	_	O
@@ -15831,7 +15303,7 @@ the	_	_	I-Claim
 Cubans	_	_	I-Claim
 from	_	_	I-Claim
 Angola	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 We	_	_	B-Premise
 see	_	_	I-Premise
 the	_	_	I-Premise
@@ -15840,20 +15312,17 @@ coming	_	_	I-Premise
 out	_	_	I-Premise
 of	_	_	I-Premise
 Afghanistan	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 That	_	_	B-Claim
-would	_	_	I-Claim
-n't	_	_	I-Claim
+wouldn't	_	_	I-Claim
 have	_	_	I-Claim
 stopped	_	_	I-Claim
 if	_	_	B-Premise
 we	_	_	I-Premise
-had	_	_	I-Premise
-n't	_	_	I-Premise
+hadn't	_	_	I-Premise
 been	_	_	I-Premise
 willing	_	_	I-Premise
-would	_	_	I-Premise
-n't	_	_	I-Premise
+wouldn't	_	_	I-Premise
 have	_	_	I-Premise
 even	_	_	I-Premise
 started	_	_	I-Premise
@@ -15865,8 +15334,7 @@ out	_	_	I-Premise
 ,	_	_	I-Premise
 if	_	_	I-Premise
 we	_	_	I-Premise
-had	_	_	I-Premise
-n't	_	_	I-Premise
+hadn't	_	_	I-Premise
 even	_	_	I-Premise
 been	_	_	I-Premise
 willing	_	_	I-Premise
@@ -15876,7 +15344,7 @@ the	_	_	I-Premise
 freedom	_	_	I-Premise
 fighters	_	_	I-Premise
 there	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 the	_	_	B-Claim
 policy	_	_	I-Claim
@@ -15903,7 +15371,7 @@ been	_	_	I-Premise
 fighting	_	_	I-Premise
 for	_	_	I-Premise
 freedom	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Those	_	_	B-Premise
 Sandinistas	_	_	I-Premise
 came	_	_	I-Premise
@@ -15915,7 +15383,7 @@ trust	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 revolution	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 they	_	_	B-Premise
 said	_	_	I-Premise
 it	_	_	I-Premise
@@ -15937,8 +15405,7 @@ domination	_	_	I-Premise
 over	_	_	I-Premise
 that	_	_	I-Premise
 country	_	_	I-Premise
-.	_	_	I-Premise
-
+.	_	_	O
 
 Ann	_	_	O
 Compton	_	_	O
@@ -15946,7 +15413,6 @@ for	_	_	O
 Governor	_	_	O
 Dukakis	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -15976,7 +15442,7 @@ because	_	_	I-Premise
 of	_	_	I-Premise
 safety	_	_	I-Premise
 concerns	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Some	_	_	O
 in	_	_	O
 the	_	_	O
@@ -16016,7 +15482,7 @@ than	_	_	I-Claim
 unilateral	_	_	I-Claim
 nuclear	_	_	I-Claim
 disarmament	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Is	_	_	O
 that	_	_	O
 a	_	_	O
@@ -16043,11 +15509,9 @@ of	_	_	O
 it	_	_	O
 ?	_	_	O
 
-
 Well	_	_	O
 ,	_	_	O
-it	_	_	O
-'s	_	_	O
+it's	_	_	O
 a	_	_	O
 great	_	_	O
 concern	_	_	O
@@ -16068,8 +15532,7 @@ president	_	_	O
 can	_	_	O
 tell	_	_	O
 us	_	_	O
-what	_	_	O
-'s	_	_	O
+what's	_	_	O
 been	_	_	O
 going	_	_	O
 on	_	_	O
@@ -16081,7 +15544,7 @@ example	_	_	I-Claim
 of	_	_	I-Claim
 misplaced	_	_	I-Claim
 priorities	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 An	_	_	B-Premise
 administration	_	_	I-Premise
 which	_	_	I-Premise
@@ -16093,12 +15556,10 @@ weapons	_	_	I-Premise
 systems	_	_	I-Premise
 that	_	_	I-Premise
 we	_	_	I-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 need	_	_	I-Premise
 and	_	_	I-Premise
-ca	_	_	I-Premise
-n't	_	_	I-Premise
+can't	_	_	I-Premise
 afford	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
@@ -16130,13 +15591,12 @@ materials	_	_	I-Premise
 for	_	_	I-Premise
 existing	_	_	I-Premise
 weapons	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Yes	_	_	O
 ,	_	_	O
 if	_	_	B-Claim
 we	_	_	I-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 do	_	_	I-Claim
 something	_	_	I-Claim
 about	_	_	I-Claim
@@ -16160,21 +15620,18 @@ some	_	_	I-Claim
 of	_	_	I-Claim
 these	_	_	I-Claim
 weapons	_	_	I-Claim
-.	_	_	I-Claim
-What	_	_	O
-'s	_	_	O
+.	_	_	O
+What's	_	_	O
 been	_	_	O
 going	_	_	O
 on	_	_	O
 ?	_	_	O
-Who	_	_	O
-'s	_	_	O
+Who's	_	_	O
 been	_	_	O
 in	_	_	O
 charge	_	_	O
 ?	_	_	O
-Who	_	_	O
-'s	_	_	O
+Who's	_	_	O
 been	_	_	O
 managing	_	_	O
 this	_	_	O
@@ -16197,8 +15654,7 @@ closed	_	_	O
 down	_	_	O
 ?	_	_	O
 I	_	_	B-Premise
-do	_	_	I-Premise
-n't	_	_	I-Premise
+don't	_	_	I-Premise
 know	_	_	I-Premise
 what	_	_	I-Premise
 the	_	_	I-Premise
@@ -16208,8 +15664,7 @@ estimates	_	_	I-Premise
 are	_	_	I-Premise
 ,	_	_	I-Premise
 but	_	_	I-Premise
-it	_	_	I-Premise
-'s	_	_	I-Premise
+it's	_	_	I-Premise
 going	_	_	I-Premise
 to	_	_	I-Premise
 be	_	_	I-Premise
@@ -16226,7 +15681,7 @@ of	_	_	I-Premise
 $	_	_	I-Premise
 100	_	_	I-Premise
 billion	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Now	_	_	O
 ,	_	_	O
 somebody	_	_	B-Claim
@@ -16237,7 +15692,7 @@ the	_	_	I-Claim
 responsibility	_	_	I-Claim
 for	_	_	I-Claim
 this	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Maybe	_	_	O
 the	_	_	O
 Vice	_	_	O
@@ -16247,8 +15702,7 @@ an	_	_	O
 answer	_	_	O
 .	_	_	O
 But	_	_	O
-I	_	_	B-Premise
-'m	_	_	I-Premise
+I'm	_	_	B-Premise
 somebody	_	_	I-Premise
 who	_	_	I-Premise
 believes	_	_	I-Premise
@@ -16266,10 +15720,9 @@ you	_	_	I-Premise
 start	_	_	I-Premise
 new	_	_	I-Premise
 stuff	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
-that	_	_	B-Claim
-'s	_	_	I-Claim
+that's	_	_	B-Claim
 something	_	_	I-Claim
 which	_	_	I-Claim
 will	_	_	I-Claim
@@ -16287,8 +15740,7 @@ without	_	_	B-Premise
 it	_	_	I-Premise
 ,	_	_	I-Premise
 we	_	_	I-Premise
-can	_	_	I-Premise
-not	_	_	I-Premise
+cannot	_	_	I-Premise
 have	_	_	I-Premise
 the	_	_	I-Premise
 effective	_	_	I-Premise
@@ -16301,10 +15753,10 @@ deterrent	_	_	I-Premise
 we	_	_	I-Premise
 must	_	_	I-Premise
 have	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -16313,7 +15765,6 @@ have	_	_	O
 one	_	_	O
 minute	_	_	O
 .	_	_	O
-
 
 That	_	_	O
 is	_	_	O
@@ -16337,14 +15788,12 @@ do	_	_	O
 with	_	_	O
 nuclear	_	_	O
 ,	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 about	_	_	O
 as	_	_	O
 close	_	_	O
 as	_	_	O
-I	_	_	O
-'ve	_	_	O
+I've	_	_	O
 ever	_	_	O
 heard	_	_	O
 him	_	_	O
@@ -16407,8 +15856,7 @@ progress	_	_	I-Claim
 here	_	_	I-Claim
 ,	_	_	O
 because	_	_	O
-we	_	_	B-Premise
-'ve	_	_	I-Premise
+we've	_	_	B-Premise
 had	_	_	I-Premise
 a	_	_	I-Premise
 big	_	_	I-Premise
@@ -16424,7 +15872,7 @@ for	_	_	I-Premise
 our	_	_	I-Premise
 energy	_	_	I-Premise
 base	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -16436,7 +15884,7 @@ clean	_	_	I-Claim
 safe	_	_	I-Claim
 nuclear	_	_	I-Claim
 power	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 believe	_	_	I-Claim
 that	_	_	I-Claim
@@ -16456,12 +15904,11 @@ national	_	_	I-Claim
 security	_	_	I-Claim
 is	_	_	I-Claim
 enhanced	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 therefore	_	_	O
 ,	_	_	O
-I	_	_	B-Premise
-'ve	_	_	I-Premise
+I've	_	_	B-Premise
 made	_	_	I-Premise
 some	_	_	I-Premise
 proposals	_	_	I-Premise
@@ -16486,7 +15933,7 @@ find	_	_	I-Premise
 and	_	_	I-Premise
 produce	_	_	I-Premise
 oil	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 made	_	_	B-Premise
 some	_	_	I-Premise
 incentives	_	_	I-Premise
@@ -16497,10 +15944,9 @@ secondary	_	_	I-Premise
 and	_	_	I-Premise
 tertiary	_	_	I-Premise
 production	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
-we	_	_	B-Claim
-'re	_	_	I-Claim
+we're	_	_	B-Claim
 going	_	_	I-Claim
 to	_	_	I-Claim
 have	_	_	I-Claim
@@ -16520,7 +15966,7 @@ for	_	_	I-Claim
 our	_	_	I-Claim
 energy	_	_	I-Claim
 base	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 So	_	_	O
 I	_	_	B-Claim
 am	_	_	I-Claim
@@ -16531,24 +15977,21 @@ that	_	_	I-Claim
 we	_	_	I-Claim
 can	_	_	I-Claim
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 .	_	_	O
 
-
-and	_	_	I-Claim
+and	_	_	B-Claim
 must	_	_	I-Claim
 do	_	_	I-Claim
 what	_	_	I-Claim
-he	_	_	I-Claim
-'s	_	_	I-Claim
+he's	_	_	I-Claim
 talking	_	_	I-Claim
 about	_	_	I-Claim
 now	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 Ann	_	_	O
 Compton	_	_	O
@@ -16559,8 +16002,8 @@ for	_	_	O
 you	_	_	O
 .	_	_	O
 
-
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Vice	_	_	O
 President	_	_	O
 ,	_	_	O
@@ -16598,8 +16041,7 @@ involved	_	_	O
 undue	_	_	O
 influence	_	_	O
 once	_	_	O
-they	_	_	O
-'re	_	_	O
+they're	_	_	O
 outside	_	_	O
 of	_	_	O
 government	_	_	O
@@ -16638,28 +16080,24 @@ once	_	_	O
 managed	_	_	O
 ?	_	_	O
 
-
 Yes	_	_	B-Claim
 ,	_	_	O
 and	_	_	O
-I	_	_	B-Claim
-'ll	_	_	I-Claim
+I'll	_	_	B-Claim
 apply	_	_	I-Claim
 it	_	_	I-Claim
 to	_	_	I-Claim
 Congress	_	_	I-Claim
 too	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'ll	_	_	I-Claim
+.	_	_	O
+I'll	_	_	B-Claim
 do	_	_	I-Claim
 both	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Claim
-'ll	_	_	I-Claim
+.	_	_	O
+I'll	_	_	B-Claim
 do	_	_	I-Claim
 both	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
 I	_	_	O
 think	_	_	O
@@ -16690,7 +16128,7 @@ believe	_	_	I-Claim
 in	_	_	I-Claim
 public	_	_	I-Claim
 service	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 believe	_	_	I-Premise
 that	_	_	I-Premise
@@ -16698,11 +16136,10 @@ public	_	_	I-Premise
 service	_	_	I-Premise
 is	_	_	I-Premise
 honorable	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 anybody	_	_	I-Claim
 has	_	_	I-Claim
@@ -16715,7 +16152,7 @@ their	_	_	I-Claim
 Administrations	_	_	I-Claim
 going	_	_	I-Claim
 astray	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 His	_	_	B-Claim
 chief	_	_	I-Claim
 education	_	_	I-Claim
@@ -16723,8 +16160,7 @@ adviser	_	_	I-Claim
 is	_	_	I-Claim
 in	_	_	I-Claim
 jail	_	_	I-Claim
-He	_	_	B-Claim
-'s	_	_	I-Claim
+He's	_	_	B-Claim
 in	_	_	I-Claim
 jail	_	_	I-Claim
 because	_	_	O
@@ -16733,12 +16169,12 @@ betrayed	_	_	I-Premise
 the	_	_	I-Premise
 public	_	_	I-Premise
 trust	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 The	_	_	B-Premise
 head	_	_	I-Premise
 of	_	_	I-Premise
 education	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 yet	_	_	O
 this	_	_	B-Premise
@@ -16754,7 +16190,7 @@ to	_	_	I-Premise
 a	_	_	I-Premise
 rotting	_	_	I-Premise
 fish	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 He	_	_	B-Premise
 said	_	_	I-Premise
 that	_	_	I-Premise
@@ -16772,7 +16208,7 @@ going	_	_	I-Premise
 after	_	_	I-Premise
 Ed	_	_	I-Premise
 Meese	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Look	_	_	O
 ,	_	_	O
 we	_	_	B-Claim
@@ -16782,7 +16218,7 @@ highest	_	_	I-Claim
 possible	_	_	I-Claim
 ethical	_	_	I-Claim
 standards	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
 have	_	_	I-Claim
@@ -16798,11 +16234,10 @@ will	_	_	I-Claim
 be	_	_	I-Claim
 under	_	_	I-Claim
 the	_	_	I-Claim
-President	_	_	I-Claim
-'s	_	_	I-Claim
+President's	_	_	I-Claim
 personal	_	_	I-Claim
 concern	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 will	_	_	I-Claim
 see	_	_	I-Claim
@@ -16815,7 +16250,7 @@ the	_	_	I-Claim
 United	_	_	I-Claim
 States	_	_	I-Claim
 Congress	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Premise
 hope	_	_	I-Premise
 I	_	_	I-Premise
@@ -16858,7 +16293,7 @@ get	_	_	I-Premise
 into	_	_	I-Premise
 public	_	_	I-Premise
 service	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 there	_	_	B-Claim
 is	_	_	I-Claim
@@ -16873,8 +16308,7 @@ believe	_	_	O
 me	_	_	O
 .	_	_	O
 And	_	_	O
-it	_	_	B-Claim
-'s	_	_	I-Claim
+it's	_	_	B-Claim
 a	_	_	I-Claim
 disgrace	_	_	I-Claim
 ,	_	_	O
@@ -16893,11 +16327,10 @@ up	_	_	I-Claim
 recognizing	_	_	O
 that	_	_	O
 you	_	_	B-Claim
-ca	_	_	I-Claim
-n't	_	_	I-Claim
+can't	_	_	I-Claim
 legislate	_	_	I-Claim
 morality	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 I	_	_	O
 do	_	_	O
@@ -16930,13 +16363,12 @@ full	_	_	I-Premise
 disclosure	_	_	I-Premise
 ,	_	_	O
 that	_	_	O
-I	_	_	B-Claim
-'ve	_	_	I-Claim
+I've	_	_	B-Claim
 got	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 record	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 there	_	_	B-Premise
 are	_	_	I-Premise
@@ -16969,12 +16401,11 @@ in	_	_	I-Premise
 the	_	_	I-Premise
 executive	_	_	I-Premise
 branch	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 so	_	_	O
 it	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 one	_	_	I-Claim
 and	_	_	I-Claim
 state	_	_	I-Claim
@@ -16984,51 +16415,45 @@ had	_	_	I-Claim
 a	_	_	I-Claim
 tough	_	_	I-Claim
 time	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 His	_	_	O
 some	_	_	B-Premise
 of	_	_	I-Premise
 his	_	_	I-Premise
 college	_	_	I-Premise
 presidents	_	_	I-Premise
-are	_	_	I-Premise
-n't	_	_	I-Premise
+aren't	_	_	I-Premise
 exactly	_	_	I-Premise
 holier	_	_	I-Premise
 than	_	_	I-Premise
 thou	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 So	_	_	O
-let	_	_	B-Premise
-'s	_	_	I-Premise
+let's	_	_	B-Premise
 not	_	_	I-Premise
 be	_	_	I-Premise
 throwing	_	_	I-Premise
 stones	_	_	I-Premise
 about	_	_	I-Premise
 it	_	_	I-Premise
-.	_	_	I-Premise
-Let	_	_	O
-'s	_	_	O
+.	_	_	O
+Let's	_	_	O
 say	_	_	O
 ,	_	_	O
 this	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 Democrat	_	_	I-Claim
 or	_	_	I-Claim
 Republican	_	_	I-Claim
 ,	_	_	O
 and	_	_	O
 it	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 liberal	_	_	I-Claim
 or	_	_	I-Claim
 conservative	_	_	I-Claim
-.	_	_	I-Claim
-Let	_	_	O
-'s	_	_	O
+.	_	_	O
+Let's	_	_	O
 vow	_	_	O
 to	_	_	O
 work	_	_	O
@@ -17039,7 +16464,6 @@ something	_	_	O
 about	_	_	O
 it	_	_	O
 .	_	_	O
-
 
 Governor	_	_	O
 ,	_	_	O
@@ -17052,7 +16476,6 @@ respond	_	_	O
 to	_	_	O
 it	_	_	O
 .	_	_	O
-
 
 And	_	_	O
 I	_	_	O
@@ -17068,38 +16491,35 @@ or	_	_	I-Claim
 a	_	_	I-Claim
 Democratic	_	_	I-Claim
 issue	_	_	I-Claim
-;	_	_	I-Claim
-it	_	_	B-Claim
-'s	_	_	I-Claim
+;	_	_	O
+it's	_	_	B-Claim
 an	_	_	I-Claim
 American	_	_	I-Claim
 issue	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 But	_	_	O
 here	_	_	O
 again	_	_	O
 ,	_	_	O
 I	_	_	O
-do	_	_	O
-n't	_	_	O
+don't	_	_	O
 know	_	_	O
 which	_	_	O
 George	_	_	O
 Bush	_	_	O
-I	_	_	O
-'m	_	_	O
+I'm	_	_	O
 listening	_	_	O
 to	_	_	O
 .	_	_	O
-Was	_	_	O
-n't	_	_	O
+Wasn't	_	_	O
 this	_	_	O
 the	_	_	O
 George	_	_	O
 Bush	_	_	O
 that	_	_	O
 supported	_	_	O
-Mr.	_	_	O
+Mr	_	_	O
+.	_	_	O
 Meese	_	_	O
 ?	_	_	O
 Called	_	_	O
@@ -17134,13 +16554,11 @@ of	_	_	I-Premise
 the	_	_	I-Premise
 United	_	_	I-Premise
 States	_	_	I-Premise
-.	_	_	I-Premise
-We	_	_	B-Premise
-'ve	_	_	I-Premise
+.	_	_	O
+We've	_	_	B-Premise
 had	_	_	I-Premise
 dozens	_	_	I-Premise
-we	_	_	I-Premise
-'ve	_	_	I-Premise
+we've	_	_	I-Premise
 had	_	_	I-Premise
 dozens	_	_	I-Premise
 and	_	_	I-Premise
@@ -17173,17 +16591,16 @@ been	_	_	I-Premise
 indicted	_	_	I-Premise
 ,	_	_	I-Premise
 convicted	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 This	_	_	B-Claim
-is	_	_	I-Claim
-n't	_	_	I-Claim
+isn't	_	_	I-Claim
 the	_	_	I-Claim
 kind	_	_	I-Claim
 of	_	_	I-Claim
 Administration	_	_	I-Claim
 we	_	_	I-Claim
 need	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 one	_	_	B-Claim
 of	_	_	I-Claim
@@ -17209,8 +16626,7 @@ the	_	_	I-Claim
 kinds	_	_	I-Claim
 of	_	_	I-Claim
 standards	_	_	I-Claim
-we	_	_	I-Claim
-'ll	_	_	I-Claim
+we'll	_	_	I-Claim
 set	_	_	I-Claim
 ,	_	_	O
 is	_	_	O
@@ -17230,22 +16646,22 @@ what	_	_	I-Premise
 kind	_	_	I-Premise
 of	_	_	I-Premise
 people	_	_	I-Premise
-we	_	_	I-Premise
-'re	_	_	I-Premise
+we're	_	_	I-Premise
 looking	_	_	I-Premise
 for	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 picked	_	_	I-Premise
 Lloyd	_	_	I-Premise
 Bentsen	_	_	I-Premise
+.	_	_	O
+Mr	_	_	B-Premise
 .	_	_	I-Premise
-Mr.	_	_	B-Premise
 Bush	_	_	I-Premise
 picked	_	_	I-Premise
 Dan	_	_	I-Premise
 Quayle	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	O
 think	_	_	O
 that	_	_	B-Claim
@@ -17260,8 +16676,7 @@ people	_	_	I-Claim
 about	_	_	I-Claim
 the	_	_	I-Claim
 standards	_	_	I-Claim
-we	_	_	I-Claim
-'ll	_	_	I-Claim
+we'll	_	_	I-Claim
 set	_	_	I-Claim
 and	_	_	I-Claim
 the	_	_	I-Claim
@@ -17278,8 +16693,7 @@ serve	_	_	I-Claim
 in	_	_	I-Claim
 our	_	_	I-Claim
 Administration	_	_	I-Claim
-.	_	_	I-Claim
-
+.	_	_	O
 
 To	_	_	O
 each	_	_	O
@@ -17305,8 +16719,7 @@ of	_	_	O
 our	_	_	O
 questions	_	_	O
 .	_	_	O
-That	_	_	O
-'s	_	_	O
+That's	_	_	O
 a	_	_	O
 pity	_	_	O
 .	_	_	O
@@ -17356,9 +16769,6 @@ statement	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
-GOU	_	_	O
-.	_	_	O
-
 
 28	_	_	B-Premise
 years	_	_	I-Premise
@@ -17405,7 +16815,7 @@ here	_	_	I-Premise
 in	_	_	I-Premise
 Los	_	_	I-Premise
 Angeles	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 never	_	_	I-Premise
 dreamed	_	_	I-Premise
@@ -17420,21 +16830,17 @@ nomination	_	_	I-Premise
 and	_	_	I-Premise
 be	_	_	I-Premise
 my	_	_	I-Premise
-party	_	_	I-Premise
-'s	_	_	I-Premise
+party's	_	_	I-Premise
 nominee	_	_	I-Premise
 for	_	_	I-Premise
 president	_	_	I-Premise
-.	_	_	I-Premise
-That	_	_	B-Claim
-'s	_	_	I-Claim
+.	_	_	O
+That's	_	_	B-Claim
 America	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	O
-'s	_	_	O
+.	_	_	O
+That's	_	_	O
 why	_	_	O
-I	_	_	B-Claim
-'m	_	_	I-Claim
+I'm	_	_	B-Claim
 proud	_	_	I-Claim
 and	_	_	I-Claim
 grateful	_	_	I-Claim
@@ -17445,7 +16851,7 @@ citizen	_	_	I-Claim
 of	_	_	I-Claim
 this	_	_	I-Claim
 country	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 26	_	_	O
 days	_	_	O
 from	_	_	O
@@ -17482,36 +16888,33 @@ say	_	_	I-Premise
 things	_	_	I-Premise
 are	_	_	I-Premise
 okay	_	_	I-Premise
-.	_	_	I-Premise
-Do	_	_	B-Premise
-n't	_	_	I-Premise
+.	_	_	O
+Don't	_	_	B-Premise
 rock	_	_	I-Premise
 the	_	_	I-Premise
 boat	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Not	_	_	B-Premise
 to	_	_	I-Premise
 worry	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 They	_	_	B-Premise
 say	_	_	I-Premise
 we	_	_	I-Premise
 should	_	_	I-Premise
 be	_	_	I-Premise
 satisfied	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 But	_	_	O
 I	_	_	B-Claim
-do	_	_	I-Claim
-n't	_	_	I-Claim
+don't	_	_	I-Claim
 think	_	_	I-Claim
 we	_	_	I-Claim
 can	_	_	I-Claim
 be	_	_	I-Claim
 satisfied	_	_	I-Claim
 when	_	_	O
-we	_	_	B-Premise
-'re	_	_	I-Premise
+we're	_	_	B-Premise
 spending	_	_	I-Premise
 $	_	_	I-Premise
 150	_	_	I-Premise
@@ -17533,7 +16936,7 @@ going	_	_	I-Premise
 to	_	_	I-Premise
 foreign	_	_	I-Premise
 bankers	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 or	_	_	O
 when	_	_	B-Premise
 25	_	_	I-Premise
@@ -17548,14 +16951,16 @@ dropping	_	_	I-Premise
 out	_	_	I-Premise
 of	_	_	I-Premise
 school	_	_	I-Premise
-;	_	_	I-Premise
+;	_	_	O
 or	_	_	O
 when	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
 2	_	_	I-Premise
 -	_	_	I-Premise
-1/2	_	_	I-Premise
+1	_	_	I-Premise
+/	_	_	I-Premise
+2	_	_	I-Premise
 million	_	_	I-Premise
 of	_	_	I-Premise
 our	_	_	I-Premise
@@ -17583,9 +16988,9 @@ this	_	_	I-Premise
 country	_	_	I-Premise
 ,	_	_	O
 when	_	_	O
-Mr.	_	_	B-Premise
-Bush	_	_	I-Premise
-'s	_	_	I-Premise
+Mr	_	_	B-Premise
+.	_	_	I-Premise
+Bush's	_	_	I-Premise
 prescription	_	_	I-Premise
 for	_	_	I-Premise
 our	_	_	I-Premise
@@ -17598,14 +17003,14 @@ giveaway	_	_	I-Premise
 to	_	_	I-Premise
 the	_	_	I-Premise
 rich	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 We	_	_	B-Claim
 can	_	_	I-Claim
 do	_	_	I-Claim
 better	_	_	I-Claim
 than	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Not	_	_	B-Premise
 working	_	_	I-Premise
 with	_	_	I-Premise
@@ -17618,7 +17023,7 @@ of	_	_	I-Premise
 us	_	_	I-Premise
 working	_	_	I-Premise
 together	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Lloyd	_	_	B-Premise
 Bentsen	_	_	I-Premise
 and	_	_	I-Premise
@@ -17632,7 +17037,7 @@ are	_	_	I-Premise
 the	_	_	I-Premise
 American	_	_	I-Premise
 people	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 we	_	_	O
 ask	_	_	O
@@ -17681,8 +17086,7 @@ and	_	_	O
 the	_	_	O
 hospitality	_	_	O
 that	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 given	_	_	O
 to	_	_	O
 us	_	_	O
@@ -17701,16 +17105,14 @@ love	_	_	O
 you	_	_	O
 ,	_	_	O
 and	_	_	O
-we	_	_	O
-'re	_	_	O
+we're	_	_	O
 grateful	_	_	O
 to	_	_	O
 you	_	_	O
 for	_	_	O
 everything	_	_	O
 that	_	_	O
-you	_	_	O
-'ve	_	_	O
+you've	_	_	O
 given	_	_	O
 to	_	_	O
 us	_	_	O
@@ -17719,8 +17121,7 @@ And	_	_	O
 we	_	_	O
 hope	_	_	O
 that	_	_	O
-we	_	_	O
-'ll	_	_	O
+we'll	_	_	O
 be	_	_	O
 serving	_	_	O
 you	_	_	O
@@ -17745,7 +17146,6 @@ you	_	_	O
 Applause	_	_	O
 )	_	_	O
 
-
 Vice	_	_	O
 President	_	_	O
 Bush	_	_	O
@@ -17756,7 +17156,6 @@ statement	_	_	O
 ,	_	_	O
 sir	_	_	O
 .	_	_	O
-
 
 Sometimes	_	_	O
 it	_	_	O
@@ -17828,7 +17227,7 @@ everybody	_	_	I-Premise
 in	_	_	I-Premise
 America	_	_	I-Premise
 benefits	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -17836,7 +17235,7 @@ invest	_	_	I-Claim
 in	_	_	I-Claim
 our	_	_	I-Claim
 children	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Because	_	_	O
 I	_	_	O
 mean	_	_	O
@@ -17851,7 +17250,7 @@ kinder	_	_	I-Premise
 and	_	_	I-Premise
 gentler	_	_	I-Premise
 nation	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 by	_	_	O
 that	_	_	O
@@ -17870,7 +17269,7 @@ parents	_	_	I-Premise
 ,	_	_	I-Premise
 have	_	_	I-Premise
 control	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Premise
 want	_	_	I-Premise
 to	_	_	I-Premise
@@ -17889,8 +17288,7 @@ anti	_	_	I-Premise
 crime	_	_	I-Premise
 ,	_	_	O
 and	_	_	O
-that	_	_	O
-'s	_	_	O
+that's	_	_	O
 why	_	_	O
 I	_	_	B-Claim
 would	_	_	I-Claim
@@ -17914,9 +17312,8 @@ less	_	_	I-Claim
 for	_	_	I-Claim
 the	_	_	I-Claim
 criminals	_	_	I-Claim
-.	_	_	I-Claim
-That	_	_	O
-'s	_	_	O
+.	_	_	O
+That's	_	_	O
 why	_	_	O
 I	_	_	O
 do	_	_	O
@@ -17934,7 +17331,7 @@ death	_	_	I-Claim
 penalty	_	_	I-Claim
 is	_	_	I-Claim
 required	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
@@ -17946,21 +17343,21 @@ fit	_	_	I-Claim
 into	_	_	I-Claim
 the	_	_	I-Claim
 mainstream	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 There	_	_	B-Claim
 is	_	_	I-Claim
 much	_	_	I-Claim
 to	_	_	I-Claim
 be	_	_	I-Claim
 done	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 This	_	_	B-Claim
 election	_	_	I-Claim
 is	_	_	I-Claim
 about	_	_	I-Claim
 big	_	_	I-Claim
 things	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 perhaps	_	_	O
 the	_	_	B-Claim
@@ -17968,7 +17365,7 @@ biggest	_	_	I-Claim
 is	_	_	I-Claim
 world	_	_	I-Claim
 peace	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	B-Premise
 ask	_	_	I-Premise
@@ -17993,7 +17390,7 @@ situation	_	_	I-Premise
 around	_	_	I-Premise
 the	_	_	I-Premise
 world	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 America	_	_	B-Premise
 stands	_	_	I-Premise
 tall	_	_	I-Premise
@@ -18007,7 +17404,7 @@ result	_	_	O
 we	_	_	B-Claim
 are	_	_	I-Claim
 credible	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 we	_	_	B-Premise
 have	_	_	I-Premise
@@ -18018,16 +17415,15 @@ historic	_	_	I-Premise
 arms	_	_	I-Premise
 control	_	_	I-Premise
 agreement	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 I	_	_	B-Claim
 want	_	_	I-Claim
 to	_	_	I-Claim
 build	_	_	I-Claim
 on	_	_	I-Claim
 that	_	_	I-Claim
-.	_	_	I-Claim
-I	_	_	B-Premise
-'d	_	_	I-Premise
+.	_	_	O
+I'd	_	_	B-Premise
 love	_	_	I-Premise
 to	_	_	I-Premise
 be	_	_	I-Premise
@@ -18045,8 +17441,7 @@ my	_	_	I-Premise
 first	_	_	I-Premise
 term	_	_	I-Premise
 ,	_	_	I-Premise
-I	_	_	I-Premise
-'d	_	_	I-Premise
+I'd	_	_	I-Premise
 like	_	_	I-Premise
 to	_	_	I-Premise
 say	_	_	I-Premise
@@ -18084,7 +17479,7 @@ face	_	_	I-Premise
 of	_	_	I-Premise
 the	_	_	I-Premise
 earth	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Lincoln	_	_	B-Premise
 called	_	_	I-Premise
 this	_	_	I-Premise
@@ -18097,7 +17492,7 @@ of	_	_	I-Premise
 man	_	_	I-Premise
 on	_	_	I-Premise
 earth	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 And	_	_	O
 he	_	_	O
 was	_	_	O
@@ -18116,7 +17511,7 @@ of	_	_	I-Claim
 man	_	_	I-Claim
 on	_	_	I-Claim
 earth	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 And	_	_	O
 I	_	_	O
 ask	_	_	O
@@ -18134,7 +17529,7 @@ be	_	_	I-Claim
 a	_	_	I-Claim
 good	_	_	I-Claim
 president	_	_	I-Claim
-.	_	_	I-Claim
+.	_	_	O
 Working	_	_	B-Premise
 together	_	_	I-Premise
 ,	_	_	I-Premise
@@ -18151,7 +17546,7 @@ and	_	_	I-Premise
 the	_	_	I-Premise
 Free	_	_	I-Premise
 World	_	_	I-Premise
-.	_	_	I-Premise
+.	_	_	O
 Thank	_	_	O
 you	_	_	O
 very	_	_	O
@@ -18159,4 +17554,3 @@ very	_	_	O
 very	_	_	O
 much	_	_	O
 .	_	_	O
-

@@ -1,0 +1,78 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+here are the facts,Claim,"((2989, 3007),)","210,000 dead people in our country in just the last several months",Premise,"((3009, 3075),)",Support
+Joe Biden does,Claim,"((4145, 4159),)","our plan is about what we need to do around a national strategy for contact tracing, for testing, for administration of the vaccine and making sure that it will be free for all",Premise,"((4165, 4341),)",Support
+Joe Biden does,Claim,"((4145, 4159),)",Joe Biden is the best leader to do that,Claim,"((4494, 4533),)",Support
+President Donald Trump has put the health of America first,Claim,"((5521, 5579),)",President Donald Trump did what no other American president had ever done,Claim,"((5682, 5755),)",Support
+President Donald Trump has put the health of America first,Claim,"((5521, 5579),)",Joe Biden opposed that decision,Claim,"((5861, 5892),)",Attack
+I believe it’s saved hundreds of thousands of American lives,Claim,"((6148, 6208),)",with that time we were able to reinvent testing,Premise,"((6218, 6265),)",Support
+that’s a great disservice to the sacrifices the American people have made,Claim,"((9279, 9352),)",when you say what the American people have done over these last eight months hasn’t worked,Premise,"((9187, 9277),)",Support
+one life lost is too many,Claim,"((10248, 10273),)","the American people, I believe, deserve credit for the sacrifices that they have made, putting the health of their family and their neighbors first, our doctors, our nurses, our first responders",Claim,"((10311, 10505),)",Support
+We’re about freedom and respecting the freedom of the American people,Claim,"((12776, 12845),)",You respect the American people when you tell them the truth,Claim,"((12904, 12964),)",Attack
+I’ll be the first in line to take it,Claim,"((14579, 14615),)",if the doctors tell us that we should take it,Premise,"((14532, 14577),)",Support
+I’m not taking it,Claim,"((14682, 14699),)",if Donald Trump tells us that we should take it,Premise,"((14633, 14680),)",Support
+would have lost 2 million American lives,Claim,"((17098, 17138),)",If the swine flu had been as lethal as the coronavirus in 2009 when Joe Biden was vice president,Premise,"((16997, 17093),)",Support
+I think Joe has asked me to serve with him,Claim,"((19923, 19965),)","he knows that we share, we share a purpose, which is about lifting up the American people",Premise,"((19974, 20063),)",Support
+"The one thing we all know about Joe, he puts it all out there",Claim,"((23164, 23225),)","He, he is honest",Claim,"((23227, 23243),)",Support
+"The one thing we all know about Joe, he puts it all out there",Claim,"((23164, 23225),)",He is forthright,Claim,"((23245, 23261),)",Support
+"He, he is honest",Claim,"((23227, 23243),)",He is forthright,Claim,"((23245, 23261),)",Equivalent
+"the American people have a president who is a businessman, he’s a job-creator",Claim,"((23613, 23690),)","He’s paid tens of millions of dollars in taxes, payroll taxes, property taxes",Premise,"((23692, 23769),)",Support
+"the American people have a president who is a businessman, he’s a job-creator",Claim,"((23613, 23690),)",He’s created tens of thousands of American jobs,Premise,"((23771, 23818),)",Support
+"On the other hand, you have Donald Trump, who measures the strength of the economy based on how rich people are doing",Claim,"((25955, 26072),)","oe Biden believes you measure the health and the strength of America’s economy based on the health, and the strength of the American worker and the American family",Claim,"((25790, 25953),)",Attack
+"Which is why he passed a tax bill benefitting the top 1% and the biggest corporations of America, leading to a $2 trillion deficit that the American people are gonna have to pay for",Premise,"((26074, 26255),)","On day one, Joe Biden will repeal that tax bill",Claim,"((26257, 26304),)",Attack
+"Which is why he passed a tax bill benefitting the top 1% and the biggest corporations of America, leading to a $2 trillion deficit that the American people are gonna have to pay for",Premise,"((26074, 26255),)",He’ll get rid of it,Claim,"((26306, 26325),)",Attack
+what he’ll do with the money is invest it in the American people,Claim,"((26331, 26395),)",Joe Biden will use that money to invest in education,Claim,"((26967, 27019),)",Support
+He’ll invest in infrastructure,Claim,"((26616, 26646),)",Joe is gonna invest that money in what we need to do around innovation,Claim,"((26749, 26819),)",Equivalent
+America had gone through the slowest economic recovery since the Great Depression,Claim,"((27952, 28033),)",When President Trump and I took office,Premise,"((27912, 27950),)",Support
+"they tried to tax, and spend, and regulate, and bail our way back to a growing economy",Claim,"((28069, 28155),)",When Joe Biden was vice president,Premise,"((28035, 28068),)",Support
+we’ve already added back 11.6 million jobs,Claim,"((28800, 28842),)","we had a president who cut taxes, rolled back regulation, unleashed American energy, fought for free and fair trade, and secured $4 trillion from the Congress of the United States to give direct payments to families, saved 50 million jobs through the paycheck protection program",Premise,"((28851, 29129),)",Support
+Joe Biden and Kamala Harris want to raise taxes,Claim,"((29233, 29280),)",They want to bury our economy under a $2 trillion Green New Deal,Premise,"((29282, 29346),)",Support
+Joe Biden says democracy’s on the ballot,Claim,"((29850, 29890),)","Joe Biden wants to go back to the economic surrender to China that when we took office, half of our international trade deficit was with China alone",Premise,"((29565, 29713),)",Support
+Joe Biden says democracy’s on the ballot,Claim,"((29850, 29890),)",Joe Biden wants to repeal all of the tariffs that President Trump put into effect to fight for American jobs and American workers,Premise,"((29719, 29848),)",Support
+Joe Biden says democracy’s on the ballot,Claim,"((29850, 29890),)",Make no mistake about it,Claim,"((29892, 29916),)",Support
+"He will not raise taxes on anybody who makes less than $400,000 a year",Claim,"((30514, 30584),)","the truth and the fact is, Joe Biden has been very clear",Premise,"((30456, 30512),)",Support
+He has been very clear about that,Claim,"((31341, 31374),)","Joe Biden will not raise taxes on anyone who makes less than $400,000 a year",Premise,"((31263, 31339),)",Support
+they’re coming for you,Claim,"((32842, 32864),)","If you have a pre-existing condition, heart disease, diabetes, breast cancer",Premise,"((32764, 32840),)",Support
+Joe Biden will not ban fracking,Claim,"((38020, 38051),)",That is a fact,Claim,"((38069, 38083),)",Support
+That is a fact,Claim,"((38069, 38083),)",That is a fact,Claim,"((38053, 38067),)",Equivalent
+Joe has a plan,Claim,"((39836, 39850),)",we’re going to invest that in renewable energy,Premise,"((39662, 39708),)",Support
+Joe has a plan,Claim,"((39836, 39850),)",we’re going to be about the creation of millions of jobs,Premise,"((39710, 39766),)",Support
+Joe has a plan,Claim,"((39836, 39850),)","we will achieve net zero emissions by 2050, carbon neutral by 2035",Premise,"((39768, 39834),)",Support
+"We don’t need a massive, $2 trillion Green New Deal that would impose all new mandates on American businesses and American families, Joe Biden wants us to retrofit 4 million",Claim,"((41344, 41517),)",It makes no sense,Claim,"((41609, 41626),)",Support
+"We don’t need a massive, $2 trillion Green New Deal that would impose all new mandates on American businesses and American families, Joe Biden wants us to retrofit 4 million",Claim,"((41344, 41517),)",It will cost jobs,Claim,"((41628, 41645),)",Support
+You lost that trade war,Claim,"((42096, 42119),)",You lost it,Claim,"((42121, 42132),)",Equivalent
+You lost that trade war,Claim,"((42096, 42119),)","America lost 300,000 manufacturing jobs",Premise,"((42207, 42246),)",Support
+You lost that trade war,Claim,"((42096, 42119),)",Farmers have experienced bankruptcy,Claim,"((42248, 42283),)",Support
+You lost that trade war,Claim,"((42096, 42119),)",We are in a manufacturing recession,Claim,"((42300, 42335),)",Support
+the American people know what I’m talking about,Claim,"((42591, 42638),)",you’re entitled to your opinion,Claim,"((43576, 43607),)",Attack
+Joe Biden never fought it,Claim,"((43425, 43450),)",Joe Biden has been a cheerleader for Communist China through over the last several decades,Claim,"((43452, 43542),)",Support
+you’re entitled to your opinion,Claim,"((43576, 43607),)",you’re not entitled to your own facts,Claim,"((43609, 43646),)",Support
+let’s set the record straight,Claim,"((44658, 44687),)",oe Biden is responsible for saving America’s auto industry and you voted against it,Claim,"((44570, 44653),)",Support
+It was a huge win for American auto workers,Claim,"((45725, 45768),)",American people deserve to know Senator Kamala Harris was one of only 10 members of the Senate to vote against the USMCA,Premise,"((45603, 45723),)",Support
+"It was a huge win for American farmers, especially dairy in the upper Midwest",Claim,"((45770, 45847),)",American people deserve to know Senator Kamala Harris was one of only 10 members of the Senate to vote against the USMCA,Premise,"((45603, 45723),)",Support
+I think the American people deserve to know that,Claim,"((46027, 46075),)","it didn’t go far enough on climate change, that you put your, your radical environmental agenda ahead of American auto workers and ahead of American jobs",Premise,"((45872, 46025),)",Support
+He’s made that very clear,Claim,"((46453, 46478),)",He made it clear again today,Claim,"((46480, 46508),)",Equivalent
+you gotta keep your word to your friends,Claim,"((50115, 50155),)",Got to be loyal to your friends,Claim,"((50157, 50188),)",Equivalent
+Got to be loyal to your friends,Claim,"((50157, 50188),)","People who have stood with you, got to stand with them",Claim,"((50190, 50244),)",Support
+Got to be loyal to your friends,Claim,"((50157, 50188),)",America’s intelligence community told us Russia interfered in the election of the President of the United States in 2016 and is playing in 2020,Claim,"((50541, 50684),)",Attack
+Got to be loyal to your friends,Claim,"((50157, 50188),)","Christopher Wray, the director of the FBI, said the same, but Donald Trump, the commander in chief of the United States of America prefers to take the word of Vladimir Putin over the word of the American intelligence community",Claim,"((50686, 50912),)",Attack
+Got to be loyal to your friends,Claim,"((50157, 50188),)",He has walked away from agreements,Claim,"((50947, 50981),)",Attack
+we had an opportunity to save Kayla Mueller,Claim,"((53042, 53085),)",when Joe Biden was vice president,Premise,"((53007, 53040),)",Support
+Joe Biden would never do that,Claim,"((55836, 55865),)","Donald Trump had talked at least six times to Vladmir Putin, and never brought up the subject",Premise,"((55741, 55834),)",Attack
+It’s really inexplicable,Claim,"((58589, 58613),)",history records that Joe Biden actually opposed the raid against Osama bin Laden,Premise,"((58670, 58750),)",Support
+I will always fight for a woman’s right to make a decision about her own body,Claim,"((61626, 61703),)","It should be her decision and not that of Donald Trump, and the Vice President, Michael Pence",Claim,"((61705, 61798),)",Support
+This means that over 20 million people will lose your coverage,Claim,"((62345, 62407),)",you can’t stay on your parents coverage anymore,Claim,"((62454, 62501),)",Support
+you can’t stay on your parents coverage anymore,Claim,"((62454, 62501),)",if you’re under the age of 26,Premise,"((62423, 62452),)",Support
+That’s true leadership,Claim,"((62790, 62812),)",Joe Biden is saying let’s expand coverage,Claim,"((62616, 62657),)",Support
+That’s true leadership,Claim,"((62790, 62812),)",let’s bring down premiums,Claim,"((62723, 62748),)",Support
+I’m pro-life,Claim,"((63765, 63777),)",I don’t apologize for it,Claim,"((63779, 63803),)",Support
+"you gave a non-answer, Joe Biden gave a non-answer",Claim,"((66463, 66513),)",The people deserve a straight answer,Claim,"((66560, 66596),)",Support
+I know what I’m talking about,Claim,"((69898, 69927),)",Bad cops are bad for good cops,Claim,"((69929, 69959),)",Support
+We need reform of our policing in America and our criminal justice system,Claim,"((69961, 70034),)",Joe and I will immediately ban chokeholds and carotid holds,Claim,"((70049, 70108),)",Support
+I trust our justice system,Claim,"((70831, 70857),)",a grand jury that reviews the evidence,Premise,"((70859, 70897),)",Support
+the President of the United States took a debate stage in front of 70 million Americans and refused to condemn white supremacists,Claim,"((73364, 73493),)",He didn’t do it,Claim,"((73568, 73583),)",Support
+the President of the United States took a debate stage in front of 70 million Americans and refused to condemn white supremacists,Claim,"((73364, 73493),)",he doubled down,Claim,"((73594, 73609),)",Support
+He didn’t do it,Claim,"((73568, 73583),)",he doubled down,Claim,"((73594, 73609),)",Support
+I think we’re gonna win this election,Claim,"((80391, 80428),)",I think we’re gonna win this election,Claim,"((80391, 80428),)",Equivalent
+we believe in a free and open exchange of debate,Claim,"((83875, 83923),)",it’s how we’ve created literally the freest and most prosperous nation in the history of the world,Premise,"((83952, 84050),)",Support
+we come together as Americans,Claim,"((84720, 84749),)",when the debate is over,Premise,"((84695, 84718),)",Support
+that’s what he’s going to do as President,Claim,"((86109, 86150),)",Joe Biden has a history of lifting people up and fighting for their dignity,Claim,"((86152, 86227),)",Support
