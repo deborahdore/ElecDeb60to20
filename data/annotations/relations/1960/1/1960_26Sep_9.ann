@@ -1,0 +1,19 @@
+T1072	Premise 47427 47589	I think four of the eight Democrats voted to send it to the floor of the House - not one Republican - and they joined with those Democrats who were opposed to it.
+R1	Support Arg1:T359 Arg2:T358	
+R2	Support Arg1:T361 Arg2:T359	
+R3	Support Arg1:T362 Arg2:T357	
+R4	Support Arg1:T363 Arg2:T359	
+R5	Support Arg1:T364 Arg2:T363	
+R6	Attack Arg1:T366 Arg2:T365	
+R7	Equivalent Arg1:T369 Arg2:T365	
+R9	Support Arg1:T1072 Arg2:T374	
+R10	Support Arg1:T379 Arg2:T375	
+R11	Support Arg1:T378 Arg2:T379	
+T1073	Claim 45492 45642	we get the opinion that in getting programs through the House or the Senate it's purely a question of legislative finagling and all that sort of thing
+R12	Attack Arg1:T358 Arg2:T1073	
+R13	Attack Arg1:T1073 Arg2:T357	
+R14	Support Arg1:T360 Arg2:T357	
+R15	Attack Arg1:T370 Arg2:T369	
+R8	Attack Arg1:T372 Arg2:T373	
+R16	Support Arg1:T377 Arg2:T378	
+R17	Support Arg1:T380 Arg2:T375	

@@ -1,0 +1,25 @@
+R1	Equivalent Arg1:T204 Arg2:T196	
+R2	Support Arg1:T221 Arg2:T216	
+T1051	Premise 27972 28015	I do not say that I have made the decisions
+T1052	Premise 28021 28149	I would say that no president should ever allow anybody else to make the major decisions, The president only makes the decisions
+T1053	Premise 28151 28214	All that his advisers do is to give counsel when he asks for it
+R4	Attack Arg1:T1051 Arg2:T198	
+R5	Support Arg1:T1052 Arg2:T198	
+R6	Support Arg1:T1053 Arg2:T198	
+R7	Attack Arg1:T206 Arg2:T198	
+R8	Support Arg1:T205 Arg2:T198	
+R9	Support Arg1:T199 Arg2:T198	
+R10	Support Arg1:T200 Arg2:T198	
+R11	Support Arg1:T201 Arg2:T198	
+R12	Support Arg1:T202 Arg2:T198	
+R13	Support Arg1:T203 Arg2:T198	
+T1054	Premise 28469 28509	we came to the Congress in the same year
+R14	Support Arg1:T1054 Arg2:T207	
+T1055	Claim 28511 28554	His experience has been different from mine
+R15	Support Arg1:T1055 Arg2:T207	
+R17	Support Arg1:T209 Arg2:T1055	
+R3	Support Arg1:T208 Arg2:T1055	
+R16	Attack Arg1:T217 Arg2:T207	
+R18	Attack Arg1:T218 Arg2:T207	
+R19	Attack Arg1:T219 Arg2:T207	
+R20	Attack Arg1:T220 Arg2:T207	
