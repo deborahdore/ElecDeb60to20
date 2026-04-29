@@ -26,7 +26,7 @@ import sys
 import ftfy
 
 # ── paths ──────────────────────────────────────────────────────────────────────
-DEFAULT_INPUT = os.path.join(os.path.dirname(__file__), "../../data", "annotations", "txt")
+DEFAULT_INPUT = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/txt"
 
 def get_dirs(argv):
     input_dir = argv[1] if len(argv) > 1 else DEFAULT_INPUT

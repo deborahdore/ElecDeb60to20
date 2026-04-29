@@ -278,7 +278,7 @@ def _split_positions(text: str) -> list:
     return sorted(positions)
 
 
-def _find_piece(txt: str, piece: str, near: int, radius: int = 20000) -> tuple:
+def _find_piece(txt: str, piece: str, near: int, radius: int = 500) -> tuple:
     """
     Find `piece` in txt[max(0, near-radius) : near+radius+len(piece)] using a
     punct-insensitive regex.  Returns (start, end) for the match closest to
