@@ -2,23 +2,28 @@
 remap_component_ids.py
 
 For every component (T-annotation) in each file under FOLDER_ORIGINAL, look for
-a "similar" component in PATH_ANNOTATIONS — defined as having the *same Type*
-and a text whose edit distance from the original is less than --max-distance
-(default 2, i.e. edit distance 0, 1 or 2 are all considered similar).
+a "similar" component in PATH_ANNOTATIONS — defined as having a text whose edit
+distance from the original is less than --max-distance (default 2, i.e. edit
+distance 0, 1 or 2 are all considered similar).  The component's *type* is NOT
+taken into account when searching for a match; any reference component whose
+text is close enough is a candidate regardless of its type.
 
 Example: "Your regulations are a disaster"  ~  "Your regulations are a disaster."
          (one character difference — period at the end)
 
-When a match is found the component's id, span (start/end offsets) and text
-are replaced with those from PATH_ANNOTATIONS.  All relation (R-) lines that
-reference the old id are updated to use the new id as well.
+When a match is found the component's id, type, span (start/end offsets) and
+text are all replaced with those from PATH_ANNOTATIONS.  In particular, if the
+matched reference component has a different type (e.g. the folder file says
+"Premise" but the gold says "Claim"), the type is updated to the gold value.
+All relation (R-) lines that reference the old id are updated to use the new id
+as well.
 
 A component is also updated when its id already equals the reference id but
-its span or text differs — in that case only the span/text are rewritten.
+its type, span or text differs — in that case only those fields are rewritten.
 
-If more than one reference component matches (same type, distance within
-threshold), the one with the smallest edit distance is chosen; if there is a
-tie the remap is skipped and a warning is printed.
+If more than one reference component matches (distance within threshold), the
+one with the smallest edit distance is chosen; if there is a tie the remap is
+skipped and a warning is printed.
 
 Conflict handling
 -----------------
@@ -70,18 +75,20 @@ def parse_t_line(raw: str):
     return ann_id, ann_type, type_span_field, ann_text
 
 
-def load_reference(path: Path) -> dict:
+def load_reference(path: Path) -> list:
     """
-    Build  type -> [(ann_id, type_span_field, ann_text), ...]  from
-    PATH_ANNOTATIONS.  Only T-lines are considered.
+    Build a flat list of (ann_id, type_span_field, ann_text) from
+    PATH_ANNOTATIONS.  Only T-lines are considered.  The type is NOT used as
+    a grouping key; all components are searched together so that cross-type
+    matches are possible.
     """
-    ref: dict[str, list] = {}
+    ref: list = []
     with open(path, encoding="utf-8") as fh:
         for raw in fh:
             parsed = parse_t_line(raw)
             if parsed is not None:
                 ann_id, ann_type, type_span_field, ann_text = parsed
-                ref.setdefault(ann_type, []).append((ann_id, type_span_field, ann_text))
+                ref.append((ann_id, type_span_field, ann_text))
     return ref
 
 
@@ -130,11 +137,12 @@ def levenshtein(a: str, b: str, max_dist: int = None) -> int:
     return prev[len_a]
 
 
-def find_best_match(ann_type: str, ann_text: str,
-                    reference: dict, max_dist: int) -> tuple:
+def find_best_match(ann_text: str,
+                    reference: list, max_dist: int) -> tuple:
     """
-    Search *reference* for the component with the same type and the smallest
-    edit distance to *ann_text*, provided that distance <= max_dist.
+    Search *reference* for the component with the smallest edit distance to
+    *ann_text*, provided that distance <= max_dist.  The component's type is
+    NOT considered — all reference entries are searched regardless of type.
 
     Returns (best_id, best_type_span, best_text, best_dist) or
     (None, None, None, None) if no candidate is within the threshold.
@@ -142,7 +150,7 @@ def find_best_match(ann_type: str, ann_text: str,
     If two candidates share the same minimum distance the match is ambiguous;
     (None, None, None, None) is returned so the caller can warn and skip.
     """
-    candidates = reference.get(ann_type, [])
+    candidates = reference
     if not candidates:
         return None, None, None, None
 
@@ -261,11 +269,11 @@ def compute_remaps(filepath: Path, reference: dict, max_dist: int) -> dict:
         existing_ids.add(old_id)
 
         new_id, ref_type_span, ref_text, dist = find_best_match(
-            ann_type, ann_text, reference, max_dist
+            ann_text, reference, max_dist
         )
 
         if new_id is None and ref_text is None:
-            candidates = reference.get(ann_type, [])
+            candidates = reference
             tie_dist = max_dist + 1
             tie_count = 0
             for _, _, rt in candidates:
@@ -470,7 +478,7 @@ def main():
         sys.exit(f"ERROR: annotation file not found: {ann_path}")
 
     reference = load_reference(ann_path)
-    total_ref = sum(len(v) for v in reference.values())
+    total_ref = len(reference)
     print(f"Reference loaded: {total_ref} component(s) from {ann_path.name}")
     print(f"Similarity threshold: edit distance <= {args.max_distance}")
 

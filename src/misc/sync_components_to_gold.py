@@ -407,7 +407,7 @@ def main():
                               help="Single source .ann file.")
     parser.add_argument("--ann", "-a", required=True,
                         help="Gold annotation file.")
-    parser.add_argument("--max-distance", "-d", type=int, default=3,
+    parser.add_argument("--max-distance", "-d", type=int, default=5,
                         help="Edit distance threshold — match requires dist < this value (default: 3).")
     parser.add_argument("--dry-run", "-n", action="store_true",
                         help="Review each proposed change interactively. "

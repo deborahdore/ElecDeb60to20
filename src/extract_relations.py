@@ -11,6 +11,7 @@ Output directory: data/relations/
 
 import logging
 import os
+import tempfile
 
 import pandas as pd
 from brat_parser import get_entities_relations_attributes_groups
@@ -39,7 +40,20 @@ def parse_ann_file(ann_path: str) -> list[dict]:
         obj_span    – character span tuple of the object
         relation    – relation type label
     """
-    entities, relations, _, _ = get_entities_relations_attributes_groups(ann_path)
+    # brat_parser chokes on '*' equivalence-group lines (e.g. "* Equivalent T1 T2"),
+    # which have 4 whitespace-separated tokens instead of the 3 it expects.
+    # Strip those lines into a temporary file before parsing.
+    with open(ann_path) as f:
+        clean_lines = [l for l in f if not l.startswith("*")]
+
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".ann", delete=False) as tmp:
+        tmp.writelines(clean_lines)
+        tmp_path = tmp.name
+
+    try:
+        entities, relations, _, _ = get_entities_relations_attributes_groups(tmp_path)
+    finally:
+        os.unlink(tmp_path)
 
     # Build a quick-lookup dict keyed by entity id
     components: dict[str, dict] = {
@@ -85,22 +99,26 @@ def process_all(ann_dir: str, out_dir: str) -> None:
 
     logger.info("Found %d .ann file(s) in %s", len(ann_files), ann_dir)
 
+    out_path = os.path.join(out_dir, f"{ann_dir.split('/')[-1]}_{ann_dir.split('/')[-2]}.csv")
     ok = skipped = 0
+    rows = []
     for filename in sorted(ann_files):
         ann_path = os.path.join(ann_dir, filename)
-        out_path = os.path.join(out_dir, filename.replace(".ann", ".csv"))
 
         try:
-            rows = parse_ann_file(ann_path)
-            pd.DataFrame(rows).to_csv(out_path, index=False)
+            rows.append(parse_ann_file(ann_path))
             logger.info("  ✓  %s  →  %s  (%d relation(s))", filename, out_path, len(rows))
             ok += 1
         except Exception as exc:  # noqa: BLE001
             logger.error("  ✗  %s  –  %s", filename, exc)
             skipped += 1
+    pd.DataFrame(rows).to_csv(out_path, index=False)
 
     logger.info("Done. %d succeeded, %d failed.", ok, skipped)
 
 
 if __name__ == "__main__":
-    process_all(ANN_DIR, OUT_DIR)
+    years = [folder for folder in os.listdir(ANN_DIR) if os.path.isdir(os.path.join(ANN_DIR, folder))]
+    for year in years:
+        for number in os.listdir(os.path.join(ANN_DIR, year)):
+            process_all(os.path.join(ANN_DIR, str(year), str(number)), OUT_DIR)
