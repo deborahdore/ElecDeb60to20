@@ -40,7 +40,7 @@ OUT_PATH = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fall
 ANCHOR_N      = 6    # words used for start/end anchors
 MIN_ANCHOR    = 3    # minimum anchor size when shrinking
 MAX_GAP       = 50   # max non-word chars allowed between consecutive words
-MAX_EDIT_DIST = 4    # maximum Levenshtein distance (edit distance < 5)
+MAX_EDIT_DIST = 5    # maximum Levenshtein distance (edit distance < 5)
 
 
 # ── Normalisation ─────────────────────────────────────────────────────────────
@@ -228,7 +228,8 @@ def strategy_full_word_anchor(
     pattern = _word_pattern(words)
     return [
         (m.start(), m.end())
-        for m in re.finditer(pattern, content, re.IGNORECASE)
+        # for m in re.finditer(pattern, content, re.IGNORECASE)
+        for m in re.finditer(pattern, content)
     ]
 
 
@@ -242,7 +243,8 @@ def strategy_start_end_anchor(
 
     n_start = min(ANCHOR_N, len(words) // 2)
     start_pat = _word_pattern(words[:n_start])
-    start_matches = list(re.finditer(start_pat, content, re.IGNORECASE))
+    # start_matches = list(re.finditer(start_pat, content, re.IGNORECASE))
+    start_matches = list(re.finditer(start_pat, content))
     if not start_matches:
         return []
 
@@ -250,7 +252,8 @@ def strategy_start_end_anchor(
     for sm in start_matches:
         for n_end in range(min(ANCHOR_N, len(words) - n_start), MIN_ANCHOR - 1, -1):
             end_pat = _word_pattern(words[-n_end:])
-            em = re.search(end_pat, content[sm.start():], re.IGNORECASE)
+            # em = re.search(end_pat, content[sm.start():], re.IGNORECASE)
+            em = re.search(end_pat, content[sm.start():])
             if em:
                 results.append((sm.start(), sm.start() + em.end()))
                 break
