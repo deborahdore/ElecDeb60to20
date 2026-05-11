@@ -57,7 +57,10 @@ if __name__ == '__main__':
         for f in split_files:
             path = os.path.join(RELATION_CSV_DIR, f + ".csv")
             if os.path.exists(path):
-                relation_dfs.append(pd.read_csv(path))
+                try:
+                    relation_dfs.append(pd.read_csv(path))
+                except pd.errors.EmptyDataError:
+                    pass
         if relation_dfs:
             pd.concat(relation_dfs, ignore_index=True).to_csv(
                 os.path.join(RELATION_DIR, split_name + ".csv"), index=False
