@@ -1,0 +1,811 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+It's also a pleasure to be with my 2 opponents this evening,Premise,"(1826, 1885)",it's a special honor to share this stage with you,Claim,"(1916, 1965)",Support
+Qualifications,Claim,"(7498, 7512)",I've done the job,Claim,"(7536, 7553)",Support
+"What we do is work on that budget by an aggressive program, not a painful program, so that we can start borrowing less money and getting more investment money on the street through entrepreneurs who can build factories, who will hire people, and maybe we'll start manufacturing goods here in this country again",Premise,"(18015, 18325)",The lifeblood of our economy is investment,Claim,"(17826, 17868)",Support
+Vice President Quayle and Senator Gore both served on the Senate Armed Services Committee,Premise,"(26242, 26331)",All 3 of you gentlemen have some expertise in defense and the armed forces,Claim,"(26166, 26240)",Support
+that's a false choice,Claim,"(36679, 36700)",You don't have to have a choice between the environment and jobs,Claim,"(36702, 36766)",Attack
+Bill Clinton and I support the right of a woman to choose,Claim,"(55908, 55965)",That doesn't mean we're pro-abortion,Premise,"(55978, 56014)",Attack
+Let's talk about the cities,Premise,"(64773, 64800)","that's where a majority of Americans live, in urban areas",Premise,"(64810, 64867)",Support
+character is the big variable in the success,Claim,"(76345, 76389)",Character of the leaders is the big variable in the success -- long term success -- of an administration,Claim,"(76391, 76495)",Support
+Those of us who served in Vietnam looked at you as a national hero even before you were awarded the Congressional Medal of Honor,Premise,"(1967, 2095)",it's a special honor to share this stage with you,Claim,"(1916, 1965)",Support
+I've been there,Claim,"(7514, 7529)",I've done the job,Claim,"(7536, 7553)",Support
+The lifeblood of our economy is investment,Claim,"(17826, 17868)",right now when we pay $350 -- we borrow $350 billion a year it saps the money markets and the private investors are not getting their share,Premise,"(17874, 18013)",Attack
+"Admiral Stockdale, of course, has a very distinguished military career",Premise,"(26333, 26403)",All 3 of you gentlemen have some expertise in defense and the armed forces,Claim,"(26166, 26240)",Support
+you can have both,Claim,"(36770, 36787)",You don't have to have a choice between the environment and jobs,Claim,"(36702, 36766)",Support
+we believe there are way too many abortions in this country,Claim,"(56025, 56084)",That doesn't mean we're pro-abortion,Premise,"(55978, 56014)",Attack
+"that's where a majority of Americans live, in urban areas",Premise,"(64810, 64867)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+I think there is a case to be made for putting emphasis on character over these issues that we've been batting back and forth and have a life of their own,Claim,"(76121, 76275)",Character of the leaders is the big variable in the success -- long term success -- of an administration,Claim,"(76391, 76495)",Support
+"Mr. Vice President -- Dan, if I may -- it was 16 years ago that you and I went to the Congress on the very first day together",Premise,"(2101, 2226)",it's a special honor to share this stage with you,Claim,"(1916, 1965)",Support
+I've been tested,Claim,"(7555, 7571)",I've done the job,Claim,"(7536, 7553)",Support
+"Bill Clinton and I will create good, high-wage jobs for our people",Claim,"(18449, 18515)",Bill Clinton's top priority is putting America back to work,Claim,"(18388, 18447)",Support
+They've already started in the defense budget,Premise,"(26490, 26535)",there are going to be major cuts,Claim,"(26456, 26488)",Support
+Look at the president's record: clean air legislation passed the Democratic Congress because of the leadership of George Bush,Premise,"(36789, 36914)",It is the most comprehensive clean air act in our history,Claim,"(36916, 36973)",Support
+the way to reduce them is by reducing the number of unwanted pregnancies,Claim,"(56090, 56162)",we believe there are way too many abortions in this country,Claim,"(56025, 56084)",Support
+"Their streets, their schools are like war zones",Premise,"(65094, 65141)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+"I went to a friend of mine in New York some years ago and he was a president of a major TV network and he said, you know, I think we have messed up this whole -- this election process -- it was an election year -- by stressing that -- putting out the dogma that issues are the thing to talk about, not character",Premise,"(76497, 76808)","He said, I felt so strongly about this, I went back and read the Lincoln-Douglas debates",Premise,"(76810, 76898)",Support
+I'll make you a deal this evening,Premise,"(2228, 2261)","If you don't try to compare George Bush to Harry Truman, I won't compare you to Jack Kennedy",Claim,"(2263, 2355)",Support
+I've done the job,Claim,"(7536, 7553)",I've done the job,Claim,"(7536, 7553)",Equivalent
+the same way he has done in his state,Premise,"(18517, 18554)",Bill Clinton's top priority is putting America back to work,Claim,"(18388, 18447)",Support
+He and I have both fought for change within the Democratic Party as well as within the country,Premise,"(26984, 27078)",Bill Clinton and I support a strong national defense,Claim,"(26930, 26982)",Support
+we have a good record with which to stand,Premise,"(37028, 37069)",We are firmly behind preserving our environment,Claim,"(36975, 37022)",Support
+the way to reduce them is by reducing the number of unwanted pregnancies,Claim,"(56090, 56162)",not vetoing family planning legislation the way George Bush has consistently done,Claim,"(56164, 56245)",Attack
+"There's an epidemic of drugs, crime and violence",Premise,"(65044, 65092)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+"He said, I felt so strongly about this, I went back and read the Lincoln-Douglas debates",Premise,"(76810, 76898)",Read those debates,Premise,"(76900, 76918)",Support
+"Harry Truman, it's worth remembering, assumed the presidency when Franklin Roosevelt died here in Georgia",Premise,"(2505, 2610)",only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis,Premise,"(2614, 2715)",Support
+Qualifications,Claim,"(7498, 7512)",I've done the job,Claim,"(7536, 7553)",Support
+the same way he has done in his state,Premise,"(18517, 18554)","Bill Clinton and I will create good, high-wage jobs for our people",Claim,"(18449, 18515)",Support
+"In the aftermath of the Cold War, the definition of strong national defense has obviously changed somewhat",Premise,"(27080, 27186)","George Bush wants to maintain at least 150,000 American soldiers in Europe, even though World War II ended 50 years ago",Premise,"(27201, 27320)",Attack
+It is the most comprehensive clean air act in our history,Claim,"(36916, 36973)",We are firmly behind preserving our environment,Claim,"(36975, 37022)",Support
+Bill Clinton and I support the right of a woman to choose,Claim,"(55908, 55965)",we believe that during the early stages of a pregnancy the government has no business coming in and ordering a woman to do what the government thinks is best,Claim,"(56330, 56487)",Support
+The aid that once came from the federal and state governments has been drastically cut,Premise,"(64956, 65042)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+Read those debates,Premise,"(76900, 76918)",Douglas is all character,Premise,"(76943, 76967)",Support
+only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis,Premise,"(2614, 2715)",It's something to think about during the debate this evening,Claim,"(2717, 2777)",Support
+I've been there,Claim,"(7514, 7529)",I've done the job,Claim,"(7536, 7553)",Support
+Bill Clinton has created high-wage manufacturing jobs at 10 times the national average,Premise,"(18556, 18642)","Bill Clinton and I will create good, high-wage jobs for our people",Claim,"(18449, 18515)",Support
+"In the aftermath of the Cold War, the definition of strong national defense has obviously changed somewhat",Premise,"(27080, 27186)",Bill Clinton and I support a strong national defense,Claim,"(26930, 26982)",Support
+We are firmly behind preserving our environment,Claim,"(36975, 37022)",it's a false choice,Claim,"(37172, 37191)",Attack
+we believe that during the early stages of a pregnancy the government has no business coming in and ordering a woman to do what the government thinks is best,Claim,"(56330, 56487)",What Dan Quayle and George Bush and Jerry Falwell and Pat Robertson think is the right decision in a given set of circumstances is their privilege,Premise,"(56489, 56635)",Attack
+They've lost sources of tax revenue,Premise,"(64919, 64954)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+Douglas is all character,Premise,"(76943, 76967)",He knows all of the little stinky numbers these guys do,Premise,"(76969, 77024)",Support
+But our real discussion is going to be about change,Claim,"(2779, 2830)",Bill Clinton and I stand for change,Claim,"(2832, 2867)",Support
+I've been tested,Claim,"(7555, 7571)",I've done the job,Claim,"(7536, 7553)",Support
+Bill Clinton has created high-wage manufacturing jobs at 10 times the national average,Premise,"(18556, 18642)",Bill Clinton's top priority is putting America back to work,Claim,"(18388, 18447)",Support
+Bill Clinton and I agree with so many military experts,Premise,"(27322, 27376)","it is time for the Europeans, who are so much wealthier now and more powerful than they were at the end of World War II to start picking up a little more of that tab themselves and not rely so exclusively on the US taxpayers for the defense of Europe",Claim,"(27394, 27644)",Support
+it's a false choice,Claim,"(37172, 37191)",that's a false choice,Claim,"(36679, 36700)",Support
+we believe that during the early stages of a pregnancy the government has no business coming in and ordering a woman to do what the government thinks is best,Claim,"(56330, 56487)",don't have the government order a woman to do what they think is the right thing to do,Premise,"(56643, 56729)",Attack
+"It's becoming increasingly difficult to pay for public education, for transportation, for police and fire protection, the basic services that local government must provide",Premise,"(65143, 65314)",they're facing a financial and social crisis,Claim,"(64873, 64917)",Support
+He knows all of the little stinky numbers these guys do,Premise,"(76969, 77024)",Abraham Lincoln had character,Premise,"(77026, 77055)",Support
+we don't believe our nation can stand 4 more years of what we've had under George Bush and Dan Quayle,Premise,"(2876, 2977)",Bill Clinton and I stand for change,Claim,"(2832, 2867)",Support
+I've been vice president for 4 years,Premise,"(7573, 7609)",I've been tested,Claim,"(7555, 7571)",Support
+"according to the statistics coming from the Bush-Quayle Labor Dept, for the last 2 years in a role Bill Clinton's state has been number one among all 50 in the creation of jobs in the private sector",Premise,"(18655, 18853)","Bill Clinton and I will create good, high-wage jobs for our people",Claim,"(18449, 18515)",Support
+"We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)",Bill Clinton and I support a strong national defense,Claim,"(26930, 26982)",Support
+You ought to talk to the coal miners,Premise,"(37526, 37562)",They're talking about putting a coal tax on,Premise,"(37564, 37607)",Support
+We ought to be able to build more common ground among those who describe themselves as pro-choice and pro-life in efforts to reduce the number of unwanted pregnancies,Claim,"(56731, 56897)",don't have the government order a woman to do what they think is the right thing to do,Premise,"(56643, 56729)",Attack
+it's an idea that the president has been pushing,Premise,"(65598, 65646)",enterprise zones are important,Claim,"(65563, 65593)",Support
+Abraham Lincoln had character,Premise,"(77026, 77055)",I would like to brag about the character of my boss,Claim,"(77170, 77221)",Support
+paralyzed into inaction,Premise,"(3053, 3076)",When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",Support
+I've been vice president for 4 years,Premise,"(7573, 7609)",I've done the job,Claim,"(7536, 7553)",Support
+"according to the statistics coming from the Bush-Quayle Labor Dept, for the last 2 years in a role Bill Clinton's state has been number one among all 50 in the creation of jobs in the private sector",Premise,"(18655, 18853)",Bill Clinton's top priority is putting America back to work,Claim,"(18388, 18447)",Support
+"We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)","it is time for the Europeans, who are so much wealthier now and more powerful than they were at the end of World War II to start picking up a little more of that tab themselves and not rely so exclusively on the US taxpayers for the defense of Europe",Claim,"(27394, 27644)",Support
+"You ought to ask somebody in Michigan, a UAW worker in Michigan, if they think increasing the CAFE standards, the fuel economy standards, to 45 miles a gallon is a good idea -- 300,000 people out of work",Premise,"(37193, 37396)","They're talking about a tax on utilities, a tax on gasoline and home heating oil -- all sorts of taxes",Premise,"(37609, 37711)",Support
+We ought to be able to build more common ground among those who describe themselves as pro-choice and pro-life in efforts to reduce the number of unwanted pregnancies,Claim,"(56731, 56897)",What Dan Quayle and George Bush and Jerry Falwell and Pat Robertson think is the right decision in a given set of circumstances is their privilege,Premise,"(56489, 56635)",Support
+enterprise zones are important,Claim,"(65563, 65593)","there's been very strong reluctance on, with the Democratic Congress",Premise,"(65652, 65720)",Attack
+I would like to brag about the character of my boss,Claim,"(77170, 77221)",Character of the leaders is the big variable in the success -- long term success -- of an administration,Claim,"(76391, 76495)",Support
+blinded to the suffering and pain of bankruptcies and people who were unemployed,Premise,"(3078, 3158)",When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",Support
+I've been vice president for 4 years,Premise,"(7573, 7609)",I've done the job,Claim,"(7536, 7553)",Support
+"according to the statistics coming from the Bush-Quayle Labor Dept, for the last 2 years in a role Bill Clinton's state has been number one among all 50 in the creation of jobs in the private sector",Premise,"(18655, 18853)","By contrast, in the nation as a whole, during the last 4 years, it is the first time since the presidency of Herbert Hoover, that we have gone for a 4-year period with fewer jobs at the end of that 4-year period than we had at the beginning",Premise,"(18855, 19095)",Attack
+building an infrastructure and an economy here in this country for the '90's and the next century,Premise,"(28037, 28134)",We want to put them to work,Claim,"(28008, 28035)",Support
+the choice isn't the environment and jobs,Claim,"(37722, 37763)",With the right policies -- prudent policies -- we can have both,Claim,"(37765, 37828)",Support
+we believe there are way too many abortions in this country,Claim,"(56025, 56084)",We ought to be able to build more common ground among those who describe themselves as pro-choice and pro-life in efforts to reduce the number of unwanted pregnancies,Claim,"(56731, 56897)",Support
+We'll continue to push it,Claim,"(65722, 65747)",enterprise zones are important,Claim,"(65563, 65593)",Support
+This election is about the future of our country,Claim,"(77256, 77304)",not about personal attacks against one candidate or another,Claim,"(77306, 77365)",Attack
+We have an environmental crisis,Premise,"(3160, 3191)",When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",Support
+I've been vice president for 4 years,Premise,"(7573, 7609)",Senator Gore referred to us being elected to the Congress together in 1976,Premise,"(7611, 7685)",Support
+Bill Clinton has created high-wage manufacturing jobs at 10 times the national average,Premise,"(18556, 18642)","By contrast, in the nation as a whole, during the last 4 years, it is the first time since the presidency of Herbert Hoover, that we have gone for a 4-year period with fewer jobs at the end of that 4-year period than we had at the beginning",Premise,"(18855, 19095)",Attack
+We want to put them to work,Claim,"(28008, 28035)","for those who are affected by the cutbacks, whether they come from George Bush or Bill Clinton and me -- the difference is, Bill Clinton and I have a defense conversion program so that those who won the Cold War will not be left out in the cold",Claim,"(27762, 28006)",Support
+the choice isn't the environment and jobs,Claim,"(37722, 37763)","You ought to ask somebody in Michigan, a UAW worker in Michigan, if they think increasing the CAFE standards, the fuel economy standards, to 45 miles a gallon is a good idea -- 300,000 people out of work",Premise,"(37193, 37396)",Attack
+We have 1.6 million abortions,Premise,"(57315, 57344)","We have more abortions in Washington, DC, than we do live births",Premise,"(57346, 57410)",Support
+They wanted home ownership,Premise,"(65940, 65966)",I was at a housing sub -- a housing project in San Francisco several months ago and met with people that were trying to reclaim their neighborhood,Premise,"(65792, 65938)",Support
+This election is about the future of our country,Claim,"(77256, 77304)",Our nation is in trouble,Premise,"(77367, 77391)",Attack
+a health insurance crisis,Premise,"(3193, 3218)",When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",Support
+Senator Gore referred to us being elected to the Congress together in 1976,Premise,"(7611, 7685)",I've done the job,Claim,"(7536, 7553)",Support
+We have lost 1.4 million jobs in manufacturing under George Bush and Dan Quayle,Claim,"(19124, 19203)","By contrast, in the nation as a whole, during the last 4 years, it is the first time since the presidency of Herbert Hoover, that we have gone for a 4-year period with fewer jobs at the end of that 4-year period than we had at the beginning",Premise,"(18855, 19095)",Support
+building an infrastructure and an economy here in this country for the '90's and the next century,Premise,"(28037, 28134)","for those who are affected by the cutbacks, whether they come from George Bush or Bill Clinton and me -- the difference is, Bill Clinton and I have a defense conversion program so that those who won the Cold War will not be left out in the cold",Claim,"(27762, 28006)",Support
+the choice isn't the environment and jobs,Claim,"(37722, 37763)","You ought to talk to the timber people in the Northwest where they say that, well, we can only save the owl, forget about jobs",Premise,"(37398, 37524)",Attack
+I happen to be pro-life,Premise,"(57129, 57152)",I have been pro-life for my 16 years in public life,Premise,"(57154, 57191)",Support
+They didn't want handouts,Premise,"(65968, 65993)",I was at a housing sub -- a housing project in San Francisco several months ago and met with people that were trying to reclaim their neighborhood,Premise,"(65792, 65938)",Support
+This election is about the future of our country,Claim,"(77256, 77304)","it is appalling to me that with 10 million Americans out work, with the rest working harder for less money than they did 4 years ago, with the loss of 1.4 million manufacturing jobs in our nation, with the health care crisis, a crisis of crime and drugs and AIDS, substandard education, that George Bush would constantly try to level personal attacks at his opponent",Premise,"(77396, 77762)",Attack
+substandard education,Premise,"(3220, 3241)",When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",Support
+let me just give you an example of where I was tested under fire and in a crisis,Premise,"(7850, 7930)",I've been tested,Claim,"(7555, 7571)",Support
+look at manufacturing,Premise,"(19101, 19122)",We have lost 1.4 million jobs in manufacturing under George Bush and Dan Quayle,Claim,"(19124, 19203)",Support
+We won the Cold War,Claim,"(28174, 28193)",We won the Cold War,Claim,"(28174, 28193)",Equivalent
+"If you purify the pond, the water lilies die",Premise,"(38285, 38329)","you can overdo, I'm told, environmental cleaning up",Claim,"(38232, 38283)",Support
+"We have more abortions in Washington, DC, than we do live births",Premise,"(57346, 57410)",Why shouldn't we have more reflection upon the issue before abor -- the decision of abortion is made,Premise,"(57412, 57512)",Support
+I was at a housing sub -- a housing project in San Francisco several months ago and met with people that were trying to reclaim their neighborhood,Premise,"(65792, 65938)","We also want, Hal, to have home ownership",Claim,"(65749, 65790)",Support
+"it is appalling to me that with 10 million Americans out work, with the rest working harder for less money than they did 4 years ago, with the loss of 1.4 million manufacturing jobs in our nation, with the health care crisis, a crisis of crime and drugs and AIDS, substandard education, that George Bush would constantly try to level personal attacks at his opponent",Premise,"(77396, 77762)","this, of course, just reached a new low last week when he resorted to a classic McCarthyite technique of trying to smear Bill Clinton over a trip that he took as a student along with lots of other Rhodes Scholars who were invited to go to Russia",Premise,"(77769, 78014)",Support
+When the recession came they were like a deer caught in the headlights,Claim,"(2979, 3049)",It is time for a change,Claim,"(3243, 3266)",Support
+I've done many things for the president,Premise,"(7706, 7745)",I've done the job,Claim,"(7536, 7553)",Support
+They have even -- we learned 2 weeks ago -- taken our tax dollars and subsidized the moving of US factories to foreign countries,Claim,"(19205, 19333)",We have lost 1.4 million jobs in manufacturing under George Bush and Dan Quayle,Claim,"(19124, 19203)",Support
+We won the Cold War,Claim,"(28174, 28193)",we won the Cold War,Claim,"(28319, 28338)",Equivalent
+according to some scientists,Premise,"(38192, 38220)",the things that he fears most might not be all that dangerous,Claim,"(38129, 38190)",Support
+Why shouldn't we have more reflection upon the issue before abor -- the decision of abortion is made,Premise,"(57412, 57512)",My objective and the president's objective is to try to reduce abortions in this country,Claim,"(57225, 57313)",Support
+I was with the Democrat mayor of San Francisco who was there supporting our idea,Premise,"(65999, 66079)","We also want, Hal, to have home ownership",Claim,"(65749, 65790)",Support
+It's a classic McCarthyite smear techniqu,Claim,"(78016, 78057)","this, of course, just reached a new low last week when he resorted to a classic McCarthyite technique of trying to smear Bill Clinton over a trip that he took as a student along with lots of other Rhodes Scholars who were invited to go to Russia",Premise,"(77769, 78014)",Support
+It is time for a change,Claim,"(3243, 3266)",Bill Clinton and I stand for change,Claim,"(2832, 2867)",Support
+I've done many things for the president,Premise,"(7706, 7745)",even as vice president you never know exactly what your role is going to be from time to time,Premise,"(7751, 7844)",Support
+60 Minutes and Nightline and the nation's newspapers have investigated this very carefully,Premise,"(19361, 19451)",They have even -- we learned 2 weeks ago -- taken our tax dollars and subsidized the moving of US factories to foreign countries,Claim,"(19205, 19333)",Support
+we won the Cold War,Claim,"(28319, 28338)",We won the Cold War,Claim,"(28174, 28193)",Equivalent
+I'm told by some experts,Premise,"(38099, 38123)",the things that he fears most might not be all that dangerous,Claim,"(38129, 38190)",Support
+I was in Los Angeles recently and I talked to a woman who told me that she had an abortion when she was 17 years of age,Premise,"(57622, 57741)",looking back on that she said it was a mistake,Premise,"(57747, 57793)",Support
+it's true,Claim,"(43615, 43624)",I know some people laugh about it when I talk about the breakdown of the family,Premise,"(66348, 66427)",Support
+I think the president of the US ought to apologize,Claim,"(78060, 78110)","it is appalling to me that with 10 million Americans out work, with the rest working harder for less money than they did 4 years ago, with the loss of 1.4 million manufacturing jobs in our nation, with the health care crisis, a crisis of crime and drugs and AIDS, substandard education, that George Bush would constantly try to level personal attacks at his opponent",Premise,"(77396, 77762)",Attack
+But our real discussion is going to be about change,Claim,"(2779, 2830)",It is time for a change,Claim,"(3243, 3266)",Support
+even as vice president you never know exactly what your role is going to be from time to time,Premise,"(7751, 7844)",let me just give you an example of where I was tested under fire and in a crisis,Premise,"(7850, 7930)",Support
+When are you going to stop using our tax dollars to shut down American factories and move 'em to foreign countries and throw Americans out of work?,Claim,"(19465, 19612)",They have even -- we learned 2 weeks ago -- taken our tax dollars and subsidized the moving of US factories to foreign countries,Claim,"(19205, 19333)",Attack
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+I don't like to have it the private property of fanatics that want to overdo this thing,Premise,"(38392, 38479)","you can overdo, I'm told, environmental cleaning up",Claim,"(38232, 38283)",Support
+looking back on that she said it was a mistake,Premise,"(57747, 57793)","she said I wished at that time, that I was going through this difficult time, that I had counseling to talk about the post-abortion trauma, and talk about adoption rather than abortion. Because if I had had that discussion, I would have had the child",Premise,"(57807, 58057)",Support
+I know some people laugh about it when I talk about the breakdown of the family,Premise,"(66348, 66427)","I also want to point out one of the fundamental problems that we have in American cities and throughout America today, and that is the breakdown of the American family",Claim,"(66179, 66346)",Support
+It's a classic McCarthyite smear techniqu,Claim,"(78016, 78057)",I think the president of the US ought to apologize,Claim,"(78060, 78110)",Support
+Bill Clinton and I want to get our country moving forward again,Premise,"(3268, 3331)",It is time for a change,Claim,"(3243, 3266)",Support
+President Bush was flying to Malta in 1989 to meet with President Gorbachev,Premise,"(7932, 8007)",It was the first meeting between President Bush and President Gorbachev,Premise,"(8009, 8080)",Support
+don't always believe what you see on television,Claim,"(19660, 19707)",60 Minutes and Nightline and the nation's newspapers have investigated this very carefully,Premise,"(19361, 19451)",Attack
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+I love this planet and I want it to stay here,Premise,"(38341, 38386)",I don't like to have it the private property of fanatics that want to overdo this thing,Premise,"(38392, 38479)",Attack
+"she said I wished at that time, that I was going through this difficult time, that I had counseling to talk about the post-abortion trauma, and talk about adoption rather than abortion. Because if I had had that discussion, I would have had the child",Premise,"(57807, 58057)",Let's not forget that every abortion stops a beating heart,Premise,"(58059, 58117)",Support
+60 % of the kids that are born in our major cities today are born out of wedlock,Premise,"(66444, 66524)","I also want to point out one of the fundamental problems that we have in American cities and throughout America today, and that is the breakdown of the American family",Claim,"(66179, 66346)",Support
+I think that he insulted the intelligence of the American people,Claim,"(78112, 78176)",I think the president of the US ought to apologize,Claim,"(78060, 78110)",Support
+Bill Clinton and I want to get our country moving forward again,Premise,"(3268, 3331)",put our people back to work,Premise,"(3333, 3360)",Support
+It was the first meeting between President Bush and President Gorbachev,Premise,"(8009, 8080)",They had known each other before,Premise,"(8082, 8114)",Support
+the media have been wrong before,Premise,"(19738, 19770)",don't always believe what you see on television,Claim,"(19660, 19707)",Support
+we invested in national security,Premise,"(28202, 28234)",we won the Cold War,Claim,"(28319, 28338)",Support
+Japan and Germany are both opening proclaiming to the world now that the biggest new market in the history of world business is the market for the new products and technologies that foster economic progress without environmental destruction,Premise,"(38686, 38926)","Why is the Japanese business organization -- the largest one they have, the Ki Den Ren (phonetic), arguing for tougher environmental standards than those embodied in US law?",Premise,"(38928, 39101)",Support
+Let's not forget that every abortion stops a beating heart,Premise,"(58059, 58117)",I think we have far too many abortions in this country,Claim,"(58119, 58173)",Support
+We have too many divorces,Premise,"(66526, 66551)","I also want to point out one of the fundamental problems that we have in American cities and throughout America today, and that is the breakdown of the American family",Claim,"(66179, 66346)",Support
+I'm awful proud that the American people rejected that tactic so overwhelmingly that he decided he had made a mistake,Premise,"(78181, 78298)",I think that he insulted the intelligence of the American people,Claim,"(78112, 78176)",Support
+put our people back to work,Premise,"(3333, 3360)",create a bright future for the US of America,Premise,"(3366, 3410)",Support
+They had known each other before,Premise,"(8082, 8114)",A coup broke out in the Philippines,Premise,"(8116, 8151)",Support
+We have never subsidized any country -- or any company to move from the US to Latin America,Claim,"(19772, 19863)",When are you going to stop using our tax dollars to shut down American factories and move 'em to foreign countries and throw Americans out of work?,Claim,"(19465, 19612)",Attack
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+"Why is the Japanese business organization -- the largest one they have, the Ki Den Ren (phonetic), arguing for tougher environmental standards than those embodied in US law?",Premise,"(38928, 39101)",Why is MITI -- their trade organization -- calling on all Japanese corporations everywhere in the world to exceed by as much as possible the environmental standards of every country in which they're operating?,Premise,"(39102, 39311)",Support
+Why shouldn't we have more reflection upon the issue before abor -- the decision of abortion is made,Premise,"(57412, 57512)",I think we have far too many abortions in this country,Claim,"(58119, 58173)",Support
+We have too many fathers that aren't assuming their responsibility,Premise,"(66553, 66619)","I also want to point out one of the fundamental problems that we have in American cities and throughout America today, and that is the breakdown of the American family",Claim,"(66179, 66346)",Support
+we ought to look to the future,Claim,"(78681, 78711)",This election is about the future of our country,Claim,"(77256, 77304)",Support
+put our people back to work,Premise,"(3333, 3360)",It is time for a change,Claim,"(3243, 3266)",Support
+A coup broke out in the Philippines,Premise,"(8116, 8151)",I had to go to the situation room,Premise,"(8153, 8186)",Support
+No,Claim,"(907, 909)","You know full well the Caribbean Basin Initiative, you've supported that",Claim,"(19865, 19937)",Attack
+we invested in our military,Premise,"(28264, 28291)",We won the Cold War,Claim,"(28174, 28193)",Support
+Why is MITI -- their trade organization -- calling on all Japanese corporations everywhere in the world to exceed by as much as possible the environmental standards of every country in which they're operating?,Premise,"(39102, 39311)",maybe they know something that George Bush and Dan Quayle don't know,Premise,"(39374, 39442)",Attack
+I think we have far too many abortions in this country,Claim,"(58119, 58173)",My objective and the president's objective is to try to reduce abortions in this country,Claim,"(57225, 57313)",Support
+"I also want to point out one of the fundamental problems that we have in American cities and throughout America today, and that is the breakdown of the American family",Claim,"(66179, 66346)",The breakdown of the family is a contributing factor to the problems that we have in urban America,Claim,"(66621, 66719)",Support
+"the future is, who's going to be the next president of the US",Premise,"(78717, 78778)",we ought to look to the future,Claim,"(78681, 78711)",Support
+create a bright future for the US of America,Premise,"(3366, 3410)",It is time for a change,Claim,"(3243, 3266)",Support
+I had to go to the situation room,Premise,"(8153, 8186)",I had to assemble the president's advisers,Premise,"(8188, 8230)",Support
+I voted against it,Claim,"(19990, 20008)",No,Claim,"(907, 909)",Support
+we invested in our military,Premise,"(28264, 28291)",We won the Cold War,Claim,"(28174, 28193)",Support
+the future will call for greater efficiency and greater environmental efficiency,Claim,"(39451, 39531)",maybe they know something that George Bush and Dan Quayle don't know,Premise,"(39374, 39442)",Attack
+"Something like a 24-hour waiting period, parental notification",Premise,"(57558, 57620)",Why shouldn't we have more reflection upon the issue before abor -- the decision of abortion is made,Premise,"(57412, 57512)",Support
+I think enterprise zones are good,Claim,"(66758, 66791)",enterprise zones are important,Claim,"(65563, 65593)",Support
+Bill Clinton simply has trouble telling the truth,Claim,"(78848, 78897)","the future is, who's going to be the next president of the US",Premise,"(78717, 78778)",Attack
+he will raise your taxes,Premise,"(3815, 3839)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+I had to assemble the president's advisers,Premise,"(8188, 8230)",I talked to President Aquino,Premise,"(8232, 8260)",Support
+I voted against it,Claim,"(19990, 20008)","You know full well the Caribbean Basin Initiative, you've supported that",Claim,"(19865, 19937)",Attack
+we invested in our military,Premise,"(28264, 28291)",we won the Cold War,Claim,"(28319, 28338)",Support
+Bill Clinton and I believe we can create millions of new jobs by leading the environmental revolution instead of dragging our feet and bringing up the rear,Claim,"(38519, 38674)",the future will call for greater efficiency and greater environmental efficiency,Claim,"(39451, 39531)",Support
+I think it's a privacy issue,Claim,"(58530, 58558)",I don't think it's a political issue,Claim,"(58492, 58528)",Support
+We had our own laws,Premise,"(66968, 66987)","We had our own, practically our own constitution",Premise,"(66989, 67037)",Support
+Bill Clinton simply has trouble telling the truth,Claim,"(78848, 78897)",I think the president of the US ought to apologize,Claim,"(78060, 78110)",Attack
+he will increase spending,Premise,"(3841, 3866)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+I talked to President Aquino,Premise,"(8232, 8260)",I made the recommendation to the president,Premise,"(8262, 8304)",Support
+You voted for it,Claim,"(20018, 20034)",I voted against it,Claim,"(19990, 20008)",Attack
+we invested in our military,Premise,"(28264, 28291)",We won the Cold War,Claim,"(28174, 28193)",Support
+that means to take care of it,Premise,"(39725, 39754)","I'm taught in my religious tradition that we are given dominion over the Earth, but we're required to be good stewards of the Earth",Premise,"(39588, 39719)",Support
+I don't think it's a political issue,Claim,"(58492, 58528)","I believe that a woman owns her body and what she does with it is her own business, period",Claim,"(58237, 58327)",Support
+"I ran a civilization for several years, a civilization of 3 to 4 hundred wonderful men",Premise,"(66880, 66966)",We had our own laws,Premise,"(66968, 66987)",Support
+He said that he didn't even demonstrate -- he told the people in Arkansas in 1978,Premise,"(78899, 78980)",Then we find out he organized demonstrations,Premise,"(78982, 79026)",Support
+he will make government bigger,Premise,"(3868, 3898)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+I made the recommendation to the president,Premise,"(8262, 8304)",The president made the decision,Premise,"(8306, 8337)",Support
+You voted for it,Claim,"(20018, 20034)","You know full well the Caribbean Basin Initiative, you've supported that",Claim,"(19865, 19937)",Support
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+"I'm taught in my religious tradition that we are given dominion over the Earth, but we're required to be good stewards of the Earth",Premise,"(39588, 39719)",This is a value an issue that touches my basic values,Claim,"(39533, 39586)",Support
+I think it's a privacy issue,Claim,"(58530, 58558)","I believe that a woman owns her body and what she does with it is her own business, period",Claim,"(58237, 58327)",Support
+"We had our own, practically our own constitution",Premise,"(66989, 67037)",I put up -- I was the -- I was the sovereign for a good bit of that,Premise,"(67043, 67110)",Support
+Then we find out he organized demonstrations,Premise,"(78982, 79026)",I don't care whether he demonstrated or didn't demonstrate,Premise,"(79038, 79096)",Support
+jobs will be lost,Premise,"(3900, 3917)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+The president made the decision,Premise,"(8306, 8337)",the coup was suppressed,Premise,"(8339, 8362)",Support
+No,Claim,"(907, 909)",You voted for it,Claim,"(20018, 20034)",Attack
+we invested in national security,Premise,"(28202, 28234)",we won the Cold War,Claim,"(28319, 28338)",Support
+the future will call for greater efficiency and greater environmental efficiency,Claim,"(39451, 39531)",This is a value an issue that touches my basic values,Claim,"(39533, 39586)",Support
+I don't think they should be made illegal,Claim,"(58430, 58471)","I, too, abhor abortions",Premise,"(58401, 58424)",Attack
+I put up -- I was the -- I was the sovereign for a good bit of that,Premise,"(67043, 67110)",I tried to analyze human predicaments in that microcosm of life in the -- in the world,Premise,"(67116, 67202)",Support
+tell the truth,Claim,"(33518, 33532)",I don't care whether he demonstrated or didn't demonstrate,Premise,"(79038, 79096)",Attack
+Bill Clinton wants to raise taxes,Premise,"(4099, 4132)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+the coup was suppressed,Premise,"(8339, 8362)",democracy continued in the Philippines,Premise,"(8364, 8402)",Support
+No,Claim,"(907, 909)","You know full well the Caribbean Basin Initiative, you've supported that",Claim,"(19865, 19937)",Attack
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+"I'm taught in my religious tradition that we are given dominion over the Earth, but we're required to be good stewards of the Earth",Premise,"(39588, 39719)",We're not doing that now under the Bush-Quayle policies,Claim,"(39756, 39811)",Attack
+I don't think they should be made illegal,Claim,"(58430, 58471)","I believe that a woman owns her body and what she does with it is her own business, period",Claim,"(58237, 58327)",Support
+I tried to analyze human predicaments in that microcosm of life in the -- in the world,Premise,"(67116, 67202)","I found out that when I really got down to putting out do's and don'ts, and lots of these included take torture for this and that, and this and that, and never take any amnesty, for reasons they all understood and went along with",Premise,"(67208, 67437)",Support
+Just tell us the truth,Claim,"(79143, 79165)",tell the truth,Claim,"(33518, 33532)",Support
+President Bush wants to hold the line on taxes,Premise,"(4051, 4097)",Bill Clinton wants to raise taxes,Premise,"(4099, 4132)",Attack
+democracy continued in the Philippines,Premise,"(8364, 8402)",the situation was ended,Premise,"(8404, 8427)",Support
+No,Claim,"(907, 909)",No,Claim,"(907, 909)",Equivalent
+we invested in national security,Premise,"(28202, 28234)",We won the Cold War,Claim,"(28174, 28193)",Support
+They have gutted the Clean Air Act,Premise,"(39813, 39847)",We're not doing that now under the Bush-Quayle policies,Claim,"(39756, 39811)",Support
+"Even in cases of rape and incest, their platform requires that a woman be penalized, that she not be allowed to make a choice, if she believes, in consultation with her family, her doctor, and others, whoever she chooses, that she wants to have an abortion after rape, or incest",Claim,"(59034, 59312)","he and George Bush have turned over their party to Pat Buchanan and Phyllis Schlafly, who have ordered them to endorse a platform which makes all abortions illegal under any circumstances, regardless of what has led to that decision by a woman",Claim,"(58789, 59032)",Support
+"I found out that when I really got down to putting out do's and don'ts, and lots of these included take torture for this and that, and this and that, and never take any amnesty, for reasons they all understood and went along with",Premise,"(67208, 67437)","one of the -- we had an acronym, BACKUS, and each one of those B-a-c-k was something for which you -- you had to make them hurt you before you did it",Premise,"(67443, 67592)",Support
+Just tell us the truth,Claim,"(79143, 79165)",I don't care whether he demonstrated or didn't demonstrate,Premise,"(79038, 79096)",Attack
+President Bush is for a balanced budget amendment,Premise,"(4134, 4183)",Bill Clinton is opposed to it,Premise,"(4185, 4214)",Attack
+the situation was ended,Premise,"(8404, 8427)",I've been there,Claim,"(7514, 7529)",Support
+I voted against it,Claim,"(19990, 20008)",No,Claim,"(907, 909)",Support
+America had the political will and made the right decisions,Premise,"(28409, 28468)",We won the Cold War,Claim,"(28174, 28193)",Support
+They have broken his pledge to be the environmental president,Premise,"(39849, 39910)",We're not doing that now under the Bush-Quayle policies,Claim,"(39756, 39811)",Support
+Dan did not say I support the right of a woman to choose,Premise,"(58715, 58771)","he and George Bush have turned over their party to Pat Buchanan and Phyllis Schlafly, who have ordered them to endorse a platform which makes all abortions illegal under any circumstances, regardless of what has led to that decision by a woman",Claim,"(58789, 59032)",Support
+"one of the -- we had an acronym, BACKUS, and each one of those B-a-c-k was something for which you -- you had to make them hurt you before you did it",Premise,"(67443, 67592)","Bowing in public, making, making -- getting on the radio and so forth",Premise,"(67594, 67663)",Support
+"Today, Bill Clinton -- excuse me -- yesterday in Philadelphia on a radio show, just yesterday on a radio show, he attacked -- Admiral, he attacks Ross Perot saying the media is giving Ross Perot a free ride",Premise,"(79167, 79373)","The press asked him when the klieg lights are on, said what do you mean by Ross Perot getting a free ride? He says I didn't say that at all.",Premise,"(79375, 79515)",Support
+Let us look at the agendas,Premise,"(4023, 4049)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+nobody has ever criticized me for not having strong beliefs,Premise,"(8596, 8655)","one other thing that qualifies you for being president -- and it's this, Hal -- you've got to stand up for what you believe in",Claim,"(8464, 8590)",Support
+No,Claim,"(907, 909)",You voted for it,Claim,"(20018, 20034)",Attack
+America had the political will and made the right decisions,Premise,"(28409, 28468)",we won the Cold War,Claim,"(28319, 28338)",Support
+Bill Clinton and I will change that,Claim,"(39912, 39947)",They have broken his pledge to be the environmental president,Premise,"(39849, 39910)",Attack
+They make it completely illegal under any of those circumstances,Claim,"(59314, 59338)","Even in cases of rape and incest, their platform requires that a woman be penalized, that she not be allowed to make a choice, if she believes, in consultation with her family, her doctor, and others, whoever she chooses, that she wants to have an abortion after rape, or incest",Claim,"(59034, 59312)",Support
+You got the double meaning there,Premise,"(67699, 67731)","But at the end it was US, BACKUS",Premise,"(67665, 67697)",Support
+you can't have it both ways,Claim,"(79524, 79551)","The press asked him when the klieg lights are on, said what do you mean by Ross Perot getting a free ride? He says I didn't say that at all.",Premise,"(79375, 79515)",Attack
+Bill Clinton is opposed to it,Premise,"(4185, 4214)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+I've been there,Claim,"(7514, 7529)","one other thing that qualifies you for being president -- and it's this, Hal -- you've got to stand up for what you believe in",Claim,"(8464, 8590)",Support
+"Our people will be glad to furnish the press, if they're interested, in Senator Gore's voting record on the Caribbean Basin Initiative.",Claim,"(20151, 20286)","You know full well the Caribbean Basin Initiative, you've supported that",Claim,"(19865, 19937)",Support
+America had the political will and made the right decisions,Premise,"(28409, 28468)",We won the Cold War,Claim,"(28174, 28193)",Support
+Bill Clinton and I will change that,Claim,"(39912, 39947)",We're not doing that now under the Bush-Quayle policies,Claim,"(39756, 39811)",Attack
+now you want to waffle around on it and give the impression that maybe you don't really mean what you say,Premise,"(59575, 59680)",you can clear it up by simply repeating I support the right of a woman to choos,Claim,"(59693, 59772)",Support
+"Bowing in public, making, making -- getting on the radio and so forth",Premise,"(67594, 67663)","But at the end it was US, BACKUS",Premise,"(67665, 67697)",Support
+you can't have it both ways,Claim,"(79524, 79551)",Just tell us the truth,Claim,"(79143, 79165)",Support
+We want to reform the legal system because it's too costly,Premise,"(4216, 4274)",Bill Clinton wants the status quo,Premise,"(4276, 4309)",Attack
+My association with Mr. Perot is a very personal one,Premise,"(8706, 8758)","as I have stood in and finally taken his running mate position, he has granted me total autonomy",Premise,"(8763, 8859)",Support
+"Our people will be glad to furnish the press, if they're interested, in Senator Gore's voting record on the Caribbean Basin Initiative.",Claim,"(20151, 20286)",I voted against it,Claim,"(19990, 20008)",Attack
+America had the political will and made the right decisions,Premise,"(28409, 28468)",We won the Cold War,Claim,"(28174, 28193)",Support
+That's not true,Claim,"(40357, 40372)",one of the proposals that Senator Gore has suggested is to have the taxpayers of America spend $100 billion a year on environmental projects in foreign countries,Claim,"(40186, 40347)",Attack
+you can clear it up by simply repeating I support the right of a woman to choos,Claim,"(59693, 59772)",Dan did not say I support the right of a woman to choose,Premise,"(58715, 58771)",Attack
+"the US could be called the US, but it was Unity Over Self, Loners Make Out",Premise,"(67737, 67811)","But at the end it was US, BACKUS",Premise,"(67665, 67697)",Support
+he can't tell the truth,Claim,"(79641, 79664)",You cannot lead this great country of ours by misleading the people,Claim,"(79666, 79733)",Support
+Bill Clinton wants the status quo,Premise,"(4276, 4309)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+I don't take advantage of it,Claim,"(8861, 8889)","as I have stood in and finally taken his running mate position, he has granted me total autonomy",Premise,"(8763, 8859)",Attack
+"Our people will be glad to furnish the press, if they're interested, in Senator Gore's voting record on the Caribbean Basin Initiative.",Claim,"(20151, 20286)",You voted for it,Claim,"(20018, 20034)",Support
+we can make the cuts in defense and we have,Claim,"(28475, 28518)",Bill Clinton wants to cut defense another $60 billion,Claim,"(28520, 28573)",Attack
+"No, it's not",Claim,"(24458, 24470)",it's in your book. On page 304,Claim,"(40414, 40444)",Attack
+This issue is a very important issue,Premise,"(59917, 59953)",It has been debated throughout your public life and throughout my public life,Premise,"(59955, 60032)",Support
+"But at the end it was US, BACKUS",Premise,"(67665, 67697)","we're going to have to get some love in this country between races, and between rich and poor",Claim,"(67821, 67914)",Support
+I don't think that is a personal attack,Claim,"(79557, 79596)",he can't tell the truth,Claim,"(79641, 79664)",Support
+We want to reform the health care system,Premise,"(4311, 4351)",Bill Clinton wants to ration health care,Premise,"(4353, 4393)",Attack
+"as I have stood in and finally taken his running mate position, he has granted me total autonomy",Premise,"(8763, 8859)","I am sure that he would make me a partner in decision, in making decisions about the way to handle health care, the way to get this economy back on its feet again, in every way",Premise,"(8895, 9071)",Support
+It is a bad economy,Premise,"(20419, 20438)","you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.",Premise,"(20315, 20418)",Support
+Bill Clinton wants to cut defense another $60 billion,Claim,"(28520, 28573)","We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)",Attack
+it's in your book. On page 304,Claim,"(40414, 40444)",one of the proposals that Senator Gore has suggested is to have the taxpayers of America spend $100 billion a year on environmental projects in foreign countries,Claim,"(40186, 40347)",Support
+It has been debated throughout your public life and throughout my public life,Premise,"(59955, 60032)","one thing that I don't think that it is wise to do, and that is to change your position",Claim,"(60038, 60125)",Support
+I think the problem is deeper than that,Claim,"(66797, 66836)",I think enterprise zones are good,Claim,"(66758, 66791)",Attack
+he can't tell the truth,Claim,"(79641, 79664)",Just tell us the truth,Claim,"(79143, 79165)",Attack
+Bill Clinton wants to ration health care,Premise,"(4353, 4393)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+but I know I have his trust,Premise,"(9157, 9184)","as I have stood in and finally taken his running mate position, he has granted me total autonomy",Premise,"(8763, 8859)",Support
+It's a tough economy,Premise,"(20440, 20460)","you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.",Premise,"(20315, 20418)",Support
+Bill Clinton wants to cut defense another $60 billion,Claim,"(28520, 28573)",a $60 billion defense cut is going to cut a lot of jobs out,Claim,"(28635, 28694)",Support
+It is there,Claim,"(40476, 40487)",it's in your book. On page 304,Claim,"(40414, 40444)",Support
+"one thing that I don't think that it is wise to do, and that is to change your position",Claim,"(60038, 60125)","At one time, and most of the time in the House of Representatives, you had a pro-life position",Claim,"(60127, 60221)",Attack
+"we're going to have to get some love in this country between races, and between rich and poor",Claim,"(67821, 67914)",I think the problem is deeper than that,Claim,"(66797, 66836)",Support
+You cannot lead this great country of ours by misleading the people,Claim,"(79666, 79733)",Just tell us the truth,Claim,"(79143, 79165)",Attack
+"Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Bill Clinton does not have the strength nor the character to be president of the US,Claim,"(3927, 4010)",Support
+but I know I have his trust,Premise,"(9157, 9184)",I intend to act in a way to keep that situation alive,Claim,"(9190, 9243)",Support
+The question isn't -- it's not who you're going to blame,Premise,"(20462, 20518)",it's what are you going to do about it?,Claim,"(20520, 20559)",Support
+a $60 billion defense cut is going to cut a lot of jobs out,Claim,"(28635, 28694)","for those who are affected by the cutbacks, whether they come from George Bush or Bill Clinton and me -- the difference is, Bill Clinton and I have a defense conversion program so that those who won the Cold War will not be left out in the cold",Claim,"(27762, 28006)",Attack
+It is there,Claim,"(40476, 40487)","No, it's not",Claim,"(24458, 24470)",Attack
+That's simply not true,Claim,"(60229, 60251)","At one time, and most of the time in the House of Representatives, you had a pro-life position",Claim,"(60127, 60221)",Attack
+"we're going to have to get some love in this country between races, and between rich and poor",Claim,"(67821, 67914)","You have got to have leaders -- and they're out there -- who can do this with their bare hands, with -- working with, with people on the scene",Claim,"(67916, 68058)",Support
+"He is, as I have read in more than one article, a revolutionary",Premise,"(80347, 80410)",he's got plans out there that are going to double the speed at which this budget problem is being cared for,Premise,"(80412, 80519)",Support
+Bill Clinton wants to empower government,Premise,"(4395, 4435)","Bill Clinton's economic plan and his agenda will make matters much, much worse",Claim,"(3733, 3811)",Support
+If we're successful in our efforts to gain your trust and lead this nation,Premise,"(9363, 9437)",we will work together to put our country back on the right track again,Claim,"(9439, 9509)",Support
+it's what are you going to do about it?,Claim,"(20520, 20559)","you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.",Premise,"(20315, 20418)",Attack
+we would not have won the Cold War,Claim,"(28837, 28871)",we would not have won the Cold War,Claim,"(28837, 28871)",Support
+It is in your book,Claim,"(40500, 40518)",it's in your book. On page 304,Claim,"(40414, 40444)",Support
+"In 1987, you wrote a letter, and we'll pass this out to the media",Premise,"(60261, 60326)","At one time, and most of the time in the House of Representatives, you had a pro-life position",Claim,"(60127, 60221)",Support
+We have seen a decline in urban America under the Bush-Quayle administration,Premise,"(68229, 68305)",George Bush's urban policy has been a tale of 2 cities: the best of times for the very wealthy; the worst of times for everyone else,Claim,"(68095, 68227)",Support
+he's got plans out there that are going to double the speed at which this budget problem is being cared for,Premise,"(80412, 80519)","It was asked how, if we would squeeze down so fast that we would strangle the economy in the process",Premise,"(80521, 80621)",Support
+we want to empower people,Premise,"(4437, 4462)",Bill Clinton wants to empower government,Premise,"(4395, 4435)",Attack
+we will work together to put our country back on the right track again,Claim,"(9439, 9509)","Bill Clinton understands the meaning of the words ""teamwork"" and ""partnership.""",Claim,"(9283, 9362)",Support
+Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",it's what are you going to do about it?,Claim,"(20520, 20559)",Support
+"if we had listened to Senator Gore and his crowd, and had supported a nuclear freeze",Premise,"(28872, 28956)",we would not have won the Cold War,Claim,"(28837, 28871)",Support
+"I wanted to bring the Gore book tonight, because I figured he was going to pull a Bill Clinton on me and he has",Premise,"(40535, 40646)",he's going to disavow what's in his book,Claim,"(40656, 40696)",Support
+That is simply not true,Claim,"(60336, 60359)",That's simply not true,Claim,"(60229, 60251)",Support
+Bill Clinton and I want to change that,Claim,"(68307, 68345)",George Bush's urban policy has been a tale of 2 cities: the best of times for the very wealthy; the worst of times for everyone else,Claim,"(68095, 68227)",Attack
+"It was asked how, if we would squeeze down so fast that we would strangle the economy in the process",Premise,"(80521, 80621)","That is an art, to follow all those variables and know when to let up and to nurse this economy back together with pulls and pushes",Premise,"(80623, 80754)",Support
+He is wrong,Claim,"(4573, 4584)","In St. Louis, Missouri, in June of this year, Bill Clinton said this: ""America is the mockery of the world.""",Premise,"(4464, 4572)",Support
+The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)","one other thing that qualifies you for being president -- and it's this, Hal -- you've got to stand up for what you believe in",Claim,"(8464, 8590)",Attack
+To raise $220 billion in new spending,Claim,"(20609, 20646)",it's what are you going to do about it?,Claim,"(20520, 20559)",Support
+if you would have supported that attitude,Premise,"(29003, 29044)",we would not have won the Cold War,Claim,"(28837, 28871)",Support
+It's in your book,Claim,"(40698, 40715)",it's in your book. On page 304,Claim,"(40414, 40444)",Support
+That is simply not true,Claim,"(60336, 60359)","In 1987, you wrote a letter, and we'll pass this out to the media",Premise,"(60261, 60326)",Attack
+Bill Clinton and I want to change that,Claim,"(68307, 68345)",We have seen a decline in urban America under the Bush-Quayle administration,Premise,"(68229, 68305)",Attack
+"That is an art, to follow all those variables and know when to let up and to nurse this economy back together with pulls and pushes",Premise,"(80623, 80754)","there's no better man in the world to do that than that old artist, Ross Perot",Claim,"(80760, 80838)",Support
+At some time during these next 4 years there is going to be a crisis,Claim,"(4586, 4654)",there will be an international crisis,Claim,"(4658, 4695)",Support
+Unemployment is up,Premise,"(9650, 9668)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Support
+No,Claim,"(5565, 5567)",it's what are you going to do about it?,Claim,"(20520, 20559)",Attack
+if you would have supported that attitude,Premise,"(29003, 29044)",we would not have won the Cold War,Claim,"(28837, 28871)",Support
+No,Claim,"(5565, 5567)",it's in your book. On page 304,Claim,"(40414, 40444)",Attack
+Bill Clinton has the same type of a record,Claim,"(60441, 60483)",You wrote a letter saying that you oppose taxpayer funding of abortion,Claim,"(60369, 60439)",Support
+"by creating good jobs, investing in infrastructure, new programs in job training and apprenticeship, welfare reform",Premise,"(68347, 68462)",Bill Clinton and I want to change that,Claim,"(68307, 68345)",Support
+The US is in deep trouble,Premise,"(80956, 80981)",I think that my closing statement is that I think I'm in a room with people that aren't the life of reality,Claim,"(80847, 80954)",Support
+I can't tell you where it's going to be,Premise,"(4697, 4736)",I can't even tell you the circumstances,Premise,"(4738, 4777)",Support
+personal income is down,Premise,"(9670, 9693)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Support
+No,Claim,"(5565, 5567)",Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",Attack
+"if we had listened to Senator Gore and his crowd, and had supported a nuclear freeze",Premise,"(28872, 28956)",if you would have supported that attitude,Premise,"(29003, 29044)",Support
+No,Claim,"(5565, 5567)",It's in your book,Claim,"(40698, 40715)",Attack
+You wrote a letter saying that you oppose taxpayer funding of abortion,Claim,"(60369, 60439)","At one time, and most of the time in the House of Representatives, you had a pro-life position",Claim,"(60127, 60221)",Support
+"to say to a mother with young children that if she gets a good job, her children are not going to lose their Medicaid benefits",Premise,"(68466, 68592)",Bill Clinton and I want to change that,Claim,"(68307, 68345)",Support
+We've got to have somebody that can get up there and bring out the firehoses and get it stopped,Claim,"(80983, 81078)",that's what we're about in the Perot campaign,Claim,"(81084, 81129)",Support
+I can't even tell you the circumstances,Premise,"(4738, 4777)",it will happen,Claim,"(4785, 4799)",Support
+bankruptcies are up,Premise,"(9695, 9714)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Support
+No,Claim,"(5565, 5567)",To raise $220 billion in new spending,Claim,"(20609, 20646)",Attack
+if you would have supported that attitude,Premise,"(29003, 29044)",we would not have won the Cold War,Claim,"(28837, 28871)",Support
+No,Claim,"(5565, 5567)","No, it's not",Claim,"(24458, 24470)",Support
+In some circumstances,Claim,"(60491, 60512)",You wrote a letter saying that you oppose taxpayer funding of abortion,Claim,"(60369, 60439)",Attack
+"incentives for investment in the inner city area, and, yes, enterprise zones",Premise,"(68594, 68670)",Bill Clinton and I want to change that,Claim,"(68307, 68345)",Support
+that's what we're about in the Perot campaign,Claim,"(81084, 81129)",The US is in deep trouble,Premise,"(80956, 80981)",Attack
+there will be an international crisis,Claim,"(4658, 4695)",it will happen,Claim,"(4785, 4799)",Support
+housing starts are down,Premise,"(9716, 9739)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Support
+How is raising taxes going to help small business?,Premise,"(20666, 20716)",Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",Attack
+we would not have won the Cold War,Claim,"(28837, 28871)","We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)",Attack
+It's in your book,Claim,"(40698, 40715)",he's going to disavow what's in his book,Claim,"(40656, 40696)",Attack
+I still do,Claim,"(60564, 60574)",In some circumstances,Claim,"(60491, 60512)",Support
+"incentives for investment in the inner city area, and, yes, enterprise zones",Premise,"(68594, 68670)","Vice President Quayle said they're important, but George Bush eliminated them from his urban plan",Premise,"(68672, 68769)",Attack
+"If we choose change, it will require us to reach down inside ourselves to find the courage to take a new direction",Claim,"(81422, 81536)","We can continue traveling the road we have been on, which has led to higher unemployment and worse economic times, or we can reach out for change",Premise,"(81275, 81420)",Attack
+At some time during these next 4 years there is going to be a crisis,Claim,"(4586, 4654)",it will happen,Claim,"(4785, 4799)",Support
+How long can we continue with trickle-down economics when the record of failure is so abundantly clear?,Premise,"(9741, 9844)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Support
+How is raising taxes going to help the farmer?,Premise,"(20717, 20763)",Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",Attack
+we would not have won the Cold War,Claim,"(28837, 28871)","We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)",Attack
+How are we going to pay for an extra $100 billion of the taxpayers' money for this?,Premise,"(40907, 40990)",how are we going to pay for it,Claim,"(40875, 40905)",Support
+This is the typical type of Clinton response,Premise,"(60768, 60812)","Bill Clinton, when he was governor of Arkansas, also worked with the Right to Life people and supported Right to Life positions and now he has changed",Claim,"(60588, 60738)",Support
+that's not true,Claim,"(68797, 68812)","Vice President Quayle said they're important, but George Bush eliminated them from his urban plan",Premise,"(68672, 68769)",Attack
+"Three weeks from today, our nation will make a fateful decision",Premise,"(81210, 81273)","We can continue traveling the road we have been on, which has led to higher unemployment and worse economic times, or we can reach out for change",Premise,"(81275, 81420)",Support
+We need a president who has the experience,Claim,"(4801, 4843)",who has been tested,Claim,"(4845, 4864)",Support
+Discussions of the vice presidency tend sometimes to focus on the crisis during which a vice president is thrust into the Oval Office,Premise,"(9845, 9978)",one-3rd of the vice presidents who have served have been moved into the White House,Premise,"(9992, 10075)",Support
+How is raising taxes going to help the consumer in America?,Premise,"(20764, 20823)",Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",Attack
+we invested and we went forward,Premise,"(29110, 29141)",We won the Cold War,Claim,"(28174, 28193)",Support
+It comes out to $100 billion of foreign aid for environmental projects,Claim,"(40737, 40807)",how are we going to pay for it,Claim,"(40875, 40905)",Attack
+This is the typical type of Clinton response,Premise,"(60768, 60812)",He's on both sides of the issue,Premise,"(60847, 60878)",Attack
+We have been for enterprise zones,Claim,"(68901, 68934)",that's not true,Claim,"(68797, 68812)",Support
+"If we choose change, it will require us to reach down inside ourselves to find the courage to take a new direction",Claim,"(81422, 81536)",Sometimes it seems deceptively easy to continue with the old habits even when they're no longer good for us,Premise,"(81538, 81645)",Attack
+who has been tested,Claim,"(4845, 4864)",who has the integrity and qualifications to handle the crisis,Claim,"(4866, 4927)",Support
+"Bill Clinton understands the meaning of the words ""teamwork"" and ""partnership.""",Claim,"(9283, 9362)",the teamwork and partnership beforehand -- and hopefully that situation never happens -- how you work together is critically important,Claim,"(10081, 10215)",Support
+"raising taxes will make matters much, much worse",Claim,"(20845, 20893)",Your proposal it to raise $150 billion in taxes,Claim,"(20560, 20607)",Attack
+But we'd note that Mr. -- Governor Clinton's plan is almost twice as much a cut as either one of us,Premise,"(29343, 29442)",Bill Clinton wants to cut defense another $60 billion,Claim,"(28520, 28573)",Support
+you've got it wrong,Claim,"(41050, 41069)",It comes out to $100 billion of foreign aid for environmental projects,Claim,"(40737, 40807)",Attack
+"Bill Clinton, when he was governor of Arkansas, also worked with the Right to Life people and supported Right to Life positions and now he has changed",Claim,"(60588, 60738)",Bill Clinton has the same type of a record,Claim,"(60441, 60483)",Support
+We have been for enterprise zones,Claim,"(68901, 68934)","Vice President Quayle said they're important, but George Bush eliminated them from his urban plan",Premise,"(68672, 68769)",Attack
+"If we choose change, it will require us to reach down inside ourselves to find the courage to take a new direction",Claim,"(81422, 81536)",Trickle-down economics simply does not work,Claim,"(81647, 81690)",Attack
+who has been tested,Claim,"(4845, 4864)",The president has been tested,Claim,"(4929, 4958)",Support
+The way we work together in this campaign is one sample,Premise,"(10217, 10272)",the teamwork and partnership beforehand -- and hopefully that situation never happens -- how you work together is critically important,Claim,"(10081, 10215)",Support
+How is raising taxes going to help small business?,Premise,"(20666, 20716)",How is raising taxes going to help the farmer?,Premise,"(20717, 20763)",Support
+But we'd note that Mr. -- Governor Clinton's plan is almost twice as much a cut as either one of us,Premise,"(29343, 29442)","We believe that we can make savings in our defense budget and at the same time, improve our national security",Claim,"(27646, 27755)",Attack
+I've got it right,Claim,"(41083, 41100)",you've got it wrong,Claim,"(41050, 41069)",Attack
+"one thing that I don't think that it is wise to do, and that is to change your position",Claim,"(60038, 60125)","Bill Clinton, when he was governor of Arkansas, also worked with the Right to Life people and supported Right to Life positions and now he has changed",Claim,"(60588, 60738)",Attack
+"that same bill raised taxes on those making more than $200,000 a year",Premise,"(69043, 69112)","George Bush vetoed the enterprise zone law, the law that included them",Claim,"(68947, 69017)",Support
+"We can continue traveling the road we have been on, which has led to higher unemployment and worse economic times, or we can reach out for change",Premise,"(81275, 81420)",Sometimes it seems deceptively easy to continue with the old habits even when they're no longer good for us,Premise,"(81538, 81645)",Support
+who has the integrity and qualifications to handle the crisis,Claim,"(4866, 4927)",the president has the integrity and the character,Claim,"(4960, 5009)",Support
+the teamwork and partnership beforehand -- and hopefully that situation never happens -- how you work together is critically important,Claim,"(10081, 10215)",The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression,Claim,"(9511, 9648)",Attack
+How is raising taxes going to help the farmer?,Premise,"(20717, 20763)",How is raising taxes going to help the consumer in America?,Premise,"(20764, 20823)",Support
+"The numbers, in terms of the dollar cuts, as they stand on our plans now, show us almost the same as the vice president's",Premise,"(29220, 29341)",we can make the cuts in defense and we have,Claim,"(28475, 28518)",Support
+There's no such proposal,Claim,"(41108, 41132)",I've got it right,Claim,"(41083, 41100)",Attack
+This is the typical type of Clinton response,Premise,"(60768, 60812)",He changes his position all the time,Claim,"(61203, 61239)",Support
+"George Bush vetoed the enterprise zone law, the law that included them",Claim,"(68947, 69017)","your top priority really, isn't it, to make sure that the very wealthy don't have to pay any more taxes",Claim,"(69140, 69243)",Support
+We have had an increase in all of the things that should be decreasing,Premise,"(81692, 81762)",Trickle-down economics simply does not work,Claim,"(81647, 81690)",Support
+We need a president who has the experience,Claim,"(4801, 4843)",the president has the integrity and the character,Claim,"(4960, 5009)",Support
+When are you guys going to start worrying about our people here in the US of America and get our country moving again?,Claim,"(10442, 10560)",George Bush has concentrated on every other country in the world,Claim,"(10376, 10440)",Attack
+we've got to clean out the barn,Claim,"(21055, 21086)",start getting this investment money on the street,Claim,"(21116, 21165)",Support
+"I've been through the end of World War II, and the surprise beginning of Korea",Premise,"(29444, 29522)",it cost us more money,Claim,"(29541, 29562)",Support
+There is no such proposal,Claim,"(41246, 41271)",There's no such proposal,Claim,"(41108, 41132)",Support
+Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)",He changes his position all the time,Claim,"(61203, 61239)",Support
+"Vice President Quayle said they're important, but George Bush eliminated them from his urban plan",Premise,"(68672, 68769)","George Bush vetoed the enterprise zone law, the law that included them",Claim,"(68947, 69017)",Support
+Everything that should have been increasing has been going down,Premise,"(81764, 81827)",Trickle-down economics simply does not work,Claim,"(81647, 81690)",Support
+We need a president who has the experience,Claim,"(4801, 4843)",The president has been tested,Claim,"(4929, 4958)",Support
+we are not going to raise taxes to create new jobs,Claim,"(10794, 10844)",we have a plan to create new jobs,Claim,"(10846, 10879)",Support
+"It's a put-together thing that requires some sacrifice, but not excessive",Premise,"(21261, 21334)",we are willing to move forward in -- on a 5-year clip to put us back where we can start over and get -- get this nation straightened out,Premise,"(21340, 21476)",Support
+we overcut the defense budget in the first place,Premise,"(29571, 29619)",it cost us more money,Claim,"(29541, 29562)",Support
+There is no such proposal,Claim,"(41246, 41271)",you've got it wrong,Claim,"(41050, 41069)",Attack
+I have had the same position on abortion in favor of a woman's right to choose,Claim,"(62255, 62333)",Do you support a woman's right to choose --,Premise,"(62335, 62378)",Attack
+"We want to cut taxes on middle-income families and raise them on those making more than $200,000 a year",Claim,"(69245, 69348)","your top priority really, isn't it, to make sure that the very wealthy don't have to pay any more taxes",Claim,"(69140, 69243)",Attack
+We have got to change direction,Claim,"(81829, 81860)",Trickle-down economics simply does not work,Claim,"(81647, 81690)",Attack
+the president has the integrity and the character,Claim,"(4960, 5009)",Bill Clinton does not have the strength nor the character to be president of the US,Claim,"(3927, 4010)",Attack
+"Teamwork and partnership may be fine in the Congress, Senator Gore -- that's what Congress is all about, compromise, teamwork, working things out",Premise,"(10951, 11096)",when you're president of the US,Premise,"(11102, 11133)",Support
+"It's a put-together thing that requires some sacrifice, but not excessive",Premise,"(21261, 21334)",we've got to clean out the barn,Claim,"(21055, 21086)",Support
+"I think that should be eyed with great suspicion, people that are really kicking the props out from under our grand military establishment prematurely",Claim,"(29656, 29806)",we overcut the defense budget in the first place,Premise,"(29571, 29619)",Attack
+Take Mexico City for an example,Premise,"(41568, 41599)",They are shutting down factories right now,Claim,"(41601, 41643)",Support
+There are millions of women in this country who passionately believe in the right of a woman to privacy,Premise,"(62595, 62698)",they want to stack the Supreme Court with justices who will take away the right to privacy,Premise,"(62704, 62794)",Attack
+if we can take our approach,Premise,"(69387, 69414)",the cities will be much better off,Claim,"(69416, 69450)",Support
+Bill Clinton offers a new approach,Claim,"(81862, 81896)",We have got to change direction,Claim,"(81829, 81860)",Support
+The president has been tested,Claim,"(4929, 4958)",the president has the integrity and the character,Claim,"(4960, 5009)",Support
+when you're president of the US,Premise,"(11102, 11133)",when you're vice president and you have to fill in like I did the night of the crisis in the Philippines,Premise,"(11137, 11241)",Support
+the difference between the Perot- Stockdale plan and the Clinton-Gore plan is that Ross Perot's plan concentrates almost exclusively on balancing the budget and reducing the budget deficit,Premise,"(21540, 21728)",if that is the only goal,Premise,"(21753, 21777)",Support
+"we want to focus our interests, economic and military, more to the Pacific",Premise,"(29935, 30009)",there's other differences between the Perot approach and what we see up here on either side of me,Claim,"(29812, 29909)",Support
+not because of their economy,Premise,"(41645, 41673)",they're choking to death on the air pollution,Premise,"(41687, 41732)",Support
+That is their agenda,Claim,"(62822, 62842)",they want to stack the Supreme Court with justices who will take away the right to privacy,Premise,"(62704, 62794)",Attack
+"What plan is that that's just going to raise taxes on those making over $200,000 a year",Premise,"(69523, 69610)","We want to cut taxes on middle-income families and raise them on those making more than $200,000 a year",Claim,"(69245, 69348)",Attack
+"He's moved 17,000 people off the welfare rolls and on to payrolls",Premise,"(82045, 82110)","He has been named by the other 49 governors, Republicans and Democrats alike, as the best and most effective governor in the entire US of America",Premise,"(81898, 82043)",Support
+The president has been tested,Claim,"(4929, 4958)",You need to have a president you can trust,Claim,"(5032, 5074)",Support
+when you're vice president and you have to fill in like I did the night of the crisis in the Philippines,Premise,"(11137, 11241)",you've got to make a decision,Claim,"(11243, 11272)",Support
+it could throw our nation back into an even worse recession,Claim,"(21778, 21837)",the difference between the Perot- Stockdale plan and the Clinton-Gore plan is that Ross Perot's plan concentrates almost exclusively on balancing the budget and reducing the budget deficit,Premise,"(21540, 21728)",Attack
+We figure that we are generally going along with any sort of a troop removal from Europe,Premise,"(30011, 30099)","we want to focus our interests, economic and military, more to the Pacific",Premise,"(29935, 30009)",Support
+they're choking to death on the air pollution,Premise,"(41687, 41732)",They are shutting down factories right now,Claim,"(41601, 41643)",Support
+that is exactly what they want to do,Claim,"(62906, 62942)",That is their agenda,Claim,"(62822, 62842)",Support
+It's absolutely ridiculous,Claim,"(69810, 69836)","everyone knows that you simply can't get $150 billion in new taxes by raising the marginal tax rate to a top rate of 36 % and only tax those making $200,000 a year",Premise,"(69645, 69808)",Support
+He has introduced innovations in health care and education,Premise,"(82112, 82170)","He has been named by the other 49 governors, Republicans and Democrats alike, as the best and most effective governor in the entire US of America",Premise,"(81898, 82043)",Support
+the president has the integrity and the character,Claim,"(4960, 5009)",You need to have a president you can trust,Claim,"(5032, 5074)",Support
+you've got to make a decision,Claim,"(11243, 11272)",you've got to make up your mind,Claim,"(11274, 11305)",Support
+it could throw our nation back into an even worse recession,Claim,"(21778, 21837)",if that is the only goal,Premise,"(21753, 21777)",Attack
+We figure that we are generally going along with any sort of a troop removal from Europe,Premise,"(30011, 30099)",there's other differences between the Perot approach and what we see up here on either side of me,Claim,"(29812, 29909)",Support
+They're banning automobiles some days of the week,Premise,"(41734, 41783)",they're choking to death on the air pollution,Premise,"(41687, 41732)",Support
+"if you support them, don't be surprised",Premise,"(62861, 62900)",that is exactly what they want to do,Claim,"(62906, 62942)",Support
+"What plan is that that's just going to raise taxes on those making over $200,000 a year",Premise,"(69523, 69610)","everyone knows that you simply can't get $150 billion in new taxes by raising the marginal tax rate to a top rate of 36 % and only tax those making $200,000 a year",Premise,"(69645, 69808)",Support
+he has led the nation for the last 2 years in a row in the creation of jobs in the private sector,Premise,"(82183, 82280)","He has been named by the other 49 governors, Republicans and Democrats alike, as the best and most effective governor in the entire US of America",Premise,"(81898, 82043)",Support
+We need a president who has the experience,Claim,"(4801, 4843)",You need to have a president you can trust,Claim,"(5032, 5074)",Support
+You can't have it both ways,Claim,"(11540, 11567)",you have to make a decision,Claim,"(11569, 11596)",Support
+cut the budget deficit in half,Premise,"(21914, 21944)",Bill Clinton and I have a detailed 5-year budget plan to create good jobs,Claim,"(21839, 21912)",Support
+only 5 % more,Premise,"(30410, 30423)","Under the details of our 5-year budget plan, we do propose more in defense cuts than George Bush and Dan Quayle",Claim,"(30293, 30404)",Support
+"What they want are new engines and new factories and new products that don't pollute the air and the water, but nevertheless allow them to have a decent standard of living for their people",Claim,"(41845, 42033)",what they want is not new laser-guided missile systems,Claim,"(41789, 41843)",Attack
+That is their agenda,Claim,"(62822, 62842)",that is why Dan Quayle refuses to say this evening that he supports the right of a woman to choose,Claim,"(62947, 63045)",Support
+"everyone knows that you simply can't get $150 billion in new taxes by raising the marginal tax rate to a top rate of 36 % and only tax those making $200,000 a year",Premise,"(69645, 69808)","We want to cut taxes on middle-income families and raise them on those making more than $200,000 a year",Claim,"(69245, 69348)",Attack
+"Isn't it time for a new approach, a new generation of ideas and leadership, to put our nation's people first and to get our economy moving again?",Premise,"(82282, 82427)","He has been named by the other 49 governors, Republicans and Democrats alike, as the best and most effective governor in the entire US of America",Premise,"(81898, 82043)",Support
+You need to have a president you can trust,Claim,"(5032, 5074)",Can you really trust Bill Clinton?,Premise,"(5076, 5110)",Attack
+you have to make a decision,Claim,"(11569, 11596)",you've got to make a decision,Claim,"(11243, 11272)",Support
+cut the budget deficit in half,Premise,"(21914, 21944)",eliminate the investment deficit in order to get our economy moving forward again,Premise,"(21950, 22031)",Support
+"Admiral Crowe, who I think was one of your classmates in Annapolis has endorsed the military portions of our plan, even though he was the chairman of the Joint Chiefs under George Bush",Premise,"(30425, 30492)","John White has endorsed the economic aspects of our plan, even though I believe he was the architect of Ross Perot's economic plan",Premise,"(30701, 30831)",Support
+"What they want are new engines and new factories and new products that don't pollute the air and the water, but nevertheless allow them to have a decent standard of living for their people",Claim,"(41845, 42033)",What I have called upon is a cooperative effort by the US and Europe and Asia to work together in opening up new markets throughout the world for the new technologies that are necessary in order to reconcile the imperatives of economic progress with the imperatives of environmental protection,Claim,"(41273, 41566)",Support
+I agree with Admiral Stockdale and the vast majority of Democrats and Republicans in this country.,Premise,"(63047, 63145)",so many Republicans are supporting the Clinton- Gore ticket,Claim,"(63175, 63234)",Support
+"then you have about a $40-billion shortfall -- that gets you down to $36,000 a year",Premise,"(69901, 69984)","Everybody making more than $36,000 a year will have their taxes increased if Bill Clinton is president of the US",Claim,"(69986, 70098)",Support
+We simply cannot stand to continue with this failed approach that is no good for us,Claim,"(82428, 82511)",We have got to change direction,Claim,"(81829, 81860)",Attack
+Can you really trust Bill Clinton?,Premise,"(5076, 5110)",Bill Clinton does not have the strength nor the character to be president of the US,Claim,"(3927, 4010)",Support
+you have to make a decision,Claim,"(11569, 11596)",you've got to make up your mind,Claim,"(11274, 11305)",Support
+eliminate the investment deficit in order to get our economy moving forward again,Premise,"(21950, 22031)","We have a $20-billion infrastructure fund to create a nationwide network of high-speed rail, for example, and what are called information superhighways to open up a whole universe of knowledge for our young people and to help our universities and companies that rely on new advances in the information revolution",Premise,"(22033, 22345)",Support
+"This wasn't a partisan victory that came suddenly, a few months after you took the oath of office",Premise,"(31073, 31170)","the ""we"" is the people of the US of America",Claim,"(31028, 31071)",Support
+nor should we assume that it's going to cost jobs,Claim,"(42299, 42348)",We cannot stick our heads in the sand and pretend that we don't face a global environmental crisis,Claim,"(42199, 42297)",Support
+they've turned over the party to this right wing extremist group which takes positions on issues like abortion that don't even allow exceptions for rape and incest,Premise,"(63246, 63409)",so many Republicans are supporting the Clinton- Gore ticket,Claim,"(63175, 63234)",Support
+"Everybody making more than $36,000 a year will have their taxes increased if Bill Clinton is president of the US",Claim,"(69986, 70098)",I don't know how you're going to go to urban America and say that raising taxes is good for you,Premise,"(70104, 70199)",Attack
+it is a choice between hope and fear,Claim,"(82525, 82561)",It is time to reach out for a better nation,Claim,"(82605, 82648)",Support
+I'm not a politician,Premise,"(5234, 5254)",don't expect me to use the language of the Washington insider,Claim,"(5283, 5344)",Support
+You can't have it both ways,Claim,"(11540, 11567)","Bill Clinton, running for president of the US, said this about the Persian Gulf war. He said: ""Had I been in the Senate, I would have voted with the majority, if it was a close vote. But I agreed with the arguments of the minority.""",Premise,"(11307, 11539)",Attack
+"We have a $20-billion infrastructure fund to create a nationwide network of high-speed rail, for example, and what are called information superhighways to open up a whole universe of knowledge for our young people and to help our universities and companies that rely on new advances in the information revolution",Premise,"(22033, 22345)",We also have tax incentives for investment in job-creating activities,Premise,"(22347, 22416)",Support
+"the ""we"" is the people of the US of America",Claim,"(31028, 31071)","when I heard George Bush say at the convention in Houston, that when he heard the phrase ""we won the Cold War,"" it made him wonder who the ""we"" was",Premise,"(30837, 30984)",Attack
+"Last year 35 % of our exports went to developing countries, countries where the population is expanding worldwide by as much as one billion people every ten years",Premise,"(42035, 42197)",We cannot stick our heads in the sand and pretend that we don't face a global environmental crisis,Claim,"(42199, 42297)",Support
+A new granddaughter was born in my family -- my granddaughter- -3 weeks ago,Premise,"(63952, 64027)","according to the statistics that we have -- that is, the Perot group -- the chances of her seeing a doubling of the standard of living are nil",Premise,"(64033, 64175)",Support
+"The top 2 % which you refer to, that gets you down to $64,000",Premise,"(69838, 69899)","then you have about a $40-billion shortfall -- that gets you down to $36,000 a year",Premise,"(69901, 69984)",Support
+a choice between the future and the past,Claim,"(82563, 82603)",It is time to reach out for a better nation,Claim,"(82605, 82648)",Support
+Thirty-seven years in the Navy,Premise,"(5346, 5376)",only one of them up there in Washington,Premise,"(5382, 5421)",Support
+"You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",You can't have it both ways,Claim,"(11540, 11567)",Support
+We also have tax incentives for investment in job-creating activities,Premise,"(22347, 22416)",not the kind of encouragement for short-term rip-offs like the proposal that we have had from George Bush,Premise,"(22418, 22523)",Support
+"Admiral Crowe, who I think was one of your classmates in Annapolis has endorsed the military portions of our plan, even though he was the chairman of the Joint Chiefs under George Bush",Premise,"(30425, 30492)","Under the details of our 5-year budget plan, we do propose more in defense cuts than George Bush and Dan Quayle",Claim,"(30293, 30404)",Support
+Quite the contrary,Claim,"(42350, 42368)",We cannot stick our heads in the sand and pretend that we don't face a global environmental crisis,Claim,"(42199, 42297)",Attack
+"according to the statistics that we have -- that is, the Perot group -- the chances of her seeing a doubling of the standard of living are nil",Premise,"(64033, 64175)",her children will be dead before another -- this standard of living is doubled,Premise,"(64186, 64264)",Support
+"Everybody making more than $36,000 a year will have their taxes increased if Bill Clinton is president of the US",Claim,"(69986, 70098)","I don't know how you're going to go to urban America and say, well, the best thing that we can offer is simply to raise taxes again",Premise,"(70201, 70332)",Attack
+It is time to reach out for a better nation,Claim,"(82605, 82648)",We simply cannot stand to continue with this failed approach that is no good for us,Claim,"(82428, 82511)",Attack
+only one of them up there in Washington,Premise,"(5382, 5421)",now I'm an academic,Premise,"(5427, 5446)",Support
+"You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)","Bill Clinton, running for president of the US, said this about the Persian Gulf war. He said: ""Had I been in the Senate, I would have voted with the majority, if it was a close vote. But I agreed with the arguments of the minority.""",Premise,"(11307, 11539)",Attack
+eliminate the investment deficit in order to get our economy moving forward again,Premise,"(21950, 22031)",Bill Clinton and I have a detailed 5-year budget plan to create good jobs,Claim,"(21839, 21912)",Support
+"John White has endorsed the economic aspects of our plan, even though I believe he was the architect of Ross Perot's economic plan",Premise,"(30701, 30831)","Under the details of our 5-year budget plan, we do propose more in defense cuts than George Bush and Dan Quayle",Claim,"(30293, 30404)",Support
+if we have the guts to leave,Premise,"(42460, 42488)",We are going to be able to create jobs as Japan and Germany are planning to do right now,Claim,"(42370, 42458)",Support
+we're facing a desperate situation in our economy,Claim,"(63849, 63898)",her children will be dead before another -- this standard of living is doubled,Premise,"(64186, 64264)",Attack
+We've seen it before,Premise,"(70386, 70406)",This is nothing more than a tax-and-spend platform,Claim,"(70334, 70384)",Support
+we have a much brighter future,Claim,"(82718, 82748)","We are bigger than George Bush has told us we are, as a nation",Claim,"(82650, 82712)",Attack
+Thirty-seven years in the Navy,Premise,"(5346, 5376)",don't expect me to use the language of the Washington insider,Claim,"(5283, 5344)",Support
+"You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",you have to make a decision,Claim,"(11569, 11596)",Support
+"We have a $20-billion infrastructure fund to create a nationwide network of high-speed rail, for example, and what are called information superhighways to open up a whole universe of knowledge for our young people and to help our universities and companies that rely on new advances in the information revolution",Premise,"(22033, 22345)",Bill Clinton and I have a detailed 5-year budget plan to create good jobs,Claim,"(21839, 21912)",Support
+"This wasn't a partisan victory that came suddenly, a few months after you took the oath of office",Premise,"(31073, 31170)","when I heard George Bush say at the convention in Houston, that when he heard the phrase ""we won the Cold War,"" it made him wonder who the ""we"" was",Premise,"(30837, 30984)",Attack
+earlier we heard about the auto industry and the timber industry,Premise,"(42494, 42558)","There have been 250,000 jobs lost in the automobile industry during the Reagan-Bush-Quayle years",Premise,"(42560, 42656)",Support
+Let's get on with talking about something substantive,Premise,"(64284, 64337)",we're facing a desperate situation in our economy,Claim,"(63849, 63898)",Support
+It doesn't work,Claim,"(70408, 70423)",This is nothing more than a tax-and-spend platform,Claim,"(70334, 70384)",Attack
+It is time to reach out for a better nation,Claim,"(82605, 82648)",we have a much brighter future,Claim,"(82718, 82748)",Support
+only one of them up there in Washington,Premise,"(5382, 5421)",don't expect me to use the language of the Washington insider,Claim,"(5283, 5344)",Support
+"You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",you've got to make a decision,Claim,"(11243, 11272)",Support
+We also have tax incentives for investment in job-creating activities,Premise,"(22347, 22416)",Bill Clinton and I have a detailed 5-year budget plan to create good jobs,Claim,"(21839, 21912)",Support
+"This wasn't a partisan victory that came suddenly, a few months after you took the oath of office",Premise,"(31073, 31170)",This started with Harry Truman and it was a bipartisan effort from the very beginning,Claim,"(31172, 31257)",Support
+earlier we heard about the auto industry and the timber industry,Premise,"(42494, 42558)",There have been tens of thousands of jobs lost in the timber industry,Premise,"(42658, 42727)",Support
+"I was meeting with some former gang members in Phoenix and Los Angeles and Albuquerque, New Mexico",Premise,"(70623, 70721)","when I talked to those former gang members, here's what they told me why they joined the gang",Premise,"(70727, 70820)",Support
+It is time to reach out for a better nation,Claim,"(82605, 82648)","We are bigger than George Bush has told us we are, as a nation",Claim,"(82650, 82712)",Attack
+The centerpiece of my life was the Vietnam War,Premise,"(5448, 5494)",I was there the day it started,Premise,"(5496, 5526)",Support
+"You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",you've got to make up your mind,Claim,"(11274, 11305)",Support
+not the kind of encouragement for short-term rip-offs like the proposal that we have had from George Bush,Premise,"(22418, 22523)",Bill Clinton and I have a detailed 5-year budget plan to create good jobs,Claim,"(21839, 21912)",Support
+This started with Harry Truman and it was a bipartisan effort from the very beginning,Claim,"(31172, 31257)","the ""we"" is the people of the US of America",Claim,"(31028, 31071)",Support
+There have been tens of thousands of jobs lost in the timber industry,Premise,"(42658, 42727)",What they like to do is point the finger of blame with one hand and hand out pink slips with the other hand,Premise,"(42729, 42836)",Support
+"when I talked to those former gang members, here's what they told me why they joined the gang",Premise,"(70727, 70820)",joining a gang is like joining a family,Claim,"(70839, 70878)",Support
+"With your help, we'll change this country and we can't wait to get started",Claim,"(82768, 82842)",we have a much brighter future,Claim,"(82718, 82748)",Support
+I was there the day it started,Premise,"(5496, 5526)",I led the first bombing raid against North Vietnam,Premise,"(5528, 5578)",Support
+You've got to make the decision,Claim,"(11761, 11792)","You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",Attack
+you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",When are you going to stop using our tax dollars to shut down American factories and move 'em to foreign countries and throw Americans out of work?,Claim,"(19465, 19612)",Support
+"This wasn't a partisan victory that came suddenly, a few months after you took the oath of office",Premise,"(31073, 31170)",George Bush taking credit for the Berlin Wall coming down is like the rooster taking credit for the sunrise,Premise,"(31259, 31366)",Attack
+"There have been 250,000 jobs lost in the automobile industry during the Reagan-Bush-Quayle years",Premise,"(42560, 42656)",What they like to do is point the finger of blame with one hand and hand out pink slips with the other hand,Premise,"(42729, 42836)",Support
+the gang offered support,Premise,"(70919, 70943)",it offered leadership,Premise,"(70945, 70966)",Support
+we support choice in education,Claim,"(83231, 83261)",I think of a woman in Chicago when I was talking to parents about education where she stood up and said I'm sick and tired of these schools in this city being nothing but a factory for failure,Premise,"(83022, 83214)",Attack
+I led the first bombing raid against North Vietnam,Premise,"(5528, 5578)",I was there the day it ended,Premise,"(5580, 5608)",Support
+you have to make a decision,Claim,"(11569, 11596)","You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",Attack
+"In Decaturville, Tennessee, not very far from my home, a factory was shut down right there when they were solicited by officials paid with US taxpayers' money",Premise,"(22694, 22852)",then the replacement workers in a foreign country were trained with our tax dollars and then their imports were subsidized coming back into the US,Premise,"(22858, 23004)",Support
+This started with Harry Truman and it was a bipartisan effort from the very beginning,Claim,"(31172, 31257)",George Bush taking credit for the Berlin Wall coming down is like the rooster taking credit for the sunrise,Premise,"(31259, 31366)",Attack
+They've done a poor job both with the economy and the environment,Claim,"(42838, 42903)",It's time for a change,Claim,"(42917, 42939)",Support
+it offered leadership,Premise,"(70945, 70966)",it offered comfort,Premise,"(70968, 70986)",Support
+Under President Bush's health care reform package that woman won't have to make a choice about going back to work or health care for her children,Claim,"(83735, 83880)","I was in Middletown, Ohio, talking to a welfare woman, where she said I want to go back to work and I had a job offered to me but I'm not going to take it because I have 2 children at home and the job that is offered to me doesn't have health insurance",Premise,"(83481, 83733)",Attack
+I was there the day it ended,Premise,"(5580, 5608)",I was there for everything in between,Premise,"(5614, 5651)",Support
+You can't have it both ways,Claim,"(11540, 11567)","You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",Attack
+then the replacement workers in a foreign country were trained with our tax dollars and then their imports were subsidized coming back into the US,Premise,"(22858, 23004)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Support
+"It was kind of a little lecture he gave to Ross Perot when he said those SS-18s are gone, Ross, that's done",Premise,"(31574, 31681)",he reached a deal with Boris Yeltsin to completely remove them so we can all sleep safely without any fear tonight,Premise,"(31689, 31803)",Support
+It's time for a change,Claim,"(42917, 42939)",What they like to do is point the finger of blame with one hand and hand out pink slips with the other hand,Premise,"(42729, 42836)",Attack
+it offered comfort,Premise,"(70968, 70986)",it was a way to get ahead,Premise,"(70988, 71013)",Support
+she'll have both,Premise,"(83890, 83906)",Under President Bush's health care reform package that woman won't have to make a choice about going back to work or health care for her children,Claim,"(83735, 83880)",Support
+I was there for everything in between,Premise,"(5614, 5651)","Ten years in Vietnam, aerial combat, and torture",Premise,"(5653, 5701)",Support
+you've got to make up your mind,Claim,"(11274, 11305)","You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",Attack
+"In Decaturville, Tennessee, not very far from my home, a factory was shut down right there when they were solicited by officials paid with US taxpayers' money",Premise,"(22694, 22852)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Support
+"They thought they were going to get that deal, but when he took the person in charge of the negotiations out of the State Dept and put him in charge of the reelection campaign, the deal unraveled",Premise,"(31824, 32019)",now there is no START II deal at all,Claim,"(32024, 32060)",Support
+You're talking about Roger Revelle,Premise,"(43377, 43411)",His family wrote a lengthy letter saying how terribly he had been misquoted and had his remarks taken completely out of context just before he died,Premise,"(43413, 43560)",Support
+it was a way to get ahead,Premise,"(70988, 71013)",joining a gang is like joining a family,Claim,"(70839, 70878)",Support
+"I was in Vilnius, Lithuania, Independence Square, speaking to 10,000 people in the middle of winter",Premise,"(83908, 84007)",Hundreds of people came up to me and said: God bless America,Premise,"(84009, 84069)",Support
+"Ten years in Vietnam, aerial combat, and torture",Premise,"(5653, 5701)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+you've got to make a decision,Claim,"(11243, 11272)","You cannot sit there in an international crisis and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay",Claim,"(11598, 11646)",Attack
+you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",When are you going to stop that program,Premise,"(23006, 23045)",Attack
+"They thought they were going to get that deal, but when he took the person in charge of the negotiations out of the State Dept and put him in charge of the reelection campaign, the deal unraveled",Premise,"(31824, 32019)",he reached a deal with Boris Yeltsin to completely remove them so we can all sleep safely without any fear tonight,Premise,"(31689, 31803)",Attack
+"He believed up until the day he died -- no, it's true, he died last year and just before he died, he co- authored an article which was -- had statements taken completely out of context",Premise,"(43571, 43644)",His family wrote a lengthy letter saying how terribly he had been misquoted and had his remarks taken completely out of context just before he died,Premise,"(43413, 43560)",Support
+joining a gang is like joining a family,Claim,"(70839, 70878)",Where have we come if joining a gang is like being a member of the family?,Premise,"(71015, 71089)",Attack
+has the experience,Claim,"(4825, 4843)",you need to have a president that is qualified,Claim,"(84164, 84210)",Support
+The centerpiece of my life was the Vietnam War,Premise,"(5448, 5494)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+You've got to make the decision,Claim,"(11761, 11792)",you have to make a decision,Claim,"(11569, 11596)",Support
+We do not have any program that encourages companies to close down here and to go and invest on foreign soil,Claim,"(23055, 23163)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Attack
+now there is no START II deal at all,Claim,"(32024, 32060)",I think President Bush made a very serious misstatement of fact in response to Ross Perot,Claim,"(31483, 31572)",Support
+"He believed up until the day he died -- no, it's true, he died last year and just before he died, he co- authored an article which was -- had statements taken completely out of context",Premise,"(43571, 43644)",Senator Gore's mentor had disagree with some of the scientific data that is in his book,Claim,"(43060, 43147)",Attack
+I think that families have to be strengthened,Claim,"(71157, 71202)",you don't strengthen the American family by raising taxes,Claim,"(71208, 71265)",Attack
+has been tested,Claim,"(4943, 4958)",you need to have a president that is qualified,Claim,"(84164, 84210)",Support
+I was there the day it started,Premise,"(5496, 5526)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+You've got to make the decision,Claim,"(11761, 11792)",you've got to make a decision,Claim,"(11243, 11272)",Support
+That is absolutely outrageous,Claim,"(23165, 23194)",We do not have any program that encourages companies to close down here and to go and invest on foreign soil,Claim,"(23055, 23163)",Support
+"Isn't it a fact, Dan, that every single one of those SS-18s is still there, in the silos, and under the START I treaty, only half of the silos are supposed to be dismantled, and there is no deal to get rid of the other half?",Premise,"(32098, 32322)",In fact there are serious problems,Claim,"(32062, 32096)",Support
+the vast majority of the world's scientists -- and they have worked on this extensively -- believe that we must have an effort to face up to the problems we face with the environment,Premise,"(43822, 44004)",if we just stick out heads in the sand and pretend that it's not real,Premise,"(44010, 44079)",Support
+I think that families have to be strengthened,Claim,"(71157, 71202)",Where have we come if joining a gang is like being a member of the family?,Premise,"(71015, 71089)",Attack
+you need to have a president that is qualified,Claim,"(84164, 84210)","Not one time during this evening, during 90 minutes, did Al Gore tell us why Bill Clinton is qualified to be president",Premise,"(84253, 84371)",Attack
+I led the first bombing raid against North Vietnam,Premise,"(5528, 5578)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+he's been tested,Claim,"(11833, 11849)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+That is absolutely outrageous,Claim,"(23165, 23194)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Attack
+Didn't the president make a mistake there?,Premise,"(32323, 32365)",In fact there are serious problems,Claim,"(32062, 32096)",Support
+if we just stick out heads in the sand and pretend that it's not real,Premise,"(44010, 44079)",we're not doing ourselves a favor,Claim,"(44081, 44114)",Support
+That is the group that has gotten all of the tax cuts under the Bush-Quayle administration,Premise,"(71405, 71495)",George Bush and Dan Quayle want to protect the very wealthy,Claim,"(71344, 71403)",Support
+you need to have a president that is qualified,Claim,"(84164, 84210)",He never answered my charges that Bill Clinton has trouble telling the truth,Premise,"(84373, 84449)",Attack
+I was there the day it ended,Premise,"(5580, 5608)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+he's got the experience,Claim,"(11851, 11874)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+American businesses do have business abroad,Premise,"(23206, 23249)",we've got global competition,Premise,"(23251, 23279)",Support
+In fact there are serious problems,Claim,"(32062, 32096)",now there is no START II deal at all,Claim,"(32024, 32060)",Support
+we're not doing ourselves a favor,Claim,"(44081, 44114)",we're telling our children and all future generations that we weren't willing to face up to this obligation,Claim,"(44138, 44245)",Support
+middle-income families have had tax increases under Bush and Quayle in order to finance the cuts for the very wealthy,Premise,"(71559, 71676)",Nobody here who is middle income has gotten a tax cut,Claim,"(71497, 71550)",Support
+The American people should demand that their president tell the truth,Claim,"(84472, 84541)",He never answered my charges that Bill Clinton has trouble telling the truth,Premise,"(84373, 84449)",Attack
+I was there for everything in between,Premise,"(5614, 5651)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Support
+he's got the qualification,Claim,"(11876, 11902)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+we've got global competition,Premise,"(23251, 23279)",We want businesses to expand,Premise,"(23281, 23309)",Support
+It is a commitment,Claim,"(32554, 32572)",The president does have a commitment from Boris Yeltsin to eliminate the SS-18s,Claim,"(32412, 32491)",Support
+we're telling our children and all future generations that we weren't willing to face up to this obligation,Claim,"(44138, 44245)","I believe that we have a mandate to try to solve this problem, particularly when we can do it while we create jobs in the process",Claim,"(44275, 44308)",Support
+That's what trickle-down economics is all about,Premise,"(71678, 71725)",they want to continue it,Claim,"(71731, 71755)",Support
+you need to have a president that is qualified,Claim,"(84164, 84210)",The American people should demand that their president tell the truth,Claim,"(84472, 84541)",Support
+I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",I know things about the Vietnam War better than anybody in the world,Claim,"(5703, 5771)",Equivalent
+he's got the integrity to be our president for the next 4 years,Claim,"(11904, 11967)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+We want businesses to expand,Premise,"(23281, 23309)",every job that's overseas there's 3 jobs back here to support that,Premise,"(23346, 23412)",Support
+the president of the US doesn't just negotiate with your friends in Congress,Claim,"(32824, 32900)",the president of the US deals on the international scene,Claim,"(32902, 32958)",Support
+"In the book you also suggest taxes on gasoline, taxes on utilities, taxes on carbon, taxes on timber",Premise,"(44600, 44700)",There's a whole host of taxes,Claim,"(44702, 44731)",Support
+Nobody here who is middle income has gotten a tax cut,Claim,"(71497, 71550)",George Bush and Dan Quayle want to protect the very wealthy,Claim,"(71344, 71403)",Support
+Hundreds of people came up to me and said: God bless America,Premise,"(84009, 84069)","in the next 4 years, as I said, somewhere, some time, there's going to be a crisis",Claim,"(84076, 84158)",Support
+The centerpiece of my life was the Vietnam War,Premise,"(5448, 5494)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+You've got to make the decision,Claim,"(11761, 11792)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+"never have we ever, nor would we, support the idea of someone closing down a factory here and moving overseas",Claim,"(23418, 23527)",That is absolutely outrageous,Claim,"(23165, 23194)",Support
+He's got to deal with the president of Russia,Premise,"(32960, 33005)",the president of the US deals on the international scene,Claim,"(32902, 32958)",Support
+There's a whole host of taxes,Claim,"(44702, 44731)",I don't believe raising taxes is the way to solve our environmental problems,Claim,"(44753, 44829)",Support
+they want to continue it,Claim,"(71731, 71755)",George Bush and Dan Quayle want to protect the very wealthy,Claim,"(71344, 71403)",Support
+you need to have a president that is qualified,Claim,"(84164, 84210)","in the next 4 years, as I said, somewhere, some time, there's going to be a crisis",Claim,"(84076, 84158)",Attack
+I was there the day it started,Premise,"(5496, 5526)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+you have to make a decision,Claim,"(11569, 11596)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+"never have we ever, nor would we, support the idea of someone closing down a factory here and moving overseas",Claim,"(23418, 23527)",We do not have any program that encourages companies to close down here and to go and invest on foreign soil,Claim,"(23055, 23163)",Support
+"he's got to deal with the chancellor of Germany, the prime minister of Britain, the president of France, the prime minister of Japan",Premise,"(33007, 33139)",the president of the US deals on the international scene,Claim,"(32902, 32958)",Support
+I don't believe raising taxes is the way to solve our environmental problems,Claim,"(44753, 44829)","I believe that we have a mandate to try to solve this problem, particularly when we can do it while we create jobs in the process",Claim,"(44275, 44308)",Attack
+We're proposing to also require foreign corporations to pay the same taxes that American corporations do when they do business here in the US of America,Premise,"(71757, 71909)",George Bush has not been willing to enforce the laws and collect those taxes,Premise,"(71911, 71987)",Attack
+I led the first bombing raid against North Vietnam,Premise,"(5528, 5578)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+you've got to make a decision,Claim,"(11243, 11272)",President Bush has made the decisions,Claim,"(11794, 11831)",Support
+"never have we ever, nor would we, support the idea of someone closing down a factory here and moving overseas",Claim,"(23418, 23527)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Attack
+he's got to deal with a whole host of leaders around the world,Premise,"(33143, 33205)",the president of the US deals on the international scene,Claim,"(32902, 32958)",Support
+it's been hurting for a long time,Premise,"(45035, 45068)",the auto industry is hurting,Claim,"(45005, 45033)",Support
+We're proposing to also require foreign corporations to pay the same taxes that American corporations do when they do business here in the US of America,Premise,"(71757, 71909)",We want to close that loophole and raise more money in that way,Claim,"(71989, 72052)",Support
+I was there the day it ended,Premise,"(5580, 5608)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+I was very patient in letting you get off that string of attacks,Claim,"(13051, 13115)",Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the president's bill?,Claim,"(12864, 12965)",Attack
+That's just totally ridiculous,Claim,"(23529, 23559)","never have we ever, nor would we, support the idea of someone closing down a factory here and moving overseas",Claim,"(23418, 23527)",Support
+"And the leaders sit down and they will negotiate, and they will come to agreements with people that they trust",Premise,"(33207, 33317)",the president of the US deals on the international scene,Claim,"(32902, 32958)",Support
+the auto industry is hurting,Claim,"(45005, 45033)","increasing the CAFE standards to 45 miles per gallon, like you and Bill Clinton are suggesting, will put, as I said, 300,000 people out of work",Claim,"(45074, 45217)",Support
+We want to close that loophole and raise more money in that way,Claim,"(71989, 72052)",George Bush and Dan Quayle want to protect the very wealthy,Claim,"(71344, 71403)",Attack
+I was there for everything in between,Premise,"(5614, 5651)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+I've got some points that I want to make here,Premise,"(12652, 12697)",I still haven't gotten an answer to my question on when you guys are going to start worrying about this country,Claim,"(12703, 12814)",Support
+That's just totally ridiculous,Claim,"(23529, 23559)",That is absolutely outrageous,Claim,"(23165, 23194)",Support
+"And the leaders sit down and they will negotiate, and they will come to agreements with people that they trust",Premise,"(33207, 33317)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Attack
+"increasing the CAFE standards to 45 miles per gallon, like you and Bill Clinton are suggesting, will put, as I said, 300,000 people out of work",Claim,"(45074, 45217)","You seem to say that the answer is, well, I'll just make it that much worse by increasing the CAFE standards",Premise,"(44890, 44998)",Attack
+What we're proposing is to invest in the infrastructure in cities and have targeted tax incentives for investment right in inner city areas,Claim,"(72231, 72370)","The enterprise zones represent a part of our proposal also, and strengthening the family through welfare reform",Claim,"(72372, 72483)",Support
+"Ten years in Vietnam, aerial combat, and torture",Premise,"(5653, 5701)",I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",Support
+trickle-down economics for 12 years now,Premise,"(13174, 13213)",you all still support trickle-down to the very last drop,Claim,"(13219, 13275)",Support
+That's just totally ridiculous,Claim,"(23529, 23559)",We do not have any program that encourages companies to close down here and to go and invest on foreign soil,Claim,"(23055, 23163)",Support
+the president of the US deals on the international scene,Claim,"(32902, 32958)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Attack
+you talk about the bad situation in the auto industry,Premise,"(44835, 44888)","You seem to say that the answer is, well, I'll just make it that much worse by increasing the CAFE standards",Premise,"(44890, 44998)",Support
+"The enterprise zones represent a part of our proposal also, and strengthening the family through welfare reform",Claim,"(72372, 72483)","the Bush administration has cut out -- has vetoed family leave, they have cut childhood immunization and college aid",Premise,"(72498, 72614)",Attack
+I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)","I know how governments, how American governments can be -- can be courageous",Claim,"(5852, 5928)",Support
+"concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White,",Premise,"(13320, 13585)","Mr. Baker, who's quite a capable man, said that for these last 4 years George Bush was working on the problems of the rest of the world and in the next 4 years he would target America",Premise,"(13586, 13769)",Support
+That's just totally ridiculous,Claim,"(23529, 23559)",you have used our tax dollars to subsidize the recruitment of US companies to move overseas and throw Americans out of work,Claim,"(22569, 22692)",Attack
+It is not the issue of how he avoided military service 20-some years ago,Premise,"(33396, 33468)",he does not tell the truth about it,Claim,"(33506, 33541)",Support
+we don't administer it very well,Claim,"(46080, 46112)",we have excellent technical health care,Claim,"(46035, 46074)",Attack
+What we're proposing is to invest in the infrastructure in cities and have targeted tax incentives for investment right in inner city areas,Claim,"(72231, 72370)","the Bush administration has cut out -- has vetoed family leave, they have cut childhood immunization and college aid",Premise,"(72498, 72614)",Attack
+"I know how governments, how American governments can be -- can be courageous",Claim,"(5852, 5928)",how they can be callow,Claim,"(5934, 5956)",Support
+we really appreciate that,Premise,"(13796, 13821)","Mr. Baker, who's quite a capable man, said that for these last 4 years George Bush was working on the problems of the rest of the world and in the next 4 years he would target America",Premise,"(13586, 13769)",Attack
+"it happened in Tennessee, in Decaturville, Tennessee",Premise,"(23592, 23644)",It's going on right now,Claim,"(23567, 23590)",Support
+he does not tell the truth about it,Claim,"(33506, 33541)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Support
+there's no incentive for a hypochondriac not to go to the -- to Medicare every day,Premise,"(46382, 46464)","the incentives that are in our current way of doing business, are what are killing us",Claim,"(46284, 46369)",Support
+"If you don't support parents and you don't support children, how -- how can you say you support families?",Premise,"(72616, 72721)","the Bush administration has cut out -- has vetoed family leave, they have cut childhood immunization and college aid",Premise,"(72498, 72614)",Attack
+how they can be callow,Claim,"(5934, 5956)",that's important,Claim,"(5962, 5978)",Support
+we really appreciate that,Premise,"(13796, 13821)",Bill Clinton and I will target America from day one,Claim,"(13827, 13878)",Support
+It's going on right now,Claim,"(23567, 23590)",That's just totally ridiculous,Claim,"(23529, 23559)",Attack
+It is not the issue of how he avoided military service 20-some years ago,Premise,"(33396, 33468)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Support
+we don't administer it very well,Claim,"(46080, 46112)","the incentives that are in our current way of doing business, are what are killing us",Claim,"(46284, 46369)",Support
+We support the public school choice to go to any public school of your choice,Claim,"(73027, 73104)",What we don't support -- and listen to what they're proposing -- to take US taxpayer dollars and subsidize private schools,Claim,"(73106, 73228)",Attack
+"I know how governments, how American governments can be -- can be courageous",Claim,"(5852, 5928)",that's important,Claim,"(5962, 5978)",Support
+we really appreciate that,Premise,"(13796, 13821)","concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White,",Premise,"(13320, 13585)",Attack
+It's going on right now,Claim,"(23567, 23590)","never have we ever, nor would we, support the idea of someone closing down a factory here and moving overseas",Claim,"(23418, 23527)",Attack
+"He first said he didn't get an induction notice, then we find out that he did",Premise,"(33543, 33620)","he said he didn't have an ROTC slot, then we find out he did",Premise,"(33622, 33682)",Support
+"the escalating costs top any other budget danger in the -- on the horizon, I think.",Claim,"(46118, 46201)",we don't administer it very well,Claim,"(46080, 46112)",Support
+that is a ripoff of the US taxpayer,Claim,"(73520, 73555)",What we don't support -- and listen to what they're proposing -- to take US taxpayer dollars and subsidize private schools,Claim,"(73106, 73228)",Attack
+that's important,Claim,"(5962, 5978)",That's one thing I'm an insider on,Claim,"(5980, 6014)",Support
+Bill Clinton and I will target America from day one,Claim,"(13827, 13878)","Mr. Baker, who's quite a capable man, said that for these last 4 years George Bush was working on the problems of the rest of the world and in the next 4 years he would target America",Premise,"(13586, 13769)",Attack
+It's going on right now,Claim,"(23567, 23590)",That is absolutely outrageous,Claim,"(23165, 23194)",Attack
+"he said he didn't have an ROTC slot, then we find out he did",Premise,"(33622, 33682)","he said he didn't use Senator Fulbright's office for special influence, then we find out that he did",Premise,"(33684, 33784)",Support
+There is no incentive for a doctor to curtail the expensive tests because he's under threat of malpractice lawyers,Premise,"(46466, 46580)","the incentives that are in our current way of doing business, are what are killing us",Claim,"(46284, 46369)",Support
+This is a very- -this is a very important issue.,Premise,"(73583, 73631)",Choice in education is a very important issue,Claim,"(73632, 73677)",Support
+I know some things about the Vietnam War better than anybody in the world,Claim,"(5773, 5846)",That's one thing I'm an insider on,Claim,"(5980, 6014)",Support
+Bill Clinton and I will target America from day one,Claim,"(13827, 13878)","concentrating on every other country in the world as opposed to the people of our country right here at home, when George Bush took former Secretary of State Baker out of the State Dept and put him in charge of the campaign and made him chief of staff in the White,",Premise,"(13320, 13585)",Attack
+It's going on right now,Claim,"(23567, 23590)",We do not have any program that encourages companies to close down here and to go and invest on foreign soil,Claim,"(23055, 23163)",Attack
+"he said he didn't use Senator Fulbright's office for special influence, then we find out that he did",Premise,"(33684, 33784)",These are inconsistencies,Premise,"(33786, 33811)",Support
+we just have a web of wrong-way incentives that has to be changed by some people who are in the medical profession and some other crafty people who know how to write contracts to change incentives or get -- get the -- the incentives situation under control,Claim,"(46595, 46851)","the incentives that are in our current way of doing business, are what are killing us",Claim,"(46284, 46369)",Support
+"Now I'm all for private schools, but to use taxpayer dollars, when the people who get these little vouchers often won't be able to afford the private school anyway",Premise,"(73230, 73393)",that is a ripoff of the US taxpayer,Claim,"(73520, 73555)",Support
+I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam,Premise,"(6016, 6120)",That's one thing I'm an insider on,Claim,"(5980, 6014)",Support
+We won't wait 4 years before we concentrate on the problems in this country,Claim,"(13880, 13955)",Bill Clinton and I will target America from day one,Claim,"(13827, 13878)",Support
+"When George Bush went to Nashville, the employees who lost their jobs asked to meet with",Premise,"(23646, 23734)","it happened in Tennessee, in Decaturville, Tennessee",Premise,"(23592, 23644)",Support
+"he said he didn't have an ROTC slot, then we find out he did",Premise,"(33622, 33682)",These are inconsistencies,Premise,"(33786, 33811)",Support
+if a criminal has the right to a lawyer,Premise,"(46912, 46951)",every American family ought to have the right to see a doctor of their own choosing when they need to see a doctor,Claim,"(46953, 47067)",Support
+I think that it's time that all parents in America have a right to choose where they send their kids to school to get an education,Claim,"(74031, 74161)",We support the public school choice to go to any public school of your choice,Claim,"(73027, 73104)",Attack
+You should know that the American character displayed in those dungeons by those fine men was a thing of beauty,Premise,"(6122, 6233)",I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam,Premise,"(6016, 6120)",Support
+We won't wait 4 years before we concentrate on the problems in this country,Claim,"(13880, 13955)","Mr. Baker, who's quite a capable man, said that for these last 4 years George Bush was working on the problems of the rest of the world and in the next 4 years he would target America",Premise,"(13586, 13769)",Attack
+"When George Bush went to Nashville, the employees who lost their jobs asked to meet with",Premise,"(23646, 23734)",They want to know where they're going to get new jobs when their jobs have been destroyed.,Claim,"(23871, 23961)",Support
+"He first said he didn't get an induction notice, then we find out that he did",Premise,"(33543, 33620)",These are inconsistencies,Premise,"(33786, 33811)",Support
+every American family ought to have the right to see a doctor of their own choosing when they need to see a doctor,Claim,"(46953, 47067)",There are almost 40 million Americans who work full time today and yet have no health insurance whatsoever,Premise,"(47069, 47175)",Attack
+it's okay for the wealthy to choose to send their kids to private schools,Premise,"(73840, 73913)",he said that he was not for choosing -- giving the parents the right to choose to send their children to public schools,Premise,"(73715, 73834)",Attack
+You should know that the American character displayed in those dungeons by those fine men was a thing of beauty,Premise,"(6122, 6233)",That's one thing I'm an insider on,Claim,"(5980, 6014)",Support
+it's time that we had a president like Bill Clinton who can concentrate and will concentrate and work on the problems of real people in this country,Claim,"(14052, 14200)",it's really amazing what George Bush can do when he concentrates,Premise,"(13980, 14044)",Attack
+They want to know where they're going to get new jobs when their jobs have been destroyed.,Claim,"(23871, 23961)",there are 1.4 million manufacturing jobs that have been lost,Claim,"(23966, 24026)",Support
+These are inconsistencies,Premise,"(33786, 33811)",Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)",Support
+"We are proposing to change that, not with a government-run plan, not with new taxes, but with a new approach called managed competition",Premise,"(47177, 47312)",There are almost 40 million Americans who work full time today and yet have no health insurance whatsoever,Premise,"(47069, 47175)",Attack
+it's not okay for the middle class and the working poor to choose where they want to send their kids to school,Premise,"(73919, 74029)",it's okay for the wealthy to choose to send their kids to private schools,Premise,"(73840, 73913)",Attack
+"I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans",Premise,"(6235, 6396)",That's one thing I'm an insider on,Claim,"(5980, 6014)",Support
+it's time that we had a president like Bill Clinton who can concentrate and will concentrate and work on the problems of real people in this country,Claim,"(14052, 14200)",Bill Clinton and I will target America from day one,Claim,"(13827, 13878)",Support
+because of the policies of you and George Bush,Premise,"(24027, 24073)",there are 1.4 million manufacturing jobs that have been lost,Claim,"(23966, 24026)",Support
+Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Support
+"We are proposing to change that, not with a government-run plan, not with new taxes, but with a new approach called managed competition",Premise,"(47177, 47312)",every American family ought to have the right to see a doctor of their own choosing when they need to see a doctor,Claim,"(46953, 47067)",Support
+I come down on the side of freedom of school choice,Premise,"(74270, 74321)",I think that it's time that all parents in America have a right to choose where they send their kids to school to get an education,Claim,"(74031, 74161)",Support
+You should know that the American character displayed in those dungeons by those fine men was a thing of beauty,Premise,"(6122, 6233)","I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans",Premise,"(6235, 6396)",Support
+our country is in trouble,Premise,"(14212, 14237)",We simply cannot continue with this philosophy of giving huge tax cuts to the very wealthy,Claim,"(14239, 14329)",Support
+there are 1.4 million manufacturing jobs that have been lost,Claim,"(23966, 24026)",Do you seriously believe that we ought to continue the same policies that have created the worst economy since the Great Depression?,Claim,"(24075, 24207)",Attack
+truth and integrity are prerequisites to being president of the US,Premise,"(34017, 34083)",he will have a very difficult time dealing with somebody like President Yeltsin or Chancellor Kohl or Prime Minister Major or President Mitterrand,Claim,"(33861, 34007)",Support
+every American family ought to have the right to see a doctor of their own choosing when they need to see a doctor,Claim,"(46953, 47067)","We are going to provide a standard health insurance package provided by private insurance companies and eliminate the duplication and red tape, and overlap",Claim,"(47314, 47469)",Support
+I think that it's time that all parents in America have a right to choose where they send their kids to school to get an education,Claim,"(74031, 74161)",it's not okay for the middle class and the working poor to choose where they want to send their kids to school,Premise,"(73919, 74029)",Attack
+I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam,Premise,"(6016, 6120)","I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans",Premise,"(6235, 6396)",Support
+We simply cannot continue with this philosophy of giving huge tax cuts to the very wealthy,Claim,"(14239, 14329)",raising taxes on middle income families the way Bush and Quayle have done,Claim,"(14331, 14404)",Support
+Let me tell you what they're feeling,Premise,"(23794, 23830)",They want to know where they're going to get new jobs when their jobs have been destroyed.,Claim,"(23871, 23961)",Support
+truth and integrity are prerequisites to being president of the US,Premise,"(34017, 34083)","this is a fundamental problem with Bill Clinton, is trust and character",Claim,"(33323, 33394)",Attack
+"We are going to provide a standard health insurance package provided by private insurance companies and eliminate the duplication and red tape, and overlap",Claim,"(47314, 47469)",we're going to have cost controls to eliminate the unnecessary procedures that are costing so much money today,Claim,"(47475, 47585)",Support
+I think that it's time that all parents in America have a right to choose where they send their kids to school to get an education,Claim,"(74031, 74161)",it's okay for the wealthy to choose to send their kids to private schools,Premise,"(73840, 73913)",Attack
+Why am I here tonight?,Premise,"(6398, 6420)",I have in my brain and in my heart what it takes to lead America through tough times,Claim,"(6439, 6523)",Support
+raising taxes on middle income families the way Bush and Quayle have done,Claim,"(14331, 14404)",then waiting for it to work,Claim,"(14409, 14436)",Support
+Some of them are in their 50s and 60s.,Premise,"(23832, 23870)",They want to know where they're going to get new jobs when their jobs have been destroyed.,Claim,"(23871, 23961)",Support
+he will have a very difficult time dealing with somebody like President Yeltsin or Chancellor Kohl or Prime Minister Major or President Mitterrand,Claim,"(33861, 34007)",Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)",Support
+we're going to have cost controls to eliminate the unnecessary procedures that are costing so much money today,Claim,"(47475, 47585)",ours will save tens of billions of dollars and cover every American,Claim,"(47733, 47800)",Support
+I think that it's time that all parents in America have a right to choose where they send their kids to school to get an education,Claim,"(74031, 74161)",he said that he was not for choosing -- giving the parents the right to choose to send their children to public schools,Premise,"(73715, 73834)",Attack
+That's one thing I'm an insider on,Claim,"(5980, 6014)",I have in my brain and in my heart what it takes to lead America through tough times,Claim,"(6439, 6523)",Support
+then waiting for it to work,Claim,"(14409, 14436)",you all still support trickle-down to the very last drop,Claim,"(13219, 13275)",Attack
+the first thing that Bill Clinton and I are going to do is to raise $150 billion in new taxes,Claim,"(24274, 24367)",Do you seriously believe that we ought to continue the same policies that have created the worst economy since the Great Depression?,Claim,"(24075, 24207)",Attack
+"he said that he wouldn't raise taxes again -- no, never, ever, ever",Premise,"(34523, 34590)","George Bush, in case you've forgotten, Dan, said ""Read my lips -- no new taxes.""",Premise,"(34156, 34236)",Support
+"We are going to provide a standard health insurance package provided by private insurance companies and eliminate the duplication and red tape, and overlap",Claim,"(47314, 47469)",ours will save tens of billions of dollars and cover every American,Claim,"(47733, 47800)",Support
+"for the last, almost a decade, we've worried about our schools officially through Washington",Premise,"(74460, 74552)","the president had a meeting of all the governors, and then they tried the conventional fixes for schools, that is, to increase the certification of -- requirements for the teachers, to lengthen the school day, to lengthen the school year and nothing -- this is a very brief overview of the thing",Premise,"(74558, 74853)",Support
+"How much longer will it take, Dan, for trickle down economics to work, in your theory?",Premise,"(14438, 14524)",then waiting for it to work,Claim,"(14409, 14436)",Support
+I talked with them.,Premise,"(23774, 23793)",Let me tell you what they're feeling,Premise,"(23794, 23830)",Support
+"Which is it, Dan? Is he going to -- what's your role in this going to be?",Claim,"(34958, 35031)","then a week later, in the debate a few nights ago, he said, no, after the election, if we win, James Baker is going to be in charge of domestic policy",Premise,"(34806, 34956)",Attack
+ours will save tens of billions of dollars and cover every American,Claim,"(47733, 47800)","The Bush proposal, by contrast, will cost us tens of billions and still leave Americans uninsured",Claim,"(47802, 47899)",Attack
+but nothing happened,Premise,"(74857, 74877)","the president had a meeting of all the governors, and then they tried the conventional fixes for schools, that is, to increase the certification of -- requirements for the teachers, to lengthen the school day, to lengthen the school year and nothing -- this is a very brief overview of the thing",Premise,"(74558, 74853)",Attack
+"How much longer will it take, Dan, for trickle down economics to work, in your theory?",Premise,"(14438, 14524)",you all still support trickle-down to the very last drop,Claim,"(13219, 13275)",Attack
+the first thing that Bill Clinton and I are going to do is to raise $150 billion in new taxes,Claim,"(24274, 24367)",I talked with them.,Premise,"(23774, 23793)",Attack
+"Which is it, Dan? Is he going to -- what's your role in this going to be?",Claim,"(34958, 35031)","2 weeks ago he said that after the election, if you win, then James Baker's going to go back to be secretary of state",Premise,"(34687, 34804)",Attack
+President Bush has had his health care reform agenda on Capitol Hill for 8 months,Claim,"(48194, 48275)","But what I want to know is, why has George Bush waited for 3 and a half years during this health insurance crisis before finally coming out with a proposal, just before the election, and he still hasn't introduced it in Congress",Claim,"(47901, 48129)",Attack
+"In schools, bureaucracy is bad and autonomy is good",Claim,"(74927, 74978)",it's time to change the school's structure,Claim,"(74883, 74925)",Support
+"Well, we're going to have plenty of time to talk about trickle down government, which you're for.",Claim,"(14533, 14630)",then waiting for it to work,Claim,"(14409, 14436)",Attack
+You got that wrong,Claim,"(24375, 24393)",the first thing that Bill Clinton and I are going to do is to raise $150 billion in new taxes,Claim,"(24274, 24367)",Attack
+"2 weeks ago he said that after the election, if you win, then James Baker's going to go back to be secretary of state",Premise,"(34687, 34804)","then a week later, in the debate a few nights ago, he said, no, after the election, if we win, James Baker is going to be in charge of domestic policy",Premise,"(34806, 34956)",Support
+He's had parts of it up there for years,Claim,"(48277, 48316)",President Bush has had his health care reform agenda on Capitol Hill for 8 months,Claim,"(48194, 48275)",Support
+"for the last, almost a decade, we've worried about our schools officially through Washington",Premise,"(74460, 74552)",it's time to change the school's structure,Claim,"(74883, 74925)",Support
+"Oh, I'll be happy to answer that question",Claim,"(14879, 14920)","which you have failed to address, and that is, why is Bill Clinton qualified to be president of the US",Claim,"(14746, 14848)",Attack
+that is part of your plan,Claim,"(24425, 24450)",You got that wrong,Claim,"(24375, 24393)",Attack
+"the next day his spokesman, Marlin Fitzwater, came out and said that's not a pledge",Claim,"(34597, 34680)","he said that he wouldn't raise taxes again -- no, never, ever, ever",Premise,"(34523, 34590)",Attack
+He's had parts of it up there for years,Claim,"(48277, 48316)",You talk about increasing costs that the president has had on Capitol Hill- - medical malpractice reform legislation -- for several years,Claim,"(48318, 48455)",Support
+"the best thing I had when I ran that civilization, it succeeded, and it's a landmark",Premise,"(75164, 75248)",The best thing I had going for me was I had no contact with Washington for all those years,Premise,"(75250, 75340)",Support
+But he was the minority,Premise,"(16259, 16282)","this is the Persian Gulf War -- the most important event in his political lifetime and here's what Bill Clinton says. If it's a close vote, I'd vote with the majority",Premise,"(16026, 16192)",Attack
+that is part of your plan,Claim,"(24425, 24450)",the first thing that Bill Clinton and I are going to do is to raise $150 billion in new taxes,Claim,"(24274, 24367)",Support
+"the next day his spokesman, Marlin Fitzwater, came out and said that's not a pledge",Claim,"(34597, 34680)",He also said he wanted to be the environmental president,Premise,"(34396, 34452)",Attack
+Defense medicine defined as testing and treatment that is only necessary in case of a law suit,Premise,"(48518, 48612)",Defensive medicine and health care today cost $20.7 billion,Premise,"(48457, 48516)",Support
+That qualifies you for being president of the US.,Claim,"(16284, 16333)","this is the Persian Gulf War -- the most important event in his political lifetime and here's what Bill Clinton says. If it's a close vote, I'd vote with the majority",Premise,"(16026, 16192)",Attack
+"No, it's not",Claim,"(24458, 24470)",that is part of your plan,Claim,"(24425, 24450)",Attack
+"he said that he wouldn't raise taxes again -- no, never, ever, ever",Premise,"(34523, 34590)",he went on to say he wanted to be the education president,Premise,"(34459, 34516)",Attack
+Defensive medicine and health care today cost $20.7 billion,Premise,"(48457, 48516)",Wouldn't that be nice to take $20.7 billion that we're putting into our legal system and put it to preventive health care or women's health care or something else besides trial lawyers?,Premise,"(48614, 48799)",Support
+But he was the minority,Premise,"(16259, 16282)",That qualifies you for being president of the US.,Claim,"(16284, 16333)",Support
+"No, it's not",Claim,"(24458, 24470)",You got that wrong,Claim,"(24375, 24393)",Support
+you don't want to reform the health care system to drive down costs through medical malpractice,Claim,"(48810, 48905)",Wouldn't that be nice to take $20.7 billion that we're putting into our legal system and put it to preventive health care or women's health care or something else besides trial lawyers?,Premise,"(48614, 48799)",Attack
+I hope America is listening very closely to this debate tonight.,Premise,"(16334, 16398)",That qualifies you for being president of the US.,Claim,"(16284, 16333)",Support
+A hundred and fifty billion dollars in new taxes,Claim,"(24480, 24528)","No, it's not",Claim,"(24458, 24470)",Attack
+you are talking about a government program,Premise,"(48928, 48970)",Your program is to ration health care,Claim,"(48972, 49009)",Support
+I think America is seeing right now the reason this nation is in gridlock,Claim,"(16414, 16487)",That qualifies you for being president of the US.,Claim,"(16284, 16333)",Attack
+"Well, you're going to disavow your plan",Premise,"(24530, 24569)",A hundred and fifty billion dollars in new taxes,Claim,"(24480, 24528)",Support
+Your program is to ration health care,Claim,"(48972, 49009)",You said in your statement to see a doctor when you want to see a doctor,Premise,"(49011, 49083)",Support
+"The trickle downs and the tax and spends, or whatever you want to call them are at swords points",Premise,"(16510, 16606)",I think America is seeing right now the reason this nation is in gridlock,Claim,"(16414, 16487)",Support
+"Well, you're going to disavow your plan",Premise,"(24530, 24569)","No, it's not",Claim,"(24458, 24470)",Attack
+You said in your statement to see a doctor when you want to see a doctor,Premise,"(49011, 49083)",When you start rationing health care there's going to be a waiting line to see a doctor unless it's an emergency,Claim,"(49085, 49197)",Support
+We can't get this economy going,Premise,"(16608, 16639)",I think America is seeing right now the reason this nation is in gridlock,Claim,"(16414, 16487)",Support
+"A Clinton is, is what he says -- he says one thing one day and another thing the next day -- you try to have both sides of the issues",Claim,"(24772, 24905)",you are proposing $150 billion in new taxes,Claim,"(24938, 24981)",Support
+Remember when we rationed energy in this country? Waiting lines at the gasoline stations,Premise,"(49199, 49287)",The same thing would happen when you ration health care,Claim,"(49289, 49344)",Support
+"The trickle downs and the tax and spends, or whatever you want to call them are at swords points",Premise,"(16510, 16606)",We can't get this economy going,Premise,"(16608, 16639)",Support
+you are proposing $150 billion in new taxes,Claim,"(24938, 24981)",A hundred and fifty billion dollars in new taxes,Claim,"(24480, 24528)",Support
+The same thing would happen when you ration health care,Claim,"(49289, 49344)",When you start rationing health care there's going to be a waiting line to see a doctor unless it's an emergency,Claim,"(49085, 49197)",Support
+We can't get this economy going,Premise,"(16608, 16639)",we've got Dan whose president is going to take 8 years to balance the budget,Premise,"(16651, 16727)",Support
+you are proposing $150 billion in new taxes,Claim,"(24938, 24981)","No, it's not",Claim,"(24458, 24470)",Attack
+When you start rationing health care there's going to be a waiting line to see a doctor unless it's an emergency,Claim,"(49085, 49197)",Your program is to ration health care,Claim,"(48972, 49009)",Attack
+we've got Dan whose president is going to take 8 years to balance the budget,Premise,"(16651, 16727)","the senator, whose boss is going to get it half way balanced in 4 years",Premise,"(16744, 16815)",Support
+No,Claim,"(6107, 6109)",you are proposing $150 billion in new taxes,Claim,"(24938, 24981)",Attack
+The same thing would happen when you ration health care,Claim,"(49289, 49344)",Your program is to ration health care,Claim,"(48972, 49009)",Attack
+Ross Perot has got a plan to balance the budget 5 years in length from start to finish,Claim,"(16817, 16903)","the senator, whose boss is going to get it half way balanced in 4 years",Premise,"(16744, 16815)",Attack
+No,Claim,"(6107, 6109)",You can say it all you want but it doesn't make it true,Claim,"(25116, 25171)",Support
+"The president's proposal deals with tax credits, deductions and purchasing health care in the private sector and making health care affordable and available to every single American",Claim,"(49346, 49527)",The same thing would happen when you ration health care,Claim,"(49289, 49344)",Attack
+Ross Perot has got a plan to balance the budget 5 years in length from start to finish,Claim,"(16817, 16903)",we've got Dan whose president is going to take 8 years to balance the budget,Premise,"(16651, 16727)",Attack
+You can say it all you want but it doesn't make it true,Claim,"(25116, 25171)",I hope you talked to them about the fact that you were going to increase spending to $220 billion.,Claim,"(25209, 25307)",Attack
+He didn't wait 3 and a half years,Claim,"(49875, 49908)",We still didn't get an answer to the question of why George Bush waited for 3 and a half years,Claim,"(49769, 49863)",Attack
+people of the non-professional category who are just sick of this terrible thing that's happened to the country,Premise,"(16918, 17029)",I think America is seeing right now the reason this nation is in gridlock,Claim,"(16414, 16487)",Support
+You can say it all you want but it doesn't make it true,Claim,"(25116, 25171)",you are proposing $150 billion in new taxes,Claim,"(24938, 24981)",Attack
+I did answer the question,Claim,"(49950, 49975)",We still didn't get an answer to the question of why George Bush waited for 3 and a half years,Claim,"(49769, 49863)",Attack
+we've got a man who knows how to fix it,Claim,"(17035, 17074)",Ross Perot has got a plan to balance the budget 5 years in length from start to finish,Claim,"(16817, 16903)",Support
+He wants to go out and to reform the health care system so that every American will have available to them affordable health insurance,Premise,"(25444, 25578)","I'm sure what you didn't talk to them about was about how we're going to reform the health care system, like the president wants to do",Claim,"(25308, 25442)",Support
+it still hasn't been submitted to Congress in the form of legislation,Premise,"(50046, 50115)",We still didn't get an answer to the question of why George Bush waited for 3 and a half years,Claim,"(49769, 49863)",Support
+"one other thing that you didn't talk to them about, Senator, and that is legal reform",Claim,"(25589, 25674)",your position on legal reform is the status quo,Premise,"(25684, 25731)",Attack
+Do you know which state has the lowest malpractice premiums in the entire country?,Premise,"(50175, 50257)",Bill Clinton's Arkansas does,Claim,"(50258, 50286)",Support
+Why should an American company have to spend 15 to 20 times on product liability and insurance costs compared to a company in Japan or a company in Germany or somewhere else,Premise,"(25777, 25950)",That's not right,Claim,"(25952, 25968)",Support
+he has passed reform measures limiting the time during which malpractice suits can be filed,Premise,"(50305, 50396)",Bill Clinton's Arkansas does,Claim,"(50258, 50286)",Support
+We have product liability reform legislation on Capitol Hill,Premise,"(25970, 26030)",It will create jobs,Claim,"(26032, 26051)",Support
+tort claims generally have fallen 10 % under Bill Clinton there,Premise,"(50407, 50470)",Bill Clinton's Arkansas does,Claim,"(50258, 50286)",Support
+It will create jobs,Claim,"(26032, 26051)",a Democratic Congress won't pass it,Claim,"(26057, 26092)",Attack
+"The reason is, we've had absolutely no leadership",Claim,"(50542, 50591)",that's not the reason for this health insurance crisis,Claim,"(50486, 50540)",Attack
+"Let me tell you about a friend of mine named Mitch Philpot from Marietta, Georgia -- not far from here -- who Tipper and I met with his family in Johns Hopkins Hospital",Premise,"(50593, 50761)","Their son, Brett, was in the bed next to our son and they couldn't pay their medical bills",Premise,"(50763, 50853)",Support
+"Their son, Brett, was in the bed next to our son and they couldn't pay their medical bills",Premise,"(50763, 50853)","They used to live in Atlanta, but they lost their house",Premise,"(50855, 50910)",Support
+"They used to live in Atlanta, but they lost their house",Premise,"(50855, 50910)","while they were there, both Mitch and his wife lost their jobs because they could not get unpaid leave",Premise,"(50916, 51018)",Support
+"while they were there, both Mitch and his wife lost their jobs because they could not get unpaid leave",Premise,"(50916, 51018)","We pass legislation to give family leave under circumstances like that, exempting small business",Claim,"(51020, 51116)",Support
+"The reason is, we've had absolutely no leadership",Claim,"(50542, 50591)","How can you talk about family values, Dan, and twice veto the Family Medical Leave Act?",Claim,"(51118, 51205)",Attack
+"Pass our Family Leave Act,",Premise,"(51251, 51277)",it goes to small businesses where the major problem is,Claim,"(51286, 51340)",Support
+it goes to small businesses where the major problem is,Claim,"(51286, 51340)",Your proposal excluded small business,Premise,"(51342, 51379)",Attack
+That's the problem,Claim,"(51381, 51399)",Your proposal excluded small business,Premise,"(51342, 51379)",Attack
+That's the problem,Claim,"(51381, 51399)",it goes to small businesses where the major problem is,Claim,"(51286, 51340)",Support
+Did you require it?,Premise,"(51449, 51468)",Did you require it?,Premise,"(51449, 51468)",Support
+Did you require it?,Premise,"(51449, 51468)",Did you require family leave in that legislation?,Premise,"(51738, 51787)",Support
+We offered incentives to small businesses.,Premise,"(51807, 51849)",Was small business exempted under your proposal?,Premise,"(51900, 51948)",Support
+And that's where the biggest problem is,Claim,"(51973, 52012)",Yes,Claim,"(28470, 28473)",Attack
+"because he obviously doesn't want to talk about health insurance or health care, which you address",Claim,"(52151, 52249)",Did you require family leave in that legislation?,Premise,"(51738, 51787)",Attack
+here you go again,Premise,"(52353, 52370)",You pulled another Clinton on me,Claim,"(52312, 52344)",Support
+you tried to convince the American people that Bill Clinton is for tort reform,Claim,"(52447, 52525)",The biggest campaign contributors to your campaign are the trial lawyers of America,Premise,"(52527, 52610)",Attack
+You pulled another Clinton on me,Claim,"(52312, 52344)",you tried to convince the American people that Bill Clinton is for tort reform,Claim,"(52447, 52525)",Support
+if the media is interested,Premise,"(52682, 52708)",the head of the trial lawyers of Arkansas said that Bill Clinton was basically in their back pocket,Premise,"(52718, 52817)",Support
+the head of the trial lawyers of Arkansas said that Bill Clinton was basically in their back pocket,Premise,"(52718, 52817)",Bill Clinton has always opposed tort reform of any kind,Premise,"(52824, 52879)",Support
+we're going to release it again to the media,Claim,"(52636, 52680)",if the media is interested,Premise,"(52682, 52708)",Support
+The biggest campaign contributors to your campaign are the trial lawyers of America,Premise,"(52527, 52610)",the head of the trial lawyers of Arkansas said that Bill Clinton was basically in their back pocket,Premise,"(52718, 52817)",Support
+It's in the letter,Premise,"(52881, 52899)",we have it,Premise,"(52901, 52911)",Support
+we have it,Premise,"(52901, 52911)",we'll make it available,Claim,"(52913, 52936)",Support
+Bill Clinton is not for tort reform,Claim,"(52948, 52983)",we'll make it available,Claim,"(52913, 52936)",Support
+we're going to release it again to the media,Claim,"(52636, 52680)",we'll make it available,Claim,"(52913, 52936)",Support
+Bill Clinton has always opposed tort reform of any kind,Premise,"(52824, 52879)",Bill Clinton is not for tort reform,Claim,"(52948, 52983)",Support
+"When he was campaigning in New Hampshire, he said I am for the pay-or-play health insurance",Premise,"(53049, 53140)","Pay or play, that's a 7 to 9 % payroll tax on every worker in America that participates in this program",Premise,"(53142, 53245)",Support
+"When he was campaigning in New Hampshire, he said I am for the pay-or-play health insurance",Premise,"(53049, 53140)","then, all of a sudden, this summer he says, oh, I'm not for a pay or play",Premise,"(53280, 53353)",Attack
+"then, all of a sudden, this summer he says, oh, I'm not for a pay or play",Premise,"(53280, 53353)","one day he's for pay or play, the next day he's against pay or play",Claim,"(53387, 53454)",Support
+"then he goes to the NEA teachers union and says, sorry, I'm not for choice in education because you won't let me be for choice in education",Premise,"(53596, 53735)","He writes Polly Williams, a Democrat state legislator in Milwaukee, Wisconsin, saying I'm for choice in education",Premise,"(53481, 53594)",Attack
+"He writes Polly Williams, a Democrat state legislator in Milwaukee, Wisconsin, saying I'm for choice in education",Premise,"(53481, 53594)",He does it in education,Claim,"(53456, 53479)",Support
+"then he goes to the NEA teachers union and says, sorry, I'm not for choice in education because you won't let me be for choice in education",Premise,"(53596, 53735)",He does it in education,Claim,"(53456, 53479)",Support
+It's not going to be mine,Claim,"(54002, 54027)",it's going to be people like you and Kennedy and Metzenbaum and George Mitchell and the rest of that Democratic Congress on Capitol Hill -- that's who we're talking about,Claim,"(54029, 54199)",Attack
+you've got term limits for a president,Premise,"(54268, 54306)",you don't have term limits for Congress,Premise,"(54308, 54347)",Support
+I think it's absolutely ridiculous that we don't,Claim,"(54353, 54401)",you don't have term limits for Congress,Premise,"(54308, 54347)",Attack
+I think it's absolutely ridiculous that we don't,Claim,"(54353, 54401)","Bill Clinton says term limits -- we ought to limit terms, it's ridiculous that a member of Congress can serve for 30, 40, 50 years, and you limit the terms of the president",Premise,"(53746, 53918)",Attack
+"Then his Democratic friends in Congress say, no, Bill, you can't be for that",Premise,"(54575, 54651)","Here goes Bill Clinton again: he says, well, term limits, that's an interesting idea, I think I might be in favor of that",Premise,"(54452, 54573)",Attack
+"Here goes Bill Clinton again: he says, well, term limits, that's an interesting idea, I think I might be in favor of that",Premise,"(54452, 54573)","Bill Clinton says term limits -- we ought to limit terms, it's ridiculous that a member of Congress can serve for 30, 40, 50 years, and you limit the terms of the president",Premise,"(53746, 53918)",Support
+"Then his Democratic friends in Congress say, no, Bill, you can't be for that",Premise,"(54575, 54651)",Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)",Support
+You have to tell the truth,Claim,"(54697, 54723)",Bill Clinton has trouble telling the truth,Claim,"(33813, 33855)",Attack
+Same with Medicare,Premise,"(55066, 55084)",You said: we're for it as long as it's voluntary,Premise,"(55016, 55064)",Support
+You said: we're for it so long as it's voluntary,Premise,"(55086, 55134)",You said: we're for it as long as it's voluntary,Premise,"(55016, 55064)",Support
+Civil rights -- we're for it so long as it's voluntary,Premise,"(55136, 55190)",You said: we're for it as long as it's voluntary,Premise,"(55016, 55064)",Support
+It was just like the proposal of your party back when Social Security was first proposed,Premise,"(54926, 55014)","in response to my question before that long laundry list, he said that they had their own family leave proposal",Premise,"(54813, 54924)",Support
+It was just like the proposal of your party back when Social Security was first proposed,Premise,"(54926, 55014)",You said: we're for it as long as it's voluntary,Premise,"(55016, 55064)",Support
+Family leave is important enough to be required,Claim,"(55264, 55311)",You said: we're for it as long as it's voluntary,Premise,"(55016, 55064)",Attack

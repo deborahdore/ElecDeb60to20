@@ -1,0 +1,471 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+it is the economic recovery program that we presented when I took office in 1981.,Premise,"(3157, 3238)",I have a plan,Claim,"(3100, 3113)",Support
+almost everybody agrees unless we get it down,Claim,"(13548, 13593)","the chances for long-term, healthy growth are nil",Claim,"(13595, 13644)",Support
+"I should say, as Lincoln once said, that I could not -- I would be the most stupid man in the world if I thought I could confront the duties of the office I hold if I could not turn to someone who was stronger and greater than all others",Claim,"(23057, 23294)",I do resort to prayer,Claim,"(23300, 23321)",Support
+when people vote,Premise,"(31784, 31800)",I think you're going to see a very strong verdict by the American people that they favor the approach that I'm talking about,Claim,"(31802, 31926)",Support
+I have believed that in the appointment of judges that all that was specified in the party platform was that they respect the sanctity of human life.,Claim,"(41890, 42039)",I would want to see in any judge and with regard to any issue having to do with human life.,Claim,"(42050, 42141)",Support
+they are the ones who didn't get any relief the first time around,Premise,"(52242, 52307)","In my opinion, as we deal with this deficit, people from about $70,000 a year on down have to be dealt with very, very carefully",Claim,"(52104, 52232)",Support
+it is still going up,Premise,"(61637, 61657)",It has begun to decline,Claim,"(61608, 61631)",Support
+"I think the President has done some things to raise the sense of spirit, morale, good feeling in this country",Claim,"(71804, 71913)",he's entitled to credit for that,Claim,"(71919, 71951)",Support
+"The question, I think, should be enlarged",Claim,"(79562, 79603)","Is America better off than it was 4 years ago? And I believe the answer to that has to also be ""yes.''",Claim,"(79605, 79707)",Support
+the double-digit inflation,Premise,"(3436, 3462)",I think were hurting the economy,Claim,"(3488, 3520)",Support
+There is no question that we face this massive deficit,Claim,"(13488, 13542)","the chances for long-term, healthy growth are nil",Claim,"(13595, 13644)",Support
+I have no hesitancy in saying so,Claim,"(23666, 23698)",it does play a part in my life,Claim,"(23634, 23664)",Support
+They don't want this arms race.,Claim,"(31967, 31998)",The American people want arms control.,Claim,"(31928, 31966)",Support
+"With me, abortion is not a problem of religion",Claim,"(42333, 42379)",there's been some reference without naming it here in the remarks of Mr. Mondale tied to injecting religion into government,Premise,"(42208, 42331)",Attack
+"Under the 1981 tax bill, people making $200,000 a year got $60,000 in tax relief over 3 years, while people making $30,000 a year, all taxes considered, got no relief at all or their taxes actually went up",Premise,"(52309, 52514)",they are the ones who didn't get any relief the first time around,Premise,"(52242, 52307)",Support
+it is a lower rate of increase than it was in the preceding years before we got here,Premise,"(61522, 61606)",there has been an increase in poverty,Claim,"(61479, 61516)",Support
+"What I think we need, however, is not just that but to move forward, not just congratulating ourselves",Premise,"(71953, 72055)",challenging ourselves to get on with the business of dealing with America's problems,Claim,"(72060, 72144)",Support
+I promised a new beginning,Claim,"(79708, 79734)","Is America better off than it was 4 years ago? And I believe the answer to that has to also be ""yes.''",Claim,"(79605, 79707)",Support
+the high tax rates,Premise,"(3464, 3482)",I think were hurting the economy,Claim,"(3488, 3520)",Support
+The President says it will disappear overnight because of some reason.,Premise,"(13715, 13785)",No one else believes that's the case,Claim,"(13786, 13822)",Support
+it does play a part in my life,Claim,"(23634, 23664)",I do resort to prayer,Claim,"(23300, 23321)",Support
+And they don't want this deadly new effort to bring weapons into the heavens.,Claim,"(31999, 32076)",The American people want arms control.,Claim,"(31928, 31966)",Support
+it's a problem of the Constitution,Claim,"(42381, 42415)","With me, abortion is not a problem of religion",Claim,"(42333, 42379)",Support
+they are the ones who didn't get any relief the first time around,Premise,"(52242, 52307)","That's why my proposal protects everybody from $25,000 a year or less against any tax increases",Claim,"(52516, 52611)",Support
+single women heads of household have,Premise,"(61706, 61742)",for the first time there's been a turndown in the rate of poverty for them,Claim,"(61746, 61820)",Support
+"I think in education, when he lectured the country about the importance of discipline",Claim,"(72146, 72231)",I think it helped a little bit,Claim,"(72264, 72294)",Support
+"I think that most of the people in this country would say, yes, they are better off than they were 4 years ago",Claim,"(79450, 79560)","The question, I think, should be enlarged",Claim,"(79562, 79603)",Support
+the stagflation that we were undergoing,Premise,"(3522, 3561)",I think were hurting the economy,Claim,"(3488, 3520)",Support
+I'm standing up to the issue with an answer that's fair,Claim,"(13834, 13889)",I do,Claim,"(5819, 5823)",Support
+"I should say, as Lincoln once said, that I could not -- I would be the most stupid man in the world if I thought I could confront the duties of the office I hold if I could not turn to someone who was stronger and greater than all others",Claim,"(23057, 23294)",I don't believe that I could carry on unless I had a belief in a higher authority and a belief that prayers are answered,Claim,"(23715, 23835)",Support
+they want an American foreign policy that leads toward a safer world,Claim,"(32081, 32149)",The American people want arms control.,Claim,"(31928, 31966)",Support
+"which guarantees life, liberty, and the pursuit of happiness to all of us",Claim,"(42580, 42653)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Support
+they are the ones who didn't get any relief the first time around,Premise,"(52242, 52307)","treats those $70,000 and under in a way that is more beneficial than the way the President proposes with a sales tax or a flat tax",Claim,"(52617, 52747)",Support
+We have found also in our studies,Premise,"(61822, 61855)","in this increase in poverty, it all had to do with their private earnings",Claim,"(61861, 61934)",Support
+I think it helped a little bit,Claim,"(72264, 72294)",he's entitled to credit for that,Claim,"(71919, 71951)",Support
+I promised a new beginning,Claim,"(79708, 79734)","So far, it is only a beginning",Claim,"(79736, 79766)",Support
+the economy was so worsened that I was openly saying that what we had thought on the basis of our plan could have brought a balanced budget,Premise,"(3671, 3810)",that was no longer possible,Claim,"(3818, 3845)",Support
+I think that's what leadership is all about,Claim,"(13891, 13934)",I do,Claim,"(5819, 5823)",Support
+I don't believe that I could carry on unless I had a belief in a higher authority and a belief that prayers are answered,Claim,"(23715, 23835)",I do resort to prayer,Claim,"(23300, 23321)",Support
+American people see this debt,Premise,"(32155, 32184)",they know it's got to come down,Claim,"(32190, 32221)",Support
+I know there were weeks and weeks of testimony before a Senate committee,Premise,"(42724, 42796)",I think that this is what we should concentrate on,Claim,"(42659, 42709)",Support
+Vice President Bush disclosed his tax returns to the American people,Premise,"(52804, 52872)",In 1981 I think he paid about 40 percent in taxes.,Claim,"(52941, 52991)",Support
+"in this increase in poverty, it all had to do with their private earnings",Claim,"(61861, 61934)",It had nothing to do with the transfer of payments from government by way of many programs,Claim,"(61936, 62026)",Support
+now we need both that kind of discipline and the resources and the consistent leadership that allows this country to catch up in education and science and training,Claim,"(72300, 72463)",challenging ourselves to get on with the business of dealing with America's problems,Claim,"(72060, 72144)",Support
+Productivity in the first half of 1980 was down a minus 2 percent,Premise,"(80070, 80135)",Today it is up a plus 4 percent,Premise,"(80137, 80168)",Support
+it is the economic recovery program that we presented when I took office in 1981.,Premise,"(3157, 3238)",an economic program that I thought could rectify the great problems confronting us,Claim,"(3350, 3432)",Support
+There's a difference between being a quarterback and a cheerleader,Claim,"(13936, 14002)",I think that's what leadership is all about,Claim,"(13891, 13934)",Support
+I know the threats that are made against me,Claim,"(24499, 24542)",I pose a threat to several hundred people if I go to church.,Claim,"(24438, 24498)",Support
+"if it won't come down, the economy's going to slow down",Claim,"(32227, 32282)",they know it's got to come down,Claim,"(32190, 32221)",Support
+there were medical authorities,Premise,"(42798, 42828)",I think that this is what we should concentrate on,Claim,"(42659, 42709)",Support
+"In 1983, as a result of these tax preferences, he paid a little over 12 percent, 12.8 percent in taxes",Premise,"(52992, 53094)",That meant that he paid a lower percent in taxes than the janitor,Claim,"(53096, 53161)",Support
+We are spending now 37 percent more on food for the hungry in all the various types of programs than was spent in 1980.,Claim,"(62028, 62147)",It had nothing to do with the transfer of payments from government by way of many programs,Claim,"(61936, 62026)",Support
+I told you before the election what I'd do,Claim,"(72907, 72949)",I've done what no candidate for President has ever done,Claim,"(72850, 72905)",Support
+"In the first half of 1980, gross national product was down a minus 3.7 percent",Premise,"(79944, 80022)",The first half of '84 it's up 8\1/2\ percent,Premise,"(80024, 80068)",Support
+we have a recovery that has been going on for about 21 months to the point,Premise,"(4116, 4190)",we can now call it an expansion,Claim,"(4196, 4227)",Support
+"when there's a real problem, a President must confront it",Claim,"(14008, 14065)",I think that's what leadership is all about,Claim,"(13891, 13934)",Support
+We all know the possibility of terrorism.,Claim,"(24544, 24585)",I pose a threat to several hundred people if I go to church.,Claim,"(24438, 24498)",Support
+maybe go into a recession,Claim,"(32284, 32309)",they know it's got to come down,Claim,"(32190, 32221)",Support
+there were religious,Premise,"(42830, 42850)",I think that this is what we should concentrate on,Claim,"(42659, 42709)",Support
+who cleaned up his office or the chauffeur who drives him to work,Premise,"(53162, 53227)",That meant that he paid a lower percent in taxes than the janitor,Claim,"(53096, 53161)",Support
+"we took 850,000 off the food stamp rolls because they were making an income that was above anything that warranted their fellow citizens having to support them",Premise,"(62368, 62527)","2,300,000 more are receiving them",Claim,"(62319, 62352)",Support
+I have stood up and told the American people that that $263 billion deficit must come down,Claim,"(72754, 72844)",I told you before the election what I'd do,Claim,"(72907, 72949)",Support
+"In 1980 -- or 1979, a person with a fixed income of $8,000 was $500 above the poverty line",Premise,"(80256, 80346)",this maybe explains why there are the numbers still in poverty,Claim,"(80352, 80414)",Support
+"Under that, this year, we have seen a $21 billion reduction in the deficit from last year, based mainly on the increased revenues the Government is getting without raising tax rates",Premise,"(4229, 4410)","Our tax cut, we think, was very instrumental in bringing about this economic recovery",Claim,"(4412, 4497)",Support
+"What I was referring to, of course, in the comment that you referred to was the situation in Lebanon",Premise,"(14067, 14167)","for three occasions, one after another, our Embassies were assaulted in the same way by a truck with demolitions",Claim,"(14174, 14286)",Support
+my minister knows this and supports me in this position,Claim,"(24700, 24755)",I don't feel that I have a right to go to church,Claim,"(24759, 24807)",Support
+They see this tremendous influx and swamping of cheap foreign imports in this country that has cost over 3 million jobs,Premise,"(32311, 32430)",given farmers the worst year in American history,Claim,"(32432, 32480)",Support
+there were clerics there,Premise,"(42854, 42878)",I think that this is what we should concentrate on,Claim,"(42659, 42709)",Support
+That meant that he paid a lower percent in taxes than the janitor,Claim,"(53096, 53161)",I believe we need some fairness,Claim,"(53229, 53260)",Support
+We found people making 185 percent of the poverty level were getting government benefits,Claim,"(62529, 62617)",We have set a line at 130 percent so that we can direct that aid down to the truly needy,Claim,"(62619, 62707)",Support
+"even though we need growth, that's not helping",Premise,"(73249, 73295)",Don't talk about growth,Claim,"(73216, 73239)",Support
+By 1980 that same person was $500 below the poverty line,Premise,"(80416, 80472)",this maybe explains why there are the numbers still in poverty,Claim,"(80352, 80414)",Support
+The interest rates have come down about 9 or 10 points,Premise,"(4558, 4612)",We have reduced inflation to about a third of what it was.,Claim,"(4499, 4557)",Support
+these things can happen,Premise,"(14353, 14376)",I did not criticize the President,Claim,"(14310, 14343)",Support
+I pose a threat to several hundred people if I go to church.,Claim,"(24438, 24498)",I don't feel that I have a right to go to church,Claim,"(24759, 24807)",Support
+it's unfair to our children,Premise,"(32538, 32565)",they know this debt must come down as well,Claim,"(32486, 32528)",Support
+everyone talking about this matter of prolife,Premise,"(42882, 42927)",I think that this is what we should concentrate on,Claim,"(42659, 42709)",Support
+I believe we need some fairness,Claim,"(53229, 53260)",I've proposed what I think is a fair and a responsible proposal that helps protect these people who've already got no relief or actually got a tax increase.,Claim,"(53277, 53433)",Support
+"we found people that there under the previous administration, families that had no limit to income were still eligible for low-interest college loans",Claim,"(62947, 63096)",We have set a line at 130 percent so that we can direct that aid down to the truly needy,Claim,"(62619, 62707)",Support
+It was once called voodoo economics,Premise,"(73049, 73084)",This is how I'm going to get it done,Claim,"(73178, 73214)",Support
+"With regard to business investment, it is higher than it has been since 1949",Claim,"(80512, 80588)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+The interest rates have come down about 9 or 10 points,Premise,"(4558, 4612)","we think, must come down further",Claim,"(4618, 4650)",Support
+the second time the barracks in Lebanon were assaulted,Premise,"(14409, 14463)",we all remember,Claim,"(14468, 14483)",Support
+"my being there could cause something of the kind that we have seen in other places, in Beirut, for example",Claim,"(24822, 24928)",I don't feel that I have a right to go to church,Claim,"(24759, 24807)",Support
+given farmers the worst year in American history,Claim,"(32432, 32480)",The American people want this environment protected,Claim,"(32567, 32618)",Support
+"at the end of all of that, not one shred of evidence was introduced that the unborn child was not alive.",Claim,"(42933, 43037)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Support
+"Up until about $70,000, as you go up the ladder",Premise,"(54328, 54375)",They hit middle- and moderate-income Americans and leave wealthy Americans largely untouched,Claim,"(54234, 54326)",Support
+"we found people that there under the previous administration, families that had no limit to income were still eligible for low-interest college loans",Claim,"(62947, 63096)",We didn't think that was right,Claim,"(63098, 63128)",Support
+"Yes, we have a $263 billion deficit.",Premise,"(73141, 73177)",This is how I'm going to get it done,Claim,"(73178, 73214)",Support
+there seems to be no shortage of investment capital,Claim,"(80594, 80645)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+"which has come down from 17 to 6 percent, and, at the same time, as the growth in the economy increases the revenues the Government gets, without raising taxes",Premise,"(5035, 5194)","when they meet, that is a balanced budget",Claim,"(5227, 5268)",Support
+I believe that a President must command that White House and those who work for him,Claim,"(14675, 14758)",It's the toughest job on Earth,Claim,"(14760, 14790)",Support
+I pose a threat to several hundred people if I go to church.,Claim,"(24438, 24498)",I think the Lord understands,Claim,"(24962, 24990)",Support
+they know that people's lives and health are being risked,Claim,"(32708, 32765)",They know that these toxic waste dumps should have been cleaned up a long time ago,Claim,"(32620, 32702)",Support
+"We have seen premature births that are now grown-up, happy people going around",Claim,"(43038, 43116)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Support
+They hit middle- and moderate-income Americans and leave wealthy Americans largely untouched,Claim,"(54234, 54326)",my proposals will be far more beneficial,Claim,"(54377, 54417)",Support
+their family incomes were so low,Premise,"(63261, 63293)",we have set a standard that those loans and those grants are directed to the people who otherwise could not go to college,Claim,"(63138, 63259)",Support
+"I'll tell you what I think has been the most outrageous thing in political dialog, both in this campaign and the one in '82.",Premise,"(73967, 74091)",that is the continued discussion and claim that somehow I am the villain who is going to pull the Social Security checks out from those people who are dependent on them,Claim,"(74096, 74264)",Support
+"Personal earnings after taxes per capita have gone up almost $3,000 in these 4 years",Premise,"(80170, 80254)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+there have been created new jobs for those people to where there are now 105 million civilians working,Premise,"(4722, 4824)","the plan that we have had and that we are following is a plan that is based on growth in the economy, recovery without inflation, and reducing the share that the Government is taking from the gross national product",Claim,"(3851, 4065)",Support
+you must master the facts and insist that things that must be done are done,Claim,"(14796, 14871)",It's the toughest job on Earth,Claim,"(14760, 14790)",Support
+I don't feel that I have a right to go to church,Claim,"(24759, 24807)",I miss going to church,Claim,"(24934, 24956)",Support
+we've had an administration that has been totally insensitive to the law and the demand for the protection of the environment,Premise,"(32775, 32900)",The American people want this environment protected,Claim,"(32567, 32618)",Support
+the California State Legislature unanimously passed a law that was signed by the then-Democratic Governor -- signed a law that said that any man who so abuses a pregnant woman that he causes the death of her unborn child shall be charged with murder,Premise,"(43373, 43622)","if somebody else does it, that's murder",Claim,"(43754, 43793)",Support
+As soon as we get the economy on a sound ground as well,Premise,"(54419, 54474)",I'd like to see the total repeal of indexing,Claim,"(54476, 54520)",Support
+we have set a standard that those loans and those grants are directed to the people who otherwise could not go to college,Claim,"(63138, 63259)",We have set a line at 130 percent so that we can direct that aid down to the truly needy,Claim,"(62619, 62707)",Support
+that is the continued discussion and claim that somehow I am the villain who is going to pull the Social Security checks out from those people who are dependent on them,Claim,"(74096, 74264)",I think it is outrageous,Claim,"(74274, 74298)",Support
+Today it is up a plus 4 percent,Premise,"(80137, 80168)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+"In the last 21 months, more than 6 million people have gotten jobs",Premise,"(4652, 4718)","the plan that we have had and that we are following is a plan that is based on growth in the economy, recovery without inflation, and reducing the share that the Government is taking from the gross national product",Claim,"(3851, 4065)",Support
+It's the toughest job on Earth,Claim,"(14760, 14790)",I think that's what leadership is all about,Claim,"(13891, 13934)",Support
+I believe I have sung at more weddings and more funerals than anybody ever to seek the Presidency,Claim,"(25708, 25805)",I have a deep religious faith,Claim,"(25848, 25877)",Support
+"They want to get our edge back in science,",Claim,"(32952, 32994)",The American people want their children educated.,Claim,"(32902, 32951)",Support
+"In California, sometime ago, a man beat a woman so savagely that her unborn child was born dead with a fractured skull",Premise,"(43249, 43367)",isn't it strange that that same woman could have taken the life of her unborn child,Claim,"(43629, 43712)",Support
+I don't think we can do that for a few years.,Claim,"(54522, 54567)","at some point, we want to do that as well",Claim,"(54572, 54613)",Support
+some that didn't even feel the pain of the recession,Premise,"(65044, 65096)",there were some parts of the country that were worse off,Claim,"(64982, 65038)",Support
+have no place else to turn,Premise,"(74503, 74529)",they scare millions of senior citizens who are totally dependent on Social Security,Premise,"(74418, 74501)",Support
+The first half of '84 it's up 8\1/2\ percent,Premise,"(80024, 80068)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+"there were only 99 million before; 107, if you count the military",Premise,"(4832, 4897)","the plan that we have had and that we are following is a plan that is based on growth in the economy, recovery without inflation, and reducing the share that the Government is taking from the gross national product",Claim,"(3851, 4065)",Support
+all my life that has been the way in which I have sought to lead,Premise,"(14962, 15026)",I believe that the way in which I will approach the Presidency is what's needed,Claim,"(14873, 14952)",Support
+Our family does,Claim,"(25879, 25894)",I have a deep religious faith,Claim,"(25848, 25877)",Support
+they want a policy headed by the President that helps close this gap that's widening between the United States and Europe and Japan.,Claim,"(32999, 33131)",The American people want their children educated.,Claim,"(32902, 32951)",Support
+the California State Legislature unanimously passed a law that was signed by the then-Democratic Governor -- signed a law that said that any man who so abuses a pregnant woman that he causes the death of her unborn child shall be charged with murder,Premise,"(43373, 43622)","it used the term ""death of the unborn child.''",Premise,"(43799, 43845)",Support
+I don't have a plan to tax -- or increase taxes,Claim,"(54833, 54880)",I'm not going to increase taxes,Claim,"(54882, 54913)",Support
+just as in the depths of the recession,Premise,"(64942, 64980)",There is no way that the recovery is even across the country,Claim,"(64880, 64940)",Support
+they scare millions of senior citizens who are totally dependent on Social Security,Premise,"(74418, 74501)","for political advantage, every time they do that",Premise,"(74368, 74416)",Support
+"we have reduced inflation, and for 2 years now it has stayed down there, not at double digit, but in the range of 4 or below",Claim,"(80686, 80810)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+according to their projections,Premise,"(5378, 5408)",The lines aren't about to meet,Claim,"(5346, 5376)",Support
+all my life that has been the way in which I have sought to lead,Premise,"(14962, 15026)",that's why in this campaign I'm telling you exactly what I want to do.,Claim,"(15032, 15102)",Support
+It is fundamental,Claim,"(25896, 25913)",I have a deep religious faith,Claim,"(25848, 25877)",Support
+The American people want to keep opening doors.,Claim,"(33132, 33179)",they want it,Claim,"(33328, 33340)",Support
+Our laws against murder are State laws,Claim,"(44659, 44697)",I would think that this would be the point of enforcement on this.,Claim,"(44703, 44769)",Support
+as a Senator you voted 16 times to increase taxes,Premise,"(54966, 55015)","I can understand why you are, Mr. Mondale",Claim,"(54915, 54956)",Support
+there were some parts of the country that were worse off,Claim,"(64982, 65038)",There is no way that the recovery is even across the country,Claim,"(64880, 64940)",Support
+"they have to live and go to bed at night thinking, ""Is this true? Is someone going to take our check away from us and leave us destitute?''",Premise,"(74535, 74674)",they scare millions of senior citizens who are totally dependent on Social Security,Premise,"(74418, 74501)",Support
+"We have, as I said, cut the taxes",Claim,"(80647, 80680)",We have restored much of our economy,Claim,"(80474, 80510)",Support
+according to their projections,Premise,"(5378, 5408)",They project that the budget deficit will continue to climb.,Claim,"(5410, 5470)",Support
+you must master the facts and insist that things that must be done are done,Claim,"(14796, 14871)",I believe that the way in which I will approach the Presidency is what's needed,Claim,"(14873, 14952)",Support
+I have a deep religious faith,Claim,"(25848, 25877)",It's probably the reason that I'm in politics,Claim,"(25915, 25960)",Support
+"they've understood from the beginning that when we open doors, we're all stronger",Premise,"(33349, 33430)",The American people want to keep opening doors.,Claim,"(33132, 33179)",Support
+I would think that this would be the point of enforcement on this.,Claim,"(44703, 44769)",no one has approached it from that matter,Claim,"(44831, 44872)",Support
+I believe that our problem has not been that anybody in our country is undertaxed,Claim,"(55022, 55103)",it's that government is overfed.,Claim,"(55105, 55137)",Support
+through the Urban Development Action Grant Program,Premise,"(66049, 66099)",we have to work with cities and others to help generate economic growth in those communities,Claim,"(65953, 66045)",Support
+"for political advantage, every time they do that",Premise,"(74368, 74416)",I don't think that that should be a part of political dialog,Claim,"(74679, 74739)",Support
+"Yes, we have an increase in the defense budget.",Claim,"(80893, 80940)",We believe that we had also promised that we would make our country more secure.,Claim,"(80812, 80892)",Support
+In the year 1989 they project a budget deficit of $273 billion.,Premise,"(5471, 5534)",They project that the budget deficit will continue to climb.,Claim,"(5410, 5470)",Support
+so that the American people can participate in that decision,Premise,"(15194, 15254)","I am trying to provide leadership now, before the election",Claim,"(15134, 15192)",Support
+"I think our faith tells us, instructs us, about the moral life that we should lead.",Claim,"(25962, 26045)",It's probably the reason that I'm in politics,Claim,"(25915, 25960)",Support
+They want those civil rights laws enforced.,Claim,"(33180, 33223)",they want it,Claim,"(33328, 33340)",Support
+It does not happen that the church that I belong to had that as part of its dogma,Premise,"(44874, 44955)",I know that some churches do,Claim,"(44957, 44985)",Support
+it's that government is overfed.,Claim,"(55105, 55137)",this is why we had a 25-percent tax cut across the board which maintained the same progressivity of our tax structure in the brackets on up,Claim,"(55177, 55316)",Support
+we have to work with cities and others to help generate economic growth in those communities,Claim,"(65953, 66045)",we've got to get the debt down to get the interest rates down so the economy will grow and people will be employed,Claim,"(65825, 65939)",Support
+Social Security is totally funded by the payroll tax levied on employer and employee.,Premise,"(75073, 75158)",Social Security has nothing to do with the deficit,Claim,"(75021, 75071)",Support
+back then we had planes that couldn't fly for lack of spare parts or pilots,Premise,"(80945, 81020)",We believe that we had also promised that we would make our country more secure.,Claim,"(80812, 80892)",Support
+The deficit is the result of excessive government spending,Claim,"(5759, 5817)",which has become a drag on the economy,Claim,"(4067, 4105)",Support
+your message has failed to get through,Premise,"(15380, 15418)",the polls have given you lower ratings on leadership than President Reagan,Claim,"(15297, 15371)",Support
+"When the Republican platform says that from here on out, we're going to have a religious test for judges before they're selected for the Federal court,",Premise,"(26355, 26506)",I think that's an abuse of faith in our country.,Claim,"(26609, 26657)",Support
+They want the equal rights amendment ratified,Claim,"(33224, 33269)",they want it,Claim,"(33328, 33340)",Support
+"in our Judeo-Christian tradition, we recognize the right of taking a human life in self-defense",Premise,"(45053, 45148)","I've always believed that a mother, if medically it is determined that her life is at risk if she goes through with the pregnancy, she has a right then to take the life of even her own unborn child in defense of her own.",Claim,"(45165, 45385)",Support
+the Social Security tax of '77,Premise,"(55637, 55667)",this indeed was a tax that hit people in the lower brackets the hardest,Claim,"(55671, 55742)",Support
+I don't mind those enterprise zones,Claim,"(66101, 66136)",let's try them,Claim,"(66138, 66152)",Support
+If you reduce the out-go of Social Security,Premise,"(75159, 75202)",that money would not go into the general fund to reduce a deficit,Claim,"(75204, 75269)",Support
+"We had navy vessels that couldn't leave harbor because of lack of crew or, again, lack of spare parts",Premise,"(81022, 81123)",We believe that we had also promised that we would make our country more secure.,Claim,"(80812, 80892)",Support
+they have been wrong on virtually all of them,Premise,"(5911, 5956)","I do not, very frankly, take seriously the Congressional Budget Office projections",Claim,"(5819, 5901)",Support
+we must lead,Claim,"(15977, 15989)",we must command,Claim,"(15991, 16006)",Equivalent
+Jerry Falwell announces that that means they get at least two Justices of the Supreme Court,Premise,"(26516, 26607)",I think that's an abuse of faith in our country.,Claim,"(26609, 26657)",Support
+They want equal pay for comparable effort for women.,Claim,"(33271, 33323)",they want it,Claim,"(33328, 33340)",Support
+"I've always believed that a mother, if medically it is determined that her life is at risk if she goes through with the pregnancy, she has a right then to take the life of even her own unborn child in defense of her own.",Claim,"(45165, 45385)",isn't it strange that that same woman could have taken the life of her unborn child,Claim,"(43629, 43712)",Attack
+it just doesn't work out that way,Claim,"(56484, 56517)","I don't think that to try and say that we were taxing the rich, and not the other way around",Claim,"(56390, 56482)",Support
+not as a substitute for the others,Premise,"(66158, 66192)",let's try them,Claim,"(66138, 66152)",Support
+that money would not go into the general fund to reduce a deficit,Claim,"(75204, 75269)",Social Security has nothing to do with the deficit,Claim,"(75021, 75071)",Support
+Today we're well on our way to a 600-ship navy,Claim,"(81125, 81171)",We believe that we had also promised that we would make our country more secure.,Claim,"(80812, 80892)",Support
+including the fact that our recovery wasn't going to take place to begin with,Premise,"(5958, 6035)",they have been wrong on virtually all of them,Premise,"(5911, 5956)",Support
+we must lead,Claim,"(15977, 15989)",we must direct,Claim,"(16008, 16022)",Equivalent
+I think that's an abuse of faith in our country.,Claim,"(26609, 26657)",All history tells us that that's a mistake,Claim,"(26311, 26353)",Support
+just as we were at the Olympics,Premise,"(33432, 33463)","they've understood from the beginning that when we open doors, we're all stronger",Premise,"(33349, 33430)",Support
+I think it cannot work,Claim,"(46426, 46448)","s it really the view of the American people, however you feel on the question of abortion, that government ought to be reaching into your livingrooms and making choices like this?",Claim,"(46246, 46425)",Support
+if you take it in numbers of dollars instead of percentage,Premise,"(56635, 56693)",that person got 10 times as much as this other person,Claim,"(56721, 56774)",Support
+If these young Americans don't have the skills that make them attractive to employees,Premise,"(66239, 66324)",they're not going to get jobs,Claim,"(66326, 66355)",Support
+I think I have talked in straight economic terms about a program of recovery that I was told wouldn't work.,Claim,"(75473, 75580)",This is how I'm going to get it done,Claim,"(73178, 73214)",Attack
+We have 543 at present,Claim,"(81173, 81195)",Today we're well on our way to a 600-ship navy,Claim,"(81125, 81171)",Support
+"in constant dollars, in the domestic side of the budget",Premise,"(6598, 6653)",there has been no spending increase in the 4 years that we have been here,Claim,"(6655, 6728)",Support
+we must command,Claim,"(15991, 16006)",we must direct,Claim,"(16008, 16022)",Equivalent
+we kept the politicians and the state out of the personal exercise of our faith,Premise,"(26802, 26881)",faith in the United States is pure and unpolluted by the intervention of politicians,Claim,"(26894, 26978)",Support
+"The President answers that it didn't happen or, if it did, it was resolved later in a commission",Premise,"(34045, 34141)",I will not support the cuts in Social Security and Medicare and the rest that the President has proposed,Claim,"(33939, 34043)",Support
+won't work,Claim,"(46450, 46460)","s it really the view of the American people, however you feel on the question of abortion, that government ought to be reaching into your livingrooms and making choices like this?",Claim,"(46246, 46425)",Support
+if you take it in percentages,Premise,"(56821, 56850)",you find out that it is fair and equitable across the board,Claim,"(56857, 56916)",Support
+There is no question that the poor are worse off,Premise,"(66676, 66724)",we need the business community as well as government heavily involved in these communities to try to get economic growth,Claim,"(66554, 66674)",Support
+"after it worked, I was told that lowering taxes would increase inflation",Premise,"(75591, 75663)",none of these things happened,Claim,"(75669, 75698)",Support
+"then you add to that food and wardrobe, and all the other things",Claim,"(81366, 81430)",you only have a small portion going for weapons.,Claim,"(81436, 81484)",Support
+I think that the lines can meet,Claim,"(6555, 6586)",The lines aren't about to meet,Claim,"(5346, 5376)",Attack
+we must lead,Claim,"(15977, 15989)",a President must see it like it is,Claim,"(16028, 16062)",Support
+we kept the politicians and the state out of the personal exercise of our faith,Premise,"(26802, 26881)",This nation is the most religious nation on Earth,Claim,"(26658, 26707)",Support
+the comparison of approaches is such that I think will lead to further strength,Claim,"(34321, 34400)","As the record develops, I think it's going to become increasingly clear that what I am saying and where I want to take this country is exactly where the country wants to go",Claim,"(34143, 34315)",Support
+will lead to all kinds of cynical evasions of the law,Claim,"(46466, 46519)",won't work,Claim,"(46450, 46460)",Support
+"he paid 10 times as much, also",Claim,"(56785, 56815)",you find out that it is fair and equitable across the board,Claim,"(56857, 56916)",Support
+we need the business community as well as government heavily involved in these communities to try to get economic growth,Claim,"(66554, 66674)",we've got to get the debt down to get the interest rates down so the economy will grow and people will be employed,Claim,"(65825, 65939)",Support
+none of these things happened,Claim,"(75669, 75698)",It is working,Claim,"(75700, 75713)",Support
+"I think the people should understand that two-thirds of the defense budget pays for pay and salary, or pay and pension",Claim,"(81242, 81360)",you only have a small portion going for weapons.,Claim,"(81436, 81484)",Support
+I think that the lines can meet,Claim,"(6555, 6586)","when they meet, that is a balanced budget",Claim,"(5227, 5268)",Support
+we must command,Claim,"(15991, 16006)",a President must see it like it is,Claim,"(16028, 16062)",Support
+more people go to church and synagogues than any other nation on Earth,Claim,"(26711, 26781)",This nation is the most religious nation on Earth,Claim,"(26658, 26707)",Support
+a program of returning authority and autonomy to the local and State governments that has been unjustly seized by the Federal Government,Premise,"(35015, 35151)",We'll continue to try to get things that we didn't get in a program that has already brought the rate of spending of government down from 17 percent to 6.1 percent,Claim,"(34850, 35013)",Support
+will lead to all kinds of cynical evasions of the law,Claim,"(46466, 46519)",I think it cannot work,Claim,"(46426, 46448)",Support
+If you got the Government down to the lowest level,Premise,"(57416, 57466)",you yourself could say it could not go any lower and still perform the services for the people,Claim,"(57473, 57567)",Support
+There is no question that the poor are worse off,Premise,"(66676, 66724)",I think the President genuinely believes that they're better off.,Claim,"(66726, 66791)",Support
+It is working,Claim,"(75700, 75713)",we're going to continue on that same line,Claim,"(75719, 75760)",Support
+"There has been reference to expensive spare parts, hammers costing $500.",Premise,"(81623, 81695)","I am determined that if ever our men are called on, they should have the best that we can provide in the manner of tools and weapons.",Claim,"(81489, 81622)",Support
+"You have proposed a plan combining tax increases and budgetary cuts and other changes in the administration of the Government that would reduce the projected budget deficit by two-thirds, to approximately $87 billion in 1989",Premise,"(6948, 7172)",That still is an enormous deficit that will be running for these 4 years.,Claim,"(7174, 7247)",Support
+we must direct,Claim,"(16008, 16022)",a President must see it like it is,Claim,"(16028, 16062)",Support
+"A minister who is in civil rights or in the conservative movement, because he believes his faith instructs him to do that",Premise,"(28007, 28128)",I admire,Claim,"(28130, 28138)",Support
+they want it,Claim,"(33328, 33340)","I think as you make the case, the American people will increasingly come to our cause.",Claim,"(33465, 33551)",Support
+Those who can afford to have them will continue to have them.,Claim,"(46521, 46582)",won't work,Claim,"(46450, 46460)",Support
+if the recovery was so complete that you knew you were getting the ultimate amount of revenues that you could get through that growth,Premise,"(57573, 57706)",there was still some slight difference there between those two lines,Claim,"(57712, 57780)",Support
+There is no way that the recovery is even across the country,Claim,"(64880, 64940)","We're not going to rest and not going to be happy until every person in this country who wants a job can have one, until the recovery is complete across the country.",Claim,"(65098, 65263)",Support
+that is the continued discussion and claim that somehow I am the villain who is going to pull the Social Security checks out from those people who are dependent on them,Claim,"(74096, 74264)","As to what we might do, and find in further savings cuts, no, we're not going to starve the hungry",Claim,"(75762, 75860)",Support
+we are the ones who found those,Claim,"(81702, 81733)","There has been reference to expensive spare parts, hammers costing $500.",Premise,"(81623, 81695)",Support
+I respect the Presidency,Premise,"(7614, 7638)",I respect the President;,Premise,"(7589, 7613)",Equivalent
+a President must see it like it is,Claim,"(16028, 16062)",he must use the power of the White House to try to control these nuclear weapons and lead this world toward a safer world.,Claim,"(16144, 16266)",Support
+"A minister who is in civil rights or in the conservative movement, because he believes his faith instructs him to do that",Premise,"(28007, 28128)","The fact that the faith speaks to us and that we are moral people, hopefully, I accept and rejoice in",Claim,"(28140, 28241)",Support
+I was a Democrat at that time,Premise,"(35246, 35275)",you might find those words in a Democratic platform of some years ago -- I know,Claim,"(35157, 35236)",Support
+Those who can afford to have them will continue to have them.,Claim,"(46521, 46582)",I think it cannot work,Claim,"(46426, 46448)",Support
+you yourself could say it could not go any lower and still perform the services for the people,Claim,"(57473, 57567)",you would have to then look to see if taxes should not be adjusted,Claim,"(57814, 57880)",Support
+this administration has singled out things that affect the most vulnerable in American life,Claim,"(67252, 67343)",they're hurting,Claim,"(67349, 67364)",Support
+we've already implemented 17 percent of them,Claim,"(76042, 76086)","As to what we might do, and find in further savings cuts, no, we're not going to starve the hungry",Claim,"(75762, 75860)",Support
+I think there's an optimism in the land and a patriotism,Claim,"(81794, 81850)",I think we've given the American people back their spirit,Claim,"(81735, 81792)",Support
+I respect the President;,Premise,"(7589, 7613)",I think he knows that,Claim,"(7644, 7665)",Support
+a President must see it like it is,Claim,"(16028, 16062)",He must stand for the values of decency that the American people stand for,Claim,"(16064, 16138)",Support
+"to hinder that part of the Constitution that says the government shall not only not establish a religion, it shall not inhibit the practice of religion",Premise,"(28905, 29056)","The only attacks I have made are on people who apparently would break away at that wall from the government side, using the government, using the power of the courts and so forth",Claim,"(28726, 28904)",Support
+"We have, to one-third of what it was",Claim,"(35590, 35626)","I promised, when we took office, that we would reduce inflation.",Claim,"(35525, 35589)",Support
+The disadvantaged will go out in the back alley as they used to do.,Claim,"(46583, 46650)",won't work,Claim,"(46450, 46460)",Support
+there was still some slight difference there between those two lines,Claim,"(57712, 57780)",you would have to then look to see if taxes should not be adjusted,Claim,"(57814, 57880)",Support
+these heavy deficits have killed exports and are swamping the Nation with cheap imports,Claim,"(67477, 67564)","There's another part of the lopsided economy that we're in today,",Claim,"(67394, 67459)",Support
+"Remember, there was a trillion dollars in debt before we got here.",Premise,"(76707, 76773)","That's got to be paid by our children and grandchildren, too, if we don't do it",Claim,"(76774, 76853)",Support
+"I think that we're in a position once again to heed the words of Thomas Paine, who said: ""We have it in our power to begin the world over again.''",Claim,"(81856, 82002)",I think we've given the American people back their spirit,Claim,"(81735, 81792)",Support
+"over 4 years, they've missed the mark by nearly $600 billion.",Claim,"(7829, 7890)",every estimate by this administration about the size of the deficit has been off by billions and billions of dollars.,Claim,"(7690, 7807)",Support
+I think you must have some principles you believe in,Claim,"(16996, 17048)",I happen to believe in the people,Claim,"(17059, 17092)",Support
+"they have been using these things to have government, through court orders, inhibit the practice of religion.",Claim,"(29062, 29171)","The only attacks I have made are on people who apparently would break away at that wall from the government side, using the government, using the power of the courts and so forth",Claim,"(28726, 28904)",Support
+"We did, 25 percent across the board.",Claim,"(35667, 35703)",I promised that we would reduce taxes,Claim,"(35628, 35665)",Support
+The disadvantaged will go out in the back alley as they used to do.,Claim,"(46583, 46650)",I think it cannot work,Claim,"(46426, 46448)",Support
+I don't foresee those things happening,Claim,"(57882, 57920)",I say with great confidence I'm not going to go for a tax,Claim,"(57925, 57982)",Support
+3 million jobs lost,Premise,"(67602, 67621)","There's another part of the lopsided economy that we're in today,",Claim,"(67394, 67459)",Support
+the American people don't have the slightest clue about what President Reagan will do about these deficits.,Claim,"(77135, 77242)",we're going to continue on that same line,Claim,"(75719, 75760)",Attack
+"if you're modest income, you're worse off",Claim,"(82469, 82510)",That's what the economists tell us,Claim,"(82512, 82546)",Support
+We were told we would have a balanced budget in 1983,Claim,"(7891, 7943)",It was $200 billion deficit instead.,Claim,"(7945, 7981)",Support
+I happen to believe in the people,Claim,"(17059, 17092)","believe that the people are supposed to be dominant in our society -- that they, not government, are to have control of their own affairs to the greatest extent possible, with an orderly society",Claim,"(17097, 17291)",Support
+A child wants to say grace in a school cafeteria and a court rules that they can't do it because it's school property,Premise,"(29172, 29289)",These are they types of things that I think have been happening in a kind of a secular way that have been eroding that separation,Claim,"(29291, 29420)",Support
+we did -- 6 million in the last 20 or 21 months,Claim,"(35907, 35954)",I said that we would create jobs for our people,Claim,"(35854, 35901)",Support
+every individual instance is different,Claim,"(46714, 46752)",I think these questions are inherently personal and moral,Claim,"(46651, 46708)",Support
+With regard to assailing Mr. Bush about his tax problems and the difference from the tax he once paid and then the later tax he paid,Premise,"(57984, 58116)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+We are now $120 billion of imports,Premise,"(67566, 67600)","There's another part of the lopsided economy that we're in today,",Claim,"(67394, 67459)",Support
+the American people don't have the slightest clue about what President Reagan will do about these deficits.,Claim,"(77135, 77242)",that's the most important single issue of our time,Claim,"(77263, 77313)",Support
+"If you're middle income, you're about where you were",Claim,"(82411, 82463)",That's what the economists tell us,Claim,"(82512, 82546)",Support
+It was $200 billion deficit instead.,Claim,"(7945, 7981)",every estimate by this administration about the size of the deficit has been off by billions and billions of dollars.,Claim,"(7690, 7807)",Support
+I think you must have some principles you believe in,Claim,"(16996, 17048)","believe that the people are supposed to be dominant in our society -- that they, not government, are to have control of their own affairs to the greatest extent possible, with an orderly society",Claim,"(17097, 17291)",Support
+These are they types of things that I think have been happening in a kind of a secular way that have been eroding that separation,Claim,"(29291, 29420)",I am opposed to that,Claim,"(29426, 29446)",Support
+We have done that,Claim,"(36215, 36232)","I said that we would become respected in the world once again and that we would refurbish our national defense to the place that we could deal on the world scene and then seek disarmament, reduction of arms, and, hopefully, an elimination of nuclear weapons",Claim,"(35956, 36213)",Support
+I think these questions are inherently personal and moral,Claim,"(46651, 46708)",won't work,Claim,"(46450, 46460)",Support
+"had to do, possibly, with the sale of his home",Claim,"(58203, 58249)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+farmers are having their worst year,Premise,"(67627, 67662)","There's another part of the lopsided economy that we're in today,",Claim,"(67394, 67459)",Support
+we were in a deep recession and we needed some stimulation,Premise,"(77373, 77431)",I did support the '76 measure that he told about,Claim,"(77315, 77363)",Support
+"if you're wealthy, you're better off",Claim,"(82373, 82409)",That's what the economists tell us,Claim,"(82512, 82546)",Support
+"Virtually every economic analysis that I've heard of, including the distinguished Congressional Budget Office, which is respected by, I think, almost everyone, says that even with historically high levels of economic growth, we will suffer a $263 billion deficit",Premise,"(8137, 8399)",it doesn't converge as the President suggests.,Claim,"(8417, 8463)",Support
+I think you must have some principles you believe in,Claim,"(16996, 17048)","I think also that in leadership -- well, I believe that you find people, positions such as I'm in who have the talent and ability to do the things that are needed in the various departments of government.",Claim,"(17311, 17515)",Support
+I have appointed one member to the Supreme Court: Sandra Day O'Connor.,Claim,"(29533, 29603)",I'll stand on my record on that,Claim,"(29604, 29635)",Support
+We have done that,Claim,"(36215, 36232)","All of the things that I said we would do, from inflation being down, interest rates being down, unemployment falling, all of those things we have done",Claim,"(36234, 36385)",Support
+I think these questions are inherently personal and moral,Claim,"(46651, 46708)",I think it cannot work,Claim,"(46426, 46448)",Support
+they had to do with his setting up of a blind trust,Claim,"(58255, 58306)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+"There's another part of the lopsided economy that we're in today,",Claim,"(67394, 67459)",That's another reason to get the deficit down.,Claim,"(67664, 67710)",Support
+I did support the '76 measure that he told about,Claim,"(77315, 77363)","I will say as a Democrat, I was a real piker, Mr. President",Claim,"(77437, 77496)",Support
+I would rather lose a campaign about decency than win a campaign about self-interest.,Claim,"(83480, 83565)",I don't think this nation is composed of people who care only for themselves,Claim,"(83566, 83642)",Support
+every estimate by this administration about the size of the deficit has been off by billions and billions of dollars.,Claim,"(7690, 7807)",it doesn't converge as the President suggests.,Claim,"(8417, 8463)",Support
+I don't believe that a leader should be spending his time in the Oval Office deciding who's going to play tennis on the White House court.,Claim,"(17516, 17654)",you let those people go with the guidelines of overall policy,Claim,"(17659, 17720)",Support
+"if I have the opportunity to appoint any more, I'll do it in the same manner that I did in selecting her",Claim,"(29641, 29745)",I'll stand on my record on that,Claim,"(29604, 29635)",Support
+"We have, to one-third of what it was",Claim,"(35590, 35626)","All of the things that I said we would do, from inflation being down, interest rates being down, unemployment falling, all of those things we have done",Claim,"(36234, 36385)",Support
+won't work,Claim,"(46450, 46460)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Attack
+All of those are legally deductions,Premise,"(58308, 58343)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+I know they're all for education in science and training,Claim,"(68049, 68105)",I strongly support,Claim,"(68113, 68131)",Support
+In 1979 we ran a $29 billion deficit all year.,Premise,"(77498, 77544)",This administration seems to run that every morning.,Premise,"(77545, 77597)",Support
+"when we sought to assault Social Security and Medicare, as the record shows we did",Premise,"(83648, 83730)",I think that was mean-spirited,Claim,"(83732, 83762)",Support
+it doesn't converge as the President suggests.,Claim,"(8417, 8463)",I think that the lines can meet,Claim,"(6555, 6586)",Attack
+not looking over their shoulder and nitpicking the manner in which they go at the job,Claim,"(17722, 17807)",you let those people go with the guidelines of overall policy,Claim,"(17659, 17720)",Support
+it will undermine the practice of honest faith in our country by politicizing it,Premise,"(30658, 30738)",It seems to me that a moment's reflection tells you why the United States Senate turned that amendment down,Claim,"(30541, 30648)",Support
+"We did, 25 percent across the board.",Claim,"(35667, 35703)","All of the things that I said we would do, from inflation being down, interest rates being down, unemployment falling, all of those things we have done",Claim,"(36234, 36385)",Support
+I think it cannot work,Claim,"(46426, 46448)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Attack
+deductible in computing your tax,Premise,"(58345, 58377)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+They want these young people to have a chance to get jobs and the rest,Claim,"(68133, 68203)",I know they're all for education in science and training,Claim,"(68049, 68105)",Support
+This economy is starting to run downhill.,Claim,"(77637, 77678)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+"When we terminated 400,000 desperate, hopeless, defenseless Americans who were on disability -- confused and unable to defend themselves, and just laid them out on the street, as we did for 4 years",Premise,"(83764, 83961)",I don't think that's what America is all about.,Claim,"(83963, 84010)",Support
+It gets larger even with growth.,Claim,"(8464, 8496)",we will continue to have devastating problems with foreign trade,Claim,"(8521, 8585)",Support
+I continue it in this office,Claim,"(17990, 18018)",I also believe something else about that,Claim,"(17868, 17908)",Support
+It seems to me that a moment's reflection tells you why the United States Senate turned that amendment down,Claim,"(30541, 30648)","I, too, want that wall that is in the Constitution of separation of church and state to remain there",Claim,"(28624, 28724)",Support
+"today, without the Federal Government being involved other than passing on to them, the school districts, the words from that commission",Premise,"(36584, 36720)",we find 35 States with task forces now dealing with their educational problems,Claim,"(36722, 36800)",Support
+there are some things that government can do and some things they cannot do,Claim,"(46821, 46896)",won't work,Claim,"(46450, 46460)",Support
+it was a 1-year thing with him,Premise,"(58383, 58413)","I think if you looked at the deductions, there were great legal expenses in there",Claim,"(58118, 58199)",Support
+they're not having to take money that's desperate to themselves and their families and give it to someone else.,Premise,"(68479, 68590)",I think also that the American people want a balanced program that gives us long-term growth,Claim,"(68378, 68470)",Support
+Housing is off.,Claim,"(77679, 77694)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+America is a fair society,Claim,"(84011, 84036)",it is not right that Vice President Bush pays less in taxes than the janitor who helps him,Claim,"(84042, 84132)",Support
+Our rural and farm friends will have continued devastation.,Claim,"(8644, 8703)",This is the worst trade year in American history by far,Claim,"(8587, 8642)",Support
+any issue that comes before me,Premise,"(18027, 18057)",I don't want to hear them,Claim,"(18194, 18219)",Support
+It seems to me that a moment's reflection tells you why the United States Senate turned that amendment down,Claim,"(30541, 30648)",faith in the United States is pure and unpolluted by the intervention of politicians,Claim,"(26894, 26978)",Support
+"today, without the Federal Government being involved other than passing on to them, the school districts, the words from that commission",Premise,"(36584, 36720)",We find that schools are extending the curriculum to now have forced teaching of mathematics and science and so forth,Claim,"(36802, 36919)",Support
+there are some things that government can do and some things they cannot do,Claim,"(46821, 46896)",I think it cannot work,Claim,"(46426, 46448)",Support
+With regard to Medicare,Premise,"(59653, 59676)",it's time for us to say that Medicare is in pretty much the same condition that Social Security was,Claim,"(59686, 59785)",Support
+they're not having to take money that's desperate to themselves and their families and give it to someone else.,Premise,"(68479, 68590)","I'm opposed to that, too",Claim,"(68591, 68615)",Support
+"Last report on new purchases, it's the lowest since 1982",Claim,"(77695, 77751)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+I think their record on the environment is inexcusable and often shameful,Claim,"(84339, 84412)",I believe that we will be better off if we protect this environment,Claim,"(84229, 84296)",Support
+"Real interest rates -- the real cost of interest -- will remain very, very high",Claim,"(8704, 8783)",This is the worst trade year in American history by far,Claim,"(8587, 8642)",Support
+I have instructed Cabinet members and staff they are not to bring up any of the political ramifications that might surround the issue,Claim,"(18059, 18192)",I don't want to hear them,Claim,"(18194, 18219)",Support
+The leadership isn't taking us where we want to go,Claim,"(37113, 37163)",I think that many Democrats are seeing the same thing this Democrat saw,Claim,"(37040, 37111)",Support
+the example that the President cites has nothing to do with abortion.,Premise,"(46903, 46972)","In California, sometime ago, a man beat a woman so savagely that her unborn child was born dead with a fractured skull",Premise,"(43249, 43367)",Attack
+With regard to Medicare,Premise,"(59653, 59676)",something is going to have to be done in the next several years to make it fiscally sound,Claim,"(59791, 59880)",Support
+I think they stand for civil rights.,Claim,"(68012, 68048)",I think that's part of it,Claim,"(68351, 68376)",Support
+Growth is a little over 3 percent now,Claim,"(77753, 77790)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+I think their record on the environment is inexcusable and often shameful,Claim,"(84339, 84412)","I think our future requires a President to lead us in an all-out search to advance our education, our learning, and our science and training",Claim,"(84575, 84715)",Support
+many economists are predicting that we're moving into a period of very slow growth,Claim,"(8789, 8871)",This is the worst trade year in American history by far,Claim,"(8587, 8642)",Support
+I don't want to hear them,Claim,"(18194, 18219)",I also believe something else about that,Claim,"(17868, 17908)",Support
+We find that schools are extending the curriculum to now have forced teaching of mathematics and science and so forth,Claim,"(36802, 36919)",All of these things have brought an improvement in the college entrance exams for the first time in some 20 years.,Claim,"(36921, 37035)",Support
+Somebody went to a woman and nearly killed her,Premise,"(46973, 47019)",the example that the President cites has nothing to do with abortion.,Premise,"(46903, 46972)",Support
+it's time for us to say that Medicare is in pretty much the same condition that Social Security was,Claim,"(59686, 59785)",something is going to have to be done in the next several years to make it fiscally sound,Claim,"(59791, 59880)",Support
+I know they're all for education in science and training,Claim,"(68049, 68105)",I think that's part of it,Claim,"(68351, 68376)",Support
+Many people are predicting a recession,Claim,"(77792, 77830)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+I believe there's fundamental fairness crying out that needs to be achieved in our tax system,Claim,"(84134, 84227)","I think our future requires a President to lead us in an all-out search to advance our education, our learning, and our science and training",Claim,"(84575, 84715)",Support
+the economy is tapering off and may be a recession,Premise,"(8880, 8930)",many economists are predicting that we're moving into a period of very slow growth,Claim,"(8789, 8871)",Support
+I want to hear only arguments as to whether it is good or bad for the people,Claim,"(18221, 18297)",I don't want to hear them,Claim,"(18194, 18219)",Support
+we find 35 States with task forces now dealing with their educational problems,Claim,"(36722, 36800)",All of these things have brought an improvement in the college entrance exams for the first time in some 20 years.,Claim,"(36921, 37035)",Support
+Somebody went to a woman and nearly killed her,Premise,"(46973, 47019)",That's always been a serious crime and always should be a serious crime.,Claim,"(47021, 47093)",Support
+I have proposed that the program we must treat with that particular problem.,Claim,"(59953, 60029)",I never proposed any $20 billion should come out of Medicare,Claim,"(59891, 59951)",Support
+They want these young people to have a chance to get jobs and the rest,Claim,"(68133, 68203)",I think that's part of it,Claim,"(68351, 68376)",Support
+the flow of imports into this country is swamping the American people,Claim,"(77836, 77905)",the result is exactly what we see,Claim,"(77602, 77635)",Support
+I think that was mean-spirited,Claim,"(83732, 83762)","I think our future requires a President to lead us in an all-out search to advance our education, our learning, and our science and training",Claim,"(84575, 84715)",Support
+I've stood up and told the American people that I think it's a real problem,Claim,"(9026, 9101)",I think the American people know the difference,Claim,"(9239, 9286)",Support
+is it morally right?,Claim,"(18301, 18321)",I want to hear only arguments as to whether it is good or bad for the people,Claim,"(18221, 18297)",Support
+"Crime has come down the last 2 years, for the first time in many, many decades that it has come down -- or since we've kept records -- 2 consecutive years, and last year it came down the biggest drop in crime that we've had.",Premise,"(37913, 38137)",There are tasks that government legitimately should enforce and tasks that government performs well,Claim,"(37781, 37880)",Support
+I don't think so,Claim,"(47281, 47297)",Do we really want those decisions made by judges who've been picked because they will agree to find the person guilty?,Claim,"(47162, 47280)",Support
+maybe part of that problem is because during the 4 years of the Carter-Mondale administration medical costs in this country went up 87 percent.,Premise,"(60034, 60177)",I have proposed that the program we must treat with that particular problem.,Claim,"(59953, 60029)",Support
+I think they're asking for new and creative ways to try to reach it with everyone involved,Claim,"(68259, 68349)",I think that's part of it,Claim,"(68351, 68376)",Support
+the result is exactly what we see,Claim,"(77602, 77635)",We've got to deal with this problem,Claim,"(77907, 77942)",Support
+I don't think that's what America is all about.,Claim,"(83963, 84010)","I think our future requires a President to lead us in an all-out search to advance our education, our learning, and our science and training",Claim,"(84575, 84715)",Support
+I think the American people know the difference,Claim,"(9239, 9286)",I think this is a test of leadership,Claim,"(9197, 9233)",Support
+I want to hear only arguments as to whether it is good or bad for the people,Claim,"(18221, 18297)","on that basis and that basis alone, we make a decision on every issue.",Claim,"(18326, 18396)",Support
+just as we have with the drug problem nationwide,Premise,"(38188, 38236)",I think that we've had something to do with that,Claim,"(38138, 38186)",Support
+I think it's going in exactly the wrong direction,Claim,"(47303, 47352)",Do we really want those decisions made by judges who've been picked because they will agree to find the person guilty?,Claim,"(47162, 47280)",Support
+I think they stand for civil rights.,Claim,"(68012, 68048)",I think the American people want to make certain that that dollar is wisely spent,Claim,"(67929, 68010)",Support
+those of us who want to be your President should tell you now what we're going to do,Claim,"(77948, 78032)",We've got to deal with this problem,Claim,"(77907, 77942)",Support
+this world is more complex and we're being pressed harder all the time,Premise,"(84725, 84795)","I think our future requires a President to lead us in an all-out search to advance our education, our learning, and our science and training",Claim,"(84575, 84715)",Support
+The President has submitted a number of proposals to Congress to do just that,Premise,"(9382, 9459)",one other way to attack the deficit is further reductions in spending.,Claim,"(9311, 9381)",Support
+is it morally right?,Claim,"(18301, 18321)","on that basis and that basis alone, we make a decision on every issue.",Claim,"(18326, 18396)",Support
+When we took office,Premise,"(21344, 21363)","we found that the national parks were so dirty and contained so many hazards, lack of safety features",Claim,"(38353, 38454)",Support
+I think it's going in exactly the wrong direction,Claim,"(47303, 47352)",I would want to see in any judge and with regard to any issue having to do with human life.,Claim,"(42050, 42141)",Attack
+I know they're all for education in science and training,Claim,"(68049, 68105)",I think the American people want to make certain that that dollar is wisely spent,Claim,"(67929, 68010)",Support
+you can make a judgment,Claim,"(78037, 78060)",those of us who want to be your President should tell you now what we're going to do,Claim,"(77948, 78032)",Support
+we've had civil rights laws and the laws that prohibit discrimination against women,Premise,"(84863, 84946)",We won the Olympics,Claim,"(84825, 84844)",Support
+The President has submitted a number of proposals to Congress to do just that,Premise,"(9382, 9459)","in many instances the House, controlled by the Democrats, has opposed them",Claim,"(9465, 9539)",Support
+he spoke in praise of deficits several times,Claim,"(18586, 18630)",why I thought that his record bespoke his possible taking us back to the same things that we knew under the previous administration,Premise,"(18434, 18565)",Support
+it's just about finished already,Claim,"(38572, 38604)","Yes, I feel as strongly as anyone about the preservation of the environment",Claim,"(38255, 38330)",Support
+"In America, on basic moral questions",Premise,"(47354, 47390)",we have always let the people decide in their own personal lives,Claim,"(47391, 47455)",Support
+They want these young people to have a chance to get jobs and the rest,Claim,"(68133, 68203)",I think the American people want to make certain that that dollar is wisely spent,Claim,"(67929, 68010)",Support
+"President Kennedy once said in response to similar arguments, ""We are great, but we can be greater.''",Premise,"(85062, 85163)",The question is our future,Claim,"(85034, 85060)",Support
+These people depend upon all of us for the little security that they have,Premise,"(9940, 10013)",but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.,Claim,"(9806, 9939)",Support
+said they weren't to be abhorred,Premise,"(18632, 18664)",he spoke in praise of deficits several times,Claim,"(18586, 18630)",Support
+"we found that the national parks were so dirty and contained so many hazards, lack of safety features",Claim,"(38353, 38454)",it's just about finished already,Claim,"(38572, 38604)",Support
+We haven't felt so insecure that we've reached for the club of state to have our point of view.,Claim,"(47457, 47552)",It's been a good instinct.,Claim,"(47553, 47579)",Support
+I think they're asking for new and creative ways to try to reach it with everyone involved,Claim,"(68259, 68349)",I think the American people want to make certain that that dollar is wisely spent,Claim,"(67929, 68010)",Support
+"President Kennedy once said in response to similar arguments, ""We are great, but we can be greater.''",Premise,"(85062, 85163)","We can be better if we face our future, rejoice in our strengths, face our problems, and by solving them, build a better society for our children",Claim,"(85164, 85309)",Support
+but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.,Claim,"(9806, 9939)",I proposed over a hundred billion dollars in cuts in Federal spending over 4 years,Claim,"(9722, 9804)",Support
+he wished the deficit could be doubled,Premise,"(18715, 18753)",he spoke in praise of deficits several times,Claim,"(18586, 18630)",Support
+now we're going back to budgeting for additional lands for our parks.,Claim,"(38631, 38700)","We have added millions of acres to the wilderness lands, to the game refuges.",Claim,"(38701, 38778)",Support
+"it's not that simple, either",Claim,"(48503, 48531)",I don't know the answer to when life begins,Claim,"(48454, 48497)",Support
+The connection that's been made again between the deficit and the interest rates,Premise,"(68707, 68787)",there is no connection between them,Claim,"(68791, 68826)",Support
+I believe there's fundamental fairness crying out that needs to be achieved in our tax system,Claim,"(84134, 84227)",We have restored much of our economy,Claim,"(80474, 80510)",Attack
+I'm not going to do it that way,Claim,"(10019, 10050)",but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.,Claim,"(9806, 9939)",Equivalent
+they stimulate the economy and helped reduce unemployment,Premise,"(18763, 18820)",he spoke in praise of deficits several times,Claim,"(18586, 18630)",Support
+"I was chairman of ""Minnesotans for Kennedy;'' President Reagan was chairman of a thing called ""Democrats for Nixon",Premise,"(39244, 39358)",maybe we made a wrong turn with Kennedy,Claim,"(39367, 39406)",Support
+You've got another life involved,Premise,"(48533, 48565)","it's not that simple, either",Claim,"(48503, 48531)",Support
+"while they were coming down, the deficits had started their great increase",Premise,"(69101, 69175)",They were going up,Premise,"(69177, 69195)",Support
+but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.,Claim,"(9806, 9939)",The rate of defense spending increase can be slowed,Claim,"(10052, 10103)",Support
+"that was an example of a partnership between, not only local government and the Federal Government but also between the private sector that built that particular structure",Premise,"(19360, 19531)",We have believed in partnership,Claim,"(19323, 19354)",Support
+I'm very happy that John Kennedy was elected,Claim,"(39464, 39508)",I'll be proud of supporting him all of my life,Claim,"(39412, 39458)",Support
+"it's a personal and private, moral judgment",Claim,"(48409, 48452)","it's not that simple, either",Claim,"(48503, 48531)",Support
+They were going up,Premise,"(69177, 69195)",if there was a connection I think that there would be a different parallel between deficits getting larger and interest rates going down.,Claim,"(69202, 69339)",Support
+there are other ways of squeezing this budget without constantly picking on our senior citizens and the most vulnerable in American life,Premise,"(10182, 10318)",but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.,Claim,"(9806, 9939)",Support
+We have believed in partnership,Claim,"(19323, 19354)",this is what we've been trying to do,Premise,"(19537, 19573)",Support
+"John Kennedy looked at the future with courage, saw what needed to be done, and understood his own government",Premise,"(39518, 39627)",I'm very happy that John Kennedy was elected,Claim,"(39464, 39508)",Support
+You've got another life involved,Premise,"(48533, 48565)","it's a personal and private, moral judgment",Claim,"(48409, 48452)",Support
+"I would call to your attention that in 1981 while we were operating still on the Carter-Mondale budget that we inherited -- that the interest rates came down from 21\1/2\, down toward the 12 or 13 figure",Premise,"(68892, 69095)",if there was a connection I think that there would be a different parallel between deficits getting larger and interest rates going down.,Claim,"(69202, 69339)",Support
+"Certainly we can find a coffeepot that costs something less than $7,000",Claim,"(10105, 10176)",The rate of defense spending increase can be slowed,Claim,"(10052, 10103)",Support
+this is what we've been trying to do,Premise,"(19537, 19573)",involve the Federal Government in such partnerships,Claim,"(19578, 19629)",Support
+It's not,Claim,"(20356, 20364)",The President just said that his government is shrinking,Premise,"(39629, 39685)",Attack
+"if it's rape, how do you draw moral judgments on that?",Claim,"(48571, 48625)","it's a personal and private, moral judgment",Claim,"(48409, 48452)",Support
+if there was a connection I think that there would be a different parallel between deficits getting larger and interest rates going down.,Claim,"(69202, 69339)",there is no connection between them,Claim,"(68791, 68826)",Support
+there are other ways of squeezing this budget without constantly picking on our senior citizens and the most vulnerable in American life,Premise,"(10182, 10318)","that's why the Congress, including the Republicans, have not gone along with the President's recommendations.",Claim,"(10324, 10433)",Support
+We have believed in partnership,Claim,"(19323, 19354)",involve the Federal Government in such partnerships,Claim,"(19578, 19629)",Support
+It's not,Claim,"(20356, 20364)",The leadership isn't taking us where we want to go,Claim,"(37113, 37163)",Attack
+"If it's incest, how do you draw moral judgments on that?",Claim,"(48626, 48682)","it's a personal and private, moral judgment",Claim,"(48409, 48452)",Support
+we have brought inflation down so low,Premise,"(69507, 69544)",I don't think there is any excuse for the interest rates being as high as they are,Claim,"(69416, 69498)",Support
+he has a plan for raising taxes,Claim,"(10735, 10766)",I don't believe that Mr. Mondale has a plan for balancing the budget,Claim,"(10665, 10733)",Support
+We are today subsidizing housing for more than 10 million people,Claim,"(19631, 19695)",Our policy was not to cut subsidies.,Claim,"(19286, 19322)",Support
+It's now the largest peacetime government ever in terms of the take from the total economy,Claim,"(39697, 39787)",It's not,Claim,"(20356, 20364)",Support
+It won't work.,Claim,"(48809, 48823)",Does every woman in America have to present herself before some judge picked by Jerry Falwell to clear her personal judgment?,Claim,"(48683, 48808)",Support
+We're going to see that it doesn't,Claim,"(69749, 69783)",it isn't going to go back up.,Claim,"(69719, 69748)",Support
+"as a matter of fact, the biggest single tax increase in our nation's history took place 1977.",Premise,"(10773, 10866)",he has a plan for raising taxes,Claim,"(10735, 10766)",Support
+We are today subsidizing housing for more than 10 million people,Claim,"(19631, 19695)",we're going to continue along that line,Claim,"(19701, 19740)",Support
+"instead of retreating -- instead of being strong where we should be strong, he wants to make it strong and intervene in the most private and personal questions in American life",Premise,"(39793, 39969)",That's where government should not be,Claim,"(39971, 40008)",Support
+"I don't think you are, any of us, to make this determination that must be made with regard to human life",Claim,"(49406, 49510)",I'm not capable,Claim,"(49385, 49400)",Support
+I think it can only be that they're anticipating or hope,Claim,"(69546, 69602)",maybe we don't have a control of inflation and it's going to go back up again,Claim,"(69634, 69711)",Support
+"for the 5 years previous to our taking office, taxes doubled in the United States",Claim,"(10871, 10952)",he has a plan for raising taxes,Claim,"(10735, 10766)",Support
+"We have no thought of throwing people out into the snow, whether because of age or need.",Claim,"(19742, 19830)",Our policy was not to cut subsidies.,Claim,"(19286, 19322)",Support
+Before I campaigned as a Democrat for a Republican candidate for President,Premise,"(40042, 40116)",I had already voted for Dwight Eisenhower to be President of the United States,Claim,"(40118, 40196)",Support
+"I don't think you are, any of us, to make this determination that must be made with regard to human life",Claim,"(49406, 49510)",I don't think that any of us should be called upon here to stand and make a decision as to what other things might come under the self-defense tradition,Claim,"(49625, 49777)",Support
+you said that these deficits don't have anything to do with interest rates,Premise,"(69932, 70006)",there is no connection between them,Claim,"(68791, 68826)",Support
+the budgets increased $318 billion,Claim,"(10958, 10992)",there is no ratio between taxing and balancing a budget,Claim,"(10998, 11053)",Support
+We have preserved the safety net for the people with true need in this country,Claim,"(19831, 19909)",Our policy was not to cut subsidies.,Claim,"(19286, 19322)",Support
+my change had come earlier than that,Claim,"(40206, 40242)",I hadn't gotten around to reregistering as yet,Claim,"(40244, 40290)",Support
+when you once recognize that we're talking about a life,Premise,"(49824, 49879)","That, too, would have to be worked out then",Claim,"(49779, 49822)",Support
+There's no way of glossing around that,Claim,"(70137, 70175)",I will grant you that interest rates were too high in 1980,Claim,"(70008, 70066)",Support
+"for the 5 years previous to our taking office, taxes doubled in the United States",Claim,"(10871, 10952)",there is no ratio between taxing and balancing a budget,Claim,"(10998, 11053)",Support
+it has been pure demagoguery that we have in some way shut off all the charitable programs or many of them for the people who have real need.,Claim,"(19915, 20056)",Our policy was not to cut subsidies.,Claim,"(19286, 19322)",Support
+I found that was rather difficult to do,Claim,"(40292, 40331)",I hadn't gotten around to reregistering as yet,Claim,"(40244, 40290)",Support
+that's why I was a principal sponsor of a liberal adoption law,Claim,"(50353, 50415)",I agree with that,Claim,"(50330, 50347)",Support
+what's called the real interest rates,Premise,"(70229, 70266)",that's still the case today,Claim,"(70340, 70367)",Support
+Whether you borrow the money or whether you simply tax it away from the people,Premise,"(11055, 11133)",you're taking the same amount of money out of the private sector,Claim,"(11135, 11199)",Support
+The safety net is there,Claim,"(20057, 20080)",We have preserved the safety net for the people with true need in this country,Claim,"(19831, 19909)",Equivalent
+The farmers were the victims of the double-digit inflation and the 21\1/2\-percent interest rates of the Carter-Mondale administration and the grain embargo,Premise,"(40593, 40749)",The farmers are not the victims of anything this administration has done,Claim,"(40519, 40591)",Support
+I agree with that,Claim,"(50330, 50347)",There are a million and a half people out there standing in line waiting to adopt children who can't have them any other way.,Claim,"(50173, 50298)",Support
+it's attributable to the deficit,Claim,"(70465, 70497)",there is no connection between them,Claim,"(68791, 68826)",Attack
+there is no ratio between taxing and balancing a budget,Claim,"(10998, 11053)",unless and until you bring down government's share of what it is taking,Claim,"(11201, 11272)",Support
+We have preserved the safety net for the people with true need in this country,Claim,"(19831, 19909)",we're taking care of more people than has ever been taken care of before by any administration in this country,Claim,"(20086, 20196)",Support
+The farmers were the victims of the double-digit inflation and the 21\1/2\-percent interest rates of the Carter-Mondale administration and the grain embargo,Premise,"(40593, 40749)",which destroyed our reliability nationwide as a supplier.,Claim,"(40751, 40808)",Support
+so that more of these children could come to term,Claim,"(50417, 50466)",that's why I was a principal sponsor of a liberal adoption law,Claim,"(50353, 50415)",Support
+it's attributable to the deficit,Claim,"(70465, 70497)",the result is interest costs that have never been seen before in terms of real charges,Claim,"(70373, 70459)",Support
+"A President should never say ""never.''",Claim,"(11395, 11433)","I'm going to violate that rule and say ""never.''",Claim,"(11438, 11486)",Support
+it has been pure demagoguery that we have in some way shut off all the charitable programs or many of them for the people who have real need.,Claim,"(19915, 20056)",we're taking care of more people than has ever been taken care of before by any administration in this country,Claim,"(20086, 20196)",Support
+"As a matter of fact, there has been less than one-quarter of 1 percent of foreclosures of the 270,000 loans from government that the farmers have.",Premise,"(40914, 41060)","All of these things are presently being rectified, and I think that we are going to salvage the farmers.",Claim,"(40809, 40913)",Support
+so that the young mothers were educated,Claim,"(50468, 50507)",that's why I was a principal sponsor of a liberal adoption law,Claim,"(50353, 50415)",Support
+"Every chairman of the Finance and Ways and Means Committee, Republican leaders in the Senate and the House are telling you",Premise,"(70649, 70771)",deficit is ruining the long-term hopes for this economy,Claim,"(70783, 70838)",Support
+I will never stand for a reduction of the Social Security benefits to the people that are now getting them,Claim,"(11487, 11593)","I'm going to violate that rule and say ""never.''",Claim,"(11438, 11486)",Support
+We are today subsidizing housing for more than 10 million people,Claim,"(19631, 19695)",we're taking care of more people than has ever been taken care of before by any administration in this country,Claim,"(20086, 20196)",Support
+that's why I was a principal sponsor of a liberal adoption law,Claim,"(50353, 50415)","so we found an option, an alternative",Premise,"(50509, 50546)",Support
+It's causing high interest rates,Premise,"(70840, 70872)",deficit is ruining the long-term hopes for this economy,Claim,"(70783, 70838)",Support
+that's exactly the commitment that was made to the American people in 1980:,Premise,"(11632, 11707)",He would never reduce benefits,Claim,"(11708, 11738)",Support
+Our policy was not to cut subsidies.,Claim,"(19286, 19322)",we're taking care of more people than has ever been taken care of before by any administration in this country,Claim,"(20086, 20196)",Support
+I don't agree with it,Claim,"(50661, 50682)",the question is whether this other option proposed by the President should be pursued,Claim,"(50570, 50655)",Support
+It's ruining us in trade,Premise,"(70874, 70898)",deficit is ruining the long-term hopes for this economy,Claim,"(70783, 70838)",Support
+He would never reduce benefits,Claim,"(11708, 11738)",Everybody remembers that,Claim,"(12085, 12109)",Support
+the housing unit for senior citizens that the President dedicated in Buffalo was only made possible through a Federal assistance program for senior citizens that the President's budget sought to terminate.,Premise,"(20794, 20999)","if he'd had his way, there wouldn't have been any housing project there at all",Claim,"(21004, 21082)",Support
+I don't agree with it,Claim,"(50661, 50682)","I believe that until and unless someone can establish that the unborn child is not a living human being, then that child is already protected by the Constitution",Claim,"(42417, 42578)",Attack
+It's given us the highest small business failure in 50 years,Premise,"(70900, 70960)",deficit is ruining the long-term hopes for this economy,Claim,"(70783, 70838)",Support
+what happened right after the election is they proposed to cut Social Security benefits by 25 percent,Premise,"(11755, 11856)",people know what happened,Claim,"(12111, 12136)",Support
+"if he'd had his way, there wouldn't have been any housing project there at all",Claim,"(21004, 21082)",Our policy was not to cut subsidies.,Claim,"(19286, 19322)",Attack
+Net farm income is off 50 percent in the last 3 years,Premise,"(50794, 50847)",every farmer knows it,Claim,"(50853, 50874)",Support
+It's causing high interest rates,Premise,"(70840, 70872)",there is no connection between them,Claim,"(68791, 68826)",Attack
+reducing the adjustment for inflation,Premise,"(11860, 11897)",people know what happened,Claim,"(12111, 12136)",Support
+"if he'd had his way, there wouldn't have been any housing project there at all",Claim,"(21004, 21082)",we're taking care of more people than has ever been taken care of before by any administration in this country,Claim,"(20086, 20196)",Attack
+the effect of these economic policies is like a massive grain embargo,Claim,"(50880, 50949)",which has caused farm exports to drop 20 percent,Claim,"(50951, 50999)",Support
+The economy is starting downhill with housing failure,Claim,"(70962, 71015)",deficit is ruining the long-term hopes for this economy,Claim,"(70783, 70838)",Support
+cutting out minimum benefits for the poorest on Social Security,Premise,"(11899, 11962)",people know what happened,Claim,"(12111, 12136)",Support
+When we took office,Premise,"(21344, 21363)",we discovered that the program that the Carter-Mondale administration had said would solve the fiscal problems of Social Security for the next 50 years wouldn't solve them for 5,Claim,"(21365, 21542)",Support
+the effect of these economic policies is like a massive grain embargo,Claim,"(50880, 50949)",It's been a big failure,Claim,"(51001, 51024)",Support
+removing educational benefits for dependents whose widows were trying -- with widows trying to get them through college,Premise,"(11964, 12083)",people know what happened,Claim,"(12111, 12136)",Support
+who said we have to do something before the program goes broke and the checks bounce,Premise,"(21718, 21802)","Any proposals that I made at that time were at the request of the chairman, a Democrat, of one of the leading committees,",Claim,"(21596, 21717)",Support
+It's been a big failure,Claim,"(51001, 51024)",I opposed the grain embargo in my administration,Claim,"(51026, 51074)",Support
+Everybody remembers that,Claim,"(12085, 12109)",There's a difference,Claim,"(12138, 12158)",Support
+"Any proposals that I made at that time were at the request of the chairman, a Democrat, of one of the leading committees,",Claim,"(21596, 21717)",we made a proposal,Claim,"(21812, 21830)",Support
+I opposed the grain embargo in my administration,Claim,"(51026, 51074)",I'm opposed to these policies as well.,Claim,"(51076, 51114)",Support
+people know what happened,Claim,"(12111, 12136)",There's a difference,Claim,"(12138, 12158)",Support
+"3 days after the election in 1982, they came to us and said, Social Security, we know, is broke",Premise,"(21924, 22019)",we had to borrow $17 billion to pay the checks,Claim,"(22029, 22075)",Support
+I have fought for Social Security and Medicare and for things to help people who are vulnerable all my life,Claim,"(12160, 12267)",I will do it as President of the United States,Claim,"(12273, 12319)",Support
+the whole matter of what to do with Social Security has been resolved by bipartisan legislation,Premise,"(22208, 22303)","I asked for a bipartisan commission, which I'd asked for from the beginning, to sit down and work out a solution",Claim,"(22086, 22198)",Support
+that's exactly the commitment that was made to the American people in 1980:,Premise,"(11632, 11707)","I'm going to violate that rule and say ""never.''",Claim,"(11438, 11486)",Attack
+it is on a sound basis now for as far as you can see into the next century,Premise,"(22309, 22383)","I asked for a bipartisan commission, which I'd asked for from the beginning, to sit down and work out a solution",Claim,"(22086, 22198)",Support

@@ -1,0 +1,757 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+I can make American safer than President Bush has made us,Claim,"(2039, 2096)","Yes, I do",Claim,"(1697, 1706)",Support
+the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",that's what we're doing,Claim,"(21798, 21821)",Support
+"we all know that in his state of the union message, he told Congress about nuclear materials that didn't exist",Premise,"(35177, 35287)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+That was a great doctrine throughout the Cold War,Premise,"(53036, 53085)","The president always has the right, and always has had the right, for preemptive strike",Claim,"(52947, 53034)",Support
+we signed an agreement with North Korea that my administration found out that was not being honored by the North Koreans,Premise,"(56572, 56692)","I decided that a better way to approach the issue was to get other nations involved, just besides us",Claim,"(56701, 56801)",Support
+I defended this country as a young man in war,Premise,"(79430, 79475)",I will defend it as president of the United States,Claim,"(79481, 79531)",Support
+we just have a different set of convictions about how you make America safe,Claim,"(2168, 2243)",I can make American safer than President Bush has made us,Claim,"(2039, 2096)",Support
+That is the best way,Claim,"(21920, 21940)",the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",Equivalent
+It is not the kind of coalition we were described when we were talking about voting for this,Premise,"(35397, 35489)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+it was always one of the things we argued about with respect to arms control,Premise,"(53091, 53167)","The president always has the right, and always has had the right, for preemptive strike",Claim,"(52947, 53034)",Support
+"I decided that a better way to approach the issue was to get other nations involved, just besides us",Claim,"(56701, 56801)","North Korea, first, I do",Claim,"(56401, 56425)",Support
+I believe when we're strongest when we reach out and lead the world and build strong alliances,Claim,"(79578, 79672)",I have a difference with this president,Claim,"(79537, 79576)",Support
+I believe America is safest and strongest when we are leading the world and we are leading strong alliances,Claim,"(2245, 2352)",I can make American safer than President Bush has made us,Claim,"(2039, 2096)",Support
+"We've got 100,000 trained now",Premise,"(21823, 21852)",the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",Support
+he promised America that he was going to build this coalition,Premise,"(35302, 35363)",It is not the kind of coalition we were described when we were talking about voting for this,Premise,"(35397, 35489)",Support
+"No president, through all of American history, has ever ceded, and nor would I, the right to preempt in any way necessary to protect the United States of America",Premise,"(53169, 53330)","The president always has the right, and always has had the right, for preemptive strike",Claim,"(52947, 53034)",Support
+the policy of this government was to have bilateral negotiations with North Korea,Premise,"(56485, 56566)",we signed an agreement with North Korea that my administration found out that was not being honored by the North Koreans,Premise,"(56572, 56692)",Support
+I have a plan for Iraq,Premise,"(79674, 79696)",I have a difference with this president,Claim,"(79537, 79576)",Support
+I'll never give a veto to any country over our security,Premise,"(2354, 2409)",I believe America is safest and strongest when we are leading the world and we are leading strong alliances,Claim,"(2245, 2352)",Support
+"125,000 by the end of this year",Premise,"(21854, 21885)",the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",Support
+The president said he would exhaust the remedies of the United Nations and go through that full process. He didn't,Premise,"(35491, 35605)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+"you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons",Claim,"(53364, 53597)","The president always has the right, and always has had the right, for preemptive strike",Claim,"(52947, 53034)",Attack
+"in Crawford, Texas, Jiang Zemin and I agreed that the nuclear-weapons-free peninsula, Korean Peninsula, was in his interest and our interest and the world's interest",Premise,"(56807, 56972)","we began a new dialogue with North Korea, one that included not only the United States, but now China",Claim,"(56981, 57082)",Support
+"we need a fresh start, a new credibility, a president who can bring allies to our side",Claim,"(79792, 79878)",I have a difference with this president,Claim,"(79537, 79576)",Support
+I also know how to lead those alliances,Claim,"(2415, 2454)",we just have a different set of convictions about how you make America safe,Claim,"(2168, 2243)",Support
+"200,000 by the end of next year",Premise,"(21887, 21918)",the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",Support
+"He cut if off, sort of arbitrarily",Premise,"(35607, 35641)",The president said he would exhaust the remedies of the United Nations and go through that full process. He didn't,Premise,"(35491, 35605)",Support
+"I mean, we can remember when President Kennedy in the Cuban missile crisis sent his secretary of state to Paris to meet with DeGaulle",Premise,"(53729, 53862)","you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons",Claim,"(53364, 53597)",Support
+"China's a got a lot of influence over North Korea, some ways more than we do",Premise,"(57088, 57164)","we began a new dialogue with North Korea, one that included not only the United States, but now China",Claim,"(56981, 57082)",Support
+"If America shows uncertainty or weakness in this decade, the world will drift toward tragedy",Claim,"(80586, 80678)","That's not going to happen, so long as I'm your president",Claim,"(80680, 80737)",Support
+This president has left them in shatters across the globe,Premise,"(2456, 2513)",we just have a different set of convictions about how you make America safe,Claim,"(2168, 2243)",Support
+We'll never succeed in Iraq if the Iraqi citizens do not want to take matters into their own hands to protect themselves,Claim,"(21942, 22062)",the best indication about when we can bring our troops home is to see the Iraqis perform and to see the Iraqis step up and take responsibility,Claim,"(22140, 22200)",Support
+They just decided the time for diplomacy is over and rushed to war without planning for what happens afterwards,Premise,"(35709, 35820)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+"in the middle of the discussion, to tell them about the missiles in Cuba, he said, ""Here, let me show you the photos."" And DeGaulle waved them off and said, ""No, no, no, no. The word of the president of the United States is good enough for me.""",Premise,"(53868, 54112)","you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons",Claim,"(53364, 53597)",Support
+"we included South Korea, Japan and Russia",Premise,"(57175, 57216)","we began a new dialogue with North Korea, one that included not only the United States, but now China",Claim,"(56981, 57082)",Support
+The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)","That's not going to happen, so long as I'm your president",Claim,"(80680, 80737)",Support
+we're now 90 percent of the casualties in Iraq and 90 percent of the costs,Premise,"(2519, 2593)",This president has left them in shatters across the globe,Premise,"(2456, 2513)",Support
+the best way for Iraq to be safe and secure is for Iraqi citizens to be trained to do the job,Claim,"(21699, 21792)",the best indication about when we can bring our troops home is to see the Iraqis perform and to see the Iraqis step up and take responsibility,Claim,"(22140, 22200)",Support
+They obviously didn't,Premise,"(35908, 35929)",he misled the American people in his speech when he said we will plan carefully,Claim,"(35827, 35906)",Support
+Here we have our own secretary of state who has had to apologize to the world for the presentation he made to the United Nations,Premise,"(53599, 53727)","you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons",Claim,"(53364, 53597)",Attack
+"now there are five voices speaking to Kim Jong Il, not just one",Premise,"(57221, 57284)","we began a new dialogue with North Korea, one that included not only the United States, but now China",Claim,"(56981, 57082)",Support
+We will strengthen our intelligence-gathering services,Claim,"(80813, 80867)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+I think we can do better,Claim,"(2621, 2645)",I think that's wrong,Claim,"(2595, 2615)",Support
+Prime Minister Allawi believes they want to,Premise,"(22088, 22131)",I believe they want to,Claim,"(22064, 22086)",Support
+he misled the American people in his speech when he said we will plan carefully,Claim,"(35827, 35906)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+what is at test here is the credibility of the United States of America and how we lead the world,Claim,"(54218, 54315)","How many leaders in the world today would respond to us, as a result of what we've done, in that way?",Claim,"(54113, 54214)",Attack
+"he'd be doing injustice to China, as well",Claim,"(57391, 57432)","if Kim Jong Il decides again to not honor an agreement, he's not only doing injustice to America",Claim,"(57293, 57389)",Support
+We will reform our military,Claim,"(80869, 80896)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+I have a better plan for homeland security,Claim,"(2647, 2689)",I can make American safer than President Bush has made us,Claim,"(2039, 2096)",Support
+I believe they want to,Claim,"(22064, 22086)",the best indication about when we can bring our troops home is to see the Iraqis perform and to see the Iraqis step up and take responsibility,Claim,"(22140, 22200)",Support
+We did not go as a last resort,Claim,"(36007, 36037)",He misled the American people when he said we'd go to war as a last resort,Claim,"(35931, 36005)",Support
+Iran and Iraq are now more dangerous,Claim,"(54321, 54357)","As president, I'll never take my eye off that ball",Claim,"(54506, 54556)",Support
+"if Kim Jong Il decides again to not honor an agreement, he's not only doing injustice to America",Claim,"(57293, 57389)",I think this will work,Claim,"(57438, 57460)",Support
+The military will be an all-volunteer army,Claim,"(80898, 80940)",We will reform our military,Claim,"(80869, 80896)",Support
+I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",I have a better plan for homeland security,Claim,"(2647, 2689)",Support
+When our general is on the ground and Ambassador Negroponte tells me that Iraq is ready to defend herself from these terrorists,Premise,"(22471, 22598)",that's when,Claim,"(22731, 22742)",Support
+He misled the American people when he said we'd go to war as a last resort,Claim,"(35931, 36005)",I think he has not been candid with the American people,Claim,"(35075, 35130)",Support
+Iran and North Korea are now more dangerous,Claim,"(54361, 54404)","As president, I'll never take my eye off that ball",Claim,"(54506, 54556)",Support
+"we began a new dialogue with North Korea, one that included not only the United States, but now China",Claim,"(56981, 57082)",I think this will work,Claim,"(57438, 57460)",Support
+We will continue to stay on the offense,Claim,"(80942, 80981)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+by strengthening our military,Premise,"(2750, 2779)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+that elections will have been held by then,Premise,"(22600, 22642)",that's when,Claim,"(22731, 22742)",Support
+most Americans know the difference,Premise,"(36043, 36077)",We did not go as a last resort,Claim,"(36007, 36037)",Support
+I've been fighting for proliferation the entire time -- anti-proliferation the entire time I've been in the Congress,Premise,"(54558, 54674)",we've watched this president actually turn away from some of the treaties that were on the table,Premise,"(54680, 54776)",Support
+It's not going to work if we open up a dialogue with Kim Jong Il,Claim,"(57462, 57526)",I think this will work,Claim,"(57438, 57460)",Attack
+We will fight the terrorists around the world,Claim,"(80983, 81028)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+strengthening our intelligence,Premise,"(2781, 2811)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+their stability and that they're on their way to a nation that's free,Premise,"(22649, 22697)",that's when,Claim,"(22731, 22742)",Support
+I've worked with those leaders the president talks about,Premise,"(36195, 36251)",I know what many of them say today,Claim,"(36325, 36359)",Support
+we've watched this president actually turn away from some of the treaties that were on the table,Premise,"(54680, 54776)","You don't help yourself with other nations when you turn away from the global warming treaty, for instance, or when you refuse to deal at length with the United Nations",Premise,"(54778, 54946)",Support
+That's what he wants,Claim,"(57528, 57548)",It's not going to work if we open up a dialogue with Kim Jong Il,Claim,"(57462, 57526)",Support
+we do not have to face them here at home,Claim,"(81032, 81072)",We will fight the terrorists around the world,Claim,"(80983, 81028)",Support
+by going after the financing more authoritatively,Premise,"(2813, 2862)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+the best indication about when we can bring our troops home is to see the Iraqis perform and to see the Iraqis step up and take responsibility,Claim,"(22140, 22200)",that's when,Claim,"(22731, 22742)",Support
+"I've worked with them for 20 years, for longer than this president",Premise,"(36253, 36319)",I know what many of them say today,Claim,"(36325, 36359)",Support
+"You don't help yourself with other nations when you turn away from the global warming treaty, for instance, or when you refuse to deal at length with the United Nations",Premise,"(54778, 54946)",I think we have a lot of earning back to do,Claim,"(54983, 55026)",Support
+"He wants to unravel the six- party talks, or the five-nation coalition that's sending him a clear message",Claim,"(57550, 57655)",It's not going to work if we open up a dialogue with Kim Jong Il,Claim,"(57462, 57526)",Support
+We'll continue to build our alliances,Claim,"(81074, 81111)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+by doing what we need to do to rebuild the alliances,Premise,"(2864, 2916)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+I know putting artificial deadlines won't work,Claim,"(22785, 22831)",I hope it's as soon as possible,Claim,"(22748, 22779)",Attack
+I know what many of them say today,Claim,"(36325, 36359)",I know how to bring them back to the table,Claim,"(36365, 36407)",Support
+My attitude is you take preemptive action in order to protect the American people,Claim,"(55184, 55265)","you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons",Claim,"(53364, 53597)",Attack
+"We worked very closely with the foreign ministers of France, Germany and Great Britain, who have been the folks delivering the message to the mullahs that if you expect to be part of the world of nations, get rid of your nuclear programs.",Premise,"(57799, 58037)","On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions",Claim,"(57657, 57797)",Support
+"I'll never turn over America's national security needs to leaders of other countries, as we continue to build those alliances",Claim,"(81113, 81238)",We'll continue to build our alliances,Claim,"(81074, 81111)",Support
+by reaching out to the Muslim world,Premise,"(2918, 2953)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+I know putting artificial deadlines won't work,Claim,"(22785, 22831)","My opponent at one time said, ""Well, get me elected, I'll have them out of there in six months.""",Premise,"(22833, 22929)",Attack
+Osama bin Laden uses the invasion of Iraq in order to go out to people and say that America has declared war on Islam,Premise,"(36590, 36707)",We need to be smarter about now we wage a war on terror.,Claim,"(36709, 36765)",Support
+you act in order to make this country secure,Claim,"(55272, 55316)",My attitude is you take preemptive action in order to protect the American people,Claim,"(55184, 55265)",Support
+The IAEA is involved,Premise,"(58038, 58058)","On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions",Claim,"(57657, 57797)",Support
+we'll continue to spread freedom,Claim,"(81244, 81276)",The next four years we will continue to strengthen our homeland defenses,Claim,"(80739, 80811)",Support
+which the president has almost not done,Premise,"(2955, 2994)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+You can't do that and expect to win the war on terror,Claim,"(22930, 22983)","My opponent at one time said, ""Well, get me elected, I'll have them out of there in six months.""",Premise,"(22833, 22929)",Attack
+"I believe that Ronald Reagan, John Kennedy, and the others did that more effectively",Premise,"(36873, 36957)",I'm going to try to follow in their footsteps,Claim,"(36963, 37008)",Support
+I think it shows the difference of our opinion -- the difference of opinions,Claim,"(55420, 55496)",My opponent talks about me not signing certain treaties,Claim,"(55318, 55373)",Attack
+There's a special protocol recently been passed that allows for inspections,Premise,"(58060, 58135)","On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions",Claim,"(57657, 57797)",Support
+I believe in the transformational power of liberty,Claim,"(81278, 81328)",we'll continue to spread freedom,Claim,"(81244, 81276)",Support
+beginning to isolate the radical Islamic Muslims,Premise,"(3000, 3048)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+that's essential,Claim,"(23265, 23281)",A free Iraq will be an ally in the war on terror,Claim,"(23211, 23259)",Support
+I'm going to try to follow in their footsteps,Claim,"(36963, 37008)",We need to rebuild our alliances,Claim,"(36839, 36871)",Support
+I think it shows the difference of our opinion -- the difference of opinions,Claim,"(55420, 55496)",we've watched this president actually turn away from some of the treaties that were on the table,Premise,"(54680, 54776)",Attack
+"On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions",Claim,"(57657, 57797)",we've got a good strategy,Claim,"(58162, 58187)",Support
+I believe that the free Iraq is in this nation's interests,Claim,"(81330, 81388)",we'll continue to spread freedom,Claim,"(81244, 81276)",Support
+not have them isolate the United States of America,Premise,"(3050, 3100)",I have a better plan to be able to fight the war on terror,Claim,"(2691, 2749)",Support
+A free Iraq will be an ally in the war on terror,Claim,"(23211, 23259)",this is a vital mission,Claim,"(23185, 23208)",Support
+this has cost us deeply in the world,Claim,"(36084, 36120)",He misled the American people when he said we'd go to war as a last resort,Claim,"(35931, 36005)",Support
+This is a body based in The Hague where unaccountable judges and prosecutors can pull our troops or diplomats up for trial,Premise,"(55561, 55683)",I wouldn't join the International Criminal Court,Claim,"(55511, 55559)",Support
+"With respect to Iran, the British, French, and Germans were the ones who initiated an effort without the United States, regrettably, to begin to try to move to curb the nuclear possibilities in Iran",Premise,"(58231, 58429)","We worked very closely with the foreign ministers of France, Germany and Great Britain, who have been the folks delivering the message to the mullahs that if you expect to be part of the world of nations, get rid of your nuclear programs.",Premise,"(57799, 58037)",Attack
+I believe a free Afghanistan is in this nation's interest,Claim,"(81390, 81447)",we'll continue to spread freedom,Claim,"(81244, 81276)",Support
+I have a plan to have a summit with all of the allies,Premise,"(3140, 3193)",I know I can do a better job in Iraq,Claim,"(3102, 3138)",Support
+we'll get you home as soon as the mission's done,Claim,"(23127, 23175)",this is a vital mission,Claim,"(23185, 23208)",Support
+We need to be smarter about now we wage a war on terror.,Claim,"(36709, 36765)","I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not",Claim,"(36413, 36576)",Support
+I wouldn't join i,Claim,"(55689, 55706)",I wouldn't join the International Criminal Court,Claim,"(55511, 55559)",Equivalent
+"With respect to Iran, the British, French, and Germans were the ones who initiated an effort without the United States, regrettably, to begin to try to move to curb the nuclear possibilities in Iran",Premise,"(58231, 58429)",I believe we could have done better,Claim,"(58431, 58466)",Support
+I believe both a free Afghanistan and a free Iraq will serve as a powerful example for millions who plead in silence for liberty in the broader Middle East,Claim,"(81453, 81608)",we'll continue to spread freedom,Claim,"(81244, 81276)",Support
+something this president has not yet achieved,Premise,"(3195, 3240)",I know I can do a better job in Iraq,Claim,"(3102, 3138)",Support
+We'll give you all the equipment you need,Claim,"(23080, 23121)",this is a vital mission,Claim,"(23185, 23208)",Support
+We need to deny them the recruits,Claim,"(36766, 36799)","I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not",Claim,"(36413, 36576)",Support
+it's the right move not to join a foreign court that could -- where our people could be prosecuted,Claim,"(55805, 55903)",I wouldn't join the International Criminal Court,Claim,"(55511, 55559)",Support
+"I think the United States should have offered the opportunity to provide the nuclear fuel, test them, see whether or not they were actually looking for it for peaceful purposes",Claim,"(58468, 58644)",I believe we could have done better,Claim,"(58431, 58466)",Support
+not yet been able to do to bring people to the table,Premise,"(3242, 3294)",I know I can do a better job in Iraq,Claim,"(3102, 3138)",Support
+We're standing with you strong,Claim,"(23048, 23078)",this is a vital mission,Claim,"(23185, 23208)",Support
+We need to deny them the safe havens,Claim,"(36801, 36837)","I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not",Claim,"(36413, 36576)",Support
+I wouldn't join the International Criminal Court,Claim,"(55511, 55559)",My opponent is for joining the International Criminal Court,Claim,"(55905, 55964)",Attack
+"If they weren't willing to work a deal, then we could have put sanctions together",Claim,"(58646, 58727)","I think the United States should have offered the opportunity to provide the nuclear fuel, test them, see whether or not they were actually looking for it for peaceful purposes",Claim,"(58468, 58644)",Support
+We can do a better job of training the Iraqi forces to defend themselves,Claim,"(3296, 3368)",I know I can do a better job in Iraq,Claim,"(3102, 3138)",Support
+A free Iraq will set a powerful example in the part of the world that is desperate for freedom,Claim,"(23283, 23377)",this is a vital mission,Claim,"(23185, 23208)",Support
+We need to rebuild our alliances,Claim,"(36839, 36871)","I believe that a fresh start, new credibility, a president who can understand what we have to do to reach out to the Muslim world to make it clear that this is not",Claim,"(36413, 36576)",Support
+"I just think trying to be popular, kind of, in the global sense",Claim,"(55966, 56029)",My opponent is for joining the International Criminal Court,Claim,"(55905, 55964)",Support
+I believe we could have done better,Claim,"(58431, 58466)",The president did nothing,Claim,"(58729, 58754)",Attack
+I know that we can do a better job of preparing for elections,Claim,"(3374, 3435)",I know I can do a better job in Iraq,Claim,"(3102, 3138)",Support
+A free Iraq will help secure Israel,Claim,"(23379, 23414)",this is a vital mission,Claim,"(23185, 23208)",Support
+Osama bin Laden isn't going to determine how we defend ourselves,Claim,"(37189, 37253)",He said Osama bin Laden uses the invasion of Iraq as an excuse to spread hatred for America,Premise,"(37096, 37187)",Attack
+if it's not in our best interest makes no sense,Claim,"(56031, 56078)",My opponent is for joining the International Criminal Court,Claim,"(55905, 55964)",Support
+"With respect to North Korea, the real story: We had inspectors and television cameras in the nuclear reactor in North Korea",Premise,"(58756, 58879)",we knew where the fuel rods were,Premise,"(58947, 58979)",Support
+Saddam Hussein now sits in a prison cell,Premise,"(4417, 4457)",America and the world are safer for it,Claim,"(4459, 4497)",Support
+A free Iraq will enforce the hopes and aspirations of the reformers in places like Iran,Claim,"(23416, 23503)",this is a vital mission,Claim,"(23185, 23208)",Support
+Osama bin Laden isn't going to determine how we defend ourselves,Claim,"(37189, 37253)",Osama bin Laden uses the invasion of Iraq in order to go out to people and say that America has declared war on Islam,Premise,"(36590, 36707)",Attack
+I'm interested in working with our nations and do a lot of it,Claim,"(56080, 56141)",My opponent is for joining the International Criminal Court,Claim,"(55905, 55964)",Attack
+we knew where the fuel rods were,Premise,"(58947, 58979)",we knew the limits on their nuclear power,Premise,"(58985, 59026)",Support
+Libya has disarmed,Premise,"(4597, 4615)",We continue to pursue our policy of disrupting those who proliferate weapons of mass destruction,Claim,"(4499, 4595)",Support
+A free Iraq is essential for the security of this country,Claim,"(23505, 23562)",this is a vital mission,Claim,"(23185, 23208)",Support
+Osama bin Laden doesn't get to decide,Claim,"(37255, 37292)",Osama bin Laden isn't going to determine how we defend ourselves,Claim,"(37189, 37253)",Equivalent
+I'm not going to make decisions that I think are wrong for America,Claim,"(56147, 56213)",My opponent is for joining the International Criminal Court,Claim,"(55905, 55964)",Attack
+The president reversed it publicly while the president of South Korea was here,Premise,"(59161, 59239)",the president of South Korea went back to South Korea bewildered and embarrassed,Claim,"(59245, 59325)",Support
+The A.Q. Khan network has been brought to justice,Premise,"(4617, 4666)",We continue to pursue our policy of disrupting those who proliferate weapons of mass destruction,Claim,"(4499, 4595)",Support
+"I was in a rope line just the other day, coming out here from Wisconsin, a couple of young returnees were in the line, one active duty, one from the Guard. And they both looked at me and said: We need you. You've got to help us over there",Premise,"(23833, 24071)",I believe those troops deserve better than what they are getting today,Claim,"(23728, 23798)",Support
+The American people decide,Claim,"(37294, 37320)",Osama bin Laden doesn't get to decide,Claim,"(37255, 37292)",Support
+it went against his policy,Premise,"(59334, 59360)",the president of South Korea went back to South Korea bewildered and embarrassed,Claim,"(59245, 59325)",Support
+I understand free nations will reject terror,Premise,"(4745, 4789)",we're pursuing a strategy of freedom around the world,Claim,"(4682, 4735)",Support
+There's a sense of American occupation,Claim,"(24426, 24464)",I believe there's a better way to do this,Claim,"(24077, 24118)",Support
+I decided the right action was in Iraq,Claim,"(37322, 37360)",Osama bin Laden doesn't get to decide,Claim,"(37255, 37292)",Support
+the president of South Korea went back to South Korea bewildered and embarrassed,Claim,"(59245, 59325)","I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send",Claim,"(59695, 59797)",Support
+Free nations will answer the hopes and aspirations of their people,Premise,"(4791, 4857)",we're pursuing a strategy of freedom around the world,Claim,"(4682, 4735)",Support
+he said our troops would be occupiers in a bitterly hostile land,Premise,"(24314, 24378)",That's exactly where we find ourselves today,Claim,"(24380, 24424)",Support
+It wasn't a mistake,Claim,"(37394, 37413)",My opponent calls it a mistake,Claim,"(37362, 37392)",Attack
+"Colin Powell, our secretary of state, announced one day that we were going to continue the dialog of working with the North Koreans",Premise,"(59028, 59159)","I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send",Claim,"(59695, 59797)",Support
+Free nations will help us achieve the peace we all want,Premise,"(4859, 4914)",we're pursuing a strategy of freedom around the world,Claim,"(4682, 4735)",Support
+there was no viable exit strategy,Premise,"(24275, 24308)",That's exactly where we find ourselves today,Claim,"(24380, 24424)",Support
+I don't think he was misleading when he called Iraq a grave threat in the fall of 2002,Claim,"(37441, 37527)",He said I misled on Iraq,Premise,"(37415, 37439)",Attack
+"today, there are four to seven nuclear weapons in the hands of North Korea",Premise,"(59567, 59641)","I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send",Claim,"(59695, 59797)",Support
+We pursued Al Qaida wherever Al Qaida tries to hide,Claim,"(3868, 3919)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+"the president's father did not go into Iraq, into Baghdad, beyond Basra",Premise,"(24130, 24201)",there was no viable exit strategy,Premise,"(24275, 24308)",Support
+I don't think he was misleading when he said that it was right to disarm Iraq in the spring of 2003,Claim,"(37529, 37628)",He said I misled on Iraq,Premise,"(37415, 37439)",Attack
+"While they didn't talk at all, the fuel rods came out, the inspectors were kicked out, the television cameras were kicked out",Premise,"(59436, 59561)","I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send",Claim,"(59695, 59797)",Support
+Seventy-five percent of known Al Qaida leaders have been brought to justice,Claim,"(3921, 3996)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+That's exactly where we find ourselves today,Claim,"(24380, 24424)",There's a sense of American occupation,Claim,"(24426, 24464)",Support
+"I don't think he misled you when he said that, you know, anyone who doubted whether the world was better off without Saddam Hussein in power didn't have the judgment to be president",Claim,"(37630, 37811)",He said I misled on Iraq,Premise,"(37415, 37439)",Attack
+"for two years, this administration didn't talk at all to North Korea",Premise,"(59366, 59434)","I think, is one of the most serious, sort of, reversals or mixed messages that you could possibly send",Claim,"(59695, 59797)",Support
+The rest of them know we're after them,Claim,"(3998, 4036)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+The only building that was guarded when the troops when into Baghdad was the oil ministry,Premise,"(24466, 24555)",There's a sense of American occupation,Claim,"(24426, 24464)",Support
+I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war,Claim,"(37846, 37963)",I don't think he was misleading,Claim,"(37441, 37472)",Attack
+"The minute we have bilateral talks, the six-party talks will unwind",Claim,"(60365, 60432)","I want bilateral talks which put all of the issues, from the armistice of 1952, the economic issues, the human rights issues, the artillery disposal issues, the DMZ issues and the nuclear issues on the table",Claim,"(60107, 60314)",Attack
+"We've upheld the doctrine that said if you harbor a terrorist, you're equally as guilty as the terrorist",Premise,"(4038, 4142)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+We didn't guard the nuclear facilities,Premise,"(24557, 24595)",There's a sense of American occupation,Claim,"(24426, 24464)",Support
+I don't think he was misleading,Claim,"(37441, 37472)",He said I misled on Iraq,Premise,"(37415, 37439)",Attack
+That's exactly what Kim Jong Il wants,Claim,"(60434, 60471)","The minute we have bilateral talks, the six-party talks will unwind",Claim,"(60365, 60432)",Support
+Taliban are no longer in power,Premise,"(4152, 4182)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+"We didn't guard the foreign office, where you might have found information about weapons of mass destruction",Premise,"(24597, 24705)",There's a sense of American occupation,Claim,"(24426, 24464)",Support
+"As the politics change, his positions change",Claim,"(37977, 38021)",I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war,Claim,"(37846, 37963)",Support
+The breach on the agreement is highly enriched uranium,Premise,"(60544, 60598)",the breach on the agreement was not through plutonium,Premise,"(60489, 60542)",Support
+Ten million people have registered to vote in Afghanistan in the upcoming presidential election,Premise,"(4184, 4279)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+We didn't guard the borders,Premise,"(24707, 24734)",There's a sense of American occupation,Claim,"(24426, 24464)",Support
+that's not how a commander in chief acts,Claim,"(38027, 38067)","As the politics change, his positions change",Claim,"(37977, 38021)",Attack
+the breach on the agreement was not through plutonium,Premise,"(60489, 60542)",That's what we caught him doing,Premise,"(60600, 60631)",Support
+"In Iraq, we saw a threat, and we realized that after September the 11th, we must take threats seriously, before they fully materialize",Premise,"(4281, 4415)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+"Almost every step of the way, our troops have been left on these extraordinarily difficult missions",Claim,"(24736, 24835)",I believe our troops need other allies helping,Claim,"(24944, 24990)",Support
+"The intelligence I looked at was the same intelligence my opponent looked at, the very same intelligence",Premise,"(38084, 38188)",that's not how a commander in chief acts,Claim,"(38027, 38067)",Support
+That's what we caught him doing,Premise,"(60600, 60631)",That's where he was breaking the agreement,Claim,"(60633, 60675)",Support
+America and the world are safer for it,Claim,"(4459, 4497)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+I believe our troops need other allies helping,Claim,"(24944, 24990)",I'm going to hold that summit,Claim,"(24992, 25021)",Support
+"when I stood up there and spoke to the Congress, I was speaking off the same intelligence he looked at to make his decisions to support the authorization of force",Premise,"(38194, 38356)","The intelligence I looked at was the same intelligence my opponent looked at, the very same intelligence",Premise,"(38084, 38188)",Support
+we've already sanctioned Iran,Claim,"(60759, 60788)",my opponent said where he worked to put sanctions on Iran,Claim,"(60698, 60755)",Attack
+We continue to pursue our policy of disrupting those who proliferate weapons of mass destruction,Claim,"(4499, 4595)",our nation has been on a multi-pronged strategy to keep our country safer,Claim,"(3793, 3866)",Support
+"I will bring fresh credibility, a new start, and we will get the job done right",Claim,"(25023, 25102)",I'm going to hold that summit,Claim,"(24992, 25021)",Support
+Nor was I misleading on the day that the president decided to go to war,Claim,"(38465, 38536)",I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war,Claim,"(37846, 37963)",Attack
+We can't sanction them any more,Claim,"(60790, 60821)",we've already sanctioned Iran,Claim,"(60759, 60788)",Support
+"I believe I'm going to win,",Claim,"(5167, 5194)",I don't believe it's going to happen,Claim,"(5129, 5165)",Support
+Not a message a commander in chief gives,Claim,"(25405, 25445)","what kind of message does it say to our troops in harm's way, ""wrong war, wrong place, wrong time""?",Premise,"(25305, 25404)",Attack
+Nor was I misleading on the day that the president decided to go to war,Claim,"(38465, 38536)",I wasn't misleading when I said he was a threat,Claim,"(38416, 38463)",Support
+There are sanctions in place on Iran,Claim,"(60823, 60859)",we've already sanctioned Iran,Claim,"(60759, 60788)",Equivalent
+the American people know I know how to lead,Claim,"(5203, 5246)","I believe I'm going to win,",Claim,"(5167, 5194)",Support
+Not a message a commander in chief gives,Claim,"(25405, 25445)",Not what a commander in chief does when you're trying to lead troops,Claim,"(25701, 25769)",Support
+when I said that he had made a mistake in not building strong alliances,Claim,"(38537, 38608)",I wasn't misleading when I said he was a threat,Claim,"(38416, 38463)",Support
+"we were a party to the convention -- to working with Germany, France and Great Britain to send their foreign ministers into Iran",Claim,"(60874, 61002)","With respect to Iran, the British, French, and Germans were the ones who initiated an effort without the United States, regrettably, to begin to try to move to curb the nuclear possibilities in Iran",Premise,"(58231, 58429)",Attack
+I've shown the American people I know how to lead,Claim,"(5248, 5297)",the American people know I know how to lead,Claim,"(5203, 5246)",Support
+"this is a ""great diversion.""",Claim,"(25450, 25478)",Not what a commander in chief does when you're trying to lead troops,Claim,"(25701, 25769)",Support
+I would have preferred that he did more diplomacy,Claim,"(38618, 38667)",when I said that he had made a mistake in not building strong alliances,Claim,"(38537, 38608)",Support
+"In order for the sanctions to be effective, we should have been working with the British, French and Germans and other countries",Claim,"(61613, 61741)",we've already sanctioned Iran,Claim,"(60759, 60788)",Attack
+I understand everybody in this country doesn't agree with the decisions I've made,Premise,"(5309, 5390)",I've shown the American people I know how to lead,Claim,"(5248, 5297)",Attack
+it's certainly hard to tell it when he voted against the $87-billion supplemental to provide equipment for our troops,Premise,"(25512, 25629)",Not what a commander in chief does when you're trying to lead troops,Claim,"(25701, 25769)",Support
+Saddam Hussein was a threat,Claim,"(26838, 26865)",There was a right way to disarm him and a wrong way. And the president chose the wrong way,Claim,"(38751, 38841)",Support
+Only the United States put the sanctions on alone,Claim,"(61519, 61568)","In order for the sanctions to be effective, we should have been working with the British, French and Germans and other countries",Claim,"(61613, 61741)",Support
+I made some tough decisions,Premise,"(5396, 5423)",I understand everybody in this country doesn't agree with the decisions I've made,Premise,"(5309, 5390)",Support
+said he actually did vote for it before he voted against it,Premise,"(25640, 25699)",Not what a commander in chief does when you're trying to lead troops,Claim,"(25701, 25769)",Support
+There was a right way to disarm him and a wrong way. And the president chose the wrong way,Claim,"(38751, 38841)","I don't think he misled you when he said that, you know, anyone who doubted whether the world was better off without Saddam Hussein in power didn't have the judgment to be president",Claim,"(37630, 37811)",Attack
+"we can do this through the African Union, providing we give them the logistical support",Claim,"(62062, 62149)",I think the reason that we're not saying send American troops in at this point is severalfold,Claim,"(61955, 62048)",Support
+people know where I stand,Premise,"(5429, 5454)",I've shown the American people I know how to lead,Claim,"(5248, 5297)",Support
+That's what I learned in Vietnam,Premise,"(26052, 26084)","I believe that when you know something's going wrong, you make it right",Claim,"(25979, 26050)",Support
+He changes positions,Claim,"(38975, 38995)",The only thing consistent about my opponent's position is that he's been inconsistent,Claim,"(38888, 38973)",Support
+"we can do this through the African Union, providing we give them the logistical support",Claim,"(62062, 62149)",Right now all the president is providing is humanitarian support,Claim,"(62151, 62215)",Attack
+People out there listening know what I believe,Premise,"(5456, 5502)",people know where I stand,Premise,"(5429, 5454)",Support
+When I came back from that war I saw that it was wrong,Premise,"(26086, 26140)",That's what I learned in Vietnam,Premise,"(26052, 26084)",Support
+you cannot change positions in this war on terror if you expect to win,Claim,"(39001, 39071)",He changes positions,Claim,"(38975, 38995)",Support
+We need to do more than that,Claim,"(62217, 62245)",Right now all the president is providing is humanitarian support,Claim,"(62151, 62215)",Attack
+"This is a group of killers who will not only kill here, but kill children in Russia",Premise,"(5650, 5733)",We have a duty to defeat this enemy,Claim,"(5798, 5833)",Support
+"I believe that when you know something's going wrong, you make it right",Claim,"(25979, 26050)",I'm going to lead those troops to victory,Claim,"(26254, 26295)",Support
+It's necessary we win,Claim,"(39094, 39115)",I expect to win,Claim,"(39077, 39092)",Support
+We need to do more than that,Claim,"(62217, 62245)","we can do this through the African Union, providing we give them the logistical support",Claim,"(62062, 62149)",Support
+"that'll attack unmercifully in Iraq, hoping to shake our will",Premise,"(5735, 5796)",We have a duty to defeat this enemy,Claim,"(5798, 5833)",Support
+The president and I have always agreed on tha,Claim,"(26714, 26759)",I believe that we have to win this,Claim,"(26678, 26712)",Support
+We're being challenged like never before,Claim,"(39117, 39157)",I expect to win,Claim,"(39077, 39092)",Support
+They've got to have the logistical capacity to go in and stop the killing,Claim,"(62247, 62320)",We need to do more than that,Claim,"(62217, 62245)",Support
+We have a duty to protect our children and grandchildren,Claim,"(5835, 5891)",We have a duty to defeat this enemy,Claim,"(5798, 5833)",Support
+I believe that we have to win this,Claim,"(26678, 26712)","they don't have to, providing we have the leadership that we put -- that I'm offering",Claim,"(26591, 26676)",Support
+"we have a duty to our country and to future generations of America to achieve a free Iraq, a free Afghanistan, and to rid the world of weapons of mass destruction",Claim,"(39163, 39325)",It's necessary we win,Claim,"(39094, 39115)",Support
+Ask the people in the armed forces today,Premise,"(62469, 62509)",I also believe that it is -- one of the reasons we can't do it is we're overextended,Claim,"(62383, 62467)",Support
+We have a duty to defeat this enemy,Claim,"(5798, 5833)","The best way to defeat them is to never waver, to be strong, to use every asset at our disposal, is to constantly stay on the offensive and, at the same time, spread liberty",Claim,"(5893, 6066)",Support
+I thought Saddam Hussein was a threat,Premise,"(26828, 26865)",I did vote to give the authority,Claim,"(26786, 26818)",Support
+I understand the stakes of this war on terror,Premise,"(40219, 40264)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+We've got Guards and Reserves who are doing double duties,Premise,"(62511, 62568)",I also believe that it is -- one of the reasons we can't do it is we're overextended,Claim,"(62383, 62467)",Support
+Ten million citizens have registered to vote,Premise,"(6135, 6179)",that's what people are seeing now is happening in Afghanistan,Claim,"(6072, 6133)",Support
+I did accept that intelligence,Premise,"(26871, 26901)",I did vote to give the authority,Claim,"(26786, 26818)",Support
+I understand that we must find Al Qaida wherever they hide,Premise,"(40266, 40324)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+people with stop-loss programs where they're told you can't get out of the military,Premise,"(62628, 62711)",this is the way the president has overextended the United States,Claim,"(62832, 62896)",Support
+It's a phenomenal statistic,Premise,"(6181, 6208)",Ten million citizens have registered to vote,Premise,"(6135, 6179)",Support
+I also laid out a very strict series of things we needed to do in order to proceed from a position of strength,Premise,"(26907, 27017)",I did vote to give the authority,Claim,"(26786, 26818)",Support
+We must deal with threats before they fully materialize,Claim,"(40326, 40381)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+"nine out of our 10 active duty divisions committed to Iraq one way or the other, either going, coming or preparing",Premise,"(62713, 62827)",this is the way the president has overextended the United States,Claim,"(62832, 62896)",Support
+if given a chance to be free,Premise,"(6215, 6243)",they will show up at the polls,Claim,"(6245, 6275)",Support
+He didn't do any of those things,Claim,"(27239, 27271)",We will go with our allies,Premise,"(27210, 27236)",Attack
+"it's hard work to try to love her as best as I can, knowing full well that the decision I made caused her loved one to be in harm's way",Premise,"(39955, 40090)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+this is the way the president has overextended the United States,Claim,"(62832, 62896)",I also believe that it is -- one of the reasons we can't do it is we're overextended,Claim,"(62383, 62467)",Support
+they will show up at the polls,Claim,"(6245, 6275)",that's what people are seeing now is happening in Afghanistan,Claim,"(6072, 6133)",Support
+He didn't do any of those things,Claim,"(27239, 27271)",We will not make war inevitable,Premise,"(27177, 27208)",Attack
+I told her after we prayed and teared up and laughed some,Premise,"(40092, 40149)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+this is the way the president has overextended the United States,Claim,"(62832, 62896)","in my plan, I add two active duty divisions to the United States Army, not for Iraq, but for our general demands across the globe",Claim,"(62910, 63039)",Support
+Forty-one percent of those 10 million are women,Premise,"(6277, 6324)",that's what people are seeing now is happening in Afghanistan,Claim,"(6072, 6133)",Support
+He didn't do any of those things,Claim,"(27239, 27271)",We will proceed cautiously,Premise,"(27149, 27175)",Attack
+"I think about Missy Johnson. She's a fantastic lady I met in Charlotte, North Carolina. She and her son Bryan, they came to see me. Her husband PJ got killed. He'd been in Afghanistan, went to Iraq",Premise,"(39746, 39943)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+I also intend to double the number of special forces,Claim,"(63041, 63093)","in my plan, I add two active duty divisions to the United States Army, not for Iraq, but for our general demands across the globe",Claim,"(62910, 63039)",Support
+It's hard work,Claim,"(6366, 6380)",It's incredibly hard,Claim,"(6382, 6402)",Equivalent
+He didn't do any of those things,Claim,"(27239, 27271)","He went to Cincinnati and he gave a speech in which he said, ""We will plan carefully",Premise,"(27063, 27147)",Attack
+the hardest part of the job is to know that I committed the troops in harm's way and then do the best I can to provide comfort for the loved ones who lost a son or a daughter or a husband or wife,Claim,"(39539, 39734)",I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",Support
+"in my plan, I add two active duty divisions to the United States Army, not for Iraq, but for our general demands across the globe",Claim,"(62910, 63039)",we can do the job we need to do with respect fighting the terrorists around the world,Claim,"(63102, 63187)",Support
+It's hard work,Claim,"(6366, 6380)","In Iraq, no doubt about it, it's tough",Claim,"(6326, 6364)",Equivalent
+He didn't do any of those things,Claim,"(27239, 27271)","Then the president, in fact, promised them",Premise,"(27019, 27061)",Attack
+"in the long run, the way to defeat hatred and tyranny and oppression is to spread freedom",Claim,"(40456, 40545)",we must spread liberty,Claim,"(40425, 40447)",Support
+we could never allow another Rwanda,Premise,"(63413, 63448)","as president, if it took American forces to some degree to coalesce the African Union, I'd be prepared to do it",Claim,"(63293, 63404)",Support
+an enemy realizes the stakes,Premise,"(6426, 6454)",It's incredibly hard,Claim,"(6382, 6402)",Support
+He didn't do any of those things,Claim,"(27239, 27271)",They didn't do the planning,Claim,"(27273, 27300)",Support
+That's what she told me her husband understood,Premise,"(40570, 40616)",Missy understood that,Claim,"(40547, 40568)",Support
+It's a moral responsibility for us and the world,Premise,"(63450, 63498)","as president, if it took American forces to some degree to coalesce the African Union, I'd be prepared to do it",Claim,"(63293, 63404)",Support
+The enemy understands a free Iraq will be a major defeat in their ideology of hatred,Premise,"(6456, 6540)",It's incredibly hard,Claim,"(6382, 6402)",Support
+They left the planning of the State Department in the State Department desks,Claim,"(27302, 27378)",They didn't do the planning,Claim,"(27273, 27300)",Support
+Every life is precious,Premise,"(40649, 40671)",I think it's worth it,Claim,"(40741, 40762)",Attack
+It was not my administration that put the sanctions on Iran,Premise,"(63563, 63622)",Only the United States put the sanctions on alone,Claim,"(61519, 61568)",Attack
+It's incredibly hard,Claim,"(6382, 6402)",they're fighting so vociferously,Claim,"(6553, 6585)",Support
+They avoided even the advice of their own general,Claim,"(27380, 27429)",They didn't do the planning,Claim,"(27273, 27300)",Support
+Every life is precious,Premise,"(40649, 40671)",That's what distinguishes us from the enemy,Claim,"(40673, 40716)",Support
+"That happened long before I arrived in Washington, D.C",Premise,"(63624, 63678)",It was not my administration that put the sanctions on Iran,Premise,"(63563, 63622)",Support
+they tried to beat us and they didn't,Premise,"(6647, 6684)",They showed up in Afghanistan when they were there,Claim,"(6587, 6637)",Support
+"General Shinsheki, the Army chief of staff, said you're going to need several hundred thousand troops",Premise,"(27431, 27532)",They avoided even the advice of their own general,Claim,"(27380, 27429)",Support
+I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",I think it's worth it,Claim,"(40741, 40762)",Support
+Colin Powell so stated,Premise,"(63727, 63749)","In terms of Darfur, I agree it's genocide",Claim,"(63680, 63721)",Support
+They showed up in Afghanistan when they were there,Claim,"(6587, 6637)",they're fighting so vociferously,Claim,"(6553, 6585)",Support
+"Instead of listening to him, they retired him",Premise,"(27534, 27579)",They avoided even the advice of their own general,Claim,"(27380, 27429)",Support
+I think it's worth it,Claim,"(40741, 40762)",I think it's worth it,Claim,"(40741, 40762)",Equivalent
+We have committed $200 million worth of aid,Premise,"(63751, 63794)",We're the leading donor in the world to help the suffering people there,Claim,"(63796, 63867)",Support
+they're showing up in Iraq for the same reason,Claim,"(6690, 6736)",they're fighting so vociferously,Claim,"(6553, 6585)",Support
+"The terrorism czar, who has worked for every president since Ronald Reagan, said, ""Invading Iraq in response to 9/11 would be like Franklin Roosevelt invading Mexico in response to Pearl Harbor.""",Premise,"(27581, 27776)",They avoided even the advice of their own general,Claim,"(27380, 27429)",Support
+Everybody matters,Premise,"(40718, 40735)",I think it's worth it,Claim,"(40741, 40762)",Attack
+We ought to be working with the African Union to do so,Claim,"(64225, 64279)",I agree with my opponent that we shouldn't be committing troops,Claim,"(64160, 64223)",Support
+if we lose our will,Premise,"(6771, 6790)",we lose,Claim,"(6792, 6799)",Support
+They didn't do the planning,Claim,"(27273, 27300)",what we need now is a president who understands how to bring these other countries together to recognize their stakes in this,Claim,"(27807, 27932)",Support
+Missy understood that,Claim,"(40547, 40568)",I think it's worth it,Claim,"(40741, 40762)",Support
+precisely what we did in Liberia,Premise,"(64283, 64315)",We ought to be working with the African Union to do so,Claim,"(64225, 64279)",Support
+if we remain strong and resolute,Premise,"(6805, 6837)",we will defeat this enemy,Claim,"(6839, 6864)",Support
+They've always had stakes in it,Claim,"(27961, 27992)",They do have stakes in it,Claim,"(27934, 27959)",Equivalent
+And Saddam Hussein was a threat,Claim,"(40383, 40414)",I think it's worth it,Claim,"(40741, 40762)",Support
+"We helped stabilize the situation with some troops, and when the African Union came, we moved them out",Premise,"(64317, 64419)",We ought to be working with the African Union to do so,Claim,"(64225, 64279)",Support
+taking if off to Iraq where the 9/11 Commission confirms there was no connection to 9/11 itself and Saddam Hussein,Premise,"(7191, 7305)","This president has made, I regret to say, a colossal error of judgment",Claim,"(7413, 7483)",Support
+The Arab countries have a stake in not having a civil war,Claim,"(27994, 28051)",They do have stakes in it,Claim,"(27934, 27959)",Support
+I thought her husband's sacrifice was noble and worthy,Claim,"(40155, 40209)",I think it's worth it,Claim,"(40741, 40762)",Support
+I agree with my opponent that we shouldn't be committing troops,Claim,"(64160, 64223)",I think the reason that we're not saying send American troops in at this point is severalfold,Claim,"(61955, 62048)",Support
+"where the reason for going to war was weapons of mass destruction, not the removal of Saddam Hussein",Premise,"(7311, 7411)","This president has made, I regret to say, a colossal error of judgment",Claim,"(7413, 7483)",Support
+The European countries have a stake in not having total disorder on their doorstep,Claim,"(28053, 28135)",They do have stakes in it,Claim,"(27934, 27959)",Support
+"I know in the long term a free Iraq, a free Afghanistan, will set such a powerful example in a part of the world that's desperate for freedom",Premise,"(40811, 40952)",I think it's worth it,Claim,"(40741, 40762)",Support
+"He changes positions on something as fundamental as what you believe in your core, in your heart of hearts, is right in Iraq",Claim,"(65602, 65726)",he changes positions on the war in Iraq,Claim,"(65561, 65600)",Support
+smart means not diverting your attention from the real war on terror in Afghanistan against Osama bin Laden,Premise,"(7079, 7186)","This president has made, I regret to say, a colossal error of judgment",Claim,"(7413, 7483)",Support
+They do have stakes in it,Claim,"(27934, 27959)",what we need now is a president who understands how to bring these other countries together to recognize their stakes in this,Claim,"(27807, 27932)",Support
+It will help change the world,Claim,"(40954, 40983)",I think it's worth it,Claim,"(40741, 40762)",Support
+he changes positions on the war in Iraq,Claim,"(65561, 65600)",You cannot lead if you send mixed messages,Claim,"(65728, 65770)",Support
+judgment is what we look for in the president of the United States of America,Premise,"(7489, 7566)","This president has made, I regret to say, a colossal error of judgment",Claim,"(7413, 7483)",Support
+this president hasn't even held the kind of statesman-like summits that pull people together and get them to invest in those states,Claim,"(28141, 28272)",what we need now is a president who understands how to bring these other countries together to recognize their stakes in this,Claim,"(27807, 27932)",Attack
+we can look back and say we did our duty,Claim,"(40990, 41030)",I think it's worth it,Claim,"(40741, 40762)",Support
+Mixed messages send the wrong signals to our troops,Premise,"(65772, 65823)",You cannot lead if you send mixed messages,Claim,"(65728, 65770)",Support
+"I'm proud that important military figures who are supporting me in this race: former Chairman of the Joint Chiefs of Staff John Shalikashvili; just yesterday, General Eisenhower's son, General John Eisenhower, endorsed me; General Admiral William Crown; General Tony McBeak, who ran the Air Force war so effectively for his father",Premise,"(7568, 7898)",all believe I would make a stronger commander in chief,Claim,"(7902, 7956)",Support
+he's done the opposite,Claim,"(28283, 28305)",this president hasn't even held the kind of statesman-like summits that pull people together and get them to invest in those states,Claim,"(28141, 28272)",Support
+I know what it means to lose people in combat,Premise,"(41126, 41171)",I understand what the president is talking about,Claim,"(41068, 41116)",Support
+Mixed messages send the wrong signals to our allies,Premise,"(65825, 65876)",You cannot lead if you send mixed messages,Claim,"(65728, 65770)",Support
+"This president has made, I regret to say, a colossal error of judgment",Claim,"(7413, 7483)",all believe I would make a stronger commander in chief,Claim,"(7902, 7956)",Support
+He pushed them away,Claim,"(28307, 28326)",he's done the opposite,Claim,"(28283, 28305)",Support
+"I am determined for those soldiers and for those families, for those kids who put their lives on the line",Premise,"(41477, 41582)",I believe I can get this job done,Claim,"(41434, 41467)",Support
+Mixed messages send the wrong signals to the Iraqi citizens,Premise,"(65878, 65937)",You cannot lead if you send mixed messages,Claim,"(65728, 65770)",Support
+they know I would not take my eye off of the goal: Osama bin Laden,Claim,"(7986, 8052)",they believe it,Claim,"(7962, 7977)",Support
+"When the Secretary General Kofi Annan offered the United Nations, he said, ""No, no, we'll go do this alone.""",Premise,"(28328, 28436)",He pushed them away,Claim,"(28307, 28326)",Support
+I want to make sure the outcome honors that nobility,Claim,"(41652, 41704)",I believe I can get this job done,Claim,"(41434, 41467)",Support
+You cannot lead if you send mixed messages,Claim,"(65728, 65770)",that's my biggest concern about my opponent,Claim,"(65943, 65986)",Support
+they believe it,Claim,"(7962, 7977)",all believe I would make a stronger commander in chief,Claim,"(7902, 7956)",Support
+"To save for Halliburton the spoils of the war, they actually issued a memorandum from the Defense Department saying, ""If you weren't with us in the war, don't bother applying for any construction.""",Premise,"(28437, 28634)",That's not a way to invite people,Claim,"(28635, 28668)",Support
+I've laid out a plan by which I think we can be successful in Iraq,Claim,"(41734, 41800)",I believe I can get this job done,Claim,"(41434, 41467)",Support
+we never change our beliefs,Premise,"(66184, 66211)",we change tactics when need to,Premise,"(66148, 66178)",Attack
+The president relied on Afghan warlords and he outsourced that job too,Premise,"(8216, 8286)",That's wrong,Claim,"(8288, 8300)",Support
+That's not a way to invite people,Claim,"(28635, 28668)",He pushed them away,Claim,"(28307, 28326)",Support
+"with a summit, by doing better training, faster, by cutting -- by doing what we need to do with respect to the U.N. and the elections",Premise,"(41802, 41935)",I've laid out a plan by which I think we can be successful in Iraq,Claim,"(41734, 41800)",Support
+the strategic beliefs that are necessary to protect this country in the world,Premise,"(66213, 66290)",we never change our beliefs,Premise,"(66184, 66211)",Support
+"we didn't use American forces, the best trained in the world, to go kill him",Premise,"(8138, 8214)",That's wrong,Claim,"(8288, 8300)",Support
+the U.N. was invited in,Premise,"(28734, 28757)",That's totally absurd,Claim,"(28700, 28721)",Support
+They can't have an election right now,Premise,"(41985, 42022)",The president's not getting the job done,Claim,"(42024, 42064)",Support
+we never change our beliefs,Premise,"(66184, 66211)",You cannot lead if you send mixed messages,Claim,"(65728, 65770)",Support
+"Unfortunately, he escaped in the mountains of Tora Bora",Premise,"(8054, 8109)",That's wrong,Claim,"(8288, 8300)",Support
+What's he say to Tony Blair,Premise,"(28952, 28979)",My opponent says we didn't have any allies in this war,Claim,"(28896, 28950)",Attack
+There's only 25 percent of the people in there,Premise,"(41937, 41983)",The president's not getting the job done,Claim,"(42024, 42064)",Support
+he's not acknowledging the realities of North Korea,Premise,"(67738, 67789)",I worry about with the president is that he's not acknowledging what's on the ground,Claim,"(67652, 67736)",Support
+That's wrong,Claim,"(8288, 8300)",all believe I would make a stronger commander in chief,Claim,"(7902, 7956)",Support
+What's he say to Alexander Kwasniewski of Poland,Premise,"(28981, 29029)",My opponent says we didn't have any allies in this war,Claim,"(28896, 28950)",Attack
+The president's not getting the job done,Claim,"(42024, 42064)","the choice for America is, you can have a plan that I've laid out in four points",Claim,"(42069, 42149)",Support
+he's not acknowledging the truth of the science of stem-cell research or of global warming and other issues,Premise,"(67791, 67898)",I worry about with the president is that he's not acknowledging what's on the ground,Claim,"(67652, 67736)",Support
+he first didn't even want to do that,Premise,"(8707, 8743)","he made the misjudgment of saying to America that he was going to build a true alliance, that he would exhaust the remedies of the United Nations and go through the inspections",Claim,"(8520, 8696)",Support
+"what's the message going to be: ""Please join us in Iraq. For a grand diversion",Premise,"(29272, 29350)",he says the cornerstone of his plan to succeed in Iraq is to call upon nations to serve,Claim,"(29180, 29267)",Attack
+I think my plan is better,Claim,"(42315, 42340)","the choice for America is, you can have a plan that I've laid out in four points",Claim,"(42069, 42149)",Support
+I worry about with the president is that he's not acknowledging what's on the ground,Claim,"(67652, 67736)",certainty sometimes can get you in trouble,Claim,"(67904, 67946)",Support
+"it wasn't until former Secretary of State Jim Baker and General Scowcroft and others pushed publicly and said you've got to go to the U.N., that the president finally changed his mind -- his campaign has a word for that -- and went to the United Nations",Premise,"(8749, 9002)","he made the misjudgment of saying to America that he was going to build a true alliance, that he would exhaust the remedies of the United Nations and go through the inspections",Claim,"(8520, 8696)",Support
+"oin us for a war that is the wrong war at the wrong place at the wrong time?""",Premise,"(29353, 29430)",he says the cornerstone of his plan to succeed in Iraq is to call upon nations to serve,Claim,"(29180, 29267)",Attack
+my plan has a better chance of standing up and fighting for those troops,Claim,"(42346, 42418)",I think my plan is better,Claim,"(42315, 42340)",Support
+Our commanders have got all the flexibility to do what is necessary to succeed,Claim,"(68070, 68148)","I fully agree that one should shift tactics, and we will, in Iraq",Claim,"(68003, 68068)",Support
+"""Last resort."" You've got to be able to look in the eyes of families and say to those parents, ""I tried to do everything in my power to prevent the loss of your son and daughter.""",Premise,"(9232, 9411)","Those words mean something to me, as somebody who has been in combat",Premise,"(9162, 9230)",Support
+I deal with them all the time,Premise,"(29462, 29491)",I know how these people think,Claim,"(29431, 29460)",Support
+I will never let those troops down,Claim,"(42420, 42454)",my plan has a better chance of standing up and fighting for those troops,Claim,"(42346, 42418)",Support
+what I won't do is change my core values because of politics or because of pressure,Claim,"(68154, 68237)","I fully agree that one should shift tactics, and we will, in Iraq",Claim,"(68003, 68068)",Attack
+I don't believe the United States did that,Claim,"(9412, 9454)",He also promised America that he would go to war as a last resort,Claim,"(9095, 9160)",Attack
+I sit down with the world leaders frequently and talk to them on the phone frequently,Premise,"(29493, 29578)",I deal with them all the time,Premise,"(29462, 29491)",Support
+will hunt and kill the terrorists wherever they are,Claim,"(42460, 42511)",I think my plan is better,Claim,"(42315, 42340)",Support
+"it is one of the things I've learned in the White House, is that there's enormous pressure on the president",Premise,"(68243, 68350)",he cannot wilt under that pressure,Claim,"(68356, 68390)",Support
+"Those words mean something to me, as somebody who has been in combat",Premise,"(9162, 9230)",He also promised America that he would go to war as a last resort,Claim,"(9095, 9160)",Attack
+I know how these people think,Claim,"(29431, 29460)","They're not going to follow somebody who says, ""This is the wrong war at the wrong place at the wrong time.""",Claim,"(29580, 29688)",Support
+"if you keep changing positions on the war on terror and say things like, ""Well, this is just a grand diversion.""",Premise,"(42803, 42915)",You cannot lead the war on terror,Claim,"(42769, 42802)",Support
+the world won't be better off,Claim,"(68403, 68432)",he cannot wilt under that pressure,Claim,"(68356, 68390)",Support
+"once there, we could have continued those inspections",Premise,"(9009, 9062)","he made the misjudgment of saying to America that he was going to build a true alliance, that he would exhaust the remedies of the United Nations and go through the inspections",Claim,"(8520, 8696)",Support
+They're not going to follow somebody who says this is the wrong war at the wrong place at the wrong time,Claim,"(29689, 29793)","They're not going to follow somebody who says, ""This is the wrong war at the wrong place at the wrong time.""",Claim,"(29580, 29688)",Equivalent
+It's not a grand diversion,Claim,"(42916, 42942)",You cannot lead the war on terror,Claim,"(42769, 42802)",Support
+what I won't do is change my core values because of politics or because of pressure,Claim,"(68154, 68237)",he cannot wilt under that pressure,Claim,"(68356, 68390)",Support
+We had Saddam Hussein trapped,Premise,"(9064, 9093)","he made the misjudgment of saying to America that he was going to build a true alliance, that he would exhaust the remedies of the United Nations and go through the inspections",Claim,"(8520, 8696)",Support
+there are summits being held,Claim,"(29955, 29983)",he says we ought to have a summit,Claim,"(29914, 29947)",Attack
+the plan he talks about simply won't work,Claim,"(42995, 43036)",I think my plan is better,Claim,"(42315, 42340)",Attack
+I have no intention of wilting,Claim,"(68465, 68495)",he cannot wilt under that pressure,Claim,"(68356, 68390)",Attack
+"$200 billion that could have been used for health care, for schools, for construction, for prescription drugs for seniors, and it's in Iraq",Premise,"(9583, 9722)","today, we are 90 percent of the casualties and 90 percent of the cost",Claim,"(9496, 9565)",Support
+Japan is going to have a summit for the donors; $14 billion pledged,Premise,"(29985, 30052)",there are summits being held,Claim,"(29955, 29983)",Support
+You cannot lead the war on terror,Claim,"(42769, 42802)",the plan he talks about simply won't work,Claim,"(42995, 43036)",Support
+I've never wilted in my life,Premise,"(68497, 68525)",I have no intention of wilting,Claim,"(68465, 68495)",Support
+The center is Afghanistan,Claim,"(9791, 9816)",Iraq is not even the center of the focus of the war on terror,Claim,"(9728, 9789)",Support
+"Prime Minister Koizumi is going to call countries to account, to get them to contribute",Premise,"(30058, 30145)",there are summits being held,Claim,"(29955, 29983)",Support
+This is an essential that we get it right,Claim,"(42944, 42985)",the plan he talks about simply won't work,Claim,"(42995, 43036)",Support
+I've never wavered in my life,Premise,"(68531, 68560)",I have no intention of wilting,Claim,"(68465, 68495)",Support
+there were more Americans killed last year than the year before,Premise,"(9839, 9902)",The center is Afghanistan,Claim,"(9791, 9816)",Support
+"there's going to be an Arab summit, of the neighborhood countries",Premise,"(30151, 30216)",there are summits being held,Claim,"(29955, 29983)",Support
+"Secretary of State Colin Powell told this president the Pottery Barn rule: If you break it, you fix it",Premise,"(43141, 43243)",you've got to fix it and do something with it,Claim,"(43340, 43385)",Support
+I know exactly what we need to do in Iraq,Claim,"(68562, 68603)",I have no intention of wilting,Claim,"(68465, 68495)",Support
+where the opium production is 75 percent of the world's opium production,Premise,"(9904, 9976)",The center is Afghanistan,Claim,"(9791, 9816)",Support
+Colin Powell helped set up that summit,Premise,"(30222, 30260)","there's going to be an Arab summit, of the neighborhood countries",Premise,"(30151, 30216)",Support
+"if you break it, you made a mistake",Premise,"(43250, 43285)",It's the wrong thing to do. But you own it,Claim,"(43287, 43329)",Support
+my position has been consistent,Claim,"(68609, 68640)",I have no intention of wilting,Claim,"(68465, 68495)",Support
+where 40 to 60 percent of the economy of Afghanistan is based on opium,Premise,"(9978, 10048)",The center is Afghanistan,Claim,"(9791, 9816)",Support
+"The United Nations, Kofi Annan offered help after Baghdad fell. And we never picked him up on that and did what was necessary to transfer authority and to transfer reconstruction",Premise,"(30298, 30476)",It was always American-run,Claim,"(30478, 30504)",Support
+you've got to fix it and do something with it,Claim,"(43340, 43385)",that's what we have to do,Claim,"(43391, 43416)",Support
+Saddam Hussein is a threat,Claim,"(68642, 68668)",He needed to be disarmed,Claim,"(68670, 68694)",Support
+where the elections have been postponed three times,Premise,"(10050, 10101)",The center is Afghanistan,Claim,"(9791, 9816)",Support
+"when we went in, there were three countries: Great Britain, Australia and the United States",Premise,"(30516, 30607)",That's not a grand coalition,Claim,"(30609, 30637)",Support
+that's what we have to do,Claim,"(43391, 43416)",There's no inconsistency,Claim,"(43418, 43442)",Support
+We needed to go to the U.N,Claim,"(68696, 68722)",He needed to be disarmed,Claim,"(68670, 68694)",Support
+Iraq is not even the center of the focus of the war on terror,Claim,"(9728, 9789)","The president moved the troops, so he's got 10 times the number of troops in Iraq than he has in Afghanistan, where Osama bin Laden is",Premise,"(10103, 10237)",Attack
+That's not a grand coalition,Claim,"(30609, 30637)",We can do better,Claim,"(30639, 30655)",Support
+There's no inconsistency,Claim,"(43418, 43442)","if you keep changing positions on the war on terror and say things like, ""Well, this is just a grand diversion.""",Premise,"(42803, 42915)",Attack
+he never did it without the threat of force,Premise,"(68828, 68871)",The president needed the authority to use force in order to be able to get him to do something,Claim,"(68724, 68818)",Support
+Saddam Hussein more important than Osama bin Laden? I don't think so,Claim,"(10343, 10411)",Iraq is not even the center of the focus of the war on terror,Claim,"(9728, 9789)",Support
+It was always American-run,Claim,"(30478, 30504)",we support the U.N. efforts there,Claim,"(28763, 28796)",Attack
+it's important to Israel,Premise,"(43561, 43585)",I'm going to get it right for those soldiers,Claim,"(43507, 43551)",Support
+The president needed the authority to use force in order to be able to get him to do something,Claim,"(68724, 68818)",we didn't need to rush to war without a plan to win the peace,Claim,"(68877, 68938)",Support
+My opponent looked at the same intelligence I looked at and declared in 2002 that Saddam Hussein was a grave threat,Premise,"(10466, 10581)",Saddam Hussein more important than Osama bin Laden? I don't think so,Claim,"(10343, 10411)",Attack
+That's totally absurd,Claim,"(28700, 28721)",we support the U.N. efforts there,Claim,"(28763, 28796)",Support
+it's important to America,Premise,"(43587, 43612)",I'm going to get it right for those soldiers,Claim,"(43507, 43551)",Support
+He needed to be disarmed,Claim,"(68670, 68694)",we didn't need to rush to war without a plan to win the peace,Claim,"(68877, 68938)",Support
+My opponent looked at the same intelligence I looked at and declared in 2002 that Saddam Hussein was a grave threat,Premise,"(10466, 10581)",I agree with him,Claim,"(10730, 10746)",Support
+They pulled out after Sergio de Mello got killed,Premise,"(28798, 28846)",we support the U.N. efforts there,Claim,"(28763, 28796)",Support
+it's important to the world,Premise,"(43614, 43641)",I'm going to get it right for those soldiers,Claim,"(43507, 43551)",Support
+Nuclear proliferation,Claim,"(69151, 69172)",Nuclear proliferation,Claim,"(69151, 69172)",Equivalent
+He also said in December of 2003 that anyone who doubts that the world is safer without Saddam Hussein does not have the judgment to be president,Premise,"(10583, 10728)",Saddam Hussein more important than Osama bin Laden? I don't think so,Claim,"(10343, 10411)",Attack
+they're now back in helping with elections,Claim,"(28852, 28894)",we support the U.N. efforts there,Claim,"(28763, 28796)",Support
+it's important to the fight on terror,Premise,"(43643, 43680)",I'm going to get it right for those soldiers,Claim,"(43507, 43551)",Support
+There's some 600-plus tons of unsecured material still in the former Soviet Union and Russia,Premise,"(69197, 69289)",Nuclear proliferation,Claim,"(69151, 69172)",Support
+He also said in December of 2003 that anyone who doubts that the world is safer without Saddam Hussein does not have the judgment to be president,Premise,"(10583, 10728)",I agree with him,Claim,"(10730, 10746)",Support
+he forgot Poland,Premise,"(30718, 30734)","when we went in, there were three countries: Great Britain, Australia and the United States",Premise,"(30516, 30607)",Attack
+I'm going to get it right for those soldiers,Claim,"(43507, 43551)",I have a plan to do it,Claim,"(43686, 43708)",Support
+"At the rate that the president is currently securing it, it'll take 13 years to get it",Claim,"(69291, 69377)",Nuclear proliferation,Claim,"(69151, 69172)",Support
+The world is better off without Saddam Hussein,Claim,"(10748, 10794)",I agree with him,Claim,"(10730, 10746)",Support
+"now there's 30 nations involved, standing side by side with our American troops",Premise,"(30740, 30819)",Our coalition is strong,Claim,"(31133, 31156)",Support
+I have a plan to do it,Claim,"(43686, 43708)",He doesn't,Claim,"(13614, 13624)",Attack
+I did a lot of work on this,Claim,"(69379, 69406)","At the rate that the president is currently securing it, it'll take 13 years to get it",Claim,"(69291, 69377)",Support
+I was hoping diplomacy would work,Claim,"(10796, 10829)",I went to the United Nations,Claim,"(10959, 10987)",Support
+I don't appreciate it when a candidate for president denigrates the contributions of these brave soldiers,Claim,"(30855, 30960)",You cannot lead the world if you do not honor the contributions of those who are with us,Claim,"(30962, 31050)",Support
+I didn't say I would bring troops out in six months,Claim,"(44065, 44116)","The time line that I've set out -- and again, I want to correct the president, because he's misled again this evening on what I've said",Premise,"(43928, 44063)",Attack
+"I wrote a book about it several years ago -- six, seven years ago -- called ""The New War,"" which saw the difficulties of this international criminal network",Premise,"(69408, 69564)",I did a lot of work on this,Claim,"(69379, 69406)",Support
+I understand the serious consequences of committing our troops into harm's way,Claim,"(10831, 10909)",I was hoping diplomacy would work,Claim,"(10796, 10829)",Support
+He called them coerced and the bribed,Premise,"(31052, 31089)",You cannot lead the world if you do not honor the contributions of those who are with us,Claim,"(30962, 31050)",Support
+"I said, if we do the things that I've set out and we are successful, we could begin to draw the troops down in six months",Premise,"(44118, 44239)",I didn't say I would bring troops out in six months,Claim,"(44065, 44116)",Support
+"back then, we intercepted a suitcase in a Middle Eastern country with nuclear materials in it",Premise,"(69570, 69663)","I wrote a book about it several years ago -- six, seven years ago -- called ""The New War,"" which saw the difficulties of this international criminal network",Premise,"(69408, 69564)",Support
+I understand the serious consequences of committing our troops into harm's way,Claim,"(10831, 10909)",It's the hardest decision a president makes,Claim,"(10911, 10954)",Support
+That's not how you bring people together,Claim,"(31091, 31131)",He called them coerced and the bribed,Premise,"(31052, 31089)",Attack
+we're building some 14 military bases there now,Premise,"(44430, 44477)",some people say they've got a rather permanent concept to them,Claim,"(44483, 44545)",Support
+the black market sale price was about $250 million,Premise,"(69669, 69719)","I wrote a book about it several years ago -- six, seven years ago -- called ""The New War,"" which saw the difficulties of this international criminal network",Premise,"(69408, 69564)",Support
+I didn't need anybody to tell me to go to the United Nations,Claim,"(10989, 11049)","it wasn't until former Secretary of State Jim Baker and General Scowcroft and others pushed publicly and said you've got to go to the U.N., that the president finally changed his mind -- his campaign has a word for that -- and went to the United Nations",Premise,"(8749, 9002)",Attack
+Our coalition is strong,Claim,"(31133, 31156)","It will remain strong, so long as I'm the president",Claim,"(31158, 31209)",Support
+When you guard the oil ministry,Premise,"(44547, 44578)","the message to a lot of people is maybe, ""Wow, maybe they're interested in our oil.""",Claim,"(44624, 44708)",Support
+there are terrorists trying to get their hands on that stuff today,Claim,"(69726, 69792)",Nuclear proliferation,Claim,"(69151, 69172)",Support
+I decided to go there myself,Claim,"(11051, 11079)","it wasn't until former Secretary of State Jim Baker and General Scowcroft and others pushed publicly and said you've got to go to the U.N., that the president finally changed his mind -- his campaign has a word for that -- and went to the United Nations",Premise,"(8749, 9002)",Attack
+Our coalition is strong,Claim,"(31133, 31156)",We can do better,Claim,"(30639, 30655)",Attack
+you don't guard the nuclear facilities,Premise,"(44584, 44622)","the message to a lot of people is maybe, ""Wow, maybe they're interested in our oil.""",Claim,"(44624, 44708)",Support
+The president actually cut the money for it,Claim,"(70018, 70061)",We have to do this job,Claim,"(69943, 69965)",Attack
+I decided to go there myself,Claim,"(11051, 11079)","I went there hoping that, once and for all, the free world would act in concert to get Saddam Hussein to listen to our demands",Claim,"(11085, 11211)",Support
+Tommy Franks did such a great job in planning the operations,Premise,"(31595, 31655)","I mean, we thought we'd whip more of them going in",Claim,"(31531, 31581)",Support
+"the message to a lot of people is maybe, ""Wow, maybe they're interested in our oil.""",Claim,"(44624, 44708)",some people say they've got a rather permanent concept to them,Claim,"(44483, 44545)",Support
+You have to put the money into it and the funding and the leadership,Claim,"(70063, 70131)",We have to do this job,Claim,"(69943, 69965)",Support
+It's the hardest decision a president makes,Claim,"(10911, 10954)","I went there hoping that, once and for all, the free world would act in concert to get Saddam Hussein to listen to our demands",Claim,"(11085, 11211)",Support
+we moved rapidly,Premise,"(31657, 31673)","I mean, we thought we'd whip more of them going in",Claim,"(31531, 31581)",Support
+these are the things you have to think through,Claim,"(44787, 44833)",the problem is that they didn't think these things through properly,Claim,"(44714, 44781)",Support
+"this president, I regret to say, has secured less nuclear material in the last two years since 9/11 than we did in the two years preceding 9/11",Claim,"(69798, 69941)",We have to do this job,Claim,"(69943, 69965)",Attack
+I went to the United Nations,Claim,"(10959, 10987)","I went there hoping that, once and for all, the free world would act in concert to get Saddam Hussein to listen to our demands",Claim,"(11085, 11211)",Support
+a lot of the Baathists and Saddam loyalists laid down their arms and disappeared,Premise,"(31679, 31759)","I mean, we thought we'd whip more of them going in",Claim,"(31531, 31581)",Support
+some people say they've got a rather permanent concept to them,Claim,"(44483, 44545)",I think a critical component of success in Iraq is being able to convince the Iraqis and the Arab world that the United States doesn't have long-term designs on it,Claim,"(44245, 44408)",Support
+part of that leadership is sending the right message to places like North Korea,Claim,"(70137, 70216)",You have to put the money into it and the funding and the leadership,Claim,"(70063, 70131)",Support
+"They passed the resolution that said, ""Disclose, disarm, or face serious consequences.""",Premise,"(11213, 11300)","I believe, when an international body speaks, it must mean what it says",Claim,"(11301, 11372)",Support
+we're fighting them now,Claim,"(31823, 31846)",it's hard work,Claim,"(31852, 31866)",Support
+the problem is that they didn't think these things through properly,Claim,"(44714, 44781)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Support
+Right now the president is spending hundreds of millions of dollars to research bunker-busting nuclear weapons,Claim,"(70218, 70328)",It doesn't make sense,Claim,"(70390, 70411)",Support
+The world is better off without Saddam Hussein,Claim,"(10748, 10794)",The world is safer without Saddam Hussein,Claim,"(11915, 11956)",Equivalent
+I understand how hard it is,Claim,"(31868, 31895)",it's hard work,Claim,"(31852, 31866)",Support
+"you have to do that by beginning to not back off of the Fallujahs and other places, and send the wrong message to the terrorists",Claim,"(44895, 45023)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Support
+The United States is pursuing a new set of nuclear weapons,Claim,"(70330, 70388)",It doesn't make sense,Claim,"(70390, 70411)",Support
+The facts are that he was systematically deceiving the inspectors,Premise,"(11544, 11609)",That wasn't going to work,Claim,"(11611, 11636)",Support
+I get the casualty reports every day,Premise,"(31897, 31933)",I understand how hard it is,Claim,"(31868, 31895)",Support
+You have to close the borders,Claim,"(45025, 45054)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Support
+"We're telling other people, ""You can't have nuclear weapons,"" but we're pursuing a new nuclear weapon that we might even contemplate using",Premise,"(70444, 70582)",It doesn't make sense,Claim,"(70390, 70411)",Support
+That wasn't going to work,Claim,"(11611, 11636)",my opponent talks about inspectors,Premise,"(11508, 11542)",Attack
+I see on the TV screens how hard it is,Premise,"(31935, 31973)",I understand how hard it is,Claim,"(31868, 31895)",Support
+You've got to show you're serious in that regard,Claim,"(45056, 45104)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Support
+It doesn't make sense,Claim,"(70390, 70411)",I'm going to shut that program down,Claim,"(70604, 70639)",Support
+That wasn't going to work,Claim,"(11611, 11636)","once there, we could have continued those inspections",Premise,"(9009, 9062)",Attack
+it's necessary work,Claim,"(31979, 31998)",it's hard work,Claim,"(31852, 31866)",Attack
+you've also got to show that you are prepared to bring the rest of the world in and share the stakes,Claim,"(45110, 45210)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Support
+I'm going to shut that program down,Claim,"(70604, 70639)",we're going to make it clear to the world we're serious about containing nuclear proliferation,Claim,"(70645, 70739)",Support
+That wasn't going to work,Claim,"(11611, 11636)","That's kind of a pre-September 10th mentality, the hope that somehow resolutions and failed inspections would make this world a more peaceful place",Claim,"(11638, 11785)",Attack
+I know we won't achieve if we send mixed signals,Claim,"(32119, 32167)",I'm optimistic we'll achieve,Claim,"(32087, 32115)",Attack
+our goal in my administration would be to get all of the troops out of there with a minimal amount you need for training and logistics as we do in some other countries in the world after a war to be able to sustain the peace,Claim,"(45320, 45544)",The United States of America has no long-term designs on staying in Iraq,Claim,"(45242, 45314)",Support
+we're going to get the job of containing all of that nuclear material in Russia done in four years,Claim,"(70745, 70843)",we're going to build the strongest international network to prevent nuclear proliferation,Claim,"(70849, 70938)",Support
+there was fortunately others beside myself who believed that we ought to take action,Premise,"(11821, 11905)",We did,Claim,"(11907, 11913)",Support
+"I know we're not going to achieve our objective if we send mixed signals to our troops, our friends, the Iraqi citizens",Claim,"(32169, 32288)",I'm optimistic we'll achieve,Claim,"(32087, 32115)",Attack
+"that's how we're going to win the peace, by rapidly training the Iraqis themselves",Claim,"(45550, 45632)",The United States of America has no long-term designs on staying in Iraq,Claim,"(45242, 45314)",Support
+we're going to make it clear to the world we're serious about containing nuclear proliferation,Claim,"(70645, 70739)",we're going to build the strongest international network to prevent nuclear proliferation,Claim,"(70849, 70938)",Support
+That wasn't going to work,Claim,"(11611, 11636)",We did,Claim,"(11907, 11913)",Support
+The plan says there will be elections in January,Premise,"(32317, 32365)",there will be,Claim,"(32331, 32344)",Support
+Even the administration has admitted they haven't done the training,Claim,"(45634, 45701)","that's how we're going to win the peace, by rapidly training the Iraqis themselves",Claim,"(45550, 45632)",Attack
+This is the scale of what President Kennedy set out to do with the nuclear test ban treaty,Premise,"(70940, 71030)",we're going to build the strongest international network to prevent nuclear proliferation,Claim,"(70849, 70938)",Support
+He was hoping we'd turn away,Premise,"(11787, 11815)","That's kind of a pre-September 10th mentality, the hope that somehow resolutions and failed inspections would make this world a more peaceful place",Claim,"(11638, 11785)",Support
+NATO is now helping,Premise,"(32505, 32524)",it's not only just America,Claim,"(32473, 32499)",Support
+they came back to Congress a few weeks ago and asked for a complete reprogramming of the money,Premise,"(45711, 45805)",Even the administration has admitted they haven't done the training,Claim,"(45634, 45701)",Support
+It's our generation's equivalent,Premise,"(71032, 71064)",This is the scale of what President Kennedy set out to do with the nuclear test ban treaty,Premise,"(70940, 71030)",Support
+He had 16 other resolutions and nothing took place,Premise,"(11435, 11485)",We did,Claim,"(11907, 11913)",Support
+The plan says we'll train Iraqi soldiers so they can do the hard work,Premise,"(32386, 32455)",we are,Claim,"(9503, 9509)",Support
+"There's going to be 125,000 trained by the end of this year",Premise,"(46114, 46173)",we're getting the job done,Claim,"(46180, 46206)",Support
+I intend to get it done,Claim,"(71070, 71093)",we're going to build the strongest international network to prevent nuclear proliferation,Claim,"(70849, 70938)",Support
+Saddam Hussein had no intention of disarming,Claim,"(11374, 11418)",We did,Claim,"(11907, 11913)",Support
+Jordan's helping train police,Premise,"(32526, 32555)",it's not only just America,Claim,"(32473, 32499)",Support
+"There are 100,000 troops trained, police, guard, special units, border patrol",Premise,"(46035, 46112)",we're getting the job done,Claim,"(46180, 46206)",Support
+Nuclear proliferation,Claim,"(69151, 69172)",we're going to build the strongest international network to prevent nuclear proliferation,Claim,"(70849, 70938)",Support
+"I believe, when an international body speaks, it must mean what it says",Claim,"(11301, 11372)",We did,Claim,"(11907, 11913)",Support
+UAE is helping train police,Premise,"(32557, 32584)",it's not only just America,Claim,"(32473, 32499)",Support
+we're getting the job done,Claim,"(46180, 46206)",Even the administration has admitted they haven't done the training,Claim,"(45634, 45701)",Attack
+I agree with my opponent that the biggest threat facing this country is weapons of mass destruction in the hands of a terrorist network,Claim,"(71325, 71460)",there are terrorists trying to get their hands on that stuff today,Claim,"(69726, 69792)",Support
+We did,Claim,"(11907, 11913)",The world is safer without Saddam Hussein,Claim,"(11915, 11956)",Support
+We've allocated $7 billion over the next months for reconstruction efforts,Premise,"(32586, 32660)",we're making progress there,Claim,"(32666, 32693)",Support
+there's a determined enemy that's trying to defeat us,Premise,"(46264, 46317)",Everybody knows it's hard work,Claim,"(46224, 46254)",Support
+My administration started what's called the Proliferation Security Initiative,Premise,"(71571, 71648)",proliferation is one of the centerpieces of a multi-prong strategy to make the country safer,Claim,"(71477, 71569)",Support
+this is a global effort,Premise,"(12223, 12246)",we've got the capability of doing both,Claim,"(12162, 12200)",Support
+it's not only just America,Claim,"(32473, 32499)",our alliance is strong,Claim,"(13918, 13940)",Support
+"Prime Minister Allawi was here. He is the leader of that country. He's a brave, brave man. When he came, after giving a speech to the Congress, my opponent questioned his credibility",Premise,"(46403, 46585)",my opponent says he's going to try to change the dynamics on the ground,Claim,"(46324, 46395)",Attack
+We busted the A.Q. Khan network,Premise,"(71797, 71828)",we've been effective,Claim,"(71775, 71795)",Support
+"We're facing a group of folks who have such hatred in their heart, they'll strike anywhere, with any means",Premise,"(12248, 12354)",this is a global effort,Premise,"(12223, 12246)",Support
+there's going to be a summit of the Arab nations,Premise,"(32747, 32795)",our alliance is strong,Claim,"(13918, 13940)",Support
+You can't change the dynamics on the ground if you've criticized the brave leader of Iraq,Claim,"(46587, 46676)",What I want to do is change the dynamics on the ground,Claim,"(44835, 44889)",Attack
+This was a proliferator out of Pakistan that was selling secrets to places like North Korea and Libya,Premise,"(71830, 71931)",We busted the A.Q. Khan network,Premise,"(71797, 71828)",Support
+it's essential that we have strong alliances,Claim,"(12371, 12415)",we do,Claim,"(12421, 12426)",Support
+Japan will be hosting a summit,Premise,"(32797, 32827)",our alliance is strong,Claim,"(13918, 13940)",Support
+One of his campaign people alleged that Prime Minister Allawi was like a puppet,Premise,"(46678, 46757)",You can't change the dynamics on the ground if you've criticized the brave leader of Iraq,Claim,"(46587, 46676)",Support
+We convinced Libya to disarm,Premise,"(71933, 71961)",we've been effective,Claim,"(71775, 71795)",Support
+we've got the capability of doing both,Claim,"(12162, 12200)",it's essential that we have strong alliances,Claim,"(12371, 12415)",Support
+we're making progress there,Claim,"(32666, 32693)",We're making progress,Claim,"(12923, 12944)",Equivalent
+"That's no way to treat somebody who's courageous and brave, that is trying to lead his country forward",Claim,"(46759, 46861)",You can't change the dynamics on the ground if you've criticized the brave leader of Iraq,Claim,"(46587, 46676)",Support
+proliferation is one of the centerpieces of a multi-prong strategy to make the country safer,Claim,"(71477, 71569)",It's a central part of dealing with weapons of mass destruction and proliferation,Claim,"(71963, 72044)",Support
+it's essential that we make sure that we keep weapons of mass destruction out of the hands of people like Al Qaida,Claim,"(12439, 12553)",we are,Claim,"(12561, 12567)",Support
+It is hard work,Claim,"(32852, 32867)",it's hard work,Claim,"(31852, 31866)",Equivalent
+"I reject the notion that some say that if you're Muslim you can't free, you don't desire freedom",Claim,"(47221, 47317)","I disagree, strongly disagree with that",Claim,"(47319, 47358)",Support
+we've been effective,Claim,"(71775, 71795)",It's a central part of dealing with weapons of mass destruction and proliferation,Claim,"(71963, 72044)",Support
+to say that there's only one focus on the war on terror doesn't really understand the nature of the war on terror,Claim,"(12573, 12686)",Iraq is not even the center of the focus of the war on terror,Claim,"(9728, 9789)",Attack
+It is hard work to go from a tyranny to a democracy,Claim,"(32869, 32920)",It is hard work,Claim,"(32852, 32867)",Support
+I reject this notion,Claim,"(47157, 47177)","I reject the notion that some say that if you're Muslim you can't free, you don't desire freedom",Claim,"(47221, 47317)",Equivalent
+another way to help protect America in the long run is to continue with missile defenses,Claim,"(72060, 72148)",we've got a robust research and development program that has been ongoing during my administration,Claim,"(72154, 72252)",Support
+"It's hard work to go from a place where people get their hands cut off, or executed, to a place where people are free",Claim,"(32922, 33039)",It is hard work,Claim,"(32852, 32867)",Support
+"I believe that 25 million people, the vast majority, long to have elections",Claim,"(47080, 47155)","I reject the notion that some say that if you're Muslim you can't free, you don't desire freedom",Claim,"(47221, 47317)",Support
+we've got a robust research and development program that has been ongoing during my administration,Claim,"(72154, 72252)",that is another way to help deal with the threats that we face in the 21st century,Claim,"(72325, 72407)",Support
+it's necessary work,Claim,"(31979, 31998)",It is hard work,Claim,"(32852, 32867)",Attack
+I couldn't agree more that the Iraqis want to be free and that they could be free,Claim,"(47391, 47472)","I believe that 25 million people, the vast majority, long to have elections",Claim,"(47080, 47155)",Support
+We'll be implementing a missile-defense system relatively quickly,Claim,"(72254, 72319)",that is another way to help deal with the threats that we face in the 21st century,Claim,"(72325, 72407)",Support
+it's necessary work,Claim,"(31979, 31998)",a free Iraq is going to make this world a more peaceful place,Claim,"(33070, 33131)",Support
+"I think the president, again, still hasn't shown how he's going to go about it the right way",Claim,"(47478, 47570)","I believe that 25 million people, the vast majority, long to have elections",Claim,"(47080, 47155)",Attack
+My opponent opposed the missile defenses,Claim,"(72409, 72449)",that is another way to help deal with the threats that we face in the 21st century,Claim,"(72325, 72407)",Attack
+He's isolated,Premise,"(12746, 12759)",we're after Saddam Hussein -- I mean bin Laden,Premise,"(12698, 12744)",Support
+it's necessary work,Claim,"(31979, 31998)",it's necessary work,Claim,"(31979, 31998)",Equivalent
+"Prime Minister Allawi came here, and he said the terrorists are pouring over the border",Premise,"(47602, 47689)","I think the president, again, still hasn't shown how he's going to go about it the right way",Claim,"(47478, 47570)",Support
+"I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea",Claim,"(73292, 73384)",I'm going to immediately set out to have bilateral talks with North Korea,Claim,"(73173, 73246)",Attack
+Seventy-five percent of his people have been brought to justice,Premise,"(12761, 12824)",we're after Saddam Hussein -- I mean bin Laden,Premise,"(12698, 12744)",Support
+we are,Claim,"(9503, 9509)",we're making progress there,Claim,"(32666, 32693)",Support
+That's Allawi's assessment,Premise,"(47691, 47717)","Prime Minister Allawi came here, and he said the terrorists are pouring over the border",Premise,"(47602, 47689)",Support
+It's precisely what Kim Jong Il wants,Claim,"(73386, 73423)","I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea",Claim,"(73292, 73384)",Support
+"The killer -- the mastermind of the September 11th attacks, Khalid Sheik Mohammed, is in prison",Premise,"(12826, 12921)",We're making progress,Claim,"(12923, 12944)",Support
+there will be,Claim,"(32331, 32344)",we're making progress there,Claim,"(32666, 32693)",Support
+"The national intelligence assessment that was given to the president in July said, best-case scenario, more of the same of what we see today; worst-case scenario, civil war",Premise,"(47719, 47891)","I think the president, again, still hasn't shown how he's going to go about it the right way",Claim,"(47478, 47570)",Support
+It will cause the six-party talks to evaporate,Claim,"(73425, 73471)","I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea",Claim,"(73292, 73384)",Support
+the front on this war is more than just one place,Claim,"(12950, 12999)",We're making progress,Claim,"(12923, 12944)",Attack
+he would still have done everything the same way,Claim,"(33483, 33531)",I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake,Claim,"(33184, 33300)",Support
+"I think the president, again, still hasn't shown how he's going to go about it the right way",Claim,"(47478, 47570)",I can do better,Claim,"(47893, 47908)",Support
+"It will mean that China no longer is involved in convincing, along with us, for Kim Jong Il to get rid of his weapons",Claim,"(73473, 73590)","I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea",Claim,"(73292, 73384)",Support
+we're after Saddam Hussein -- I mean bin Laden,Premise,"(12698, 12744)",We're making progress,Claim,"(12923, 12944)",Support
+"what he has said is that, even knowing there were no weapons of mass destruction",Premise,"(33306, 33386)",I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake,Claim,"(33184, 33300)",Support
+he recognizes that this is a central part of the war on terror,Premise,"(48048, 48110)",Prime Minister Allawi said they're coming across the border,Claim,"(47977, 48036)",Support
+"I can't tell you how big a mistake I think that is, to have bilateral talks with North Korea",Claim,"(73292, 73384)",It's a big mistake to do that,Claim,"(73592, 73621)",Equivalent
+The Philippines -- we've got help -- we're helping them there to bring -- to bring Al Qaida affiliates to justice there,Premise,"(13001, 13120)",the front on this war is more than just one place,Claim,"(12950, 12999)",Support
+even knowing there was no imminent threat,Premise,"(33388, 33429)",I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake,Claim,"(33184, 33300)",Support
+Prime Minister Allawi said they're coming across the border,Claim,"(47977, 48036)","Prime Minister Allawi came here, and he said the terrorists are pouring over the border",Premise,"(47602, 47689)",Attack
+"We must have China's leverage on Kim Jong Il, besides ourselves",Claim,"(73623, 73686)","if you enter bilateral talks, they'll be happy to walk away from the table",Claim,"(73692, 73766)",Support
+the front on this war is more than just one place,Claim,"(12950, 12999)",to say that there's only one focus on the war on terror doesn't really understand the nature of the war on terror,Claim,"(12573, 12686)",Support
+even knowing there was no connection with Al Qaida,Premise,"(33431, 33481)",I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake,Claim,"(33184, 33300)",Support
+they're fighting freedom,Premise,"(48140, 48164)",They're fighting us,Claim,"(48112, 48131)",Support
+"if you enter bilateral talks, they'll be happy to walk away from the table",Claim,"(73692, 73766)",I don't think that'll work,Claim,"(73768, 73794)",Support
+"of course, Iraq is a central part in the war on terror",Claim,"(13127, 13181)",Iraq is not even the center of the focus of the war on terror,Claim,"(9728, 9789)",Attack
+Those are his words,Premise,"(33533, 33552)",he would still have done everything the same way,Claim,"(33483, 33531)",Support
+They understand that a free Afghanistan or a free Iraq will be a major defeat for them,Premise,"(48166, 48252)",they're fighting freedom,Premise,"(48140, 48164)",Support
+I don't think that'll work,Claim,"(73768, 73794)",It's a big mistake to do that,Claim,"(73592, 73621)",Support
+Zarqawi and his people are trying to fight us,Premise,"(13194, 13239)","of course, Iraq is a central part in the war on terror",Claim,"(13127, 13181)",Support
+I would not,Claim,"(7996, 8007)",I think troubles a lot of people in our country is that the president has just sort of described one kind of mistake,Claim,"(33184, 33300)",Attack
+They're fighting us,Claim,"(48112, 48131)",those are the stakes,Claim,"(48258, 48278)",Support
+said so publicly,Premise,"(74140, 74156)",I don't think it's OK,Claim,"(74113, 74134)",Support
+We've got a plan to do so,Claim,"(13376, 13401)",We will succeed,Claim,"(13359, 13374)",Support
+The president says that I'm denigrating these troops,Claim,"(33738, 33790)",You can't expect to build an alliance when you denigrate the contributions of those who are serving side by side with American troops in Iraq,Claim,"(29031, 29172)",Attack
+those are the stakes,Claim,"(48258, 48278)",it is essential we not leave,Claim,"(48295, 48323)",Support
+I think that there needs to be checks and balances in a democracy,Claim,"(74158, 74223)",I don't think it's OK,Claim,"(74113, 74134)",Support
+the Iraqis want to be free,Premise,"(13448, 13474)",We will succeed,Claim,"(13359, 13374)",Support
+"the most troops any other country has on the ground is Great Britain, with 8,300",Premise,"(33921, 34001)",we have a genuine coalition to get this job done,Claim,"(34113, 34161)",Attack
+it is essential we not leave,Claim,"(48295, 48323)",it's essential we hold the line,Claim,"(48336, 48367)",Support
+made that very clear that by consolidating power in the central government,Premise,"(74229, 74303)",I think that there needs to be checks and balances in a democracy,Claim,"(74158, 74223)",Support
+"I had the honor of visiting with Prime Minister Allawi. He's a strong, courageous leader. He believes in the freedom of the Iraqi people",Premise,"(13476, 13612)",the Iraqis want to be free,Premise,"(13448, 13474)",Support
+"below that the four others are below 4,000",Premise,"(34007, 34049)",we have a genuine coalition to get this job done,Claim,"(34113, 34161)",Attack
+it's essential we hold the line,Claim,"(48336, 48367)",it's essential we win,Claim,"(48380, 48401)",Support
+he's sending a signal to the Western world and United States that perhaps he doesn't believe in checks and balances,Claim,"(74305, 74420)",I don't think it's OK,Claim,"(74113, 74134)",Support
+"He doesn't want U.S. leadership, however, to send mixed signals, to not stand with the Iraqi people",Premise,"(13614, 13713)","He believes, like I believe, that the Iraqis are ready to fight for their own freedom",Claim,"(13715, 13800)",Support
+"below that, there isn't anybody out of the hundreds",Premise,"(34055, 34106)",we have a genuine coalition to get this job done,Claim,"(34113, 34161)",Attack
+it's essential we win,Claim,"(48380, 48401)",Under my leadership we're going to win this war in Iraq,Claim,"(48416, 48471)",Support
+"they went through a horrible situation in Beslan, where these terrorists gunned down young school kids",Premise,"(74514, 74616)",he's also a strong ally in the war on terror,Premise,"(74451, 74495)",Support
+They just need the help to be trained,Claim,"(13802, 13839)","He believes, like I believe, that the Iraqis are ready to fight for their own freedom",Claim,"(13715, 13800)",Support
+we have a genuine coalition to get this job done,Claim,"(34113, 34161)",The president says that I'm denigrating these troops,Claim,"(33738, 33790)",Attack
+I understand how hard it is to commit troops,Premise,"(48698, 48742)",I would hope I never have to,Claim,"(48668, 48696)",Support
+that enables me to better comment to him,Premise,"(74893, 74933)",it's important that we do have a good relation,Claim,"(74837, 74883)",Support
+There will be elections in January,Premise,"(13841, 13875)",the Iraqis want to be free,Premise,"(13448, 13474)",Support
+"today, we are 90 percent of the casualties and 90 percent of the costs",Claim,"(34348, 34418)",I'll change that,Claim,"(34597, 34613)",Support
+Never wanted to commit troops,Premise,"(48744, 48773)",I understand how hard it is to commit troops,Premise,"(48698, 48742)",Support
+"to better to discuss with him, some of the decisions he makes",Premise,"(74939, 75000)",it's important that we do have a good relation,Claim,"(74837, 74883)",Support
+"He believes, like I believe, that the Iraqis are ready to fight for their own freedom",Claim,"(13715, 13800)",That's the plan for victory,Claim,"(13942, 13969)",Support
+"meanwhile, North Korea has got nuclear weapons",Claim,"(34424, 34470)",They have,Claim,"(34586, 34595)",Support
+"When I was running -- when we had the debate in 2000, never dreamt I'd be doing that",Premise,"(48775, 48859)",Never wanted to commit troops,Premise,"(48744, 48773)",Support
+"in this world, that it's important to establish good personal relationships with people",Claim,"(75016, 75103)",it's important that we do have a good relation,Claim,"(74837, 74883)",Support
+our alliance is strong,Premise,"(13918, 13940)",That's the plan for victory,Claim,"(13942, 13969)",Support
+They have,Claim,"(34586, 34595)","The president is the one that said, ""We can't allow countries to get nuclear weapons.""",Premise,"(34499, 34585)",Attack
+the enemy attacked us,Premise,"(48865, 48886)",I would hope I never have to,Claim,"(48668, 48696)",Attack
+"when you have disagreements, you're able to disagree in a way that is effective",Premise,"(75112, 75191)","in this world, that it's important to establish good personal relationships with people",Claim,"(75016, 75103)",Support
+We're spending reconstruction money,Premise,"(13877, 13912)",That's the plan for victory,Claim,"(13942, 13969)",Support
+They have,Claim,"(34586, 34595)",I'll change that,Claim,"(34597, 34613)",Support
+the enemy attacked us,Premise,"(48865, 48886)","I have a solemn duty to protect the American people, to do everything I can to protect us",Claim,"(48897, 48986)",Support
+Russia is a country in transition,Claim,"(75290, 75323)",Vladimir is going to have to make some hard choices,Claim,"(75325, 75376)",Support
+That's the plan for victory,Claim,"(13942, 13969)","when Iraq if free, America will be more secure",Claim,"(13975, 14021)",Support
+a president must always be willing to use troops,Claim,"(49128, 49176)",it is less likely we'll ever have to use troops,Claim,"(49075, 49122)",Attack
+I was there right after the transformation,Premise,"(75861, 75903)",I've had an extraordinary experience of watching up close and personal that transition in Russia,Claim,"(75755, 75851)",Support
+Iraq was not even close to the center of the war on terror before the president invaded it,Claim,"(14136, 14226)",The president just talked about Iraq as a center of the war on terror,Premise,"(14065, 14134)",Attack
+a president must always be willing to use troops,Claim,"(49128, 49176)","I have a solemn duty to protect the American people, to do everything I can to protect us",Claim,"(48897, 48986)",Support
+"I was probably one of the first senators, along with Senator Bob Smith of New Hampshire, a former senator, to go down into the KGB underneath Treblinka Square and see reams of files with names in them",Premise,"(75909, 76109)",I've had an extraordinary experience of watching up close and personal that transition in Russia,Claim,"(75755, 75851)",Support
+Iraq was not even close to the center of the war on terror before the president invaded it,Claim,"(14136, 14226)","of course, Iraq is a central part in the war on terror",Claim,"(13127, 13181)",Attack
+There was no doubt in my mind that Saddam Hussein was hoping that the world would turn a blind eye,Premise,"(49273, 49371)",I was hopeful diplomacy would work in Iraq,Claim,"(49207, 49249)",Attack
+Mr. Putin now controls all the television stations,Premise,"(76298, 76348)",I think it goes beyond just the response to terror,Claim,"(76246, 76296)",Support
+The president made the judgment to divert forces from under General Tommy Franks from Afghanistan before the Congress even approved it to begin to prepare to go to war in Iraq,Premise,"(14228, 14403)",that is not the judgment that a president of the United States ought to make,Claim,"(14473, 14549)",Support
+"if he had been in power, in other words, if we would have said, ""Let the inspectors work, or let's, you know, hope to talk him out. Maybe an 18th resolution would work,""",Premise,"(49377, 49546)",There was no doubt in my mind that Saddam Hussein was hoping that the world would turn a blind eye,Premise,"(49273, 49371)",Support
+His political opposition is being put in jail,Premise,"(76350, 76395)",I think it goes beyond just the response to terror,Claim,"(76246, 76296)",Support
+he rushed the war in Iraq without a plan to win the peace,Claim,"(14409, 14466)",that is not the judgment that a president of the United States ought to make,Claim,"(14473, 14549)",Support
+he would have been stronger and tougher,Claim,"(49547, 49586)",the world would have been a lot worse off,Claim,"(49592, 49633)",Support
+This is a very important country to us,Claim,"(76507, 76545)","I think it's very important to the United States, obviously, to have a working relationship that is good",Claim,"(76401, 76505)",Support
+that is not the judgment that a president of the United States ought to make,Claim,"(14473, 14549)",You don't take America to war unless have the plan to win the peace,Claim,"(14551, 14618)",Support
+the world would have been a lot worse off,Claim,"(49592, 49633)",I was hopeful diplomacy would work in Iraq,Claim,"(49207, 49249)",Attack
+We want a partnership,Claim,"(76547, 76568)","I think it's very important to the United States, obviously, to have a working relationship that is good",Claim,"(76401, 76505)",Support
+Iraq was not even close to the center of the war on terror before the president invaded it,Claim,"(14136, 14226)",that is not the judgment that a president of the United States ought to make,Claim,"(14473, 14549)",Support
+the world would have been a lot worse off,Claim,"(49592, 49633)","There's just no doubt in my mind we would rue the day, had Saddam Hussein been in power",Claim,"(49635, 49722)",Support
+we always have to stand up for democracy,Claim,"(76574, 76614)","I think it's very important to the United States, obviously, to have a working relationship that is good",Claim,"(76401, 76505)",Attack
+"I've met kids in Ohio, parents in Wisconsin places, Iowa, where they're going out on the Internet to get the state-of-the-art body gear to send to their kids",Premise,"(14688, 14845)",You don't send troops to war without the body armor that they need,Claim,"(14620, 14686)",Support
+"There's just no doubt in my mind we would rue the day, had Saddam Hussein been in power",Claim,"(49635, 49722)","we use diplomacy every chance we get, believe me",Claim,"(49727, 49775)",Attack
+"George Will said the other day, ""Freedom on the march; not in Russia right now.""",Premise,"(76619, 76699)",we always have to stand up for democracy,Claim,"(76574, 76614)",Support
+Some of them got it for a birthday present,Premise,"(14847, 14889)",You don't send troops to war without the body armor that they need,Claim,"(14620, 14686)",Support
+I would hope to never have to use force,Claim,"(49781, 49820)","we use diplomacy every chance we get, believe me",Claim,"(49727, 49775)",Support
+"China has an interest in the outcome, too",Premise,"(77266, 77307)",we can get those weapons at the same time as we get China,Claim,"(77199, 77256)",Support
+You don't send troops to war without the body armor that they need,Claim,"(14620, 14686)",I think that's wrong,Claim,"(14891, 14911)",Support
+"by speaking clearly and sending messages that we mean what we say, we've affected the world in a positive way",Claim,"(49826, 49935)",I would hope to never have to use force,Claim,"(49781, 49820)",Support
+we can get those weapons at the same time as we get China,Claim,"(77199, 77256)",We could have bilateral talks with Kim Jong Il,Claim,"(77147, 77193)",Support
+"Humvees -- 10,000 out of 12,000 Humvees that are over there aren't armored",Premise,"(14913, 14987)",You don't send troops to war without the body armor that they need,Claim,"(14620, 14686)",Support
+Libya was a threat,Premise,"(49952, 49970)","by speaking clearly and sending messages that we mean what we say, we've affected the world in a positive way",Claim,"(49826, 49935)",Support
+we looked at the same intelligence and came to the same conclusion,Premise,"(77717, 77783)",that Saddam Hussein was a grave threat,Claim,"(10543, 10581)",Support
+you go visit some of those kids in the hospitals today who were maimed because they don't have the armament,Premise,"(14993, 15100)",I think that's wrong,Claim,"(14891, 14911)",Support
+Libya is now peacefully dismantling its weapons programs,Premise,"(49972, 50028)","by speaking clearly and sending messages that we mean what we say, we've affected the world in a positive way",Claim,"(49826, 49935)",Support
+That's not the issue,Claim,"(78027, 78047)",It was a threat,Claim,"(78010, 78025)",Attack
+it's getting worse by the day,Claim,"(15188, 15217)",This president just -- I don't know if he sees what's really happened over there,Claim,"(15102, 15182)",Support
+Libya understood that America and others will enforce doctrine and that the world is better for it,Premise,"(50030, 50128)","by speaking clearly and sending messages that we mean what we say, we've affected the world in a positive way",Claim,"(49826, 49935)",Support
+"The president said he was going to build a true coalition, exhaust the remedies of the U.N. and go to war as a last resort",Premise,"(78084, 78206)",That's not the issue,Claim,"(78027, 78047)",Support
+More soldiers killed in June than before,Premise,"(15219, 15259)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+I would hope we never have to,Claim,"(50158, 50187)",I would hope I never have to,Claim,"(48668, 48696)",Equivalent
+he didn't go to war as a last resort,Claim,"(78271, 78307)","The president said he was going to build a true coalition, exhaust the remedies of the U.N. and go to war as a last resort",Premise,"(78084, 78206)",Attack
+More in July than June,Premise,"(15261, 15283)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+Saddam Hussein didn't attack us,Premise,"(50540, 50571)","In answer to your question about Iraq and sending people into Iraq, he just said, ""The enemy attacked us.""",Premise,"(50433, 50539)",Attack
+we have this incredible mess in Iraq -- $200 billion,Premise,"(78313, 78365)",he didn't go to war as a last resort,Claim,"(78271, 78307)",Support
+More in August than July,Premise,"(15285, 15309)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+Osama bin Laden attacked us,Claim,"(50573, 50600)",Al Qaida attacked us,Claim,"(50602, 50622)",Equivalent
+he didn't go to war as a last resort,Claim,"(78271, 78307)",It's not what the American people thought they were getting when they voted,Claim,"(78367, 78442)",Support
+More in September than in August,Premise,"(15311, 15343)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+Osama bin Laden attacked us,Claim,"(50573, 50600)","In answer to your question about Iraq and sending people into Iraq, he just said, ""The enemy attacked us.""",Premise,"(50433, 50539)",Attack
+now we see beheadings,Premise,"(15349, 15370)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+That's the enemy that attacked us,Claim,"(51066, 51099)","In answer to your question about Iraq and sending people into Iraq, he just said, ""The enemy attacked us.""",Premise,"(50433, 50539)",Attack
+we got weapons of mass destruction crossing the border every single day,Premise,"(15376, 15447)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+we didn't use the best trained troops in the world to go kill the world's number one criminal and terrorist,Premise,"(50805, 50912)",That's the enemy that attacked us,Claim,"(51066, 51099)",Support
+they're blowing people up,Premise,"(15453, 15478)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+"They outsourced the job to Afghan warlords, who only a week earlier had been on the other side fighting against us, neither of whom trusted each other",Premise,"(50914, 51064)",That's the enemy that attacked us,Claim,"(51066, 51099)",Support
+we don't have enough troops there,Premise,"(15484, 15517)",it's getting worse by the day,Claim,"(15188, 15217)",Support
+That's the enemy that was allowed to walk out of those mountains,Premise,"(51101, 51165)",That's the enemy that attacked us,Claim,"(51066, 51099)",Support
+my opponent wants you to forget is that he voted to authorize the use of force,Claim,"(15663, 15741)",says it's the wrong war at the wrong time at the wrong place,Claim,"(15750, 15810)",Attack
+"That's the enemy that is now in 60 countries, with stronger recruits",Premise,"(51167, 51235)",That's the enemy that attacked us,Claim,"(51066, 51099)",Support
+we have to be steadfast and resolved,Claim,"(16203, 16239)",I am,Claim,"(16245, 16249)",Support
+That is just factually incorrect,Claim,"(51291, 51323)",He also said Saddam Hussein would have been stronger,Premise,"(51237, 51289)",Attack
+the way to win this is to be steadfast and resolved and to follow through on the plan that I've just outlined,Claim,"(16047, 16156)","I don't see how you can lead this country to succeed in Iraq if you say wrong war, wrong time, wrong place",Claim,"(15812, 15918)",Support
+Two-thirds of the country was a no-fly zone when we started this war,Premise,"(51325, 51393)",That is just factually incorrect,Claim,"(51291, 51323)",Support
+"I will succeed for those troops, now that we're there",Claim,"(16255, 16308)",We have to succeed,Claim,"(16310, 16328)",Support
+We would have had the U.N. inspectors,Claim,"(51424, 51461)",Saddam Hussein would have been continually weakening,Claim,"(51463, 51515)",Support
+We can't leave a failed Iraq,Premise,"(16330, 16358)",We have to succeed,Claim,"(16310, 16328)",Support
+We would have had sanctions,Claim,"(51395, 51422)",Saddam Hussein would have been continually weakening,Claim,"(51463, 51515)",Support
+It was,Claim,"(16469, 16475)",that doesn't mean it wasn't a mistake of judgment to go there and take the focus off of Osama bin Laden,Claim,"(16364, 16467)",Support
+Saddam Hussein would have been continually weakening,Claim,"(51463, 51515)",That is just factually incorrect,Claim,"(51291, 51323)",Support
+that doesn't mean it wasn't a mistake of judgment to go there and take the focus off of Osama bin Laden,Claim,"(16364, 16467)",my opponent wants you to forget is that he voted to authorize the use of force,Claim,"(15663, 15741)",Attack
+"If the president had shown the patience to go through another round of resolution, to sit down with those leaders, say, ""What do you need, what do you need now, how much more will it take to get you to join us?""",Premise,"(51517, 51728)",we'd be in a stronger place today,Claim,"(51729, 51762)",Support
+we can succeed,Claim,"(16482, 16496)",We have to succeed,Claim,"(16310, 16328)",Equivalent
+"to think that another round of resolutions would have caused Saddam Hussein to disarm, disclose, is ludicrous, in my judgment. It just shows a significant difference of opinion",Claim,"(51881, 52057)",Saddam Hussein would have been continually weakening,Claim,"(51463, 51515)",Attack
+I think we need a president who has the credibility to bring the allies back to the table and to do what's necessary to make it,Claim,"(16538, 16665)",America isn't doing this alone,Claim,"(16669, 16699)",Support
+We tried diplomacy,Premise,"(52059, 52077)","to think that another round of resolutions would have caused Saddam Hussein to disarm, disclose, is ludicrous, in my judgment. It just shows a significant difference of opinion",Claim,"(51881, 52057)",Support
+I think we need a president who has the credibility to bring the allies back to the table and to do what's necessary to make it,Claim,"(16538, 16665)",I don't believe this president can,Claim,"(16502, 16536)",Support
+He was hoping to turn a blind eye,Premise,"(52096, 52129)","to think that another round of resolutions would have caused Saddam Hussein to disarm, disclose, is ludicrous, in my judgment. It just shows a significant difference of opinion",Claim,"(51881, 52057)",Support
+I don't believe this president can,Claim,"(16502, 16536)",we can succeed,Claim,"(16482, 16496)",Attack
+he would have been stronger had we not dealt with him,Claim,"(52141, 52194)","to think that another round of resolutions would have caused Saddam Hussein to disarm, disclose, is ludicrous, in my judgment. It just shows a significant difference of opinion",Claim,"(51881, 52057)",Support
+we're shutting firehouses who are the first- responders here in America,Premise,"(17404, 17475)",What kind of message does it send to be sending money to open firehouses in Iraq,Premise,"(17318, 17398)",Attack
+He had the capability of making weapons,Claim,"(52196, 52235)",he would have made weapons,Claim,"(52241, 52267)",Support
+the president is cutting the COPS program in America,Premise,"(17264, 17316)",what kind of mixed message does it send when you have $500 million going over to Iraq to put police officers in the streets of Iraq,Premise,"(17127, 17258)",Attack
+he would have made weapons,Claim,"(52241, 52267)",he would have been stronger had we not dealt with him,Claim,"(52141, 52194)",Support
+"The president hasn't put one nickel, not one nickel into the effort to fix some of our tunnels and bridges and most exposed subway systems",Claim,"(17477, 17615)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+Thirty-five to forty countries in the world had a greater capability of making weapons at the moment the president invaded than Saddam Hussein,Claim,"(52309, 52451)",He had the capability of making weapons,Claim,"(52196, 52235)",Attack
+they had to close down the subway in New York when the Republican Convention was there,Premise,"(17628, 17714)","The president hasn't put one nickel, not one nickel into the effort to fix some of our tunnels and bridges and most exposed subway systems",Claim,"(17477, 17615)",Support
+Iran is moving toward nuclear weapons and the world is more dangerous,Claim,"(52674, 52743)",The world is more dangerous,Claim,"(52768, 52795)",Support
+the president is cutting the COPS program in America,Premise,"(17264, 17316)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+"while he's been diverted, with 9 out of 10 active duty divisions of our Army, either going to Iraq, coming back from Iraq, or getting ready to go, North Korea's gotten nuclear weapons and the world is more dangerous",Claim,"(52457, 52672)",The world is more dangerous,Claim,"(52768, 52795)",Support
+we're shutting firehouses who are the first- responders here in America,Premise,"(17404, 17475)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+Thirty-five to forty countries in the world had a greater capability of making weapons at the moment the president invaded than Saddam Hussein,Claim,"(52309, 52451)",The world is more dangerous,Claim,"(52768, 52795)",Support
+"95 percent of the containers that come into the ports, right here in Florida, are not inspected",Premise,"(17780, 17875)",Does that make you feel safer in America?,Claim,"(17972, 18013)",Support
+Darfur has a genocide,Premise,"(52745, 52766)",The world is more dangerous,Claim,"(52768, 52795)",Support
+"Civilians get onto aircraft, and their luggage is X-rayed, but the cargo hold is not X- rayed",Premise,"(17877, 17970)",Does that make you feel safer in America?,Claim,"(17972, 18013)",Support
+The world is more dangerous,Claim,"(52768, 52795)",I'd have made a better choice,Claim,"(52797, 52826)",Support
+Does that make you feel safer in America?,Claim,"(17972, 18013)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+Those aren't my values,Claim,"(18151, 18173)",This president thought it was more important to give the wealthiest people in America a tax cut rather than invest in homeland security,Premise,"(18014, 18149)",Attack
+I believe in protecting America first,Claim,"(18175, 18212)",Those aren't my values,Claim,"(18151, 18173)",Support
+I'm going to invest in homeland security,Claim,"(18313, 18353)",I believe in protecting America first,Claim,"(18175, 18212)",Support
+I'm going to make sure we're not cutting COPS programs in America,Claim,"(18358, 18423)",I believe in protecting America first,Claim,"(18175, 18212)",Support
+I'm going to make sure we're not cutting COPS programs in America,Claim,"(18358, 18423)",the president is cutting the COPS program in America,Premise,"(17264, 17316)",Attack
+we're fully staffed in our firehouses and that we protect the nuclear and chemical plants,Claim,"(18428, 18517)",I believe in protecting America first,Claim,"(18175, 18212)",Support
+we're fully staffed in our firehouses and that we protect the nuclear and chemical plants,Claim,"(18428, 18517)",we're shutting firehouses who are the first- responders here in America,Premise,"(17404, 17475)",Attack
+which didn't want to do some of the things necessary to strengthen our chemical plant exposure,Claim,"(18586, 18680)",The president also unfortunately gave in to the chemical industry,Premise,"(18519, 18584)",Attack
+which didn't want to do some of the things necessary to strengthen our chemical plant exposure,Claim,"(18586, 18680)",there's an enormous undone job to protect the loose nuclear materials in the world that are able to get to terrorists,Claim,"(18686, 18803)",Support
+I'm going to do it in four years,Claim,"(19035, 19067)",we're going to keep it out of the hands of terrorists,Claim,"(19073, 19126)",Support
+the president will not secure the loose material in the Soviet Union -- former Soviet Union for 13 years,Claim,"(18929, 19033)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+there's an enormous undone job to protect the loose nuclear materials in the world that are able to get to terrorists,Claim,"(18686, 18803)",We hadn't done the work that ought to be done,Claim,"(17716, 17761)",Support
+we're going to keep it out of the hands of terrorists,Claim,"(19073, 19126)",I believe in protecting America first,Claim,"(18175, 18212)",Support
+I don't think we want to get to how he's going to pay for all these promises,Claim,"(19181, 19257)",I believe in protecting America first,Claim,"(18175, 18212)",Attack
+It's like a huge tax gap,Claim,"(19259, 19283)",I don't think we want to get to how he's going to pay for all these promises,Claim,"(19181, 19257)",Support
+"We've got 1,000 extra border patrol on the southern border",Premise,"(19571, 19629)",we could better coordinate our borders and ports,Claim,"(19521, 19569)",Support
+My administration worked with the Congress to create the Department of Homeland Security,Claim,"(19429, 19517)",we could better coordinate our borders and ports,Claim,"(19521, 19569)",Support
+My administration has tripled the amount of money we're spending on homeland security to $30 billion a year,Claim,"(19320, 19427)",we could better coordinate our borders and ports,Claim,"(19521, 19569)",Support
+We're modernizing our borders,Premise,"(19666, 19695)",we could better coordinate our borders and ports,Claim,"(19521, 19569)",Support
+"We spent $3.1 billion for fire and police, $3.1 billion",Premise,"(19697, 19752)",We're doing our duty to provide the funding,Claim,"(19754, 19797)",Support
+the best way to protect this homeland is to stay on the offense,Claim,"(19803, 19866)",We're doing our duty to provide the funding,Claim,"(19754, 19797)",Attack
+we have to be right 100 percent of the time,Claim,"(19878, 19921)",the best way to protect this homeland is to stay on the offense,Claim,"(19803, 19866)",Support
+the enemy only has to be right once to hurt us,Claim,"(19927, 19973)",we have to be right 100 percent of the time,Claim,"(19878, 19921)",Support
+We're communicating better,Claim,"(20129, 20155)",We're going to reform our intelligence services to make sure that we get the best intelligence possible,Claim,"(20157, 20260)",Support
+is vital that the Congress renew the Patriot Act,Claim,"(20290, 20338)",The Patriot Act is vital,Claim,"(20262, 20286)",Support
+The Patriot Act is vital,Claim,"(20262, 20286)",enables our law enforcement to disrupt terror cells,Claim,"(20345, 20396)",Support
+the best way to protect this homeland is to stay on the offense,Claim,"(19803, 19866)",the best way to protection is to stay on the offense,Claim,"(20441, 20493)",Equivalent
+We're going to reform our intelligence services to make sure that we get the best intelligence possible,Claim,"(20157, 20260)",the best way to protection is to stay on the offense,Claim,"(20441, 20493)",Support
+we've also changed the culture of the FBI to have counterterrorism as its number one priority,Claim,"(20034, 20127)",the best way to protection is to stay on the offense,Claim,"(20441, 20493)",Support
+enables our law enforcement to disrupt terror cells,Claim,"(20345, 20396)",the best way to protection is to stay on the offense,Claim,"(20441, 20493)",Support
+"We just read on the front pages of America's papers that there are over 100,000 hours of tapes, unlistened to",Premise,"(20610, 20719)",On one of those tapes may be the enemy being right the next time,Claim,"(20721, 20785)",Support
+On one of those tapes may be the enemy being right the next time,Claim,"(20721, 20785)",we've also changed the culture of the FBI to have counterterrorism as its number one priority,Claim,"(20034, 20127)",Attack
+On one of those tapes may be the enemy being right the next time,Claim,"(20721, 20785)",The president just said the FBI had changed its culture,Premise,"(20553, 20608)",Attack
+the test is not whether you're spending more money,Claim,"(20791, 20841)","We spent $3.1 billion for fire and police, $3.1 billion",Premise,"(19697, 19752)",Attack
+the test is not whether you're spending more money,Claim,"(20791, 20841)","The test is, are you doing everything possible to make America safe",Claim,"(20843, 20910)",Support
+"The test is, are you doing everything possible to make America safe",Claim,"(20843, 20910)",America needed to be safe,Claim,"(20941, 20966)",Support
+We didn't need that tax cut,Claim,"(20912, 20939)",America needed to be safe,Claim,"(20941, 20966)",Support
+I wake up every day thinking about how best to protect America,Claim,"(21034, 21096)",we're doing everything we can to protect America,Claim,"(20984, 21032)",Support
+"I work with Director Mueller of the FBI; comes in my office when I'm in Washington every morning, talking about how to protect us",Premise,"(21113, 21242)",we're doing everything we can to protect America,Claim,"(20984, 21032)",Support
+There's a lot of really good people working hard to do so,Premise,"(21244, 21301)",we're doing everything we can to protect America,Claim,"(20984, 21032)",Support
+It's hard work,Premise,"(21303, 21317)",There's a lot of really good people working hard to do so,Premise,"(21244, 21301)",Support
+we're doing everything we can to protect America,Claim,"(20984, 21032)",you better have a president who chases these terrorists down and bring them to justice before they hurt us again,Claim,"(21410, 21522)",Support

@@ -1,0 +1,707 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+I was in Pennsylvania with someone who had just graduated,Premise,"(2192, 2249)","she said, ""I've got my degree. I can't find a job. I've got three part- time jobs. They're just barely enough to pay for my food and pay for an apartment. I can't begin to pay back my student loans",Premise,"(2285, 2482)",Support
+The place where we've seen manufacturing go has been China,Premise,"(87539, 87597)",China is now the largest manufacturer in the world,Claim,"(87599, 87649)",Support
+I want 100 percent of the American people to have a bright and prosperous future,Premise,"(96406, 96486)",I care about 100 percent of the American people,Claim,"(96357, 96404)",Support
+I want to move you on to something that's sort of connected to cars here,Premise,"(10521, 10593)",you certainly will have lots of time here coming up,Claim,"(10460, 10511)",Support
+I want to bring the rates down,Claim,"(24378, 24408)",you're absolutely right about part of that,Claim,"(24325, 24367)",Support
+She didn't complain,Premise,"(37512, 37531)",That's not what you did in that generation,Claim,"(37533, 37575)",Support
+I'm disappointed with the lack of progress I've seen in the last four years,Premise,"(44711, 44786)",I am an undecided voter,Claim,"(44678, 44701)",Support
+There's no doubt about it,Premise,"(51185, 51210)",we've gone through a tough four years,Claim,"(51146, 51183)",Support
+My dad was born in Mexico of American parents,Premise,"(58717, 58762)",this is a nation of immigrants,Premise,"(58629, 58659)",Support
+they serve all around the world and do an incredible job in a very dangerous situation,Premise,"(69719, 69805)",first of all talk about our diplomats,Premise,"(69672, 69709)",Support
+"during the Democratic National Convention in 2008, you stated you wanted to keep AK-47s out of the hands of criminals",Premise,"(78048, 78165)",What has your administration done or planned to do to limit the availability of assault weapons,Claim,"(78167, 78262)",Support
+"she said, ""I've got my degree. I can't find a job. I've got three part- time jobs. They're just barely enough to pay for my food and pay for an apartment. I can't begin to pay back my student loans",Premise,"(2285, 2482)",We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)",Support
+It used to be the United States of America,Premise,"(87651, 87693)",A lot of good people have lost jobs,Claim,"(87695, 87730)",Support
+I care about our kids,Claim,"(96488, 96509)",I care about 100 percent of the American people,Claim,"(96357, 96404)",Support
+we want to get a question from Phillip Tricolla,Premise,"(10619, 10666)",you certainly will have lots of time here coming up,Claim,"(10460, 10511)",Support
+I want to simplify the tax code,Claim,"(24410, 24441)",you're absolutely right about part of that,Claim,"(24325, 24367)",Support
+"it's named after this amazing woman who had been doing the same job as a man for years, found out that she was getting paid less",Claim,"(37706, 37834)",the first bill I signed was something called the Lily Ledbetter bill,Claim,"(37632, 37700)",Support
+I do attribute much of America's economic and international problems to the failings and missteps of the Bush administration,Claim,"(44797, 44921)",I am an undecided voter,Claim,"(44678, 44701)",Support
+I told the American people and I told you I would cut taxes for middle class families,Premise,"(51232, 51317)",I did,Claim,"(51323, 51328)",Support
+Ann's dad was born in Wales and is a first-generation American,Premise,"(58764, 58826)",this is a nation of immigrants,Premise,"(58629, 58659)",Support
+these aren't just representatives of the United States,Premise,"(69811, 69865)",they are my representatives,Claim,"(69867, 69894)",Support
+We're a nation that believes in the Second Amendment,Premise,"(78271, 78323)",I believe in the Second Amendment,Claim,"(78329, 78362)",Support
+"If you graduated in the top quarter of your airlines, we gave you a John and Abigail Adams scholarship",Premise,"(2763, 2865)",We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)",Support
+people think it's more attractive in some cases to go offshore than to stay here,Claim,"(87882, 87962)",A lot of good people have lost jobs,Claim,"(87695, 87730)",Support
+I understand what it takes to make a bright and prosperous future for America again,Premise,"(96511, 96594)","I'm a guy who wants to help with the experience I have, the American people",Claim,"(96654, 96729)",Support
+We have increased oil production to the highest levels in 16 years,Claim,"(11036, 11102)",here's what I've done since I've been president,Claim,"(10987, 11034)",Support
+middle-income taxpayers have been buried over the past four years,Premise,"(24584, 24649)",I want middle-income taxpayers to have lower taxes,Claim,"(24522, 24572)",Support
+"she should have found about it earlier, whereas she had no way of finding out about it",Premise,"(37900, 37986)",the Supreme Court said that she couldn't bring suit,Claim,"(37840, 37891)",Support
+both you and President Bush are Republicans,Premise,"(44929, 44972)",I fear a return to the policies of those years should you win this election,Claim,"(44974, 45049)",Support
+I told you I'd cut taxes for small businesses,Premise,"(51330, 51375)",I have,Claim,"(24161, 24167)",Support
+I want it to be streamlined,Claim,"(58915, 58942)",I want our legal system to work better,Claim,"(58875, 58913)",Support
+"I send them there, oftentimes into harm's way",Premise,"(69896, 69941)",nobody is more concerned about their safety and security than I am,Claim,"(69992, 70058)",Support
+We've got a long tradition of hunting and sportsmen and people who want to make sure they can protect themselves,Premise,"(78364, 78476)",I believe in the Second Amendment,Claim,"(78329, 78362)",Support
+I want to make sure we keep our Pell grant program growing,Premise,"(2966, 3024)",We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)",Support
+We have made it less attractive for enterprises to stay here than to go offshore from time to time,Premise,"(87964, 88062)",people think it's more attractive in some cases to go offshore than to stay here,Claim,"(87882, 87962)",Support
+my passion probably flows from the fact that I believe in God,Premise,"(96737, 96798)","I'm a guy who wants to help with the experience I have, the American people",Claim,"(96654, 96729)",Support
+Natural gas production is the highest it's been in decades,Claim,"(11104, 11162)",here's what I've done since I've been president,Claim,"(10987, 11034)",Support
+"You've seen, as middle-income people in this country, incomes go down $4,300 a family, even as gasoline prices have gone up $2,000",Premise,"(24651, 24781)",middle-income taxpayers have been buried over the past four years,Premise,"(24584, 24649)",Support
+women are increasingly the breadwinners in the family,Premise,"(38074, 38127)",that's an example of the kind of advocacy that we need,Claim,"(38010, 38064)",Support
+I fear a return to the policies of those years should you win this election,Claim,"(44974, 45049)",I am an undecided voter,Claim,"(44678, 44701)",Support
+I said that I'd end the war in Iraq,Premise,"(51389, 51424)",I did,Claim,"(51323, 51328)",Support
+I want it to be clearer,Claim,"(58944, 58967)",I want our legal system to work better,Claim,"(58875, 58913)",Support
+I know these folks and I know their families,Premise,"(69943, 69987)",nobody is more concerned about their safety and security than I am,Claim,"(69992, 70058)",Support
+"a couple of weeks ago, actually, probably about a month, I saw a mother, who I had met at the bedside of her son, who had been shot in that theater",Premise,"(78656, 78803)","there have been too many instances during the course of my presidency, where I've had to comfort families who have lost somebody",Premise,"(78482, 78610)",Support
+We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)","We're also going to have our loan program, so that people are able to afford school",Claim,"(3026, 3109)",Support
+What I will do as president is make sure it's more attractive to come to America again,Claim,"(88064, 88150)",This is the way we're going to create jobs in this country,Claim,"(88152, 88210)",Support
+"I spent my life in the private sector, not in government",Premise,"(96596, 96652)","I'm a guy who wants to help with the experience I have, the American people",Claim,"(96654, 96729)",Support
+The most important thing we can do is to make sure we control our own energy,Claim,"(10906, 10982)",here's what I've done since I've been president,Claim,"(10987, 11034)",Support
+"Health insurance premiums, up $2,500",Premise,"(24783, 24819)",middle-income taxpayers have been buried over the past four years,Premise,"(24584, 24649)",Support
+This is not just a women's issue,Premise,"(38129, 38161)",this is a family issue,Claim,"(38163, 38185)",Support
+Every woman in America should have access to contraceptives,Claim,"(46021, 46080)",I don't believe employers should tell someone whether they could have contraceptive care of not,Claim,"(45924, 46019)",Support
+I said we'd refocus attention on those who actually attacked us on 9/11,Premise,"(51437, 51508)",we have gone after Al Qaeda's leadership like never before,Claim,"(51514, 51572)",Support
+I don't think you have to -- shouldn't have to hire a lawyer to figure out how to get into this country legally,Claim,"(58969, 59080)",I want our legal system to work better,Claim,"(58875, 58913)",Support
+they are my representatives,Claim,"(69867, 69894)",nobody is more concerned about their safety and security than I am,Claim,"(69992, 70058)",Support
+there were a lot of families who didn't have that good fortune and whose sons or daughters or husbands didn't survive,Claim,"(79018, 79135)",we have to enforce the laws we've already got,Claim,"(79164, 79209)",Support
+I want you to be able to get a job,Premise,"(3289, 3323)","also make sure that when they get out of college, there's a job",Claim,"(2606, 2669)",Support
+A lot of good people have lost jobs,Claim,"(87695, 87730)",What I will do as president is make sure it's more attractive to come to America again,Claim,"(88064, 88150)",Support
+I care about 100 percent of the American people,Claim,"(96357, 96404)",I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am,Claim,"(96242, 96355)",Support
+We have seen increases in coal production and coal employment,Claim,"(11164, 11225)",here's what I've done since I've been president,Claim,"(10987, 11034)",Support
+Food prices up,Premise,"(24821, 24835)",middle-income taxpayers have been buried over the past four years,Premise,"(24584, 24649)",Support
+this is a family issue,Claim,"(38163, 38185)",we've got to fight for it,Claim,"(38232, 38257)",Support
+I don't believe employers should tell someone whether they could have contraceptive care of not,Claim,"(45924, 46019)",the president's statement of my policy is completely and totally wrong,Claim,"(46104, 46174)",Support
+we have gone after Al Qaeda's leadership like never before,Claim,"(51514, 51572)",Osama bin Laden is dead,Claim,"(51577, 51600)",Support
+"I also think that we should give visas to people -- green cards, rather, to people who graduate with skills that we need",Claim,"(59082, 59202)",I want our legal system to work better,Claim,"(58875, 58913)",Support
+not just in Libya,Premise,"(70269, 70286)",every embassy and consulate in the region,Claim,"(70295, 70336)",Support
+"there have been too many instances during the course of my presidency, where I've had to comfort families who have lost somebody",Premise,"(78482, 78610)",we have to enforce the laws we've already got,Claim,"(79164, 79209)",Support
+"what's happened over the last four years has been very, very hard for America's young people",Premise,"(3195, 3287)",We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)",Support
+"It's not by trickle-down government, saying we're going to take more money from people and hire more government workers, raise more taxes, put in place more regulations",Premise,"(88212, 88380)","Trickle-down government has never worked here, has never worked anywhere",Premise,"(88382, 88454)",Support
+"I'm a guy who wants to help with the experience I have, the American people",Claim,"(96654, 96729)",I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am,Claim,"(96242, 96355)",Support
+we can't just produce traditional source of energy,Premise,"(11254, 11304)",We've also got to look to the future,Premise,"(11306, 11342)",Support
+Utility prices up,Premise,"(24837, 24854)",middle-income taxpayers have been buried over the past four years,Premise,"(24584, 24649)",Support
+this is a middle-class issue,Claim,"(38187, 38215)",we've got to fight for it,Claim,"(38232, 38257)",Support
+I don't believe that bureaucrats in Washington should tell someone whether they can use contraceptives or not,Claim,"(45809, 45918)",the president's statement of my policy is completely and totally wrong,Claim,"(46104, 46174)",Support
+"if you don't have health insurance, that you'd have a chance to get affordable insurance",Premise,"(51726, 51814)",I said that we would put in place health care reform to make sure that insurance companies can't jerk you around,Premise,"(51609, 51721)",Support
+"People around the world with accredited degrees in science and math get a green card stapled to their diploma, come to the U.S. of A",Premise,"(59204, 59336)","I also think that we should give visas to people -- green cards, rather, to people who graduate with skills that we need",Claim,"(59082, 59202)",Support
+every embassy and consulate in the region,Claim,"(70295, 70336)",beef up our security and procedures,Claim,"(70232, 70267)",Support
+make sure that we're keeping guns out of the hands of criminals,Claim,"(79211, 79274)",we have to enforce the laws we've already got,Claim,"(79164, 79209)",Support
+"also make sure that when they get out of college, there's a job",Claim,"(2606, 2669)",I know what it takes to get this economy going,Claim,"(3325, 3371)",Support
+"I want to make America the most attractive place in the world for entrepreneurs, for small business, for big business, to invest and grow in America",Claim,"(88456, 88604)",What I will do as president is make sure it's more attractive to come to America again,Claim,"(88064, 88150)",Support
+I believe we're all children of the same God,Claim,"(96804, 96848)",I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am,Claim,"(96242, 96355)",Support
+We've also got to look to the future,Premise,"(11306, 11342)",we doubled fuel efficiency standards on cars,Claim,"(11355, 11399)",Support
+The middle-income families in America have been crushed over the last four years,Claim,"(24856, 24936)",I want middle-income taxpayers to have lower taxes,Claim,"(24522, 24572)",Support
+she worked hard every day and made a lot of sacrifices to make sure we got everything we needed,Premise,"(37095, 37190)",I was raised by a single mom who had to put herself through school while looking after two kids,Premise,"(36994, 37089)",Support
+my five point plan is so different than what he would have done,Claim,"(46347, 46410)",President Bush and I are -- are different people,Claim,"(46253, 46301)",Support
+I said that we would put in place health care reform to make sure that insurance companies can't jerk you around,Premise,"(51609, 51721)",I have,Claim,"(24161, 24167)",Support
+There are 4 million people who are waiting in line to get here legally,Premise,"(59443, 59513)",we're going to have to stop illegal immigration,Claim,"(59394, 59441)",Support
+"as soon as we found out that the Benghazi consulate was being overrun, I was on the phone with my national security team",Premise,"(70063, 70183)",I gave them three instructions,Claim,"(70188, 70218)",Support
+those who are mentally ill,Premise,"(79276, 79302)",make sure that we're keeping guns out of the hands of criminals,Claim,"(79211, 79274)",Support
+We have to make sure that we make it easier for kids to afford college,Claim,"(2522, 2592)",I know what it takes to get this economy going,Claim,"(3325, 3371)",Support
+China hasn't,Premise,"(88713, 88725)",they don't play by the rules is artificially holding down the value of their currency,Claim,"(88768, 88853)",Support
+I believe we have a responsibility to care for one another,Claim,"(96850, 96908)",I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am,Claim,"(96242, 96355)",Support
+we doubled fuel efficiency standards on cars,Claim,"(11355, 11399)",here's what I've done since I've been president,Claim,"(10987, 11034)",Support
+I want to get some relief to middle-income families,Claim,"(24941, 24992)",I want middle-income taxpayers to have lower taxes,Claim,"(24522, 24572)",Support
+She never got a college education,Premise,"(37250, 37283)","My grandmother, she started off as a secretary in a bank",Premise,"(37192, 37248)",Support
+"we can now, by virtue of new technology actually get all the energy we need in North America without having to go to the -- the Arabs or the Venezuelans or anyone else",Premise,"(46433, 46600)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+I committed that I would rein in the excesses of Wall Street,Premise,"(51828, 51888)",we passed the toughest Wall Street reforms since the 1930s,Claim,"(51894, 51952)",Support
+Those who've come here illegally take their place,Premise,"(59515, 59564)",There are 4 million people who are waiting in line to get here legally,Premise,"(59443, 59513)",Support
+beef up our security and procedures,Claim,"(70232, 70267)",I gave them three instructions,Claim,"(70188, 70218)",Support
+I also share your belief that weapons that were designed for soldiers in war theaters don't belong on our streets,Premise,"(79423, 79536)",we've got more to do when it comes to enforcement,Claim,"(79368, 79417)",Support
+without a college level job,Premise,"(3471, 3498)",that's just unacceptable,Claim,"(3500, 3524)",Support
+"if they put their currency down low, that means their prices on their goods are low",Premise,"(88863, 88946)",they don't play by the rules is artificially holding down the value of their currency,Claim,"(88768, 88853)",Support
+I served as a missionary for my church,Premise,"(96915, 96953)",I believe we're all children of the same God,Claim,"(96804, 96848)",Support
+"in the middle of the next decade, any car you buy, you're going to end up going twice as far on a gallon of gas",Premise,"(11417, 11528)",we doubled fuel efficiency standards on cars,Claim,"(11355, 11399)",Support
+I am not going to have people at the high end pay less than they're paying now,Premise,"(25233, 25311)","I'm going to limit deductions and exemptions and credits, particularly for people at the high end",Claim,"(25126, 25223)",Support
+We've expanded Pell Grants for millions of people,Premise,"(38563, 38612)",that's exactly what we've done,Claim,"(38531, 38561)",Support
+I'll crack down on China,Claim,"(46772, 46796)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+gone from 800 jobs a month being lost,Premise,"(51991, 52028)",We've created five million jobs,Claim,"(51954, 51985)",Support
+we're going to have to stop illegal immigration,Claim,"(59394, 59441)",I will not grant amnesty to those who have come here illegally,Claim,"(59569, 59631)",Support
+"investigate exactly what happened, regardless of where the facts lead us, to make sure folks are held accountable and it doesn't happen again",Claim,"(70350, 70491)",I gave them three instructions,Claim,"(70188, 70218)",Support
+Part of it is seeing if we can get an assault weapons ban reintroduced,Claim,"(79647, 79717)",I'm trying to do is to get a broader conversation about how do we reduce the violence generally,Claim,"(79550, 79645)",Support
+you've got more and more debt on your back,Claim,"(3539, 3581)",I'm going to change that,Claim,"(3611, 3635)",Support
+that makes them advantageous in the marketplace,Claim,"(88952, 88999)",they don't play by the rules is artificially holding down the value of their currency,Claim,"(88768, 88853)",Support
+served as a pastor in my congregation for about 10 years,Premise,"(96957, 97013)",I believe we're all children of the same God,Claim,"(96804, 96848)",Support
+we doubled clean -- clean energy production like wind and solar and biofuels,Premise,"(11541, 11617)",We've also got to look to the future,Premise,"(11306, 11342)",Support
+The top 5 percent of taxpayers will continue to pay 60 percent of the income tax the nation collects,Claim,"(25313, 25413)","I'm going to limit deductions and exemptions and credits, particularly for people at the high end",Claim,"(25126, 25223)",Support
+Governor Romney talked about he wants to make Pell Grants and other education accessible for young people,Premise,"(38382, 38487)",that's exactly what we've done,Claim,"(38531, 38561)",Support
+President Bush didn't,Premise,"(46798, 46819)",I'll crack down on China,Claim,"(46772, 46796)",Support
+does that mean you're not struggling,Premise,"(52124, 52160)",Absolutely not,Claim,"(52162, 52176)",Support
+I will not grant amnesty to those who have come here illegally,Claim,"(59569, 59631)",I'll put in place an employment verification system and make sure that employers that hire people who have come here illegally are sanctioned for doing so,Claim,"(59651, 59805)",Support
+"when folks mess with Americans, we go after them",Premise,"(70653, 70701)",we're going to hunt them down,Claim,"(70553, 70582)",Support
+part of it is also looking at other sources of the violence,Claim,"(79723, 79782)",I'm trying to do is to get a broader conversation about how do we reduce the violence generally,Claim,"(79550, 79645)",Support
+more debt and less jobs,Claim,"(3586, 3609)",I'm going to change that,Claim,"(3611, 3635)",Support
+they don't play by the rules is artificially holding down the value of their currency,Claim,"(88768, 88853)",we're going to have to make sure that as we trade with other nations that they play by the rules,Claim,"(88611, 88707)",Support
+I've sat across the table from people who were out of work and worked with them to try and find new work or to help them through tough times,Premise,"(97015, 97155)",I believe we have a responsibility to care for one another,Claim,"(96850, 96908)",Support
+here's what I've done since I've been president,Claim,"(10987, 11034)",all these things have contributed to us lowering our oil imports to the lowest levels in 16 years,Claim,"(11623, 11720)",Support
+that'll stay the same,Premise,"(25418, 25439)",The top 5 percent of taxpayers will continue to pay 60 percent of the income tax the nation collects,Claim,"(25313, 25413)",Support
+We did it by taking $60 billion that was going to banks and lenders as middlemen for the student loan program,Premise,"(38673, 38782)",We've expanded Pell Grants for millions of people,Premise,"(38563, 38612)",Support
+my policy starts with a very robust policy to get all that energy in North America -- become energy secure,Claim,"(46643, 46749)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+A lot of us are,Claim,"(52178, 52193)",Absolutely not,Claim,"(52162, 52176)",Support
+I won't put in place magnets for people coming here illegally,Premise,"(59807, 59868)",I will not grant amnesty to those who have come here illegally,Claim,"(59569, 59631)",Support
+we are going to find out who did this,Claim,"(70511, 70548)",we're going to hunt them down,Claim,"(70553, 70582)",Support
+they're not using AK-47s,Premise,"(79866, 79890)",They're using cheap hand guns,Claim,"(79892, 79921)",Support
+I know what it takes to create good jobs again,Claim,"(3637, 3683)",I'm going to change that,Claim,"(3611, 3635)",Support
+they don't play by the rules is artificially holding down the value of their currency,Claim,"(88768, 88853)",manufacturers here in the U.S. making the same products can't compete,Claim,"(89020, 89089)",Support
+I went to the Olympics when they were in trouble to try and get them on track,Premise,"(97157, 97234)",I believe we have a responsibility to care for one another,Claim,"(96850, 96908)",Support
+We continue to make it a priority for us to go after natural gas,Premise,"(11826, 11890)",we still continue to open up new areas for drilling,Claim,"(11773, 11824)",Support
+I want middle-income taxpayers to have lower taxes,Claim,"(24522, 24572)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+that's going to make sure that young women are going to be able to compete in that marketplace,Premise,"(38963, 39057)",we've seen millions of young people be able to afford college,Claim,"(38896, 38957)",Support
+It's been growing about 12 percent per year over a long period of time,Premise,"(46883, 46953)",I'm also going to dramatically expand trade in Latin America,Claim,"(46821, 46881)",Support
+not only the energy of today,Premise,"(52462, 52490)",also the energy of the future,Premise,"(52496, 52525)",Support
+one way they would have that kind of pathway to become a permanent resident,Premise,"(60163, 60238)","The kids of those that came here illegally, those kids, I think, should have a pathway to become a permanent resident of the United States and military service",Claim,"(59985, 60144)",Support
+we're going to hunt them down,Claim,"(70553, 70582)",I gave them three instructions,Claim,"(70188, 70218)",Support
+"in my home town of Chicago, there's an awful lot of violence",Premise,"(79801, 79861)",They're using cheap hand guns,Claim,"(79892, 79921)",Support
+I know what it takes to make sure that you have the kind of opportunity you deserve,Claim,"(3685, 3768)",I'm going to change that,Claim,"(3611, 3635)",Support
+China has been a currency manipulator for years and years and years,Claim,"(89091, 89158)",manufacturers here in the U.S. making the same products can't compete,Claim,"(89020, 89089)",Support
+"I was able also to get our schools ranked number one in the nation, so 100 percent of our kids would have a bright opportunity for a future",Claim,"(97362, 97501)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+"We've got potentially 600,000 jobs and 100 years worth of energy right beneath our feet with natural gas",Claim,"(11892, 11996)",we still continue to open up new areas for drilling,Claim,"(11773, 11824)",Support
+you can decide which ones to use,Premise,"(25652, 25684)","in terms of bringing down deductions, one way of doing that would be say everybody gets -- I'll pick a number -- $25,000 of deductions and credits",Premise,"(25500, 25646)",Support
+we are doing,Premise,"(39108, 39120)",we've got to enforce the laws,Claim,"(39063, 39092)",Support
+I'm also going to dramatically expand trade in Latin America,Claim,"(46821, 46881)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+also the energy of the future,Premise,"(52496, 52525)",Making sure that we are controlling our own energy,Claim,"(52406, 52456)",Support
+He didn't do it,Claim,"(60501, 60516)","when the president ran for office, he said that he'd put in place, in his first year, a piece of legislation -- he'd file a bill in his first year that would reform our -- our immigration system",Premise,"(60252, 60446)",Attack
+we were still dealing with our diplomats being threatened,Premise,"(70767, 70824)","Governor Romney put out a press release, trying to make political points",Premise,"(70826, 70898)",Support
+"what can we do to intervene, to make sure that young people have opportunity",Claim,"(79930, 80006)","that if there's violence on the streets, that working with faith groups and law enforcement, we can catch it before it gets out of control",Claim,"(80038, 80176)",Support
+jobs have been too scarce,Claim,"(3966, 3991)",I'm going to change that,Claim,"(3611, 3635)",Support
+the president has a regular opportunity to label them as a currency manipulator,Premise,"(89164, 89243)",refuses to do so,Claim,"(89249, 89265)",Support
+"as governor of my state, I was able to get 100 percent of my people insured, all my kids, about 98 percent of the adults",Claim,"(97240, 97360)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+that's how we're going to reduce demand,Premise,"(12143, 12182)",we've also got to continue to figure out how we have efficiency energy,Claim,"(12052, 12122)",Support
+"in terms of bringing down deductions, one way of doing that would be say everybody gets -- I'll pick a number -- $25,000 of deductions and credits",Premise,"(25500, 25646)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+we've also got to make sure that in every walk of life we do not tolerate discrimination,Claim,"(39126, 39214)",I'm going to continue to push on this issue for the next four years,Claim,"(39271, 39338)",Support
+we'll have more trade,Premise,"(46999, 47020)",I want to add more free trade agreements,Claim,"(46955, 46995)",Support
+I did,Claim,"(51323, 51328)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+"He had a Democrat House, a Democrat Senate, super majority in both Houses",Premise,"(60518, 60591)",Why did he fail to even promote legislation that would have provided an answer for those that want to come legally and for those that are here illegally today,Premise,"(60593, 60751)",Support
+that's not how a commander in chief operates,Claim,"(70904, 70948)","Governor Romney put out a press release, trying to make political points",Premise,"(70826, 70898)",Attack
+that our schools are working,Claim,"(80008, 80036)","that if there's violence on the streets, that working with faith groups and law enforcement, we can catch it before it gets out of control",Claim,"(80038, 80176)",Support
+The middle-class has been crushed over the last four years,Claim,"(3902, 3960)",I'm going to change that,Claim,"(3611, 3635)",Support
+manufacturers here in the U.S. making the same products can't compete,Claim,"(89020, 89089)",I will label China a currency manipulator,Claim,"(89279, 89320)",Support
+I believe we have a responsibility to care for one another,Claim,"(96850, 96908)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+that's what's going to keep gas prices lower,Premise,"(12187, 12231)",we've also got to continue to figure out how we have efficiency energy,Claim,"(12052, 12122)",Support
+"Your home mortgage interest deduction, charity, child tax credit, and so forth, you can use those as part of filling that bucket, if you will, of deductions",Premise,"(25686, 25842)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+we've got to enforce the laws,Claim,"(39063, 39092)",I'm going to continue to push on this issue for the next four years,Claim,"(39271, 39338)",Support
+President Bush didn't,Premise,"(46798, 46819)",I'm going to get us to a balanced budget,Claim,"(47036, 47076)",Support
+I have,Claim,"(24161, 24167)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+Why did he fail to even promote legislation that would have provided an answer for those that want to come legally and for those that are here illegally today,Premise,"(60593, 60751)",He didn't do it,Claim,"(60501, 60516)",Attack
+You don't turn national security into a political issue,Claim,"(70950, 71005)",that's not how a commander in chief operates,Claim,"(70904, 70948)",Support
+Part of it is seeing if we can get automatic weapons that kill folks in amazing numbers out of the hands of criminals and the mentally ill,Premise,"(80234, 80372)","that if there's violence on the streets, that working with faith groups and law enforcement, we can catch it before it gets out of control",Claim,"(80038, 80176)",Support
+It's not going to be like the last four years,Premise,"(3855, 3900)",I'm going to change that,Claim,"(3611, 3635)",Support
+"which will allow me as president to be able to put in place, if necessary, tariffs where I believe that they are taking unfair advantage of our manufacturers",Claim,"(89322, 89479)",I will label China a currency manipulator,Claim,"(89279, 89320)",Support
+I believe we're all children of the same God,Claim,"(96804, 96848)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+Governor Romney will say he's got an all-of-the-above plan,Premise,"(12238, 12296)",his plan is to let the oil companies write the energy policies,Claim,"(12312, 12374)",Attack
+"every middle-income taxpayer no longer will pay any tax on interest, dividends or capital gains",Claim,"(25940, 26035)",your rate comes down and the burden also comes down on you for one more reason,Claim,"(25848, 25926)",Support
+we've got to fight for it,Claim,"(38232, 38257)",I'm going to continue to push on this issue for the next four years,Claim,"(39271, 39338)",Support
+I'm going to get us to a balanced budget,Claim,"(47036, 47076)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+I did,Claim,"(51323, 51328)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+talent from all around the world wants to come here,Premise,"(61046, 61097)",We all understand what this country has become,Claim,"(60991, 61037)",Support
+Certainly not right when it's happening,Claim,"(71007, 71046)",that's not how a commander in chief operates,Claim,"(70904, 70948)",Support
+part of it is also going deeper and seeing if we can get into these communities and making sure we catch violent impulses before they occur,Premise,"(80378, 80517)","that if there's violence on the streets, that working with faith groups and law enforcement, we can catch it before it gets out of control",Claim,"(80038, 80176)",Support
+"kids across this country are going to recognize, we're bringing back an economy",Premise,"(3774, 3853)",I'm going to change that,Claim,"(3611, 3635)",Support
+we're going to make sure that people we trade with around the world play by the rules,Claim,"(89484, 89569)",I will label China a currency manipulator,Claim,"(89279, 89320)",Support
+"I'm a guy who wants to help with the experience I have, the American people",Claim,"(96654, 96729)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+he's got the oil and gas part,Premise,"(12379, 12408)",his plan is to let the oil companies write the energy policies,Claim,"(12312, 12374)",Support
+That makes life a lot easier,Premise,"(26061, 26089)",No tax on your savings,Claim,"(26037, 26059)",Support
+our recruiting effort,Premise,"(40528, 40549)",I was able to get so many good women to be part of that team,Claim,"(40452, 40512)",Support
+I want to add more free trade agreements,Claim,"(46955, 46995)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Support
+Osama bin Laden is dead,Claim,"(51577, 51600)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+People who want to build on their dreams and make sure their kids have an even bigger dreams than they have,Premise,"(61133, 61240)",We all understand what this country has become,Claim,"(60991, 61037)",Support
+I said I'd end the war in Libya -- in -- in Iraq,Premise,"(71184, 71232)",I did,Claim,"(51323, 51328)",Support
+that's already illegal in this country to have automatic weapons,Premise,"(80776, 80840)","We, of course, don't want to have automatic weapons",Premise,"(80719, 80770)",Support
+I know what it takes to bring them back,Premise,"(3993, 4032)",I'm going to do that,Claim,"(4038, 4058)",Support
+"if you're starting a business, where would you rather start it",Premise,"(90101, 90163)",We have to be competitive if we're going to create more jobs here,Claim,"(90165, 90230)",Support
+I care about 100 percent of the American people,Claim,"(96357, 96404)",I understand that I can get this country on track again,Claim,"(97511, 97566)",Support
+he doesn't have the clean energy part,Premise,"(12414, 12451)",his plan is to let the oil companies write the energy policies,Claim,"(12312, 12374)",Support
+"If you're getting interest from a bank, if you're getting a statement from a mutual fund or any other kind of investment you have",Premise,"(26091, 26220)",you don't have to worry about filing taxes on that,Claim,"(26222, 26272)",Support
+I recognized that if you're going to have women in the workforce that sometimes you need to be more flexible,Premise,"(40575, 40683)",I was able to get so many good women to be part of that team,Claim,"(40452, 40512)",Support
+"President Obama was right, he said that that was outrageous to have deficits as high as half a trillion dollars under the Bush years",Premise,"(47101, 47233)",he put in place deficits twice that size for every one of his four years,Claim,"(47258, 47330)",Support
+I have,Claim,"(24161, 24167)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+what I've said is we need to fix a broken immigration system and I've done everything that I can on my own and sought cooperation from Congress to make sure that we fix the system,Claim,"(61278, 61457)",we're also a nation of laws,Claim,"(61246, 61273)",Support
+I said that we'd go after al-Qaeda and bin Laden,Premise,"(71245, 71293)",we have,Claim,"(2493, 2500)",Support
+how are we going to do that,Premise,"(81083, 81110)",to change the culture of violence that we have,Claim,"(81016, 81062)",Support
+"When you come out in 2014, I presume I'm going to be president",Premise,"(4152, 4214)",I'm going to make sure you get a job,Claim,"(4216, 4252)",Support
+The rate of regulations quadrupled under this president,Premise,"(90261, 90316)",Regulations have quadrupled,Claim,"(90232, 90259)",Support
+We don't have to settle for gasoline at four bucks,Premise,"(97622, 97672)",We don't have to settle for what we're going through,Claim,"(97568, 97620)",Support
+if we are only thinking about tomorrow or the next day and not thinking about 10 years from now,Claim,"(12457, 12552)",we're not going to control our own economic future,Claim,"(12554, 12604)",Support
+your rate comes down and the burden also comes down on you for one more reason,Claim,"(25848, 25926)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+that are going to be so anxious to get good workers they're going to be anxious to hire women,Premise,"(41148, 41241)",We're going to have to have employers in the new economy,Premise,"(41047, 41103)",Support
+"his forecast for the next four years is more deficits, almost that large",Claim,"(47336, 47408)",I'm different than President Bush,Claim,"(47434, 47467)",Support
+We've created five million jobs,Claim,"(51954, 51985)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+"to reduce the backlog, make it easier, simpler and cheaper for people who are waiting in line, obeying the law to make sure that they can come here and contribute to our country",Premise,"(61530, 61707)",The first thing we did was to streamline the legal immigration system,Claim,"(61459, 61528)",Support
+I did,Claim,"(51323, 51328)","when it comes to our national security, I mean what I say",Claim,"(71125, 71182)",Support
+there are a number of things,Premise,"(81116, 81144)",how are we going to do that,Premise,"(81083, 81110)",Support
+Not just to you,Premise,"(4439, 4454)",the entire nation,Claim,"(4463, 4480)",Support
+Regulations have quadrupled,Claim,"(90232, 90259)",We have to be competitive if we're going to create more jobs here,Claim,"(90165, 90230)",Support
+We don't have to settle for unemployment at a chronically high level,Premise,"(97674, 97742)",We don't have to settle for what we're going through,Claim,"(97568, 97620)",Support
+"China, Germany, they're making these investments",Premise,"(12614, 12662)",I'm not going to cede those jobs of the future to those countries,Premise,"(12668, 12733)",Support
+"there'll be no taxes for anybody making $200,000.00 per year and less, on your interest, dividends and capital gains",Premise,"(26282, 26398)",you don't have to worry about filing taxes on that,Claim,"(26222, 26272)",Support
+"in the last women have lost 580,000 jobs. That's the net of what's happened in the last four years",Premise,"(41253, 41351)","We're still down 580,000 jobs",Claim,"(41353, 41382)",Support
+I understand how hard it is to start a small business,Premise,"(47599, 47652)",I came through small business,Premise,"(47568, 47597)",Support
+we are making progress,Claim,"(52034, 52056)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Support
+that's good for our economic growth,Claim,"(61712, 61747)",The first thing we did was to streamline the legal immigration system,Claim,"(61459, 61528)",Support
+we have,Claim,"(2493, 2500)","when it comes to our national security, I mean what I say",Claim,"(71125, 71182)",Support
+He mentioned good schools,Premise,"(81146, 81171)",I totally agree,Claim,"(81173, 81188)",Support
+not just jobs,Premise,"(4585, 4598)",good paying jobs,Claim,"(4600, 4616)",Support
+Obamacare has been an extraordinary deterrent to enterprises of all kinds hiring people,Premise,"(90565, 90652)","I want to make sure that regulators see their job as encouraging small business, not crushing it",Claim,"(90434, 90530)",Support
+We don't have to settle for 47 million people on food stamps,Premise,"(97744, 97804)",We don't have to settle for what we're going through,Claim,"(97568, 97620)",Support
+That's going to help Jeremy get a job,Premise,"(12814, 12851)",I expect those new energy sources to be built right here in the United States,Claim,"(12735, 12812)",Support
+I want to help people in the middle-class,Claim,"(26505, 26546)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+so strong that employers that are looking to find good employees and bringing them into their workforce,Premise,"(41543, 41646)",we can do to help young women and women of all ages is to have a strong economy,Claim,"(41462, 41541)",Support
+I came through small business,Premise,"(47568, 47597)",everything I'll do is designed to help small businesses grow and add jobs,Claim,"(47665, 47738)",Support
+"those that I haven't been able to keep, it's not for lack of trying",Premise,"(52629, 52696)",we're going to get it done in a second term,Claim,"(52701, 52744)",Support
+They'll start new businesses,Premise,"(61749, 61777)",The first thing we did was to streamline the legal immigration system,Claim,"(61459, 61528)",Support
+"I said we'd transition out of Afghanistan, and start making sure that Afghans are responsible for their own security",Premise,"(71304, 71420)",that's what I'm doing,Claim,"(71422, 71443)",Support
+I totally agree,Claim,"(81173, 81188)",to change the culture of violence that we have,Claim,"(81016, 81062)",Support
+good paying jobs,Claim,"(4600, 4616)",the most important thing we can do is to make sure that we are creating jobs in this country,Claim,"(4487, 4579)",Support
+"If we have more people hired, if we get back manufacturing jobs, if we get back all kinds of jobs into this country, then you're going to see rising incomes again",Premise,"(90712, 90874)",My priority is making sure that we get more people hired,Claim,"(90654, 90710)",Support
+We don't have to settle for 50 percent of kids coming out of college not able to get work,Premise,"(97806, 97895)",We don't have to settle for what we're going through,Claim,"(97568, 97620)",Support
+It's also going to make sure that you're not paying as much for gas,Premise,"(12853, 12920)",I expect those new energy sources to be built right here in the United States,Claim,"(12735, 12812)",Support
+"I will not, under any circumstances increase taxes on the middle-class",Claim,"(26674, 26744)",Middle-income people are going to get a tax break,Claim,"(25441, 25490)",Support
+adapting to a flexible work schedule that gives women opportunities that they would otherwise not be able to afford,Premise,"(41651, 41766)",we can do to help young women and women of all ages is to have a strong economy,Claim,"(41462, 41541)",Support
+I want to keep their taxes down on small business,Claim,"(47740, 47789)",everything I'll do is designed to help small businesses grow and add jobs,Claim,"(47665, 47738)",Support
+Governor Romney has made some commitments as well,Premise,"(52802, 52851)",you should pay attention to this campaign,Claim,"(52751, 52792)",Support
+They'll make things happen to create jobs here in the United States,Premise,"(61779, 61846)",The first thing we did was to streamline the legal immigration system,Claim,"(61459, 61528)",Support
+that's what I'm doing,Claim,"(71422, 71443)","when it comes to our national security, I mean what I say",Claim,"(71125, 71182)",Support
+"I believe if we do a better job in education, we'll -- we'll give people the -- the hope and opportunity they deserve and perhaps less violence from that",Claim,"(81272, 81425)",I totally agree,Claim,"(81173, 81188)",Support
+Ones that can support a family,Premise,"(4618, 4648)",good paying jobs,Claim,"(4600, 4616)",Support
+unemployment is so high,Premise,"(90915, 90938)",incomes are down,Claim,"(90887, 90903)",Support
+We don't have to settle for 23 million people struggling to find a good job,Premise,"(97897, 97972)",We don't have to settle for what we're going through,Claim,"(97568, 97620)",Support
+the president's right in terms of the additional oil production,Premise,"(13127, 13190)",none of it came on federal land,Claim,"(13196, 13227)",Support
+"I will not under any circumstances, reduce the share that's being paid by the highest income taxpayers",Claim,"(26566, 26668)",The top 5 percent of taxpayers will continue to pay 60 percent of the income tax the nation collects,Claim,"(25313, 25413)",Support
+This is what I have done,Premise,"(41768, 41792)",we can do to help young women and women of all ages is to have a strong economy,Claim,"(41462, 41541)",Support
+I want regulators to see their job as encouraging small enterprise,Claim,"(47791, 47857)",everything I'll do is designed to help small businesses grow and add jobs,Claim,"(47665, 47738)",Support
+I suspect he'll keep those too,Claim,"(52857, 52887)",you should pay attention to this campaign,Claim,"(52751, 52792)",Support
+"not after students, not after folks",Claim,"(62247, 62282)","if we're going to go after folks who are here illegally, we should do it smartly and go after folks who are criminals, gang bangers, people who are hurting the community",Claim,"(62076, 62245)",Support
+"when it comes to our national security, I mean what I say",Claim,"(71125, 71182)","when it comes to this issue, when I say that we are going to find out exactly what happened, everybody will be held accountable",Claim,"(71449, 71576)",Support
+the benefit of having two parents in the home,Premise,"(81553, 81598)","We need moms and dads, helping to raise kids",Premise,"(81482, 81526)",Support
+I want to build manufacturing jobs in this country again,Claim,"(4876, 4932)",there are a bunch of things we can do to make sure your future is bright,Claim,"(4790, 4862)",Support
+incomes are down,Claim,"(90887, 90903)",My priority is making sure that we get more people hired,Claim,"(90654, 90710)",Support
+We don't have to settle for what we're going through,Claim,"(97568, 97620)","If I become president, I'll get America working again",Claim,"(97974, 98027)",Support
+we've had four years of policies being played out,Premise,"(13072, 13121)",none of it came on federal land,Claim,"(13196, 13227)",Support
+"A recent study has shown the people in the middle-class will see $4,000.00 per year in higher taxes as a result of the spending and borrowing of this administration",Premise,"(26893, 27057)",I will not let that happen,Claim,"(27059, 27085)",Support
+I know what a working economy looks like,Claim,"(41882, 41922)",I know what it takes to make an economy work,Claim,"(41832, 41876)",Support
+not crushing it,Premise,"(47859, 47874)",I want regulators to see their job as encouraging small enterprise,Claim,"(47791, 47857)",Support
+you don't feel like your confident that the next four years are going to be much better either,Premise,"(54139, 54233)",I think you know that these last four years haven't been so good as the president just described,Claim,"(54033, 54129)",Support
+who are here just because they're trying to figure out how to feed their families,Claim,"(62283, 62364)","if we're going to go after folks who are here illegally, we should do it smartly and go after folks who are criminals, gang bangers, people who are hurting the community",Claim,"(62076, 62245)",Support
+these are my folks,Premise,"(71648, 71666)",I am ultimately responsible for what's taking place there,Claim,"(71582, 71639)",Support
+"A lot of great single moms, single dads",Premise,"(81632, 81671)",that's not always possible,Premise,"(81604, 81630)",Support
+not just in Detroit,Premise,"(5137, 5156)",all across the country,Premise,"(5162, 5184)",Support
+I know what it takes to get this to happen,Premise,"(90940, 90982)",my plan will do that,Claim,"(90988, 91008)",Support
+I will get us on track to a balanced budget,Claim,"(98029, 98072)","If I become president, I'll get America working again",Claim,"(97974, 98027)",Support
+oil production is down 14 percent this year on federal land,Claim,"(13250, 13309)",none of it came on federal land,Claim,"(13196, 13227)",Support
+I want to get us on track to a balanced budget,Claim,"(27087, 27133)",I will not let that happen,Claim,"(27059, 27085)",Support
+an economy with 7.8 percent unemployment is not a real strong economy,Premise,"(41928, 41997)",I know what a working economy looks like,Claim,"(41882, 41922)",Support
+"one of the things I find most troubling is that when you go out and talk to small businesses and ask them what they think about it, they tell you it keeps them from hiring more people",Premise,"(47961, 48144)",everything I'll do is designed to help small businesses grow and add jobs,Claim,"(47665, 47738)",Support
+"if you were to elect President Obama, you know what you're going to get",Premise,"(54255, 54326)",You're going to get a repeat of the last four years,Claim,"(54328, 54379)",Support
+"Had gone to school here, pledged allegiance to the flag",Premise,"(62496, 62551)",what I've also said is for young people who come here,Premise,"(62398, 62451)",Support
+I'm the one who has to greet those coffins when they come home,Premise,"(71672, 71734)",I am ultimately responsible for what's taking place there,Claim,"(71582, 71639)",Support
+that's a great idea,Premise,"(81783, 81802)","tell our kids that before they have babies, they ought to think about getting married to someone",Claim,"(81685, 81781)",Support
+all across the country,Premise,"(5162, 5184)",I want to do that in industries,Premise,"(5104, 5135)",Support
+one part of it is to make sure that we keep China playing by the rules,Claim,"(91014, 91084)",my plan will do that,Claim,"(90988, 91008)",Support
+The president hasn't,Premise,"(98074, 98094)",I will,Claim,"(1677, 1683)",Support
+gas production was down 9 percent,Claim,"(13315, 13348)",none of it came on federal land,Claim,"(13196, 13227)",Support
+I'm going to reduce the tax burden on middle income families,Claim,"(27139, 27199)",I will not let that happen,Claim,"(27059, 27085)",Support
+economy that has 23 million people looking for work is not a strong economy,Premise,"(42002, 42077)",I know what a working economy looks like,Claim,"(41882, 41922)",Support
+I know how to make that happen,Premise,"(31787, 31817)",My priority is jobs,Claim,"(48146, 48165)",Support
+You're going to get a repeat of the last four years,Claim,"(54328, 54379)",I think you know that these last four years haven't been so good as the president just described,Claim,"(54033, 54129)",Support
+Think of this as their country,Premise,"(62553, 62583)",what I've also said is for young people who come here,Premise,"(62398, 62451)",Support
+I am ultimately responsible for what's taking place there,Claim,"(71582, 71639)","when it comes to this issue, when I say that we are going to find out exactly what happened, everybody will be held accountable",Claim,"(71449, 71576)",Support
+"if there's a two parent family, the prospect of living in poverty goes down dramatically",Premise,"(81812, 81900)","tell our kids that before they have babies, they ought to think about getting married to someone",Claim,"(81685, 81781)",Support
+I want to do that in industries,Premise,"(5104, 5135)",we're going to bet on American workers and the American auto industry and it's come surging back,Claim,"(5006, 5102)",Support
+My priority is making sure that we get more people hired,Claim,"(90654, 90710)",my plan will do that,Claim,"(90988, 91008)",Support
+The president said he would,Premise,"(98213, 98240)",He didn't,Claim,"(50334, 50343)",Support
+"the president cut in half the number of licenses and permits for drilling on federal lands, and in federal waters",Premise,"(13363, 13476)",none of it came on federal land,Claim,"(13196, 13227)",Support
+I will not let that happen,Claim,"(27059, 27085)",It's going to help those families,Claim,"(27230, 27263)",Support
+"economy with 50 percent of kids graduating from college that can't finds a job, or a college level job, that's not what we have to have",Premise,"(42082, 42217)",I know what a working economy looks like,Claim,"(41882, 41922)",Support
+My path is designed in getting small businesses to grow and hire people,Claim,"(48271, 48342)",President Bush has a very different path for a very different time,Claim,"(48203, 48269)",Support
+I think you know that these last four years haven't been so good as the president just described,Claim,"(54033, 54129)",we're going to get it done in a second term,Claim,"(52701, 52744)",Attack
+Understand themselves as Americans in every way except having papers,Premise,"(62585, 62653)",what I've also said is for young people who come here,Premise,"(62398, 62451)",Support
+he takes responsibility for -- for that -- for the failure in providing those security resources,Claim,"(72002, 72098)",I think the president just said correctly that the buck does stop at his desk,Claim,"(71913, 71990)",Support
+The opportunities that the child will -- will be able to achieve increase dramatically,Claim,"(81902, 81988)","tell our kids that before they have babies, they ought to think about getting married to someone",Claim,"(81685, 81781)",Support
+we change our tax code so we're giving incentives to companies that are investing here in the United States and creating jobs here,Claim,"(5200, 5330)",we're going to bet on American workers and the American auto industry and it's come surging back,Claim,"(5006, 5102)",Support
+Governor Romney and I agree actually that we should lower our corporate tax rate,Premise,"(91231, 91311)",It's too high,Claim,"(91313, 91326)",Support
+I'll make sure we can reform Medicare and Social Security to preserve them for coming -- coming generations,Claim,"(98104, 98211)","If I become president, I'll get America working again",Claim,"(97974, 98027)",Support
+"The administration brought a criminal action against the people drilling up there for oil, this massive new resource we have",Claim,"(13608, 13732)",a lot of it came from the Bakken Range in North Dakota,Claim,"(13518, 13572)",Support
+I will not let that happen,Claim,"(27059, 27085)",it's going to create incentives to start growing jobs again in this country,Claim,"(27269, 27344)",Support
+I know what it takes to make an economy work,Claim,"(41832, 41876)",I'm going to help women in America get good work by getting a stronger economy and by supporting women in the workforce,Claim,"(42246, 42365)",Support
+President Bush has a very different path for a very different time,Claim,"(48203, 48269)",President Bush and I are -- are different people,Claim,"(46253, 46301)",Support
+He said that by now we'd have unemployment at 5.4 percent,Premise,"(54444, 54501)",The difference between where it is and 5.4 percent is 9 million Americans without work,Claim,"(54503, 54589)",Support
+what I've also said is for young people who come here,Premise,"(62398, 62451)",we should make sure that we give them a pathway to citizenship,Claim,"(62659, 62721)",Support
+or actually whether it was a terrorist attack,Claim,"(72563, 72608)",There were many days that passed before we knew whether this was a spontaneous demonstration,Claim,"(72469, 72561)",Support
+"we can make changes in the way our culture works to help bring people away from violence and give them opportunity, and bring them in the American system",Premise,"(81993, 82146)","tell our kids that before they have babies, they ought to think about getting married to someone",Claim,"(81685, 81781)",Support
+we're helping them and small businesses to export all around the world to new markets,Claim,"(5346, 5431)",we're going to bet on American workers and the American auto industry and it's come surging back,Claim,"(5006, 5102)",Support
+they have tax advantages offshore,Claim,"(91541, 91574)",that allow them to profit offshore and not have to get taxed,Claim,"(91476, 91536)",Support
+I've done these things,Premise,"(98323, 98345)",I'll get our incomes up,Claim,"(98282, 98305)",Support
+"I want to make sure we use our oil, our coal, our gas, our nuclear, our renewables",Claim,"(13865, 13947)","I believe very much in our renewable capabilities; ethanol, wind, solar will be an important part of our energy mix",Claim,"(13949, 14064)",Support
+they have been hit hard over the last decade,Premise,"(27547, 27591)",I want to give middle-class families and folks who are striving to get into the middle-class some relief,Claim,"(27433, 27537)",Support
+"when Governor Romney's campaign was asked about the Lilly Ledbetter bill, whether he supported it",Premise,"(42484, 42581)","He said, ""I'll get back to you",Premise,"(42583, 42613)",Support
+"We were losing 800,000 jobs a month when I started",Premise,"(48493, 48543)",we've seen 30 consecutive -- 31 consecutive months of job growth,Claim,"(48696, 48760)",Support
+I wasn't the one that said 5.4 percent,Premise,"(54591, 54629)",The difference between where it is and 5.4 percent is 9 million Americans without work,Claim,"(54503, 54589)",Support
+they suspected maybe they looked like they might be undocumented workers and check their papers,Premise,"(63268, 63363)",He called the Arizona law a model for the nation,Premise,"(63134, 63182)",Support
+There were many days that passed before we knew whether this was a spontaneous demonstration,Claim,"(72469, 72561)",There were other issues associated with this -- with this tragedy,Claim,"(72402, 72467)",Support
+was a program under this administration,Premise,"(82290, 82329)",the greatest failure we've had with regards to -- to gun violence in some respects is what -- what is known as Fast and Furious,Claim,"(82155, 82282)",Support
+the fact that you're going to college is great,Premise,"(5525, 5571)",I want everybody to get a great education,Claim,"(5577, 5618)",Support
+that allow them to profit offshore and not have to get taxed,Claim,"(91476, 91536)",I want to close loopholes that allow companies to deduct expenses when they move to China,Claim,"(91385, 91474)",Support
+I served as governor and showed I could get them done,Premise,"(98347, 98400)",I'll get our incomes up,Claim,"(98282, 98305)",Support
+"our energy is low cost, that are already beginning to come back because of our abundant energy",Premise,"(14944, 15038)","if we do what I'm planning on doing, which is getting us energy independent, North America energy independence within eight years, you're going to see manufacturing jobs come back",Claim,"(14755, 14934)",Support
+"Over the last 15, over the last 20 years",Premise,"(27593, 27633)",I want to give middle-class families and folks who are striving to get into the middle-class some relief,Claim,"(27433, 27537)",Support
+"He said, ""I'll get back to you",Premise,"(42583, 42613)",that's not the kind of advocacy that women need in any economy,Claim,"(42620, 42682)",Support
+we had been digging our way out of policies that were misplaced and focused on the top doing very well and middle class folks not doing well,Premise,"(48549, 48689)",we've seen 30 consecutive -- 31 consecutive months of job growth,Claim,"(48696, 48760)",Support
+This was the president's plan,Premise,"(54631, 54660)",I wasn't the one that said 5.4 percent,Premise,"(54591, 54629)",Support
+"If my daughter or yours looks to somebody like they're not a citizen, I don't want -- I don't want to empower somebody like that",Premise,"(63380, 63508)",we can fix this system in a comprehensive way,Claim,"(63514, 63559)",Support
+It was a terrorist attack,Claim,"(72659, 72684)",it took a long time for that to be told to the American people,Claim,"(72689, 72751)",Support
+"how it worked exactly I think we don't know precisely, where thousands of automatic, and AK-47 type weapons were -- were given to people that ultimately gave them to -- to drug lords",Premise,"(82335, 82517)",the greatest failure we've had with regards to -- to gun violence in some respects is what -- what is known as Fast and Furious,Claim,"(82155, 82282)",Support
+we've worked hard to make sure that student loans are available for folks like you,Claim,"(5623, 5705)",we've got to make sure that we have the best education system in the world,Claim,"(5445, 5519)",Support
+All those changes in our tax code would make a difference,Premise,"(91576, 91633)",I want to close loopholes that allow companies to deduct expenses when they move to China,Claim,"(91385, 91474)",Support
+I'll get our incomes up,Claim,"(98282, 98305)","If I become president, I'll get America working again",Claim,"(97974, 98027)",Support
+"if we do what I'm planning on doing, which is getting us energy independent, North America energy independence within eight years, you're going to see manufacturing jobs come back",Claim,"(14755, 14934)",I'll get America and North America energy independent,Claim,"(15040, 15093)",Support
+I said I would cut taxes for middle- class families,Premise,"(27725, 27776)","that's what I've done, by $3,600.00",Claim,"(27782, 27817)",Support
+their healthcare,Premise,"(42789, 42805)",there are some other issues that have a bearing on how women succeed in the workplace,Claim,"(42689, 42774)",Support
+we've seen 30 consecutive -- 31 consecutive months of job growth,Claim,"(48696, 48760)",the plans that I talked about will create even more,Claim,"(48796, 48847)",Support
+he pointed out they're on the road to bankruptcy,Premise,"(54776, 54824)",He said he would have by now put forward a plan to reform Medicare and Social Security,Claim,"(54680, 54766)",Support
+That's not true,Claim,"(63635, 63650)","when Governor Romney says, the challenge is, ""Well Obama didn't try",Premise,"(63565, 63632)",Attack
+it took a long time for that to be told to the American people,Claim,"(72689, 72751)",There were other issues associated with this -- with this tragedy,Claim,"(72402, 72467)",Support
+They used those weapons against -- against their own citizens and killed Americans with them,Premise,"(82519, 82611)","how it worked exactly I think we don't know precisely, where thousands of automatic, and AK-47 type weapons were -- were given to people that ultimately gave them to -- to drug lords",Premise,"(82335, 82517)",Support
+I want everybody to get a great education,Claim,"(5577, 5618)",we've got to make sure that we have the best education system in the world,Claim,"(5445, 5519)",Support
+"One of his big ideas when it comes to corporate tax reform would be to say, if you invest overseas, you make profits overseas, you don't have to pay U.S. taxes",Premise,"(91699, 91858)",Governor Romney actually wants to expand those tax breaks,Claim,"(91640, 91697)",Support
+That's not what I believe,Premise,"(98639, 98664)","I think a lot of this campaign, maybe over the last four years, has been devoted to this nation that I think government creates jobs, that that somehow is the answer",Claim,"(98472, 98637)",Support
+"I'll do it by more drilling, more permits and licenses",Claim,"(15095, 15149)",I'll get America and North America energy independent,Claim,"(15040, 15093)",Support
+"that's what I've done, by $3,600.00",Claim,"(27782, 27817)",So four years ago I stood on a stage just like this one,Claim,"(27635, 27690)",Support
+a major difference in this campaign is that Governor Romney feels comfortable having politicians in Washington decide the health care choices that women are making,Premise,"(42816, 42979)",I think that's a mistake,Claim,"(42981, 43005)",Support
+"when Governor Romney says that he has a very different economic plan, the centerpiece of his economic plan are tax cuts",Premise,"(48853, 48972)",That's what took us from surplus to deficit,Claim,"(48974, 49017)",Support
+He would reform them,Premise,"(54826, 54846)",He said he would have by now put forward a plan to reform Medicare and Social Security,Claim,"(54680, 54766)",Support
+I have sat down with Democrats and Republicans at the beginning of my term,Claim,"(63652, 63726)",That's not true,Claim,"(63635, 63650)",Support
+there was no demonstration involved,Premise,"(72622, 72657)",There were other issues associated with this -- with this tragedy,Claim,"(72402, 72467)",Support
+the greatest failure we've had with regards to -- to gun violence in some respects is what -- what is known as Fast and Furious,Claim,"(82155, 82282)",this was a program of the government,Claim,"(82631, 82667)",Support
+I also want to make sure that community colleges are offering slots for workers to get retrained for the jobs that are out there right now and the jobs of the future,Claim,"(5711, 5876)",we've got to make sure that we have the best education system in the world,Claim,"(5445, 5519)",Support
+"if you're a small business or a mom-and-pop business or a big business starting up here, you've got to pay even the reduced rate that Governor Romney's talking about",Premise,"(91876, 92041)",Governor Romney actually wants to expand those tax breaks,Claim,"(91640, 91697)",Support
+I believe in self-reliance and individual initiative and risk takers being rewarded,Claim,"(98769, 98852)",I believe that the free enterprise system is the greatest engine of prosperity the world's ever known,Claim,"(98666, 98767)",Support
+We're going to bring that pipeline in from Canada,Claim,"(15151, 15200)",I'll get America and North America energy independent,Claim,"(15040, 15093)",Support
+I said I would cut taxes for small businesses,Premise,"(27819, 27864)",we've cut them 18 times,Claim,"(27913, 27936)",Support
+I think that's a mistake,Claim,"(42981, 43005)","In my health care bill, I said insurance companies need to provide contraceptive coverage to everybody who is insured",Claim,"(43007, 43124)",Support
+currently investing in countries -- in companies that are building surveillance equipment for China to spy on its own folks,Premise,"(49170, 49293)",Governor Romney invested in companies that were pioneers of outsourcing to China,Premise,"(49081, 49161)",Support
+He hasn't even made a proposal on either one,Premise,"(54868, 54912)",He said he would have by now put forward a plan to reform Medicare and Social Security,Claim,"(54680, 54766)",Attack
+Including Senators previously who had supported it on the Republican side,Premise,"(63763, 63836)","I said, let's fix this system",Premise,"(63732, 63761)",Support
+"we have four Americans killed there, when apparently we didn't know what happened",Premise,"(73198, 73279)","the president, the day after that happened, flies to Las Vegas for a political fund-raiser, then the next day to Colorado for another event, other political event",Premise,"(73286, 73448)",Support
+it's one of the great tragedies related to violence in our society which has occurred during this administration,Premise,"(82728, 82840)",the greatest failure we've had with regards to -- to gun violence in some respects is what -- what is known as Fast and Furious,Claim,"(82155, 82282)",Support
+"not only oil and natural gas, which we've been investing in",Premise,"(5934, 5993)",we've got to make sure we're building the energy source of the future,Claim,"(6005, 6074)",Support
+The problem is they'll be in china,Claim,"(92102, 92136)","it's estimated that that will create 800,000 new jobs",Claim,"(92047, 92100)",Attack
+I also believe that everybody should have a fair shot and everybody should do their fair share and everybody should play by the same rules,Claim,"(98858, 98996)",I believe that the free enterprise system is the greatest engine of prosperity the world's ever known,Claim,"(98666, 98767)",Support
+This is about bringing good jobs back for the middle class of America,Premise,"(15278, 15347)",that's what I'm going to do,Claim,"(15353, 15380)",Support
+we've cut them 18 times,Claim,"(27913, 27936)","I want to continue those tax cuts for middle-class families, and for small business",Claim,"(27942, 28025)",Support
+this is not just a -- a health issue,Premise,"(43134, 43170)",it's an economic issue for women,Claim,"(43172, 43204)",Support
+Governor Romney invested in companies that were pioneers of outsourcing to China,Premise,"(49081, 49161)","Governor, you're the last person who's going to get tough on China",Claim,"(49305, 49371)",Support
+Didn't even file it,Claim,"(55022, 55041)",He said in his first year he'd put out an immigration plan that would deal with our immigration challenges,Premise,"(54914, 55020)",Attack
+"I said, let's fix this system",Premise,"(63732, 63761)",That's not true,Claim,"(63635, 63650)",Support
+"the day following the assassination of the United States ambassador, the first time that's happened since 1979",Premise,"(73073, 73183)","the president, the day after that happened, flies to Las Vegas for a political fund-raiser, then the next day to Colorado for another event, other political event",Premise,"(73286, 73448)",Support
+the administration has carried out executive privilege to prevent all of the information from coming out,Claim,"(82955, 83059)","I think the American people would like to understand fully, it's been investigated to a degree",Claim,"(82848, 82942)",Attack
+not just thinking about next year,Premise,"(6076, 6109)","ten years from now, 20 years from now",Claim,"(6115, 6152)",Support
+Or India,Claim,"(92138, 92146)","it's estimated that that will create 800,000 new jobs",Claim,"(92047, 92100)",Attack
+that's how our economy's grown,Premise,"(99006, 99036)",I believe that the free enterprise system is the greatest engine of prosperity the world's ever known,Claim,"(98666, 98767)",Support
+I'll get America and North America energy independent,Claim,"(15040, 15093)",that's what I'm going to do,Claim,"(15353, 15380)",Support
+"that's what I've done, by $3,600.00",Claim,"(27782, 27817)","I want to continue those tax cuts for middle-class families, and for small business",Claim,"(27942, 28025)",Support
+it's an economic issue for women,Claim,"(43172, 43204)","In my health care bill, I said insurance companies need to provide contraceptive coverage to everybody who is insured",Claim,"(43007, 43124)",Support
+"Governor, you're the last person who's going to get tough on China",Claim,"(49305, 49371)",I'll crack down on China,Claim,"(46772, 46796)",Attack
+Didn't even file it,Claim,"(55022, 55041)",This is a president who has not been able to do what he said he'd do,Claim,"(55043, 55111)",Support
+which is the portion of the law which says that employers could be able to determine whether someone is here illegally or not illegally,Premise,"(64441, 64576)",I said that the E-Verify portion of the Arizona law,Claim,"(64376, 64427)",Support
+"the president, the day after that happened, flies to Las Vegas for a political fund-raiser, then the next day to Colorado for another event, other political event",Premise,"(73286, 73448)",these actions taken by a president and a leader have symbolic significance and perhaps even material significance in that you'd hope that during that time we could call in the people who were actually eyewitnesses,Claim,"(73467, 73680)",Support
+the greatest failure we've had with regards to -- to gun violence in some respects is what -- what is known as Fast and Furious,Claim,"(82155, 82282)","I think the American people would like to understand fully, it's been investigated to a degree",Claim,"(82848, 82942)",Support
+"ten years from now, 20 years from now",Claim,"(6115, 6152)",we've got to control our own energy,Claim,"(5892, 5927)",Support
+Or Germany,Claim,"(92148, 92158)","it's estimated that that will create 800,000 new jobs",Claim,"(92047, 92100)",Attack
+That's how we built the world's greatest middle class,Premise,"(99038, 99091)",I believe that the free enterprise system is the greatest engine of prosperity the world's ever known,Claim,"(98666, 98767)",Support
+We've opened up public lands,Premise,"(15965, 15993)",We're actually drilling more on public lands than in the previous administration and my -- the previous president was an oil man,Claim,"(15995, 16123)",Support
+we've cut them 18 times,Claim,"(27913, 27936)",So four years ago I stood on a stage just like this one,Claim,"(27635, 27690)",Support
+This is money out of that family's pocket,Premise,"(43229, 43270)",it's an economic issue for women,Claim,"(43172, 43204)",Support
+what we've done when it comes to trade is not only sign three trade deals to open up new markets,Premise,"(49377, 49473)",we've also set up a task force for trade that goes after anybody who is taking advantage of American workers or businesses and not creating a level playing field,Claim,"(49479, 49640)",Support
+He said he would have by now put forward a plan to reform Medicare and Social Security,Claim,"(54680, 54766)",This is a president who has not been able to do what he said he'd do,Claim,"(55043, 55111)",Support
+that was a model for the nation,Claim,"(64583, 64614)",I said that the E-Verify portion of the Arizona law,Claim,"(64376, 64427)",Support
+It was very clear this was not a demonstration,Premise,"(73733, 73779)",This was an attack by terrorists,Claim,"(73781, 73813)",Support
+"I'd like to understand who it was that did this, what the idea was behind it, why it led to the violence, thousands of guns going to Mexican drug lords",Premise,"(83061, 83212)","I think the American people would like to understand fully, it's been investigated to a degree",Claim,"(82848, 82942)",Support
+we've got to make sure we're building the energy source of the future,Claim,"(6005, 6074)",we've got to control our own energy,Claim,"(5892, 5927)",Support
+That's not the way we're going to create jobs here,Premise,"(92160, 92210)","it's estimated that that will create 800,000 new jobs",Claim,"(92047, 92100)",Attack
+"Loves his family, cares about his faith",Premise,"(99275, 99314)",I believe Governor Romney is a good man,Claim,"(99234, 99273)",Support
+natural gas isn't just appearing magically,Premise,"(16129, 16171)",We're encouraging it and working with the industry,Claim,"(16173, 16223)",Support
+"if we're serious about reducing the deficit, if this is genuinely a moral obligation to the next generation, then in addition to some tough spending cuts",Premise,"(28055, 28208)","what I've said is, your first $250,000.00 worth of income, no change",Premise,"(28280, 28348)",Support
+Governor Romney not only opposed it,Premise,"(43272, 43307)",he suggested that in fact employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage,Claim,"(43309, 43459)",Support
+"we had to make sure that China was not flooding our domestic market with cheap tires, Governor Romney said I was being protectionist",Premise,"(49811, 49943)","we saved 1,000 jobs",Claim,"(50008, 50027)",Support
+This is a president who has not been able to do what he said he'd do,Claim,"(55043, 55111)","the point is the commitments I've made, I've kept",Claim,"(52574, 52623)",Attack
+I did not say that the Arizona law was a model for the nation in that aspect,Premise,"(64298, 64374)",I said that the E-Verify portion of the Arizona law,Claim,"(64376, 64427)",Support
+This was an attack by terrorists,Claim,"(73781, 73813)",this calls into question the president's whole policy in the Middle East,Claim,"(73819, 73891)",Support
+it provided opportunities for both that both wanted,Premise,"(83929, 83980)","it had, at the signing of the bill, both the pro-gun and the anti-gun people came togethe",Claim,"(83829, 83918)",Support
+we've got to make sure that we have the best education system in the world,Claim,"(5445, 5519)",there are a bunch of things we can do to make sure your future is bright,Claim,"(4790, 4862)",Support
+double our exports,Claim,"(92300, 92318)",The way we're going to create jobs here is not just to change our tax code,Claim,"(92212, 92286)",Support
+I believe Governor Romney is a good man,Claim,"(99234, 99273)",I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am,Claim,"(96242, 96355)",Attack
+"to make sure that even as we're producing more coal, we're producing it cleaner and smarter",Claim,"(16673, 16764)",we made the largest investment in clean coal technology,Claim,"(16616, 16671)",Support
+"that means 98 percent of American families, 97 percent of small businesses, they will not see a tax increase",Premise,"(28354, 28462)","what I've said is, your first $250,000.00 worth of income, no change",Premise,"(28280, 28348)",Support
+That's not the kind of advocacy that women need,Claim,"(43461, 43508)",he suggested that in fact employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage,Claim,"(43309, 43459)",Attack
+it wouldn't be helpful to American workers,Premise,"(49950, 49992)","we saved 1,000 jobs",Claim,"(50008, 50027)",Support
+He said that he'd cut in half the deficit,Premise,"(55113, 55154)",He hasn't done that either,Premise,"(55156, 55182)",Support
+Four years ago you said in your first year you would file legislation,Premise,"(65050, 65119)",my view is that this president should have honored his promise to do as he said,Claim,"(65268, 65347)",Support
+"what's happening in Syria, in Egypt, now in Libya",Premise,"(73898, 73947)",this calls into question the president's whole policy in the Middle East,Claim,"(73819, 73891)",Support
+"in my state, the pro-gun folks and the anti-gun folks came together and put together a piece of legislation",Premise,"(83669, 83776)",it's referred to as an assault weapon ban,Premise,"(83782, 83823)",Support
+we've got to control our own energy,Claim,"(5892, 5927)",there are a bunch of things we can do to make sure your future is bright,Claim,"(4790, 4862)",Support
+we are on pace to double our exports,Claim,"(92324, 92360)",double our exports,Claim,"(92300, 92318)",Support
+Folks on Social Security who've worked all their lives,Premise,"(99508, 99562)",I want to fight for them,Claim,"(99871, 99895)",Support
+Same thing with oil,Claim,"(16766, 16785)",we made the largest investment in clean coal technology,Claim,"(16616, 16671)",Support
+"what I've said is, your first $250,000.00 worth of income, no change",Premise,"(28280, 28348)",I'm ready to sign that bill right now,Claim,"(28464, 28501)",Support
+"there are millions of women all across the country, who rely on Planned Parenthood for, not just contraceptive care, they rely on it for mammograms, for cervical cancer screenings",Premise,"(43593, 43772)",When Governor Romney says that we should eliminate funding for Planned Parenthood,Premise,"(43510, 43591)",Attack
+George Bush didn't propose turning Medicare into a voucher,Premise,"(50219, 50277)",there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",Support
+He hasn't done that either,Premise,"(55156, 55182)",he doubled it,Claim,"(55193, 55206)",Support
+"In his first year, I was just getting -- licking my wounds from having been beaten by John McCain, all right",Premise,"(65121, 65229)",I was not the standard bearer,Claim,"(65231, 65260)",Support
+"Israel, the president said that -- that he was going to put daylight between us and Israel",Premise,"(74000, 74090)",this calls into question the president's whole policy in the Middle East,Claim,"(73819, 73891)",Support
+it's referred to as an assault weapon ban,Premise,"(83782, 83823)","it had, at the signing of the bill, both the pro-gun and the anti-gun people came togethe",Claim,"(83829, 83918)",Support
+we've got to do it in a balanced way,Claim,"(6272, 6308)",We've got to reduce our deficit,Claim,"(6235, 6266)",Support
+one of the commitments I made when I was president,Premise,"(92362, 92412)",we are on pace to double our exports,Claim,"(92324, 92360)",Support
+also this country's dreams,Premise,"(99686, 99712)",Students who are out there trying to hopefully advance their own dreams,Premise,"(99609, 99680)",Support
+same thing with natural gas,Claim,"(16787, 16814)",we made the largest investment in clean coal technology,Claim,"(16616, 16671)",Support
+Governor Romney's allies in Congress have held the 98 percent hostage,Premise,"(28549, 28618)",The only reason it's not happening,Claim,"(28503, 28537)",Support
+"there are millions of women all across the country, who rely on Planned Parenthood for, not just contraceptive care, they rely on it for mammograms, for cervical cancer screenings",Premise,"(43593, 43772)",That's a pocketbook issue for women and families all across the country,Claim,"(43774, 43845)",Support
+George Bush embraced comprehensive immigration reform,Claim,"(50279, 50332)",there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",Support
+he doubled it,Claim,"(55193, 55206)",This is a president who has not been able to do what he said he'd do,Claim,"(55043, 55111)",Support
+"we're not going to round up 12 million people, undocumented illegals, and take them out of the nation",Premise,"(65476, 65577)",self-deportation says let people make their own choice,Claim,"(65398, 65452)",Support
+the distance between ourselves,Premise,"(73958, 73988)","Israel, the president said that -- that he was going to put daylight between us and Israel",Premise,"(74000, 74090)",Support
+it was a mutually agreed- upon piece of legislation,Premise,"(84086, 84137)","it had, at the signing of the bill, both the pro-gun and the anti-gun people came togethe",Claim,"(83829, 83918)",Support
+"we've invested in solar and wind and biofuels, energy efficient cars",Claim,"(6165, 6233)",we've got to control our own energy,Claim,"(5892, 5927)",Support
+That's creating tens of thousands of jobs all across the country,Premise,"(92414, 92478)",double our exports,Claim,"(92300, 92318)",Support
+Veterans who've sacrificed for this country,Premise,"(99564, 99607)",I want to fight for them,Claim,"(99871, 99895)",Support
+the proof is our oil imports are down to the lowest levels in 20 years,Premise,"(16820, 16890)",we made the largest investment in clean coal technology,Claim,"(16616, 16671)",Support
+they want tax breaks for the top 2 percent,Premise,"(28627, 28669)",Governor Romney's allies in Congress have held the 98 percent hostage,Premise,"(28549, 28618)",Support
+I've got two daughters,Premise,"(44366, 44388)",I want to make sure that they have the same opportunities that anybody's sons have,Claim,"(44393, 44475)",Support
+He didn't call for self-deportation,Premise,"(50334, 50369)",there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",Support
+"He said that by now middle-income families would have a reduction in their health insurance premiums by $2,500 a year",Premise,"(55208, 55325)","It's gone up by $2,500 a year",Claim,"(55327, 55356)",Support
+if they find that -- that they can't get the benefits here that they want and they can't -- and they can't find the job they want,Premise,"(65636, 65765)",then they'll make a decision to go a place where -- where they have better opportunities,Premise,"(65767, 65855)",Support
+We have Iran four years closer to a nuclear bomb,Claim,"(74092, 74140)",this calls into question the president's whole policy in the Middle East,Claim,"(73819, 73891)",Support
+"There were hunting opportunities, for instance, that haven't previously been available and so forth",Premise,"(83982, 84081)","it had, at the signing of the bill, both the pro-gun and the anti-gun people came togethe",Claim,"(83829, 83918)",Support
+We've got to reduce our deficit,Claim,"(6235, 6266)",we've got to control our own energy,Claim,"(5892, 5927)",Support
+trade deals that make sure that American workers and American businesses are getting a good deal,Premise,"(92530, 92626)",we've kept on pushing trade deals,Claim,"(92491, 92524)",Support
+Students who are out there trying to hopefully advance their own dreams,Premise,"(99609, 99680)",I want to fight for them,Claim,"(99871, 99895)",Support
+that's creating jobs,Premise,"(17030, 17050)",we're also starting to build cars that are more efficient,Claim,"(16967, 17024)",Support
+We created 23 million new jobs,Claim,"(28790, 28820)",It will be good for our economy and it will be good for job creation,Claim,"(28876, 28944)",Support
+That's part of what I'm fighting for as president of the United States,Premise,"(44477, 44547)",I want to make sure that they have the same opportunities that anybody's sons have,Claim,"(44393, 44475)",Support
+George Bush never suggested that we eliminate funding for Planned Parenthood,Premise,"(50371, 50447)",there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",Support
+"It's gone up by $2,500 a year",Claim,"(55327, 55356)",This is a president who has not been able to do what he said he'd do,Claim,"(55043, 55111)",Support
+then they'll make a decision to go a place where -- where they have better opportunities,Premise,"(65767, 65855)",self-deportation says let people make their own choice,Claim,"(65398, 65452)",Support
+"Syria's not just a tragedy of 30,000 civilians being killed by a military",Premise,"(74151, 74224)",strategically significant player for America,Claim,"(74250, 74294)",Support
+"it had, at the signing of the bill, both the pro-gun and the anti-gun people came togethe",Claim,"(83829, 83918)",That's what we need more of,Claim,"(84139, 84166)",Support
+not only is your future going to be bright,Premise,"(6559, 6601)",America's future is going to bright as well,Premise,"(6606, 6649)",Support
+That's not my phrase,Premise,"(92796, 92816)",Governor Romney's company invested in what were called pioneers of outsourcing,Claim,"(92716, 92794)",Support
+Soldiers who are overseas fighting for us right now,Premise,"(99714, 99765)",I want to fight for them,Claim,"(99871, 99895)",Support
+That means those cars can be exported,Premise,"(17052, 17089)",we're also starting to build cars that are more efficient,Claim,"(16967, 17024)",Support
+"he said, ""I think that's what grows the economy",Premise,"(29254, 29301)",I fundamentally disagree with that,Claim,"(29310, 29344)",Support
+there are differences between Governor Romney and George Bush,Premise,"(50452, 50513)",there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",Support
+"It's gone up by $2,500 a year",Claim,"(55327, 55356)","if Obamacare is passed, or implemented -- it's already been passed -- if it's implemented fully, it'll be another $2,500 on top",Claim,"(55362, 55489)",Support
+I'm not in favor of rounding up people and -- and -- and taking them out of this country,Premise,"(65861, 65949)","we're not going to round up 12 million people, undocumented illegals, and take them out of the nation",Premise,"(65476, 65577)",Support
+this strategy is unraveling before our very eyes,Claim,"(74439, 74487)",The president's policies throughout the Middle East began with an apology tour and -- and -- and pursue a strategy of leading from behind,Claim,"(74296, 74433)",Support
+That's what we need more of,Claim,"(84139, 84166)",What we have right now in Washington is a place that's gridlocked,Claim,"(84175, 84240)",Attack
+America's future is going to bright as well,Premise,"(6606, 6649)",We do those things,Claim,"(6539, 6557)",Support
+That's what reporters called it,Premise,"(92818, 92849)",That's not my phrase,Premise,"(92796, 92816)",Support
+don't make enough income,Premise,"(99841, 99865)","People who are working hard every day, paying payroll tax, gas taxes",Premise,"(99767, 99835)",Support
+it'll save money in your pocketbook,Claim,"(17157, 17192)",we're also starting to build cars that are more efficient,Claim,"(16967, 17024)",Support
+"Is it fair for somebody like you, making $20 million a year, to pay a lower tax rate than a nurse or a bus driver, somebody making $50,000 year",Premise,"(29053, 29196)","he said, ""Yes, I think that's fair.""",Premise,"(29202, 29238)",Support
+That's not how we're going to move our economy forward,Claim,"(50661, 50715)",I think that's a mistake,Claim,"(42981, 43005)",Support
+That's after losing 5 million jobs,Premise,"(55694, 55728)","He keeps saying, ""Look, I've created 5 million jobs",Premise,"(55640, 55691)",Attack
+"I am in favor, as the president has said, and I agree with him, which is that if people have committed crimes we got to get them out of this country",Claim,"(65951, 66099)","if we're going to go after folks who are here illegally, we should do it smartly and go after folks who are criminals, gang bangers, people who are hurting the community",Claim,"(62076, 62245)",Support
+The president's policies throughout the Middle East began with an apology tour and -- and -- and pursue a strategy of leading from behind,Claim,"(74296, 74433)",this calls into question the president's whole policy in the Middle East,Claim,"(73819, 73891)",Support
+I was able to do that in my state and bring these two together,Premise,"(84445, 84507)",we haven't had the leadership in Washington to work on a bipartisan basis,Claim,"(84370, 84443)",Support
+Asking the wealthy to pay a little bit more along with cuts so that we can invest in education like yours,Premise,"(6310, 6415)",We do those things,Claim,"(6539, 6557)",Support
+we have pushed them hard,Premise,"(92967, 92991)",the currency has actually gone up 11 percent since I've been president,Claim,"(92888, 92958)",Support
+"People who are working hard every day, paying payroll tax, gas taxes",Premise,"(99767, 99835)",I want to fight for them,Claim,"(99871, 99895)",Support
+"That's the strategy you need, an all-of-the-above strategy",Premise,"(17201, 17259)",that's what we're going to do in the next four years,Claim,"(17265, 17317)",Support
+"he said, ""Yes, I think that's fair.""",Premise,"(29202, 29238)",I fundamentally disagree with that,Claim,"(29310, 29344)",Support
+there are some things where Governor Romney is different from George Bush,Claim,"(50144, 50217)",they're not on economic policy,Claim,"(50519, 50549)",Support
+"He keeps saying, ""Look, I've created 5 million jobs",Premise,"(55640, 55691)",The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again,Claim,"(55499, 55638)",Support
+"I understand they do include investments outside the United States, including in -- in Chinese companies",Premise,"(66716, 66820)",Any investments I have over the last eight years have been managed by a blind trust,Claim,"(66627, 66710)",Support
+I'm the president,Premise,"(74958, 74975)",I'm always responsible,Claim,"(74980, 75002)",Support
+"the reason he changed his mind was, in part, because he was seeking the endorsement of the National Rifle Association",Premise,"(84668, 84785)",I think Governor Romney was for an assault weapons ban before he was against it,Claim,"(84570, 84649)",Support
+"let's take the money that we've been spending on war over the last decade to rebuild America, roads, bridges schools",Premise,"(6421, 6537)",We do those things,Claim,"(6539, 6557)",Support
+we've put unprecedented trade pressure on China,Premise,"(92997, 93044)",exports have significantly increased under my presidency,Claim,"(93057, 93113)",Support
+That's what I've been doing for the last four years,Claim,"(99897, 99948)",I want to fight for them,Claim,"(99871, 99895)",Support
+we're also starting to build cars that are more efficient,Claim,"(16967, 17024)",that's what we're going to do in the next four years,Claim,"(17265, 17317)",Support
+I think what grows the economy is when you get that tax credit that we put in place for your kids going to college,Claim,"(29346, 29460)",I fundamentally disagree with that,Claim,"(29310, 29344)",Support
+they're not on economic policy,Claim,"(50519, 50549)",my five point plan is so different than what he would have done,Claim,"(46347, 46410)",Attack
+The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again,Claim,"(55499, 55638)",The entire record is such that the unemployment has not been reduced in this country,Claim,"(55730, 55814)",Support
+It's not as big as yours so it doesn't take as long,Claim,"(67035, 67086)",I don't look at my pension,Claim,"(67007, 67033)",Support
+I'm always responsible,Claim,"(74980, 75002)",nobody's more interested in finding out exactly what happened than I do,Claim,"(75019, 75090)",Support
+"if our young people have opportunity, then they are less likely to engage in these kinds of violent acts",Premise,"(84935, 85039)",I think that one area we agree on is the important of parents and the importance of schools,Claim,"(84816, 84907)",Support
+there are a bunch of things we can do to make sure your future is bright,Claim,"(4790, 4862)",We do those things,Claim,"(6539, 6557)",Support
+That's going to help to create jobs here,Premise,"(93115, 93155)",exports have significantly increased under my presidency,Claim,"(93057, 93113)",Support
+"if they succeed, I believe the country succeeds",Premise,"(99958, 100005)",That's what I've been doing for the last four years,Claim,"(99897, 99948)",Support
+natural gas production is up,Claim,"(16914, 16942)",that's what we're going to do in the next four years,Claim,"(17265, 17317)",Support
+I think what grows the economy is when we make sure small businesses are getting a tax credit for hiring veterans who fought for our country,Claim,"(29494, 29634)",I fundamentally disagree with that,Claim,"(29310, 29344)",Support
+"the number of people who are still looking for work, is still 23 million Americans",Claim,"(55834, 55916)",The entire record is such that the unemployment has not been reduced in this country,Claim,"(55730, 55814)",Support
+I don't check it that often,Premise,"(67138, 67165)",I don't look at my pension,Claim,"(67007, 67033)",Support
+she works for me,Premise,"(74940, 74956)",Secretary Clinton has done an extraordinary job.,Premise,"(74887, 74935)",Support
+We're not going to eliminate everybody who is mentally disturbed,Premise,"(85041, 85105)",we have got to make sure they don't get weapons,Claim,"(85110, 85157)",Support
+The president's policies have been exercised over the last four years,Premise,"(7190, 7259)",they haven't put Americans back to work,Claim,"(7264, 7303)",Support
+holding down the value of their currency,Premise,"(88813, 88853)",China's been cheating over the years,Claim,"(93569, 93605)",Support
+my grandfather fought in World War II and he came back and he got a G.I,Premise,"(100012, 100083)","Bill and that allowed him to go to college, that wasn't a handout",Premise,"(100085, 100150)",Support
+Oil production is up,Claim,"(16892, 16912)",that's what we're going to do in the next four years,Claim,"(17265, 17317)",Support
+"he didn't say tax rate cuts, he said ""tax cuts to everybody,"" including the top 1 percent, you should believe him because that's been his history",Premise,"(29855, 30000)",that's exactly the kind of top-down economics that is not going to work if we want a strong middle class and an economy that's striving for everybody,Claim,"(30006, 30155)",Support
+"There are more people in poverty, one out of six people in poverty",Claim,"(55918, 55984)",The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again,Claim,"(55499, 55638)",Support
+Look at your pension,Claim,"(67204, 67224)",I don't look at my pension,Claim,"(67007, 67033)",Attack
+I told the American people in the world that we are going to find out exactly what happened,Premise,"(75159, 75250)",this was an act of terror,Claim,"(75257, 75282)",Support
+we haven't had a chance to talk about education much,Premise,"(85337, 85389)","I think it is very important to understand that the reforms we've put in place, working with 46 governors around the country, are seeing schools that are some of the ones that are the toughest for kids starting to succeed",Claim,"(85395, 85616)",Support
+you're seeing in this country is 23 million people struggling to find a job,Premise,"(7024, 7099)",they haven't put Americans back to work,Claim,"(7264, 7303)",Support
+"stealing our intellectual property; our designs, our patents, our technology",Premise,"(93671, 93747)",China's been cheating over the years,Claim,"(93569, 93605)",Support
+"Bill and that allowed him to go to college, that wasn't a handout",Premise,"(100085, 100150)",That was something that advanced the entire country,Premise,"(100152, 100203)",Support
+we made the largest investment in clean coal technology,Claim,"(16616, 16671)",that's what we're going to do in the next four years,Claim,"(17265, 17317)",Support
+"when Governor Romney stands here, after a year of campaigning, when during a Republican primary he stood on stage and said ""I'm going to give tax cuts",Premise,"(29700, 29850)",that's exactly the kind of top-down economics that is not going to work if we want a strong middle class and an economy that's striving for everybody,Claim,"(30006, 30155)",Support
+"he took office, 32 million people were on food stamps",Premise,"(56014, 56067)","Today, 47 million people are on food stamps",Claim,"(56069, 56112)",Support
+You also have investments in Chinese companies,Claim,"(67226, 67272)",Look at your pension,Claim,"(67204, 67224)",Support
+"the suggestion that anybody in my team, whether the Secretary of State, our U.N. Ambassador",Premise,"(75492, 75583)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+"we can make a difference in terms ensuring that every young person in America, regardless of where they come from, what they look like, have a chance to succeed",Premise,"(85163, 85323)","I think it is very important to understand that the reforms we've put in place, working with 46 governors around the country, are seeing schools that are some of the ones that are the toughest for kids starting to succeed",Claim,"(85395, 85616)",Support
+We have fewer people working today than we had when the president took office,Claim,"(7305, 7382)",they haven't put Americans back to work,Claim,"(7264, 7303)",Support
+They hack into our computers,Premise,"(93847, 93875)",China's been cheating over the years,Claim,"(93569, 93605)",Support
+That was something that advanced the entire country,Premise,"(100152, 100203)",I want to make sure that the next generation has those same opportunities,Claim,"(100209, 100282)",Support
+That's the problem,Premise,"(17383, 17401)",that's not what you've done in the last four years,Claim,"(17331, 17381)",Support
+The top 5 percent of taxpayers will continue to pay 60 percent of the income tax the nation collects,Claim,"(25313, 25413)","The top 5 percent will continue to pay 60 percent, as they do today",Claim,"(30303, 30370)",Support
+"Today, 47 million people are on food stamps",Claim,"(56069, 56112)",The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again,Claim,"(55499, 55638)",Support
+You also have investments outside the United States,Claim,"(67274, 67325)",Look at your pension,Claim,"(67204, 67224)",Support
+That's not what we do,Premise,"(75692, 75713)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+We're starting to see gains in math and science,Premise,"(85618, 85665)","When it comes to community colleges, we are setting up programs, including with Nassau Community College, to retrain workers",Claim,"(85667, 85791)",Support
+the unemployment rate was 7.8 percent when he took office,Premise,"(7394, 7451)",it's 7.8 percent now,Claim,"(7453, 7473)",Support
+"There's even an Apple store in China that's a counterfeit Apple store, selling counterfeit goods",Claim,"(93749, 93845)",China's been cheating over the years,Claim,"(93569, 93605)",Support
+I want to make sure that the next generation has those same opportunities,Claim,"(100209, 100282)",That's what I've been doing for the last four years,Claim,"(99897, 99948)",Support
+"In the last four years, you cut permits and licenses on federal land and federal waters in half",Claim,"(17403, 17498)",that's not what you've done in the last four years,Claim,"(17331, 17381)",Support
+I'm not looking to cut taxes for wealthy people,Claim,"(30372, 30419)","The top 5 percent will continue to pay 60 percent, as they do today",Claim,"(30303, 30370)",Support
+How about the growth of the economy,Premise,"(56114, 56149)","It's growing more slowly this year than last year, and more slowly last year than the year before",Claim,"(56151, 56248)",Support
+You also have investments through a Cayman's trust,Claim,"(67327, 67377)",Look at your pension,Claim,"(67204, 67224)",Support
+That's not what I do as president,Premise,"(75715, 75748)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+including young people who may have dropped out of school,Claim,"(85793, 85850)","When it comes to community colleges, we are setting up programs, including with Nassau Community College, to retrain workers",Claim,"(85667, 85791)",Support
+it's 7.8 percent now,Claim,"(7453, 7473)",they haven't put Americans back to work,Claim,"(7264, 7303)",Support
+China's been cheating over the years,Claim,"(93569, 93605)",We will have to have people play on a fair basis,Claim,"(93877, 93925)",Support
+I want to fight for them,Claim,"(99871, 99895)",I'm asking for your vote and that's why I'm asking for another four years,Claim,"(100295, 100368)",Support
+Not true,Claim,"(17507, 17515)",that's not what you've done in the last four years,Claim,"(17331, 17381)",Attack
+"if you bring rates down, it makes it easier for small business to keep more of their capital and hire people",Premise,"(30615, 30723)",I am looking to cut taxes for middle-income people,Claim,"(30421, 30471)",Support
+"It's growing more slowly this year than last year, and more slowly last year than the year before",Claim,"(56151, 56248)",The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again,Claim,"(55499, 55638)",Support
+"not E-Verify, the whole thing",Premise,"(67891, 67920)",His top adviser on immigration is the guy who designed the Arizona law,Premise,"(67799, 67869)",Support
+that's not what I do as Commander in Chief,Premise,"(75750, 75792)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+"now are getting another chance, training them for the jobs that exist right now",Claim,"(85855, 85934)",including young people who may have dropped out of school,Claim,"(85793, 85850)",Support
+they haven't put Americans back to work,Claim,"(7264, 7303)","what I want to do, is build on the five million jobs that we've created over the last 30 months in the private sector alone",Premise,"(4661, 4784)",Attack
+That's what brings jobs in,Premise,"(94073, 94099)","we have to make America the most attractive place for entrepreneurs, for people who want to expand their business",Claim,"(93958, 94071)",Support
+That's what I've been doing for the last four years,Claim,"(99897, 99948)",I'm asking for your vote and that's why I'm asking for another four years,Claim,"(100295, 100368)",Support
+How much did you cut them by,Premise,"(17604, 17632)",Not true,Claim,"(17507, 17515)",Attack
+Fifty-four percent of America's workers work in businesses that are taxed as individuals,Premise,"(30802, 30890)","when you bring those rates down, those small businesses are able to keep more money and hire more people",Claim,"(30895, 30999)",Support
+in the Reagan recession where unemployment hit 10.8 percent,Premise,"(56571, 56630)","the end of that recession and the equivalent of time to today, Ronald Reagan's recovery created twice as many jobs as this president's recovery",Claim,"(56655, 56798)",Support
+His top adviser on immigration is the guy who designed the Arizona law,Premise,"(67799, 67869)",Governor Romney says he wasn't referring to Arizona as a model for the nation,Premise,"(67720, 67797)",Attack
+we're going to hunt down those who committed this crime,Claim,"(75304, 75359)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+employers are looking for skilled workers,Premise,"(85949, 85990)",we're matching them up,Claim,"(85999, 86021)",Support
+they haven't put Americans back to work,Claim,"(7264, 7303)",We have not made the progress we need to make to put people back to work,Claim,"(7604, 7676)",Support
+"they are low wage, low skill jobs",Premise,"(94522, 94555)",there are some jobs that are not going to come back,Claim,"(94461, 94512)",Support
+I had a question and the question was how much did you cut them by,Premise,"(17904, 17970)",How much did you cut them by,Premise,"(17604, 17632)",Support
+"when you bring those rates down, those small businesses are able to keep more money and hire more people",Claim,"(30895, 30999)",I want to get America's economy going again,Claim,"(30757, 30800)",Support
+"the policies he's put in place from Obamacare to Dodd-Frank to his tax policies to his regulatory policies, these policies combined have not let this economy take off and grow like it could have",Premise,"(56300, 56494)","the end of that recession and the equivalent of time to today, Ronald Reagan's recovery created twice as many jobs as this president's recovery",Claim,"(56655, 56798)",Support
+His top adviser on immigration is the guy who designed the Arizona law,Premise,"(67799, 67869)",That's his policy,Claim,"(67922, 67939)",Support
+nobody's more interested in finding out exactly what happened than I do,Claim,"(75019, 75090)","anybody on my team would play politics or mislead when we've lost four of our own, governor, is offensive",Claim,"(75585, 75690)",Support
+Giving them access to higher education,Claim,"(86023, 86061)",we're matching them up,Claim,"(85999, 86021)",Support
+"if you calculated that unemployment rate, taking back the people who dropped out of the workforce, it would be 10.7 percent",Premise,"(7479, 7602)",they haven't put Americans back to work,Claim,"(7264, 7303)",Support
+"I want high wage, high skill jobs",Claim,"(94557, 94590)",we have to emphasize manufacturing,Claim,"(94603, 94637)",Support
+You had a whole bunch of oil companies who had leases on public lands that they weren't using,Premise,"(18155, 18248)","you can't just sit on this for 10, 20, 30 years, decide when you want to drill, when you want to produce, when it's most profitable for you",Claim,"(18270, 18409)",Support
+I look at what's happened in the last four years and say this has been a disappointment,Premise,"(31009, 31096)",We can do better than this,Claim,"(31098, 31124)",Support
+all the people that have dropped out of the workforce,Premise,"(56950, 57003)",the unemployment rate seems a little lower today,Claim,"(56887, 56935)",Support
+it's a bad policy,Claim,"(67945, 67962)",That's his policy,Claim,"(67922, 67939)",Attack
+it took the president 14 days before he called the attack in Benghazi an act of terror,Premise,"(76356, 76442)",I want to make sure we get that for the record,Claim,"(76301, 76347)",Support
+we have made sure that millions of young people are able to get an education that they weren't able to get before,Claim,"(86074, 86187)",we're matching them up,Claim,"(85999, 86021)",Support
+We have not made the progress we need to make to put people back to work,Claim,"(7604, 7676)",I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay,Claim,"(7689, 7793)",Support
+"I want high wage, high skill jobs",Claim,"(94557, 94590)",we have to invest in advanced manufacturing,Claim,"(94650, 94693)",Support
+These are public lands,Premise,"(18411, 18433)","if you want to drill on public lands, you use it or you lose it",Claim,"(18438, 18501)",Support
+We can do better than this,Claim,"(31098, 31124)",I want to get America's economy going again,Claim,"(30757, 30800)",Support
+The president has tried,Premise,"(57005, 57028)",his policies haven't worked,Claim,"(57034, 57061)",Support
+That's his policy,Claim,"(67922, 67939)",I do want to make sure that we just understand something,Claim,"(67662, 67718)",Support
+it did as well take two weeks or so for the whole idea there being a riot out there about this tape to come out,Premise,"(76686, 76797)",You are correct about that,Claim,"(76799, 76825)",Support
+It's going to help Jeremy get a job when he comes out of school,Claim,"(7795, 7858)",I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay,Claim,"(7689, 7793)",Support
+"I want high wage, high skill jobs",Claim,"(94557, 94590)",we've got to make sure that we've got the best science and research in the world,Claim,"(94706, 94786)",Support
+"if you want to drill on public lands, you use it or you lose it",Claim,"(18438, 18501)","you can't just sit on this for 10, 20, 30 years, decide when you want to drill, when you want to produce, when it's most profitable for you",Claim,"(18270, 18409)",Support
+"We don't have to settle for, how many months, 43 months with unemployment above 8 percent",Premise,"(31126, 31215)",I want to get America's economy going again,Claim,"(30757, 30800)",Support
+the unemployment rate seems a little lower today,Claim,"(56887, 56935)",his policies haven't worked,Claim,"(57034, 57061)",Support
+it won't help us grow,Claim,"(67968, 67989)",it's a bad policy,Claim,"(67945, 67962)",Support
+the administration indicated this was a reaction to a video and was a spontaneous reaction,Claim,"(76865, 76955)",It took them a long time to say this was a terrorist act by a terrorist group,Claim,"(76982, 77059)",Support
+It's going to help people across the country that are unemployed right now,Claim,"(7860, 7934)",I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay,Claim,"(7689, 7793)",Support
+if we're adding to our deficit for tax cuts for folks who don't need them,Claim,"(94821, 94894)","we're cutting investments in research and science that will create the next Apple, create the next new innovation that will sell products around the world, we will lose that race",Claim,"(94900, 95078)",Support
+what we did was take away those leases,Premise,"(18544, 18582)",we are now reletting them so that we can actually make a profit,Claim,"(18588, 18651)",Support
+There are 3.5 million more women living in poverty today than when the president took office,Claim,"(31279, 31371)",We don't have to live like this,Claim,"(31373, 31404)",Support
+he just hasn't been able to cut the deficit,Premise,"(57220, 57263)",his policies haven't worked,Claim,"(57034, 57061)",Support
+they provide us energy and they provide us innovation and they start companies like Intel and Google,Claim,"(68139, 68239)","when we think about immigration, we have to understand there are folks all around the world who still see America as the land of promise",Claim,"(67997, 68133)",Support
+It took them a long time to say this was a terrorist act by a terrorist group,Claim,"(76982, 77059)",this was an act of terror,Claim,"(75257, 75282)",Attack
+he said that I said we should take Detroit bankrupt,Premise,"(8021, 8072)",that's right,Claim,"(8078, 8090)",Support
+If we're not training engineers to make sure that they are equipped here in this country,Premise,"(95080, 95168)",Then companies won't come here,Premise,"(95170, 95200)",Support
+is down,Claim,"(13265, 13272)",Production is up,Claim,"(18719, 18735)",Attack
+We don't have to live like this,Claim,"(31373, 31404)",I want to get America's economy going again,Claim,"(30757, 30800)",Support
+to put in place reforms for Medicare and Social Security to preserve them,Premise,"(57265, 57338)",his policies haven't worked,Claim,"(57034, 57061)",Support
+we want to encourage that,Premise,"(68245, 68270)","when we think about immigration, we have to understand there are folks all around the world who still see America as the land of promise",Claim,"(67997, 68133)",Support
+You took Chrysler bankrupt,Premise,"(8364, 8390)","when you say that I wanted to take the auto industry bankrupt, you actually did",Claim,"(8395, 8474)",Support
+Then companies won't come here,Premise,"(95170, 95200)","we're cutting investments in research and science that will create the next Apple, create the next new innovation that will sell products around the world, we will lose that race",Claim,"(94900, 95078)",Support
+"No, it isn't",Claim,"(18764, 18776)",is down,Claim,"(13265, 13272)",Attack
+We can get this economy going again,Claim,"(31406, 31441)",I want to get America's economy going again,Claim,"(30757, 30800)",Support
+to get us the rising incomes we need,Premise,"(57340, 57376)",his policies haven't worked,Claim,"(57034, 57061)",Support
+"when we think about immigration, we have to understand there are folks all around the world who still see America as the land of promise",Claim,"(67997, 68133)",we've got to make sure that we do it in a smart way and a comprehensive way,Claim,"(68277, 68352)",Support
+You took General Motors bankrupt,Premise,"(8330, 8362)","when you say that I wanted to take the auto industry bankrupt, you actually did",Claim,"(8395, 8474)",Support
+not just next year,Premise,"(95303, 95321)","10 years from now, 50 years from now, 100 years from now",Claim,"(95327, 95383)",Support
+It's just not true,Claim,"(18914, 18932)",is down,Claim,"(13265, 13272)",Attack
+I want to get America's economy going again,Claim,"(30757, 30800)",My five-point plan does it,Claim,"(31443, 31469)",Support
+"Median income is down $4,300 a family and 23 million Americans out of work",Claim,"(57378, 57452)",his policies haven't worked,Claim,"(57034, 57061)",Support
+My plan was to have the company go through bankruptcy like 7-Eleven did and Macy's and Condell (ph) Airlines and come out stronger,Claim,"(8092, 8222)",that's right,Claim,"(8078, 8090)",Support
+"10 years from now, 50 years from now, 100 years from now",Claim,"(95327, 95383)",Those investments are what's going to help to make sure that we continue to lead this world economy,Claim,"(95202, 95301)",Support
+It's absolutely true,Claim,"(18942, 18962)",It's just not true,Claim,"(18914, 18932)",Attack
+Energy independence for North America in five years,Premise,"(31471, 31522)",My five-point plan does it,Claim,"(31443, 31469)",Support
+That's what this election is about,Premise,"(57454, 57488)",It's about who can get the middle class in this country a bright and prosperous future and assure our kids the kind of hope and optimism they deserve,Claim,"(57490, 57639)",Support
+He wanted to take them into bankruptcy without providing them any way to stay open,Premise,"(8816, 8898)",what Governor Romney said just isn't true,Claim,"(8773, 8814)",Support
+the people recognize that we have not produced more (inaudible) on federal lands and in federal waters,Premise,"(18994, 19096)",It's absolutely true,Claim,"(18942, 18962)",Support
+"Opening up more trade, particularly in Latin America",Premise,"(31524, 31576)",My five-point plan does it,Claim,"(31443, 31469)",Support
+his policies haven't worked,Claim,"(57034, 57061)",It's about who can get the middle class in this country a bright and prosperous future and assure our kids the kind of hope and optimism they deserve,Claim,"(57490, 57639)",Support
+what Governor Romney said just isn't true,Claim,"(8773, 8814)","when you say that I wanted to take the auto industry bankrupt, you actually did",Claim,"(8395, 8474)",Attack
+coal production is not up,Premise,"(19108, 19133)",the people recognize that we have not produced more (inaudible) on federal lands and in federal waters,Premise,"(18994, 19096)",Support
+Cracking down on China when they cheat,Premise,"(31578, 31616)",My five-point plan does it,Claim,"(31443, 31469)",Support
+Governor Romney doesn't have a five-point plan,Claim,"(9197, 9243)",I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay,Claim,"(7689, 7793)",Attack
+coal jobs are not up,Premise,"(19135, 19155)",the people recognize that we have not produced more (inaudible) on federal lands and in federal waters,Premise,"(18994, 19096)",Support
+Getting us to a balanced budget,Premise,"(31618, 31649)",My five-point plan does it,Claim,"(31443, 31469)",Support
+He has a one-point plan,Claim,"(9245, 9268)",Governor Romney doesn't have a five-point plan,Claim,"(9197, 9243)",Support
+"I was just at a coal facility, where some 1,200 people lost their jobs",Premise,"(19157, 19227)",coal jobs are not up,Premise,"(19135, 19155)",Support
+Fixing our training programs for our workers,Premise,"(31651, 31695)",My five-point plan does it,Claim,"(31443, 31469)",Support
+that plan is to make sure that folks at the top play by a different set of rules,Premise,"(9274, 9354)",He has a one-point plan,Claim,"(9245, 9268)",Support
+the people recognize that we have not produced more (inaudible) on federal lands and in federal waters,Premise,"(18994, 19096)",I don't think anyone really believes that you're a person who's going to be pushing for oil and gas and coal,Claim,"(19301, 19409)",Support
+championing small business,Premise,"(31710, 31736)",My five-point plan does it,Claim,"(31443, 31469)",Support
+That's been his philosophy in the private sector,Claim,"(9356, 9404)",He has a one-point plan,Claim,"(9245, 9268)",Support
+the proof of whether a strategy is working or not is what the price is that you're paying at the pump,Premise,"(19761, 19862)","If you're paying less than you paid a year or two ago, why, then, the strategy is working",Claim,"(19864, 19953)",Support
+I want to make small businesses grow and thrive,Claim,"(31738, 31785)",My five-point plan does it,Claim,"(31443, 31469)",Support
+that's been his philosophy as governor,Claim,"(9406, 9444)",He has a one-point plan,Claim,"(9245, 9268)",Support
+"If you're paying less than you paid a year or two ago, why, then, the strategy is working",Claim,"(19864, 19953)","I will fight for oil, coal and natural gas",Claim,"(19702, 19744)",Support
+I spent my life in the private sector,Premise,"(31819, 31856)",I know how to make that happen,Claim,"(31787, 31817)",Support
+that's been his philosophy as a presidential candidate,Claim,"(9446, 9500)",He has a one-point plan,Claim,"(9245, 9268)",Support
+"Now, it's $4.00 a gallon",Premise,"(20081, 20105)",you're paying more,Premise,"(19959, 19977)",Support
+I know why jobs come and why they go,Claim,"(31858, 31894)",I know how to make that happen,Claim,"(31787, 31817)",Support
+You can make a lot of money and pay lower tax rates than somebody who makes a lot less,Premise,"(9502, 9588)",That's exactly the philosophy that we've seen in place for the last decade,Claim,"(9760, 9834)",Support
+"When the president took office, the price of gasoline here in Nassau County was about $1.86 a gallon",Premise,"(19979, 20079)",you're paying more,Premise,"(19959, 19977)",Support
+the policies of this administration,Premise,"(31929, 31964)",they're going now,Claim,"(31900, 31917)",Support
+You can ship jobs overseas and get tax breaks for it,Premise,"(9590, 9642)",That's exactly the philosophy that we've seen in place for the last decade,Claim,"(9760, 9834)",Support
+"I will fight to create more energy in this country, to get America energy secure",Claim,"(20237, 20317)","If the president's energy policies are working, you're going to see the cost of energy come down",Claim,"(20139, 20235)",Support
+"along what he wants to do in terms of corporates, changes in the tax code",Premise,"(32442, 32515)",it costs about $5 trillion,Claim,"(32517, 32543)",Support
+That's what's been squeezing middle class families,Premise,"(9836, 9886)",That's exactly the philosophy that we've seen in place for the last decade,Claim,"(9760, 9834)",Support
+"taking advantage of the oil and coal we have here, drilling offshore in Alaska, drilling offshore in Virginia where the people want it",Premise,"(20382, 20516)",Those things will get us the energy we need,Claim,"(20518, 20561)",Support
+Along with what he also wants to do in terms of eliminating the estate tax,Premise,"(32366, 32440)",it costs about $5 trillion,Claim,"(32517, 32543)",Support
+He has a one-point plan,Claim,"(9245, 9268)",That's exactly the philosophy that we've seen in place for the last decade,Claim,"(9760, 9834)",Support
+part of that is bringing in a pipeline of oil from Canada,Premise,"(20323, 20380)",Those things will get us the energy we need,Claim,"(20518, 20561)",Support
+"the cost of lowering rates for everybody across the board, 20 percent",Claim,"(32295, 32364)",it costs about $5 trillion,Claim,"(32517, 32543)",Support
+That's exactly the philosophy that we've seen in place for the last decade,Claim,"(9760, 9834)",we need to do is to go back to the very same policies that got us there,Claim,"(9967, 10038)",Support
+the economy was on the verge of collapse,Premise,"(20982, 21022)","the price of gasoline was $1.80, $1.86",Claim,"(20921, 20959)",Support
+another trillion dollars,Premise,"(32779, 32803)",He also wants to continue the Bush tax cuts for the wealthiest Americans,Claim,"(32698, 32770)",Support
+we need to do is to go back to the very same policies that got us there,Claim,"(9967, 10038)",we have fought back for four years to get out of that mess,Claim,"(9892, 9950)",Support
+"we were about to go through the worst recession since the Great Depression, as a consequence of some of the same policies that Governor Romney's now promoting",Premise,"(21032, 21190)","the price of gasoline was $1.80, $1.86",Claim,"(20921, 20959)",Support
+Governor Romney then also wants to spend $2 trillion on additional military programs even though the military's not asking for them,Claim,"(32545, 32676)",That's $7 trillion,Claim,"(32678, 32696)",Support
+"with his policies, we might be back in that same mess",Premise,"(21270, 21323)",it's conceivable that Governor Romney could bring down gas prices,Claim,"(21196, 21261)",Support
+it costs about $5 trillion,Claim,"(32517, 32543)",That's $7 trillion,Claim,"(32678, 32696)",Support
+we've built enough pipeline to wrap around the entire earth once,Claim,"(21508, 21572)","What I want to do is to create an economy that is strong, and at the same time produce energy",Claim,"(21325, 21418)",Support
+He also wants to continue the Bush tax cuts for the wealthiest Americans,Claim,"(32698, 32770)",that's $8 trillion,Claim,"(32807, 32825)",Support
+I intend to win it as President of the United States,Premise,"(22176, 22228)",we need to win that future,Claim,"(22144, 22170)",Support
+That's $7 trillion,Claim,"(32678, 32696)",that's $8 trillion,Claim,"(32807, 32825)",Support
+I don't have a policy of stopping wind jobs in Iowa and that -- they're not phantom jobs,Claim,"(22800, 22888)",They're real jobs,Claim,"(22890, 22907)",Support
+that's $8 trillion,Claim,"(32807, 32825)","No, it's not settled",Claim,"(32267, 32287)",Support
+It's critical to our future,Premise,"(23273, 23300)",I'm going to make sure we're taking advantage of our energy resources,Claim,"(23032, 23055)",Support
+"when he's asked, how are you going to do it, which deductions, which loopholes are you going to close",Premise,"(32954, 33055)",He can't tell you,Claim,"(33057, 33074)",Support
+He can't tell you,Claim,"(33057, 33074)",he's going to make sure that this doesn't add to the deficit and he's going to cut middleclass taxes,Claim,"(32848, 32948)",Attack
+we're not going to get money that way,Premise,"(33286, 33323)",capital gains are going to continue to be at a low rate,Claim,"(33221, 33276)",Support
+the math doesn't add up,Premise,"(33829, 33852)","you wouldn't take such a sketchy deal and neither should you, the American people",Claim,"(33738, 33819)",Support
+we can't tell you until maybe after the election how we're going to do it,Claim,"(33663, 33736)","you wouldn't take such a sketchy deal and neither should you, the American people",Claim,"(33738, 33819)",Support
+"If somebody came to you, Governor, with a plan that said, here, I want to spend $7 or $8 trillion, and then we're going to pay for it",Claim,"(33524, 33657)","you wouldn't take such a sketchy deal and neither should you, the American people",Claim,"(33738, 33819)",Support
+"this is just to pay for the additional spending that he's talking about, $7 trillion - $8 trillion before we even get to the deficit we already have",Premise,"(33972, 34120)","what's at stake here is one of two things, either Candy -- this blows up the deficit",Claim,"(33865, 33949)",Support
+you can't buy the sales pitch,Premise,"(34364, 34393)",You're going to lose some deductions,Claim,"(34322, 34358)",Support
+ou're going to be paying for it.,Claim,"(34289, 34321)","Nobody who's looked at it that's serious, actually believes it adds up",Claim,"(34395, 34465)",Support
+You're going to lose some deductions,Claim,"(34322, 34358)","Nobody who's looked at it that's serious, actually believes it adds up",Claim,"(34395, 34465)",Support
+"When we're talking about math that doesn't add up, how about $4 trillion of deficits over the last four years, $5 trillion",Premise,"(35151, 35273)",That's math that doesn't add up,Claim,"(35275, 35306)",Support
+"I was someone who ran businesses for 25 years, and balanced the budget",Premise,"(34907, 34977)",Well of course they add up,Claim,"(34865, 34891)",Support
+I ran the Olympics and balanced the budget,Premise,"(34979, 35021)",Well of course they add up,Claim,"(34865, 34891)",Support
+"I ran the -- the state of Massachusetts as a governor, to the extent any governor does, and balanced the budget all four years",Premise,"(35023, 35149)",Well of course they add up,Claim,"(34865, 34891)",Support
+"we have four consecutive years where he said when he was running for office, he would cut the deficit in half",Premise,"(35478, 35587)",Instead he's doubled it,Claim,"(35589, 35612)",Support
+"We've gone from $10 trillion of national debt, to $16 trillion of national debt",Claim,"(35614, 35693)",Instead he's doubled it,Claim,"(35589, 35612)",Support
+Instead he's doubled it,Claim,"(35589, 35612)","If the president were reelected, we'd go to almost $20 trillion of national debt",Claim,"(35695, 35775)",Support
+I've done it my entire life,Premise,"(35852, 35879)",I know what it takes to balance budgets,Claim,"(35811, 35850)",Support
+I'm offsetting some of the reductions with holding down some of the deductions,Premise,"(35968, 36046)","when he says, ""Yours is a $5 trillion cut."" Well, no it's not",Claim,"(35897, 35958)",Support

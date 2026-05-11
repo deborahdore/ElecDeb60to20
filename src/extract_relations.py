@@ -105,7 +105,7 @@ def parse_ann_file(ann_path: str) -> list[dict]:
 
 
 def process_all(ann_dir: str, out_dir: str) -> None:
-    """Process every .ann file in *ann_dir* and write CSVs to *out_dir*."""
+    """Process every .ann file in *ann_dir* and write one CSV per file to *out_dir*."""
     os.makedirs(out_dir, exist_ok=True)
 
     ann_files = [f for f in os.listdir(ann_dir) if f.endswith(".ann")]
@@ -116,21 +116,20 @@ def process_all(ann_dir: str, out_dir: str) -> None:
 
     logger.info("Found %d .ann file(s) in %s", len(ann_files), ann_dir)
 
-    out_path = os.path.join(out_dir, f"{os.path.basename(ann_dir)}.csv")
     ok = skipped = 0
-    rows = []
     for filename in sorted(ann_files):
         ann_path = os.path.join(ann_dir, filename)
+        stem = os.path.splitext(filename)[0]
+        out_path = os.path.join(out_dir, stem + ".csv")
 
         try:
             file_rows = parse_ann_file(ann_path)
-            rows.extend(file_rows)
+            pd.DataFrame(file_rows).to_csv(out_path, index=False)
             logger.info("  ✓  %s  →  %s  (%d relation(s))", filename, out_path, len(file_rows))
             ok += 1
         except Exception as exc:  # noqa: BLE001
             logger.error("  ✗  %s  –  %s", filename, exc)
             skipped += 1
-    pd.DataFrame(rows).to_csv(out_path, index=False)
 
     logger.info("Done. %d succeeded, %d failed.", ok, skipped)
 

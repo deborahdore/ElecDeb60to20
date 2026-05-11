@@ -1,0 +1,702 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+First question is what's in the best interests of the United States,Premise,"(1270, 1337)","I have, I have",Claim,"(1254, 1268)",Support
+I think that it's the most important big major change that we can bring in our country,Claim,"(85186, 85272)",education is my number one priority,Claim,"(85141, 85176)",Support
+We need to call upon Syria to release the three Israeli soldiers who have been captured,Claim,"(8069, 8156)","The first priority has to be on ending the violence, dampening down the tensions that have arisen there",Claim,"(7964, 8067)",Support
+I thought the president made the right decision in joining NATO and bombing Serbia,Claim,"(15686, 15768)",I think it's a triumph,Claim,"(15662, 15684)",Support
+The only thing an executive order can accomplish is to ban it in federal law enforcement agencies,Premise,"(37364, 37461)",I would also support a law in the Congress that would have the effect of doing the same thing,Claim,"(37467, 37560)",Support
+I think marriage is a sacred institution between a man and a woman,Claim,"(47046, 47112)",I'm not for gay marriage,Claim,"(47020, 47044)",Support
+the governor made an extensive statement on it and I have a very different view than the one he expressed,Premise,"(50257, 50362)",I hope that we can come back to the subject of education,Claim,"(50192, 50248)",Support
+there's some who should be buying health care who choose not to,Premise,"(58721, 58784)",I've got a plan to do something about that. It's to make health care affordable and available this way,Claim,"(58610, 58712)",Support
+I think that in this 21st century we will soon see the consequences of what's called global warming,Claim,"(69836, 69935)",I do,Claim,"(3373, 3377)",Support
+important for the president to be credible with foreign nations,Premise,"(80701, 80764)",I think credibility is important,Claim,"(80591, 80623)",Support
+What's in the best interests of our people,Premise,"(1339, 1381)","I have, I have",Claim,"(1254, 1268)",Support
+it's about change,Premise,"(85068, 85085)",This race is about values,Premise,"(85041, 85066)",Support
+We need to insist that Arafat send out instructions to halt some of the provocative acts of violence that have been going on,Claim,"(8158, 8282)","The first priority has to be on ending the violence, dampening down the tensions that have arisen there",Claim,"(7964, 8067)",Support
+I supported them when they did so,Claim,"(15770, 15803)",I thought the president made the right decision in joining NATO and bombing Serbia,Claim,"(15686, 15768)",Support
+I would also support a law in the Congress that would have the effect of doing the same thing,Claim,"(37467, 37560)","Yes, I would",Claim,"(37350, 37362)",Support
+I appreciated the way the administration signed the Defense of Marriage Act,Premise,"(47118, 47193)",I think marriage is a sacred institution between a man and a woman,Claim,"(47046, 47112)",Support
+I think that homeowners have to be respected and their right to have a gun if they wish to,Claim,"(50587, 50677)",I will not do anything to affect the rights of hunters or sportsmen,Claim,"(50518, 50585)",Support
+"Some of the healthy folks, healthy young kids say I'll never get sick, therefore I don't need health care right now",Premise,"(58843, 58958)",For those what I think we need to do is to develop an investment-type vehicle that would be an incentive for them to invest,Claim,"(58960, 59083)",Support
+There was a study just a few weeks ago suggesting that in summertime the north polar ice cap will be completely gone in 50 years,Premise,"(69937, 70065)",I think that in this 21st century we will soon see the consequences of what's called global warming,Claim,"(69836, 69935)",Support
+It is going to be important for the president to be credible with Congress,Premise,"(80625, 80699)",I think credibility is important,Claim,"(80591, 80623)",Support
+Is it in our nation's interests,Premise,"(1449, 1480)",When it comes to foreign policy that will be my guiding question,Claim,"(1383, 1447)",Support
+it's about giving choices to the American people,Premise,"(85087, 85135)",This race is about values,Premise,"(85041, 85066)",Support
+I think that we also have to keep a weather eye toward Saddam Hussein,Claim,"(8284, 8353)","The first priority has to be on ending the violence, dampening down the tensions that have arisen there",Claim,"(7964, 8067)",Support
+it worked,Premise,"(16049, 16058)",I think it's good public policy,Claim,"(16008, 16039)",Support
+I think that racial profiling is a serious problem,Claim,"(37572, 37622)","Yes, I would",Claim,"(37350, 37362)",Support
+I've had a record of doing so in the State of Texas,Premise,"(47404, 47455)",I'm going to be respectful for people who may disagree with me,Claim,"(47340, 47402)",Support
+"The problem I see is that there are too many guns getting into the hands of children, and criminals",Premise,"(50679, 50778)","people who, for whatever reason, some kind of history of stalking or domestic abuse really should not be able to get guns",Claim,"(50784, 50905)",Support
+like medical savings accounts with rollover capacity,Premise,"(59085, 59137)",For those what I think we need to do is to develop an investment-type vehicle that would be an incentive for them to invest,Claim,"(58960, 59083)",Support
+Already many people see the strange weather conditions that the old timers say they've never seen before in their lifetimes,Premise,"(70067, 70190)",I think that in this 21st century we will soon see the consequences of what's called global warming,Claim,"(69836, 69935)",Support
+I think it's something that people need to consider,Claim,"(80775, 80826)",I think credibility is important,Claim,"(80591, 80623)",Support
+Peace in the Middle East is in our nation's interests,Claim,"(1482, 1535)",When it comes to foreign policy that will be my guiding question,Claim,"(1383, 1447)",Support
+"we should have new accountability, testing of students",Claim,"(85306, 85360)",education is my number one priority,Claim,"(85141, 85176)",Support
+he is taking advantage of this situation to once again make threats,Premise,"(8362, 8429)",I think that we also have to keep a weather eye toward Saddam Hussein,Claim,"(8284, 8353)",Support
+I think it's good public policy,Claim,"(16008, 16039)",I thought the president made the right decision in joining NATO and bombing Serbia,Claim,"(15686, 15768)",Support
+I think we've now got so many examples around the country that we really have to find ways to end this,Claim,"(37991, 38093)","Yes, I would",Claim,"(37350, 37362)",Support
+I accept other people's points of view,Premise,"(47530, 47568)","I've been a person that had been called a uniter, not a divider",Claim,"(47457, 47520)",Support
+I think these assault weapons are a problem,Claim,"(50907, 50950)",I favor closing the gun show loophole,Claim,"(50955, 50992)",Support
+"In other words, you say to a youngster, it will be in your financial interest to start saving for future illness",Premise,"(59139, 59251)",For those what I think we need to do is to develop an investment-type vehicle that would be an incentive for them to invest,Claim,"(58960, 59083)",Support
+what's happening is the level of pollution is increasing significantly,Premise,"(70196, 70266)",I think that in this 21st century we will soon see the consequences of what's called global warming,Claim,"(69836, 69935)",Support
+I thought during his debate with Senator Bradley saying he authored the EITC when it didn't happen,Premise,"(81017, 81115)","I read a report, or a memo, from somebody in his 1988 campaign -- I forgot the fellow's name -- warning then Senator Gore to be careful about exaggerating claims",Premise,"(80854, 81015)",Support
+Having a hemisphere that is free for trade and peaceful is in our nation's interests,Claim,"(1537, 1621)",When it comes to foreign policy that will be my guiding question,Claim,"(1383, 1447)",Support
+"I think that we should require states to test all students, test schools and school districts",Claim,"(85362, 85455)","we should have new accountability, testing of students",Claim,"(85306, 85360)",Support
+"he needs to understand that he's not only dealing with Israel, he is dealing -- he's dealing with us if he is making the kind of threats that he's talking about there",Premise,"(8435, 8601)",I think that we also have to keep a weather eye toward Saddam Hussein,Claim,"(8284, 8353)",Support
+I called upon the Congress not to hamstring the administration,Premise,"(15805, 15867)",I think it's good public policy,Claim,"(16008, 16039)",Support
+I remember when the stories first came out about the stops in New Jersey by the highway patrol there,Premise,"(37624, 37724)",I think that racial profiling is a serious problem,Claim,"(37572, 37622)",Support
+I feel strongly that marriage should be between a man and a woman,Claim,"(47574, 47639)",I think marriage is a sacred institution between a man and a woman,Claim,"(47046, 47112)",Support
+"people who, for whatever reason, some kind of history of stalking or domestic abuse really should not be able to get guns",Claim,"(50784, 50905)",I favor closing the gun show loophole,Claim,"(50955, 50992)",Support
+we need more community health centers,Claim,"(59373, 59410)","for the working folks that do want to have health care that can't afford it, a couple of things we need to do",Claim,"(59257, 59366)",Support
+"If we take the leadership role and build the new technologies, like the new kinds of cars and trucks that Detroit is itching to build",Premise,"(70301, 70434)",we can create millions of good new jobs by being first into the market with these new kinds of cars and trucks and other kinds of technologies,Claim,"(70441, 70583)",Support
+"he co-sponsored McCain-Feingold, and yet he didn't",Premise,"(81315, 81365)",I think this is an issue,Claim,"(81374, 81398)",Support
+Strong relations in Europe is in our nation's interest,Claim,"(1623, 1677)",When it comes to foreign policy that will be my guiding question,Claim,"(1383, 1447)",Support
+I think that we should go further and require teacher testing for new teachers also,Claim,"(85461, 85544)",education is my number one priority,Claim,"(85141, 85176)",Support
+It's a very tense situation there,Premise,"(8702, 8735)",I think that we also have to keep a weather eye toward Saddam Hussein,Claim,"(8284, 8353)",Support
+in terms of forcing troop withdrawals on a timetable that wasn't necessarily in our best interest or fit our nation's strategy,Premise,"(15873, 15999)",I think it's good public policy,Claim,"(16008, 16039)",Support
+I know it's been going on a long time,Premise,"(37730, 37767)",I think that racial profiling is a serious problem,Claim,"(37572, 37622)",Support
+I did support that law,Premise,"(47702, 47724)",I agree with that,Claim,"(5655, 5672)",Support
+"I cast the tie-breaking vote to close it, but then the majority in the House of Representatives went the other way",Premise,"(51003, 51117)",I favor closing the gun show loophole,Claim,"(50955, 50992)",Support
+I've developed -- put out money in my budget to expand community health centers all around the country,Claim,"(59412, 59514)",we need more community health centers,Claim,"(59373, 59410)",Support
+the Japanese are breathing down our necks on this,Premise,"(70594, 70643)",They're moving very rapidly,Claim,"(70645, 70672)",Support
+I found it to be an issue in trying to defend my tax relief package,Premise,"(81400, 81467)",I think this is an issue,Claim,"(81374, 81398)",Support
+When it comes to foreign policy that will be my guiding question,Claim,"(1383, 1447)","I have, I have",Claim,"(1254, 1268)",Support
+I want to give new choices to parents,Claim,"(85674, 85711)","The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there",Claim,"(85546, 85664)",Support
+in the last 24 hours there has been some subsiding of the violence there,Premise,"(8741, 8813)",It's a very tense situation there,Premise,"(8702, 8735)",Support
+I'm pleased the president made the decision he made,Claim,"(16112, 16163)",I thought the president made the right decision in joining NATO and bombing Serbia,Claim,"(15686, 15768)",Support
+In some ways this is just a new label for something that has been going on for years,Premise,"(37769, 37853)",I know it's been going on a long time,Premise,"(37730, 37767)",Support
+I think that we should find a way to allow some kind of civic unions,Claim,"(47730, 47798)",I agree with that,Claim,"(5655, 5672)",Support
+That's still pending,Premise,"(51119, 51139)","I cast the tie-breaking vote to close it, but then the majority in the House of Representatives went the other way",Premise,"(51003, 51117)",Support
+These are places where people can get primary care,Premise,"(59516, 59566)",I've developed -- put out money in my budget to expand community health centers all around the country,Claim,"(59412, 59514)",Support
+they know that it is a fast-growing world market,Premise,"(70681, 70729)",They're moving very rapidly,Claim,"(70645, 70672)",Support
+I thought there was some exaggerations about the numbers,Premise,"(81469, 81525)",I think this is an issue,Claim,"(81374, 81398)",Support
+I've thought a lot about what it means to be the president,Claim,"(1679, 1737)","I have, I have",Claim,"(1254, 1268)",Support
+"The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there",Claim,"(85546, 85664)",education is my number one priority,Claim,"(85141, 85176)",Support
+Our country has been very active with regular conversations with the leaders there,Premise,"(8906, 8988)",It's a very tense situation there,Premise,"(8702, 8735)",Support
+I'm pleased I took -- made the decision I made,Claim,"(16064, 16110)",I thought the president made the right decision in joining NATO and bombing Serbia,Claim,"(15686, 15768)",Support
+I have to confess that it was the first time that I really focused on it in a new way,Premise,"(37859, 37944)",I remember when the stories first came out about the stops in New Jersey by the highway patrol there,Premise,"(37624, 37724)",Support
+I basically agree with Dick Cheney and Joe Lieberman,Premise,"(47804, 47856)",I think that we should find a way to allow some kind of civic unions,Claim,"(47730, 47798)",Support
+"If we could get agreement on that, maybe they could pass that in the final days of this Congress",Premise,"(51141, 51237)","I cast the tie-breaking vote to close it, but then the majority in the House of Representatives went the other way",Premise,"(51003, 51117)",Support
+and they're good,Premise,"(59580, 59596)",I've developed -- put out money in my budget to expand community health centers all around the country,Claim,"(59412, 59514)",Support
+they're looking for ways to satisfy their desire for a better life and still reduce pollution at the same time,Premise,"(70906, 71016)",I think that holding onto the old ways and the old argument that the environment and the economy are in conflict is really outdated,Claim,"(71018, 71149)",Support
+I thought during his debate with Senator Bradley saying he authored the EITC when it didn't happen,Premise,"(81017, 81115)",I am going to continue to defend my record and defend my propositions against what I think are exaggerations,Claim,"(81601, 81709)",Support
+"an administration is dedicated citizens who are called by the president to serve the country, to serve a cause greater than self",Premise,"(1803, 1931)",I also understand that an administration is not one person,Claim,"(1739, 1797)",Support
+"send their kids to college with a $10,000 tax deduction for college tuition per child per year",Claim,"(85716, 85810)",I want to give new choices to parents,Claim,"(85674, 85711)",Support
+they are enduring,Premise,"(9299, 9316)",Our bonds with Israel are larger than agreements or disagreements on some details of diplomatic initiatives,Claim,"(9150, 9257)",Support
+freedom took hold in that part of the world,Premise,"(16173, 16216)",I'm pleased the president made the decision he made,Claim,"(16112, 16163)",Support
+I was surprised at the extent of it,Premise,"(37950, 37985)",I have to confess that it was the first time that I really focused on it in a new way,Premise,"(37859, 37944)",Support
+I agree with that,Claim,"(5655, 5672)",I think the three of us have one view and the Governor has another view,Claim,"(47862, 47933)",Support
+I think we ought to restore the three-day waiting period under the Brady Law,Claim,"(51239, 51315)",I think we should toughen the enforcement of gun laws,Claim,"(51317, 51370)",Support
+They're very important parts of the safety net of health care,Premise,"(59598, 59659)",and they're good,Premise,"(59580, 59596)",Support
+The governor said that he doesn't think this problem is necessarily caused by people,Premise,"(71242, 71326)",we disagree on this,Claim,"(71221, 71240)",Support
+"I read a report, or a memo, from somebody in his 1988 campaign -- I forgot the fellow's name -- warning then Senator Gore to be careful about exaggerating claims",Premise,"(80854, 81015)",I am going to continue to defend my record and defend my propositions against what I think are exaggerations,Claim,"(81601, 81709)",Support
+I've thought a lot about what it means to be the president,Claim,"(1679, 1737)",I also understand that an administration is not one person,Claim,"(1739, 1797)",Support
+I want to reduce the size of the classrooms in this country,Claim,"(85812, 85871)","The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there",Claim,"(85546, 85664)",Support
+they are strong,Premise,"(9278, 9293)",Our bonds with Israel are larger than agreements or disagreements on some details of diplomatic initiatives,Claim,"(9150, 9257)",Support
+Absolutely,Claim,"(16510, 16520)","Yes, I think it is",Claim,"(16490, 16508)",Support
+"Imagine what it -- what it is like for someone to be singled out unfairly, unjustly, and feel the unfair force of law simply because of race or ethnicity",Premise,"(38095, 38248)",I think that racial profiling is a serious problem,Claim,"(37572, 37622)",Support
+I agree with that,Claim,"(5655, 5672)",I'm not for gay marriage,Claim,"(47020, 47044)",Attack
+so that the ones that are already on the books can be enforced much more effectively,Premise,"(51371, 51455)",I think we should toughen the enforcement of gun laws,Claim,"(51317, 51370)",Support
+It will be a huge down payment for a pretty darn good system,Premise,"(59862, 59922)","you get a $2,000 rebate from the government if you're a family of $30,000 or less -- it scales down as you get higher -- that you can use to purchase health care in the private markets",Claim,"(59676, 59860)",Support
+He's for letting the oil companies into the Arctic National Wildlife Refuge,Premise,"(71328, 71403)",we disagree on this,Claim,"(71221, 71240)",Support
+I think this is an issue,Claim,"(81374, 81398)",I am going to continue to defend my record and defend my propositions against what I think are exaggerations,Claim,"(81601, 81709)",Support
+"I haven't started naming names except for one person, and that's Mr. Richard Cheney who I thought did a great job the other night",Premise,"(2086, 2215)","I've thought about an administration of people who represent all America, but people who understand my compassionate and conservative philosophy",Premise,"(1940, 2084)",Support
+so that students can get more one-on-one time with teachers,Premise,"(85895, 85954)",I want to reduce the size of the classrooms in this country,Claim,"(85812, 85871)",Support
+They are historic,Premise,"(9259, 9276)",Our bonds with Israel are larger than agreements or disagreements on some details of diplomatic initiatives,Claim,"(9150, 9257)",Support
+I don't think he would have fallen had we not used the force,Claim,"(16522, 16582)","Yes, I think it is",Claim,"(16490, 16508)",Support
+that runs counter to what the United States of America is all about at our core,Premise,"(38255, 38334)","Imagine what it -- what it is like for someone to be singled out unfairly, unjustly, and feel the unfair force of law simply because of race or ethnicity",Premise,"(38095, 38248)",Support
+I've been a tolerant person all my life,Premise,"(48255, 48294)",I will be a tolerant person,Claim,"(48226, 48253)",Support
+Have a gun-free zone around every school in this country,Claim,"(51665, 51721)",I think that measures like these are important,Claim,"(51723, 51769)",Support
+to make health care more affordable,Premise,"(60104, 60139)",allow business associations like the National Federal of Independent Business or the Chamber of Commerce or the National Restaurant Association to write association plans across jurisdictional lines,Claim,"(60141, 60339)",Support
+Houston has just become the smoggiest city in the country,Premise,"(71405, 71462)",we disagree on this,Claim,"(71221, 71240)",Support
+That's what he said the other day,Premise,"(81814, 81847)","Exaggerations like, for example, only 5% of seniors receive benefits under my Medicare reform package",Premise,"(81711, 81812)",Support
+He's man of solid judgment,Premise,"(2312, 2338)",I think people got to see why I picked him,Claim,"(2268, 2310)",Support
+the way to do that is first to recruit more teachers,Claim,"(85960, 86012)",I want to reduce the size of the classrooms in this country,Claim,"(85812, 85871)",Support
+our ability to serve as an honest broker is something that we need to shepherd,Claim,"(9322, 9400)","The first priority has to be on ending the violence, dampening down the tensions that have arisen there",Claim,"(7964, 8067)",Support
+"nevertheless, it worked",Premise,"(16873, 16896)",I didn't think he necessarily made the right decision to take land troops off the table right before we committed ourselves offensively,Claim,"(16732, 16867)",Support
+if I am entrusted with the presidency,Premise,"(38379, 38416)",it will be the first Civil Rights Act of the 21st century,Claim,"(38418, 38475)",Support
+I think they ought to have the same rights,Claim,"(48552, 48594)",I don't think they ought to have special rights,Claim,"(48499, 48546)",Support
+I think that we ought to make all schools gun free,Claim,"(51613, 51663)",I think that measures like these are important,Claim,"(51723, 51769)",Support
+so that small businesses have got the capacity to have national pooling to drive the cost of insurance down,Premise,"(60340, 60447)",allow business associations like the National Federal of Independent Business or the Chamber of Commerce or the National Restaurant Association to write association plans across jurisdictional lines,Claim,"(60141, 60339)",Support
+Texas is number one in industrial pollution,Premise,"(71468, 71511)",we disagree on this,Claim,"(71221, 71240)",Support
+"Exaggerations like, for example, only 5% of seniors receive benefits under my Medicare reform package",Premise,"(81711, 81812)",that's simply not the case,Claim,"(81853, 81879)",Support
+he's going to be a person to stand by my side,Premise,"(2343, 2388)",I think people got to see why I picked him,Claim,"(2268, 2310)",Support
+"I've a plan in my budget to recruit 100,000 new, highly qualified teachers and to help local school districts build new schools",Claim,"(86014, 86141)","The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there",Claim,"(85546, 85664)",Support
+should I be the president Israel's going to be our friend,Claim,"(9841, 9898)",I'm going to stand by Israel,Claim,"(9900, 9928)",Support
+I didn't think he necessarily made the right decision to take land troops off the table right before we committed ourselves offensively,Claim,"(16732, 16867)",I thought he made the right decision to do so,Claim,"(16685, 16730)",Support
+"Yes, I would",Claim,"(37350, 37362)",it will be the first Civil Rights Act of the 21st century,Claim,"(38418, 38475)",Support
+I don't think they ought to have special rights,Claim,"(48499, 48546)",Yes,Claim,"(2964, 2967)",Support
+"Child safety trigger locks on a mandatory basis, and others",Claim,"(51771, 51830)",I think that measures like these are important,Claim,"(51723, 51769)",Support
+allow business associations like the National Federal of Independent Business or the Chamber of Commerce or the National Restaurant Association to write association plans across jurisdictional lines,Claim,"(60141, 60339)",I think that's the very best way to go,Claim,"(60449, 60487)",Support
+I think that holding onto the old ways and the old argument that the environment and the economy are in conflict is really outdated,Claim,"(71018, 71149)",We have to be bold,Claim,"(71151, 71169)",Support
+that's simply not the case,Claim,"(81853, 81879)",I am going to continue to defend my record and defend my propositions against what I think are exaggerations,Claim,"(81601, 81709)",Support
+I think people got to see why I picked him,Claim,"(2268, 2310)",I also understand that an administration is not one person,Claim,"(1739, 1797)",Support
+if you squander the surplus on a huge tax cut that goes mostly to those at the top,Premise,"(86317, 86399)",you can't make education the top priority,Claim,"(86406, 86447)",Support
+I think credibility is going to be very important in the future in the Middle East,Claim,"(9732, 9814)",I'm going to stand by Israel,Claim,"(9900, 9928)",Support
+It is important for NATO to have it work,Premise,"(16958, 16998)",The administration deserves credit for having made it work,Claim,"(16898, 16956)",Support
+I can't imagine what it would be like to be singled out because of race and stopped and harassed,Premise,"(38489, 38585)",Yeah,Claim,"(38483, 38487)",Support
+there's a law pending called the Employment Non-Discrimination Act,Premise,"(48608, 48674)",I strongly support it,Claim,"(48676, 48697)",Support
+I think that measures like these are important,Claim,"(51723, 51769)",I think we should toughen the enforcement of gun laws,Claim,"(51317, 51370)",Support
+"If you allow -- also allow -- convince states to -- allow states to allow the mother to match some of the children's health insurance money with it, the pool purchasing power",Claim,"(59924, 60098)",I think that's the very best way to go,Claim,"(60449, 60487)",Support
+I think that holding onto the old ways and the old argument that the environment and the economy are in conflict is really outdated,Claim,"(71018, 71149)",We have to provide leadership,Claim,"(71171, 71200)",Support
+That's what debates are about,Premise,"(81952, 81981)",I have every right in the world to defend my record and positions,Claim,"(81885, 81950)",Support
+I've been able to set clear goals,Premise,"(2484, 2517)",One of the things I've done in Texas is I've been able to put together a good team of people,Premise,"(2390, 2482)",Support
+I think that we have to put more emphasis on early learning and pre-school,Claim,"(86143, 86217)","The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there",Claim,"(85546, 85664)",Support
+I appreciate the way the administration has worked hard to calm the tensions,Premise,"(9555, 9631)","I think during the campaign, particularly now during this difficult period, we ought to be speaking with one voice",Claim,"(9435, 9549)",Support
+It's important for NATO to be strong and confident and to help keep the peace in Europe,Premise,"(17000, 17087)",The administration deserves credit for having made it work,Claim,"(16898, 16956)",Support
+that's not what America is all about,Premise,"(38615, 38651)",Yeah,Claim,"(38483, 38487)",Support
+What it says is that gays and lesbians can't be fired from their job because they're gay or lesbian,Premise,"(48699, 48798)",I strongly support it,Claim,"(48676, 48697)",Support
+"When you say loud and clear to somebody if you're going to carry a gun illegally, we're going to arrest you",Premise,"(51895, 52002)",it starts with enforcing law,Claim,"(51865, 51893)",Support
+it trusts people,Premise,"(60509, 60525)",I think that's the very best way to go,Claim,"(60449, 60487)",Support
+we disagree on this,Claim,"(71221, 71240)",I will fight for a clean environment in ways that strengthen our economy,Claim,"(71571, 71643)",Support
+that's what campaigns are about,Premise,"(81986, 82017)",I have every right in the world to defend my record and positions,Claim,"(81885, 81950)",Support
+One of the things I've done in Texas is I've been able to put together a good team of people,Premise,"(2390, 2482)",I also understand that an administration is not one person,Claim,"(1739, 1797)",Support
+"If the tax cut is your number one, two, three and four priority",Premise,"(86449, 86512)",you can't do education,Claim,"(86514, 86536)",Support
+I call on Chairman Arafat to have his people pull back to make the peace,Premise,"(9658, 9730)",I think credibility is going to be very important in the future in the Middle East,Claim,"(9732, 9814)",Support
+"Yes, I think it is",Claim,"(16490, 16508)",The administration deserves credit for having made it work,Claim,"(16898, 16956)",Support
+That's just flat wrong,Premise,"(38587, 38609)",Yeah,Claim,"(38483, 38487)",Support
+it would be a federal law preventing that,Premise,"(48804, 48845)",What it says is that gays and lesbians can't be fired from their job because they're gay or lesbian,Premise,"(48699, 48798)",Support
+"If you're going to sell a gun illegally, you need to be arrested",Premise,"(52004, 52068)",it starts with enforcing law,Claim,"(51865, 51893)",Support
+It empowers people,Premise,"(60489, 60507)",I think that's the very best way to go,Claim,"(60449, 60487)",Support
+We have to provide leadership,Claim,"(71171, 71200)",I will fight for a clean environment in ways that strengthen our economy,Claim,"(71571, 71643)",Support
+I have every right in the world to defend my record and positions,Claim,"(81885, 81950)",I am going to continue to defend my record and defend my propositions against what I think are exaggerations,Claim,"(81601, 81709)",Support
+"The goals ought to be an education system that leaves no child behind, Medicare for our seniors, a Social Security system that's safe and secure, foreign policy that's in our nation's interest, and a strong military, and then bring people together to achieve those goals",Claim,"(2519, 2789)","I have, I have",Claim,"(1254, 1268)",Support
+you can't do education,Claim,"(86514, 86536)",You have to choose,Claim,"(86557, 86575)",Support
+It's important to be friends with people when you don't need each other so that when you do there's a strong bond of friendship,Premise,"(10055, 10182)","I think it's important to reach out to moderate Arab nations, like Jordan and Egypt, Saudi Arabia and Kuwait",Claim,"(9945, 10053)",Support
+because of our relations with NATO,Premise,"(17180, 17214)",I felt so strongly that the United States needed to participate,Claim,"(17112, 17175)",Support
+Yeah,Claim,"(38483, 38487)","Yes, I would",Claim,"(37350, 37362)",Support
+it's been blocked by the opponents in the majority in the Congress,Premise,"(48871, 48937)",I strongly support it,Claim,"(48676, 48697)",Support
+"If you commit a crime with a gun, there needs to be absolute certainty in the law",Premise,"(52070, 52151)",it starts with enforcing law,Claim,"(51865, 51893)",Support
+it's a practical way to encourage people to purchase health care insurance,Premise,"(60543, 60617)",I think that's the very best way to go,Claim,"(60449, 60487)",Support
+We have to be bold,Claim,"(71151, 71169)",I will fight for a clean environment in ways that strengthen our economy,Claim,"(71571, 71643)",Support
+I'm sorry about that,Premise,"(82145, 82165)",I got some of the details wrong last week in some of the examples that I used,Premise,"(82057, 82134)",Support
+It is a great tribute to our founders that 224 years later this nation is now looked to by the peoples on every other continent and the peoples from every part of this earth as a kind of model for what their future could be,Premise,"(3144, 3367)",I see it as a question of values,Claim,"(3110, 3142)",Support
+You can't do both,Claim,"(86538, 86555)",You have to choose,Claim,"(86557, 86575)",Support
+"that's going to be particularly important in dealing not only with situations such as now occurring in Israel, but with Saddam Hussein",Claim,"(10188, 10322)","I think it's important to reach out to moderate Arab nations, like Jordan and Egypt, Saudi Arabia and Kuwait",Claim,"(9945, 10053)",Support
+NATO is going to be an important part of keeping the peace in the future,Premise,"(17220, 17292)",I felt so strongly that the United States needed to participate,Claim,"(17112, 17175)",Support
+we ought to do everything we can to end racial profiling,Claim,"(38660, 38716)",Yeah,Claim,"(38483, 38487)",Support
+I don't know the particulars of this law,Premise,"(49155, 49195)",I have no idea,Claim,"(49101, 49115)",Support
+it starts with enforcing law,Claim,"(51865, 51893)",the local law enforcement officials need help at the federal level,Claim,"(52173, 52239)",Support
+I would like to see eventually in this country some form of universal health care,Premise,"(60792, 60873)",I'm not for a government-run system,Claim,"(60879, 60914)",Support
+I think that holding onto the old ways and the old argument that the environment and the economy are in conflict is really outdated,Claim,"(71018, 71149)",I will fight for a clean environment in ways that strengthen our economy,Claim,"(71571, 71643)",Support
+I got some of the details wrong last week in some of the examples that I used,Premise,"(82057, 82134)",I'm going to try to do better,Claim,"(82171, 82200)",Support
+"It's really true, even the ones that sometimes shake their fists at us",Premise,"(3460, 3530)",I don't think that's just the kind of exaggeration that we take pride in as Americans,Claim,"(3373, 3458)",Support
+You have to choose,Claim,"(86557, 86575)","I choose education and health care, the environment and retirement security",Claim,"(86577, 86652)",Support
+The sanctions are being violated,Premise,"(10413, 10445)",The coalition against Saddam has fallen apart or it's unraveling,Claim,"(10324, 10388)",Support
+"Remains to be seen, however, whether or not there's going to be a political settlement in Kosovo",Premise,"(17324, 17420)",I certainly hope there is one,Claim,"(17426, 17455)",Support
+we need to make sure that internal affairs divisions at the local level do their job and be given a chance to do their job,Premise,"(38888, 39010)",I don't want to federalize the local police forces,Claim,"(38749, 38799)",Support
+"I'm the kind of person, I don't hire or fire somebody based upon their sexual orientation",Premise,"(49213, 49302)",I have no idea,Claim,"(49101, 49115)",Support
+we haven't done a very good job of that at the federal level recently,Premise,"(52355, 52424)",I'm going to make it a priority,Claim,"(52430, 52461)",Support
+I'm for shrinking the size of government,Claim,"(60925, 60965)",I'm not for a government-run system,Claim,"(60879, 60914)",Support
+We are a big industrial state,Premise,"(71703, 71732)",let me start with Texas,Premise,"(71678, 71701)",Support
+getting a detail wrong interfered several times with the point that I was trying to make,Claim,"(82241, 82329)",I'm going to try to do better,Claim,"(82171, 82200)",Support
+"As soon as they have a change that allows the people to speak freely, they're wanting to develop some kind of blueprint that will help them be like us more, freedom, free markets, political freedom",Premise,"(3532, 3729)",I don't think that's just the kind of exaggeration that we take pride in as Americans,Claim,"(3373, 3458)",Support
+There's too many issues left unresolved,Premise,"(86943, 86982)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+We don't know whether he's developing weapons of mass destruction,Premise,"(10447, 10512)",The coalition against Saddam has fallen apart or it's unraveling,Claim,"(10324, 10388)",Support
+I certainly hope there is one,Claim,"(17426, 17455)",there's more work to do,Claim,"(17299, 17322)",Support
+obviously in the egregious cases we need to enforce civil rights law,Premise,"(38814, 38882)",I don't want to federalize the local police forces,Claim,"(38749, 38799)",Support
+"I don't really think it's any of my -- you know, any of my concerns what -- how you conduct your sex life",Premise,"(49374, 49479)",I think that's a private matter,Claim,"(49485, 49516)",Support
+Programs like Project Exile where the federal government intensifies arresting people who illegally use guns,Premise,"(52241, 52349)",I'm going to make it a priority,Claim,"(52430, 52461)",Support
+I want a smaller and smarter government,Claim,"(60967, 61006)",I'm not for a government-run system,Claim,"(60879, 60914)",Support
+We reduced our industrial waste by 11%.,Premise,"(71734, 71773)",let me start with Texas,Premise,"(71678, 71701)",Support
+More sometimes than people in foreign countries,Premise,"(82681, 82728)","There are seniors who pay more for their prescriptions than a lot of other people, more than their pets, sometimes",Premise,"(82565, 82679)",Support
+The power of example is America's greatest power in the world,Claim,"(3834, 3895)",I see our greatest national strength coming from what we stand for in the world,Claim,"(3029, 3108)",Support
+"There's been too much finger pointing and too much name calling in Washington, D.C.",Premise,"(86984, 87067)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+He better not be,Premise,"(10514, 10530)",there's going to be a consequence should I be the president,Claim,"(10534, 10593)",Support
+so that we can withdraw our troops and focus our military on fighting and winning war,Premise,"(17631, 17716)",I hope that they put the troops on the ground,Claim,"(17585, 17630)",Support
+if they don't,Premise,"(39069, 39082)",there needs to be a consequence at the federal level,Claim,"(39083, 39135)",Support
+I think that's the way it ought to be,Claim,"(49522, 49559)",I think that's a private matter,Claim,"(49485, 49516)",Support
+I don't think we ought to be selling guns to people who shouldn't have them,Claim,"(52473, 52548)",I support instant background checks at gun shows,Claim,"(52561, 52609)",Support
+"I have been in charge of this reinventing government streamlining project that's reduced the size of government by more than 300,000 people in the last several years",Premise,"(61008, 61173)",I want a smaller and smarter government,Claim,"(60967, 61006)",Support
+"We cleaned up more brown fields than any other administration in my state's history, 450 of them",Premise,"(71774, 71870)",let me start with Texas,Premise,"(71678, 71701)",Support
+"There are seniors who pay more for their prescriptions than a lot of other people, more than their pets, sometimes",Premise,"(82565, 82679)",we need to do something about that,Claim,"(82529, 82563)",Support
+"that means, for example, standing up for human rights",Premise,"(3901, 3954)",The power of example is America's greatest power in the world,Claim,"(3834, 3895)",Support
+I would like to unite this country to get an agenda done that will speak to the hopes and aspirations of the future,Claim,"(87068, 87183)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+The coalition against Saddam has fallen apart or it's unraveling,Claim,"(10324, 10388)",there's going to be a consequence should I be the president,Claim,"(10534, 10593)",Support
+I hope that they put the troops on the ground,Claim,"(17585, 17630)",I hope our European friends become the peacekeepers in Bosnia and in the Balkans,Claim,"(17503, 17583)",Support
+there needs to be a consequence at the federal level,Claim,"(39083, 39135)",I don't want to federalize the local police forces,Claim,"(38749, 38799)",Support
+I support equal rights but not special rights for people,Claim,"(49630, 49686)",I'm going to be respectful for people,Claim,"(47340, 47377)",Support
+One of the reasons we have an instant background check is so that we instantly know whether or not somebody should have a gun or not,Premise,"(52611, 52743)",I support instant background checks at gun shows,Claim,"(52561, 52609)",Support
+"the budget plan that I've put out, according to the ""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years",Premise,"(61179, 61397)",I want a smaller and smarter government,Claim,"(60967, 61006)",Support
+Our water is cleaner now,Premise,"(71872, 71896)",let me start with Texas,Premise,"(71678, 71701)",Support
+I can't promise that I will never get another detail wrong,Claim,"(82975, 83033)","I can promise you that I will try not to, and hard",Claim,"(83035, 83085)",Support
+"It means addressing the problems of injustice and inequity, along the lines of race and ethnicity here at home",Claim,"(3956, 4066)",The power of example is America's greatest power in the world,Claim,"(3834, 3895)",Support
+No child should be left behind in America,Premise,"(87298, 87339)","I want to have an education system that sets high standards, local control of schools and strong accountability",Claim,"(87185, 87296)",Support
+credibility is formed by being strong with your friends and resolute in your determination,Claim,"(10638, 10728)",it's important to have credibility,Claim,"(10599, 10633)",Support
+He caused the death of so many people,Premise,"(17911, 17948)",When I was in the senate before I became vice president I was pushing for stronger action against Milosevic,Premise,"(17802, 17909)",Support
+"most police officers are good, dedicated, honorable citizens who are doing their job, putting their lives at risk who aren't bigoted or aren't prejudiced",Premise,"(39220, 39373)",it's very important that we not overstep our bounds,Claim,"(39141, 39192)",Support
+I'll tolerate people,Claim,"(49604, 49624)",I'm going to be respectful for people,Claim,"(47340, 47377)",Support
+There's a lot of talk about trigger locks being on guns sold in the future,Premise,"(52790, 52864)",In Texas I tried to do something innovative,Premise,"(52745, 52788)",Support
+it's intolerable that we have so many millions of children without any health insurance,Premise,"(61626, 61713)",I think we should start by greatly expanding the so-called child health insurance or CHIP program to give health insurance to every single child in this country,Claim,"(61456, 61616)",Support
+people are willing to invest capital in the brown fields don't want to do so for fear of lawsuit,Premise,"(72077, 72173)","I think we ought to have federal liability protection, depending upon whether or not standards have been met",Claim,"(72175, 72283)",Support
+"I can promise you that I will try not to, and hard",Claim,"(83035, 83085)","I will promise you this with all the confidence in my heart and in the world, that I will do my best if I'm elected president, I'll work my heart out to get the big things right for the American people",Claim,"(83091, 83292)",Support
+"in all these other places around the world where they're having these terrible problems, when they feel hope, it is often because they see in us a reflection of their potential",Premise,"(4076, 4252)","It means addressing the problems of injustice and inequity, along the lines of race and ethnicity here at home",Claim,"(3956, 4066)",Support
+"I want to have an education system that sets high standards, local control of schools and strong accountability",Claim,"(87185, 87296)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+if need be to keep the peace,Premise,"(10889, 10917)",I think it's important for this nation to develop an anti-ballistic missile system that we can share with our allies in the Middle East,Claim,"(10753, 10888)",Support
+When I was in the senate before I became vice president I was pushing for stronger action against Milosevic,Premise,"(17802, 17909)",I've been kind of a hard-liner on this issue for more than eight years,Claim,"(17730, 17800)",Support
+I don't think they ought to be held guilty,Claim,"(39375, 39417)","I do think we need to find out where racial profiling occurs and do something about it and say to the local folks, get it done",Claim,"(39423, 39549)",Support
+it would be if they're given special protective status,Premise,"(49767, 49821)","That doesn't mean we shouldn't fully enforce laws and fully protect people and fully honor people, which I will do as the President of the United States",Claim,"(49823, 49975)",Support
+In Texas I tried to do something innovative,Premise,"(52745, 52788)",I support that,Claim,"(52866, 52880)",Support
+it's one of my top priorities,Claim,"(61718, 61747)",I think we should start by greatly expanding the so-called child health insurance or CHIP program to give health insurance to every single child in this country,Claim,"(61456, 61616)",Support
+A brown field is an abandoned industrial site that just sits idle in some of our urban centers,Premise,"(71977, 72071)","I think we ought to have federal liability protection, depending upon whether or not standards have been met",Claim,"(72175, 72283)",Support
+Not with the measure that leaves the majority of them without any real basic help until the next president's term of four years is over. But right away,Claim,"(82770, 82921)",we need to do something about that,Claim,"(82529, 82563)",Support
+we've got to enforce our civil rights laws,Claim,"(4257, 4299)",The power of example is America's greatest power in the world,Claim,"(3834, 3895)",Support
+I want to make sure we rebuild our military to keep the peace,Claim,"(87341, 87402)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+"to be able to say to the Saddam Hussein's of the world or the Iranians, don't dare threaten our friends",Premise,"(10918, 11021)",I think it's important for this nation to develop an anti-ballistic missile system that we can share with our allies in the Middle East,Claim,"(10753, 10888)",Support
+I've been kind of a hard-liner on this issue for more than eight years,Claim,"(17730, 17800)","Yes, I think it is",Claim,"(16490, 16508)",Support
+it's very important that we not overstep our bounds,Claim,"(39141, 39192)","I do think we need to find out where racial profiling occurs and do something about it and say to the local folks, get it done",Claim,"(39423, 39549)",Support
+"I said if you want a trigger lock to make your gun safe, come and get one for free",Premise,"(52886, 52968)",I support that,Claim,"(52866, 52880)",Support
+Texas ranks 49th out of the 50 states in health care -- in children with health care,Premise,"(61872, 61956)",there is a record here,Claim,"(61844, 61866)",Support
+I think we need to have clean coal technologies,Claim,"(72705, 72752)",I propose $2 billion worth,Claim,"(72754, 72780)",Support
+that means doing it under the Medicare program,Claim,"(82927, 82973)",we need to do something about that,Claim,"(82529, 82563)",Support
+We've got to deal with things like racial profiling,Claim,"(4301, 4352)",The power of example is America's greatest power in the world,Claim,"(3834, 3895)",Support
+I worry about morale in today's military,Premise,"(87404, 87444)",I want to make sure we rebuild our military to keep the peace,Claim,"(87341, 87402)",Support
+because of the energy crisis we're now in,Premise,"(11098, 11139)","It's also important to keep strong ties in the Middle East, credible ties",Claim,"(11023, 11096)",Support
+He was the last communist party boss there,Premise,"(17950, 17992)",When I was in the senate before I became vice president I was pushing for stronger action against Milosevic,Premise,"(17802, 17909)",Support
+if you can't,Premise,"(39555, 39567)",there will be a federal consequence,Claim,"(39569, 39604)",Support
+So we're distributing in our State of Texas for free,Premise,"(52970, 53022)","I said if you want a trigger lock to make your gun safe, come and get one for free",Premise,"(52886, 52968)",Support
+50th for families with health care,Premise,"(61995, 62029)",there is a record here,Claim,"(61844, 61866)",Support
+I believe we ought to fully fund the Land and Water Conservation Fund to -- with half the money going to states so states can make the right decisions for environmental quality,Claim,"(72527, 72703)",I propose $2 billion worth,Claim,"(72754, 72780)",Support
+That's the kind of exaggeration I was just talking about,Premise,"(84635, 84691)","I think the point of that is that anybody would have a hard time trying to make a tax cut plan that is so large, that would put us into such big deficits, that gives almost half the benefits to the wealthiest of the wealthy",Claim,"(84292, 84515)",Attack
+we have to keep our military strong,Claim,"(4358, 4393)",The power of example is America's greatest power in the world,Claim,"(3834, 3895)",Support
+The warning signs are clear,Premise,"(87446, 87473)",I want to make sure we rebuild our military to keep the peace,Claim,"(87341, 87402)",Support
+a lot of the energy is produced from the Middle East,Premise,"(11152, 11204)","It's also important to keep strong ties in the Middle East, credible ties",Claim,"(11023, 11096)",Support
+then he became a dictator that by some other label he was still essentially a communist dictator,Premise,"(17997, 18093)",When I was in the senate before I became vice president I was pushing for stronger action against Milosevic,Premise,"(17802, 17909)",Support
+"I also agree that most police officers, of course, are doing a good job and hate this practice also",Premise,"(39719, 39818)",I would agree,Claim,"(39700, 39713)",Support
+He is for registration of guns,Premise,"(53163, 53193)",I disagree with the vice president on this issue,Claim,"(53113, 53161)",Support
+49th for women with health care,Premise,"(61958, 61989)",there is a record here,Claim,"(61844, 61866)",Support
+"The book you mentioned that Vice President Gore wrote, he also called for taxing -- big energy taxes in order to clean up the environment",Premise,"(72285, 72422)","now that the energy prices are high, I guess he's not advocating those big energy taxes right now",Premise,"(72428, 72525)",Support
+I wasn't the one having trouble explaining it,Premise,"(84716, 84761)",I think anybody would have a hard time explaining that clearly in a way that makes sense to the average person,Claim,"(84517, 84627)",Support
+We have the strongest military,Premise,"(4395, 4425)","I'll do whatever is necessary, if I'm president, to make sure that it stays that way",Claim,"(4431, 4515)",Support
+pay our men and women more,Claim,"(87550, 87576)",It is time to have a new commander in chief who will rebuild the military,Claim,"(87475, 87548)",Support
+I'm going to stand by Israel,Claim,"(9900, 9928)",Our bonds with Israel are larger than agreements or disagreements on some details of diplomatic initiatives,Claim,"(9150, 9257)",Support
+He should be held accountable,Claim,"(18428, 18457)",I've been kind of a hard-liner on this issue for more than eight years,Claim,"(17730, 17800)",Support
+"I talked to an African-American police officer in Springfield, Massachusetts not long ago who raised this question and said that in his opinion one of the biggest solutions is in the training",Premise,"(39820, 40011)","I also agree that most police officers, of course, are doing a good job and hate this practice also",Premise,"(39719, 39818)",Support
+"The criminal is not going to show up and say hey, give me my I.D. card",Premise,"(53398, 53468)","I think the only people that are going to show up to register or get a license -- I guess licensing like a driver's license for a gun, the only people that are going to show up are law-abiding citizens",Claim,"(53195, 53396)",Support
+there is a record here,Claim,"(61844, 61866)",it is a priority for me,Claim,"(62034, 62057)",Support
+"now that the energy prices are high, I guess he's not advocating those big energy taxes right now",Premise,"(72428, 72525)",I believe we ought to fully fund the Land and Water Conservation Fund to -- with half the money going to states so states can make the right decisions for environmental quality,Claim,"(72527, 72703)",Support
+I wasn't the one having trouble explaining it,Premise,"(84716, 84761)",That's the kind of exaggeration I was just talking about,Premise,"(84635, 84691)",Attack
+"I'll do whatever is necessary, if I'm president, to make sure that it stays that way",Claim,"(4431, 4515)",we have to keep our military strong,Claim,"(4358, 4393)",Support
+make sure they're housed better,Claim,"(87578, 87609)",It is time to have a new commander in chief who will rebuild the military,Claim,"(87475, 87548)",Support
+we have maintained the ability to serve as an honest broker,Premise,"(11647, 11706)",we stand with Israel,Claim,"(11621, 11641)",Support
+just today the members of his political party said that they were going to ignore the orders of the new president of Serbia,Premise,"(18179, 18302)",unfortunately now he is trying to reassert himself in Serbian politics,Claim,"(18099, 18169)",Support
+"not only the training in police procedures, but human relations",Premise,"(40017, 40080)","I talked to an African-American police officer in Springfield, Massachusetts not long ago who raised this question and said that in his opinion one of the biggest solutions is in the training",Premise,"(39820, 40011)",Support
+It's the law-abiding citizens who will do that,Premise,"(53470, 53516)","I think the only people that are going to show up to register or get a license -- I guess licensing like a driver's license for a gun, the only people that are going to show up are law-abiding citizens",Claim,"(53195, 53396)",Support
+It was fortunately stopped in its tracks,Premise,"(62467, 62507)",that's exactly what he and Mrs. Clinton and them fought for in 1993 was a government-run health care system,Premise,"(62358, 62465)",Support
+"I just found out the other day an interesting fact, that there is a national petroleum reserve right next to -- in Prudhoe Bay that your administration opened up for exploration in that pristine area",Premise,"(72794, 72993)",it was a smart move,Claim,"(72999, 73018)",Support
+"our real power comes, I think, from our values",Claim,"(4521, 4567)",I see it as a question of values,Claim,"(3110, 3142)",Support
+have a focused mission for our military,Claim,"(87614, 87653)",It is time to have a new commander in chief who will rebuild the military,Claim,"(87475, 87548)",Support
+"Israel cannot have direct dialogue with some of the people on the other side of conflicts, especially during times of tension, unless that dialogue comes through us",Premise,"(11756, 11920)",that's important,Claim,"(11731, 11747)",Support
+that they question his legitimacy,Premise,"(18308, 18341)",just today the members of his political party said that they were going to ignore the orders of the new president of Serbia,Premise,"(18179, 18302)",Support
+I would agree,Claim,"(39700, 39713)",there will be a federal consequence,Claim,"(39569, 39604)",Support
+"I think the only people that are going to show up to register or get a license -- I guess licensing like a driver's license for a gun, the only people that are going to show up are law-abiding citizens",Claim,"(53195, 53396)",I don't think that is going to be an effective tool to make the -- keep our society safe,Claim,"(53521, 53609)",Support
+"Our rate of uninsured, the percentage of uninsured in Texas has gone down, while the percentage of uninsured in America has gone up",Premise,"(62588, 62719)",we spend $4.7 billion a year on the uninsured in the State of Texas,Premise,"(62519, 62586)",Support
+there's gas reserves up there,Premise,"(73027, 73056)",it was a smart move,Claim,"(72999, 73018)",Support
+If we're an arrogant nation,Premise,"(5129, 5156)",they'll resent us,Claim,"(5158, 5175)",Support
+It is time to have a new commander in chief who will rebuild the military,Claim,"(87475, 87548)",I want to make sure we rebuild our military to keep the peace,Claim,"(87341, 87402)",Support
+if we throw away that ability to serve as an honest broker,Premise,"(11926, 11984)",we will have thrown away a strategic asset that's important not only to us but also to Israel,Claim,"(12009, 12102)",Support
+he's still going to try to be actively involved,Premise,"(18347, 18394)",unfortunately now he is trying to reassert himself in Serbian politics,Claim,"(18099, 18169)",Support
+James Byrd was singled out because of his race in Texas,Premise,"(40237, 40292)",I think we can embody our values by passing a hate crimes law,Claim,"(40387, 40448)",Support
+I'm not for registration,Claim,"(53741, 53765)",I disagree with the vice president on this issue,Claim,"(53113, 53161)",Attack
+our government meets only four months out of every two years,Premise,"(62764, 62824)",Our CHIPS program got a late start,Claim,"(62721, 62755)",Support
+We need gas pipelines to bring the gas down,Premise,"(73058, 73101)",there's gas reserves up there,Premise,"(73027, 73056)",Support
+"If we're a humble nation, but strong",Premise,"(5177, 5213)",they'll welcome us,Claim,"(5215, 5233)",Support
+This issue has been too long on the table because it's been a political issue,Premise,"(87712, 87789)",I want to do something about Medicare,Claim,"(87673, 87710)",Support
+we will have thrown away a strategic asset that's important not only to us but also to Israel,Claim,"(12009, 12102)",our ability to serve as an honest broker is something that we need to shepherd,Claim,"(9322, 9400)",Support
+unfortunately now he is trying to reassert himself in Serbian politics,Claim,"(18099, 18169)",I've been kind of a hard-liner on this issue for more than eight years,Claim,"(17730, 17800)",Support
+other Americans have been singled out because of their race or ethnicity,Premise,"(40298, 40370)",I think we can embody our values by passing a hate crimes law,Claim,"(40387, 40448)",Support
+I am for licensing by states of new handgun purchases,Claim,"(53767, 53820)",I'm not for registration,Claim,"(53741, 53765)",Support
+"Congress passes the bill after our session in 1997 ended, we passed an enabling legislation in 1999",Premise,"(63019, 63118)",limited government can work in the second largest state in the union,Claim,"(62935, 63003)",Support
+that's what we did in Texas,Premise,"(73304, 73331)","we need to make sure that if we decontrol our plants that there's mandatory -- that the plants must conform to clean air standards, the grandfathered plants",Claim,"(73146, 73302)",Support
+It really depends upon how our nation conducts itself in foreign policy,Claim,"(5056, 5127)",I don't think they'll look at us with envy,Claim,"(5012, 5054)",Support
+It's time to bring folks together to say that all seniors will get prescription drug coverage,Premise,"(87791, 87884)",I want to do something about Medicare,Claim,"(87673, 87710)",Support
+"It's got to be a timetable that all parties can agree to, like the Palestinians and Israelis",Premise,"(12285, 12377)",it can't be the United States timetable as to how discussions take place,Claim,"(12211, 12283)",Support
+He is an indicted war criminal,Premise,"(18396, 18426)",When I was in the senate before I became vice president I was pushing for stronger action against Milosevic,Premise,"(17802, 17909)",Support
+"they're based on prejudice and hatred, which gives rise to crimes that have not just a single victim, but they're intended to stigmatize and dehumanize a whole group of people",Premise,"(40520, 40695)",I think they're different,Claim,"(40486, 40511)",Support
+too many criminals are getting guns,Premise,"(54212, 54247)",I think states should do that for new handguns,Claim,"(54156, 54202)",Support
+"For comparable states our size, we're signing them up as fast as any other state",Premise,"(63180, 63260)",we care about our people in Texas,Claim,"(63322, 63355)",Support
+No excuses,Premise,"(73333, 73343)","we need to make sure that if we decontrol our plants that there's mandatory -- that the plants must conform to clean air standards, the grandfathered plants",Claim,"(73146, 73302)",Support
+they'll resent us,Claim,"(5158, 5175)",I don't think they'll look at us with envy,Claim,"(5012, 5054)",Support
+I want to do something about Medicare,Claim,"(87673, 87710)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+any lasting peace is going to have to be a peace that's good for both sides,Premise,"(12389, 12464)",it can't be the United States timetable as to how discussions take place,Claim,"(12211, 12283)",Support
+it's based on our values,Premise,"(19214, 19238)","by itself, that to me can bring into play a fundamental American strategic interest",Claim,"(19114, 19197)",Support
+"The three men who murdered James Byrd, guess what's going to happen to them? They're going to be put to death",Premise,"(40852, 40961)",We've got one in Texas,Premise,"(40812, 40834)",Support
+There was a recent investigation of the number in Texas who got -- who were given concealed weapons permits in spite of the fact that they had records,Premise,"(54249, 54399)",I think states should do that for new handguns,Claim,"(54156, 54202)",Support
+"We've signed up over 110,000 children to the CHIPS program",Premise,"(63120, 63178)",we care about our people in Texas,Claim,"(63322, 63355)",Support
+You must conform,Premise,"(73345, 73361)","we need to make sure that if we decontrol our plants that there's mandatory -- that the plants must conform to clean air standards, the grandfathered plants",Claim,"(73146, 73302)",Support
+they'll welcome us,Claim,"(5215, 5233)",I don't think they'll look at us with envy,Claim,"(5012, 5054)",Support
+I want to do something about Social Security,Claim,"(87886, 87930)",I'm running to get some things done for America,Claim,"(86894, 86941)",Support
+it can't be the United States timetable as to how discussions take place,Claim,"(12211, 12283)",the term honest broker makes sense,Claim,"(12481, 12515)",Support
+"In some of the discussions we've had about when it's appropriate for the U.S. to use force around the world, at times the standards that you've laid down have given me the impression that if it's something like a genocide taking place or what they called ethnic cleansing in Bosnia, that that alone would not be, that that wouldn't be the kind of situation that would cause you to think that the U.S. ought to get involved with troops",Premise,"(18604, 19038)","by itself, that to me can bring into play a fundamental American strategic interest",Claim,"(19114, 19197)",Support
+A jury found them guilty,Premise,"(40963, 40987)","The three men who murdered James Byrd, guess what's going to happen to them? They're going to be put to death",Premise,"(40852, 40961)",Support
+"the ""Los Angeles Times"" spent a lot of ink going into that",Premise,"(54405, 54463)",There was a recent investigation of the number in Texas who got -- who were given concealed weapons permits in spite of the fact that they had records,Premise,"(54249, 54399)",Support
+We spent a lot of money to make sure people get health care in the State of Texas,Claim,"(63357, 63438)",we care about our people in Texas,Claim,"(63322, 63355)",Support
+"we need to make sure that if we decontrol our plants that there's mandatory -- that the plants must conform to clean air standards, the grandfathered plants",Claim,"(73146, 73302)",there are practical things we can do,Claim,"(73379, 73415)",Support
+our nation stands alone right now in the world in terms of power,Premise,"(5247, 5311)",we have to be humble,Claim,"(5328, 5348)",Support
+now is the time to act,Premise,"(87968, 87990)",It's an important priority,Claim,"(87932, 87958)",Support
+This current administration's worked hard to keep the parties at the table,Premise,"(12517, 12591)",I will try to do the same thing,Claim,"(12593, 12624)",Support
+"by itself, that to me can bring into play a fundamental American strategic interest",Claim,"(19114, 19197)","Yes, I think it is",Claim,"(16490, 16508)",Support
+It's going to be hard to punish them any worse after they get put to death,Premise,"(40989, 41063)","The three men who murdered James Byrd, guess what's going to happen to them? They're going to be put to death",Premise,"(40852, 40961)",Support
+"this is in the aftermath of Columbine, and Paducah, and all the places in our country where the nation has been shocked by these weapons in the hands of the wrong people",Premise,"(54664, 54833)","The woman who bought the guns for the two boys who did that killing at Columbine said that if she had had to give her name and fill out a form there, she would not have bought those guns",Premise,"(54835, 55021)",Support
+we're doing a better job than they are at the national level for reducing uninsured,Premise,"(63444, 63527)",We spent a lot of money to make sure people get health care in the State of Texas,Claim,"(63357, 63438)",Support
+it starts with working in a collaborative effort with states and local folks,Claim,"(73421, 73497)",there are practical things we can do,Claim,"(73379, 73415)",Support
+we have to be humble,Claim,"(5328, 5348)",I don't think they'll look at us with envy,Claim,"(5012, 5054)",Support
+It's an important priority,Claim,"(87932, 87958)","we're going to say to our seniors, our promises we've made to you will be promises kept",Claim,"(87995, 88082)",Support
+it will be on the timetable that people are comfortable with in the Middle East,Claim,"(12659, 12738)",it won't be on my timetable,Claim,"(12630, 12657)",Support
+If I think it's in our nation's strategic interest,Premise,"(19319, 19369)",I'll commit troops,Claim,"(19370, 19388)",Support
+it's the right cause,Claim,"(41069, 41089)",It's the right decision,Claim,"(41091, 41114)",Support
+"The woman who bought the guns for the two boys who did that killing at Columbine said that if she had had to give her name and fill out a form there, she would not have bought those guns",Premise,"(54835, 55021)",That conceivably could have prevented that tragedy,Claim,"(55023, 55073)",Support
+"as for why it happened, I'm no expert on the Texas procedures, but what my friends there tell me is that the governor opposed a measure put forward by Democrats in the legislature to expand the number of children that would be covered",Premise,"(63930, 64164)",the money was taken away from the CHIP program,Claim,"(64366, 64412)",Support
+People care a lot about their land and care about their environment,Premise,"(73544, 73611)",there are practical things we can do,Claim,"(73379, 73415)",Support
+I don't think they ought to look at us in any way other than what we are,Claim,"(5410, 5482)",And yet project strength in a way that promotes freedom,Claim,"(5350, 5405)",Support
+"we're going to say to our seniors, our promises we've made to you will be promises kept",Claim,"(87995, 88082)",I want to do something about Social Security,Claim,"(87886, 87930)",Support
+it won't be on my timetable,Claim,"(12630, 12657)",I will try to do the same thing,Claim,"(12593, 12624)",Support
+because of our relations in NATO,Premise,"(19461, 19493)",I thought it was in our strategic interests to keep Milosevic in check,Claim,"(19390, 19460)",Support
+It's the right decision,Claim,"(41091, 41114)","No, I don't",Claim,"(40749, 40760)",Support
+I'm not for photo licensing,Claim,"(55243, 55270)",I am for licensing by states of new handgun purchases,Claim,"(53767, 53820)",Attack
+"instead directed the money toward a tax cut, a significant part of which went to wealthy interests",Premise,"(64170, 64268)",He declared the need for a new tax cut for the oil companies in Texas an emergency need,Premise,"(64270, 64357)",Support
+"If you own the land, every day is Earth Day",Premise,"(73499, 73542)",there are practical things we can do,Claim,"(73379, 73415)",Support
+if we're an arrogant nation,Premise,"(5518, 5545)",they'll view us that way,Claim,"(5546, 5570)",Support
+I believe in limited government,Claim,"(88443, 88474)","I don't believe, like the vice president does, in huge government",Claim,"(88376, 88441)",Support
+it can't be the United States timetable as to how discussions take place,Claim,"(12211, 12283)",I will try to do the same thing,Claim,"(12593, 12624)",Support
+I felt like unchecked Milosevic would harm NATO,Premise,"(19598, 19645)",I think it's important for NATO to be strong and confident,Claim,"(19538, 19596)",Support
+Arab-Americans are racially profiled in what is called secret evidence,Premise,"(41192, 41262)",there is other forms of racial profiling that goes on in America,Claim,"(41126, 41190)",Support
+He says we ought to have gun-free schools,Premise,"(55338, 55379)",Everybody believes that,Claim,"(55381, 55404)",Support
+He declared the need for a new tax cut for the oil companies in Texas an emergency need,Premise,"(64270, 64357)",the money was taken away from the CHIP program,Claim,"(64366, 64412)",Support
+We reduced our industrial waste by 11%.,Premise,"(71734, 71773)",Texas is number one in industrial pollution,Premise,"(71468, 71511)",Attack
+if we're a humble nation,Premise,"(5576, 5600)",they'll respect us,Claim,"(5601, 5619)",Support
+By having a limited government and a focused government,Premise,"(88476, 88531)",we can send some of the money back to the people who pay the bills,Claim,"(88533, 88599)",Support
+People watching here tonight are very interested in Middle East policy,Premise,"(12751, 12821)",they want to base their vote on differences between the two of you as president how you would handle Middle East policy,Claim,"(12850, 12969)",Support
+I voted for it,Premise,"(20366, 20380)",supported it,Claim,"(20382, 20394)",Support
+we have to do something about that,Claim,"(41288, 41322)",there is other forms of racial profiling that goes on in America,Claim,"(41126, 41190)",Support
+I'm sure every state in the union has got them,Premise,"(55406, 55452)",Everybody believes that,Claim,"(55381, 55404)",Support
+"600,000 of whom, and maybe some of those have since gotten it, but as of a year ago 600,000 of them were actually eligible for it but they couldn't sign up for it because of the barriers that they had set up",Premise,"(64721, 64928)",there are 1.4 million children in Texas who do not have health insurance,Premise,"(64647, 64719)",Support
+"We cleaned up more brown fields than any other administration in my state's history, 450 of them",Premise,"(71774, 71870)",Texas is number one in industrial pollution,Premise,"(71468, 71511)",Attack
+I agree with that,Claim,"(5655, 5672)",I don't think they ought to look at us in any way other than what we are,Claim,"(5410, 5482)",Support
+we can send some of the money back to the people who pay the bills,Claim,"(88533, 88599)",I believe in limited government,Claim,"(88443, 88474)",Support
+He is a danger,Premise,"(13461, 13475)","it's going to be hard, it's going to be important to rebuild that coalition to keep the pressure on him",Claim,"(13546, 13649)",Support
+I did support it at the time,Premise,"(20493, 20521)","I think in retrospect the lessons there are ones that we should take very, very seriously",Claim,"(20601, 20690)",Support
+"My friend, Senator Spencer Abraham of Michigan, is pushing a law to make sure that Arab-Americans are treated with respect",Premise,"(41324, 41446)",racial profiling isn't just an issue at local police forces,Claim,"(41451, 41510)",Support
+You can't carry a gun into a school,Premise,"(55454, 55489)",Everybody believes that,Claim,"(55381, 55404)",Support
+We've spent $4.7 billion a year in the State of Texas for uninsured people,Premise,"(65151, 65225)","If he's trying to allege that I'm a hard-hearted person and I don't care about children, he's absolutely wrong",Claim,"(65039, 65149)",Support
+"now that the energy prices are high, I guess he's not advocating those big energy taxes right now",Premise,"(72428, 72525)",I'm not in favor of energy taxes,Claim,"(74006, 74038)",Support
+"one of the problems that we have faced in the world is that we are so much more powerful than any single nation has been in relationship to the rest of the world than at any time in history, that I know about, anyway. That there is some resentment of U.S. power",Premise,"(5706, 5967)",I think that the idea of humility is an important one,Claim,"(5972, 6025)",Support
+you can spend your money more wisely than the federal government can,Premise,"(88688, 88756)",I want to have tax relief for all people who pay the bills in America,Claim,"(88601, 88670)",Support
+there are no inspectors now in Iraq,Premise,"(13358, 13393)","it's going to be hard, it's going to be important to rebuild that coalition to keep the pressure on him",Claim,"(13546, 13649)",Support
+"I think in retrospect the lessons there are ones that we should take very, very seriously",Claim,"(20601, 20690)",I think that that was ill-considered,Claim,"(20455, 20491)",Support
+there is other forms of racial profiling that goes on in America,Claim,"(41126, 41190)",racial profiling isn't just an issue at local police forces,Claim,"(41451, 41510)",Support
+Columbine spoke to a larger issue,Premise,"(55570, 55603)",It's really a matter of culture,Claim,"(55605, 55636)",Support
+they get health care,Premise,"(65231, 65251)",We've spent $4.7 billion a year in the State of Texas for uninsured people,Premise,"(65151, 65225)",Support
+I am in favor of tax cuts to encourage and give incentives for the quicker development of these new kinds of technologies,Claim,"(74040, 74161)",I'm not in favor of energy taxes,Claim,"(74006, 74038)",Support
+I think that the idea of humility is an important one,Claim,"(5972, 6025)",we have to be humble,Claim,"(5328, 5348)",Support
+I want to have tax relief for all people who pay the bills in America,Claim,"(88601, 88670)",I do believe in tax relief,Claim,"(88311, 88337)",Support
+the coalition that was in place isn't as strong as it used to be,Premise,"(13395, 13459)","it's going to be hard, it's going to be important to rebuild that coalition to keep the pressure on him",Claim,"(13546, 13649)",Support
+Started off as a humanitarian mission and it changed into a nation-building mission,Premise,"(20943, 21026)",that's where the mission went wrong,Claim,"(21032, 21067)",Support
+It's an issue throughout our society,Claim,"(41512, 41548)",racial profiling isn't just an issue at local police forces,Claim,"(41451, 41510)",Support
+It's a culture that somewhere along the line we've begun to disrespect life,Claim,"(55638, 55713)",It's really a matter of culture,Claim,"(55605, 55636)",Support
+Let me just tell you who the jury is,Premise,"(65772, 65808)",The people of Texas,Premise,"(65810, 65829)",Support
+Detroit is rearing to go on that,Premise,"(74185, 74217)",I am in favor of tax cuts to encourage and give incentives for the quicker development of these new kinds of technologies,Claim,"(74040, 74161)",Support
+We have to protect our capacity to push forward what America's all about,Claim,"(6098, 6170)",I think that we also have to have a sense of mission in the world,Claim,"(6031, 6096)",Support
+We don't want him fishing in troubled waters in the Middle East,Premise,"(13477, 13540)","it's going to be hard, it's going to be important to rebuild that coalition to keep the pressure on him",Claim,"(13546, 13649)",Support
+The mission was changed,Premise,"(21069, 21092)",Started off as a humanitarian mission and it changed into a nation-building mission,Premise,"(20943, 21026)",Support
+we become a diverse society,Premise,"(41557, 41584)",we're going to have to deal with it more and more,Claim,"(41586, 41635)",Support
+Where a child can walk in and have their heart turned dark as a result of being on the Internet and walk in and decide to take somebody else's life,Premise,"(55715, 55862)",It's a culture that somewhere along the line we've begun to disrespect life,Claim,"(55638, 55713)",Support
+"There's only been one governor ever elected to back-to-back four-year terms, and that was me",Premise,"(65831, 65923)",The people of Texas,Premise,"(65810, 65829)",Support
+We differ on whether or not pollution controls ought to be voluntary,Premise,"(74285, 74353)",I don't think you can get results that way,Claim,"(74380, 74422)",Support
+"not only military strength and our values, it also means keeping our economy strong",Claim,"(6183, 6266)",I think that we also have to have a sense of mission in the world,Claim,"(6031, 6096)",Support
+"at the end of that war, for whatever reason, it was not finished in a way that removed Saddam Hussein from power",Premise,"(13945, 14057)",that's the situation that was left when I got there,Claim,"(14142, 14193)",Support
+that's where the mission went wrong,Claim,"(21032, 21067)","as a result, our nation paid a price",Claim,"(21098, 21134)",Support
+we're going to have to deal with it more and more,Claim,"(41586, 41635)",It's an issue throughout our society,Claim,"(41512, 41548)",Support
+It's really a matter of culture,Claim,"(55605, 55636)",gun laws are important,Claim,"(55867, 55889)",Support
+"I was able to do so with a lot of Democrat votes, nearly 50% of the Hispanic vote, about 27% of the African-American vote",Premise,"(65929, 66050)",people know I'm a conservative person and a compassionate person,Claim,"(66060, 66124)",Support
+I don't think you can get results that way,Claim,"(74380, 74422)",We differ on the kinds of appointments that we would make,Claim,"(74424, 74481)",Support
+"in the last, or two decades ago, it was routine for leaders of foreign countries to come over here and say you guys have got to do something about these horrendous deficits because it's causing tremendous problems for the rest of the world",Premise,"(6278, 6517)",The fact that we have the strongest economy in history today is not good enough,Claim,"(6557, 6636)",Support
+"when I got to be a part of the current administration, it was right after -- I was one of the few members of my political party to support former President Bush in the Persian Gulf War resolution",Premise,"(13744, 13939)",that's the situation that was left when I got there,Claim,"(14142, 14193)",Support
+I don't think our troops ought to be used for what's called nation-building,Claim,"(21143, 21218)",that's where the mission went wrong,Claim,"(21032, 21067)",Support
+They're tolerant people,Premise,"(41731, 41754)","I believe, as sure as I'm sitting here, that most Americans really care",Claim,"(41658, 41729)",Support
+"Some desperate child needs to have somebody put their arm around them and say, we love you",Premise,"(56037, 56127)","so is loving children, and character education classes, and faith-based programs being a part of after-school programs",Claim,"(55917, 56035)",Support
+"There's only been one governor ever elected to back-to-back four-year terms, and that was me",Premise,"(65831, 65923)",people know I'm a conservative person and a compassionate person,Claim,"(66060, 66124)",Support
+"I'm really strongly committed to clean water and clean air, and cleaning up the new kinds of challenges like global warming",Claim,"(73864, 73987)",We differ on the kinds of appointments that we would make,Claim,"(74424, 74481)",Support
+we were lectured to all the time,Premise,"(6523, 6555)",The fact that we have the strongest economy in history today is not good enough,Claim,"(6557, 6636)",Support
+that's the situation that was left when I got there,Claim,"(14142, 14193)",I want to go further,Claim,"(14237, 14257)",Support
+I think our troops ought to be used to fight and win war,Claim,"(21220, 21276)",I don't think our troops ought to be used for what's called nation-building,Claim,"(21143, 21218)",Support
+"They're good, tolerant people",Premise,"(41756, 41785)","I believe, as sure as I'm sitting here, that most Americans really care",Claim,"(41658, 41729)",Support
+"there seems to be a lot of preoccupation on -- not certainly only in this debate, but just in general on law",Premise,"(56276, 56384)",there's a larger law,Claim,"(56390, 56410)",Support
+We come together both Republicans and Democrats,Premise,"(66242, 66289)",I'm just telling you our state comes together to do what is right,Claim,"(66175, 66240)",Support
+I am in favor of tax cuts to encourage and give incentives for the quicker development of these new kinds of technologies,Claim,"(74040, 74161)",We differ on the kinds of appointments that we would make,Claim,"(74424, 74481)",Support
+The fact that we have the strongest economy in history today is not good enough,Claim,"(6557, 6636)",We need to do more,Claim,"(6638, 6656)",Support
+I want to give robust support to the groups that are trying to overthrow Saddam Hussein,Claim,"(14259, 14346)",I want to go further,Claim,"(14237, 14257)",Support
+I think our troops ought to be used to help overthrow the dictator when it's in our best interests,Claim,"(21278, 21376)",I don't think our troops ought to be used for what's called nation-building,Claim,"(21143, 21218)",Support
+It's the very few that create most of the crises,Premise,"(41787, 41835)",we just have to find them and deal with them,Claim,"(41841, 41885)",Support
+we can enforce law,Premise,"(56252, 56270)","there seems to be a lot of preoccupation on -- not certainly only in this debate, but just in general on law",Premise,"(56276, 56384)",Support
+I don't claim to know his heart,Premise,"(66604, 66635)",it's not a statement about his heart,Claim,"(66566, 66602)",Support
+I believe Washington ought to set standards,Claim,"(74952, 74995)","I don't believe in command and control out of Washington, D.C.",Claim,"(74889, 74951)",Support
+We need to do more,Claim,"(6638, 6656)",I think that we also have to have a sense of mission in the world,Claim,"(6031, 6096)",Support
+there are allegations that they're too weak to do it,Premise,"(14359, 14411)",I want to give robust support to the groups that are trying to overthrow Saddam Hussein,Claim,"(14259, 14346)",Support
+in this case it was a nation-building exercise,Premise,"(21382, 21428)",I don't think our troops ought to be used for what's called nation-building,Claim,"(21143, 21218)",Support
+She had one of the greatest lines of all lines,Premise,"(42310, 42356)",She's right,Claim,"(42400, 42411)",Support
+Love your neighbor like you would like to be loved yourself,Premise,"(56412, 56471)",there's a larger law,Claim,"(56390, 56410)",Support
+I make no allegations about that,Premise,"(66665, 66697)",I think he's a good person,Claim,"(66637, 66663)",Support
+I think we ought to be collaborative at the local levels,Claim,"(75007, 75063)","I don't believe in command and control out of Washington, D.C.",Claim,"(74889, 74951)",Support
+"Take, for example, Third World debt",Premise,"(6919, 6954)","Yes, it does",Claim,"(6905, 6917)",Support
+but that's what they said about the forces that were opposing Milosevic in Serbia,Premise,"(14413, 14494)",there are allegations that they're too weak to do it,Premise,"(14359, 14411)",Support
+same with Haiti,Premise,"(21434, 21449)",in this case it was a nation-building exercise,Premise,"(21382, 21428)",Support
+"My friend, Phyllis Hunter, is here",Premise,"(42274, 42308)",She had one of the greatest lines of all lines,Premise,"(42310, 42356)",Support
+that's where our society must head,Claim,"(56477, 56511)",there's a larger law,Claim,"(56390, 56410)",Support
+I believe him when he says that he has a good heart,Claim,"(66699, 66750)",I think he's a good person,Claim,"(66637, 66663)",Support
+I think we ought to work with people at the local levels,Claim,"(75068, 75124)","I don't believe in command and control out of Washington, D.C.",Claim,"(74889, 74951)",Support
+I think we ought to be forgiving Third World debt under certain conditions,Claim,"(6956, 7030)","Yes, it does",Claim,"(6905, 6917)",Support
+the policy of enforcing sanctions against Serbia has just resulted in a spectacular victory for democracy just in the past week,Premise,"(14510, 14637)",but that's what they said about the forces that were opposing Milosevic in Serbia,Premise,"(14413, 14494)",Support
+I don't think our troops ought to be used for what's called nation-building,Claim,"(21143, 21218)",I wouldn't have supported either,Claim,"(21451, 21483)",Support
+"She said, reading is the new civil right",Premise,"(42358, 42398)",She had one of the greatest lines of all lines,Premise,"(42310, 42356)",Support
+if we're going to be a peaceful and prosperous society,Premise,"(56512, 56566)",that's where our society must head,Claim,"(56477, 56511)",Support
+I know enough about your story to admire a lot of the things that you have done as a person,Premise,"(66752, 66843)",I believe him when he says that he has a good heart,Claim,"(66699, 66750)",Support
+The electric decontrol bill that I fought for and signed in Texas has mandatory emission standards,Premise,"(75225, 75323)",That's what we ought to do at the federal level when it comes to grandfathered plants for utilities,Claim,"(75345, 75444)",Support
+"Yes, it does",Claim,"(6905, 6917)",We need to do more,Claim,"(6638, 6656)",Support
+"it seems to me that having taken so long to see the sanctions work there, building upon the policy of containment that was successful over a much longer period of time against the former Soviet Union in the communist block",Premise,"(14643, 14865)",the policy of enforcing sanctions against Serbia has just resulted in a spectacular victory for democracy just in the past week,Premise,"(14510, 14637)",Support
+no one liked to see it on our TV screens,Premise,"(22102, 22142)",It was a horrible situation,Premise,"(22073, 22100)",Support
+She's right,Claim,"(42400, 42411)",Let me tell you where the biggest discrimination comes. In public education when we just move children through the schools,Claim,"(42150, 42272)",Support
+I agree with a lot of the other things that the governor has said,Premise,"(56613, 56678)",I also believe in the Golden Rule,Claim,"(56574, 56607)",Support
+"if you were the governor of a state that was dead last in health care for families, and all of a sudden you found yourself with the biggest surplus your state had ever had in its history, wouldn't you want to maybe use some of it to climb from 50th to, say, 45 or 40 or something or maybe better?",Premise,"(67033, 67329)",I would,Claim,"(9054, 9061)",Support
+I certainly would have consulted with governors and elected officials before I would have acted unilaterally,Claim,"(75815, 75923)",That's not the way I would have done it,Claim,"(75721, 75760)",Support
+"for example, if we're convinced that a Third World country that's got a lot of debt would reform itself",Premise,"(7041, 7144)",I think we ought to be forgiving Third World debt under certain conditions,Claim,"(6956, 7030)",Support
+they're trying to break out of the box,Premise,"(15160, 15198)",I don't think they should be allowed to,Claim,"(15230, 15269)",Support
+it's a case where we need to make sure we have an early warning system in place in places where there could be ethnic cleansing and genocide the way we saw it there in Rwanda,Premise,"(22148, 22322)",we need to use our influence to have countries in Africa come together and help deal with the situation,Claim,"(22348, 22451)",Support
+I mean every child,Claim,"(42527, 42545)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+We do have a serious problem in our culture,Claim,"(56680, 56723)",It's really a matter of culture,Claim,"(55605, 55636)",Support
+I would,Claim,"(9054, 9061)",I think it's about his priorities,Claim,"(66849, 66882)",Support
+So long as people have input,Claim,"(76174, 76202)","Sure, absolutely, so long as they're based upon science and they're reasonable",Claim,"(76094, 76172)",Support
+that the money wouldn't go into the hands of a few but would go to help people,Premise,"(7146, 7224)",I think we ought to be forgiving Third World debt under certain conditions,Claim,"(6956, 7030)",Support
+"all of these flights that have come in, all of them have been in accordance with the sanctions regime, I'm told, except for three where they notified",Premise,"(15005, 15154)",I don't think they should be allowed to,Claim,"(15230, 15269)",Support
+It was a horrible situation,Premise,"(22073, 22100)",we need to use our influence to have countries in Africa come together and help deal with the situation,Claim,"(22348, 22451)",Support
+It starts with making sure every child learns to read,Premise,"(42547, 42600)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+She's worked on it longer than I have,Premise,"(56813, 56850)",Tipper and I have worked on the problem of violence in entertainment aimed at children,Premise,"(56725, 56811)",Support
+it's directly relevant,Claim,"(67360, 67382)",I would,Claim,"(9054, 9061)",Support
+I don't think we know the solution to global warming yet,Claim,"(76311, 76367)",I think it's an issue that we need to take very seriously,Claim,"(76248, 76305)",Support
+"I think it makes sense for us to use our wealth in that way, or to trade debt for valuable rain forest lands, makes that much sense, yes",Claim,"(7226, 7362)",I think we ought to be forgiving Third World debt under certain conditions,Claim,"(6956, 7030)",Support
+I want them to be tougher,Claim,"(15420, 15445)","No, of course not",Claim,"(15385, 15402)",Support
+the administration made the right decision on training Nigerian troops for situations just such as this in Rwanda,Claim,"(22528, 22641)",I thought they made the right decision not to send U.S. troops into Rwanda,Claim,"(22650, 22724)",Support
+K-2 diagnostic testing so we know whether or not there's a deficiency,Premise,"(42602, 42671)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+I feel very strongly about that,Premise,"(56856, 56887)",Tipper and I have worked on the problem of violence in entertainment aimed at children,Premise,"(56725, 56811)",Support
+"by his own budget numbers, his proposals for spending on tax cuts for the wealthiest of the wealthy are more than the new spending proposals that he has made for health care and education and national defense all combined",Premise,"(67397, 67618)",it's directly relevant,Claim,"(67360, 67382)",Support
+Like Kyoto Treaty would have done,Premise,"(76570, 76603)",I'm not going to let the United States carry the burden for cleaning up the world's air,Claim,"(76481, 76568)",Support
+we can't put our troops all around the world,Premise,"(7465, 7509)","We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)",Support
+"No, of course not",Claim,"(15385, 15402)",seems a little early to declare that we should give up on the sanctions,Claim,"(14867, 14938)",Attack
+"We did, actually, send troops into Rwanda to help with the humanitarian relief measures",Premise,"(22949, 23036)",I think in retrospect we were too late getting in there,Claim,"(23159, 23214)",Support
+Curriculum that works and phonics needs to be an integral part of our reading curriculum,Premise,"(42673, 42761)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+Tipper and I have worked on the problem of violence in entertainment aimed at children,Premise,"(56725, 56811)","if I'm elected president, I will do something about that",Claim,"(56893, 56949)",Support
+According to his own numbers,Premise,"(67620, 67648)","by his own budget numbers, his proposals for spending on tax cuts for the wealthiest of the wealthy are more than the new spending proposals that he has made for health care and education and national defense all combined",Premise,"(67397, 67618)",Support
+I don't think we've got all the facts before we make decisions,Claim,"(76373, 76435)",I'm not going to let the United States carry the burden for cleaning up the world's air,Claim,"(76481, 76568)",Support
+We can help build coalitions,Premise,"(7432, 7460)","We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)",Support
+seems a little early to declare that we should give up on the sanctions,Claim,"(14867, 14938)",I want to go further,Claim,"(14237, 14257)",Support
+"My wife Tipper, who is here, actually went on a military plane with General Sholicatchvieli on one of those flights",Premise,"(23038, 23153)","We did, actually, send troops into Rwanda to help with the humanitarian relief measures",Premise,"(22949, 23036)",Support
+"Intensive reading laboratories, teacher retraining",Premise,"(42763, 42813)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+"if I'm elected president, I will do something about that",Claim,"(56893, 56949)",We do have a serious problem in our culture,Claim,"(56680, 56723)",Support
+it's not a question of his heart,Claim,"(67653, 67685)",I think it's about his priorities,Claim,"(66849, 66882)",Support
+China and India were exempted from that treaty,Premise,"(76605, 76651)",I'm not going to let the United States carry the burden for cleaning up the world's air,Claim,"(76481, 76568)",Support
+We can lend money but we have to do it wisely,Claim,"(7511, 7556)","We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)",Support
+We could have saved more lives if we had acted earlier,Premise,"(23216, 23270)",I think in retrospect we were too late getting in there,Claim,"(23159, 23214)",Support
+"there needs to be a wholesale effort against racial profiling, which is illiterate children",Claim,"(42823, 42914)","to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Support
+I don't think that we can ignore the role played by guns,Claim,"(57026, 57082)","so is loving children, and character education classes, and faith-based programs being a part of after-school programs",Claim,"(55917, 56035)",Attack
+It's a question of priorities and values,Claim,"(67705, 67745)",I think it's about his priorities,Claim,"(66849, 66882)",Support
+I'm not going to let the United States carry the burden for cleaning up the world's air,Claim,"(76481, 76568)",I think we need to be more even-handed,Claim,"(76653, 76691)",Support
+We shouldn't be lending money to corrupt officials,Premise,"(7558, 7608)","We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)",Support
+"One of the criteria that I think is important in deciding when and if we should ever get involved around the world is whether or not our national security interest is involved, if we can really make the difference with military forces. If we tried everything else, if we have allies",Claim,"(23420, 23702)",I do not think that it was an example of a conflict where we should have put our troops in to try to separate the parties for this reason,Claim,"(23276, 23413)",Support
+We can close an achievement gap,Claim,"(42956, 42987)",We can do better in our public schools,Claim,"(42916, 42954)",Support
+"even though no state wants them, there are guns in some schools",Premise,"(57118, 57181)",I don't think that we can ignore the role played by guns,Claim,"(57026, 57082)",Support
+that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending,Claim,"(67809, 67849)","by his own budget numbers, his proposals for spending on tax cuts for the wealthiest of the wealthy are more than the new spending proposals that he has made for health care and education and national defense all combined",Premise,"(67397, 67618)",Attack
+as evidently 99 senators -- I think it was 99 senators supported that position,Premise,"(76693, 76771)",I think we need to be more even-handed,Claim,"(76653, 76691)",Support
+we got to be guarded in our generosity,Claim,"(7613, 7651)","We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)",Support
+In Africa we did not,Premise,"(23807, 23827)","In the Balkans we have allies, NATO, ready, willing and able to go and carry a big part of the burden",Premise,"(23704, 23805)",Support
+it starts with making sure we have strong accountability,Claim,"(42993, 43049)",We can do better in our public schools,Claim,"(42916, 42954)",Support
+in recent years there has been a flood of cheap handguns that are so widely available that kids are finding ways to get ahold of them,Premise,"(57255, 57388)",it's so difficult for schools to control that,Claim,"(57198, 57243)",Support
+The top 1% will pay one-third of all the federal income taxes,Premise,"(68064, 68125)",that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending,Claim,"(67809, 67849)",Support
+I'm not for command and control techniques either,Claim,"(77080, 77129)","I'm for working with the groups, not just with industry but also with the citizen groups and local communities",Claim,"(77131, 77241)",Support
+"We do have an obligation, but we can't be all things to all people",Claim,"(7364, 7430)","Yes, it does",Claim,"(6905, 6917)",Support
+"We have had some luck with Nigeria, but in Sierra Leon, and now that Nigeria has become a democracy, and we hope it stays that way, then maybe we can build on that",Premise,"(23952, 24115)","our country has tried to create an Africa crisis response team there, and we've met some resistance",Premise,"(23851, 23950)",Support
+"One of the cornerstones of reform, and good reform, is to measure",Claim,"(43056, 43121)",it starts with making sure we have strong accountability,Claim,"(42993, 43049)",Support
+if you look at the situation as it exists here in the United States compared to any other country in the world,Premise,"(57407, 57517)",we do need some common sense gun safety steps to stem this flood of guns that are getting into the wrong hands,Claim,"(57608, 57718)",Support
+let's talk about my tax plan,Premise,"(68034, 68062)",that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending,Claim,"(67809, 67849)",Support
+to control sprawl in ways that the local communities themselves come up with,Premise,"(77242, 77318)","I'm for working with the groups, not just with industry but also with the citizen groups and local communities",Claim,"(77131, 77241)",Support
+it was very unclear that we could actually accomplish what we would want to accomplish about putting military forces there,Premise,"(24158, 24280)","I think it was the right thing not to jump in, as heartbreaking as it was",Claim,"(24282, 24355)",Support
+"when you measure you can ask the question, do they know? Is anybody being profiled? Is anybody being discriminated against?",Premise,"(43131, 43254)","One of the cornerstones of reform, and good reform, is to measure",Claim,"(43056, 43121)",Support
+we do need some common sense gun safety steps to stem this flood of guns that are getting into the wrong hands,Claim,"(57608, 57718)",it's so difficult for schools to control that,Claim,"(57198, 57243)",Support
+"in return, get one-fifth of the benefits, because most of the tax reductions go to the people at the bottom end of the economic ladder",Premise,"(68131, 68265)",that's simply not true what he just said That we spent -- the top 1% receive 223 as opposed to 445 billion in new spending,Claim,"(67809, 67849)",Support
+I think that we do,Claim,"(77383, 77401)",I disagree that we don't know the cause of global warming,Claim,"(77324, 77381)",Support
+we had no allies,Premise,"(24129, 24145)","I think it was the right thing not to jump in, as heartbreaking as it was",Claim,"(24282, 24355)",Support
+"It becomes a tool, a corrective tool",Premise,"(43255, 43291)","One of the cornerstones of reform, and good reform, is to measure",Claim,"(43056, 43121)",Support
+"Some kid who feels like -- doesn't matter where the gun comes from, it could be a cheap gun, expensive gun",Claim,"(57814, 57920)",What matters is something in this person's head says there is not going to be a consequence,Claim,"(57922, 58013)",Support
+"That stands in stark contrast, by the way, to a man who is going to leave 50 million -- 50 million Americans out of tax relief",Claim,"(68267, 68393)",We just have a different point of view,Claim,"(68395, 68433)",Support
+I disagree that we don't know the cause of global warming,Claim,"(77324, 77381)",I don't think we know the solution to global warming yet,Claim,"(76311, 76367)",Attack
+"I think it was the right thing not to jump in, as heartbreaking as it was",Claim,"(24282, 24355)",I think the administration did the right thing in that case,Claim,"(22006, 22065)",Support
+"if they're not, there has to be a consequence",Claim,"(43535, 43580)","if they are, fine",Claim,"(43512, 43529)",Support
+What matters is something in this person's head says there is not going to be a consequence,Claim,"(57922, 58013)",there also needs to be strong enforcement of the law,Claim,"(57760, 57812)",Support
+He believes only the right people ought to get tax relief,Premise,"(68475, 68532)",We just have a different point of view,Claim,"(68395, 68433)",Support
+"It's pollution, carbon dioxide, and other chemicals that are even more potent, but in smaller quantities, that cause this",Premise,"(77403, 77524)",I think that we do,Claim,"(77383, 77401)",Support
+I think in retrospect we were too late getting in there,Claim,"(23159, 23214)",I think we should have come in much quicker with the humanitarian mission,Claim,"(24361, 24434)",Support
+There is nothing more prejudiced than not educating a child,Premise,"(43668, 43727)",make sure we end up getting rid of basic structural prejudice is education,Claim,"(43592, 43666)",Support
+in my state we toughen up the juvenile justice laws,Premise,"(58018, 58069)",We're tough,Claim,"(58086, 58097)",Support
+I believe everybody who pays taxes ought to get tax relief,Claim,"(68534, 68592)",We just have a different point of view,Claim,"(68395, 68433)",Support
+the world's temperature is going up,Premise,"(77532, 77567)",I think that we do,Claim,"(77383, 77401)",Support
+Vice President mentioned Nigeria is a fledgling democracy,Premise,"(24790, 24847)",we've got to do a lot of work in Africa to promote democracy and trade,Claim,"(24696, 24766)",Support
+make sure we end up getting rid of basic structural prejudice is education,Claim,"(43592, 43666)",Let me tell you where the biggest discrimination comes. In public education when we just move children through the schools,Claim,"(42150, 42272)",Support
+We added beds,Premise,"(58071, 58084)",We're tough,Claim,"(58086, 58097)",Support
+We pay 4.7 billion,Premise,"(68646, 68664)","Let me go back to Texas, for example, for a minute",Premise,"(68594, 68644)",Support
+weather patterns are changing,Premise,"(77569, 77598)",I think that we do,Claim,"(77383, 77401)",Support
+We have to work with Nigeria,Claim,"(24849, 24877)",we've got to do a lot of work in Africa to promote democracy and trade,Claim,"(24696, 24766)",Support
+"to make sure our society is as hopeful as it possibly can be, every single child in America must be educated",Claim,"(42417, 42525)",Let me tell you where the biggest discrimination comes. In public education when we just move children through the schools,Claim,"(42150, 42272)",Support
+We believe in tough love,Claim,"(58099, 58123)",We're tough,Claim,"(58086, 58097)",Support
+I can't emphasize to you how much,Premise,"(68666, 68699)",We pay 4.7 billion,Premise,"(68646, 68664)",Support
+storms are getting more violent and unpredictable,Premise,"(77600, 77649)",I think that we do,Claim,"(77383, 77401)",Support
+It's an important continent,Claim,"(24879, 24906)",we've got to do a lot of work in Africa to promote democracy and trade,Claim,"(24696, 24766)",Support
+I think we still need affirmative action,Claim,"(43908, 43948)",I think we need tough enforcement of the civil rights laws,Claim,"(43848, 43906)",Support
+"We say, if you get caught carrying a gun, you're automatically detained",Premise,"(58125, 58196)",We're tough,Claim,"(58086, 58097)",Support
+I signed a bill that puts CHIPS in place,Premise,"(68701, 68741)","Let me go back to Texas, for example, for a minute",Premise,"(68594, 68644)",Support
+What are we going to tell our children?,Premise,"(77651, 77690)",I believe that -- that we ought to recognize the value to our children and grandchildren of taking steps that preserve the environment in a way that's good for them,Claim,"(77996, 78160)",Support
+for a lot of reasons,Premise,"(24972, 24992)",Middle East is a priority,Claim,"(24946, 24971)",Support
+I would pass a hate crimes law,Claim,"(43950, 43980)",I think we need tough enforcement of the civil rights laws,Claim,"(43848, 43906)",Support
+that's what needs to happen,Claim,"(58202, 58229)",We're tough,Claim,"(58086, 58097)",Support
+The bill finally came out at the end of the 1999 session,Premise,"(68743, 68799)",I signed a bill that puts CHIPS in place,Premise,"(68701, 68741)",Support
+I'm a grandfather now,Premise,"(77691, 77712)",I believe that -- that we ought to recognize the value to our children and grandchildren of taking steps that preserve the environment in a way that's good for them,Claim,"(77996, 78160)",Support
+there's got to be priorities,Premise,"(24912, 24940)",Middle East is a priority,Claim,"(24946, 24971)",Support
+"the law that was proposed in Texas that had the support of the Byrd family and a whole lot of people in Texas did, in fact, die in committee",Premise,"(45394, 45534)",I may have been misled by all the news reports about this matter,Claim,"(45320, 45384)",Support
+"If laws need to be strengthened, like instant background checks",Premise,"(58247, 58310)",that's important,Claim,"(11731, 11747)",Support
+"We're doing it faster than any other state our size, comparable state",Premise,"(68841, 68910)",We're working hard to sign up children,Claim,"(68801, 68839)",Support
+I want to be able to tell my grandson when I'm in my later years that I didn't turn away from the evidence that showed that we were doing some serious harm,Premise,"(77714, 77869)",I believe that -- that we ought to recognize the value to our children and grandchildren of taking steps that preserve the environment in a way that's good for them,Claim,"(77996, 78160)",Support
+as is Europe and the Far East,Claim,"(24994, 25023)",Middle East is a priority,Claim,"(24946, 24971)",Support
+"There may be some other statute that was already on the books, but certainly the advocates of the hate crimes law felt that a tough new law was needed",Premise,"(45536, 45686)",it's important,Claim,"(9953, 9967)",Support
+We've got laws,Premise,"(58231, 58245)",We're tough,Claim,"(58086, 58097)",Support
+"Let me go back to Texas, for example, for a minute",Premise,"(68594, 68644)",We're working hard to sign up children,Claim,"(68801, 68839)",Support
+"In my faith tradition, it is -- it's written in the book of Matthew, ""Where your heart is, there is your treasure also.""",Premise,"(77871, 77991)",I believe that -- that we ought to recognize the value to our children and grandchildren of taking steps that preserve the environment in a way that's good for them,Claim,"(77996, 78160)",Support
+our own hemisphere,Premise,"(25025, 25043)",as is Europe and the Far East,Claim,"(24994, 25023)",Support
+"not just because of Texas, but because this mirrors the national controversy",Premise,"(45725, 45801)",it's important,Claim,"(9953, 9967)",Support
+that's important,Claim,"(11731, 11747)",We're tough,Claim,"(58086, 58097)",Support
+We're making really good progress,Premise,"(68912, 68945)",We're working hard to sign up children,Claim,"(68801, 68839)",Support
+I agree,Claim,"(5674, 5681)",I believe that -- that we ought to recognize the value to our children and grandchildren of taking steps that preserve the environment in a way that's good for them,Claim,"(77996, 78160)",Support
+not to say we won't be engaged nor work hard to get other nations to come together to prevent atrocity,Claim,"(25109, 25211)",those are my four top priorities should I be the president,Claim,"(25049, 25107)",Support
+because of James Byrd,Premise,"(45867, 45888)",There is pending now in the Congress a national hate crimes law,Claim,"(45803, 45866)",Support
+our state cares a lot about our children,Claim,"(68951, 68991)",We're working hard to sign up children,Claim,"(68801, 68839)",Support
+global warming needs to be taken very seriously,Claim,"(79252, 79299)",I take it seriously,Claim,"(79305, 79324)",Support
+"I thought the best example of a way to handle the situation was East Timor when we provided logistical support to the Australians, support that only we can provide",Premise,"(25213, 25376)",I thought that was a good model,Claim,"(25378, 25409)",Support
+"because of Matthew Shepard, who was crucified on a split rail fence by bigots",Premise,"(45890, 45967)",There is pending now in the Congress a national hate crimes law,Claim,"(45803, 45866)",Support
+We're working hard to sign up children,Claim,"(68801, 68839)",We just have a different point of view,Claim,"(68395, 68433)",Support
+"But science, there's a lot -- there's differing opinions",Premise,"(79326, 79382)","before we react, I think it's best to have the full accounting, full understanding of what's taking place",Claim,"(79388, 79493)",Support
+we can't be all things to all people in the world,Premise,"(25415, 25464)",I think that's where maybe the vice president and I begin to have some differences,Claim,"(25475, 25557)",Support
+because of others,Premise,"(45973, 45990)",There is pending now in the Congress a national hate crimes law,Claim,"(45803, 45866)",Support
+"These folks have had eight years to get something done in Washington, D.C. on the uninsured",Premise,"(69048, 69139)",They have not done it,Claim,"(69141, 69162)",Support
+I just cited an example of the administration just unilaterally acting without any input,Premise,"(79694, 79782)",We may have different approaches in terms of how we deal with local folks,Premise,"(79619, 79692)",Support
+I'm worried about overcommitting our military around the world,Premise,"(25559, 25621)",I think that's where maybe the vice president and I begin to have some differences,Claim,"(25475, 25557)",Support
+There is pending now in the Congress a national hate crimes law,Claim,"(45803, 45866)",it's important,Claim,"(9953, 9967)",Support
+They've had eight years to get something done on Medicare,Premise,"(69164, 69221)",they have not got it done,Claim,"(69227, 69252)",Support
+We may have different approaches in terms of how we deal with local folks,Premise,"(79619, 79692)",We may have different approaches,Premise,"(79585, 79617)",Support
+I want to be judicious in its use,Claim,"(25623, 25656)",I think that's where maybe the vice president and I begin to have some differences,Claim,"(25475, 25557)",Support
+because of the same kind of opposition,Premise,"(46032, 46070)",that law has died in committee,Claim,"(45996, 46026)",Support
+if you want change,Premise,"(69377, 69395)",you need to get somebody that knows how to bring Republicans and Democrats together to get positive things done for America,Claim,"(69397, 69520)",Support
+"I remember you gave a very good answer to New Hampshire about the White Mountains, about how it was important to keep that collaborative effort in place",Premise,"(79788, 79940)",I feel very strongly the same place,Claim,"(79942, 79977)",Support
+I wouldn't have sent troops to Haiti,Claim,"(25679, 25715)",I think that's where maybe the vice president and I begin to have some differences,Claim,"(25475, 25557)",Support
+it's important,Claim,"(9953, 9967)",Absolutely,Claim,"(16510, 16520)",Support
+"if you're happy with inactivity, stay with the horse",Claim,"(69293, 69345)",you need to get somebody that knows how to bring Republicans and Democrats together to get positive things done for America,Claim,"(69397, 69520)",Support
+I didn't think it was a mission worthwhile,Claim,"(25717, 25759)",I wouldn't have sent troops to Haiti,Claim,"(25679, 25715)",Support
+if you have a state that fully supports the law like we do in Texas,Premise,"(46449, 46516)",we're going to go after all crime,Claim,"(46518, 46551)",Support
+It was a nation building mission,Premise,"(25761, 25793)",I didn't think it was a mission worthwhile,Claim,"(25717, 25759)",Support
+in this case we can't enhance the penalty any more than putting those three thugs to death,Premise,"(46621, 46711)",we're going to make sure people get punished for the crime,Claim,"(46557, 46615)",Support
+it was not very successful,Premise,"(25799, 25825)",I didn't think it was a mission worthwhile,Claim,"(25717, 25759)",Support
+we're going to make sure people get punished for the crime,Claim,"(46557, 46615)",that's what's gonna happen in the State of Texas,Claim,"(46717, 46765)",Support
+"It cost us billions, a couple billions of dollars",Premise,"(25827, 25876)",I didn't think it was a mission worthwhile,Claim,"(25717, 25759)",Support
+we're going to go after all crime,Claim,"(46518, 46551)",that's what's gonna happen in the State of Texas,Claim,"(46717, 46765)",Support
+I'm not so sure democracy is any better off in Haiti than it was before,Premise,"(25882, 25953)",I didn't think it was a mission worthwhile,Claim,"(25717, 25759)",Support
+I would certainly also be judicious in evaluating any potential use of American troops overseas,Claim,"(26171, 26266)",I don't think we agree on that,Claim,"(26139, 26169)",Support
+I think we have to be very reticent about that,Claim,"(26268, 26314)",I would certainly also be judicious in evaluating any potential use of American troops overseas,Claim,"(26171, 26266)",Support
+the world is getting much closer together,Premise,"(26383, 26424)",the United States is now the natural leader of the world,Claim,"(26456, 26512)",Support
+the world is changing so rapidly,Premise,"(26331, 26363)",the United States is now the natural leader of the world,Claim,"(26456, 26512)",Support
+All these other countries are looking to us,Premise,"(26514, 26557)",the United States is now the natural leader of the world,Claim,"(26456, 26512)",Support
+"just because we cannot be involved everywhere, and shouldn't be, doesn't mean that we should shy away from going in anywhere",Claim,"(26564, 26688)",the United States is now the natural leader of the world,Claim,"(26456, 26512)",Support
+I don't think we agree on that,Claim,"(26139, 26169)",I think that's where maybe the vice president and I begin to have some differences,Claim,"(25475, 25557)",Support
+"just because we cannot be involved everywhere, and shouldn't be, doesn't mean that we should shy away from going in anywhere",Claim,"(26564, 26688)",I wouldn't have sent troops to Haiti,Claim,"(25679, 25715)",Attack
+This idea of nation building is kind of a pejorative phrase,Premise,"(26826, 26885)","During the years between World War I and World War II, a great lesson was learned by our military leaders and the people of the United States",Claim,"(26957, 27098)",Support
+"The lesson was that in the aftermath of World War I, we kind of turned our backs and left them to their own devices and they brewed up a lot of trouble that quickly became World War II",Premise,"(27100, 27284)","During the years between World War I and World War II, a great lesson was learned by our military leaders and the people of the United States",Claim,"(26957, 27098)",Support
+"acting upon that lesson in the aftermath of our great victory in World War II, we laid down the Marshall Plan, President Truman did",Premise,"(27290, 27421)",We were nation building,Claim,"(27593, 27616)",Support
+We got intimately involved in building NATO and other structures there,Premise,"(27423, 27493)",We were nation building,Claim,"(27593, 27616)",Support
+We still have lots of troops in Europe,Premise,"(27495, 27533)",We were nation building,Claim,"(27593, 27616)",Support
+it was economic,Premise,"(27622, 27637)",We were nation building,Claim,"(27593, 27616)",Support
+it was also military,Premise,"(27643, 27663)",We were nation building,Claim,"(27593, 27616)",Support
+the confidence that those countries recovering from the wounds of war had by having troops there,Premise,"(27669, 27765)",We were nation building,Claim,"(27593, 27616)",Support
+We had civil administrators come in to set up their ways of building their towns back,Premise,"(27767, 27852)",We were nation building,Claim,"(27593, 27616)",Support
+we can't do that,Claim,"(28279, 28295)",I think one of the lessons in between World War I and World War II is we let our military atrophy,Claim,"(28176, 28273)",Support
+We've got to rebuild our military,Claim,"(28297, 28330)",we can't do that,Claim,"(28279, 28295)",Support
+"I mentioned one, and that's the Balkans",Premise,"(28430, 28469)",one of the problems we have in the military is we're in a lot of places around the world,Claim,"(28336, 28424)",Support
+I would very much like to get our troops out of there,Premise,"(28471, 28524)","I mentioned one, and that's the Balkans",Premise,"(28430, 28469)",Support
+That would be an abrogation of our agreement with NATO,Premise,"(28601, 28655)",we can't do it now,Claim,"(28538, 28556)",Support
+there is an example,Premise,"(28817, 28836)",I think it ought to be one of our priorities to work with our European friends to convince them to put troops on the ground,Claim,"(28688, 28811)",Support
+Haiti is another example,Premise,"(28838, 28862)",one of the problems we have in the military is we're in a lot of places around the world,Claim,"(28336, 28424)",Support
+The hemisphere is in our interest to have a peaceful Columbia,Premise,"(29047, 29108)",I think it's important for us to be training Columbians in that part of the world,Claim,"(28964, 29045)",Support
+I think what we need to do is convince people who live in the lands they live in to build the nations,Claim,"(29455, 29556)",I don't think so,Claim,"(29437, 29453)",Support
+Our military is meant to fight and win war,Premise,"(29681, 29723)",Absolutely not,Claim,"(29665, 29679)",Support
+That's what it's meant to do,Premise,"(29725, 29753)",Our military is meant to fight and win war,Premise,"(29681, 29723)",Support
+"when it gets overextended, morale drops",Claim,"(29759, 29798)",Absolutely not,Claim,"(29665, 29679)",Support
+"not only to keep the peace in the peninsula, but to keep regional stability",Premise,"(29880, 29955)",I strongly believe we need to have a military presence in the Korean peninsula,Claim,"(29800, 29878)",Support
+I'm going to be judicious as to how to use the military,Premise,"(30020, 30075)",I strongly believe we need to keep a presence in NATO,Claim,"(29961, 30014)",Support
+It needs to be in our vital interest,Claim,"(30077, 30113)",Absolutely not,Claim,"(29665, 29679)",Support
+the mission needs to be clear,Claim,"(30115, 30144)",Absolutely not,Claim,"(29665, 29679)",Support
+the extra strategy obvious,Claim,"(30150, 30176)",Absolutely not,Claim,"(29665, 29679)",Support
+I don't disagree with that,Claim,"(30184, 30210)",Absolutely not,Claim,"(29665, 29679)",Support
+That's what we did in Haiti,Premise,"(30360, 30387)","we ought to get our troops home from places like the Balkans as soon as we can, as soon as the mission is complete",Claim,"(30244, 30358)",Support
+There are no more than a handful of American military personnel in Haiti now,Premise,"(30389, 30465)",That's what we did in Haiti,Premise,"(30360, 30387)",Support
+we gave them a chance to restore democracy,Premise,"(30505, 30547)",That's what we did in Haiti,Premise,"(30360, 30387)",Support
+Haitians have their problems,Premise,"(30471, 30499)",That's what we did in Haiti,Premise,"(30360, 30387)",Support
+"we ought to get our troops home from places like the Balkans as soon as we can, as soon as the mission is complete",Claim,"(30244, 30358)",That's really about all we can do,Claim,"(30549, 30582)",Support
+"if you have a situation like that right in our backyard with chaos about to break out and flotillas forming to come across the water, and all kinds of violence there, right in one of our neighboring countries there",Premise,"(30588, 30802)",I think that we did the right thing there,Claim,"(30809, 30850)",Support
+I certainly agree with that,Claim,"(30998, 31025)",we can't allow ourselves to get overextended,Claim,"(30952, 30996)",Support
+I certainly agree with that,Claim,"(30998, 31025)","when it gets overextended, morale drops",Claim,"(29759, 29798)",Support
+I certainly agree with that,Claim,"(30998, 31025)",I've supported building up our capacity,Claim,"(31042, 31081)",Support
+"I've devoted in the budget I've proposed, as I said last week, more than twice as much as the governor has proposed",Premise,"(31083, 31198)",I've supported building up our capacity,Claim,"(31042, 31081)",Support
+I think that it's in better shape now than he generally does,Claim,"(31200, 31260)",I've supported building up our capacity,Claim,"(31042, 31081)",Support
+we have to continue building up readiness and military strength,Claim,"(31439, 31502)",I've supported building up our capacity,Claim,"(31042, 31081)",Support
+"we ought to get our troops home from places like the Balkans as soon as we can, as soon as the mission is complete",Claim,"(30244, 30358)",we have to also be very cautious in the way we use our military,Claim,"(31508, 31571)",Support
+we have to also be very cautious in the way we use our military,Claim,"(31508, 31571)",Absolutely not,Claim,"(29665, 29679)",Support
+"That's a place where we can use our generosity to influence in a positive way, influence nations",Premise,"(32136, 32232)",I believe we ought to have foreign aid,Claim,"(32234, 32272)",Support
+I don't think we ought to just have foreign aid for the sake of foreign aid,Claim,"(32278, 32353)",I believe we ought to have foreign aid,Claim,"(32234, 32272)",Support
+I think foreign aid needs to be used to encourage markets and reform,Claim,"(32355, 32423)",I believe we ought to have foreign aid,Claim,"(32234, 32272)",Support
+I think a lot of times we just spend aid and say we feel better about it and it ends up being spent the wrong way,Claim,"(32425, 32538)",I don't think we ought to just have foreign aid for the sake of foreign aid,Claim,"(32278, 32353)",Support
+there's some pretty egregious examples recently,Premise,"(32544, 32591)",I think a lot of times we just spend aid and say we feel better about it and it ends up being spent the wrong way,Claim,"(32425, 32538)",Support
+"One being Russia, where we had IMF loans that ended up in the pockets of a lot of powerful people and didn't help the nation",Premise,"(32593, 32717)",there's some pretty egregious examples recently,Premise,"(32544, 32591)",Support
+"I don't want to see the IMF out there as a way to say to world bankers, if you make a bad loan, we'll bail you out",Premise,"(32768, 32882)",I think the IMF has got a role in the world,Claim,"(32719, 32762)",Support
+I think the IMF has got a role in the world,Claim,"(32719, 32762)",I believe we ought to have foreign aid,Claim,"(32234, 32272)",Support
+It needs to be available for emergency situations,Claim,"(32884, 32933)",I think the IMF has got a role in the world,Claim,"(32719, 32762)",Support
+I just want to make sure the return is good,Premise,"(33226, 33269)",I'll look at every place where we're investing money,Claim,"(33172, 33224)",Support
+I don't think the IMF ought to be a stop loss for people who ought to be able to evaluate risks themselves,Claim,"(33061, 33167)",I'll look at every place where we're investing money,Claim,"(33172, 33224)",Support
+I believe we ought to have foreign aid,Claim,"(32234, 32272)",I thought the President did the right thing with Mexico and was very strongly supportive of the administration in Mexico,Claim,"(32935, 33055)",Support
+I would make some changes,Claim,"(33345, 33370)",No,Claim,"(18459, 18461)",Support
+I think there need to be reforms in the IMF,Claim,"(33372, 33415)",I would make some changes,Claim,"(33345, 33370)",Support
+"I've generally supported it, but I've seen them make some calls that I thought were highly questionable",Premise,"(33417, 33520)",I think there need to be reforms in the IMF,Claim,"(33372, 33415)",Support
+there's a general agreement in many parts of the world now that there ought to be changes in the IMF,Premise,"(33539, 33639)",I think there need to be reforms in the IMF,Claim,"(33372, 33415)",Support
+I think one of the big issues here that doesn't get nearly enough attention is the issue of corruption,Claim,"(33701, 33803)",No,Claim,"(18459, 18461)",Support
+The governor mentioned it earlier,Premise,"(33805, 33838)",I think one of the big issues here that doesn't get nearly enough attention is the issue of corruption,Claim,"(33701, 33803)",Support
+I've worked on this issue,Premise,"(33840, 33865)",I think one of the big issues here that doesn't get nearly enough attention is the issue of corruption,Claim,"(33701, 33803)",Support
+It's an enormous problem,Premise,"(33867, 33891)",I think one of the big issues here that doesn't get nearly enough attention is the issue of corruption,Claim,"(33701, 33803)",Support
+"corruption in official agencies, like militaries and police departments around the world, customs officials, that's one of the worst forms of it",Premise,"(33896, 34040)",I think one of the big issues here that doesn't get nearly enough attention is the issue of corruption,Claim,"(33701, 33803)",Support
+help these other countries that are trying to straighten out their situations find the tools in order to do it,Claim,"(34087, 34197)",we have got to again lead by example,Claim,"(34046, 34082)",Support
+The world's coming together,Premise,"(34277, 34304)","I just think, Jim, that this is an absolutely unique period in world history",Claim,"(34199, 34275)",Support
+they're looking to us,Premise,"(34317, 34338)","I just think, Jim, that this is an absolutely unique period in world history",Claim,"(34199, 34275)",Support
+"I just think, Jim, that this is an absolutely unique period in world history",Claim,"(34199, 34275)",we have a fundamental choice to make,Claim,"(34344, 34380)",Support
+"Are we going to step up to the plate as a nation the way we did after World War II, the way that generation of heroes said okay, the United States is going to be the leader",Premise,"(34382, 34554)",we have a fundamental choice to make,Claim,"(34344, 34380)",Support
+the world benefitted tremendously from the courage that they showed in those post-war years,Premise,"(34560, 34651)","Are we going to step up to the plate as a nation the way we did after World War II, the way that generation of heroes said okay, the United States is going to be the leader",Premise,"(34382, 34554)",Support
+to step up to the plate,Claim,"(34395, 34418)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Support
+"to provide the leadership on the environment, leadership to make sure the world economy keeps moving in the right direction",Claim,"(34772, 34895)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Support
+that means not running big deficits here and not squandering our surplus,Claim,"(34904, 34976)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Support
+It means having intelligent decisions that keep our prosperity going and shepherds that economic strength,Claim,"(34978, 35083)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Support
+so that we can provide that leadership role,Premise,"(35084, 35127)",It means having intelligent decisions that keep our prosperity going and shepherds that economic strength,Claim,"(34978, 35083)",Support
+"maybe it's just our difference in government, the way we view government",Premise,"(35288, 35360)",We can help,Claim,"(7432, 7443)",Support
+I'm not so sure the role of the United States is to go around the world and say this is the way it's got to be,Claim,"(35159, 35269)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Attack
+"I want to help people help themselves, not have government tell people what to do",Claim,"(35392, 35473)",I want to empower the people,Claim,"(35362, 35390)",Support
+"I just don't think it's the role of the United States to walk into a country and say, ""we do it this way, so should you",Claim,"(35475, 35594)",I'm not so sure the role of the United States is to go around the world and say this is the way it's got to be,Claim,"(35159, 35269)",Support
+"take Russia, for example",Premise,"(35683, 35707)",I know we've got to encourage democracy in the marketplaces,Claim,"(35618, 35677)",Support
+"We went into Russia, we said here is some IMF money, and it ended up in Viktor Chemomyrdin's pocket, and others, and yet we played like there was reform",Premise,"(35709, 35861)","take Russia, for example",Premise,"(35683, 35707)",Support
+The only people that are going to reform Russia are Russia,Premise,"(35863, 35921)","take Russia, for example",Premise,"(35683, 35707)",Support
+"take Russia, for example",Premise,"(35683, 35707)",They're going to have to make the decision themselves,Claim,"(35923, 35976)",Support
+"Mr. Putin is going to have to make the decision as to whether or not he wants to adhere to rule of law and normal accounting practices so that if countries and/or entities invest capital, there's a reasonable rate of return, a way to get the money out of the economy",Premise,"(35978, 36244)",They're going to have to make the decision themselves,Claim,"(35923, 35976)",Support
+"We can work with them on security matters, for example",Premise,"(36283, 36337)",it's their call to make,Claim,"(36343, 36366)",Support
+it's their call to make,Claim,"(36343, 36366)",They're going to have to make the decision themselves,Claim,"(35923, 35976)",Support
+we trust freedom,Premise,"(36586, 36602)","I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course",Claim,"(36819, 36993)",Support
+"We know freedom is a powerful, powerful, powerful force, much bigger than the United States of America, as we saw recently in the Balkans",Premise,"(36604, 36741)","I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course",Claim,"(36819, 36993)",Support
+"I think one way for us to end up being viewed as the ugly American is for us to go around the world saying, ""we do it this way, so should you",Claim,"(36437, 36578)","I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course",Claim,"(36819, 36993)",Support
+"I think the United States must be humble and must be proud and confident of our values, but humble in how we treat nations that are figuring out how to chart their own course",Claim,"(36819, 36993)","I think that in the aftermath of the Cold War, it's time for us to do something very similar",Claim,"(34653, 34745)",Attack

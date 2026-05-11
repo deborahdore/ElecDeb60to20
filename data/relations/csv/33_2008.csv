@@ -1,0 +1,650 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+Our nation is involved in two wars,Premise,"(1831, 1865)",we are at a defining moment in our history,Premise,"(1787, 1829)",Support
+"Our initial military success, we went in to Baghdad and everybody celebrated",Premise,"(35990, 36066)",then the war was very badly mishandled,Claim,"(36072, 36110)",Support
+"it's been acknowledged by the commanders on the ground the situation is getting worse, not better",Premise,"(47072, 47169)",I think that we have to do it as quickly as possible,Claim,"(47010, 47062)",Support
+the other countries in the region will feel compelling requirement to acquire nuclear weapons as well,Premise,"(59170, 59271)","if Iran acquires nuclear weapons, it is an existential threat to the State of Israel and it is a threat to other countries in the region",Claim,"(59025, 59161)",Support
+a resurgent and very aggressive Russia is a threat to the peace and stability of the region,Premise,"(70793, 70884)","I think that, given what's happened over the last several weeks and months, our entire Russian approach has to be evaluated",Claim,"(70660, 70783)",Support
+we have a safer nation,Claim,"(80633, 80655)",I think it's much less than it was the day after 9/11,Claim,"(80559, 80612)",Support
+we are going through the worst financial crisis since the Great Depression,Premise,"(1871, 1945)",we are at a defining moment in our history,Premise,"(1787, 1829)",Support
+then the war was very badly mishandled,Claim,"(36072, 36110)",I think the lessons of Iraq are very clear that you cannot have a failed strategy that will then cause you to nearly lose a conflict,Claim,"(35856, 35988)",Support
+I think that we have to do it as quickly as possible,Claim,"(47010, 47062)","Yes, I think we need more troops",Claim,"(46929, 46961)",Support
+we cannot allow a second Holocaust,Premise,"(59277, 59311)","if Iran acquires nuclear weapons, it is an existential threat to the State of Israel and it is a threat to other countries in the region",Claim,"(59025, 59161)",Support
+Their actions in Georgia were unacceptable,Claim,"(70886, 70928)","I think that, given what's happened over the last several weeks and months, our entire Russian approach has to be evaluated",Claim,"(70660, 70783)",Support
+"a commission to investigate 9/11, and find out what happened, and fix it",Premise,"(80962, 81034)","9/11, Senator Joe Lieberman and I decided that we needed a commission",Premise,"(80878, 80947)",Support
+How's it going to affect my retirement savings or my ability to send my children to college,Premise,"(2266, 2357)",how's it going to affect me,Premise,"(2169, 2196)",Support
+"I went to Iraq in 2003 and came back and said, we've got to change this strategy",Premise,"(36112, 36192)",we came up with a great general and a strategy that has succeeded,Claim,"(36315, 36380)",Support
+we are seeing a major offensive taking place -- Al Qaida and Taliban crossing the border and attacking our troops in a brazen fashion,Premise,"(47267, 47400)",We had the highest fatalities among U.S. troops this past year than at any time since 2002,Claim,"(47171, 47261)",Support
+The Russians are preventing significant action in the United Nations Security Council,Premise,"(59520, 59605)","I have proposed a league of democracies, a group of people - a group of countries that share common interests, common values, common ideals",Claim,"(59607, 59746)",Support
+They were unwarranted,Premise,"(70930, 70951)",Their actions in Georgia were unacceptable,Claim,"(70886, 70928)",Support
+they descended on Washington,Premise,"(81203, 81231)",we were stymied until the families of 9/11 came,Premise,"(81150, 81197)",Support
+this could have an impact on all sectors of the economy,Premise,"(2090, 2145)",how's it going to affect me,Premise,"(2169, 2196)",Support
+This strategy requires additional troops,Premise,"(36194, 36234)",we came up with a great general and a strategy that has succeeded,Claim,"(36315, 36380)",Support
+We had the highest fatalities among U.S. troops this past year than at any time since 2002,Claim,"(47171, 47261)","Yes, I think we need more troops",Claim,"(46929, 46961)",Support
+they also control a lot of the world's economic power,Claim,"(59748, 59801)","I have proposed a league of democracies, a group of people - a group of countries that share common interests, common values, common ideals",Claim,"(59607, 59746)",Support
+it is absolutely critical for the next president to make clear that we have to follow through on our six-party -- or the six-point cease-fire,Claim,"(70972, 71113)","I think that, given what's happened over the last several weeks and months, our entire Russian approach has to be evaluated",Claim,"(70660, 70783)",Support
+we were stymied until the families of 9/11 came,Premise,"(81150, 81197)",we were opposed by the administration,Premise,"(81051, 81088)",Support
+How's it going to affect my job,Premise,"(2198, 2229)",how's it going to affect me,Premise,"(2169, 2196)",Support
+it requires a fundamental change in strategy,Premise,"(36236, 36280)",we came up with a great general and a strategy that has succeeded,Claim,"(36315, 36380)",Support
+what our commanders have said is we don't have the troops right now to deal with Afghanistan,Premise,"(47485, 47577)",we cannot separate Afghanistan from Iraq,Claim,"(47435, 47475)",Support
+I think could have a beneficial effect,Claim,"(59882, 59920)","We could impose significant meaningful, painful sanctions on the Iranians",Claim,"(59803, 59876)",Support
+"the Estonians, the Lithuanians, the Latvians, the Poles, the Czechs",Premise,"(71455, 71522)",we also have to affirm all the fledgling democracies in that region,Claim,"(71376, 71443)",Support
+we were opposed by the administration,Premise,"(81051, 81088)",we got that legislation passed,Claim,"(81237, 81267)",Attack
+How's it going to affect my house,Premise,"(2231, 2264)",how's it going to affect me,Premise,"(2169, 2196)",Support
+This strategy has succeeded,Premise,"(36382, 36409)",we came up with a great general and a strategy that has succeeded,Claim,"(36315, 36380)",Support
+I would send two to three additional brigades to Afghanistan,Claim,"(47582, 47642)",we cannot separate Afghanistan from Iraq,Claim,"(47435, 47475)",Support
+The Iranians have a lousy government,Premise,"(59922, 59958)",their economy is lousy,Claim,"(59973, 59995)",Support
+"that we are, in fact, going to be supportive and in solidarity with them in their efforts",Claim,"(71524, 71613)",we also have to affirm all the fledgling democracies in that region,Claim,"(71376, 71443)",Support
+I have worked across the aisle,Premise,"(80777, 80807)",we got that legislation passed,Claim,"(81237, 81267)",Support
+how's it going to affect me,Premise,"(2169, 2196)",we have to move swiftly,Claim,"(2362, 2385)",Support
+we are winning in Iraq,Claim,"(36415, 36437)",we will come home with victory and with honor,Claim,"(36443, 36488)",Support
+where nobody had anything to do with 9/11 before we went in,Premise,"(47716, 47775)",we have four times the number of troops in Iraq,Claim,"(47667, 47714)",Support
+even though they have significant oil revenues,Premise,"(59997, 60043)",their economy is lousy,Claim,"(59973, 59995)",Support
+"It is absolutely important that we have a unified alliance and that we explain to the Russians that you cannot be a 21st-century superpower, or power, and act like a 20th-century dictatorship",Claim,"(71179, 71370)",it is absolutely critical for the next president to make clear that we have to follow through on our six-party -- or the six-point cease-fire,Claim,"(70972, 71113)",Support
+"I have a long record on that, on a long series of reforms",Premise,"(80809, 80866)",we got that legislation passed,Claim,"(81237, 81267)",Support
+I've put forward a series of proposals that make sure that we protect taxpayers as we engage in this important rescue effort,Premise,"(2419, 2543)",we have to move swiftly,Claim,"(2362, 2385)",Support
+we came up with a great general and a strategy that has succeeded,Claim,"(36315, 36380)",we will come home with victory and with honor,Claim,"(36443, 36488)",Support
+"where, in fact, there was no Al Qaida before we went in",Premise,"(47777, 47832)",we have four times the number of troops in Iraq,Claim,"(47667, 47714)",Support
+their economy is lousy,Claim,"(59973, 59995)","We could impose significant meaningful, painful sanctions on the Iranians",Claim,"(59803, 59876)",Support
+They have to remove themselves from South Ossetia and Abkhazia,Claim,"(71115, 71177)",it is absolutely critical for the next president to make clear that we have to follow through on our six-party -- or the six-point cease-fire,Claim,"(70972, 71113)",Support
+"9/11, Senator Joe Lieberman and I decided that we needed a commission",Premise,"(80878, 80947)",we got that legislation passed,Claim,"(81237, 81267)",Support
+"$700 billion, potentially, is a lot of money",Claim,"(2630, 2674)",we've got to make sure that we've got oversight over this whole process,Claim,"(2557, 2628)",Support
+that withdrawal is the result of every counterinsurgency that succeeds,Premise,"(36494, 36564)","we will succeed and our troops will come home, and not in defeat",Claim,"(36611, 36675)",Support
+we have four times the number of troops in Iraq,Claim,"(47667, 47714)",that is a strategic mistake,Claim,"(47906, 47933)",Support
+"we can, with the French, with the British, with the Germans and other countries, democracies around the world",Premise,"(60078, 60187)",we can affect Iranian behavior,Claim,"(60189, 60219)",Support
+They are members of NATO,Premise,"(71615, 71639)","the Estonians, the Lithuanians, the Latvians, the Poles, the Czechs",Premise,"(71455, 71522)",Support
+we've gotten written into law most of those reforms recommended by that commission,Claim,"(81366, 81448)","there were a series of recommendations, as I recall, more than 40",Claim,"(81273, 81338)",Support
+if the market -- and when the market returns,Claim,"(2829, 2873)","we've got to make sure that taxpayers, when they are putting their money at risk, have the possibility of getting that money back and gains",Claim,"(2688, 2827)",Support
+It would have been increase in sectarian violence,Claim,"(36821, 36870)",The consequences of defeat would have been increased Iranian influence,Claim,"(36749, 36819)",Support
+every intelligence agency will acknowledge that Al Qaida is the greatest threat against the United States,Premise,"(47943, 48048)",that is a strategic mistake,Claim,"(47906, 47933)",Support
+"We could impose significant meaningful, painful sanctions on the Iranians",Claim,"(59803, 59876)",we can affect Iranian behavior,Claim,"(60189, 60219)",Support
+countries like Georgia and the Ukraine,Premise,"(71648, 71686)",I think we have to insist that they are free to join NATO if they meet the requirements,Claim,"(71688, 71775)",Support
+"there were a series of recommendations, as I recall, more than 40",Claim,"(81273, 81338)",we got that legislation passed,Claim,"(81237, 81267)",Support
+the root problem here has to do with the foreclosures that are taking place all across the country,Premise,"(3083, 3181)",we've got to make sure that we're helping homeowners,Claim,"(3021, 3073)",Support
+we will come home as we have when we have won other wars and not in defeat,Premise,"(37165, 37239)",we will come home,Premise,"(36443, 36460)",Support
+that the place where we have to deal with these folks is going to be in Afghanistan and in Pakistan,Premise,"(48119, 48218)",that is a strategic mistake,Claim,"(47906, 47933)",Support
+it is a threat not only in this region,Premise,"(60361, 60399)",around the world,Claim,"(37742, 37758)",Support
+they should have a membership action plan immediately to start bringing them in,Claim,"(71781, 71860)",I think we have to insist that they are free to join NATO if they meet the requirements,Claim,"(71688, 71775)",Support
+We have to do a better job in human intelligence,Claim,"(81627, 81675)",we have a long way to go in our intelligence services,Claim,"(81572, 81625)",Support
+"a theory that basically says that we can shred regulations and consumer protections and give more and more to the most, and somehow prosperity will trickle down",Claim,"(3340, 3500)","we also have to recognize that this is a final verdict on eight years of failed economic policies promoted by George Bush, supported by Senator McCain",Claim,"(3188, 3338)",Support
+we are winning in Iraq,Premise,"(36415, 36437)",we are winning in Iraq,Claim,"(36415, 36437)",Support
+that Secretary of Defense Gates acknowledged the central front,Premise,"(48053, 48115)",that is a strategic mistake,Claim,"(47906, 47933)",Support
+around the world,Claim,"(37742, 37758)",the Iranians continue on the path to the acquisition of a nuclear weapon as we speak tonight,Claim,"(60263, 60355)",Support
+we recognize there are going to be some areas of common interest,Premise,"(71954, 72018)",One is nuclear proliferation,Claim,"(72020, 72048)",Support
+we've got to -- to make sure that we have people who are trained interrogators so that we don't ever torture a prisoner ever again,Claim,"(81681, 81811)",we have a long way to go in our intelligence services,Claim,"(81572, 81625)",Support
+I think that the fundamentals of the economy have to be measured by whether or not the middle class is getting a fair shake,Claim,"(3524, 3647)","a theory that basically says that we can shred regulations and consumer protections and give more and more to the most, and somehow prosperity will trickle down",Claim,"(3340, 3500)",Attack
+we will come home,Premise,"(36443, 36460)",we are winning in Iraq,Claim,"(36415, 36437)",Support
+We have to press the Afghan government to make certain that they are actually working for their people,Claim,"(48301, 48403)",It's not just more troops,Claim,"(48274, 48299)",Support
+there are special groups in Iran coming into Iraq and are being trained in Iran,Claim,"(60545, 60624)",the Iranians are putting the most lethal IEDs into Iraq which are killing young Americans,Claim,"(60454, 60543)",Support
+"They have not only 15,000 nuclear warheads",Premise,"(72050, 72092)",One is nuclear proliferation,Claim,"(72020, 72048)",Support
+I know our allies,Premise,"(81945, 81962)",I can work much more closely with them,Claim,"(81968, 82006)",Support
+have no doubt about the magnitude of this crisis,Claim,"(4504, 4552)","we are seeing, for the first time in a long time, Republicans and Democrats together, sitting down, trying to work out a solution to this fiscal crisis that we're in",Claim,"(4333, 4498)",Support
+this is an area where Senator McCain and I have a fundamental difference,Premise,"(37323, 37395)",I think the first question is whether we should have gone into the war in the first place,Claim,"(37404, 37493)",Support
+I've said this to President Karzai,Premise,"(48409, 48443)",We have to press the Afghan government to make certain that they are actually working for their people,Claim,"(48301, 48403)",Support
+Senator Kyl had an amendment in order to declare them a sponsor of terror,Premise,"(60671, 60744)",There is the Republican Guard in Iran,Claim,"(60626, 60663)",Support
+"they've got enough to make another 40,000",Claim,"(72098, 72139)",One is nuclear proliferation,Claim,"(72020, 72048)",Support
+I can work much more closely with them,Claim,"(81968, 82006)",We have to work more closely with our allies,Claim,"(81899, 81943)",Support
+"We're talking about failures on Main Street, and people who will lose their jobs, and their credits, and their homes",Premise,"(4622, 4738)",we're not talking about failure of institutions on Wall Street,Premise,"(4558, 4620)",Support
+I said that not only did we not know how much it was going to cost,Premise,"(37603, 37669)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+"Al Qaida and the Taliban have safe havens in Pakistan, across the border in the northwest regions",Premise,"(48604, 48701)",we've got to deal with Pakistan,Claim,"(48563, 48594)",Support
+Senator Obama said that would be provocative,Premise,"(60746, 60790)",There is the Republican Guard in Iran,Claim,"(60626, 60663)",Support
+some of those loose nukes could fall into the hands of Al Qaida,Premise,"(72145, 72208)","they've got enough to make another 40,000",Claim,"(72098, 72139)",Support
+We have to make sure that our technological and intelligence capabilities are better,Claim,"(81813, 81897)",we have a long way to go in our intelligence services,Claim,"(81572, 81625)",Support
+we're not talking about failure of institutions on Wall Street,Premise,"(4558, 4620)","if we don't fix the greatest fiscal crisis, probably in -- certainly in our time, and I've been around a little while",Premise,"(4740, 4857)",Support
+what our exit strategy might be,Premise,"(37671, 37702)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+they have not done what needs to be done to get rid of those safe havens,Claim,"(48844, 48916)","under George Bush, with the support of Senator McCain, we've been giving them $10 billion over the last seven years",Claim,"(48727, 48842)",Support
+There is the Republican Guard in Iran,Claim,"(60626, 60663)",this is a serious threat,Claim,"(60795, 60819)",Support
+"This is an area where I've led on in the Senate, working with a Republican ranking member of the Senate Foreign Relations Committee, Dick Lugar, to deal with the proliferation of loose nuclear weapons",Premise,"(72210, 72410)",One is nuclear proliferation,Claim,"(72020, 72048)",Support
+We have to work more closely with our allies,Claim,"(81899, 81943)",we have a long way to go in our intelligence services,Claim,"(81572, 81625)",Support
+"if we don't fix the greatest fiscal crisis, probably in -- certainly in our time, and I've been around a little while",Premise,"(4740, 4857)",have no doubt about the magnitude of this crisis,Claim,"(4504, 4552)",Support
+how it would affect our relationships around the world,Premise,"(37704, 37758)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+"under George Bush, with the support of Senator McCain, we've been giving them $10 billion over the last seven years",Claim,"(48727, 48842)",we've got to deal with Pakistan,Claim,"(48563, 48594)",Support
+have no doubt about the ultimate result of them acquiring nuclear weapons,Claim,"(60991, 61064)",This is a serious threat to security in the world,Claim,"(60821, 60870)",Support
+One is nuclear proliferation,Claim,"(72020, 72048)",That's an area where we're going to have to work with Russia,Claim,"(72412, 72472)",Support
+we have a long way to go in our intelligence services,Claim,"(81572, 81625)",that doesn't mean that we don't have a long way to go,Claim,"(82088, 82141)",Support
+This package has transparency in it,Premise,"(5008, 5043)",we have finally seen Republicans and Democrats sitting down and negotiating together and coming up with a package,Claim,"(4893, 5006)",Support
+whether our intelligence was sound,Premise,"(37764, 37798)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+we've got to deal with Pakistan,Claim,"(48563, 48594)",Americans here at home are not going to be safe,Claim,"(48935, 48982)",Support
+This is a serious threat to security in the world,Claim,"(60821, 60870)",I believe we can act and we can act with our friends and allies and reduce that threat as quickly as possible,Claim,"(60876, 60985)",Support
+we have to have a president who is clear that you don't deal with Russia based on staring into his eyes and seeing his soul,Claim,"(72478, 72601)",That's an area where we're going to have to work with Russia,Claim,"(72412, 72472)",Support
+"that means doing a better job along our borders, as well",Premise,"(82473, 82529)",we still have a long way to go before we can declare America safe,Claim,"(82402, 82467)",Support
+It has to have accountability and oversight,Claim,"(5045, 5088)",we have finally seen Republicans and Democrats sitting down and negotiating together and coming up with a package,Claim,"(4893, 5006)",Support
+we hadn't finished the job in Afghanistan,Premise,"(37817, 37858)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+We have to press the Afghan government to make certain that they are actually working for their people,Claim,"(48301, 48403)",Americans here at home are not going to be safe,Claim,"(48935, 48982)",Support
+To deal with Iran,Premise,"(61373, 61390)",What Senator McCain refers to is a measure in the Senate that would try to broaden the mandate inside of Iraq,Premise,"(61262, 61371)",Support
+"His first statement was, ""Both sides ought to show restraint",Premise,"(73015, 73075)",a little bit of naivete there,Claim,"(73085, 73114)",Support
+I think that those men and women in those agencies are doing a great job,Claim,"(82324, 82396)",we've probably had the largest reorganization of government since we established the Defense Department,Claim,"(82215, 82318)",Support
+"It has to have options for loans to failing businesses, rather than the government taking over those loans",Claim,"(5090, 5196)",we have finally seen Republicans and Democrats sitting down and negotiating together and coming up with a package,Claim,"(4893, 5006)",Support
+We hadn't caught bin Laden,Premise,"(37860, 37886)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+we've got to deal with a growing poppy trade that has exploded over the last several years,Claim,"(48457, 48547)",Americans here at home are not going to be safe,Claim,"(48935, 48982)",Support
+Iraq was Iran's mortal enemy,Claim,"(61506, 61534)",the single thing that has strengthened Iran over the last several years has been the war in Iraq,Claim,"(61408, 61504)",Support
+a little bit of naivete there,Claim,"(73085, 73114)",He doesn't understand that Russia committed serious aggression against Georgia,Claim,"(73116, 73194)",Support
+I think that we are safer in some ways,Claim,"(82594, 82632)",I think America is safer today than it was on 9/11,Claim,"(82032, 82082)",Support
+"they weren't part of the negotiations, and I understand that",Premise,"(5390, 5450)","yes, I went back to Washington, and I met with my Republicans in the House of Representatives",Premise,"(5291, 5384)",Support
+We hadn't put al Qaeda to rest,Premise,"(37888, 37918)","Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Support
+"we were able to help the Afghan freedom fighters and drive the Russians out of Afghanistan, we basically washed our hands of the region",Premise,"(49115, 49250)",I won't repeat the mistake that I regret enormously,Claim,"(49043, 49094)",Support
+They have funded Hezbollah,Premise,"(61633, 61659)",we've seen over the last several years is Iran's influence grow,Claim,"(61568, 61631)",Support
+their aggression in Georgia is not acceptable behavior,Claim,"(73393, 73447)",He doesn't understand that Russia committed serious aggression against Georgia,Claim,"(73116, 73194)",Support
+"Obviously, we've poured billions of dollars into airport security",Premise,"(82634, 82699)",I think that we are safer in some ways,Claim,"(82594, 82632)",Support
+This is the end of the beginning,Claim,"(5667, 5699)",This isn't the beginning of the end of this crisis,Claim,"(5615, 5665)",Support
+"Now six years ago, I stood up and opposed this war at a time when it was politically risky to do so",Claim,"(37495, 37594)",Senator McCain and President Bush had a very different judgment,Claim,"(37995, 38058)",Support
+we can't ignore those lessons of history,Premise,"(49358, 49398)",I won't repeat the mistake that I regret enormously,Claim,"(49043, 49094)",Support
+they have funded Hamas,Premise,"(61661, 61683)",we've seen over the last several years is Iran's influence grow,Claim,"(61568, 61631)",Support
+I don't believe we're going to go back to the Cold War,Premise,"(73449, 73503)",I am sure that that will not happen,Claim,"(73505, 73540)",Support
+We have done some work in terms of securing potential targets,Premise,"(82701, 82762)",I think that we are safer in some ways,Claim,"(82594, 82632)",Support
+if we come out with a package that will keep these institutions stable,Claim,"(5701, 5771)",This is the end of the beginning,Claim,"(5667, 5699)",Support
+Senator McCain and President Bush had a very different judgment,Claim,"(37995, 38058)","I wish I had been wrong for the sake of the country and they had been right, but that's not the case",Claim,"(38064, 38164)",Support
+"the result over time was the Taliban, Al Qaida, and a lot of the difficulties we are facing today",Claim,"(49256, 49353)",I won't repeat the mistake that I regret enormously,Claim,"(49043, 49094)",Support
+"they have gone from zero centrifuges to 4,000 centrifuges to develop a nuclear weapon",Premise,"(61685, 61770)",we've seen over the last several years is Iran's influence grow,Claim,"(61568, 61631)",Support
+that wasn't just about a problem between Georgia and Russia,Premise,"(73611, 73670)",I do believe that we need to bolster our friends and allies,Claim,"(73546, 73605)",Support
+we still have a long way to go,Claim,"(82402, 82432)",that doesn't mean that we don't have a long way to go,Claim,"(82088, 82141)",Support
+we've got a lot of work to do,Claim,"(5777, 5806)",This isn't the beginning of the end of this crisis,Claim,"(5615, 5665)",Support
+"We've spent over $600 billion so far, soon to be $1 trillion",Premise,"(38166, 38226)","I wish I had been wrong for the sake of the country and they had been right, but that's not the case",Claim,"(38064, 38164)",Support
+"if you're going to aim a gun at somebody, George Shultz, our great secretary of state, told me once, you'd better be prepared to pull the trigger",Premise,"(49439, 49584)",I'm not prepared at this time to cut off aid to Pakistan,Claim,"(49586, 49642)",Support
+we've seen over the last several years is Iran's influence grow,Claim,"(61568, 61631)",our policy over the last eight years has not worked,Claim,"(61786, 61837)",Support
+It had everything to do with energy,Claim,"(73672, 73707)",I do believe that we need to bolster our friends and allies,Claim,"(73546, 73605)",Support
+We've got to make sure that we're hardening our chemical sites,Claim,"(82800, 82862)",we still have a long way to go,Claim,"(82402, 82432)",Support
+we've got to create jobs,Claim,"(5812, 5836)",This isn't the beginning of the end of this crisis,Claim,"(5615, 5665)",Support
+"We have lost over 4,000 lives",Premise,"(38228, 38257)","I wish I had been wrong for the sake of the country and they had been right, but that's not the case",Claim,"(38064, 38164)",Support
+he has said that he would announce military strikes into Pakistan,Claim,"(49724, 49789)","I'm not prepared to threaten it, as Senator Obama apparently wants to do",Claim,"(49647, 49719)",Support
+Senator McCain is absolutely right,Premise,"(13642, 13676)",we cannot tolerate a nuclear Iran,Claim,"(61875, 61908)",Support
+There's a pipeline that runs from the Caspian through Georgia through Turkey,Claim,"(73709, 73785)",It had everything to do with energy,Claim,"(73672, 73707)",Support
+We haven't done enough in terms of transit,Premise,"(82864, 82906)",We've got to make sure that we're hardening our chemical sites,Claim,"(82800, 82862)",Support
+"one of the areas, of course, is to eliminate our dependence on foreign oil",Claim,"(5842, 5916)",This isn't the beginning of the end of this crisis,Claim,"(5615, 5665)",Support
+"We have seen 30,000 wounded",Premise,"(38259, 38286)","I wish I had been wrong for the sake of the country and they had been right, but that's not the case",Claim,"(38064, 38164)",Support
+We've got to get the support of the people of -- of Pakistan,Premise,"(49791, 49851)",I'm not prepared at this time to cut off aid to Pakistan,Claim,"(49586, 49642)",Support
+we cannot tolerate a nuclear Iran,Claim,"(61875, 61908)",have no doubt about the ultimate result of them acquiring nuclear weapons,Claim,"(60991, 61064)",Support
+which they have used from time to time,Premise,"(73874, 73912)",we know that the Russians control other sources of energy into Europe,Claim,"(73803, 73872)",Support
+we haven't done enough in terms of ports,Premise,"(82908, 82948)",We've got to make sure that we're hardening our chemical sites,Claim,"(82800, 82862)",Support
+I do think that there's constructive work being done out there,Claim,"(6277, 6339)",I am optimistic about the capacity of us to come together with a plan,Claim,"(6379, 6448)",Support
+"al Qaeda is resurgent, stronger now than at any time since 2001",Premise,"(38358, 38421)","I wish I had been wrong for the sake of the country and they had been right, but that's not the case",Claim,"(38064, 38164)",Support
+He said that he would launch military strikes into Pakistan,Premise,"(49853, 49912)","I'm not prepared to threaten it, as Senator Obama apparently wants to do",Claim,"(49647, 49719)",Support
+have extensive trade with Iran,Premise,"(62405, 62435)",have an interest in making sure Iran doesn't have a nuclear weapon,Claim,"(62452, 62518)",Support
+they showed solidarity with them,Premise,"(74146, 74178)","It's not accidental that the presidents of Latvia, Estonia, Lithuania, Poland, and Ukraine flew to Georgia, flew to Tbilisi",Premise,"(73914, 74037)",Support
+This is why the issue of nuclear proliferation is so important,Premise,"(83064, 83126)",It's in a suitcase,Claim,"(83044, 83062)",Support
+"Two years ago, I warned that, because of the subprime lending mess",Premise,"(6562, 6628)","The question, I think, that we have to ask ourselves is, how did we get into this situation in the first place",Premise,"(6450, 6560)",Support
+we should never hesitate to use military force,Claim,"(38836, 38882)","I will not, as president, in order to keep the American people safe",Claim,"(38888, 38955)",Support
+"the new president of Pakistan, Kardari (sic), has got his hands full",Premise,"(50065, 50133)","If you have to do things, you have to do things, and you work with the Pakistani government",Claim,"(49967, 50058)",Support
+I do not agree with Senator McCain that we're going to be able to execute the kind of sanctions we need without some cooperation with countries like Russia and China,Premise,"(62172, 62337)","I have proposed a league of democracies, a group of people - a group of countries that share common interests, common values, common ideals",Claim,"(59607, 59746)",Attack
+"It's not accidental that the presidents of Latvia, Estonia, Lithuania, Poland, and Ukraine flew to Georgia, flew to Tbilisi",Premise,"(73914, 74037)",they are very concerned about the Russian threats to regain their status of the old Russian to regain their status of the old Russian empire,Claim,"(74191, 74331)",Support
+It's in a suitcase,Claim,"(83044, 83062)",the biggest threat that we face right now is not a nuclear missile coming over the skies,Claim,"(82954, 83042)",Support
+"because of the lax regulation, that we were potentially going to have a problem and tried to stop some of the abuses in mortgages that were taking place at the time",Premise,"(6630, 6794)","The question, I think, that we have to ask ourselves is, how did we get into this situation in the first place",Premise,"(6450, 6560)",Support
+we did not use our military wisely in Iraq,Claim,"(39001, 39043)",we have to use our military wisely,Claim,"(38961, 38995)",Support
+I can see how tough that terrain is,Premise,"(50249, 50284)",I've been to Waziristan,Premise,"(50224, 50247)",Support
+this is a major difference I have with Senator McCain,Premise,"(62612, 62665)",this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)",Support
+They have stationed additional troops in Abkhazia and South Ossetia,Premise,"(74625, 74692)",We also ought to make it very clear that the Russians are in violation of their cease-fire agreement,Claim,"(74523, 74623)",Support
+the biggest threat that we face right now is not a nuclear missile coming over the skies,Claim,"(82954, 83042)",we still have a long way to go,Claim,"(82402, 82432)",Support
+"Last year, I wrote to the secretary of the Treasury to make sure that he understood the magnitude of this problem and to call on him to bring all the stakeholders together to try to deal with it",Premise,"(6796, 6990)","The question, I think, that we have to ask ourselves is, how did we get into this situation in the first place",Premise,"(6450, 6560)",Support
+"The next president of the United States is going to have to decide how we leave, when we leave, and what we leave behind",Claim,"(39227, 39347)",The next president of the United States is not going to have to address the issue as to whether we went into Iraq or not,Claim,"(39105, 39225)",Support
+It's ruled by a handful of tribes,Premise,"(50286, 50319)",I've been to Waziristan,Premise,"(50224, 50247)",Support
+this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)","we are also going to have to, I believe, engage in tough direct diplomacy with Iran",Claim,"(62524, 62607)",Support
+"there was a huge poster of Vladimir Putin, and it said, ""Vladimir Putin, our president",Premise,"(74834, 74920)","It was very clear, the Russian intentions towards Georgia",Claim,"(74923, 74980)",Support
+we need missile defense,Claim,"(83330, 83353)",we are spending billions of dollars on missile defense,Claim,"(83246, 83300)",Support
+"The question, I think, that we have to ask ourselves is, how did we get into this situation in the first place",Premise,"(6450, 6560)","I think, that we've got to ask ourselves is, yes, we've got to solve this problem short term",Claim,"(7015, 7107)",Support
+That's the decision of the next president of the United States,Premise,"(39349, 39411)","The next president of the United States is going to have to decide how we leave, when we leave, and what we leave behind",Claim,"(39227, 39347)",Support
+Senator Obama calls for more troops,Premise,"(50331, 50366)","what he doesn't understand, it's got to be a new strategy, the same strategy that he condemned in Iraq",Claim,"(50372, 50474)",Support
+It has not worked in Iran,Premise,"(62747, 62772)",this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)",Support
+They were just waiting to seize the opportunity,Claim,"(74982, 75029)","It was very clear, the Russian intentions towards Georgia",Claim,"(74923, 74980)",Support
+the biggest threat to the United States is a terrorist getting their hands on nuclear weapons,Claim,"(83141, 83234)",we are spending billions of dollars on missile defense,Claim,"(83246, 83300)",Support
+we are going to have to intervene,Claim,"(7113, 7146)","I think, that we've got to ask ourselves is, yes, we've got to solve this problem short term",Claim,"(7015, 7107)",Support
+Senator Obama said the surge could not work,Premise,"(39413, 39456)","after conceding that, he still says that he would oppose the surge if he had to decide that again today",Claim,"(39619, 39722)",Support
+we're going to have to help the Pakistanis go into these areas and obtain the allegiance of the people,Claim,"(50530, 50632)","what he doesn't understand, it's got to be a new strategy, the same strategy that he condemned in Iraq",Claim,"(50372, 50474)",Support
+it has not worked in North Korea,Premise,"(62774, 62806)",this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)",Support
+"It was very clear, the Russian intentions towards Georgia",Claim,"(74923, 74980)",this is a very difficult situation,Claim,"(75035, 75069)",Support
+we are spending billions of dollars on missile defense,Claim,"(83246, 83300)",we still have a long way to go,Claim,"(82402, 82432)",Support
+how is it that we shredded so many regulations,Premise,"(7218, 7264)",we're also going to have to look at,Claim,"(7181, 7216)",Support
+he said it exceed our wildest expectations,Premise,"(39566, 39608)","after conceding that, he still says that he would oppose the surge if he had to decide that again today",Claim,"(39619, 39722)",Support
+They've intermarried with Al Qaida and the Taliban,Claim,"(50662, 50712)",we're going to have to help the Pakistanis go into these areas and obtain the allegiance of the people,Claim,"(50530, 50632)",Support
+our efforts at isolation have actually accelerated their efforts to get nuclear weapons,Claim,"(62826, 62913)",this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)",Support
+We also ought to make it very clear that the Russians are in violation of their cease-fire agreement,Claim,"(74523, 74623)",this is a very difficult situation,Claim,"(75035, 75069)",Support
+because of Iran and North Korea and the potential for them to obtain or to launch nuclear weapons,Premise,"(83355, 83452)",we need missile defense,Claim,"(83330, 83353)",Support
+we're also going to have to look at,Claim,"(7181, 7216)","I think, that we've got to ask ourselves is, yes, we've got to solve this problem short term",Claim,"(7015, 7107)",Support
+said it would increase sectarian violence,Premise,"(39458, 39499)","after conceding that, he still says that he would oppose the surge if he had to decide that again today",Claim,"(39619, 39722)",Support
+we have to get the cooperation of the people in those areas,Claim,"(50746, 50805)",we're going to have to help the Pakistanis go into these areas and obtain the allegiance of the people,Claim,"(50530, 50632)",Support
+this notion that by not talking to people we are punishing them has not worked,Claim,"(62667, 62745)",That will change when I'm president of the United States,Claim,"(62915, 62971)",Support
+It had everything to do with energy,Claim,"(73672, 73707)",this is a very difficult situation,Claim,"(75035, 75069)",Support
+the biggest threat that we face right now is not a nuclear missile coming over the skies,Claim,"(82954, 83042)","when we are only spending a few hundred million dollars on nuclear proliferation, then we're making a mistake",Claim,"(83479, 83588)",Support
+that in part has to do with an economic philosophy that says that regulation is always bad,Premise,"(7353, 7443)",We did not set up a 21st-century regulatory framework to deal with these problems,Claim,"(7266, 7347)",Support
+said it was doomed to failure,Premise,"(39501, 39530)","after conceding that, he still says that he would oppose the surge if he had to decide that again today",Claim,"(39619, 39722)",Support
+we've got a lot of work to do in Afghanistan,Premise,"(51053, 51097)",the Pakistanis are going to have to understand that that bombing in the Marriott Hotel in Islamabad was a signal from the terrorists that they don't want that government to cooperate with us in combating the Taliban and jihadist elements,Claim,"(50811, 51048)",Support
+"Senator Obama twice said in debates he would sit down with Ahmadinejad, Chavez and Raul Castro without precondition",Premise,"(63018, 63133)",Without precondition,Claim,"(63135, 63155)",Support
+"This whole thing has got a lot to do with Ukraine, Crimea, the base of the Russian fleet in Sevastopol",Premise,"(75326, 75428)",the breakdown of the political process in Ukraine between Tymoshenko and Yushchenko is a very serious problem,Claim,"(75434, 75543)",Support
+They are now operating in 60 countries,Claim,"(83653, 83691)","The other thing that we have to focus on, though, is Al Qaida",Claim,"(83590, 83651)",Support
+We did not set up a 21st-century regulatory framework to deal with these problems,Claim,"(7266, 7347)",we're also going to have to look at,Claim,"(7181, 7216)",Support
+he has never had a hearing,Premise,"(40008, 40034)",Senator Obama is the chairperson of a committee that oversights NATO that's in Afghanistan,Claim,"(39903, 39993)",Support
+General Petraeus is in the new position of command,Premise,"(51127, 51177)",we will employ a strategy which not only means additional troops,Claim,"(51184, 51248)",Support
+of wiping Israel off the map,Premise,"(63298, 63326)","who is, Ahmadinejad, who is now in New York, talking about the extermination of the State of Israel",Premise,"(63197, 63296)",Support
+let's make sure that we -- that the Ukrainians understand that we are their friend and ally,Premise,"(75567, 75658)",the breakdown of the political process in Ukraine between Tymoshenko and Yushchenko is a very serious problem,Claim,"(75434, 75543)",Support
+We can't simply be focused on Iraq,Premise,"(83693, 83727)","The other thing that we have to focus on, though, is Al Qaida",Claim,"(83590, 83651)",Support
+"One of them was a letter congratulating the great members of the military and allies that had conducted and succeeded in the greatest invasion in history, still to this day, and forever",Premise,"(8063, 8248)","President Eisenhower, on the night before the Normandy invasion, went into his room, and he wrote out two letters",Premise,"(7948, 8061)",Support
+who is the chairman of the Senate Foreign Relations Committee,Premise,"(40377, 40438)","I'm very proud of my vice presidential selection, Joe Biden",Claim,"(40316, 40375)",Support
+"there have been 20,000 additional troops, from 32,000 to 53,000, and there needs to be more",Premise,"(51269, 51360)",we will employ a strategy which not only means additional troops,Claim,"(51184, 51248)",Support
+"who is, Ahmadinejad, who is now in New York, talking about the extermination of the State of Israel",Premise,"(63197, 63296)","we're going to sit down, without precondition, across the table, to legitimize and give a propaganda platform to a person that is espousing the extermination of the state of Israel",Premise,"(63332, 63512)",Support
+I immediately said that this was illegal and objectionable,Premise,"(75942, 76000)",I disagree with this notion that somehow we did not forcefully object to Russians going into Georgia,Claim,"(75840, 75940)",Support
+"The other thing that we have to focus on, though, is Al Qaida",Claim,"(83590, 83651)",we still have a long way to go,Claim,"(82402, 82432)",Support
+"he wrote out another letter, and that was a letter of resignation from the United States Army for the failure of the landings at Normandy",Premise,"(8254, 8391)","President Eisenhower, on the night before the Normandy invasion, went into his room, and he wrote out two letters",Premise,"(7948, 8061)",Support
+they're done as a committee as a whole,Premise,"(40599, 40637)","as he explains, and as John well knows, the issues of Afghanistan, the issues of Iraq, critical issues like that, don't go through my subcommittee",Claim,"(40444, 40590)",Support
+it's not just the addition of troops that matters,Premise,"(51365, 51414)",we will employ a strategy which not only means additional troops,Claim,"(51184, 51248)",Support
+"we're going to sit down, without precondition, across the table, to legitimize and give a propaganda platform to a person that is espousing the extermination of the state of Israel",Premise,"(63332, 63512)",Without precondition,Claim,"(63135, 63155)",Support
+I disagree with this notion that somehow we did not forcefully object to Russians going into Georgia,Claim,"(75840, 75940)",He doesn't understand that Russia committed serious aggression against Georgia,Claim,"(73116, 73194)",Attack
+That's going to be critical,Premise,"(83803, 83830)","We have to go to the root cause, and that is in Afghanistan and Pakistan",Claim,"(83729, 83801)",Support
+"President Eisenhower, on the night before the Normandy invasion, went into his room, and he wrote out two letters",Premise,"(7948, 8061)",Somehow we've lost that accountability,Premise,"(8393, 8431)",Support
+They have done a brilliant job,Premise,"(40876, 40906)",Senator McCain is absolutely right that the violence has been reduced as a consequence of the extraordinary sacrifice of our troops and our military families,Claim,"(40717, 40874)",Support
+we will employ a strategy which not only means additional troops,Claim,"(51184, 51248)",It's a strategy that will succeed,Claim,"(51416, 51449)",Support
+Without precondition,Claim,"(63135, 63155)",giving them more credence in the world arena,Claim,"(63533, 63577)",Support
+it put an enormous strain on Georgia,Premise,"(76065, 76101)",I wanted a cessation of the violence,Claim,"(76019, 76055)",Support
+We are less respected now than we were eight years ago or even four years ago,Premise,"(84203, 84280)",I intend to do as president is to restore America's standing in the world,Claim,"(84128, 84201)",Support
+I called for the resignation of the chairman of the Securities and Exchange Commission,Premise,"(8470, 8556)",I've been heavily criticized,Claim,"(8433, 8461)",Support
+General Petraeus has done a brilliant job,Premise,"(40912, 40953)",Senator McCain is absolutely right that the violence has been reduced as a consequence of the extraordinary sacrifice of our troops and our military families,Claim,"(40717, 40874)",Support
+I know how to work with them,Premise,"(51505, 51533)",Pakistan is a very important element in this,Claim,"(51455, 51499)",Support
+giving them more credence in the world arena,Claim,"(63533, 63577)","saying, they've probably been doing the right thing",Claim,"(63592, 63643)",Support
+I was the first to say that we have to rebuild the Georgian economy and called for a billion dollars that has now gone in to help them rebuild,Premise,"(76118, 76260)",I wanted a cessation of the violence,Claim,"(76019, 76055)",Support
+"I give Senator McCain great credit on the torture issue, for having identified that as something that undermines our long-term security",Premise,"(84395, 84530)",because of some of the mistakes that have been made,Premise,"(84336, 84387)",Support
+We've got to start also holding people accountable,Premise,"(8558, 8608)",I've been heavily criticized,Claim,"(8433, 8461)",Support
+You said we knew where the weapons of mass destruction were,Premise,"(41287, 41346)","The war started in 2003, and at the time when the war started, you said it was going to be quick and easy",Claim,"(41180, 41285)",Support
+Pakistan is a very important element in this,Claim,"(51455, 51499)",It's a strategy that will succeed,Claim,"(51416, 51449)",Support
+you will sit down across the table from them and that will legitimize their illegal behavior,Premise,"(63653, 63745)","saying, they've probably been doing the right thing",Claim,"(63592, 63643)",Support
+Russia's intentions here was to weaken the economy to the point where President Saakashvili was so weakened that he might be replaced by somebody that Putin favored more,Claim,"(76278, 76447)",I wanted a cessation of the violence,Claim,"(76019, 76055)",Support
+because of those things,Premise,"(84534, 84557)",because of some of the mistakes that have been made,Premise,"(84336, 84387)",Support
+we've got to reward people who succeed,Premise,"(8614, 8652)",I've been heavily criticized,Claim,"(8433, 8461)",Support
+You were wrong,Claim,"(41348, 41362)","The war started in 2003, and at the time when the war started, you said it was going to be quick and easy",Claim,"(41180, 41285)",Attack
+Nobody talked about attacking Pakistan,Claim,"(51620, 51658)",you don't do that,Claim,"(49919, 49936)",Attack
+"Or whether it be Nixon's trip to China, which was preceded by Henry Kissinger, many times before he went",Premise,"(63930, 64034)",there's got to be pre-conditions,Claim,"(64074, 64106)",Support
+I warned the administration that you had Russian peacekeepers in Georgian territory,Premise,"(76619, 76702)",we have to have foresight and anticipate some of these problems,Claim,"(76536, 76599)",Support
+because of some of the mistakes that have been made,Premise,"(84336, 84387)","we, I think, are going to have a lot of work to do in the next administration to restore that sense that America is that shining beacon on a hill",Claim,"(84559, 84704)",Support
+I promise you that that will happen,Claim,"(8946, 8981)","As president of the United States, people are going to be held accountable in my administration",Claim,"(8845, 8940)",Support
+You said that we were going to be greeted as liberators,Premise,"(41364, 41419)",You were wrong,Claim,"(41348, 41362)",Support
+"if John wants to disagree with this, he can let me know, that, if the United States has Al Qaida, bin Laden, top-level lieutenants in our sights, and Pakistan is unable or unwilling to act, then we should take them out",Premise,"(51684, 51902)",I think that's the right strategy,Claim,"(51909, 51942)",Support
+"whether it be Ronald Reagan, who wouldn't sit down with Brezhnev, Andropov or Chernenko until Gorbachev was ready with glasnost and perestroika",Premise,"(63785, 63928)",there's got to be pre-conditions,Claim,"(64074, 64106)",Support
+That wasn't done,Premise,"(76874, 76890)",we needed to do was replace them with international peacekeepers and a special envoy to resolve the crisis before it boiled over,Claim,"(76744, 76872)",Support
+"we, I think, are going to have a lot of work to do in the next administration to restore that sense that America is that shining beacon on a hill",Claim,"(84559, 84704)",I intend to do as president is to restore America's standing in the world,Claim,"(84128, 84201)",Support
+we need it not just when there's a crisis,Claim,"(9181, 9222)",I think Senator McCain's absolutely right that we need more responsibility,Claim,"(9101, 9175)",Support
+You said that there was no history of violence between Shia and Sunni,Premise,"(41437, 41506)",You were wrong,Claim,"(41348, 41362)",Support
+Senator McCain is also right that it's difficult,Premise,"(52304, 52352)",I think this is the right strategy,Claim,"(52263, 52297)",Support
+there's got to be pre-conditions,Claim,"(64074, 64106)",I'll sit down with anybody,Claim,"(64042, 64068)",Support
+"had it been done, it's possible we could have avoided the issue",Claim,"(76896, 76959)",we needed to do was replace them with international peacekeepers and a special envoy to resolve the crisis before it boiled over,Claim,"(76744, 76872)",Support
+this is the greatest country on Earth,Claim,"(84293, 84330)",I intend to do as president is to restore America's standing in the world,Claim,"(84128, 84201)",Support
+I think Senator McCain's absolutely right that we need more responsibility,Claim,"(9101, 9175)",It has to have accountability and oversight,Claim,"(5045, 5088)",Support
+the question is who is best-equipped as the next president to make good decisions about how we use our military,Premise,"(41659, 41770)",I think we can take a look at our judgment,Claim,"(41848, 41890)",Support
+This is not an easy situation,Premise,"(52354, 52383)",I think this is the right strategy,Claim,"(52263, 52297)",Support
+there's got to be pre-conditions,Claim,"(64074, 64106)","Senator Obama said, without preconditions",Claim,"(64230, 64271)",Attack
+"That means that we, as one of the biggest consumers of oil -- 25 percent of the world's oil -- have to have an energy strategy not just to deal with Russia",Premise,"(77136, 77291)","to deal with many of the rogue states we've talked about, Iran, Venezuela",Claim,"(77297, 77370)",Support
+"in the case of missile defense, Senator Obama said it had to be, quote, ""proven",Premise,"(84813, 84892)","That wasn't proven when Ronald Reagan said we would do SDI, which is missile defense",Claim,"(84895, 84979)",Support
+not what's good for Main Street,Premise,"(9330, 9361)",we need it not just when there's a crisis,Claim,"(9181, 9222)",Support
+how we make sure that we are prepared and ready for the next conflict,Premise,"(41772, 41841)",I think we can take a look at our judgment,Claim,"(41848, 41890)",Support
+You've got cross-border attacks against U.S. troops,Premise,"(52385, 52436)",This is not an easy situation,Premise,"(52354, 52383)",Support
+there's got to be pre-conditions,Claim,"(64074, 64106)","Those pre-conditions would apply that we wouldn't legitimize with a face to face meeting, a person like Ahmadinejad",Claim,"(64108, 64223)",Support
+"to deal with many of the rogue states we've talked about, Iran, Venezuela",Claim,"(77297, 77370)",Russia is in part resurgent and Putin is feeling powerful,Claim,"(77023, 77080)",Support
+"That wasn't proven when Ronald Reagan said we would do SDI, which is missile defense",Claim,"(84895, 84979)",it was major -- a major factor in bringing about the end of the Cold War,Claim,"(84985, 85057)",Support
+we've had years in which the reigning economic ideology has been what's good for Wall Street,Premise,"(9232, 9324)",we need it not just when there's a crisis,Claim,"(9181, 9222)",Support
+General Petraeus invited Senator Lindsey Graham and me to attend a ceremony where 688 brave young Americans,Premise,"(42123, 42230)",two Fourths of July ago I was in Baghdad,Premise,"(42081, 42121)",Support
+we've got a choice,Premise,"(52442, 52460)","We could allow our troops to just be on the defensive and absorb those blows again and again and again, if Pakistan is unwilling to cooperate",Claim,"(52462, 52603)",Support
+he may not be the right person to talk to,Premise,"(64376, 64417)",Ahmadinejad is not the most powerful person in Iran,Claim,"(64320, 64371)",Support
+we only have 3 percent of the world's oil supplies,Premise,"(77452, 77502)",we use 25 percent of the world's oil,Claim,"(77507, 77543)",Support
+"according to date certain, regardless of conditions, according to our military leaders, according to every expert, would lead to defeat",Claim,"(85328, 85463)","The consequences of defeat, which would result from his plan of withdrawal",Claim,"(85249, 85323)",Support
+there are folks out there who've been struggling before this crisis took place,Premise,"(9367, 9445)",we need it not just when there's a crisis,Claim,"(9181, 9222)",Support
+"whose enlistment had expired, were reenlisting to stay and fight for Iraqi freedom and American freedom",Premise,"(42232, 42335)",General Petraeus invited Senator Lindsey Graham and me to attend a ceremony where 688 brave young Americans,Premise,"(42123, 42230)",Support
+we have to start making some decisions,Premise,"(52608, 52646)","We could allow our troops to just be on the defensive and absorb those blows again and again and again, if Pakistan is unwilling to cooperate",Claim,"(52462, 52603)",Support
+"Senator McCain brought up the history, the bipartisan history of us engaging in direct diplomacy",Premise,"(64596, 64692)","I reserve the right, as president of the United States to meet with anybody at a time and place of my choosing if I think it's going to keep America safe",Claim,"(64423, 64576)",Support
+we use 25 percent of the world's oil,Claim,"(77507, 77543)",increasing domestic production and off-shore drilling,Claim,"(77393, 77446)",Support
+"possible defeat, loss of all the fragile sacrifice that we've made of American blood and treasure, which grieves us all",Claim,"(85467, 85586)","The consequences of defeat, which would result from his plan of withdrawal",Claim,"(85249, 85323)",Support
+energy policies that are not working,Claim,"(9678, 9714)",that we look at some of the underlying issues that have led to wages and incomes for ordinary Americans to go down,Claim,"(9518, 9632)",Support
+I was honored to be there,Premise,"(42337, 42362)",two Fourths of July ago I was in Baghdad,Premise,"(42081, 42121)",Support
+we were anti-democratic,Premise,"(52802, 52825)",we alienated the Pakistani population,Claim,"(52755, 52792)",Support
+"Senator McCain mentioned Henry Kissinger, who's one of his advisers, who, along with five recent secretaries of state, just said that we should meet with Iran -- guess what -- without precondition",Premise,"(64701, 64897)",This is one of your own advisers,Premise,"(64899, 64931)",Support
+we can't simply drill our way out of the problem,Premise,"(77548, 77596)","What we're going to have to do is to approach it through alternative energy, like solar, and wind, and biodiesel, and, yes, nuclear energy, clean-coal technology",Claim,"(77598, 77759)",Support
+They would establish a base in Iraq,Premise,"(85212, 85247)","Senator Obama still doesn't quite understand -- or doesn't get it -- that if we fail in Iraq, it encourages Al Qaida",Claim,"(85094, 85210)",Support
+a health care system that is broken,Claim,"(9641, 9676)",that we look at some of the underlying issues that have led to wages and incomes for ordinary Americans to go down,Claim,"(9518, 9632)",Support
+we spent a lot of time with them,Premise,"(42430, 42462)",I was honored to speak to those troops,Premise,"(42364, 42402)",Support
+we alienated the Pakistani population,Claim,"(52755, 52792)","the problem, John, with the strategy that's been pursued was that, for 10 years, we coddled Musharraf",Claim,"(52652, 52753)",Support
+It doesn't mean that you invite them over for tea one day,Premise,"(64990, 65047)","understand what this means ""without preconditions",Premise,"(64938, 64987)",Support
+I've got a plan for us to make a significant investment over the next 10 years to do that,Claim,"(77776, 77865)","What we're going to have to do is to approach it through alternative energy, like solar, and wind, and biodiesel, and, yes, nuclear energy, clean-coal technology",Claim,"(77598, 77759)",Support
+General Petraeus says we have had great success,Premise,"(85734, 85781)",it's very fragile,Claim,"(85787, 85804)",Support
+that we look at some of the underlying issues that have led to wages and incomes for ordinary Americans to go down,Claim,"(9518, 9632)","that's why it's so important, as we solve this short-term problem",Claim,"(9451, 9516)",Support
+I was honored to speak to those troops,Premise,"(42364, 42402)",two Fourths of July ago I was in Baghdad,Premise,"(42081, 42121)",Support
+"We had a 20th-century mindset that basically said, ""Well, you know, he may be a dictator, but he's our dictator",Premise,"(52827, 52938)",we lost legitimacy in Pakistan,Claim,"(52963, 52993)",Support
+"understand what this means ""without preconditions",Premise,"(64938, 64987)","it means is that we don't do what we've been doing, which is to say, ""Until you agree to do exactly what we say, we won't have direct contacts with you",Claim,"(65054, 65205)",Support
+"Over 26 years, Senator McCain voted 23 times against alternative energy, like solar, and wind, and biodiesel",Premise,"(78027, 78135)",we've got to walk the walk and not just talk the talk when it comes to energy independence,Claim,"(78156, 78246)",Support
+it's very fragile,Claim,"(85787, 85804)","All of that would be lost if we followed Senator Obama's plan to have specific dates with withdrawal, regardless of conditions on the ground",Claim,"(85588, 85728)",Support
+John said that the fundamentals of the economy are sound,Premise,"(9748, 9804)",I do not think that they are,Claim,"(9845, 9873)",Support
+you know what they said to us,Premise,"(42468, 42497)",I was honored to speak to those troops,Premise,"(42364, 42402)",Support
+We spent $10 billion,Premise,"(52995, 53015)",we lost legitimacy in Pakistan,Claim,"(52963, 52993)",Support
+There's a difference between preconditions and preparation,Premise,"(65208, 65266)","it means is that we don't do what we've been doing, which is to say, ""Until you agree to do exactly what we say, we won't have direct contacts with you",Claim,"(65054, 65205)",Support
+this is probably going to be just as vital for our economy,Premise,"(78256, 78314)",we've got to walk the walk and not just talk the talk when it comes to energy independence,Claim,"(78156, 78246)",Support
+"The consequences of defeat, which would result from his plan of withdrawal",Claim,"(85249, 85323)","All of that would be lost if we followed Senator Obama's plan to have specific dates with withdrawal, regardless of conditions on the ground",Claim,"(85588, 85728)",Support
+"John, 10 days ago, you said that the fundamentals of the economy are sound",Premise,"(9927, 10001)",I just fundamentally disagree,Claim,"(10167, 10196)",Support
+"this strategy, and this general, they are winning",Claim,"(42590, 42639)",We don't want our kids coming back here,Claim,"(42545, 42584)",Support
+we lost legitimacy in Pakistan,Claim,"(52963, 52993)","the problem, John, with the strategy that's been pursued was that, for 10 years, we coddled Musharraf",Claim,"(52652, 52753)",Support
+starting with low-level diplomatic talks,Premise,"(65308, 65348)",Of course we've got to do preparations,Claim,"(65268, 65306)",Support
+That's just not true,Claim,"(78800, 78820)",Senator Obama says he's for nuclear,Premise,"(78694, 78729)",Attack
+"All of that would be lost if we followed Senator Obama's plan to have specific dates with withdrawal, regardless of conditions on the ground",Claim,"(85588, 85728)",we can't do what Senator Obama wants to do,Claim,"(85810, 85852)",Support
+I do not think that they are,Claim,"(9845, 9873)",I just fundamentally disagree,Claim,"(10167, 10196)",Support
+We don't want our kids coming back here,Claim,"(42545, 42584)",Senator Obama refuses to acknowledge that we are winning in Iraq,Claim,"(42641, 42705)",Support
+"they weren't going after Al Qaida, and they are more powerful now than at any time since we began the war in Afghanistan",Claim,"(53038, 53158)",That's going to change when I'm president of the United States,Claim,"(53160, 53222)",Support
+Iran is a rogue regime,Premise,"(65379, 65401)",it may not work,Claim,"(65354, 65369)",Support
+That's just not true,Claim,"(78800, 78820)",he's against reprocessing and he's against storing,Premise,"(78735, 78785)",Attack
+That is the central issue of our time,Premise,"(85854, 85891)",we can't do what Senator Obama wants to do,Claim,"(85810, 85852)",Support
+"for the nurse, the teacher, the police officer, who, frankly, at the end of each month, they've got a little financial crisis going on",Premise,"(10361, 10495)","unless we are holding ourselves accountable day in, day out, not just when there's a crisis for folks who have power and influence and can hire lobbyists",Premise,"(10202, 10355)",Support
+That's not true,Claim,"(22168, 22183)",Senator Obama refuses to acknowledge that we are winning in Iraq,Claim,"(42641, 42705)",Attack
+"Everybody who was around then, and had been there, and knew about it knew that it was a failed state",Premise,"(53354, 53454)",I don't think that Senator Obama understands that there was a failed state in Pakistan when Musharraf came to power,Claim,"(53237, 53352)",Support
+it may not work,Premise,"(65354, 65369)","if it doesn't work, then we have strengthened our ability to form alliances to impose the tough sanctions that Senator McCain just mentioned",Claim,"(65708, 65848)",Support
+"if we drill off-shore and exploit a lot of these reserves, it will help, at temporarily, relieve our energy requirements",Premise,"(79014, 79134)",off-shore drilling is also something that is very important and it is a bridge,Claim,"(78916, 78994)",Support
+we can't do what Senator Obama wants to do,Claim,"(85810, 85852)",I think Americans will judge very seriously as to whether that's the right path or the wrong path and who should be the next president of the United States,Claim,"(85897, 86052)",Support
+"unless we are holding ourselves accountable day in, day out, not just when there's a crisis for folks who have power and influence and can hire lobbyists",Premise,"(10202, 10355)",They're having to take out extra debt just to make their mortgage payments,Claim,"(10497, 10571)",Support
+"There is social, economic progress, and a strategy, a strategy of going into an area, clearing and holding, and the people of the country then become allied with you",Premise,"(42847, 43012)",An election law just in the last few days,Premise,"(42804, 42845)",Support
+I was afraid that they couldn't make peace in a place where 300 or 400 or several hundred Marines would make a difference,Premise,"(53836, 53957)",I voted against that,Claim,"(53806, 53826)",Support
+"President Bush recently sent a senior ambassador, Bill Burns, to participate in talks with the Europeans around the issue of nuclear weapons",Premise,"(65538, 65678)","if it doesn't work, then we have strengthened our ability to form alliances to impose the tough sanctions that Senator McCain just mentioned",Claim,"(65708, 65848)",Support
+"it will have, I think, an important effect on the price of a barrel of oil",Claim,"(79140, 79214)",off-shore drilling is also something that is very important and it is a bridge,Claim,"(78916, 78994)",Support
+That has been their priority,Premise,"(86261, 86289)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Support
+They're having to take out extra debt just to make their mortgage payments,Claim,"(10497, 10571)",We haven't been paying attention to them,Claim,"(10573, 10613)",Support
+They inform on the bad guys,Premise,"(43014, 43041)","There is social, economic progress, and a strategy, a strategy of going into an area, clearing and holding, and the people of the country then become allied with you",Premise,"(42847, 43012)",Support
+I voted against that,Claim,"(53806, 53826)",I stood up,Claim,"(37514, 37524)",Support
+"we haven't done it, as in North Korea",Premise,"(65859, 65896)",They're a member of the axis of evil,Claim,"(65971, 66007)",Support
+That was the key legislation at the time and put us on the road to eliminating this issue of nuclear waste and the nuclear fuel that has to be taken care of,Premise,"(79503, 79659)",I supported Nunn-Lugar back in the early 1990s when a lot of my colleagues didn't,Claim,"(79420, 79501)",Support
+That has been where all our resources have gone,Premise,"(86291, 86338)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Support
+"if you look at our tax policies, it's a classic example",Premise,"(10619, 10674)",We haven't been paying attention to them,Claim,"(10573, 10613)",Support
+"peace comes to the country, and prosperity",Premise,"(43047, 43089)","There is social, economic progress, and a strategy, a strategy of going into an area, clearing and holding, and the people of the country then become allied with you",Premise,"(42847, 43012)",Support
+"Tragically, I was right",Premise,"(53959, 53982)",Nearly 300 Marines lost their lives in the bombing of the barracks,Claim,"(53984, 54050)",Support
+They tested a nuke,Premise,"(66115, 66133)",they quadrupled their nuclear capacity,Claim,"(66075, 66113)",Support
+I've said is that we have to store it safely,Claim,"(79768, 79812)",I have never said that I object to nuclear waste,Claim,"(79713, 79761)",Support
+"over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",there's no doubt,Claim,"(7148, 7164)",Support
+We've got fundamental problems in the system,Premise,"(10856, 10900)",we've got to fix the system,Premise,"(10827, 10854)",Support
+it wasn't a tactic,Claim,"(43128, 43146)",That's what's happening in Iraq,Claim,"(43091, 43122)",Support
+Nearly 300 Marines lost their lives in the bombing of the barracks,Claim,"(53984, 54050)",I stood up,Claim,"(37514, 37524)",Support
+They tested missiles,Premise,"(66135, 66155)",they quadrupled their nuclear capacity,Claim,"(66075, 66113)",Support
+No one can be opposed to alternate energy,Claim,"(80150, 80191)",I have voted for alternate fuel all of my time,Claim,"(79971, 80017)",Support
+He is not captured,Premise,"(86387, 86405)",bin Laden is still out there,Claim,"(86357, 86385)",Support
+"Main Street is paying a penalty for the excesses and greed in Washington, D.C., and in the Wall Street",Claim,"(10906, 11008)",there's no doubt that we have a long way to go,Claim,"(11013, 11059)",Support
+It was a strategy,Claim,"(43212, 43229)",it wasn't a tactic,Claim,"(43128, 43146)",Support
+we had Somalia,Premise,"(54061, 54075)",I supported,Claim,"(54111, 54122)",Support
+they quadrupled their nuclear capacity,Claim,"(66075, 66113)",They're a member of the axis of evil,Claim,"(65971, 66007)",Support
+bin Laden is still out there,Claim,"(86357, 86385)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Attack
+"stricter interpretation and consolidation of the various regulatory agencies that weren't doing their job, that has brought on this crisis",Premise,"(11077, 11215)",there's no doubt that we have a long way to go,Claim,"(11013, 11059)",Support
+that same strategy will be employed in Afghanistan by this great general,Premise,"(43235, 43307)",It was a strategy,Claim,"(43212, 43229)",Support
+we had the first Gulf War,Premise,"(54084, 54109)",I supported,Claim,"(54111, 54122)",Support
+They pulled out of the nonproliferation agreement,Premise,"(66157, 66206)",They're a member of the axis of evil,Claim,"(65971, 66007)",Support
+He is not killed,Premise,"(86407, 86423)",bin Laden is still out there,Claim,"(86357, 86385)",Support
+"Main Street is paying a penalty for the excesses and greed in Washington, D.C., and in the Wall Street",Claim,"(10906, 11008)",We haven't been paying attention to them,Claim,"(10573, 10613)",Support
+he didn't believe in a timetable,Premise,"(43759, 43791)",Senator McCain opposed funding for troops in legislation that had a timetable,Claim,"(43672, 43749)",Support
+a number of my own party and colleagues was against that operation in Bosnia,Premise,"(54183, 54259)",I supported us going into Bosnia,Claim,"(54144, 54176)",Support
+"they sent nuclear secrets, potentially, to countries like Syria",Claim,"(66212, 66275)",They're a member of the axis of evil,Claim,"(65971, 66007)",Support
+Al Qaida is resurgent,Claim,"(86425, 86446)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Attack
+"the American worker is the most productive, the most innovative",Claim,"(11306, 11369)",I have a fundamental belief in the goodness and strength of the American worker,Claim,"(11221, 11300)",Support
+"was open- ended, giving a blank check to George Bush",Claim,"(43848, 43900)",I opposed funding a mission that had no timetable,Claim,"(43793, 43842)",Support
+"That was the right thing to do, to stop genocide and to preserve what was necessary inside of Europe",Claim,"(54261, 54361)",I supported us going into Bosnia,Claim,"(54144, 54176)",Support
+the Bush administration reversed course on this,Premise,"(66315, 66362)",we have at least made some progress,Claim,"(66371, 66406)",Support
+They now hold a trillion dollars' worth of our debt,Claim,"(86556, 86607)","we've got challenges, for example, with China, where we are borrowing billions of dollars",Claim,"(86465, 86554)",Support
+"America is still the greatest producer, exporter and importer",Claim,"(11371, 11432)",I have a fundamental belief in the goodness and strength of the American worker,Claim,"(11221, 11300)",Support
+We had a difference on the timetable,Premise,"(43902, 43938)",I opposed funding a mission that had no timetable,Claim,"(43793, 43842)",Support
+ethnic cleansing and genocide was taking place there,Premise,"(54421, 54473)",I supported what we did in Kosovo,Claim,"(54363, 54396)",Support
+"because of the problems in North Korea, we are seeing it on shaky ground",Premise,"(66428, 66500)",we have at least made some progress,Claim,"(66371, 66406)",Support
+"they are active in countries like -- in regions like Latin America, and Asia, and Africa",Premise,"(86613, 86701)","we've got challenges, for example, with China, where we are borrowing billions of dollars",Claim,"(86465, 86554)",Support
+I have a fundamental belief in the goodness and strength of the American worker,Claim,"(11221, 11300)",I have a fundamental belief in the United States of America,Claim,"(11480, 11539)",Support
+I absolutely understand the difference between tactics and strategy,Premise,"(44058, 44125)",the strategic question that the president has to ask is not whether or not we are employing a particular approach in the country once we have made the decision to be there,Claim,"(44131, 44302)",Support
+"I opposed that we should turn -- turn the force in Somalia from a peacekeeping force into a peacemaking force, which they were not capable of",Premise,"(54511, 54652)",I have a record,Claim,"(54479, 54494)",Support
+he wasn't sure whether they were aligned with us,Premise,"(66820, 66868)",He even said the other day that he would not meet potentially with the prime minister of Spain,Claim,"(66700, 66794)",Support
+we've been focused on Iraq,Premise,"(86793, 86819)",They are -- the conspicuousness of their presence is only matched by our absence,Claim,"(86703, 86783)",Support
+I have a fundamental belief in the United States of America,Claim,"(11480, 11539)","I still believe, under the right leadership, our best days are ahead of us",Claim,"(11545, 11619)",Support
+was this wise,Premise,"(44321, 44334)",the strategic question that the president has to ask is not whether or not we are employing a particular approach in the country once we have made the decision to be there,Claim,"(44131, 44302)",Support
+I supported what we did in Kosovo,Claim,"(54363, 54396)",I have a record,Claim,"(54479, 54494)",Support
+Spain is a NATO ally,Claim,"(66885, 66905)",He even said the other day that he would not meet potentially with the prime minister of Spain,Claim,"(66700, 66794)",Attack
+They are -- the conspicuousness of their presence is only matched by our absence,Claim,"(86703, 86783)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Attack
+It's completely out of control,Claim,"(12080, 12110)",the first thing we have to do is get spending under control in Washington,Claim,"(12005, 12078)",Support
+We had a legitimate difference,Premise,"(44022, 44052)",We didn't have a difference on whether or not we were going to be funding troops,Claim,"(43940, 44020)",Support
+I supported us going into Bosnia,Claim,"(54144, 54176)",I have a record,Claim,"(54479, 54494)",Support
+"If we can't meet with our friends, I don't know how we're going to lead the world in terms of dealing with critical issues like terrorism",Claim,"(66933, 67070)",He even said the other day that he would not meet potentially with the prime minister of Spain,Claim,"(66700, 66794)",Attack
+we have viewed everything through this single lens,Premise,"(86893, 86943)",We have weakened our capacity to project power around the world,Claim,"(86821, 86884)",Support
+we have now presided over the largest increase in the size of government since the Great Society,Premise,"(12125, 12221)",It's completely out of control,Claim,"(12080, 12110)",Support
+the strategic question that the president has to ask is not whether or not we are employing a particular approach in the country once we have made the decision to be there,Claim,"(44131, 44302)",We didn't have a difference on whether or not we were going to be funding troops,Claim,"(43940, 44020)",Support
+I supported,Claim,"(54111, 54122)",I have a record,Claim,"(54479, 54494)",Support
+He said that there could be secretary-level and lower level meetings,Claim,"(67420, 67488)",Dr. Kissinger did not say that he would approve of face-to- face meetings between the president of the United States and the president -- and Ahmadinejad,Claim,"(67214, 67367)",Support
+We have weakened our capacity to project power around the world,Claim,"(86821, 86884)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Attack
+"We Republicans came to power to change government, and government changed us",Premise,"(12223, 12299)",It's completely out of control,Claim,"(12080, 12110)",Support
+"This is a time when bin Laden was still out, and now they've reconstituted themselves",Premise,"(44594, 44679)",There is nobody who can pose a threat to us there,Claim,"(44543, 44592)",Support
+I stood up,Claim,"(37514, 37524)",I have a record,Claim,"(54479, 54494)",Support
+"What Senator Obama doesn't seem to understand that if without precondition you sit down across the table from someone who has called Israel a ""stinking corpse,"" and wants to destroy that country and wipe it off the map",Claim,"(67577, 67795)",This is dangerous,Claim,"(67828, 67845)",Support
+We are now spending $10 billion or more every month,Premise,"(86982, 87033)",we can't provide health care to people who need it,Claim,"(87050, 87100)",Support
+it's a gateway,Premise,"(12421, 12435)","the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug",Claim,"(12312, 12411)",Support
+"We have seen Afghanistan worsen, deteriorate",Claim,"(44336, 44380)",We need more troops there,Claim,"(44382, 44407)",Support
+which involve the highest responsibility and the toughest decisions that any president can make,Premise,"(54743, 54838)",I have a record of being involved in these national security issues,Claim,"(54674, 54741)",Support
+It isn't just naive,Premise,"(67847, 67866)",This is dangerous,Claim,"(67828, 67845)",Support
+which will determine whether or not we are going to be competitive in the long term,Premise,"(87145, 87228)",We can't invest in science and technology,Claim,"(87102, 87143)",Support
+It's a gateway to out-of-control spending and corruption,Premise,"(12437, 12493)","the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug",Claim,"(12312, 12411)",Support
+"Senator McCain, in the rush to go into Iraq, said, you know what",Premise,"(44439, 44503)",We've been successful in Afghanistan,Claim,"(44505, 44541)",Support
+I have a record of being involved in these national security issues,Claim,"(54674, 54741)",I have a record,Claim,"(54479, 54494)",Support
+We don't know what the status of the dear leader's health is today,Premise,"(68213, 68279)","North Korea, most repressive and brutal regime probably on Earth",Claim,"(68054, 68118)",Support
+There has never been a country on Earth that saw its economy decline and yet maintained its military superiority,Claim,"(87230, 87342)",this is a national security issue,Claim,"(87347, 87380)",Support
+"the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug",Claim,"(12312, 12411)",It's completely out of control,Claim,"(12080, 12110)",Support
+There is nobody who can pose a threat to us there,Claim,"(44543, 44592)",We've been successful in Afghanistan,Claim,"(44505, 44541)",Support
+that is to send our young men and women into harm's way,Premise,"(54844, 54899)",which involve the highest responsibility and the toughest decisions that any president can make,Premise,"(54743, 54838)",Support
+"we know this, that the North Koreans have broken every agreement that they've entered into",Claim,"(68285, 68375)","North Korea, most repressive and brutal regime probably on Earth",Claim,"(68054, 68118)",Support
+We haven't adequately funded veterans' care,Claim,"(87382, 87425)",this is a national security issue,Claim,"(87347, 87380)",Support
+the evils of this earmarking and pork-barrel spending,Premise,"(12576, 12629)",we have former members of Congress now residing in federal prison,Claim,"(12499, 12564)",Support
+Secretary of Defense Robert Gates himself acknowledges the war on terrorism started in Afghanistan and it needs to end there,Premise,"(44681, 44805)",we can't do it if we are not willing to give Iraq back its country,Claim,"(44811, 44877)",Support
+"He was 22 years old and he was killed in combat outside of Baghdad, Matthew Stanley, before Christmas last year",Premise,"(55106, 55217)","she said, ""Senator McCain, I want you to do me the honor of wearing a bracelet with my son's name on it",Premise,"(55000, 55103)",Support
+"The average South Korean is three inches taller than the average North Korean, a huge gulag",Premise,"(68120, 68211)","North Korea, most repressive and brutal regime probably on Earth",Claim,"(68054, 68118)",Support
+"we've got -- I meet veterans all across the country who are trying to figure out, ""How can I get disability payments",Premise,"(87472, 87588)",We haven't adequately funded veterans' care,Claim,"(87382, 87425)",Support
+we have former members of Congress now residing in federal prison,Claim,"(12499, 12564)",It's completely out of control,Claim,"(12080, 12110)",Support
+We should do it in phases,Claim,"(44938, 44963)",we should end this war responsibly,Claim,"(44902, 44936)",Support
+"she said, ""Senator McCain, I want you to do me the honor of wearing a bracelet with my son's name on it",Premise,"(55000, 55103)","I had a town hall meeting in Wolfeboro, New Hampshire, and a woman stood up",Premise,"(54920, 54995)",Support
+"we ought to go back to a little bit of Ronald Reagan's ""trust, but verify,"" and certainly not sit down across the table from -- without precondition, as Senator Obama said he did twice",Premise,"(68381, 68565)",it's just dangerous,Claim,"(68575, 68594)",Support
+"I can't get treatment."" So we have put all chips in, right there, and nobody is talking about losing this war",Premise,"(87639, 87748)",We haven't adequately funded veterans' care,Claim,"(87382, 87425)",Support
+we spent $3 million to study the DNA of bears in Montana,Premise,"(12641, 12697)",the fact is that it was $3 million of our taxpayers' money,Claim,"(12766, 12824)",Support
+provide some relief to military families and our troops and bolster our efforts in Afghanistan so that we can capture and kill bin Laden and crush al Qaeda,Claim,"(45036, 45191)",in 16 months we should be able to reduce our combat troops,Claim,"(44969, 45027)",Support
+"then she said, ""But, Senator McCain, I want you to do everything -- promise me one thing, that you'll do everything in your power to make sure that my son's death was not in vain",Premise,"(55351, 55529)",That means that that mission succeeds,Claim,"(55532, 55569)",Support
+"Nobody's been talking about that, and Senator McCain knows it",Premise,"(68781, 68842)","Senator McCain keeps on using this example that suddenly the president would just meet with somebody without doing any preparation, without having low-level talks",Claim,"(68617, 68779)",Support
+That's been missing over the last eight years,Claim,"(87893, 87938)",What we are talking about is recognizing that the next president has to have a broader strategic vision about all the challenges that we face,Claim,"(87750, 87891)",Support
+the fact is that it was $3 million of our taxpayers' money,Claim,"(12766, 12824)",It's completely out of control,Claim,"(12080, 12110)",Support
+we still have more troops in Iraq than we did before the surge,Premise,"(45350, 45412)","the commanders in Afghanistan, as well as Admiral Mullen, have acknowledged that we don't have enough troops to deal with Afghanistan",Claim,"(45208, 45341)",Support
+just like the mother I met at the airport the other day whose son was killed,Claim,"(55628, 55704)",I know what that's like when an army is defeated,Claim,"(55756, 55804)",Support
+This is a mischaracterization of my position,Premise,"(68844, 68888)","Senator McCain keeps on using this example that suddenly the president would just meet with somebody without doing any preparation, without having low-level talks",Claim,"(68617, 68779)",Support
+What we are talking about is recognizing that the next president has to have a broader strategic vision about all the challenges that we face,Claim,"(87750, 87891)","over the last eight years, this administration, along with Senator McCain, have been solely focused on Iraq",Claim,"(86152, 86259)",Attack
+It's completely out of control,Claim,"(12080, 12110)",it has got to be brought under control.,Claim,"(12830, 12869)",Support
+That's not the case,Claim,"(45505, 45524)",Admiral Mullen suggests that Senator Obama's plan is dangerous for America,Claim,"(45422, 45496)",Attack
+just like those young people who re-enlisted in Baghdad,Claim,"(55571, 55626)",I know what that's like when an army is defeated,Claim,"(55756, 55804)",Support
+the idea is that we do not expect to solve every problem before we initiate talks,Premise,"(69003, 69084)","the Bush administration has come to recognize that it hasn't worked, this notion that we are simply silent when it comes to our enemies",Claim,"(69101, 69236)",Support
+That sense is something that I want to restore,Premise,"(87940, 87986)",What we are talking about is recognizing that the next president has to have a broader strategic vision about all the challenges that we face,Claim,"(87750, 87891)",Support
+I've got a pen,Claim,"(12967, 12981)",I'm going to veto every single spending bill that comes across my desk,Claim,"(12987, 13057)",Support
+He did not say that,Claim,"(45674, 45693)",That's not the case,Claim,"(45505, 45524)",Support
+they all say to me that we don't want defeat,Premise,"(55710, 55754)",I know what that's like when an army is defeated,Claim,"(55756, 55804)",Support
+Nobody is even talking about that,Premise,"(69378, 69411)",the notion that we would sit with Ahmadinejad and not say anything while he's spewing his nonsense and his vile comments is ridiculous,Claim,"(69242, 69376)",Support
+we've seen this stubbornness before in this administration to cling to a belief that somehow the surge has not succeeded and failing to acknowledge that he was wrong about the surge,Claim,"(88449, 88630)",I honestly don't believe that Senator Obama has the knowledge or experience and has made the wrong judgments in a number of areas,Claim,"(88221, 88350)",Support
+I will make them famous,Premise,"(13059, 13082)",I'm going to veto every single spending bill that comes across my desk,Claim,"(12987, 13057)",Support
+General Petraeus has praised the successes,Premise,"(45903, 45945)","Osama bin Laden and General Petraeus have one thing in common that I know of, they both said that Iraq is the central battleground",Claim,"(45767, 45897)",Support
+they were defeated,Premise,"(55908, 55926)","A war that I was in, where we had an Army, that it wasn't through any fault of their own",Premise,"(55814, 55902)",Support
+We do that all the time,Premise,"(70116, 70139)","he encourages and other people encourage contacts, and negotiations, and all other things",Claim,"(70025, 70114)",Support
+we need more flexibility in a president of the United States than that,Claim,"(88673, 88743)",we've seen this stubbornness before in this administration to cling to a belief that somehow the surge has not succeeded and failing to acknowledge that he was wrong about the surge,Claim,"(88449, 88630)",Attack
+You will know their names,Premise,"(13084, 13109)",I'm going to veto every single spending bill that comes across my desk,Claim,"(12987, 13057)",Support
+he said those successes are fragile,Premise,"(45951, 45986)","if we set a specific date for withdrawal -- and by the way, Senator Obama's original plan, they would have been out last spring before the surge ever had a chance to succeed",Claim,"(45991, 46164)",Support
+"A war that I was in, where we had an Army, that it wasn't through any fault of their own",Premise,"(55814, 55902)",I know how hard it is for that -- for an Army and a military to recover from that,Claim,"(55932, 56013)",Support
+I am not parsing words,Claim,"(70286, 70308)",Senator Obama is parsing words when he says precondition means preparation,Claim,"(70203, 70277)",Attack
+"Reform, prosperity, and peace, these are major challenges to the United States of America",Premise,"(89245, 89334)","I have the ability, and the knowledge, and the background to make the right judgments, to keep this country safe and secure",Claim,"(89120, 89243)",Support
+they'll look at those projects,Premise,"(13406, 13436)",I suggest that people go up on the Web site of Citizens Against Government Waste,Premise,"(13320, 13400)",Support
+I know that that's a strategy that has worked and can succeed,Premise,"(46340, 46401)","if we snatch defeat from the jaws of victory and adopt Senator Obama's plan, then we will have a wider war",Claim,"(46407, 46513)",Support
+we won't come home in defeat and dishonor and probably have to go back if we fail,Claim,"(56055, 56136)",we will win this one,Claim,"(56030, 56050)",Support
+I'm using the same words that your advisers use,Claim,"(70357, 70404)",I am not parsing words,Claim,"(70286, 70308)",Support
+"I have the ability, and the knowledge, and the background to make the right judgments, to keep this country safe and secure",Claim,"(89120, 89243)",I don't think I need any on-the-job training,Claim,"(89336, 89380)",Support
+I suggest that people go up on the Web site of Citizens Against Government Waste,Premise,"(13320, 13400)","He has asked for $932 million of earmark pork-barrel spending, nearly a million dollars for every day that he's been in the United States Senate",Premise,"(13174, 13318)",Support
+"it will make things more complicated throughout the region, including in Afghanistan",Claim,"(46518, 46602)","if we snatch defeat from the jaws of victory and adopt Senator Obama's plan, then we will have a wider war",Claim,"(46407, 46513)",Support
+"from the mother of Sergeant Ryan David Jopeck (ph), given to me in green bay",Premise,"(56218, 56294)","I've got a bracelet, too, from Sergeant",Premise,"(56176, 56215)",Support
+I'm using the same words that your advisers use,Claim,"(70357, 70404)",Senator Obama is parsing words when he says precondition means preparation,Claim,"(70203, 70277)",Attack
+I'm ready to go at it right now,Premise,"(89382, 89413)",I don't think I need any on-the-job training,Claim,"(89336, 89380)",Support
+"He has asked for $932 million of earmark pork-barrel spending, nearly a million dollars for every day that he's been in the United States Senate",Premise,"(13174, 13318)","That kind of thing is not the way to rein in runaway spending in Washington, D.C",Claim,"(13438, 13518)",Support
+"She asked me, can you please make sure another mother is not going through what I'm going through",Premise,"(56296, 56393)","I've got a bracelet, too, from Sergeant",Premise,"(56176, 56215)",Support
+That's where I get my name,Premise,"(89499, 89525)",my father came from Kenya,Premise,"(89472, 89497)",Support
+"He has asked for $932 million of earmark pork-barrel spending, nearly a million dollars for every day that he's been in the United States Senate",Premise,"(13174, 13318)",That's one of the fundamental differences that Senator Obama and I have,Premise,"(13520, 13591)",Support
+they're carrying out the missions of their commander in chief,Premise,"(56437, 56498)",No U.S. soldier ever dies in vain,Claim,"(56395, 56428)",Support
+the notion was that there was no other country on Earth where you could make it if you tried,Premise,"(89626, 89718)","in the '60s, he wrote letter after letter to come to college here in the United States",Claim,"(89531, 89617)",Support
+Senator McCain is absolutely right that the earmarks process has been abused,Premise,"(13642, 13718)","the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug",Claim,"(12312, 12411)",Support
+we honor all the service that they've provided,Premise,"(56504, 56550)",No U.S. soldier ever dies in vain,Claim,"(56395, 56428)",Support
+The ideals and the values of the United States inspired the entire world,Claim,"(89720, 89792)","in the '60s, he wrote letter after letter to come to college here in the United States",Claim,"(89531, 89617)",Support
+Senator McCain is absolutely right that the earmarks process has been abused,Premise,"(13642, 13718)","whether it was for senior centers or what have you, until we cleaned it up",Premise,"(13777, 13851)",Support
+Our troops have performed brilliantly,Premise,"(56552, 56589)",No U.S. soldier ever dies in vain,Claim,"(56395, 56428)",Support
+"this is part of our judgment, this is part of how we're going to keep America safe",Premise,"(90009, 90091)",what we need to do,Premise,"(62122, 62140)",Support
+Earmarks account for $18 billion in last year's budget,Claim,"(14039, 14093)",$18 billion is important,Claim,"(14292, 14316)",Support
+sending our military into battle is such an enormous step,Premise,"(56709, 56766)","The question is for the next president, are we making good judgments about how to keep America safe precisely",Claim,"(56591, 56700)",Support
+what we need to do,Premise,"(62122, 62140)",to send a message to the world that we are going to invest in issues like education,Claim,"(90104, 90187)",Support
+Senator McCain is proposing -- and this is a fundamental difference between us -- $300 billion in tax cuts to some of the wealthiest corporations and individuals in the country,Claim,"(14095, 14271)",$300 billion is really important,Claim,"(14318, 14350)",Support
+we took our eye off the folks who perpetrated 9/11,Premise,"(56846, 56896)",we took our eye off Afghanistan,Premise,"(56813, 56844)",Support
+"I don't think any of us can say that our standing in the world now, the way children around the world look at the United States, is the same",Claim,"(89794, 89934)",to send a message to the world that we are going to invest in issues like education,Claim,"(90104, 90187)",Support
+"in his tax plan, you would have CEOs of Fortune 500 companies getting an average of $700,000 in reduced taxes",Premise,"(14356, 14465)",while leaving 100 million Americans out,Claim,"(14467, 14506)",Support
+they are still sending out videotapes,Premise,"(56898, 56935)",we took our eye off the folks who perpetrated 9/11,Premise,"(56846, 56896)",Support
+"I don't think any of us can say that our standing in the world now, the way children around the world look at the United States, is the same",Claim,"(89794, 89934)",we are going to invest in issues that -- that relate to how ordinary people are able to live out their dreams,Claim,"(90189, 90298)",Support
+while leaving 100 million Americans out,Claim,"(14467, 14506)",$300 billion is really important,Claim,"(14318, 14350)",Support
+we took our eye off Afghanistan,Premise,"(56813, 56844)",we are having enormous problems in Afghanistan,Claim,"(57014, 57060)",Support
+we are going to invest in issues that -- that relate to how ordinary people are able to live out their dreams,Claim,"(90189, 90298)",that is something that I'm going to be committed to as president of the United States,Claim,"(90304, 90389)",Support
+$300 billion is really important,Claim,"(14318, 14350)","my attitude is, we've got to grow the economy from the bottom up",Claim,"(14511, 14575)",Support
+because of that decision,Premise,"(57061, 57085)",we are having enormous problems in Afghanistan,Claim,"(57014, 57060)",Support
+to send a message to the world that we are going to invest in issues like education,Claim,"(90104, 90187)",that is something that I'm going to be committed to as president of the United States,Claim,"(90304, 90389)",Support
+that means that the ordinary American out there who's collecting a paycheck every day,Premise,"(14663, 14748)","What I've called for is a tax cut for 95 percent of working families, 95 percent",Claim,"(14577, 14657)",Support
+"Senator McCain, nobody is talking about defeat in Iraq",Claim,"(56940, 56994)",we are having enormous problems in Afghanistan,Claim,"(57014, 57060)",Support
+"when I came home from prison, I saw our veterans being very badly treated",Premise,"(90448, 90521)",it made me sad,Premise,"(90527, 90541)",Support
+"they've got a little extra money to be able to buy a computer for their kid, to fill up on this gas that is killing them",Premise,"(14750, 14870)","What I've called for is a tax cut for 95 percent of working families, 95 percent",Claim,"(14577, 14657)",Support
+"while you were focused on Iraq, you said well, we can ""muddle through"" Afghanistan",Premise,"(57193, 57275)",it is not true you have consistently been concerned about what happened in Afghanistan,Claim,"(57091, 57177)",Support
+I know how to deal with our adversaries,Claim,"(90853, 90892)","I guarantee you, as president of the United States, I know how to heal the wounds of war",Claim,"(90763, 90851)",Support
+"my attitude is, we've got to grow the economy from the bottom up",Claim,"(14511, 14575)","What I've called for is a tax cut for 95 percent of working families, 95 percent",Claim,"(14577, 14657)",Support
+you don't muddle through going after bin Laden,Claim,"(57334, 57380)",it is not true you have consistently been concerned about what happened in Afghanistan,Claim,"(57091, 57177)",Support
+I know how to deal with our friends,Claim,"(90898, 90933)","I guarantee you, as president of the United States, I know how to heal the wounds of war",Claim,"(90763, 90851)",Support
+"over time, that, I think, is going to be a better recipe for economic growth than the -- the policies of President Bush that John McCain wants to -- wants to follow",Claim,"(14876, 15040)","What I've called for is a tax cut for 95 percent of working families, 95 percent",Claim,"(14577, 14657)",Support
+You don't muddle through the central front on terror,Claim,"(57277, 57329)",it is not true you have consistently been concerned about what happened in Afghanistan,Claim,"(57091, 57177)",Support
+I worked on normalization of relations between our two countries so that our veterans could come all the way home,Claim,"(90648, 90761)","I guarantee you, as president of the United States, I know how to heal the wounds of war",Claim,"(90763, 90851)",Support
+"He didn't happen to see that light during the first three years as a member of the United States Senate, $932 million in requests",Premise,"(15298, 15427)",Senator Obama suspended those requests for pork-barrel projects after he was running for president of the United States,Premise,"(15177, 15296)",Support
+You don't muddle through stamping out the Taliban,Claim,"(57382, 57431)",it is not true you have consistently been concerned about what happened in Afghanistan,Claim,"(57091, 57177)",Support
+"It's only $18 billion."" Do you know that it's tripled in the last five years",Premise,"(15538, 15614)",I have fought against it my career,Claim,"(15847, 15881)",Support
+I think that is something we have to take seriously,Claim,"(57433, 57484)","when I'm president, I will",Claim,"(17004, 17030)",Support
+Do you know that it's gone completely out of control to the point where it corrupts people,Premise,"(15616, 15706)",I have fought against it my career,Claim,"(15847, 15881)",Support
+it is not true you have consistently been concerned about what happened in Afghanistan,Claim,"(57091, 57177)","when I'm president, I will",Claim,"(17004, 17030)",Support
+that's a fundamental difference between myself and Senator Obama,Premise,"(16206, 16270)","Senator Obama didn't mention that, along with his tax cuts, he is also proposing some $800 billion in new spending on new programs",Claim,"(16069, 16199)",Support
+I visited Afghanistan,Premise,"(57850, 57871)",I know what our security requirements are,Claim,"(57936, 57977)",Support
+stop providing tax cuts to corporations that are shipping jobs overseas so that we're giving tax breaks to companies that are investing here in the United States,Premise,"(16526, 16687)",I think those are pretty important priorities,Claim,"(16784, 16829)",Support
+I traveled to Waziristan,Premise,"(57876, 57900)",I know what our security requirements are,Claim,"(57936, 57977)",Support
+What I do is I close corporate loopholes,Premise,"(16484, 16524)",I think those are pretty important priorities,Claim,"(16784, 16829)",Support
+I traveled to these places,Premise,"(57905, 57931)",I know what our security requirements are,Claim,"(57936, 57977)",Support
+I make sure that we have a health care system that allows for everyone to have basic coverage,Premise,"(16689, 16782)",I think those are pretty important priorities,Claim,"(16784, 16829)",Support
+we need it to succeed,Premise,"(58092, 58113)",we need the new strategy,Claim,"(58063, 58087)",Support
+I think those are pretty important priorities,Claim,"(16784, 16829)",I pay for every dime of it,Claim,"(16835, 16861)",Support
+we need the new strategy,Claim,"(58063, 58087)",we will prevail in Afghanistan,Claim,"(58027, 58057)",Support
+"John, nobody is denying that $18 billion is important",Premise,"(16904, 16957)",we need earmark reform,Claim,"(16976, 16998)",Support
+then that will have a calamitous effect in Afghanistan and American national security interests in the region,Claim,"(58268, 58377)",if we adopted Senator Obama's set date for withdrawal,Claim,"(58213, 58266)",Support
+we need earmark reform,Claim,"(16976, 16998)","when I'm president, I will go line by line to make sure that we are not spending money unwisely",Claim,"(17004, 17099)",Support
+if we adopted Senator Obama's set date for withdrawal,Claim,"(58213, 58266)","if we suffer defeat in Iraq, which General Petraeus predicts we will",Claim,"(58143, 58211)",Support
+you are neglecting people who are really struggling right now,Premise,"(17331, 17392)",I think that is a continuation of the last eight years,Claim,"(17394, 17448)",Support
+when you look at your tax policies that are directed primarily at those who are doing well,Premise,"(17235, 17325)",I think that is a continuation of the last eight years,Claim,"(17394, 17448)",Support
+I think that is a continuation of the last eight years,Claim,"(17394, 17448)",we can't afford another four,Claim,"(17454, 17482)",Support
+Ireland pays 11 percent,Premise,"(17870, 17893)","Right now, in the United States of America, business pays the second-highest business taxes in the world, 35 percent",Premise,"(17752, 17868)",Support
+"Right now, in the United States of America, business pays the second-highest business taxes in the world, 35 percent",Premise,"(17752, 17868)","if you're a business person, and you can locate any place in the world, then, obviously, if you go to the country where it's 11 percent tax versus 35 percent",Claim,"(17900, 18057)",Support
+"you're going to be able to create jobs, increase your business, make more investment",Claim,"(18059, 18143)","if you're a business person, and you can locate any place in the world, then, obviously, if you go to the country where it's 11 percent tax versus 35 percent",Claim,"(17900, 18057)",Support
+I want to cut that business tax,Premise,"(18156, 18187)",I want to cut it so that businesses will remain in -- in the United States of America and create jobs,Claim,"(18189, 18290)",Support
+"if you're a business person, and you can locate any place in the world, then, obviously, if you go to the country where it's 11 percent tax versus 35 percent",Claim,"(17900, 18057)",I want to cut it so that businesses will remain in -- in the United States of America and create jobs,Claim,"(18189, 18290)",Support
+It's a lot more than $18 billion in pork-barrel spending,Premise,"(18322, 18378)",I want to cut it so that businesses will remain in -- in the United States of America and create jobs,Claim,"(18189, 18290)",Support
+"I want every family to have a $5,000 refundable tax credit so they can go out and purchase their own health care",Premise,"(18773, 18885)",I want people to have tax cuts,Premise,"(18741, 18771)",Support
+"I want to double the dividend from $3,500 to $7,000 for every dependent child in America",Premise,"(18887, 18975)",I want people to have tax cuts,Premise,"(18741, 18771)",Support
+"a lot of people might be interested in Senator Obama's definition of ""rich",Premise,"(19060, 19134)",the worst thing we could possibly do is to raise taxes on anybody,Claim,"(18989, 19054)",Support
+"if you make less than $250,000, less than a quarter-million dollars a year, then you will not see one dime's worth of tax increase",Claim,"(19387, 19517)",I can tell the American people: 95 percent of you will get a tax cut,Claim,"(19313, 19381)",Support
+John mentioned the fact that business taxes on paper are high in this country,Premise,"(19524, 19601)",he's absolutely right,Claim,"(19607, 19628)",Support
+Here's the problem: There are so many loopholes that have been written into the tax code,Claim,"(19630, 19718)",that we actually see our businesses pay effectively one of the lowest tax rates in the world,Claim,"(19763, 19855)",Support
+You just want to add an additional tax cut over the loopholes,Premise,"(20056, 20117)",that's a problem,Claim,"(20123, 20139)",Support
+"there are people out there who are working every day, who are not getting a tax cut, and you want to give them more",Claim,"(19892, 20007)",that's a problem,Claim,"(20123, 20139)",Support
+that we actually see our businesses pay effectively one of the lowest tax rates in the world,Claim,"(19763, 19855)","there are people out there who are working every day, who are not getting a tax cut, and you want to give them more",Claim,"(19892, 20007)",Support
+"he doesn't tell you is that he intends to, for the first time in history, tax health benefits",Premise,"(20255, 20348)",Here's the only problem: Your employer now has to pay taxes on the health care that you're getting from your employer,Claim,"(20397, 20514)",Support
+"you may end up getting a $5,000 tax credit",Premise,"(20353, 20395)",Here's the only problem: Your employer now has to pay taxes on the health care that you're getting from your employer,Claim,"(20397, 20514)",Support
+Here's the only problem: Your employer now has to pay taxes on the health care that you're getting from your employer,Claim,"(20397, 20514)","if you end up losing your health care from your employer, you've got to go out on the open market and try to buy it",Claim,"(20520, 20635)",Support
+"it's an example of this notion that the market can always solve everything and that the less regulation we have, the better off we're going to be",Premise,"(20688, 20833)","if you end up losing your health care from your employer, you've got to go out on the open market and try to buy it",Claim,"(20520, 20635)",Support
+It is not a good deal for the American people,Premise,"(20637, 20682)","if you end up losing your health care from your employer, you've got to go out on the open market and try to buy it",Claim,"(20520, 20635)",Support
+We had an energy bill before the United States Senate,Premise,"(21023, 21076)","It had all kinds of breaks for the oil companies, I mean, billions of dollars worth",Claim,"(21126, 21209)",Support
+It was festooned with Christmas tree ornaments,Premise,"(21078, 21124)",We had an energy bill before the United States Senate,Premise,"(21023, 21076)",Support
+"It had all kinds of breaks for the oil companies, I mean, billions of dollars worth",Claim,"(21126, 21209)",I voted against it,Claim,"(21211, 21229)",Support
+"It had all kinds of breaks for the oil companies, I mean, billions of dollars worth",Claim,"(21126, 21209)",Senator Obama voted for it,Claim,"(21231, 21257)",Support
+Senator Obama voted for it,Claim,"(21231, 21257)",this is a classic example of walking the walk and talking the talk,Claim,"(20955, 21021)",Support
+I voted against it,Claim,"(21211, 21229)",this is a classic example of walking the walk and talking the talk,Claim,"(20955, 21021)",Support
+"John, you want to give oil companies another $4 billion",Claim,"(21266, 21321)",this is a classic example of walking the walk and talking the talk,Claim,"(20955, 21021)",Attack
+this is a classic example of walking the walk and talking the talk,Claim,"(20955, 21021)",that's a problem,Claim,"(20123, 20139)",Attack
+Who has been the person who has tried to keep spending under control,Premise,"(21478, 21546)",I've fought to simplify it,Claim,"(21676, 21702)",Support
+Who fought against wasteful and earmark spending,Premise,"(21428, 21476)",I've fought to simplify it,Claim,"(21676, 21702)",Support
+Who's the person who has believed that the best thing for America is -- is to have a tax system that is fundamentally fair,Premise,"(21548, 21670)",I've fought to simplify it,Claim,"(21676, 21702)",Support
+"He has voted in the United States Senate to increase taxes on people who make as low as $42,000 a year",Claim,"(22057, 22159)",Senator Obama has shifted on a number of occasions,Claim,"(22005, 22055)",Support
+That's not true,Claim,"(22191, 22206)","He has voted in the United States Senate to increase taxes on people who make as low as $42,000 a year",Claim,"(22057, 22159)",Attack
+you can look it up,Premise,"(22247, 22265)",that's just a fact,Claim,"(22220, 22238)",Support
+that's just a fact,Claim,"(22220, 22238)",That's not true,Claim,"(22191, 22206)",Attack
+"if we want to talk about oil company profits, under your tax plan, John -- this is undeniable -- oil companies would get an additional $4 billion in tax break",Premise,"(22304, 22462)","here's the problem: If we are giving them to oil companies, then that means that there are those who are not going to be getting them",Claim,"(22527, 22660)",Support
+we all would love to lower taxes on everybody,Premise,"(22476, 22521)","here's the problem: If we are giving them to oil companies, then that means that there are those who are not going to be getting them",Claim,"(22527, 22660)",Support
+No,Claim,"(22750, 22752)",you already gave them to the oil companies,Claim,"(22699, 22741)",Attack
+you already gave them to the oil companies,Claim,"(22699, 22741)","here's the problem: If we are giving them to oil companies, then that means that there are those who are not going to be getting them",Claim,"(22527, 22660)",Attack
+it would strip away those tax breaks that have gone to oil companies,Premise,"(23030, 23098)",you're opposed to it,Claim,"(23001, 23021)",Support
+"We've got an energy bill on the Senate floor right now that contains some good stuff, some stuff you want, including drilling off-shore",Claim,"(22860, 22995)","I was opposed to those tax breaks, tried to strip them out",Claim,"(22800, 22858)",Support
+"I've put forward a plan to make sure that, in 10 years' time, we have freed ourselves from dependence on Middle Eastern oil by increasing production at home",Premise,"(24131, 24287)",We have to have energy independence,Claim,"(24091, 24126)",Support
+"starting to invest in alternative energy, solar, wind, biodiesel",Premise,"(24313, 24377)","I've put forward a plan to make sure that, in 10 years' time, we have freed ourselves from dependence on Middle Eastern oil by increasing production at home",Premise,"(24131, 24287)",Support
+"making sure that we're developing the fuel-efficient cars of the future right here in the United States, in Ohio and Michigan, instead of Japan and South Korea",Claim,"(24379, 24538)",We have to have energy independence,Claim,"(24091, 24126)",Support
+which is putting an enormous burden on families,Premise,"(24579, 24626)",We have to fix our health care system,Claim,"(24540, 24577)",Support
+"They are getting crushed, and many of them are going bankrupt as a consequence of health care",Premise,"(24728, 24821)",We have to fix our health care system,Claim,"(24540, 24577)",Support
+it will actually make our businesses and our families better off,Premise,"(24895, 24959)",We have to do that now,Claim,"(24863, 24885)",Support
+We have to do that now,Claim,"(24863, 24885)",We have to fix our health care system,Claim,"(24540, 24577)",Support
+China had a space launch and a space walk,Premise,"(25099, 25140)",We've got to invest in science and technology,Claim,"(25052, 25097)",Support
+We've got to make sure that our children are keeping pace in math and in science,Claim,"(25142, 25222)",we've got to make sure that we're competing in education,Claim,"(24994, 25050)",Support
+We've got to make sure that our children are keeping pace in math and in science,Claim,"(25142, 25222)",We've got to invest in science and technology,Claim,"(25052, 25097)",Support
+making sure that we have a new electricity grid to get the alternative energy to population centers that are using them,Claim,"(25531, 25650)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+also broadband lines that reach into rural communities,Claim,"(25469, 25523)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+we have to do is make sure that college is affordable for every young person in America,Claim,"(25254, 25341)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+"we're going to have to rebuild our infrastructure, which is falling behind, our roads, our bridges",Claim,"(25365, 25463)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+We've got to make sure that our children are keeping pace in math and in science,Claim,"(25142, 25222)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+We've got to invest in science and technology,Claim,"(25052, 25097)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+we've got to make sure that we're competing in education,Claim,"(24994, 25050)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+We have to fix our health care system,Claim,"(24540, 24577)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+We have to have energy independence,Claim,"(24091, 24126)",we've got to do structurally to make sure that we can compete in this global economy,Claim,"(25690, 25774)",Support
+we've let government get completely out of control,Premise,"(26178, 26228)",we've got to cut spending,Claim,"(26129, 26154)",Support
+I oppose ethanol subsidies,Premise,"(26520, 26546)","First of all, by the way, I'd eliminate ethanol subsidies",Claim,"(26461, 26518)",Support
+"We tried to build a little ship called the Littoral Combat Ship that was supposed to cost $140 million, ended up costing $400 million",Premise,"(26786, 26919)",We now have defense systems that the costs are completely out of control,Claim,"(26712, 26784)",Support
+we still haven't done it,Premise,"(26925, 26949)","We tried to build a little ship called the Littoral Combat Ship that was supposed to cost $140 million, ended up costing $400 million",Premise,"(26786, 26919)",Support
+We now have defense systems that the costs are completely out of control,Claim,"(26712, 26784)",we need to have fixed-cost contracts,Claim,"(26954, 26990)",Support
+We now have defense systems that the costs are completely out of control,Claim,"(26712, 26784)",we have to get a lot of the cost overruns under control,Claim,"(27137, 27192)",Support
+I know how to do that,Premise,"(27194, 27215)",we have to get a lot of the cost overruns under control,Claim,"(27137, 27192)",Support
+"I've been involved these issues for many, many years",Premise,"(27461, 27513)",the people ended up in federal prison so I know how to do this,Claim,"(27390, 27452)",Support
+we killed it,Premise,"(27373, 27385)",I saved the taxpayers $6.8 billion by fighting a contract that was negotiated between Boeing and DOD that was completely wrong,Premise,"(27225, 27351)",Support
+we fixed it,Premise,"(27357, 27368)",I saved the taxpayers $6.8 billion by fighting a contract that was negotiated between Boeing and DOD that was completely wrong,Premise,"(27225, 27351)",Support
+I saved the taxpayers $6.8 billion by fighting a contract that was negotiated between Boeing and DOD that was completely wrong,Premise,"(27225, 27351)",the people ended up in federal prison so I know how to do this,Claim,"(27390, 27452)",Support
+we'll have to scrub every agency of government,Claim,"(27690, 27736)",we have to examine every agency of government and find out those that are doing their job and keep them and find out those that aren't and eliminate them,Claim,"(27532, 27685)",Support
+there are going to be things that end up having to be deferred and delayed,Premise,"(27972, 28026)",I want to make sure that we are investing in energy in order to free ourselves from the dependence on foreign oil,Claim,"(28094, 28207)",Support
+That is a big project,Premise,"(28209, 28230)",I want to make sure that we are investing in energy in order to free ourselves from the dependence on foreign oil,Claim,"(28094, 28207)",Support
+That is a multi-year project,Premise,"(28232, 28260)",I want to make sure that we are investing in energy in order to free ourselves from the dependence on foreign oil,Claim,"(28094, 28207)",Support
+They just skim off $15 billion,Premise,"(28599, 28629)",We right now give $15 billion every year as subsidies to private insurers under the Medicare system,Claim,"(28444, 28543)",Support
+lobbyists are able to shape how Medicare works,Premise,"(28686, 28732)",That was a give away,Claim,"(28631, 28651)",Support
+there may be individual components that we can't do,Claim,"(28351, 28402)",Not willing to give up the need to do it,Claim,"(28306, 28346)",Support
+They did it on the Medicaid prescription drug bill,Premise,"(28734, 28784)",That was a give away,Claim,"(28631, 28651)",Support
+John mentioned me being wildly liberal,Premise,"(28830, 28868)",Mostly that's just me opposing George Bush's wrong headed policies since I've been in Congress,Claim,"(28870, 28964)",Support
+one of the most conservative Republicans who John already mentioned to set up,Premise,"(29071, 29148)",I worked with Tom Coburn,Premise,"(29022, 29046)",Support
+"in fact, is promoting some of these spending projects that John's been railing about",Premise,"(29297, 29381)",we call a Google for government saying we'll list every dollar of federal spending to make sure that the taxpayer can take a look and see who,Claim,"(29154, 29295)",Support
+The problem with a spending freeze is you're using a hatchet where you need a scalpel,Premise,"(30123, 30208)",There are some programs that are very important that are under funded,Claim,"(30210, 30279)",Support
+"the notion that we should freeze that when there may be, for example, this Medicare subsidy",Premise,"(30330, 30421)",doesn't make sense,Claim,"(30432, 30450)",Support
+The problem with a spending freeze is you're using a hatchet where you need a scalpel,Premise,"(30123, 30208)",doesn't make sense,Claim,"(30432, 30450)",Support
+There are some programs that are very important that are under funded,Claim,"(30210, 30279)",doesn't make sense,Claim,"(30432, 30450)",Support
+doesn't make sense,Claim,"(30432, 30450)",I think we ought to seriously consider with the exceptions of caring for our veterans national defense and several other vital issues,Claim,"(29950, 30083)",Attack
+There are some programs that are very important that are under funded,Claim,"(30210, 30279)",I went to increase early childhood education,Claim,"(30281, 30325)",Support
+We are currently spending $10 billion a month in Iraq when they have a $79 billion surplus,Premise,"(30508, 30598)","if we're going to be strong at home as well as strong abroad, that we have to look at bringing that war to a close",Claim,"(30620, 30734)",Support
+we are sending $700 billion a year overseas to countries that don't like us very much,Premise,"(30750, 30835)",Some of that money ends up in the hands of terrorist organizations,Premise,"(30837, 30903)",Support
+Nuclear power is not only important as far as eliminating our dependence on foreign oil,Claim,"(31288, 31375)",it's also responsibility as far as climate change is concerned,Claim,"(31380, 31442)",Support
+it's also responsibility as far as climate change is concerned,Claim,"(31380, 31442)",we also have to have nuclear power,Claim,"(31028, 31062)",Support
+"we can create 700,000 jobs by building constructing 45 new nuclear power plants by the year 2030",Claim,"(31190, 31286)",we also have to have nuclear power,Claim,"(31028, 31062)",Support
+"let's assume the markets recover, we're holding assets long enough that eventually taxpayers get it back and that happened during the Great Depression when Roosevelt purchased a whole bunch of homes",Premise,"(32127, 32325)",Even if we get all $700 billion back,Claim,"(32089, 32125)",Support
+home values went back up and in fact government made a profit,Premise,"(32338, 32399)",Even if we get all $700 billion back,Claim,"(32089, 32125)",Support
+in the short term there's an outlay,Premise,"(32470, 32505)","If we're lucky and we do it right, that could potentially happen",Premise,"(32401, 32465)",Support
+"If we're lucky and we do it right, that could potentially happen",Premise,"(32401, 32465)",we may not see that money for a while,Claim,"(32510, 32547)",Support
+the economy's slowing down,Premise,"(32564, 32590)",we can also expect less tax revenue so there's no doubt that as president I'm going to have to make some tough decision,Claim,"(32600, 32719)",Support
+we have to know what our values are and who we're fighting for and what our priorities are,Claim,"(32804, 32894)",we can also expect less tax revenue so there's no doubt that as president I'm going to have to make some tough decision,Claim,"(32600, 32719)",Support
+we are leaving out health care which is crushing on people all across the country,Claim,"(33012, 33093)",I think we have made a bad decision,Claim,"(33100, 33135)",Support
+if we are spending $300 billion on tax cuts for people who don't need them and weren't even asking for them,Claim,"(32899, 33006)",I think we have made a bad decision,Claim,"(33100, 33135)",Support
+I think we have made a bad decision,Claim,"(33100, 33135)",we have to know what our values are and who we're fighting for and what our priorities are,Claim,"(32804, 32894)",Support
+I want to make sure we're not shortchanging our long term priorities,Premise,"(33140, 33208)",we have to know what our values are and who we're fighting for and what our priorities are,Claim,"(32804, 32894)",Support
+I want the families to make decisions between themselves and their doctors,Claim,"(33403, 33477)",I want to make sure we're not handing the health care system over to the federal government which is basically what would ultimately happen with Senator Obama's health care plan,Claim,"(33224, 33401)",Support
+Not the federal government,Claim,"(33479, 33505)",I want to make sure we're not handing the health care system over to the federal government which is basically what would ultimately happen with Senator Obama's health care plan,Claim,"(33224, 33401)",Support
+We have to obviously cut spending,Premise,"(33513, 33546)",Senator Obama has $800 billion in new spending programs,Claim,"(33579, 33634)",Attack
+I have fought to cut spending,Premise,"(33548, 33577)",Senator Obama has $800 billion in new spending programs,Claim,"(33579, 33634)",Attack
+I would suggest he start by canceling some of those new spending program that he has,Premise,"(33636, 33720)",Senator Obama has $800 billion in new spending programs,Claim,"(33579, 33634)",Attack
+a healthy economy with low taxes would not raising anyone's taxes is probably the best recipe for eventually having our economy recover,Claim,"(33876, 34011)",spending restraint has got to be a vital part of that,Claim,"(34017, 34070)",Support
+"We can't I think adjust spending around to take care of the very much needed programs, including taking care of our veterans",Claim,"(33722, 33846)",spending restraint has got to be a vital part of that,Claim,"(34017, 34070)",Support
+We owe China $500 billion,Premise,"(34199, 34224)",spending got out of control,Premise,"(34170, 34197)",Support
+I have fought against excessive spending my entire career,Premise,"(34285, 34342)",can be brought under control,Claim,"(34248, 34276)",Support
+I got plans to reduce and eliminate unnecessary and wasteful spending,Premise,"(34348, 34417)",can be brought under control,Claim,"(34248, 34276)",Support
+This orgy of spending and enormous deficits you voted for almost all of his budgets,Premise,"(34766, 34849)","John, it's been your president who you said you agreed with 90 percent of the time who presided over this increase in spending",Premise,"(34638, 34764)",Support
+"balancing our tax cuts so that they help middle class families when over the last eight years that hasn't happened I think just is, you know, kind of hard to swallow",Claim,"(34963, 35128)",to stand here and after eight years and say that you're going to lead on controlling spending,Claim,"(34854, 34947)",Support
+It's well-known that I have not been elected Miss Congeniality in the United States Senate nor with the administration,Premise,"(35179, 35297)","I have opposed the president on spending, on climate change, on torture of prisoner, on - on Guantanamo Bay",Claim,"(35299, 35406)",Support
+that is independent and a maverick of the Senate,Premise,"(35527, 35575)",I've got a partner that's a good maverick along with me now,Claim,"(35602, 35661)",Support
+the American people know me very well,Premise,"(35485, 35522)",I have a long record,Premise,"(35460, 35480)",Support

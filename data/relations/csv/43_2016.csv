@@ -1,0 +1,277 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+we stand up and basically say: The Supreme Court should represent all of us,Claim,"(1270, 1345)","I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v",Claim,"(1028, 1160)",Support
+We need strong borders,Claim,"(8469, 8491)","she wants to give amnesty, which is a disaster and very unfair to all of the people that are waiting on line for many, many years",Claim,"(8338, 8467)",Support
+Yes,Claim,"(12935, 12938)","Mr. Trump, you want to get government out with lower taxes and less regulation",Claim,"(17832, 17910)",Support
+nine women have come forward and have said that you either groped them or kissed them without their consent,Claim,"(24387, 24494)",you'd never actually done it,Premise,"(24325, 24353)",Attack
+I don't think that is in our interest,Premise,"(35331, 35368)",I will not support putting American soldiers into Iraq as an occupying force,Claim,"(35253, 35329)",Support
+you said several things in that debate which were not true,Premise,"(38138, 38196)",I want to follow up on that,Claim,"(38101, 38128)",Support
+the Committee for federal -- a Responsible Federal Budget has looked at both of your plans,Premise,"(43028, 43118)",they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s,Premise,"(43123, 43252)",Support
+we stand up against Citizens United,Claim,"(1173, 1208)","I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v",Claim,"(1028, 1160)",Support
+she was born in this country but they were not,Premise,"(8782, 8828)","I was thinking about a young girl I met here in Las Vegas, Carla, who is very worried that her parents might be deported",Claim,"(8652, 8772)",Support
+"I want us to have the biggest jobs program since World War II, jobs in infrastructure and advanced manufacturing",Premise,"(18368, 18480)","my plan is based on growing the economy, giving middle-class families many more opportunities",Premise,"(18273, 18366)",Support
+those stories have been largely debunked,Claim,"(24523, 24563)",nine women have come forward and have said that you either groped them or kissed them without their consent,Claim,"(24387, 24494)",Attack
+I don't think that would be smart to do,Premise,"(35374, 35413)",I will not support putting American soldiers into Iraq as an occupying force,Claim,"(35253, 35329)",Support
+You said that Aleppo has basically fallen,Premise,"(38203, 38244)",you said several things in that debate which were not true,Premise,"(38138, 38196)",Support
+Social Security is going to run out of money in the 2030s,Premise,"(43254, 43311)",they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s,Premise,"(43123, 43252)",Support
+we stand up for the rights of people in the workplace,Claim,"(1210, 1263)","I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v",Claim,"(1028, 1160)",Support
+"They work hard, they do everything they can to give her a good life",Premise,"(8830, 8897)","I was thinking about a young girl I met here in Las Vegas, Carla, who is very worried that her parents might be deported",Claim,"(8652, 8772)",Support
+"my plan is based on growing the economy, giving middle-class families many more opportunities",Premise,"(18273, 18366)","I think when the middle class thrives, America thrives",Claim,"(18210, 18264)",Support
+I don't know those people,Claim,"(24581, 24606)",nine women have come forward and have said that you either groped them or kissed them without their consent,Claim,"(24387, 24494)",Attack
+I think that would be a big red flag waving for ISIS to reconstitute itself,Claim,"(35431, 35506)",I will not support putting American soldiers into Iraq as an occupying force,Claim,"(35253, 35329)",Support
+there are a quarter of a million people still living there and being slaughtered,Premise,"(38643, 38723)",it hasn't fallen,Claim,"(38591, 38607)",Attack
+"at that time, recipients are going to take huge cuts in their benefits",Premise,"(43317, 43387)",they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s,Premise,"(43123, 43252)",Support
+I lived in Arkansas for 18 wonderful years,Premise,"(2087, 2129)",I support the Second Amendment,Claim,"(2055, 2085)",Support
+"I was thinking about a young girl I met here in Las Vegas, Carla, who is very worried that her parents might be deported",Claim,"(8652, 8772)",I have been for border security for years,Claim,"(8899, 8940)",Support
+I think we can compete with high-wage countries,Claim,"(18482, 18529)",I believe we should,Claim,"(18535, 18554)",Support
+I have a feeling how they came,Premise,"(24608, 24638)",I believe it was her campaign that did it,Claim,"(24640, 24681)",Support
+We had Mosul,Claim,"(35742, 35754)",Mosul is so sad,Claim,"(35725, 35740)",Support
+they are being slaughtered,Claim,"(38750, 38776)",it hasn't fallen,Claim,"(38591, 38607)",Support
+I'm cutting taxes,Claim,"(43396, 43413)",We're going to grow the economy,Claim,"(43415, 43446)",Support
+I represented upstate New York,Premise,"(2131, 2161)",I support the Second Amendment,Claim,"(2055, 2085)",Support
+I have been for border security for years,Claim,"(8899, 8940)",I voted for border security,Claim,"(8942, 8969)",Support
+her plan is going to raise taxes and even double your taxes,Claim,"(18866, 18925)",Her tax plan is a disaster,Claim,"(18927, 18953)",Support
+I believe it was her campaign that did it,Claim,"(24640, 24681)",nine women have come forward and have said that you either groped them or kissed them without their consent,Claim,"(24387, 24494)",Attack
+"when she left, when she took everybody out, we lost Mosul",Premise,"(35760, 35817)",Mosul is so sad,Claim,"(35725, 35740)",Support
+because of bad decisions,Premise,"(38805, 38829)",they are being slaughtered,Claim,"(38750, 38776)",Support
+That's not going to help in the entitlements,Claim,"(43504, 43548)",I'm cutting taxes,Claim,"(43396, 43413)",Attack
+I understand and respect the tradition of gun ownership,Premise,"(2163, 2218)",I support the Second Amendment,Claim,"(2055, 2085)",Support
+in the United States Senate,Premise,"(8970, 8997)",I voted for border security,Claim,"(8942, 8969)",Support
+she can say all she wants about college tuition,Premise,"(18959, 19006)",Her tax plan is a disaster,Claim,"(18927, 18953)",Support
+a number of women have come forward saying that's exactly what he did to them,Premise,"(24825, 24902)",we heard Donald talking about what he did to women,Premise,"(24757, 24807)",Support
+we're fighting again to get Mosul,Premise,"(35823, 35856)",Mosul is so sad,Claim,"(35725, 35740)",Support
+"they just announced a humanitarian pause, in effect, admitting that they have been bombing and shelling Aleppo",Premise,"(39025, 39135)",they have been the ones who've been bombing and shelling eastern Aleppo,Premise,"(38948, 39019)",Support
+"No, it's going to totally help you",Claim,"(43557, 43591)",That's not going to help in the entitlements,Claim,"(43504, 43548)",Attack
+It goes back to the founding of our country,Premise,"(2220, 2263)",I support the Second Amendment,Claim,"(2055, 2085)",Support
+my comprehensive immigration reform plan of course includes border security,Premise,"(9003, 9078)",I voted for border security,Claim,"(8942, 8969)",Support
+I'm a big proponent,Premise,"(19012, 19031)",We're going to do a lot of things for college tuition,Premise,"(19033, 19086)",Support
+they were not attractive enough for them to be assaulted,Premise,"(25057, 25113)",he held a number of big rallies where he said that he could not possibly have done those things to those women,Claim,"(24938, 25048)",Support
+The problem with Mosul and what they wanted to do is they wanted to get the leaders of ISIS who they felt were in Mosul,Claim,"(35858, 35977)",Mosul is so sad,Claim,"(35725, 35740)",Support
+they have been the ones who've been bombing and shelling eastern Aleppo,Premise,"(38948, 39019)",you also said that -- that Syria and Russia are busy fighting ISIS,Claim,"(38871, 38937)",Attack
+It's destroying our country,Premise,"(43674, 43701)",one thing we have to do: Repeal and replace the disaster known as Obamacare,Claim,"(43597, 43672)",Support
+she was extremely angry about it,Claim,"(2752, 2784)",the D.C. vs. Heller decision was very strongly,Claim,"(2698, 2744)",Support
+I want to put our resources where I think they're most needed: Getting rid of any violent person,Claim,"(9084, 9180)",I voted for border security,Claim,"(8942, 8969)",Support
+the rest of the public's going to be paying for it,Claim,"(19092, 19142)",Her tax plan is a disaster,Claim,"(18927, 18953)",Support
+I did not say that,Claim,"(25122, 25140)",he held a number of big rallies where he said that he could not possibly have done those things to those women,Claim,"(24938, 25048)",Attack
+I've said that years ago,Claim,"(36201, 36225)",I said it was a mistake,Claim,"(36176, 36199)",Support
+It's a humanitarian nightmare,Claim,"(39210, 39239)",Aleppo is a disaster,Claim,"(39188, 39208)",Support
+"It's destroying our businesses, our small business and our big businesses",Premise,"(43703, 43776)",one thing we have to do: Repeal and replace the disaster known as Obamacare,Claim,"(43597, 43672)",Support
+I watched,Premise,"(2786, 2795)",she was extremely angry about it,Claim,"(2752, 2784)",Support
+"Anybody who should be deported, we should deport them",Premise,"(9182, 9235)",I want to put our resources where I think they're most needed: Getting rid of any violent person,Claim,"(9084, 9180)",Support
+"We will have a massive, massive tax increase under Hillary Clinton's plan",Claim,"(19144, 19217)",Her tax plan is a disaster,Claim,"(18927, 18953)",Support
+"He attacked the woman reporter writing the story, called her ""disgusting",Claim,"(25453, 25525)",those stories have been largely debunked,Claim,"(24523, 24563)",Attack
+Wrong,Claim,"(16051, 16056)",Donald is implying that he didn't support the invasion of Iraq,Claim,"(36112, 36174)",Attack
+"what do you need, a signed document?",Premise,"(39300, 39336)",it has fallen from the -- from any standpoint,Claim,"(39245, 39290)",Support
+I am on record as saying that we need to put more money into the Social Security Trust Fund,Premise,"(44167, 44258)",That's part of my commitment to raise taxes on the wealthy,Premise,"(44260, 44318)",Support
+"she was very, very angry when upheld",Premise,"(2805, 2841)",she was extremely angry about it,Claim,"(2752, 2784)",Support
+I had a very good meeting with the president of Mexico,Premise,"(9397, 9451)",We will be doing very much better with Mexico on trade deals,Claim,"(9468, 9528)",Support
+"Saudi Arabia, nothing but money",Premise,"(19399, 19430)",We protect Saudi Arabia,Claim,"(19432, 19455)",Support
+he has called a number of women during this campaign,Claim,"(25531, 25583)","He attacked the woman reporter writing the story, called her ""disgusting",Claim,"(25453, 25525)",Support
+Donald is implying that he didn't support the invasion of Iraq,Claim,"(36112, 36174)",I said it was a mistake,Claim,"(36176, 36199)",Support
+It is so sad when you see what's happened,Premise,"(39360, 39401)",Aleppo is a disaster,Claim,"(39188, 39208)",Support
+that will come from either raising the cap and/or finding other ways to get more money into it,Premise,"(44608, 44702)",I will not cut benefits,Claim,"(44704, 44727)",Support
+people that believe in the Second Amendment and believe in it very strongly were very upset with what she had to say,Claim,"(2969, 3085)",I support the Second Amendment,Claim,"(2055, 2085)",Attack
+There also is necessarily going to be new technology and how best to deploy that,Premise,"(10088, 10168)",Donald knows a lot about this,Claim,"(10174, 10203)",Support
+"right now, our country is dying at 1 percent GDP",Premise,"(19647, 19695)",We are going to start the engine rolling again,Claim,"(19557, 19603)",Support
+Nobody has more respect for women than I do,Claim,"(25614, 25657)","He attacked the woman reporter writing the story, called her ""disgusting",Claim,"(25453, 25525)",Attack
+I just want everybody to go Google it,Premise,"(36398, 36435)",you will see the dozens of sources which verify that he was for the invasion of Iraq,Claim,"(36469, 36553)",Support
+wait until you see what happens in the coming years,Premise,"(39573, 39624)",wait until you see -- this is going to be the great Trojan horse,Claim,"(39503, 39567)",Support
+I want to enhance benefits for low-income workers and for women who have been disadvantaged by the current Social Security system,Claim,"(44729, 44858)",I will not cut benefits,Claim,"(44704, 44727)",Support
+"unfortunately, dozens of toddlers injure themselves, even kill people with guns",Premise,"(3199, 3278)",I was upset,Claim,"(3178, 3189)",Support
+He used undocumented labor to build the Trump Tower,Claim,"(10205, 10256)",Donald knows a lot about this,Claim,"(10174, 10203)",Support
+three times more than the tax cuts under the Bush administration,Claim,"(19872, 19936)",he's going to advocate for the largest tax cuts we've ever seen,Claim,"(19807, 19870)",Support
+Nobody has more respect for women than I do,Claim,"(25614, 25657)",he has called a number of women during this campaign,Claim,"(25531, 25583)",Attack
+why does that matter,Premise,"(36639, 36659)",it matters,Claim,"(36667, 36677)",Support
+he fears it's going to draw us closer or deeper into the conflict,Premise,"(39933, 39998)",President Obama has refused to do that,Claim,"(39886, 39924)",Support
+I have a plan for doing that,Premise,"(45013, 45041)","We've got to get costs down, increase value, emphasize wellness",Premise,"(44948, 45011)",Support
+"unfortunately, not everyone who has loaded guns in their homes takes appropriate precautions",Premise,"(3289, 3381)",I was upset,Claim,"(3178, 3189)",Support
+"He underpaid undocumented workers, and when they complained, he basically said what a lot of employers do: ""You complain, I'll get you deported",Premise,"(10258, 10401)",He used undocumented labor to build the Trump Tower,Claim,"(10205, 10256)",Support
+he's going to advocate for the largest tax cuts we've ever seen,Claim,"(19807, 19870)",We are going to start the engine rolling again,Claim,"(19557, 19603)",Attack
+Donald is pushed on something which is obviously uncomfortable,Premise,"(25878, 25940)",he immediately goes to denying responsibility,Premise,"(25976, 26021)",Support
+you can actually hear the audio of him saying that,Premise,"(36582, 36632)",it matters,Claim,"(36667, 36677)",Support
+you have talked about -- and in the last debate and again today -- that you would impose a no-fly zone to try to protect the people of Aleppo and to stop the killing there,Premise,"(39713, 39884)",President Obama has refused to do that,Claim,"(39886, 39924)",Attack
+Your husband disagrees with you,Claim,"(44867, 44898)",I will not cut benefits,Claim,"(44704, 44727)",Attack
+The gun lobby's on his side,Premise,"(3467, 3494)",Donald's been strongly supported by the NRA,Claim,"(3422, 3465)",Support
+They've been deported,Premise,"(10600, 10621)","under Obama, millions of people have been moved out of this country",Claim,"(10531, 10598)",Support
+"I will not raise taxes on anyone making $250,000 or less",Claim,"(19987, 20043)",Her tax plan is a disaster,Claim,"(18927, 18953)",Attack
+it's not just about women,Premise,"(26027, 26052)",he immediately goes to denying responsibility,Premise,"(25976, 26021)",Support
+he has not told the truth about that position,Premise,"(36686, 36731)",it matters,Claim,"(36667, 36677)",Support
+We should have never let ISIS happen in the first place,Premise,"(40395, 40450)","right now, they're in 32 countries",Claim,"(40456, 40490)",Support
+you haven't prepared closing statements,Premise,"(45466, 45505)","You had not agreed to closing statements, but it seems to me in a funny way that might make it more interesting",Claim,"(45346, 45457)",Support
+They're running millions of dollars of ads against me,Premise,"(3496, 3549)",Donald's been strongly supported by the NRA,Claim,"(3422, 3465)",Support
+"She doesn't want to say that, but that's what's happened, and that's what happened big league",Premise,"(10623, 10716)","under Obama, millions of people have been moved out of this country",Claim,"(10531, 10598)",Support
+"Cutting taxes on the wealthy, we've tried that",Premise,"(20076, 20122)",It has not worked the way that it has been promised,Claim,"(20124, 20175)",Support
+he immediately goes to denying responsibility,Premise,"(25976, 26021)",He never apologizes or says he's sorry for anything,Claim,"(26054, 26105)",Support
+I did vote for it,Premise,"(36810, 36827)",he believes it makes him look better now to contrast with me,Claim,"(36741, 36801)",Support
+"right now, they're in 32 countries",Claim,"(40456, 40490)",she will defeat ISIS,Claim,"(40373, 40393)",Support
+"we need everybody to help make our country what it should be, to grow the economy, to make it fairer, to make it work for everyone",Premise,"(45665, 45795)","I would like to say to everyone watching tonight that I'm reaching out to all Americans -- Democrats, Republicans, and independents",Claim,"(45522, 45653)",Support
+I regret that,Claim,"(3555, 3568)",Donald's been strongly supported by the NRA,Claim,"(3422, 3465)",Attack
+she doesn't say is that President Obama has deported millions and millions of people just the way it is,Claim,"(10756, 10859)",Nobody knows about it,Claim,"(10481, 10502)",Support
+"in many ways it is similar to the Obama stimulus plan in 2009, which has led to the slowest GDP growth since 1949",Premise,"(20241, 20354)",I want to pursue your plan,Claim,"(20205, 20231)",Support
+Wrong,Claim,"(16051, 16056)",He never apologizes or says he's sorry for anything,Claim,"(26054, 26105)",Attack
+he believes it makes him look better now to contrast with me,Claim,"(36741, 36801)",it matters,Claim,"(36667, 36677)",Support
+"A cease-fire, the United States, Russia, and Syria",Premise,"(40586, 40636)",They had a cease-fire three weeks ago,Premise,"(40547, 40584)",Support
+"We need your talents, your skills, your commitments, your energy, your ambition",Claim,"(45797, 45876)","I would like to say to everyone watching tonight that I'm reaching out to all Americans -- Democrats, Republicans, and independents",Claim,"(45522, 45653)",Support
+I would like to see is for people to come together and say: Of course we're going to protect and defend the Second Amendment,Premise,"(3583, 3707)","we're going to do it in a way that tries to save some of these 33,000 lives that we lose every year",Claim,"(3713, 3812)",Support
+she doesn't say is that President Obama has deported millions and millions of people just the way it is,Claim,"(10756, 10859)",nobody talks about it,Claim,"(10504, 10525)",Support
+the level of economic catastrophe that President Obama inherited,Premise,"(20476, 20540)",it was a real touch-and-go situation,Premise,"(20542, 20578)",Support
+she caused the violence,Claim,"(26608, 26631)",she talks about violence at my rallies,Claim,"(26564, 26602)",Support
+"This conspiracy theory, which he's been spewing out for quite some time",Premise,"(37049, 37120)",he has not told the truth about that position,Premise,"(36686, 36731)",Support
+They had a cease-fire three weeks ago,Premise,"(40547, 40584)","during the cease-fire, Russia took over vast swatches of land",Premise,"(40642, 40703)",Support
+Doesn't work that way,Claim,"(45986, 46007)",She's raising the money from the people she wants to control,Claim,"(45924, 45984)",Attack
+"we're going to do it in a way that tries to save some of these 33,000 lives that we lose every year",Claim,"(3713, 3812)",I regret that,Claim,"(3555, 3568)",Support
+"We will have secure borders, but we'll also have reform",Claim,"(11075, 11130)",We will not have open borders,Claim,"(10911, 10940)",Support
+I was in the Senate before I became secretary of state,Premise,"(20580, 20634)",I've never seen people as physically distraught as the Bush administration team was because of what was happening to the economy,Claim,"(20636, 20764)",Support
+The State Department has said that,Premise,"(27219, 27253)",I think that's been proven,Claim,"(27255, 27281)",Support
+He said some beauties,Claim,"(37573, 37594)","WikiLeaks just actually came out -- John Podesta said some horrible things about you, and, boy, was he right",Claim,"(37463, 37571)",Support
+I'm going to create tremendous jobs,Premise,"(40965, 41000)",I say they're wrong,Claim,"(40936, 40955)",Support
+She's raising the money from the people she wants to control,Claim,"(45924, 45984)","I would like to say to everyone watching tonight that I'm reaching out to all Americans -- Democrats, Republicans, and independents",Claim,"(45522, 45653)",Attack
+"In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city",Premise,"(4075, 4219)","we have the toughest laws, and you have tremendous gun violence",Claim,"(4224, 4287)",Support
+That is a rank mischaracterization,Premise,"(11000, 11034)",We will not have open borders,Claim,"(10911, 10940)",Support
+"you've talked about 25 million jobs created, 4 percent",Premise,"(20899, 20953)",even conservative economists who have looked at your plan say that the numbers don't add up,Premise,"(20786, 20877)",Support
+I think that's been proven,Claim,"(27255, 27281)",I did as secretary of state was in furtherance of our country's interests and our values,Claim,"(27129, 27217)",Support
+"Bernie Sanders, he said you have bad judgment",Claim,"(37610, 37655)",You do,Claim,"(37657, 37663)",Support
+"we're bringing GDP from, really, 1 percent, which is what it is now",Premise,"(41006, 41073)",I say they're wrong,Claim,"(40936, 40955)",Support
+I would like to end it on a positive note,Premise,"(45303, 45344)","this is the final time, probably to both of your delight, that you're going to be on a stage together in this campaign",Claim,"(45183, 45301)",Support
+that'll happen automatically,Claim,"(5350, 5378)","if we put another two or perhaps three justice on, that's really what's going to be -- that will happen",Claim,"(5241, 5344)",Support
+this used to be a bipartisan issue,Premise,"(11136, 11170)","We will have secure borders, but we'll also have reform",Claim,"(11075, 11130)",Support
+even conservative economists who have looked at your plan say that the numbers don't add up,Premise,"(20786, 20877)",We are going to start the engine rolling again,Claim,"(19557, 19603)",Attack
+"Saudi Arabia giving $25 million, Qatar, all of these countries",Premise,"(28108, 28170)",It's a criminal enterprise,Claim,"(28080, 28106)",Support
+You do,Claim,"(37657, 37663)","No, you are the one that's unfit",Claim,"(37419, 37451)",Support
+we're bringing it from 1 percent up to 4 percent,Premise,"(41125, 41173)","we're bringing GDP from, really, 1 percent, which is what it is now",Premise,"(41006, 41073)",Support
+I am putting pro-life justices on the court,Premise,"(5403, 5446)",that'll happen automatically,Claim,"(5350, 5378)",Support
+"if you went on to read the rest of the sentence, I was talking about energy",Premise,"(11812, 11887)",we trade more energy with our neighbors than we trade with the rest of the world combined,Claim,"(11899, 11988)",Support
+Over a 10-year period,Claim,"(20964, 20985)",even conservative economists who have looked at your plan say that the numbers don't add up,Premise,"(20786, 20877)",Attack
+these are people that push gays off business -- off buildings,Premise,"(28216, 28277)",It's a criminal enterprise,Claim,"(28080, 28106)",Support
+"WikiLeaks just actually came out -- John Podesta said some horrible things about you, and, boy, was he right",Claim,"(37463, 37571)","No, you are the one that's unfit",Claim,"(37419, 37451)",Support
+I think you can go to 5 percent or 6 percent,Claim,"(41229, 41273)",I actually think we can go higher than 4 percent,Claim,"(41179, 41227)",Support
+"If they overturned it, it will go back to the states",Claim,"(4969, 5021)","It will go back to the states, and the states will then make a determination",Claim,"(5465, 5541)",Support
+"I do want us to have an electric grid, an energy system that crosses borders",Premise,"(11994, 12070)",I think that would be a great benefit to us,Claim,"(12072, 12115)",Support
+unrealistic,Claim,"(21010, 21021)",Over a 10-year period,Claim,"(20964, 20985)",Attack
+These are people that kill women and treat women horribly,Premise,"(28279, 28336)",It's a criminal enterprise,Claim,"(28080, 28106)",Support
+you should ask Bernie Sanders who he's supporting for president,Claim,"(37680, 37743)","Bernie Sanders, he said you have bad judgment",Claim,"(37610, 37655)",Attack
+we have a tremendous machine,Premise,"(41344, 41372)","if we do, you don't have to bother asking your question",Claim,"(41279, 41334)",Support
+"which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine",Claim,"(5618, 5779)",I strongly support Roe v,Claim,"(5586, 5610)",Support
+I think that would be a great benefit to us,Claim,"(12072, 12115)",we trade more energy with our neighbors than we trade with the rest of the world combined,Claim,"(11899, 11988)",Support
+you talk a lot about growing the energy industry,Premise,"(21039, 21087)",that's unrealistic,Claim,"(21144, 21162)",Support
+It's a criminal enterprise,Claim,"(28080, 28106)",you take their money,Claim,"(28346, 28366)",Attack
+Which is a big mistake,Claim,"(37771, 37793)",you should ask Bernie Sanders who he's supporting for president,Claim,"(37680, 37743)",Attack
+We will have created a tremendous economic machine once again,Premise,"(41374, 41435)",we have a tremendous machine,Premise,"(41344, 41372)",Support
+It is about what's happening right now in America,Premise,"(5832, 5881)",it's not only about Roe v,Premise,"(5799, 5824)",Support
+We've never had anything like this happen in any of our elections before,Premise,"(12496, 12568)",Those are the questions we need answered,Premise,"(12454, 12494)",Support
+They say with oil prices as low as they are right now,Premise,"(21089, 21142)",that's unrealistic,Claim,"(21144, 21162)",Support
+"compare what we do with the Trump Foundation, which took money from other people and bought a six- foot portrait of Donald",Premise,"(28706, 28828)",It just was astonishing,Claim,"(28853, 28876)",Support
+he has campaigned for me around the country,Premise,"(37811, 37854)",you are the most dangerous person to run for president in the modern history of America,Claim,"(37856, 37943)",Support
+"To do that, we're taking back jobs",Premise,"(41437, 41471)",We will have created a tremendous economic machine once again,Premise,"(41374, 41435)",Support
+we have come too far to have that turned back now,Premise,"(5926, 5975)",I could just not be more opposed to that kind of thinking,Claim,"(6105, 6162)",Support
+So just to finish on the borders,Premise,"(12890, 12922)",She wants open borders,Claim,"(12947, 12969)",Support
+that's unrealistic,Claim,"(21144, 21162)",Over a 10-year period,Claim,"(20964, 20985)",Attack
+"People contribute, I contribute",Premise,"(29093, 29124)","The money goes 100 percent -- 100 percent goes to different charities, including a lot of military",Claim,"(29126, 29224)",Support
+you are the most dangerous person to run for president in the modern history of America,Claim,"(37856, 37943)",I think he's right,Claim,"(37945, 37963)",Support
+we don't make our product anymore,Claim,"(41567, 41600)",We're not going to let our companies be raided by other countries where we lose all our jobs,Claim,"(41473, 41565)",Support
+I did not think that that was the case,Premise,"(6670, 6708)",there can be regulations on abortion so long as the life and the health of the mother are taken into account,Claim,"(6529, 6637)",Attack
+People are going to pour into our country,Premise,"(12971, 13012)",She wants open borders,Claim,"(12947, 12969)",Attack
+China is growing at 7 percent,Premise,"(21281, 21310)",that for them is a catastrophically low number,Claim,"(21316, 21362)",Support
+"Trump Foundation, small foundation",Premise,"(29057, 29091)","The money goes 100 percent -- 100 percent goes to different charities, including a lot of military",Claim,"(29126, 29224)",Support
+I think he's right,Claim,"(37945, 37963)","No, you are the one that's unfit",Claim,"(37419, 37451)",Attack
+We used to be there,Premise,"(41714, 41733)",I'm going to create a -- the kind of a country that we were from the standpoint of industry,Claim,"(41621, 41712)",Support
+I voted as a senator,Premise,"(6648, 6668)",I did not think that that was the case,Premise,"(6670, 6708)",Support
+People are going to come in from Syria,Premise,"(13014, 13052)",She wants open borders,Claim,"(12947, 12969)",Attack
+They're growing at 8 percent,Premise,"(21251, 21279)",that for them is a catastrophically low number,Claim,"(21316, 21362)",Support
+I don't buy planes,Premise,"(29267, 29285)",the money goes to them,Claim,"(29303, 29325)",Support
+We've given it up,Premise,"(41735, 41752)",I'm going to create a -- the kind of a country that we were from the standpoint of industry,Claim,"(41621, 41712)",Support
+"If you go with what Hillary is saying, in the ninth month, you can take the baby and rip the baby out of the womb of the mother just prior to the birth of the baby",Claim,"(6851, 7014)",I think it's terrible,Claim,"(6828, 6849)",Support
+They have no idea where they come from,Claim,"(13153, 13191)","She wants 550 percent more people than Barack Obama, and he has thousands and thousands of people",Claim,"(13054, 13151)",Attack
+It didn't meet my test,Premise,"(21695, 21717)","I saw the final agreement for TPP, I said I was against it",Claim,"(21635, 21693)",Support
+I don't buy boats,Premise,"(29248, 29265)",the money goes to them,Claim,"(29303, 29325)",Support
+"We've become very, very sloppy",Premise,"(41754, 41784)",I'm going to create a -- the kind of a country that we were from the standpoint of industry,Claim,"(41621, 41712)",Support
+I think it's terrible,Claim,"(6828, 6849)","which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine",Claim,"(5618, 5779)",Attack
+He has no respect for her,Premise,"(13193, 13218)","She wants 550 percent more people than Barack Obama, and he has thousands and thousands of people",Claim,"(13054, 13151)",Attack
+"Does it create jobs, raise incomes, and further our national security",Premise,"(21743, 21812)",I've had the same test,Premise,"(21719, 21741)",Support
+I don't get anything,Premise,"(29226, 29246)",the money goes to them,Claim,"(29303, 29325)",Support
+"when I hear Donald talk like that and know that his slogan is ""Make America Great Again,"" I wonder when he thought America was great",Premise,"(41836, 41968)",I think it's important to recognize that he has been criticizing our government for decades,Claim,"(42056, 42147)",Support
+that is not what happens in these cases,Claim,"(7031, 7070)","If you go with what Hillary is saying, in the ninth month, you can take the baby and rip the baby out of the womb of the mother just prior to the birth of the baby",Claim,"(6851, 7014)",Attack
+He has no respect for our president,Premise,"(13220, 13255)","She wants 550 percent more people than Barack Obama, and he has thousands and thousands of people",Claim,"(13054, 13151)",Attack
+I've had the same test,Premise,"(21719, 21741)",It didn't meet my test,Premise,"(21695, 21717)",Support
+the money goes to them,Claim,"(29303, 29325)","The money goes 100 percent -- 100 percent goes to different charities, including a lot of military",Claim,"(29126, 29224)",Support
+"before he rushes and says, ""You know, before you and President Obama were there",Premise,"(41974, 42053)",I think it's important to recognize that he has been criticizing our government for decades,Claim,"(42056, 42147)",Support
+using that kind of scare rhetoric is just terribly unfortunate,Premise,"(7076, 7138)","If you go with what Hillary is saying, in the ninth month, you can take the baby and rip the baby out of the womb of the mother just prior to the birth of the baby",Claim,"(6851, 7014)",Attack
+"we have a country with tremendous numbers of nuclear warheads -- 1,800, by the way -- where they expanded and we didn't, 1,800 nuclear warheads",Premise,"(13320, 13463)",We're in very serious trouble,Claim,"(13281, 13310)",Support
+"I saw the final agreement for TPP, I said I was against it",Claim,"(21635, 21693)",I'm against it now,Claim,"(21814, 21832)",Support
+"No, it was -- we put up the American flag",Claim,"(29403, 29444)",Wasn't some of the money used to settle your lawsuits,Premise,"(29336, 29389)",Attack
+I started off with -- my dad was a small-business man,Premise,"(42226, 42279)","I think it -- you know, it's a difference that affects how we see the world and what we want to do with the economy",Claim,"(42326, 42441)",Support
+This is one of the worst possible choices that any woman and her family has to make,Premise,"(7248, 7331)",I do not believe the government should be making it,Claim,"(7337, 7388)",Support
+she's playing chicken,Claim,"(13469, 13490)",We're in very serious trouble,Claim,"(13281, 13310)",Support
+I'm against it now,Claim,"(21814, 21832)",I'll be against it after the election,Claim,"(21834, 21871)",Support
+There was,Claim,"(29688, 29697)","there was a penalty that was imposed by Palm Beach County, and the money came from your foundation",Claim,"(29579, 29677)",Support
+I've been waiting for years,Premise,"(42716, 42743)",Nobody does it right,Claim,"(42745, 42765)",Support
+"I've been to countries where governments either forced women to have abortions, like they used to do in China, or forced women to bear children, like they used to do in Romania",Premise,"(7481, 7657)","The government has no business in the decisions that women make with their families in accordance with their faith, with medical advice",Claim,"(7679, 7814)",Support
+No puppet,Claim,"(13693, 13702)",he'd rather have a puppet as president of the United States,Claim,"(13625, 13684)",Attack
+I'll be against it after the election,Claim,"(21834, 21871)",I'll be against it when I'm president,Claim,"(21873, 21910)",Support
+they build houses,Premise,"(29844, 29861)",the money went to Fisher House,Premise,"(29806, 29836)",Support
+We should have been much tougher on trade even then,Premise,"(42663, 42714)",Nobody does it right,Claim,"(42745, 42765)",Support
+I've had the great honor of traveling across the world on behalf of our country,Premise,"(7400, 7479)","The government has no business in the decisions that women make with their families in accordance with their faith, with medical advice",Claim,"(7679, 7814)",Support
+it's pretty clear,Claim,"(13728, 13745)",he'd rather have a puppet as president of the United States,Claim,"(13625, 13684)",Support
+We're going to have trade agreements that we enforce,Premise,"(22101, 22153)",We're going to pull the country together,Claim,"(22059, 22099)",Support
+the money went to Fisher House,Premise,"(29806, 29836)","the money that you're talking about went to Fisher House, where they build houses for veterans and disabled vets",Claim,"(29865, 29977)",Support
+I did disagree with Ronald Reagan very strongly on trade,Claim,"(42583, 42639)",Nobody does it right,Claim,"(42745, 42765)",Support
+"The government has no business in the decisions that women make with their families in accordance with their faith, with medical advice",Claim,"(7679, 7814)",I do not believe the government should be making it,Claim,"(7337, 7388)",Support
+You're the puppet,Claim,"(13756, 13773)",he'd rather have a puppet as president of the United States,Claim,"(13625, 13684)",Attack
+we're going to look for businesses to help us by buying American products,Premise,"(22283, 22356)",We're going to pull the country together,Claim,"(22059, 22099)",Support
+he hasn't released his tax returns,Premise,"(30103, 30137)",there's no way we can know whether any of that is true,Claim,"(30039, 30093)",Support
+I do not believe the government should be making it,Claim,"(7337, 7388)",I will stand up for that right,Claim,"(7820, 7850)",Support
+"you are willing to spout the Putin line, sign up for his wish list, break up NATO, do whatever he wants to do",Claim,"(14004, 14113)",you encouraged espionage against our people,Claim,"(13954, 13997)",Support
+She's been doing this for 30 years,Premise,"(22444, 22478)","Why the hell didn't you do it over the last 15, 20 years",Claim,"(22480, 22536)",Support
+"everything he says about charity or anything else, we can't prove it",Premise,"(30258, 30326)",He is the first candidate ever to run for president in the last 40-plus years who has not released his tax returns,Claim,"(30139, 30253)",Support
+he has a very clear favorite in this race,Premise,"(14167, 14208)",you continue to get help from him,Claim,"(14124, 14157)",Support
+"No, I voted",Claim,"(22547, 22558)","Why the hell didn't you do it over the last 15, 20 years",Claim,"(22480, 22536)",Attack
+He is the first candidate ever to run for president in the last 40-plus years who has not released his tax returns,Claim,"(30139, 30253)",there's no way we can know whether any of that is true,Claim,"(30039, 30093)",Support
+you encouraged espionage against our people,Claim,"(13954, 13997)",you continue to get help from him,Claim,"(14124, 14157)",Support
+you have over me is experience,Claim,"(22738, 22768)",you do have experience,Claim,"(22694, 22716)",Support
+there's no way we can know whether any of that is true,Claim,"(30039, 30093)","the money that you're talking about went to Fisher House, where they build houses for veterans and disabled vets",Claim,"(29865, 29977)",Attack
+She has no idea,Claim,"(14298, 14313)",I think it's time you take a stand,Claim,"(14253, 14287)",Attack
+you've done has turned out badly,Premise,"(22808, 22840)",it's bad experience,Claim,"(22774, 22793)",Support
+there's no way we can know whether any of that is true,Claim,"(30039, 30093)","The money goes 100 percent -- 100 percent goes to different charities, including a lot of military",Claim,"(29126, 29224)",Attack
+"She has no idea whether it's Russia, China, or anybody else",Claim,"(14298, 14357)",I think it's time you take a stand,Claim,"(14253, 14287)",Attack
+it's bad experience,Claim,"(22774, 22793)",you do have experience,Claim,"(22694, 22716)",Attack
+"Buffett took hundreds of millions of dollars, Soros, George Soros, took hundreds of millions of dollars",Premise,"(30648, 30751)",we're entitled because of the laws that people like her passed to take massive amounts of depreciation on other charges,Claim,"(30455, 30574)",Support
+Putin has outsmarted her at every step of the way,Premise,"(14854, 14903)",She doesn't like Putin,Claim,"(14823, 14845)",Support
+it's been debunked numerous times,Claim,"(22936, 22969)",he just said about the State Department is not only untrue,Claim,"(22876, 22934)",Support
+"your donors and your special interests are doing the same thing as I do, except even more so",Premise,"(31181, 31273)","you know, Hillary, what you should have done, you should have changed the law when you were a United States senator",Claim,"(31010, 31125)",Support
+Putin has outsmarted her in Syria,Premise,"(14945, 14978)",Putin has outsmarted her at every step of the way,Premise,"(14854, 14903)",Support
+She's been doing this for 30 years,Premise,"(22444, 22478)",He raised the 30 years of experience,Premise,"(23024, 23060)",Support
+you take in so much money,Premise,"(31380, 31405)",you won't change the law,Claim,"(31346, 31370)",Support
+Of course I condemn,Claim,"(15481, 15500)",The top national security officials of this country do believe that Russia has been behind these hacks,Claim,"(15177, 15279)",Attack
+I worked for the Children's Defense Fund,Premise,"(23131, 23171)",I think it's really an important issue,Claim,"(22984, 23022)",Support
+Made with Chinese steel,Claim,"(31512, 31535)",I sat in my apartment today on a very beautiful hotel down the street known as Trump,Premise,"(31415, 31499)",Attack
+I don't know Putin,Claim,"(15517, 15535)",Of course I condemn,Claim,"(15481, 15500)",Support
+He raised the 30 years of experience,Premise,"(23024, 23060)",I think it's really an important issue,Claim,"(22984, 23022)",Support
+"If you don't like what I did, you should have changed the laws",Claim,"(31609, 31671)","you know, Hillary, what you should have done, you should have changed the law when you were a United States senator",Claim,"(31010, 31125)",Support
+I have no idea,Claim,"(15537, 15551)",Of course I condemn,Claim,"(15481, 15500)",Support
+He was getting sued by the Justice Department for racial discrimination in his apartment buildings,Claim,"(23250, 23348)",I think it's really an important issue,Claim,"(22984, 23022)",Support
+I'm not looking at anything now,Premise,"(32294, 32325)",I will look at it at the time,Claim,"(32263, 32292)",Support
+This is not my best friend,Premise,"(15633, 15659)",I never met Putin,Claim,"(15614, 15631)",Support
+"I built a massive company, a great company, some of the greatest assets anywhere in the world, worth many, many billions of dollars",Premise,"(23831, 23962)",I think I did a much better job,Claim,"(23798, 23829)",Support
+I'll keep you in suspense,Claim,"(33428, 33453)",the loser concedes to the winner and that the country comes together in part for the good of the country,Claim,"(33194, 33298)",Attack
+I never met Putin,Claim,"(15614, 15631)",Of course I condemn,Claim,"(15481, 15500)",Support
+I started with a $1 million loan,Premise,"(23964, 23996)",I think I did a much better job,Claim,"(23798, 23829)",Support
+this is a mindset,Premise,"(33705, 33722)",This is how Donald thinks,Claim,"(33724, 33749)",Support
+"This is a person who has been very cavalier, even casual about the use of nuclear weapons",Premise,"(15945, 16034)",I find it ironic that he's raising nuclear weapons,Claim,"(15893, 15943)",Support
+I built a phenomenal company,Claim,"(24045, 24073)",I think I did a much better job,Claim,"(23798, 23829)",Support
+it's funny,Premise,"(33755, 33765)",This is how Donald thinks,Claim,"(33724, 33749)",Support
+Wrong,Claim,"(16051, 16056)",I find it ironic that he's raising nuclear weapons,Claim,"(15893, 15943)",Attack
+it's also really troubling,Claim,"(33771, 33797)",This is how Donald thinks,Claim,"(33724, 33749)",Support
+I think is terrifying,Claim,"(16204, 16225)","He said, well, if we have them, why don't we use them",Premise,"(16143, 16196)",Attack
+"Donald thinks things are not going in his direction, he claims whatever it is, is rigged against him",Claim,"(33553, 33653)",This is how Donald thinks,Claim,"(33724, 33749)",Support
+We are spending a fortune doing it,Claim,"(16483, 16517)",They have the bargain of the century,Claim,"(16519, 16555)",Support
+We've been around for 240 years,Premise,"(33865, 33896)",that is not the way our democracy works,Claim,"(33824, 33863)",Support
+"As far as Japan and other countries, we are being ripped off by everybody in the -- we're defending other countries",Premise,"(16366, 16481)",They have the bargain of the century,Claim,"(16519, 16555)",Support
+We've had free and fair elections,Premise,"(33898, 33931)",that is not the way our democracy works,Claim,"(33824, 33863)",Support
+she's been proven to be a liar on so many different ways,Premise,"(16583, 16639)",This is just another lie,Claim,"(16641, 16665)",Support
+We've accepted the outcomes when we may not have liked them,Premise,"(33933, 33992)",that is not the way our democracy works,Claim,"(33824, 33863)",Support
+"I would work with our allies in Asia, in Europe, in the Middle East, and elsewhere",Premise,"(17300, 17382)",That's the only way we're going to be able to keep the peace,Claim,"(17384, 17444)",Support
+that is not the way our democracy works,Claim,"(33824, 33863)",that is what must be expected of anyone standing on a debate stage during a general election,Claim,"(33998, 34090)",Support
+That's the only way we're going to be able to keep the peace,Claim,"(17384, 17444)","I think it makes the world safer and, frankly, it makes the United States safer",Claim,"(17219, 17298)",Support
+I think we've never had a situation so bad in this country,Claim,"(34827, 34885)",I think it's disgraceful,Claim,"(34749, 34773)",Support
+The United States has kept the peace -- the United States has kept the peace through our alliances,Premise,"(17080, 17178)","I think it makes the world safer and, frankly, it makes the United States safer",Claim,"(17219, 17298)",Support
+I don't know those people,Claim,"(24581, 24606)",I believe it was her campaign that did it,Claim,"(24640, 24681)",Support
+"I think it makes the world safer and, frankly, it makes the United States safer",Claim,"(17219, 17298)",Donald wants to tear up our alliances,Claim,"(17180, 17217)",Attack

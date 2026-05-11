@@ -1,0 +1,467 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+I was not put on the ballot by either of the 2 parties,Premise,"(1550, 1604)",I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot,Claim,"(1421, 1548)",Support
+Mr Bush sent two people in secret to toast the Chinese leaders and basically tell them not to worry about it,Premise,"(46961, 47069)",I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square,Claim,"(46808, 46959)",Support
+I learned something from Vietnam,Premise,"(51149, 51181)","I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out",Claim,"(51183, 51341)",Support
+I don't believe legalizing narcotics is the answer,Claim,"(57763, 57813)",I don't think that's the right answer,Claim,"(57724, 57761)",Equivalent
+I think character is a very important question,Claim,"(8696, 8742)",I think the American people should be the judge of that,Claim,"(8639, 8694)",Support
+Those are the people who in the 1980s had their incomes go up while their taxes went down,Premise,"(13507, 13596)","The tax increase I have proposed triggers in at family incomes of $200,000 and above",Premise,"(13421, 13505)",Support
+for 40-some years we kept the peace,Premise,"(18009, 18044)","If you look at the cost of not keeping the peace in Europe, it would be exorbitant",Claim,"(18046, 18128)",Support
+It's 10 cents a year cumulative,Premise,"(22901, 22932)","I think ""punish"" is the wrong word",Claim,"(22990, 23024)",Support
+I think it's a good decision,Claim,"(27920, 27948)",I think it was the correct decision to do,Claim,"(27981, 28022)",Equivalent
+There are great plans lying all over Washington nobody ever executes,Premise,"(32743, 32811)",we will start putting together teams to put together--to take all the plans that exist and do something with them,Claim,"(32609, 32722)",Support
+We have low interest rates today,Premise,"(37789, 37821)",I don't think that's the problem today,Claim,"(37749, 37787)",Support
+if you're not rich,Premise,"(41674, 41692)",you're not a superpower,Claim,"(41694, 41717)",Support
+"I was not put on the ballot by any PAC money, by any foreign lobbyist money, by any special interest money",Premise,"(1550, 1581)",I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot,Claim,"(1421, 1548)",Support
+They rewarded him by opening negotiations with Iran to transfer nuclear technology,Premise,"(47071, 47153)",I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square,Claim,"(46808, 46959)",Support
+both of them are very complicated situations,Premise,"(51073, 51117)","I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out",Claim,"(51183, 51341)",Support
+I just don't believe that's the answer,Claim,"(57815, 57853)",I don't believe legalizing narcotics is the answer,Claim,"(57763, 57813)",Equivalent
+I just think it's wrong,Claim,"(8993, 9016)",I think it's wrong to demonstrate against your own country or organize demonstrations against your own country in foreign soil,Claim,"(8865, 8991)",Equivalent
+"The tax increase I have proposed triggers in at family incomes of $200,000 and above",Premise,"(13421, 13505)",that is where my income limit would trigger,Claim,"(13796, 13839)",Support
+because of our fantastic success in winning the Cold War,Premise,"(18275, 18331)",we could do that,Claim,"(18255, 18271)",Support
+It finally gets to 50 cents at the end of the 5th year,Premise,"(22934, 22988)","I think ""punish"" is the wrong word",Claim,"(22990, 23024)",Support
+we're moving forward all around the world in a much more peaceful way,Premise,"(28057, 28126)",I think it was the correct decision to do,Claim,"(27981, 28022)",Support
+It's like having a blueprint for a house you never built,Premise,"(32813, 32869)",There are great plans lying all over Washington nobody ever executes,Premise,"(32743, 32811)",Support
+we have low interest rates that the Fed can control,Premise,"(37832, 37883)",We have low interest rates today,Premise,"(37789, 37821)",Support
+you can't ship it all overseas,Claim,"(41912, 41942)",you've got to make it here,Claim,"(41944, 41970)",Support
+where the people are more or less treated as objects to be programmed during the campaign with commercials and media events and fear messages and personal attacks and things of that nature,Premise,"(1977, 2165)","Over time we have developed a government that comes at the people, that comes from the top down",Claim,"(1880, 1975)",Support
+That was their response to that sort of action,Premise,"(47155, 47201)",I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square,Claim,"(46808, 46959)",Support
+American airplanes are helping today on humanitarian relief for Sarajevo,Premise,"(51359, 51431)",We are helping,Claim,"(51343, 51357)",Support
+"Many of the countries below that used to say, well, this is the US' problem -- if you'd get the demand down, then we wouldn't have the problem -- are working cooperatively with the DEA and the military",Premise,"(58085, 58286)",We're doing a little better in interdiction,Claim,"(58040, 58083)",Support
+It's a question of character and judgment,Claim,"(9267, 9308)",demonstrating -- it's not a question of patriotism,Claim,"(9215, 9265)",Attack
+"we want to give modest middle-class tax relief to restore some fairness, especially to middle- class people with families with incomes of under $60,000",Premise,"(14063, 14214)","my plan triggers in at gross incomes, family incomes of $200,000 and above",Premise,"(13982, 14056)",Support
+we could do that,Claim,"(18255, 18271)",We never would have got there,Claim,"(18333, 18362)",Support
+I didn't create this problem,Premise,"(23038, 23066)",We're trying to solve it,Claim,"(23068, 23092)",Support
+"When you cut back on defense spending, some people are going to be thrown out of work",Premise,"(28299, 28384)",that one we came away with in creating jobs for the American people,Claim,"(28131, 28198)",Support
+You don't have anywhere to sleep,Premise,"(32871, 32903)",It's like having a blueprint for a house you never built,Premise,"(32813, 32869)",Support
+because of our deficit,Premise,"(37936, 37958)",Our long-term interest rates are still pretty high,Claim,"(37885, 37935)",Support
+we've got to manufacture here,Claim,"(41856, 41885)",you've got to make it here,Claim,"(41944, 41970)",Equivalent
+"I go into this race as their servant, and I belong to them",Premise,"(2370, 2428)",this comes from the people,Claim,"(2433, 2459)",Support
+"Now that the voices in the Congress and throughout the country have insisted that we do something about China, look at what has happened",Premise,"(47203, 47339)",China has finally agreed to stop sending us products made with prison labor,Premise,"(47341, 47416)",Support
+It is America that's in the lead in helping with humanitarian relief for Somalia,Premise,"(51433, 51513)",We are helping,Claim,"(51343, 51357)",Support
+We're using the military more now in terms of interdiction,Premise,"(58288, 58346)",We're doing a little better in interdiction,Claim,"(58040, 58083)",Support
+More and more people get on the rolls as poverty increases,Premise,"(63867, 63925)","If you don't control the health care costs of the entire system, you cannot get control of it",Claim,"(63927, 64020)",Support
+I just find it impossible to understand how an American can demonstrate against his own country in a foreign land,Premise,"(9454, 9567)",I think it's wrong to demonstrate against your own country or organize demonstrations against your own country in foreign soil,Claim,"(8865, 8991)",Support
+"my plan triggers in at gross incomes, family incomes of $200,000 and above",Premise,"(13982, 14056)","The tax increase I have proposed triggers in at family incomes of $200,000 and above",Premise,"(13421, 13505)",Equivalent
+if we had gone for the nuclear freeze crowd,Premise,"(18363, 18406)",We never would have got there,Claim,"(18333, 18362)",Support
+"if you study our international competitors, some of our international competitors collect up to $3.50 a gallon in taxes, and they use that money to build infrastructure and to create jobs",Premise,"(23099, 23286)",We're trying to solve it,Claim,"(23068, 23092)",Support
+that one we came away with in creating jobs for the American people,Claim,"(28131, 28198)",I think it was the correct decision to do,Claim,"(27981, 28022)",Support
+Have a 3rd task force on new industries of the future,Claim,"(33216, 33269)",we have an adversarial relationship between government and business,Claim,"(33407, 33474)",Support
+because of our economic performance,Premise,"(37963, 37998)",Our long-term interest rates are still pretty high,Claim,"(37885, 37935)",Support
+Willow Run could be converted from cars to airplanes in World War II because it was here,Premise,"(42047, 42135)",you can't convert from potato chips to airplanes in an emergency,Claim,"(41976, 42040)",Support
+The thing that separates my candidacy and makes it unique is that this came from millions of people in 50 states all over this country who wanted a candidate that worked and belonged to nobody but them,Premise,"(2167, 2368)",this comes from the people,Claim,"(2433, 2459)",Support
+China has finally agreed to stop sending us products made with prison labor,Premise,"(47341, 47416)","Not because we coddled them, but because the Administration was pushed into doing something about it",Claim,"(47418, 47518)",Support
+when you go to put somebody else's son or daughter into war,Premise,"(51519, 51578)",I think you got to be a little bit careful and you have to be sure that there's a military plan that can do this,Claim,"(51580, 51692)",Support
+"Our funding for recovery is up, recovering the addicts",Premise,"(58348, 58402)",We're doing a little better in interdiction,Claim,"(58040, 58083)",Support
+organizing demonstrations against it when young men are held prisoner in Hanoi or kids out of the ghetto were drafted,Premise,"(9571, 9688)",I just find it impossible to understand how an American can demonstrate against his own country in a foreign land,Premise,"(9454, 9567)",Support
+"my plan triggers in at gross incomes, family incomes of $200,000 and above",Premise,"(13982, 14056)",the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people,Claim,"(14237, 14473)",Support
+if we had listened to those that wanted to cut defense spending,Premise,"(18438, 18501)",we never would have got there,Claim,"(18408, 18437)",Support
+We collect 35 cents,Premise,"(23288, 23307)",we don't have it to spend,Premise,"(23313, 23338)",Support
+"If you throw another 50,000 kids on the street because of cutting recklessly in troop levels, you're going to put a lot more out of work",Premise,"(28386, 28522)","When you cut back on defense spending, some people are going to be thrown out of work",Premise,"(28299, 28384)",Support
+have one task force at work on that,Claim,"(33056, 33091)",clean up the small business problem,Claim,"(33019, 33054)",Support
+"there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics--another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment",Premise,"(38004, 38240)",I don't think that's the problem today,Claim,"(37749, 37787)",Support
+you can't convert from potato chips to airplanes in an emergency,Claim,"(41976, 42040)",you've got to make it here,Claim,"(41944, 41970)",Support
+This is a movement that came from the people,Claim,"(1714, 1758)",this comes from the people,Claim,"(2433, 2459)",Equivalent
+"Not because we coddled them, but because the Administration was pushed into doing something about it",Claim,"(47418, 47518)",I would be firm,Claim,"(47772, 47787)",Support
+You have ancient ethnic rivalries that have cropped up as Yugoslavia's dissolved or getting dissolved,Premise,"(51694, 51795)",it isn't going to be solved by sending in the 82nd Airborne,Claim,"(51801, 51860)",Support
+I just don't think that's right,Claim,"(9755, 9786)","Some say, ""well, you're a little old fashioned."" Maybe I am",Premise,"(9690, 9749)",Attack
+I want to give people permanent incentives on investment tax credit,Claim,"(14475, 14542)",the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people,Claim,"(14237, 14473)",Support
+we never would have got there,Claim,"(18408, 18437)",We never would have got there,Claim,"(18333, 18362)",Equivalent
+we have so mismanaged our country over the years,Premise,"(23567, 23615)",it is now time to pay the fiddler,Claim,"(23621, 23654)",Support
+look at the job retraining programs that we're proposing,Premise,"(28545, 28601)","When you cut back on defense spending, some people are going to be thrown out of work",Premise,"(28299, 28384)",Support
+"Our international competitors that are cleaning our plate have an intelligent relationship between government and business, and a supportive relationship",Claim,"(33476, 33629)",we have an adversarial relationship between government and business,Claim,"(33407, 33474)",Support
+if we have the discipline to increase investment and reduce the debt at the same time,Premise,"(38443, 38528)","I think the important thing--the important thing-- is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down",Claim,"(38246, 38442)",Support
+you've got to make it here,Claim,"(41944, 41970)",We've got to make things here,Claim,"(42137, 42166)",Equivalent
+I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot,Claim,"(1421, 1548)",This is a movement that came from the people,Claim,"(1714, 1758)",Support
+"And recently the Chinese have announced they are going to lower some barriers to our products, which they ought to do since they have a 15 billion dollar trade surplus with the United States under Mr. Bush",Premise,"(47520, 47725)",I would be firm,Claim,"(47772, 47787)",Support
+it isn't going to be solved by sending in the 82nd Airborne,Claim,"(51801, 51860)",I'm not going to do that as commander-in-chief,Claim,"(51866, 51912)",Support
+"I would say that one meeting that made a profound impression on me was when the mayors of the big cities, including the mayor of Los Angeles, a Democrat, came to see me, and they unanimously said the decline in urban America stems from the decline in the American family",Premise,"(56179, 56449)",I do think we need to strengthen family,Claim,"(56454, 56493)",Support
+I just don't think that's right,Claim,"(9755, 9786)",I think it's wrong to demonstrate against your own country or organize demonstrations against your own country in foreign soil,Claim,"(8865, 8991)",Support
+like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again,Premise,"(14544, 14642)",I want to give people permanent incentives on investment tax credit,Claim,"(14475, 14542)",Support
+We never would have got there,Claim,"(18333, 18362)",I think it is important that the US stay in Europe and continue to guarantee the peace,Claim,"(18503, 18589)",Support
+"if we don't, we will be spending our children's money",Claim,"(23660, 23713)",it is now time to pay the fiddler,Claim,"(23621, 23654)",Support
+we are not coming apart at the seams,Claim,"(28737, 28773)",we're ready for a recovery,Claim,"(28775, 28801)",Support
+clean up the small business problem,Claim,"(33019, 33054)",we want to put America back to work,Claim,"(32982, 33017)",Support
+I think Congress is hungry for someone who will work with them instead of manipulate them,Claim,"(38603, 38692)","Someone who will not veto a bill that has an investment tax credit, middle class tax relief, research and development tax credits as Mr. Bush has done",Premise,"(38694, 38844)",Attack
+You can't ship them overseas anymore,Claim,"(42168, 42204)",you can't ship it all overseas,Claim,"(41912, 41942)",Equivalent
+"Mr. Bush, for 12 years you've had it your way",Premise,"(2841, 2886)",You've had your chance and it didn't work,Claim,"(2888, 2929)",Support
+"I would say if you want to continue as Most Favored Nation status for your government owned industries as well as your private ones, observe human rights in the future",Claim,"(47789, 47956)",I would be firm,Claim,"(47772, 47787)",Support
+"I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out",Claim,"(51183, 51341)",I'm not going to do that as commander-in-chief,Claim,"(51866, 51912)",Support
+"How could you be Commander-in-Chief of the armed forces and have some kid say -- when you have to make a tough decision, as I did in Panama or Kuwait and then have some kid jump up and say, ""Well, I'm not going to go.",Premise,"(10128, 10345)",I just don't think that's right,Claim,"(9755, 9786)",Support
+a research and development tax credit,Premise,"(14644, 14681)",I want to give people permanent incentives on investment tax credit,Claim,"(14475, 14542)",Support
+We simply cannot pull back,Claim,"(18591, 18617)",I think it is important that the US stay in Europe and continue to guarantee the peace,Claim,"(18503, 18589)",Support
+We have spent $4 trillion worth,Premise,"(23715, 23746)",it is now time to pay the fiddler,Claim,"(23621, 23654)",Support
+we've got big economic problems,Premise,"(28700, 28731)",we're ready for a recovery,Claim,"(28775, 28801)",Support
+make sure we nail those for our country and they don't wind up in Europe and Asia,Premise,"(33273, 33354)",Have a 3rd task force on new industries of the future,Claim,"(33216, 33269)",Support
+I am going to protect the American taxpayer against the spend and tax Congress,Claim,"(39745, 39823)",I'm going to keep on vetoing them,Claim,"(39829, 39862)",Support
+We've got to help them,Claim,"(42421, 42443)",We've got to help Russia succeed in its revolution and all of its republics,Claim,"(42271, 42346)",Equivalent
+You've had your chance and it didn't work,Claim,"(2888, 2929)",It's time to change,Claim,"(2931, 2950)",Support
+Open your society,Claim,"(47958, 47975)",I would be firm,Claim,"(47772, 47787)",Support
+We're working through the international organizations,Premise,"(52239, 52292)",We are helping,Claim,"(51343, 51357)",Support
+whether it's character or judgment -- whatever it is -- I have a big difference here on this issue,Premise,"(9793, 9891)",we'll just have to see how it plays out,Premise,"(9899, 9938)",Support
+a low-income housing tax credit,Premise,"(14683, 14714)",I want to give people permanent incentives on investment tax credit,Claim,"(14475, 14542)",Support
+"I will accept and have accepted the recommendations of 2 proven leaders, General Colin Powell and Secretary Dick Cheney",Premise,"(18754, 18873)",They feel that the levels we're operating at and the reductions that I have proposed are proper,Claim,"(18875, 18970)",Support
+they are deeply concerned that we have taken the American dream from them,Premise,"(23828, 23901)",An incredible number of young people are active in supporting my effort,Claim,"(23748, 23819)",Support
+if you go with the programs I've talked about,Premise,"(28937, 28982)",that will change,Claim,"(28920, 28936)",Support
+Convert from 19th to 21st century capitalism,Premise,"(33356, 33400)",Have a 3rd task force on new industries of the future,Claim,"(33216, 33269)",Support
+"Their policies so far, it seems to me, are pretty sound",Premise,"(38941, 38996)",I don't have to worry in the near term about the Federal Reserve,Claim,"(38875, 38939)",Support
+That's pennies on the dollar compared to renewing the cold war,Premise,"(42445, 42507)",We've got to help them,Claim,"(42421, 42443)",Support
+I think we've dramatically changed the world,Claim,"(3219, 3263)",You've had your chance and it didn't work,Claim,"(2888, 2929)",Attack
+Recognize the legitimacy of those kids that were carrying the Statue of Liberty,Claim,"(47977, 48056)",I would be firm,Claim,"(47772, 47787)",Support
+"right now, as you know, the US took the lead in a no-fly operation up there in-- no- fly order up in the United Nations",Premise,"(52118, 52237)",We are helping,Claim,"(51343, 51357)",Support
+I don't think most Americans could do that,Claim,"(9973, 10015)",I couldn't do that,Claim,"(9949, 9967)",Support
+I don't want to have 4 years where we have no growth in the private sector,Claim,"(15086, 15160)",I'd like to create more millionaires than were created under Mr. Bush and Mr. Reagan,Claim,"(14996, 15080)",Attack
+I simply do not think we should go back to the isolation days and starting blaming foreigners,Claim,"(18979, 19072)","when anybody has a spending program they want to spend money on at home, they say, well, let's cut money out of the Defense Dept",Premise,"(18624, 18752)",Attack
+An incredible number of young people are active in supporting my effort,Claim,"(23748, 23819)",I think it's fitting that we're on the campus of a university tonight,Claim,"(23903, 23972)",Support
+if you help with job retraining and education,Premise,"(28987, 29032)",that will change,Claim,"(28920, 28936)",Support
+"next to jobs, our people are concerned about their safety",Premise,"(33678, 33735)",have another task force on crime,Claim,"(33636, 33668)",Support
+I don't have to worry in the near term about the Federal Reserve,Claim,"(38875, 38939)",I don't think that's the problem today,Claim,"(37749, 37787)",Support
+some that are being executed on getting rid of nuclear warheads,Premise,"(42564, 42627)",we've got all kinds of agreements on paper,Premise,"(42516, 42558)",Support
+Kids go to bed at night without the same fear of nuclear war,Premise,"(3357, 3417)",I think we've dramatically changed the world,Claim,"(3219, 3263)",Support
+If we can stand up for our economics,Premise,"(48058, 48094)",we ought to be able to preserve the democratic interests of the people of China,Claim,"(48096, 48175)",Support
+"I must stop short of using American force until I know how those young men and women are going to get out of there as well as get in, know what the mission is, and define it",Claim,"(52600, 52773)",I'm not going to do that as commander-in-chief,Claim,"(51866, 51912)",Support
+"The use of cocaine, for example, by teenagers is dramatically down",Premise,"(57914, 57980)",I do believe that there's some fairly good news out there,Claim,"(57855, 57912)",Support
+I couldn't do that,Claim,"(9949, 9967)",I just don't think that's right,Claim,"(9755, 9786)",Support
+We don't need across-the-board tax cuts for the wealthy for nothing,Claim,"(14833, 14900)",We've got to have no more trickle down,Claim,"(14793, 14831)",Support
+we have a certain disproportionate responsibility,Claim,"(19139, 19188)",We are the sole remaining superpower,Claim,"(19074, 19110)",Support
+I think it's fitting that we're on the campus of a university tonight,Claim,"(23903, 23972)","These young people, when they get out of this wonderful university, will have difficulty finding a job",Claim,"(23974, 24076)",Support
+"With interest rates down and inflation down, the cruelest tax of all, caught up in a global slowdown right now",Premise,"(28803, 28913)",that will change,Claim,"(28920, 28936)",Support
+"in that 90- day period before the inauguration, put together the framework for the town hall and give the American people a Christmas present",Premise,"(33800, 33941)",Show them by Christmas the first cut at these plans,Premise,"(33943, 33994)",Support
+There is a separation there,Premise,"(39114, 39141)",I don't think the Fed ought to be put under the Executive Branch,Claim,"(39048, 39112)",Support
+Russia and its republics are out of control or at best in weak control right now,Premise,"(42629, 42709)",It's a very unstable situation,Claim,"(42711, 42741)",Support
+And change for change sake isn't enough,Claim,"(3419, 3458)",It's time to change,Claim,"(2931, 2950)",Attack
+we ought to be able to preserve the democratic interests of the people of China,Claim,"(48096, 48175)",I would be firm,Claim,"(47772, 47787)",Support
+I am very concerned about it,Premise,"(52463, 52491)",both of them are very complicated situations,Premise,"(51073, 51117)",Support
+We're doing a little better in interdiction,Claim,"(58040, 58083)",I do believe that there's some fairly good news out there,Claim,"(57855, 57912)",Support
+The Commander-in-Chief was organizing demonstrations halfway around the world during another era,Premise,"(10346, 10442)","How could you be Commander-in-Chief of the armed forces and have some kid say -- when you have to make a tough decision, as I did in Panama or Kuwait and then have some kid jump up and say, ""Well, I'm not going to go.",Premise,"(10128, 10345)",Support
+"We need to say here's your tax incentive: if you create American jobs, the old-fashioned way",Claim,"(14902, 14994)",We don't need across-the-board tax cuts for the wealthy for nothing,Claim,"(14833, 14900)",Support
+we should be that,Claim,"(19116, 19133)",We are the sole remaining superpower,Claim,"(19074, 19110)",Support
+it will increase unemployment,Claim,"(25208, 25237)",I think we shouldn't do it that quickly,Claim,"(25281, 25320)",Support
+it's going to take awhile to educate,Premise,"(29131, 29167)",I am a firm believer that our America 2000 education problem is the answer,Claim,"(29034, 29108)",Support
+"By the time Congress comes into session to go to work, have those plans ready to go in front of Congress",Premise,"(33996, 34100)",get off to a flying start in '93 to execute these plans,Claim,"(34107, 34162)",Support
+I don't think the Fed ought to be put under the Executive Branch,Claim,"(39048, 39112)",I think that's fine,Claim,"(39143, 39162)",Support
+we've got all kinds of agreements on paper,Premise,"(42516, 42558)",It's a very unstable situation,Claim,"(42711, 42741)",Support
+"We saw that message in the late 70s when heard a lot about change, and what happened, that misery index went right through the roof",Premise,"(3460, 3591)",And change for change sake isn't enough,Claim,"(3419, 3458)",Support
+We are the one that worked out the prison labor deal,Premise,"(48380, 48432)","Not because we coddled them, but because the Administration was pushed into doing something about it",Claim,"(47418, 47518)",Attack
+I am concerned about ethnic cleansing,Premise,"(52493, 52530)",I am very concerned about it,Premise,"(52463, 52491)",Support
+I think the press can play a huge roll in making sure that the backgrounds are clearly presented in an objective way,Claim,"(10861, 10977)",I think they need to clearly understand the backgrounds of each person,Claim,"(10789, 10859)",Support
+that's what's happened in the last 4 years,Premise,"(15166, 15208)",I don't want to have 4 years where we have no growth in the private sector,Claim,"(15086, 15160)",Support
+if we go too far,Premise,"(19272, 19288)",we risk the peace,Claim,"(19290, 19307)",Support
+it will slow down the economy,Claim,"(25239, 25268)",I think we shouldn't do it that quickly,Claim,"(25281, 25320)",Support
+it is a good program,Claim,"(29173, 29193)",I am a firm believer that our America 2000 education problem is the answer,Claim,"(29034, 29108)",Support
+Show them by Christmas the first cut at these plans,Premise,"(33943, 33994)",get off to a flying start in '93 to execute these plans,Claim,"(34107, 34162)",Support
+"I've had some arguments with him about the speed in which we might have lowered interest rates, but Governor Clinton, he talks about the reaction to the markets",Premise,"(39193, 39353)",Alan Greenspan is respected,Premise,"(39164, 39191)",Support
+You've got every rich Middle Eastern country over there trying to buy nuclear weapons,Premise,"(42743, 42828)",It's a very unstable situation,Claim,"(42711, 42741)",Support
+A lot of them are thrown out because of all the scandals,Premise,"(3732, 3788)",the way we're going to get it done is we're going to have a brand new Congress,Claim,"(3652, 3730)",Support
+We are the one that worked out the prison labor deal,Premise,"(48380, 48432)",the Administration was the first major country to stand up to the abuse in Tiananmen Square,Claim,"(48287, 48378)",Support
+"I am concerned about a tax on Muslims, for example, over there",Premise,"(52532, 52594)",both of them are very complicated situations,Premise,"(51073, 51117)",Support
+I think they need to clearly understand the backgrounds of each person,Claim,"(10789, 10859)",I think the American people will make their own decisions on character,Claim,"(10661, 10731)",Support
+"We're down 35,000 jobs in the private sector",Premise,"(15210, 15254)",that's what's happened in the last 4 years,Premise,"(15166, 15208)",Support
+if we make imprudent cuts,Premise,"(19245, 19270)",we risk the peace,Claim,"(19290, 19307)",Support
+We have a disciplined reduction in the deficit of 50 % over the next 4 years,Premise,"(25322, 25398)",We've got to invest and grow,Claim,"(25490, 25518)",Support
+best help for short term is job retraining,Claim,"(29202, 29244)","When you cut back on defense spending, some people are going to be thrown out of work",Premise,"(28299, 28384)",Support
+put together your plans by Christmas,Premise,"(34403, 34439)",my orientation is let's go do it,Claim,"(34364, 34396)",Support
+It's been very strong since I've been president,Premise,"(39517, 39564)","I don't think we can judge on, the stock market has been strong",Claim,"(39452, 39515)",Support
+You've got every rich Middle Eastern country over there trying to buy nuclear weapons,Premise,"(42743, 42828)",that will lead to another five star migraine headache down the road,Claim,"(42852, 42919)",Support
+I think it's experience at this level,Claim,"(3964, 4001)",I think one thing that distinguishes is experience,Claim,"(3167, 3217)",Equivalent
+the Administration was the first major country to stand up to the abuse in Tiananmen Square,Claim,"(48287, 48378)",I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square,Claim,"(46808, 46959)",Attack
+I'm not going to do that as commander-in-chief,Claim,"(51866, 51912)",I think I'm on the right track,Claim,"(52779, 52809)",Support
+"I was born to a widowed mother who gave me family values, and grandparents",Premise,"(55767, 55841)",I know a lot about that,Claim,"(55742, 55765)",Support
+when Joe McCarthy went around this country attacking people's patriotism he was wrong,Claim,"(12588, 12673)","You even brought some right-wing congressman into the White House to plot how to attack me for going to Russia in 1969-70, when over 50,000 other Americans did",Premise,"(12193, 12352)",Attack
+don't have much to show for it,Premise,"(17258, 17288)",we have got to fix it,Claim,"(17293, 17314)",Support
+we risk the peace,Claim,"(19290, 19307)",I don't want to do that,Claim,"(19313, 19336)",Support
+"first get incentives to invest in this economy, put the American people back to work",Premise,"(25404, 25488)",We've got to invest and grow,Claim,"(25490, 25518)",Support
+if she was thrown out of work at a defense plant,Premise,"(29246, 29294)",best help for short term is job retraining,Claim,"(29202, 29244)",Support
+be ready to go when Congress goes,Premise,"(34441, 34474)",my orientation is let's go do it,Claim,"(34364, 34396)",Support
+I don't think we're taxed too little,Premise,"(39872, 39908)",I'm going to keep on vetoing them,Claim,"(39829, 39862)",Support
+we've focused on the tactical,Premise,"(43036, 43065)","We really need to nail down the big intercontinental ballistic missiles, the ones that can hit us from Russia",Claim,"(42921, 43030)",Support
+it's not everything,Claim,"(4238, 4257)",I believe experience counts,Claim,"(4205, 4232)",Attack
+We are the ones that lowered the barrier to products with Carla Hill's negotiation,Premise,"(48434, 48516)",the Administration was the first major country to stand up to the abuse in Tiananmen Square,Claim,"(48287, 48378)",Support
+if we learned anything in Vietnam is you first commit this nation before you commit the troops to the battlefield,Premise,"(52962, 53075)",We cannot send our people all over the world to solve every problem that comes up,Claim,"(53077, 53158)",Support
+I've seen the family values of my people in Arkansas,Premise,"(55843, 55895)",I know a lot about that,Claim,"(55742, 55765)",Support
+it's easy to dismiss the concerns of the disabled,Claim,"(64215, 64264)",The Oregon plan made some good sense,Claim,"(64173, 64209)",Attack
+"If you make it as a young man, time passes",Premise,"(11490, 11532)",I think it's very important to measure when and where things occurred,Claim,"(11082, 11151)",Support
+that's what I want to do,Claim,"(15288, 15312)",We need to invest and grow,Claim,"(15256, 15282)",Support
+"I've seen what it is like to see a war, to see the burdens of a war",Premise,"(19338, 19405)",I don't want to see us make reckless cuts,Claim,"(19411, 19452)",Support
+"I don't believe it is fair to slap a 50-cent-a-gallon tax over whatever many years on the people that have to drive for a living, people that go long distances",Claim,"(25880, 26039)",I just disagree with Mr. Perot,Claim,"(25848, 25878)",Support
+we're the US,Premise,"(29335, 29347)",it's not all that gloomy,Claim,"(29309, 29333)",Support
+nail these things,Premise,"(34476, 34493)",my orientation is let's go do it,Claim,"(34364, 34396)",Support
+I think the government's spending too much,Premise,"(39910, 39952)",I'm going to keep on vetoing them,Claim,"(39829, 39862)",Support
+We've made real progress there,Premise,"(43067, 43097)",we've focused on the tactical,Premise,"(43036, 43065)",Support
+I know that the only way he can win is to make everybody believe the economy's worse than it is,Claim,"(6488, 6583)","He thinks, I think he said, that the country is coming apart at the seams",Premise,"(6408, 6481)",Attack
+I am the one that said let's keep the M.F.N. because you see China moving towards a free market economy,Premise,"(48518, 48621)",the Administration was the first major country to stand up to the abuse in Tiananmen Square,Claim,"(48287, 48378)",Support
+We cannot send our people all over the world to solve every problem that comes up,Claim,"(53077, 53158)",I'm not going to do that as commander-in-chief,Claim,"(51866, 51912)",Support
+I know a lot about that,Claim,"(55742, 55765)",America has a lot of families that are in trouble today,Claim,"(55620, 55675)",Support
+"When you're a senior official in the federal government spending billions of dollars in taxpayer's money and you're a mature individual and you make a mistake, then that was on our ticket",Premise,"(11301, 11488)",I think it's very important to measure when and where things occurred,Claim,"(11082, 11151)",Support
+I questioned his judgment and his character,Claim,"(15454, 15497)",I didn't question the man's patriotism,Claim,"(15414, 15452)",Support
+Because of our programs,Premise,"(19454, 19477)",we have been able to significantly cut defense spending,Claim,"(19478, 19533)",Support
+I agree with what he's talking about in trying to get this spending down and the discipline,Premise,"(26115, 26206)",I think we ought to totally exempt Social Security,Claim,"(26217, 26267)",Support
+we faced tough problems before,Premise,"(29349, 29379)",we're the US,Premise,"(29335, 29347)",Support
+put together your plans by Christmas,Premise,"(34403, 34439)",Show them by Christmas the first cut at these plans,Premise,"(33943, 33994)",Equivalent
+I'm going to protect the working man by continuing to veto,Claim,"(40026, 40084)",I'm going to keep on vetoing them,Claim,"(39829, 39862)",Support
+The sooner the better,Premise,"(43185, 43206)","We've got some agreement on the nuclear, but we don't have those things put away yet",Premise,"(43099, 43183)",Support
+"this country is not coming apart at the seams, for heaven's sakes",Claim,"(6589, 6654)","He thinks, I think he said, that the country is coming apart at the seams",Premise,"(6408, 6481)",Attack
+Governor Clinton's philosophy is isolate them,Claim,"(48854, 48899)","To do what the Congress and Governor Clinton is suggesting, you'd isolate and ruin Hong Kong",Claim,"(48623, 48715)",Equivalent
+"it is inappropriate for us, just because there's a problem somewhere around the world, to take the sons and daughters of working people",Claim,"(53336, 53471)","Certainly we care about the people, we care about the children, we care about the tragedy",Premise,"(53241, 53330)",Attack
+"I would say just, you know, look at all three of us",Premise,"(11537, 11588)",Decide who you think will do the job,Premise,"(11590, 11626)",Support
+What I don't accept is demonstrating and organizing demonstrations in a foreign country when your country's at war,Claim,"(15578, 15692)",I cannot accept that,Claim,"(15705, 15725)",Equivalent
+we never would have got there,Claim,"(18408, 18437)",I think it is important that the US stay in Europe and continue to guarantee the peace,Claim,"(18503, 18589)",Support
+If people don't have the stomach to fix these problems,Premise,"(24348, 24402)","I think it's a good time to face it, November",Claim,"(24404, 24449)",Support
+Look at the misery index when the Democrats had both the White House and the Congress,Premise,"(29381, 29466)",It was just right through the roof,Premise,"(29468, 29502)",Support
+be ready to go when Congress goes,Premise,"(34441, 34474)","By the time Congress comes into session to go to work, have those plans ready to go in front of Congress",Premise,"(33996, 34100)",Equivalent
+to threaten to veto until we get this new Congress,Claim,"(40090, 40140)",I'm going to keep on vetoing them,Claim,"(39829, 39862)",Support
+you're not a superpower,Claim,"(41694, 41717)",we've got to be financially strong,Claim,"(43236, 43270)",Support
+It's time to change,Claim,"(2931, 2950)",I want to bring that change to the American people,Claim,"(2952, 3002)",Support
+We were the first ones to put sanctions on,Premise,"(48767, 48809)","We still have them on, on some things",Premise,"(48811, 48848)",Support
+This is basically a problem that is a primary concern to the European Community,Premise,"(53160, 53239)",We cannot send our people all over the world to solve every problem that comes up,Claim,"(53077, 53158)",Support
+anyone in the White House should have the character to be there,Premise,"(11012, 11075)",Decide who you think will do the job,Premise,"(11590, 11626)",Support
+What I don't accept is demonstrating and organizing demonstrations in a foreign country when your country's at war,Claim,"(15578, 15692)",I questioned his judgment and his character,Claim,"(15454, 15497)",Support
+let's not cut into the muscle,Premise,"(19539, 19568)","let's not cut down our insurance policy, which is participation of American forces in NATO, the greatest peace- keeping organization ever made",Premise,"(19574, 19716)",Support
+If they do,Premise,"(24451, 24461)",they will have heard the harsh reality of what we have to do,Claim,"(24468, 24528)",Support
+It was just right through the roof,Premise,"(29468, 29502)",we can do better,Claim,"(29509, 29525)",Support
+you've got to credit,Claim,"(34539, 34559)",Small business--you've got to have capital,Claim,"(34495, 34537)",Support
+"We live in a global economy, not a national economy",Premise,"(40332, 40383)",let's live in a world of reality,Claim,"(40298, 40330)",Support
+"We really need to nail down the big intercontinental ballistic missiles, the ones that can hit us from Russia",Claim,"(42921, 43030)",we've got to take care of this missile situation and try to get the nuclear war behind us and give this thing very high priority,Claim,"(43284, 43412)",Support
+the changes are mind-boggling for world peace,Premise,"(3310, 3355)",I think we've dramatically changed the world,Claim,"(3219, 3263)",Support
+the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting,Claim,"(48926, 49075)",Governor Clinton's philosophy is isolate them,Claim,"(48854, 48899)",Support
+The party's over and it's time for the clean-up crew,Claim,"(11699, 11751)",we do have to have change,Claim,"(11758, 11783)",Support
+He did,Premise,"(15555, 15561)",I accept that,Premise,"(15563, 15576)",Support
+"let's not cut down our insurance policy, which is participation of American forces in NATO, the greatest peace- keeping organization ever made",Premise,"(19574, 19716)",I think this insurance policy is necessary,Claim,"(19843, 19885)",Support
+I'm not playing Lawrence Welk music tonight,Premise,"(24530, 24573)",they will have heard the harsh reality of what we have to do,Claim,"(24468, 24528)",Support
+"the way to do better is not to tax and spend but to retrain, get that control of the mandatory spending programs.",Claim,"(29531, 29644)",we can do better,Claim,"(29509, 29525)",Support
+many of them need mentors or coaches,Claim,"(34565, 34601)",Small business--you've got to have capital,Claim,"(34495, 34537)",Support
+So seventy percent of our debt is five years or less,Premise,"(40557, 40609)",only in America would you finance seventy percent of it five years or less,Premise,"(40481, 40555)",Equivalent
+We've got to help them,Claim,"(42421, 42443)",we need to help and support Russia and the republics in every possible way to become democratic capitalistic societies,Claim,"(43432, 43550)",Equivalent
+it's not everything,Claim,"(4238, 4257)",I think it's experience at this level,Claim,"(3964, 4001)",Attack
+I've stood up with these people,Premise,"(49081, 49112)",I understand what you have to do to be strong in this situation,Claim,"(49118, 49181)",Support
+all- volunteer armed force is not made up of the sons and daughters of the beautiful people,Premise,"(53507, 53598)","it is inappropriate for us, just because there's a problem somewhere around the world, to take the sons and daughters of working people",Claim,"(53336, 53471)",Support
+Decide who you think will do the job,Premise,"(11590, 11626)",we do have to have change,Claim,"(11758, 11783)",Support
+"Governor Clinton says $200,000 but he also says he wants to raise $150 billion",Premise,"(15907, 15985)","Taxing people over $200,000 will not get you $150 billion",Claim,"(15987, 16044)",Support
+I think it goes with world leadership,Claim,"(19887, 19924)",I think this insurance policy is necessary,Claim,"(19843, 19885)",Support
+We have a budget deficit in the federal government,Premise,"(24790, 24840)","we really have 2 deficits in America, not one",Claim,"(24743, 24788)",Support
+anybody that thinks about it cares a great deal,Claim,"(30190, 30237)",it's very important that we not continue to let our industrial base deteriorate,Claim,"(29966, 30045)",Support
+we can create more jobs there in a hurry than any other place,Claim,"(34607, 34668)",Small business--you've got to have capital,Claim,"(34495, 34537)",Support
+So seventy percent of our debt is five years or less,Premise,"(40557, 40609)",These interest rates we have now don't make any sense,Claim,"(40385, 40438)",Support
+It's a very unstable situation,Claim,"(42711, 42741)",not just sit back and let those countries continue in turmoil,Claim,"(43556, 43617)",Support
+"Values, judgment, and the record that I have amassed in my state also should count for something",Premise,"(4259, 4355)",it's not everything,Claim,"(4238, 4257)",Support
+"it's moving, not as fast as we'd like",Premise,"(49187, 49224)",I understand what you have to do to be strong in this situation,Claim,"(49118, 49181)",Support
+"it's the working folks who send their sons and daughters to war, with a few exceptions",Premise,"(53600, 53686)","it is inappropriate for us, just because there's a problem somewhere around the world, to take the sons and daughters of working people",Claim,"(53336, 53471)",Support
+when Joe McCarthy went around this country attacking people's patriotism he was wrong,Claim,"(12588, 12673)",He was wrong,Claim,"(12675, 12687)",Equivalent
+"Taxing people over $200,000 will not get you $150 billion",Claim,"(15987, 16044)",the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people,Claim,"(14237, 14473)",Attack
+I think the levels we've come up with are just about right,Claim,"(19930, 19988)",I think this insurance policy is necessary,Claim,"(19843, 19885)",Support
+"we also have an investment, a jobs, an income deficit",Premise,"(24846, 24899)","we really have 2 deficits in America, not one",Claim,"(24743, 24788)",Support
+we practice 19th century capitalism,Premise,"(30730, 30765)","In the rest of the world, the countries and the businesses would be working together to make this transition in an intelligent way",Premise,"(30899, 31029)",Support
+This country desperately needs a jobs program,Claim,"(34717, 34762)",my first priority would be to pass a jobs program,Claim,"(34768, 34817)",Support
+We have a four trillion dollar debt,Premise,"(40440, 40475)",These interest rates we have now don't make any sense,Claim,"(40385, 40438)",Support
+they could go back worse than things used to be,Premise,"(43627, 43674)",not just sit back and let those countries continue in turmoil,Claim,"(43556, 43617)",Support
+I've worked hard to create good jobs and to educate people,Premise,"(4357, 4415)","Values, judgment, and the record that I have amassed in my state also should count for something",Premise,"(4259, 4355)",Support
+"you isolate China and turn them inward, and then we've made a tremendous mistake",Claim,"(49230, 49310)",I'm not going to do it,Claim,"(49316, 49338)",Support
+Everybody went,Premise,"(53750, 53764)","It's very unlike World War II, when FDR's sons flew missions",Premise,"(53688, 53748)",Support
+Well over a million and a quarter Americans are HIV-positive,Premise,"(61560, 61620)",We need to put one person in charge of the battle against AIDS to cut across all the agencies that deal with it,Claim,"(61622, 61733)",Support
+a senator from Connecticut stood up to him named Prescott Bush,Premise,"(12693, 12755)",Your father was right to stand up to Joe McCarthy,Premise,"(12757, 12806)",Support
+That old adage they use--we're going to soak the rich- -we're going to soak the rich--it always ends up being the poor cab driver or the working man that ends up paying the bill,Premise,"(16155, 16332)","when you add in his other spending proposals, regrettably you end up socking it to the working man",Claim,"(16055, 16153)",Support
+if you only have to pick up a $30-billion tab to defend your country,Premise,"(20436, 20504)",It's kind of easy to do,Claim,"(20412, 20435)",Support
+a $1600 drop in average income in just the last 2 years,Premise,"(25001, 25056)","People are working harder for less money than they were making 10 years ago, 2- 3rds of our people",Premise,"(24901, 24999)",Support
+anybody that thinks about it cares a great deal,Claim,"(30190, 30237)",We had someone who I'm sure regrets said it in the president's staff said he didn't care whether we made potato chips or computer chips,Premise,"(30047, 30182)",Attack
+to introduce it on the first day I was inaugurated,Claim,"(34819, 34869)",my first priority would be to pass a jobs program,Claim,"(34768, 34817)",Support
+These interest rates we have now don't make any sense,Claim,"(40385, 40438)",It's very interest sensitive,Claim,"(40611, 40639)",Support
+there are a lot of old boys in the K.G.B. and the military that liked it better the way it used to be,Premise,"(43691, 43792)",they could go back worse than things used to be,Premise,"(43627, 43674)",Support
+"My state now ranks first in the country in job growth this year, fourth in income growth, fourth in reduction of poverty, third in overall economic performance, according to a major news magazine",Premise,"(4417, 4612)",I've worked hard to create good jobs and to educate people,Premise,"(4357, 4415)",Support
+the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting,Claim,"(48926, 49075)",I'm not going to do it,Claim,"(49316, 49338)",Support
+"It's very unlike World War II, when FDR's sons flew missions",Premise,"(53688, 53748)",It's a different world now,Claim,"(53766, 53792)",Support
+"Over 150,000 Americans have died of AIDS",Premise,"(61518, 61558)",We need to put one person in charge of the battle against AIDS to cut across all the agencies that deal with it,Claim,"(61622, 61733)",Support
+"we need a president who will bring this country together, not divide it",Claim,"(12900, 12971)",you were wrong to attack my patriotism,Claim,"(12808, 12846)",Support
+I just have a different approach,Claim,"(16341, 16373)","I believe the way to get the deficit down is to control the growth of mandatory spending programs, and not raise taxes on the American people",Claim,"(16375, 16516)",Support
+It's kind of easy to do,Claim,"(20412, 20435)",Germany will spend a trillion dollars building infrastructure over the next 10 years,Premise,"(20326, 20410)",Support
+"People are working harder for less money than they were making 10 years ago, 2- 3rds of our people",Premise,"(24901, 24999)","we also have an investment, a jobs, an income deficit",Premise,"(24846, 24899)",Support
+you make more making computer chips than potato chips,Premise,"(30251, 30304)",anybody that thinks about it cares a great deal,Claim,"(30190, 30237)",Support
+"I would meet with the leaders of the Congress, with all the newly elected members of the Congress and as many others with whom I could meet between the time of the election and the inauguration, and we would present a jobs program",Premise,"(34871, 35101)",my first priority would be to pass a jobs program,Claim,"(34768, 34817)",Support
+"We have a four percent gap between what we pay for treasuries, and what Germany pays for one to five year treasuries",Premise,"(40641, 40757)",That gap is going to close,Claim,"(40759, 40785)",Support
+the world is still a dangerous and uncertain place,Premise,"(43996, 44046)",We need a new military and a new national security policy equal to the challenges of a post cold war era,Claim,"(44048, 44152)",Support
+"My state now ranks first in the country in job growth this year, fourth in income growth, fourth in reduction of poverty, third in overall economic performance, according to a major news magazine",Premise,"(4417, 4612)",That's because we believe in investing in education and in jobs,Claim,"(4614, 4677)",Support
+Governor Clinton's philosophy is isolate them,Claim,"(48854, 48899)",I'm not going to do it,Claim,"(49316, 49338)",Support
+"It's very important that we not just, without thinking it through, just rush to every problem in the world and have our people torn to pieces",Claim,"(53794, 53935)",We cannot send our people all over the world to solve every problem that comes up,Claim,"(53077, 53158)",Support
+I was opposed to the war but I loved my country,Premise,"(12848, 12895)",you were wrong to attack my patriotism,Claim,"(12808, 12846)",Support
+"where it appears to be growing, it's minimum-wage jobs",Premise,"(16746, 16800)",Right now we have a flat to deteriorating job base,Premise,"(16691, 16741)",Support
+if you only have to pick up a $30-billion tab to defend your country,Premise,"(20436, 20504)",the Germans spend around 30 billion in Europe,Premise,"(20266, 20311)",Equivalent
+almost all economists who've looked at it say that if you cut the deficit this much this quick,Premise,"(25113, 25207)",it will increase unemployment,Claim,"(25208, 25237)",Support
+19 out of 20 computer chips that we have in this country now come from Japan,Premise,"(30321, 30397)",We've given away whole industries,Premise,"(30399, 30432)",Support
+"What I'm going to do is say to Jim Baker when this campaign is over, all right, let's sit down now, you do in domestic affairs what you've done in foreign affairs, be kind of the economic coordinator of all the domestic side of the House, and that includes all the economic side, all the training side, and bring this program together",Claim,"(36153, 36487)",I've already put forward things that'll get this country working fast,Claim,"(35913, 35982)",Support
+they can get more money,Premise,"(40897, 40920)","the Arabs, the Japanese and folks in this country are going to start buying German treasuries",Claim,"(40795, 40888)",Support
+"a smaller permanent military force, but one that is more mobile, well trained with high technology equipment",Claim,"(44154, 44262)",We need a new military and a new national security policy equal to the challenges of a post cold war era,Claim,"(44048, 44152)",Support
+"You know, my wife, Hillary, gave me a book about a year ago in which the author defined insanity as just doing the same old thing over and over again and expecting a different result",Premise,"(4718, 4900)",We have got to have the courage to change,Claim,"(4902, 4943)",Support
+I understand what you have to do to be strong in this situation,Claim,"(49118, 49181)",I'm not going to do it,Claim,"(49316, 49338)",Support
+I agree that we cannot commit ground forces to become involved in the quagmire of Bosnia or in the tribal wars of Somalia,Claim,"(53984, 54105)",We cannot send our people all over the world to solve every problem that comes up,Claim,"(53077, 53158)",Support
+I want to lead a unified country,Premise,"(13000, 13032)","we need a president who will bring this country together, not divide it",Claim,"(12900, 12971)",Support
+Right now we have a flat to deteriorating job base,Premise,"(16691, 16741)",we've got to really rebuild our job base,Claim,"(16805, 16845)",Support
+The European Community is in a position to pay a lot more than they have in the past,Claim,"(20506, 20590)","when the tables get turned, I ought to do my share",Claim,"(20111, 20161)",Support
+almost all economists who've looked at it say that if you cut the deficit this much this quick,Premise,"(25113, 25207)",it will slow down the economy,Claim,"(25239, 25268)",Support
+We've given away whole industries,Premise,"(30399, 30432)",anybody that thinks about it cares a great deal,Claim,"(30190, 30237)",Support
+Then we would present a plan to control health care costs and phase in health care coverage for all Americans,Premise,"(35103, 35212)","Until we control health care costs, we're not going to control the deficit",Claim,"(35214, 35288)",Support
+Whichever place you put it,Premise,"(41031, 41057)",We are sitting on a ticking time bomb,Claim,"(41059, 41096)",Support
+We need a new military and a new national security policy equal to the challenges of a post cold war era,Claim,"(44048, 44152)",There are three fundamental challenges,Claim,"(43942, 43980)",Support
+"I've touched more people's lives and seen more heartbreak and hope, more pain and more promise, than anybody else who's run for president this year",Premise,"(5074, 5221)",I think the American people deserve better than they're getting,Claim,"(5223, 5286)",Support
+He went over to say we must make the very changes they're making now,Claim,"(49555, 49623)",They didn't go over to coddle,Claim,"(49524, 49553)",Support
+"There are, after all, 2 million refugees now because of the problems in what was Yugoslavia, the largest number since World War II",Premise,"(54243, 54373)",we do have interests there,Claim,"(54215, 54241)",Support
+We've had enough division,Premise,"(12973, 12998)","we need a president who will bring this country together, not divide it",Claim,"(12900, 12971)",Support
+"We've got to have a growing, expanding job base to give us a growing, expanding tax base",Claim,"(16601, 16689)",we've got to really rebuild our job base,Claim,"(16805, 16845)",Support
+It's kind of easy to do,Claim,"(20412, 20435)",The European Community is in a position to pay a lot more than they have in the past,Claim,"(20506, 20590)",Support
+"I don't think we need to tax more and spend more, and then say that's going to make the problem better",Claim,"(26041, 26066)",I disagree with the tax-and-spend philosophy,Claim,"(26327, 26371)",Support
+A lot of these people in industries can be converted to the industries of tomorrow,Premise,"(30532, 30614)",that's where the high-paying jobs are,Claim,"(30620, 30657)",Support
+"Until we control health care costs, we're not going to control the deficit",Claim,"(35214, 35288)",It is the number one culprit,Claim,"(35290, 35318)",Support
+we have totally mismanaged our country,Premise,"(41112, 41150)",We are sitting on a ticking time bomb,Claim,"(41059, 41096)",Support
+"We need to continue the negotiations to reduce the nuclear arsenals in the Soviet Union, the former Soviet Union, and the United States",Claim,"(44264, 44399)",There are three fundamental challenges,Claim,"(43942, 43980)",Support
+"We have gone from first to thirteenth in wages in the world in the last twelve years, since Mr. Bush and Mr. Reagan have been in",Premise,"(5288, 5416)",I think the American people deserve better than they're getting,Claim,"(5223, 5286)",Support
+"China, is a huge country, broken into many provinces",Premise,"(49685, 49737)",it's huge,Premise,"(49674, 49683)",Equivalent
+there may be hundreds of thousands of people who will starve or freeze to death in this winter,Premise,"(54379, 54473)",we do have interests there,Claim,"(54215, 54241)",Support
+we've got to really rebuild our job base,Claim,"(16805, 16845)",That's going to take money for infrastructure and investment to do that,Claim,"(16847, 16918)",Support
+"when the tables get turned, I ought to do my share",Claim,"(20111, 20161)","If I'm poor and you're rich, and I can get you to defend me, that's good",Claim,"(20033, 20105)",Attack
+I disagree with the tax-and-spend philosophy,Claim,"(26327, 26371)",that's what I think I'm hearing from Governor Clinton,Claim,"(26501, 26554)",Attack
+"as we phase these industries over, there's a whole of intellectual talent in these industries",Premise,"(30437, 30530)",A lot of these people in industries can be converted to the industries of tomorrow,Premise,"(30532, 30614)",Support
+first we must have an aggressive jobs program,Claim,"(35324, 35369)",my first priority would be to pass a jobs program,Claim,"(34768, 34817)",Equivalent
+"think in your own business, if you had all of your long term problems financed short term",Premise,"(41202, 41291)",You'd go broke in a hurry,Premise,"(41293, 41318)",Support
+We need to stop this proliferation of weapons of mass destruction,Claim,"(44401, 44466)","We need to continue the negotiations to reduce the nuclear arsenals in the Soviet Union, the former Soviet Union, and the United States",Claim,"(44264, 44399)",Support
+I've gotten a lot of good experience in dealing with ordinary people over the last year and month,Premise,"(4975, 5072)","I've touched more people's lives and seen more heartbreak and hope, more pain and more promise, than anybody else who's run for president this year",Premise,"(5074, 5221)",Support
+It has some very elderly leaders that will not be around too much longer,Premise,"(49739, 49811)",Asia will be our largest trading partner in the future,Claim,"(49878, 49932)",Support
+we do have interests there,Claim,"(54215, 54241)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+"We cannot pay off the $4 trillion debt, balance the budget and have the industries of the future and the high- paying jobs in this country without having the revenue",Claim,"(16969, 17134)",We're going to go through a period of shared sacrifice,Claim,"(17136, 17190)",Support
+"now that they can, they should",Claim,"(20656, 20686)","when the tables get turned, I ought to do my share",Claim,"(20111, 20161)",Support
+I think we shouldn't do it that quickly,Claim,"(25281, 25320)",We've got to invest and grow,Claim,"(25490, 25518)",Support
+that's where the high-paying jobs are,Claim,"(30620, 30657)",anybody that thinks about it cares a great deal,Claim,"(30190, 30237)",Support
+"Nobody wants gridlock anymore, and so let's get the program through",Premise,"(36604, 36671)",We're going to have a new Congress,Claim,"(36489, 36523)",Support
+You'd go broke in a hurry,Premise,"(41293, 41318)",we have totally mismanaged our country,Premise,"(41112, 41150)",Support
+"we have to face that in this world, economic security is a whole lot of national security",Claim,"(44476, 44565)",There are three fundamental challenges,Claim,"(43942, 43980)",Support
+Personal income has dropped while people have worked harder,Premise,"(5418, 5477)",I think the American people deserve better than they're getting,Claim,"(5223, 5286)",Support
+Capitalism is growing and thriving across big portions of China,Premise,"(49813, 49876)",Asia will be our largest trading partner in the future,Claim,"(49878, 49932)",Support
+"I urged the president to support this air cover, and he did--and I applaud that",Premise,"(54530, 54609)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+We've created a mess,Premise,"(17236, 17256)",we have got to fix it,Claim,"(17293, 17314)",Support
+There are certainly dangers there,Premise,"(21356, 21389)",We certainly must maintain an engagement there,Claim,"(21308, 21354)",Support
+it offers the best hope to put America back to work and get our incomes rising instead of falling,Premise,"(25671, 25768)","9 Nobel Prize-winning economists and 500 others, including numerous Republican and Democratic business executives, have endorsed this approach",Premise,"(25520, 25662)",Support
+The rest of the world practices 21st century capitalism,Premise,"(30767, 30822)","In the rest of the world, the countries and the businesses would be working together to make this transition in an intelligent way",Premise,"(30899, 31029)",Support
+where we have created more private sector jobs since Mr. Bush has been president than have been created in the entire rest of the country,Premise,"(35471, 35608)",I live in a state where manufacturing job growth has far outpaced the nation in the last few years,Premise,"(35371, 35469)",Support
+Our long-term interest rates are still pretty high,Claim,"(37885, 37935)",I don't think that's the problem today,Claim,"(37749, 37787)",Support
+Our dollar's at an all time low against some foreign currencies,Premise,"(44567, 44630)",We're weak in the world,Claim,"(44632, 44655)",Support
+"In the last four years, there have been twice as many bankruptcies as new jobs created",Premise,"(5479, 5565)",I think the American people deserve better than they're getting,Claim,"(5223, 5286)",Support
+it's huge,Premise,"(49674, 49683)",Asia will be our largest trading partner in the future,Claim,"(49878, 49932)",Support
+"I applaud the no-fly zone, and I know that he's going back to the United Nations to try to get authority to enforce it",Premise,"(54611, 54729)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+don't have much to show for it,Premise,"(17258, 17288)",We've created a mess,Premise,"(17236, 17256)",Support
+we can only be a superpower if we are an economic superpower,Premise,"(20979, 21039)",I think is very important for us to let them assume more and more of the burden and for us to bring that money back here and rebuild our infrastructure,Claim,"(20818, 20969)",Support
+"9 Nobel Prize-winning economists and 500 others, including numerous Republican and Democratic business executives, have endorsed this approach",Premise,"(25520, 25662)",We've got to invest and grow,Claim,"(25490, 25518)",Support
+"In the rest of the world, the countries and the businesses would be working together to make this transition in an intelligent way",Premise,"(30899, 31029)",We need to have a very carefully thought through phase-over,Claim,"(30659, 30718)",Support
+where Mr. Bush's labor secretary said job growth has been enormous,Premise,"(35610, 35676)",I live in a state where manufacturing job growth has far outpaced the nation in the last few years,Premise,"(35371, 35469)",Support
+We're weak in the world,Claim,"(44632, 44655)","we have to face that in this world, economic security is a whole lot of national security",Claim,"(44476, 44565)",Support
+I think the American people deserve better than they're getting,Claim,"(5223, 5286)",We need a new approach,Claim,"(5567, 5589)",Support
+Asia will be our largest trading partner in the future,Claim,"(49878, 49932)",It will be a growing and a closer relationship,Claim,"(49934, 49980)",Support
+they are in no way in a fair fight with a heavily armed opponent bent on ethnic cleansing,Premise,"(54903, 54992)",I think we have to consider whether or not we should lift the arms embargo now on the Bosnians,Claim,"(54801, 54895)",Support
+We're going to go through a period of shared sacrifice,Claim,"(17136, 17190)",we have got to fix it,Claim,"(17293, 17314)",Support
+"we can only be an economic superpower if we have a growing, expanding job base",Premise,"(21045, 21123)",I think is very important for us to let them assume more and more of the burden and for us to bring that money back here and rebuild our infrastructure,Claim,"(20818, 20969)",Support
+I think we shouldn't do it that quickly,Claim,"(25281, 25320)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Attack
+We need to have a very carefully thought through phase-over,Claim,"(30659, 30718)",Defense industries are going to have to convert to civilian industries,Claim,"(29774, 29844)",Support
+I live in a state where manufacturing job growth has far outpaced the nation in the last few years,Premise,"(35371, 35469)",We've done it in Arkansas,Premise,"(35678, 35703)",Support
+We're weak in the world,Claim,"(44632, 44655)",We must rebuild America's strength at home,Claim,"(44657, 44699)",Support
+The same old experience is not relevant,Claim,"(5591, 5630)",We need a new approach,Claim,"(5567, 5589)",Support
+to make sure that they don't get the impression that they can suppress their people,Premise,"(50110, 50193)","We have a delicate, tight-wire walk that we must go through at the present time",Claim,"(49982, 50061)",Support
+I think we have to consider whether or not we should lift the arms embargo now on the Bosnians,Claim,"(54801, 54895)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+"Middle-class people, defined as people with incomes of $52,000 and down, had their incomes go down while their taxes went up in the Reagan-Bush years because of 6 increases in the payroll taxes",Premise,"(13598, 13791)",that is where my income limit would trigger,Claim,"(13796, 13839)",Support
+They don't want us to control it,Claim,"(20763, 20795)",I think is very important for us to let them assume more and more of the burden and for us to bring that money back here and rebuild our infrastructure,Claim,"(20818, 20969)",Support
+I don't think we need to do it,Claim,"(26041, 26071)","I don't believe it is fair to slap a 50-cent-a-gallon tax over whatever many years on the people that have to drive for a living, people that go long distances",Claim,"(25880, 26039)",Support
+it's very important that we not continue to let our industrial base deteriorate,Claim,"(29966, 30045)",Defense industries are going to have to convert to civilian industries,Claim,"(29774, 29844)",Support
+We've done it in Arkansas,Premise,"(35678, 35703)",We can do it,Claim,"(35763, 35775)",Support
+Democracies are our partners,Premise,"(44781, 44809)",we ought to be promoting the democratic impulses around the world,Claim,"(44714, 44779)",Support
+"We're living in a new world after the Cold War, and what works in this new world is not trickle down, not government for the benefit of the privileged few, not tax and spend, but a commitment to invest in American jobs and American education, controlling American health care costs, and bringing the American people together",Premise,"(5632, 5956)",The same old experience is not relevant,Claim,"(5591, 5630)",Support
+to make sure that we do not cozy up to tyrants,Premise,"(50062, 50108)","We have a delicate, tight-wire walk that we must go through at the present time",Claim,"(49982, 50061)",Support
+I think we should stiffen the embargo on the Belgrade government,Claim,"(54731, 54795)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+"I disagree that we need 150,000 troops to fulfill our role in Europe",Claim,"(21238, 21306)",I don't want to see us make reckless cuts,Claim,"(19411, 19452)",Attack
+"I don't believe it is fair to slap a 50-cent-a-gallon tax over whatever many years on the people that have to drive for a living, people that go long distances",Claim,"(25880, 26039)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Attack
+we have cut defense without planning to retrain them and to reinvest in the technologies of the future here at home,Premise,"(31324, 31439)","There are 200,000 people unemployed in California alone",Claim,"(31260, 31315)",Support
+we ought to be promoting the democratic impulses around the world,Claim,"(44714, 44779)",There are three fundamental challenges,Claim,"(43942, 43980)",Support
+We need a new approach,Claim,"(5567, 5589)",That is what works,Claim,"(5958, 5976)",Support
+their leaders will change in not too many years,Premise,"(50233, 50280)",time is our friend there,Claim,"(50199, 50223)",Support
+we must do what we can,Claim,"(55037, 55059)",The US should try to work with its allies and stop it,Claim,"(54475, 54528)",Support
+I agree with the general statement Mr. Bush made,Claim,"(21188, 21236)",I think it is important that the US stay in Europe and continue to guarantee the peace,Claim,"(18503, 18589)",Support
+he's talking tough medicine,Premise,"(26273, 26300)",I think that's good,Claim,"(26306, 26325)",Support
+"I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century--in new transportation, in communication, in environmental clean-up technologies",Premise,"(31627, 31814)",That is what I want to do,Claim,"(31441, 31466)",Support
+my first priority would be to pass a jobs program,Claim,"(34768, 34817)",We can do it,Claim,"(35763, 35775)",Support
+They don't go to war with each other,Premise,"(44811, 44847)",we ought to be promoting the democratic impulses around the world,Claim,"(44714, 44779)",Support
+Mine is rooted in the real lives of real people,Premise,"(6058, 6105)",it will bring real results if we have the courage to change,Claim,"(6111, 6170)",Support
+their country is making great progress,Premise,"(50298, 50336)",time is our friend there,Claim,"(50199, 50223)",Support
+I think you got to be a little bit careful and you have to be sure that there's a military plan that can do this,Claim,"(51580, 51692)",We are helping,Claim,"(51343, 51357)",Attack
+We certainly must maintain an engagement there,Claim,"(21308, 21354)",I agree with the general statement Mr. Bush made,Claim,"(21188, 21236)",Support
+"This administration may say they have a plan, but the truth is they have not even released all the money, the paltry sum of money, that Congress appropriated",Premise,"(31468, 31625)","There are 200,000 people unemployed in California alone",Claim,"(31260, 31315)",Support
+some of which have been echoed here tonight,Premise,"(35984, 36027)",I've already put forward things that'll get this country working fast,Claim,"(35913, 35982)",Support
+They're reliable friends in the future,Premise,"(44849, 44887)",we ought to be promoting the democratic impulses around the world,Claim,"(44714, 44779)",Support
+We're the United States of America,Premise,"(6656, 6690)","this country is not coming apart at the seams, for heaven's sakes",Claim,"(6589, 6654)",Support
+"Till they're destroyed, some crazy person can either sell them or use them",Premise,"(50648, 50722)",The fact that you have an agreement is one thing,Claim,"(50598, 50646)",Attack
+Many of the military experts whom I consulted on this agreed,Premise,"(21676, 21736)","2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci",Premise,"(21491, 21674)",Support
+We've got to clean this mess up,Premise,"(24078, 24109)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Support
+No other nation would have cut defense as much as we already have without that,Premise,"(31180, 31258)","There are 200,000 people unemployed in California alone",Claim,"(31260, 31315)",Support
+"investment tax allowance, capital gains reduction, more on research and development, tax credit for first-time home buyers",Premise,"(36029, 36151)",some of which have been echoed here tonight,Premise,"(35984, 36027)",Support
+Our exports are dramatically up,Premise,"(45203, 45234)",We're the envy of the world in terms of our economy,Claim,"(45079, 45130)",Support
+"In spite of the economic problems, we're the most respected economy around the world",Premise,"(6692, 6776)","this country is not coming apart at the seams, for heaven's sakes",Claim,"(6589, 6654)",Support
+We have written agreements and we have some missiles that have been destroyed,Premise,"(50419, 50496)",The fact that you have an agreement is one thing,Claim,"(50598, 50646)",Support
+"We're going to have to spend more money in the future on military technology and on greater mobility, greater airlift, greater sealift, the B-22 airplane",Claim,"(21738, 21891)",We're going to have to do some things that are quite costly,Claim,"(21893, 21952)",Support
+we have cut defense without planning to retrain them and to reinvest in the technologies of the future here at home,Premise,"(31324, 31439)",it is a good program,Claim,"(29173, 29193)",Attack
+"we're going to say to them, you've listened to the voters the way we have",Claim,"(36529, 36602)",We're going to have a new Congress,Claim,"(36489, 36523)",Support
+there's so much fascination with trivia,Premise,"(45317, 45356)",you might have missed it,Claim,"(45283, 45307)",Support
+Many would trade for it,Premise,"(6778, 6801)","this country is not coming apart at the seams, for heaven's sakes",Claim,"(6589, 6654)",Support
+we have a huge number of intercontinental ballistic missiles that are still in place in Russia,Premise,"(50502, 50596)","Till they're destroyed, some crazy person can either sell them or use them",Premise,"(50648, 50722)",Support
+"2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci",Premise,"(21491, 21674)","I simply don't believe we can afford nor do we need to keep 150,000 troops in Europe",Claim,"(21958, 22042)",Support
+He's mentioned some ways to do it--and I agree with those,Premise,"(26686, 26743)",I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down,Claim,"(26556, 26684)",Support
+take a look at what the president has proposed on job retraining,Premise,"(28233, 28297)",that one we came away with in creating jobs for the American people,Claim,"(28131, 28198)",Support
+"Nobody wants gridlock anymore, and so let's get the program through",Premise,"(36604, 36671)",I believe it'll work,Claim,"(36677, 36697)",Support
+we got it,Claim,"(45820, 45829)",we've got a good military,Claim,"(45721, 45746)",Equivalent
+"Yes, there are big problems, and yes, people are hurting",Claim,"(7125, 7181)",we ought not try to convince the American people that America is a country that's coming apart at the seams,Claim,"(6879, 6986)",Attack
+over the long run they will be more reliable partners,Claim,"(48181, 48234)",we ought to be able to preserve the democratic interests of the people of China,Claim,"(48096, 48175)",Support
+"given how much the Red Army, now under the control of Russia, has been cut, the arms control agreement concluded between Mr. Bush and Mr. Yeltsin",Premise,"(22043, 22188)","I simply don't believe we can afford nor do we need to keep 150,000 troops in Europe",Claim,"(21958, 22042)",Support
+I've been talking about getting a capital gains cut forever,Premise,"(26745, 26804)",He's mentioned some ways to do it--and I agree with those,Premise,"(26686, 26743)",Support
+stimulate investment and savings,Claim,"(28658, 28690)",I think it was the correct decision to do,Claim,"(27981, 28022)",Support
+we got the plans,Premise,"(36721, 36737)",I believe it'll work,Claim,"(36677, 36697)",Support
+they're keeping the peace,Premise,"(45835, 45860)",we got it,Claim,"(45820, 45829)",Support
+you're going to have a whole brand new bunch of people in the Congress that are going to have to listen to the same American people I'm listening to,Premise,"(7343, 7491)","I believe we can get it done now, whereas we didn't in the past",Claim,"(7270, 7333)",Support
+the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting,Claim,"(48926, 49075)","I would say if you want to continue as Most Favored Nation status for your government owned industries as well as your private ones, observe human rights in the future",Claim,"(47789, 47956)",Attack
+"I don't think we need 150,000 troops",Claim,"(22218, 22254)","I simply don't believe we can afford nor do we need to keep 150,000 troops in Europe",Claim,"(21958, 22042)",Support
+his friends in Congress have been telling me that's a tax break for the rich,Premise,"(26810, 26886)",He's mentioned some ways to do it--and I agree with those,Premise,"(26686, 26743)",Support
+The plans are all over Washington,Premise,"(36739, 36772)",we got the plans,Premise,"(36721, 36737)",Support
+they're respected around the world,Premise,"(45866, 45900)",we got it,Claim,"(45820, 45829)",Support
+if we're at a point in history where we want to stop talking about it and do it,Premise,"(8009, 8088)","I've got a lot of experience in figuring out how to solve problems, making the solutions work, and then moving on to the next one",Claim,"(8090, 8219)",Support
+They didn't go over to coddle,Claim,"(49524, 49553)","Not because we coddled them, but because the Administration was pushed into doing something about it",Claim,"(47418, 47518)",Attack
+"I don't think we need 150,000 troops",Claim,"(22218, 22254)","I disagree that we need 150,000 troops to fulfill our role in Europe",Claim,"(21238, 21306)",Equivalent
+It would stimulate investment,Claim,"(26888, 26917)",I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down,Claim,"(26556, 26684)",Support
+I've put ours together in something called the Agenda for American Renewal,Premise,"(36778, 36852)",we got the plans,Premise,"(36721, 36737)",Support
+because of the way we have conducted ourselves,Premise,"(45927, 45973)",we're more respected,Claim,"(45906, 45926)",Support
+if it's time for action,Premise,"(8307, 8330)",I think I have experience that counts,Claim,"(8332, 8369)",Support
+it would be paid for by raising taxes on the wealthy,Premise,"(22379, 22431)",he vetoed a middle class tax cut,Claim,"(22338, 22370)",Support
+it makes sense,Claim,"(36858, 36872)",I've put ours together in something called the Agenda for American Renewal,Premise,"(36778, 36852)",Support
+We didn't listen to the nuclear freeze crowd,Premise,"(45975, 46019)",we're more respected,Claim,"(45906, 45926)",Support
+"If there's more time for gridlock and talk and finger pointing, I'm the wrong man",Premise,"(8371, 8452)",I think I have experience that counts,Claim,"(8332, 8369)",Support
+paid for by raising taxes on the wealthy,Premise,"(22468, 22508)",vetoed an investment tax credit,Claim,"(22436, 22467)",Support
+it's sensible,Claim,"(36874, 36887)",I've put ours together in something called the Agenda for American Renewal,Premise,"(36778, 36852)",Support
+"We said, ""Peace through strength,""",Premise,"(46021, 46055)",it worked,Premise,"(46060, 46069)",Support
+"I've got a lot of experience in figuring out how to solve problems, making the solutions work, and then moving on to the next one",Claim,"(8090, 8219)",I do have a lot of experience in getting things done,Claim,"(7951, 8003)",Support
+We are the sole remaining superpower,Claim,"(19074, 19110)",I simply do not think we should go back to the isolation days and starting blaming foreigners,Claim,"(18979, 19072)",Support
+it gets to the base of the kind of jobs we need,Claim,"(36906, 36953)",I've put ours together in something called the Agenda for American Renewal,Premise,"(36778, 36852)",Support
+it worked,Premise,"(46060, 46069)",the cold war is over,Premise,"(46074, 46094)",Support
+"I don't have any experience in creating the worst public school system in the industrialized world, the most violent crime-ridden society in the industrialized world",Premise,"(7570, 7601)",I do have a lot of experience in getting things done,Claim,"(7951, 8003)",Support
+we are there,Premise,"(19825, 19837)",I think this insurance policy is necessary,Claim,"(19843, 19885)",Support
+I don't think we need to do it,Claim,"(26041, 26071)",I do not want to go the tax-and-spend route,Claim,"(27126, 27169)",Support
+I've put ours together in something called the Agenda for American Renewal,Premise,"(36778, 36852)",I'll just be asking for support to get that put into effect,Premise,"(36962, 37021)",Support
+the cold war is over,Premise,"(46074, 46094)",we're more respected,Claim,"(45906, 45926)",Support
+I don't have any experience in gridlock government where nobody takes responsibility for anything and everybody blames everybody else,Premise,"(7570, 7601)",I do have a lot of experience in getting things done,Claim,"(7951, 8003)",Support
+"Today you've got problems in Europe, still bubbling along even though Europe's gone democracy's route",Premise,"(19718, 19819)",I think this insurance policy is necessary,Claim,"(19843, 19885)",Support
+I do not want to go the tax-and-spend route,Claim,"(27126, 27169)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Attack
+we are helping democracy,Claim,"(46201, 46225)","we're so, turned so inward we don't understand the global picture",Claim,"(46130, 46195)",Support
+I don't have any experience in running up a $4 trillion debt,Premise,"(7570, 7630)",I do have a lot of experience in getting things done,Claim,"(7951, 8003)",Support
+"now that they can, they should",Claim,"(20656, 20686)","when they couldn't, we should have",Claim,"(20620, 20654)",Attack
+the people who will be helped the most by it are the working people who will get the jobs created because of this tax,Claim,"(23415, 23532)","I know it's not popular,",Claim,"(23340, 23364)",Attack
+The Freedom Support Act is something I got through the Congress,Premise,"(46233, 46296)",it's a very good thing,Claim,"(46302, 46324)",Support
+I've got a lot of experience in not taking 10 years to solve a 10-minute problem,Claim,"(8090, 8122)",I think I have experience that counts,Claim,"(8332, 8369)",Support
+there are certainly other trouble spots in the world which are closer to Europe than to the US,Premise,"(21391, 21485)",We certainly must maintain an engagement there,Claim,"(21308, 21354)",Support
+leave this country in good shape,Premise,"(24111, 24143)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Support
+it's a very good thing,Claim,"(46302, 46324)",we're going to keep on doing that,Claim,"(46428, 46461)",Support
+the Germans spend around 30 billion in Europe,Premise,"(20266, 20311)","when the tables get turned, I ought to do my share",Claim,"(20111, 20161)",Support
+pass on the American dream to them,Premise,"(24149, 24183)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Support
+we're going to keep on doing that,Claim,"(46428, 46461)",we are helping democracy,Claim,"(46201, 46225)",Support
+Germany will spend a trillion dollars building infrastructure over the next 10 years,Premise,"(20326, 20410)",the Germans spend around 30 billion in Europe,Premise,"(20266, 20311)",Support
+"These young people, when they get out of this wonderful university, will have difficulty finding a job",Claim,"(23974, 24076)",We've got to collect the taxes to do it,Claim,"(24185, 24224)",Support
+"I worked out a deal with Boris Yeltsin to eliminate, get rid of entirely, the most destabilizing weapons of all, the SS-18, the intercontinental ballistic missile",Premise,"(45362, 45524)",We made dramatic progress,Claim,"(45686, 45711)",Support
+We're going to have to do some things that are quite costly,Claim,"(21893, 21952)","I simply don't believe we can afford nor do we need to keep 150,000 troops in Europe",Claim,"(21958, 22042)",Support
+"it does exactly what you say, and I think you agree with that, to help Russian democracy",Premise,"(46334, 46422)",it's a very good thing,Claim,"(46302, 46324)",Support

@@ -1,0 +1,1027 @@
+subj,subj_type,subj_span,obj,obj_type,obj_span,relation
+"the president didn't find weapons of mass destruction in Iraq, so he's really turned his campaign into a weapon of mass deception",Premise,"(2384, 2513)",you've been bombarded with advertisements suggesting that I've changed a position on this or that or the other,Claim,"(2538, 2648)",Support
+"What happens in those forests, because of lousy federal policy, is they grow to be -- they are not -- they're not harvested",Premise,"(57196, 57319)",We proposed and passed a healthy forest bill which was essential to working with -- particularly in Western states -- to make sure that our forests were protected,Claim,"(57032, 57194)",Support
+there are a lot of ways to be competitive,Claim,"(61646, 61687)",this administration has not seized them and embraced them,Claim,"(61722, 61779)",Attack
+I really don't think your rights are being watered down,Claim,"(67235, 67290)",I wouldn't support it if I thought that,Premise,"(67313, 67352)",Attack
+I think we can save lives,Claim,"(71400, 71425)",I think we can do ethically guided embryonic stem-cell research,Claim,"(71432, 71495)",Support
+I would pick somebody who would not allow their personal opinion to get in the way of the law,Claim,"(74794, 74887)",I would pick somebody who would strictly interpret the Constitution of the United States,Claim,"(74889, 74977)",Support
+"I'm a Catholic, raised a Catholic",Premise,"(78269, 78302)",I was an altar boy,Premise,"(78304, 78322)",Support
+I have made a lot of decisions,Premise,"(82716, 82746)","some of them little, like appointments to boards you never heard of",Premise,"(82752, 82819)",Support
+I will never cede the authority of our country or our security to any other nation,Claim,"(87480, 87562)","I'll never give a veto over American security to any other entity -- not a nation, not a country, not an institution",Claim,"(87564, 87680)",Support
+The hardest decision a president makes is ever to use force,Premise,"(6313, 6372)",obviously we hope that diplomacy works before you ever use force,Premise,"(6247, 6311)",Support
+I have laid out a different plan,Premise,"(11481, 11513)",the president's plan is not working,Claim,"(11523, 11558)",Attack
+I've made some decisions that have caused people to not understand the great values of our country,Claim,"(16720, 16818)",I love our values,Premise,"(16685, 16702)",Attack
+it is a threat,Claim,"(21868, 21882)",it's a huge threat,Claim,"(21884, 21902)",Support
+The all- volunteer army works,Premise,"(25465, 25494)",It works particularly when we pay our troops well,Premise,"(25496, 25545)",Support
+the most important weapon in doing that is intelligence,Premise,"(31112, 31167)",I just think I can do that far more effectively,Claim,"(31055, 31102)",Support
+Just want to make sure they're safe,Claim,"(36023, 36058)","When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you",Claim,"(36060, 36147)",Support
+We have a deficit because this country went into a recession,Premise,"(46267, 46327)",We have a deficit,Claim,"(46248, 46265)",Support
+I support it,Claim,"(2745, 2757)",I haven't,Claim,"(2734, 2743)",Support
+They're not taken care of,Premise,"(57321, 57346)","What happens in those forests, because of lousy federal policy, is they grow to be -- they are not -- they're not harvested",Premise,"(57196, 57319)",Support
+There is a tax loophole right now,Premise,"(61809, 61842)","If you're a company in St. Louis working, trying to make jobs here, there is actually an incentive for you to go away",Premise,"(61844, 61961)",Support
+"Every action being taken against terrorists requires court order, requires scrutiny",Premise,"(67354, 67437)",the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals,Premise,"(67460, 67594)",Support
+"I was at a forum with Michael J. Fox the other day in New Hampshire, who's suffering from Parkinson's, and he wants us to do stem cell, embryonic stem cell.",Premise,"(70805, 70961)","this fellow stood up, and he was quivering",Premise,"(70966, 71008)",Support
+"Let me give you a couple of examples, I guess, of the kind of person I wouldn't pick",Premise,"(74979, 75063)","I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words ""under God"" in it",Premise,"(75065, 75199)",Support
+I was an altar boy,Premise,"(78304, 78322)",Religion has been a huge part of my life,Premise,"(78324, 78364)",Support
+"some of them little, like appointments to boards you never heard of",Premise,"(82752, 82819)",some of them big,Premise,"(82825, 82841)",Support
+"I know, as I think you do, that our country is strongest when we lead the world, when we lead strong alliances",Claim,"(87686, 87796)","I'll never give a veto over American security to any other entity -- not a nation, not a country, not an institution",Claim,"(87564, 87680)",Support
+"After 9/11, we had to look at the world differently",Claim,"(6374, 6425)","After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us",Claim,"(6427, 6538)",Support
+You see that every night on television,Premise,"(11560, 11598)",There's chaos in Iraq,Premise,"(11600, 11621)",Support
+I remember when Ronald Reagan was the president,Premise,"(16820, 16867)",he stood on principle,Premise,"(16869, 16890)",Support
+If he'd let the inspectors do their job and go on,Premise,"(22041, 22090)",we wouldn't have 10 times the numbers of forces in Iraq that we have in Afghanistan chasing Osama bin Laden,Claim,"(22092, 22199)",Support
+It works particularly when we pay our troops well,Premise,"(25496, 25545)","It works when we make sure they've got housing, like we have done in the last military budgets",Premise,"(25547, 25641)",Support
+"Between the World Trade Center bombing in, what was it, 1993 or so, and the next time was five years, seven years",Premise,"(30807, 30920)",These people wait,Premise,"(30922, 30939)",Support
+the FDA and that's why the surgeon general are looking very carefully to make sure it can be done in a safe way,Premise,"(36164, 36275)","When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you",Claim,"(36060, 36147)",Support
+"You might remember the stock market started to decline dramatically six months before I came to office, and then the bubble of the 1990s popped",Premise,"(46329, 46472)",We have a deficit because this country went into a recession,Premise,"(46267, 46327)",Support
+I haven't,Claim,"(2734, 2743)",they try to say I've changed position on are the Patriot Act,Premise,"(2672, 2732)",Attack
+"What happens in those forests, because of lousy federal policy, is they grow to be -- they are not -- they're not harvested",Premise,"(57196, 57319)","as a result, they're like tinderboxes",Premise,"(57352, 57389)",Attack
+"If you're a company in St. Louis working, trying to make jobs here, there is actually an incentive for you to go away",Premise,"(61844, 61961)","You get more money, you keep more of your taxes by going abroad",Premise,"(61963, 62026)",Support
+I really don't think so,Claim,"(67599, 67622)",I really don't think your rights are being watered down,Claim,"(67235, 67290)",Support
+"this fellow stood up, and he was quivering",Premise,"(70966, 71008)","His whole body was shaking from the nerve disease, the muscular disease that he had",Premise,"(71010, 71093)",Support
+"I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words ""under God"" in it",Premise,"(75065, 75199)",that's an example of a judge allowing personal opinion to enter into the decision-making process as opposed to a strict interpretation of the Constitution,Premise,"(75209, 75363)",Attack
+Religion has been a huge part of my life,Premise,"(78324, 78364)",It helped lead me through a war,Premise,"(78366, 78397)",Support
+some of them big,Premise,"(82825, 82841)","in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that",Premise,"(82847, 82980)",Support
+that's the way Eisenhower and Reagan and Kennedy and others did it,Premise,"(87802, 87868)","I know, as I think you do, that our country is strongest when we lead the world, when we lead strong alliances",Claim,"(87686, 87796)",Support
+"After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us",Claim,"(6427, 6538)",obviously we hope that diplomacy works before you ever use force,Premise,"(6247, 6311)",Attack
+There's chaos in Iraq,Premise,"(11600, 11621)",King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today,Premise,"(11623, 11754)",Support
+he stood on principle,Premise,"(16869, 16890)",Somebody called that stubborn,Premise,"(16892, 16921)",Support
+it's a huge threat,Claim,"(21884, 21902)","it's a threat that has grown while the president has been preoccupied with Iraq, where there wasn't a threat",Premise,"(21931, 22039)",Attack
+"It works when we make sure they've got housing, like we have done in the last military budgets",Premise,"(25547, 25641)",An all-volunteer army is best suited to fight the new wars of the 21st century,Claim,"(25643, 25721)",Support
+These people wait,Premise,"(30922, 30939)",They'll plan,Premise,"(30941, 30953)",Support
+I've got an obligation to make sure our government does everything we can to protect you,Premise,"(36277, 36365)","When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you",Claim,"(36060, 36147)",Support
+that cost us revenue,Premise,"(46478, 46498)","You might remember the stock market started to decline dramatically six months before I came to office, and then the bubble of the 1990s popped",Premise,"(46329, 46472)",Support
+I haven't,Claim,"(2734, 2743)",I just don't like the way John Ashcroft has applied it,Premise,"(2759, 2813)",Attack
+to protect old stands of trees and at the same time make sure our forests aren't vulnerable to the forest fires that have destroyed acres after acres in the West,Premise,"(57476, 57637)",this is a reasonable policy,Claim,"(57448, 57475)",Support
+I'm going to shut that loophole,Claim,"(62028, 62059)","You get more money, you keep more of your taxes by going abroad",Premise,"(61963, 62026)",Attack
+I really don't think so,Claim,"(67599, 67622)",the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals,Premise,"(67460, 67594)",Attack
+"His whole body was shaking from the nerve disease, the muscular disease that he had",Premise,"(71010, 71093)","And he said to me and to the whole hall, he said, ""You know, don't take away my hope, because my hope is what keeps me going.""",Premise,"(71095, 71221)",Support
+I would pick somebody who would strictly interpret the Constitution of the United States,Claim,"(74889, 74977)",that's an example of a judge allowing personal opinion to enter into the decision-making process as opposed to a strict interpretation of the Constitution,Premise,"(75209, 75363)",Attack
+It helped lead me through a war,Premise,"(78366, 78397)",leads me today,Premise,"(78399, 78413)",Support
+He shouldn't have made that decision,Premise,"(82982, 83018)","in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that",Premise,"(82847, 82980)",Support
+"I know, as I think you do, that our country is strongest when we lead the world, when we lead strong alliances",Claim,"(87686, 87796)",We are not doing that today,Premise,"(87870, 87897)",Attack
+9/11 changed it all,Premise,"(6632, 6651)","In the old days we'd see a threat, and we could deal with it if we felt like it or not",Premise,"(6540, 6626)",Attack
+King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today,Premise,"(11623, 11754)",I have laid out a different plan,Premise,"(11481, 11513)",Support
+Somebody called that stubborn,Premise,"(16892, 16921)","He stood on principle standing up to the Soviet Union, and we won that conflict",Premise,"(16923, 17002)",Support
+we wouldn't have 10 times the numbers of forces in Iraq that we have in Afghanistan chasing Osama bin Laden,Claim,"(22092, 22199)","it's a threat that has grown while the president has been preoccupied with Iraq, where there wasn't a threat",Premise,"(21931, 22039)",Attack
+The all- volunteer army works,Premise,"(25465, 25494)",We're not going to have a draft,Claim,"(25424, 25455)",Attack
+They'll plan,Premise,"(30941, 30953)",They plot,Premise,"(30955, 30964)",Support
+I've got an obligation to make sure our government does everything we can to protect you,Premise,"(36277, 36365)","what my worry is is that, you know, it looks like it's from Canada, and it might be from a third world",Claim,"(36371, 36473)",Support
+That cost us revenue,Premise,"(46500, 46520)",that cost us revenue,Premise,"(46478, 46498)",Support
+we're going to change a few things,Claim,"(2819, 2853)",I just don't like the way John Ashcroft has applied it,Premise,"(2759, 2813)",Attack
+this is a reasonable policy,Claim,"(57448, 57475)",We proposed and passed a healthy forest bill which was essential to working with -- particularly in Western states -- to make sure that our forests were protected,Claim,"(57032, 57194)",Support
+I'm going to shut that loophole,Claim,"(62028, 62059)",I'm going to give the tax benefit to the companies that stay here in America,Claim,"(62065, 62141)",Support
+I really don't think so,Claim,"(67599, 67622)",I hope you don't think that,Premise,"(67624, 67651)",Attack
+"And he said to me and to the whole hall, he said, ""You know, don't take away my hope, because my hope is what keeps me going.""",Premise,"(71095, 71221)",Chris Reeve is a friend of mine,Premise,"(71222, 71253)",Support
+That's a personal opinion,Premise,"(75525, 75550)","Another example would be the Dred Scott case, which is where judges, years ago, said that the Constitution allowed slavery because of personal property rights",Premise,"(75365, 75523)",Support
+leads me today,Premise,"(78399, 78413)",I respect the belief about life and when it begins,Claim,"(78217, 78267)",Support
+"in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that",Premise,"(82847, 82980)",I'll take responsibility for them,Claim,"(83024, 83057)",Support
+We need to,Claim,"(69985, 69995)",We are not doing that today,Premise,"(87870, 87897)",Attack
+9/11 changed it all,Premise,"(6632, 6651)","After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us",Claim,"(6427, 6538)",Support
+King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today,Premise,"(11623, 11754)",the president's plan is not working,Claim,"(11523, 11558)",Attack
+"He stood on principle standing up to the Soviet Union, and we won that conflict",Premise,"(16923, 17002)","at the same time, he was very -- we were very unpopular in Europe because of the decisions he made",Premise,"(17008, 17106)",Support
+"Meanwhile, while Iran is moving toward nuclear weapons, some 37 tons of what they called yellow cake, the stuff they use to make enriched uranium, while they're doing that, North Korea has moved from one bomb maybe, maybe, to four to seven bombs",Premise,"(22201, 22446)","For two years, the president didn't even engage with North Korea, did nothing at all, while it was growing more dangerous, despite the warnings of former Secretary of Defense William Perry, who negotiated getting television cameras and inspectors into that reactor",Premise,"(22448, 22712)",Support
+An all-volunteer army is best suited to fight the new wars of the 21st century,Claim,"(25643, 25721)",We're not going to have a draft,Claim,"(25424, 25455)",Attack
+They plot,Premise,"(30955, 30964)",The when I can't tell you,Claim,"(30780, 30805)",Support
+"what my worry is is that, you know, it looks like it's from Canada, and it might be from a third world",Claim,"(36371, 36473)","we've just got to make sure, before somebody thinks they're buying a product, that it works",Claim,"(36479, 36570)",Support
+more than just $120 billion for Iraq and Afghanistan,Claim,"(46599, 46651)",I'm going to spend what it takes to win the war,Claim,"(46550, 46597)",Support
+I voted for it,Claim,"(2958, 2972)",I support it,Claim,"(2974, 2986)",Support
+"We've got a good, common-sense policy",Claim,"(57639, 57676)",this is a reasonable policy,Claim,"(57448, 57475)",Support
+to help make them more competitive,Premise,"(62142, 62176)",I'm going to give the tax benefit to the companies that stay here in America,Claim,"(62065, 62141)",Support
+I hope you don't think that,Premise,"(67624, 67651)","because I think whoever is the president must guard your liberties, must not erode your rights in America.",Claim,"(67666, 67772)",Support
+Chris Reeve is a friend of mine,Premise,"(71222, 71253)","Chris Reeve exercises every single day to keep those muscles alive for the day when he believes he can walk again, and I want him to walk again",Premise,"(71255, 71398)",Support
+That's not what the Constitution says,Premise,"(75552, 75589)","Another example would be the Dred Scott case, which is where judges, years ago, said that the Constitution allowed slavery because of personal property rights",Premise,"(75365, 75523)",Attack
+I can't do that,Claim,"(78599, 78614)","I can't take what is an article of faith for me and legislate it for someone who doesn't share that article of faith, whether they be agnostic, atheist, Jew, Protestant, whatever",Claim,"(78419, 78597)",Support
+I'm human,Premise,"(83059, 83068)",I'll take responsibility for them,Claim,"(83024, 83057)",Support
+We need to,Claim,"(69985, 69995)",that's the way Eisenhower and Reagan and Kennedy and others did it,Premise,"(87802, 87868)",Support
+"After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us",Claim,"(6427, 6538)","In the old days we'd see a threat, and we could deal with it if we felt like it or not",Premise,"(6540, 6626)",Attack
+Those are the Republican chairman's words,Premise,"(11941, 11982)","Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent",Premise,"(11756, 11939)",Support
+I recognize that taking Saddam Hussein out was unpopular,Premise,"(17108, 17164)",I made the decision because I thought it was in the right interests of our security,Claim,"(17170, 17253)",Support
+We were safer before President Bush came to office,Claim,"(22714, 22764)","For two years, the president didn't even engage with North Korea, did nothing at all, while it was growing more dangerous, despite the warnings of former Secretary of Defense William Perry, who negotiated getting television cameras and inspectors into that reactor",Premise,"(22448, 22712)",Attack
+which is to be specialized and to find these people as they hide around the world,Premise,"(25723, 25804)",An all-volunteer army is best suited to fight the new wars of the 21st century,Claim,"(25643, 25721)",Support
+I just think I can do that far more effectively,Claim,"(31055, 31102)",we have to go after them and get them wherever they are,Claim,"(30998, 31053)",Attack
+"we've just got to make sure, before somebody thinks they're buying a product, that it works",Claim,"(36479, 36570)","When a drug comes in from Canada, I want to make sure it cures you and doesn't kill you",Claim,"(36060, 36147)",Support
+We've got to pay our troops more,Claim,"(46653, 46685)",I'm going to spend what it takes to win the war,Claim,"(46550, 46597)",Support
+The chairman of the Republican Party thinks we ought to change a few things,Premise,"(2855, 2930)",we're going to change a few things,Claim,"(2819, 2853)",Support
+what I really think is going to happen over time is technology is going to change the way we live for the good for the environment,Premise,"(57705, 57835)",I proposed a hydrogen automobile -- hydrogen-generated automobile,Claim,"(57848, 57913)",Support
+I'm going to give the tax benefit to the companies that stay here in America,Claim,"(62065, 62141)",this administration has not seized them and embraced them,Claim,"(61722, 61779)",Attack
+"because I think whoever is the president must guard your liberties, must not erode your rights in America.",Claim,"(67666, 67772)",The Patriot Act is necessary,Claim,"(67773, 67801)",Support
+"Chris Reeve exercises every single day to keep those muscles alive for the day when he believes he can walk again, and I want him to walk again",Premise,"(71255, 71398)",I think we can save lives,Claim,"(71400, 71425)",Support
+That's not what the Constitution says,Premise,"(75552, 75589)",That's a personal opinion,Premise,"(75525, 75550)",Attack
+I can counsel people,Claim,"(78620, 78640)",I can't do that,Claim,"(78599, 78614)",Support
+I think they're right,Claim,"(83266, 83287)","on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions",Claim,"(83074, 83256)",Support
+I will not stop in our efforts to hunt down and kill the terrorists,Claim,"(87988, 88055)",I have a plan that will help us go out and kill and find the terrorists,Claim,"(87911, 87982)",Support
+I vowed to our countrymen that I would do everything I could to protect the American people,Premise,"(6653, 6744)",That's why we're bringing Al Qaida to justice,Claim,"(6746, 6791)",Support
+it's in the zone of dangerous,Premise,"(12081, 12110)","Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing",Premise,"(11984, 12079)",Support
+I wouldn't deal with Arafat,Claim,"(17318, 17345)",I've made some decisions on Israel that's unpopular,Claim,"(17265, 17316)",Support
+We were safer before President Bush came to office,Claim,"(22714, 22764)",we wouldn't have 10 times the numbers of forces in Iraq that we have in Afghanistan chasing Osama bin Laden,Claim,"(22092, 22199)",Attack
+We don't need mass armies anymore,Claim,"(25806, 25839)",An all-volunteer army is best suited to fight the new wars of the 21st century,Claim,"(25643, 25721)",Support
+to have the best intelligence in the world to know who the terrorists are and where they are and what they're plotting,Premise,"(31237, 31355)",You've got to have the best intelligence in the world,Claim,"(31169, 31222)",Support
+we're doing just that,Claim,"(36966, 36987)",There are other ways to make sure drugs are cheaper,Claim,"(36716, 36767)",Support
+I'm going to spend what it takes to win the war,Claim,"(46550, 46597)",we're at war,Claim,"(46532, 46544)",Support
+No Child Left Behind Act,Premise,"(2932, 2956)",I voted for it,Claim,"(2958, 2972)",Support
+We're spending $1 billion to come up with the technologies to do that,Premise,"(57915, 57984)",I proposed a hydrogen automobile -- hydrogen-generated automobile,Claim,"(57848, 57913)",Support
+I'm going to give the tax benefit to the companies that stay here in America,Claim,"(62065, 62141)",there are a lot of ways to be competitive,Claim,"(61646, 61687)",Support
+The intelligence-gathering and the law-enforcement arms of the FBI just couldn't share intelligence under the old law,Premise,"(67870, 67987)",parts of the FBI couldn't talk to each other,Premise,"(67824, 67868)",Support
+These weren't taken from abortion or something like that,Premise,"(71590, 71646)","We have 100,000 to 200,000 embryos that are frozen in nitrogen today from fertility clinics",Premise,"(71497, 71588)",Support
+"The Constitution of the United States says we're all -- you know, it doesn't say that",Premise,"(75591, 75676)",That's not what the Constitution says,Premise,"(75552, 75589)",Support
+I respect the belief about life and when it begins,Claim,"(78217, 78267)","I can't take what is an article of faith for me and legislate it for someone who doesn't share that article of faith, whether they be agnostic, atheist, Jew, Protestant, whatever",Claim,"(78419, 78597)",Attack
+"on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions",Claim,"(83074, 83256)","in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that",Premise,"(82847, 82980)",Attack
+training the Iraqi forces more rapidly,Premise,"(88128, 88166)",I'll also have a better plan of how we're going to deal with Iraq,Claim,"(88061, 88126)",Support
+Seventy five percent of them have been brought to justice,Premise,"(6793, 6850)",That's why we're bringing Al Qaida to justice,Claim,"(6746, 6791)",Support
+"Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing",Premise,"(11984, 12079)","Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent",Premise,"(11756, 11939)",Support
+I felt like he had let the former president down,Premise,"(17355, 17403)",I wouldn't deal with Arafat,Claim,"(17318, 17345)",Support
+Now they have the bombs,Premise,"(22766, 22789)",we're less safe,Claim,"(22794, 22809)",Support
+we're moving troops out of Korea and replacing them with more effective weapons,Premise,"(25954, 26033)",One of the things we've done is we've taken the -- we're beginning to transform our military,Claim,"(25841, 25933)",Support
+You've got to have the best intelligence in the world,Claim,"(31169, 31222)",you've got to have the best cooperation you've ever had in the world,Claim,"(31357, 31425)",Support
+"One is to speed up generic drugs to the marketplace, quicker",Premise,"(36769, 36829)",There are other ways to make sure drugs are cheaper,Claim,"(36716, 36767)",Support
+I just told this lady over here we spent -- went from $10 billion to $30 billion to protect the homeland,Premise,"(46776, 46880)",We've increased money for ammunition and weapons and pay and homeland security,Premise,"(46696, 46774)",Support
+I support it,Claim,"(2974, 2986)",I support the goals,Claim,"(2988, 3007)",Support
+to make sure we can use coal but in a clean way,Premise,"(58043, 58090)",I'm a big proponent of clean coal technology,Claim,"(57997, 58041)",Support
+we're going to create a manufacturing jobs credit and a new jobs credit for people to be able to help hire and be more competitive here in America,Claim,"(62188, 62334)",there are a lot of ways to be competitive,Claim,"(61646, 61687)",Support
+parts of the FBI couldn't talk to each other,Premise,"(67824, 67868)",The Patriot Act is necessary,Claim,"(67773, 67801)",Support
+"We have 100,000 to 200,000 embryos that are frozen in nitrogen today from fertility clinics",Premise,"(71497, 71588)",They're from a fertility clinic,Premise,"(71648, 71679)",Support
+It doesn't speak to the equality of America,Premise,"(75678, 75721)",That's not what the Constitution says,Premise,"(75552, 75589)",Support
+Religion has been a huge part of my life,Premise,"(78324, 78364)","I can't take what is an article of faith for me and legislate it for someone who doesn't share that article of faith, whether they be agnostic, atheist, Jew, Protestant, whatever",Claim,"(78419, 78597)",Attack
+It was the right decision,Claim,"(83489, 83514)",", ""Did you make a mistake going into Iraq?"" And the answer is, ""Absolutely not.""",Premise,"(83408, 83488)",Support
+"getting our allies back to the table with a fresh start, with new credibility, with a president whose judgment the rest of the world trusts",Premise,"(88168, 88307)",I'll also have a better plan of how we're going to deal with Iraq,Claim,"(88061, 88126)",Support
+Al Qaida no longer has a place to plan,Premise,"(6996, 7034)",That's why we're bringing Al Qaida to justice,Claim,"(6746, 6791)",Support
+"Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent",Premise,"(11756, 11939)",the president's plan is not working,Claim,"(11523, 11558)",Attack
+I don't think he's the kind of person that can lead toward a Palestinian state,Claim,"(17409, 17487)",I wouldn't deal with Arafat,Claim,"(17318, 17345)",Support
+we're less safe,Claim,"(22794, 22809)",We were safer before President Bush came to office,Claim,"(22714, 22764)",Support
+One of the things we've done is we've taken the -- we're beginning to transform our military,Claim,"(25841, 25933)",We don't need mass armies anymore,Claim,"(25806, 25839)",Support
+we're not getting the best cooperation in the world today,Claim,"(31468, 31525)",you've got to have the best cooperation you've ever had in the world,Claim,"(31357, 31425)",Attack
+"Pharmaceuticals were using loopholes to keep brand -- brand drugs in place, and generics are much less expensive than brand drugs",Premise,"(36831, 36960)","One is to speed up generic drugs to the marketplace, quicker",Premise,"(36769, 36829)",Support
+We've increased money for ammunition and weapons and pay and homeland security,Premise,"(46696, 46774)",I think we have an obligation to spend that kind of money,Claim,"(46882, 46939)",Support
+I support the goals,Claim,"(2988, 3007)",the president has underfunded it by $28 billion,Premise,"(3013, 3060)",Attack
+I'm a big proponent of clean coal technology,Claim,"(57997, 58041)",We're spending $1 billion to come up with the technologies to do that,Premise,"(57915, 57984)",Support
+what's really hurting American business more than anything else is the cost of health care,Claim,"(62343, 62433)","you didn't hear any plan from the president, because he doesn't have a plan to lower the cost of health care",Claim,"(62440, 62548)",Attack
+that didn't make any sense,Premise,"(67993, 68019)",parts of the FBI couldn't talk to each other,Premise,"(67824, 67868)",Attack
+They're from a fertility clinic,Premise,"(71648, 71679)",they're either going to be destroyed or left frozen,Premise,"(71685, 71736)",Support
+I would pick people that would be strict constructionists,Claim,"(75731, 75788)",It doesn't speak to the equality of America,Premise,"(75678, 75721)",Attack
+I can talk reasonably about life and about responsibility,Premise,"(78642, 78699)","I can talk to people, as my wife Teresa does, about making other choices, and about abstinence, and about all these other things that we ought to do as a responsible society",Premise,"(78701, 78874)",Support
+", ""Did you make a mistake going into Iraq?"" And the answer is, ""Absolutely not.""",Premise,"(83408, 83488)","on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions",Claim,"(83074, 83256)",Support
+I have a plan to provide health care to all Americans,Claim,"(88459, 88512)","I believe we have a crisis here at home, a crisis of the middle class that is increasingly squeezed, health-care costs going up",Claim,"(88330, 88457)",Attack
+the Taliban is no longer in power,Premise,"(6957, 6990)",That's why we're bringing Al Qaida to justice,Claim,"(6746, 6791)",Support
+"Those are the words of two Republicans, respected, both on the Foreign Relations Committee",Premise,"(12112, 12202)","Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing",Premise,"(11984, 12079)",Support
+people in Europe didn't like that decision,Premise,"(17493, 17535)",I've made some decisions on Israel that's unpopular,Claim,"(17265, 17316)",Support
+We've got to lead the world now to crack down on proliferation as a whole,Claim,"(22941, 23014)","the president's been slow to do that, even in Russia",Premise,"(23020, 23072)",Attack
+We don't need as much manpower on the Korean Peninsula to keep a deterrent,Premise,"(26035, 26109)",we're moving troops out of Korea and replacing them with more effective weapons,Premise,"(25954, 26033)",Support
+We've got a whole bunch of countries that pay a price for dealing with the United States of America now,Premise,"(31527, 31630)",we're not getting the best cooperation in the world today,Claim,"(31468, 31525)",Support
+"it may very well be here in December you'll hear me say, I think there's a safe way to do it",Claim,"(36622, 36714)","we've just got to make sure, before somebody thinks they're buying a product, that it works",Claim,"(36479, 36570)",Support
+We've increased money for ammunition and weapons and pay and homeland security,Premise,"(46696, 46774)",I'm going to spend what it takes to win the war,Claim,"(46550, 46597)",Support
+"Right here in St. Louis, you've laid off 350 teachers",Premise,"(3062, 3115)",the president has underfunded it by $28 billion,Premise,"(3013, 3060)",Support
+I'm a big proponent of clean coal technology,Claim,"(57997, 58041)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+Five million Americans have lost their health care,Premise,"(62550, 62600)","620,000 Missourians have no health care at all",Premise,"(62602, 62648)",Support
+I really don't think your rights are being watered down,Claim,"(67235, 67290)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Support
+"I believe if we have the option, which scientists tell us we do, of curing Parkinson's, curing diabetes, curing, you know, some kind of a, you know, paraplegic or quadriplegic or, you know, a spinal cord injury, anything, that's the nature of the human spirit",Claim,"(71742, 72001)",I think it is respecting life to reach for that cure,Claim,"(72003, 72055)",Support
+I would pick people that would be strict constructionists,Claim,"(75731, 75788)",I would pick somebody who would strictly interpret the Constitution of the United States,Claim,"(74889, 74977)",Support
+"as a president, I have to represent all the people in the nation",Premise,"(78880, 78944)","I can talk to people, as my wife Teresa does, about making other choices, and about abstinence, and about all these other things that we ought to do as a responsible society",Premise,"(78701, 78874)",Attack
+what Saddam Hussein was doing was trying to get rid of sanctions so he could reconstitute a weapons program,Premise,"(83574, 83681)",The Duelfer report confirmed that decision today,Premise,"(83516, 83564)",Support
+I'm an optimist,Premise,"(88872, 88887)",I believe America's best days are ahead of us,Claim,"(88825, 88870)",Support
+we thought he had weapons of mass destruction,Premise,"(7109, 7154)","I saw a unique threat in Saddam Hussein, as did my opponent",Claim,"(7040, 7099)",Support
+I have laid out a different plan,Premise,"(11481, 11513)","Now, I have to tell you, I would do something different.",Claim,"(12204, 12260)",Support
+that was unpopular,Premise,"(17541, 17559)",people in Europe didn't like that decision,Premise,"(17493, 17535)",Support
+"At his pace, it's going to take 13 years to reduce and get ahold of all the loose nuclear material in the former Soviet Union",Claim,"(23074, 23199)","the president's been slow to do that, even in Russia",Premise,"(23020, 23072)",Attack
+those days are over with,Claim,"(26216, 26240)","In Europe, we have massed troops as if the Soviet Union existed and was going to invade into Europe",Premise,"(26111, 26210)",Attack
+I'm going to change that,Claim,"(31632, 31656)",We've got a whole bunch of countries that pay a price for dealing with the United States of America now,Premise,"(31527, 31630)",Attack
+Another is to pass -- to get our seniors to sign up to these drug discount cards,Premise,"(36989, 37069)",they're working,Claim,"(37075, 37090)",Support
+we cut taxes for everybody,Premise,"(46951, 46977)","Everybody got tax relief, so that they get out of the recession",Claim,"(46979, 47042)",Support
+I complain about that,Premise,"(3291, 3312)","You're 150 -- excuse me, I think it's a little more, about $100 million shy of what you ought to be under the No Child Left Behind Act to help your education system here",Premise,"(3117, 3286)",Attack
+I proposed a hydrogen automobile -- hydrogen-generated automobile,Claim,"(57848, 57913)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+"620,000 Missourians have no health care at all",Premise,"(62602, 62648)","96,000 Missourians have lost their health care under President Bush",Premise,"(62650, 62717)",Support
+That's the task of the 21st century,Premise,"(68149, 68184)",Our law enforcement must have every tool necessary to find and disrupt terrorists at home and abroad before they hurt us again,Premise,"(68021, 68147)",Support
+they're either going to be destroyed or left frozen,Premise,"(71685, 71736)",I think it is respecting life to reach for that cure,Claim,"(72003, 72055)",Support
+I would pick people that would be strict constructionists,Claim,"(75731, 75788)",That's not what the Constitution says,Premise,"(75552, 75589)",Attack
+"as a president, I have to represent all the people in the nation",Premise,"(78880, 78944)",I have to make that judgment,Premise,"(78950, 78978)",Support
+the biggest threat facing America is terrorists with weapons of mass destruction,Claim,"(83687, 83767)",what Saddam Hussein was doing was trying to get rid of sanctions so he could reconstitute a weapons program,Premise,"(83574, 83681)",Support
+I'm an optimist,Premise,"(88872, 88887)","we have to make the right choices, to be fiscally responsible and to create the new jobs of the future",Premise,"(88893, 88995)",Attack
+the unique threat was that he could give weapons of mass destruction to an organization like Al Qaida,Premise,"(7160, 7261)",the harm they inflicted on us with airplanes would be multiplied greatly by weapons of mass destruction,Claim,"(7267, 7370)",Support
+I would reach out to our allies in a way that this president hasn't,Claim,"(12261, 12328)","Now, I have to tell you, I would do something different.",Claim,"(12204, 12260)",Support
+it was the right thing to do,Claim,"(17565, 17593)",I've made some decisions on Israel that's unpopular,Claim,"(17265, 17316)",Attack
+I've proposed a plan that can capture it and contain it and clean it within four years,Premise,"(23201, 23287)","At his pace, it's going to take 13 years to reduce and get ahold of all the loose nuclear material in the former Soviet Union",Claim,"(23074, 23199)",Attack
+those days are over with,Claim,"(26216, 26240)",We don't need mass armies anymore,Claim,"(25806, 25839)",Support
+I'm going to change that,Claim,"(31632, 31656)",I'm going to put in place a better homeland security effort,Claim,"(31662, 31721)",Support
+they're working,Claim,"(37075, 37090)",There are other ways to make sure drugs are cheaper,Claim,"(36716, 36767)",Support
+"I think if you raise taxes during a recession, you head to depression",Claim,"(47044, 47113)","Everybody got tax relief, so that they get out of the recession",Claim,"(46979, 47042)",Support
+I support the goals,Claim,"(2988, 3007)","You're 150 -- excuse me, I think it's a little more, about $100 million shy of what you ought to be under the No Child Left Behind Act to help your education system here",Premise,"(3117, 3286)",Attack
+this is a reasonable policy,Claim,"(57448, 57475)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+I have a plan to cover those folks,Claim,"(62719, 62753)","you didn't hear any plan from the president, because he doesn't have a plan to lower the cost of health care",Claim,"(62440, 62548)",Attack
+it's necessary,Claim,"(68264, 68278)",Our law enforcement must have every tool necessary to find and disrupt terrorists at home and abroad before they hurt us again,Premise,"(68021, 68147)",Support
+I think it is respecting life to do it in an ethical way,Claim,"(72057, 72113)",I think it is respecting life to reach for that cure,Claim,"(72003, 72055)",Support
+"We've got plenty of lawmakers in Washington, D.C.",Premise,"(75790, 75839)",Legislators make law,Premise,"(75840, 75860)",Support
+I have to make that judgment,Premise,"(78950, 78978)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+We knew he hated us,Premise,"(83769, 83788)",We knew he'd been -- invaded other countries,Premise,"(83790, 83834)",Support
+We can do this,Claim,"(88997, 89011)",I believe America's best days are ahead of us,Claim,"(88825, 88870)",Support
+the harm they inflicted on us with airplanes would be multiplied greatly by weapons of mass destruction,Claim,"(7267, 7370)","that was the serious, serious threat",Claim,"(7376, 7412)",Support
+I would reach out to our allies in a way that this president hasn't,Claim,"(12261, 12328)","He pushed them away time and again, pushed them away at the U.N., pushed them away individually",Premise,"(12330, 12425)",Attack
+"I made a decision not to join the International Criminal Court in The Hague, which is where our troops could be brought to -- brought in front of a judge, an unaccounted judge",Premise,"(17772, 17947)",I don't think we ought to join that,Claim,"(17949, 17984)",Support
+the president is moving to the creation of our own bunker- busting nuclear weapon,Premise,"(23293, 23374)",It's very hard to get other countries to give up their weapons when you're busy developing a new one,Premise,"(23376, 23476)",Support
+we're moving troops out of Europe and replacing it with more effective equipment,Premise,"(26249, 26329)",One of the things we've done is we've taken the -- we're beginning to transform our military,Claim,"(25841, 25933)",Support
+95 percent of our containers coming into this country are not inspected today,Premise,"(31729, 31806)","When you get on an airplane, your bag is X- rayed, but the cargo hold isn't X-rayed",Premise,"(31808, 31891)",Support
+"Wanda Blackmore I met here from Missouri, the first time she bought drugs with her drug discount card, she paid $1.14, I think it was, for about $10 worth of drugs",Premise,"(37092, 37255)",These cards make sense,Claim,"(37257, 37279)",Support
+"I come from the school of thought that says when people have more money in their pocket during economic times, it increases demand or investment",Premise,"(47115, 47259)","I think if you raise taxes during a recession, you head to depression",Claim,"(47044, 47113)",Support
+I've argued that we should fully funded it,Premise,"(3314, 3356)",The president says I've changed my mind,Premise,"(3358, 3397)",Attack
+We proposed and passed a healthy forest bill which was essential to working with -- particularly in Western states -- to make sure that our forests were protected,Claim,"(57032, 57194)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+I have a plan to cover those folks,Claim,"(62719, 62753)","it's a plan that lowers cost for everybody, covers all children",Claim,"(62759, 62822)",Support
+it's necessary,Claim,"(68264, 68278)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Support
+I think it is respecting life to reach for that cure,Claim,"(72003, 72055)",the president has chosen a policy that makes it impossible for our scientists to do that,Premise,"(72119, 72207)",Attack
+Legislators make law,Premise,"(75840, 75860)",judges interpret the Constitution,Premise,"(75862, 75895)",Support
+"as a president, I have to represent all the people in the nation",Premise,"(78880, 78944)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+We knew he'd been -- invaded other countries,Premise,"(83790, 83834)",We knew he tortured his own people,Premise,"(83836, 83870)",Support
+I have a plan to provide health care to all Americans,Claim,"(88459, 88512)",I believe America's best days are ahead of us,Claim,"(88825, 88870)",Support
+"I saw a unique threat in Saddam Hussein, as did my opponent",Claim,"(7040, 7099)","that was the serious, serious threat",Claim,"(7376, 7412)",Support
+"Two weeks ago, there was a meeting of the North Atlantic Council, which is the political arm of NATO",Premise,"(12427, 12527)",They discussed the possibility of a small training unit or having a total takeover of the training in Iraq,Premise,"(12529, 12635)",Support
+leadership that would be willing to reject terrorism,Premise,"(17718, 17770)",I know they need leadership that's committed to a democracy and freedom,Claim,"(17645, 17716)",Support
+"We've got to join with the British and the French, with the Germans, who've been involved, in their initiative",Claim,"(22829, 22939)",We've got to lead the world now to crack down on proliferation as a whole,Claim,"(22941, 23014)",Support
+we're moving troops out of Europe and replacing it with more effective equipment,Premise,"(26249, 26329)","In Europe, we have massed troops as if the Soviet Union existed and was going to invade into Europe",Premise,"(26111, 26210)",Attack
+Do you feel safer,Premise,"(31893, 31910)","When you get on an airplane, your bag is X- rayed, but the cargo hold isn't X-rayed",Premise,"(31808, 31891)",Attack
+These cards make sense,Claim,"(37257, 37279)",they're working,Claim,"(37075, 37090)",Support
+"Small businesses begin to grow, and jobs are added",Premise,"(47261, 47311)","I come from the school of thought that says when people have more money in their pocket during economic times, it increases demand or investment",Premise,"(47115, 47259)",Support
+I've argued that we should fully funded it,Premise,"(3314, 3356)",I support the goals,Claim,"(2988, 3007)",Support
+I have -- was fought for a very strong title in the farm bill for the conservation reserve program to set aside millions of acres of land to help improve wildlife and the habitat,Claim,"(56852, 57030)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+the way I pay for it is I roll back the tax cut this president so fiercely wants to defend,Premise,"(62828, 62849)",I'm not fiscally irresponsible,Claim,"(62852, 62882)",Attack
+The Patriot Act is necessary,Claim,"(67773, 67801)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Support
+I want the future,Premise,"(72209, 72226)",I think we have to grab it,Claim,"(72232, 72258)",Support
+judges interpret the Constitution,Premise,"(75862, 75895)",that's the kind of judge I'm going to put on there,Claim,"(75990, 76040)",Support
+I can counsel people,Claim,"(78620, 78640)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+We knew he tortured his own people,Premise,"(83836, 83870)",", ""Did you make a mistake going into Iraq?"" And the answer is, ""Absolutely not.""",Premise,"(83408, 83488)",Support
+I have a plan to provide for our schools so we keep the standards but we help our teachers teach and elevate our schools by funding No Child Left Behind,Claim,"(88514, 88666)",I believe America's best days are ahead of us,Claim,"(88825, 88870)",Support
+Seventy five percent of them have been brought to justice,Premise,"(6793, 6850)","If you harbor a terrorist, you're just as guilty as the terrorist",Claim,"(6886, 6951)",Support
+They discussed the possibility of a small training unit or having a total takeover of the training in Iraq,Premise,"(12529, 12635)",Did our administration push for the total training of Iraq? No,Premise,"(12637, 12699)",Attack
+I believe Palestinians ought to have a state,Claim,"(17595, 17639)",I know they need leadership that's committed to a democracy and freedom,Claim,"(17645, 17716)",Support
+We've got to lead the world now to crack down on proliferation as a whole,Claim,"(22941, 23014)",I'm going to lead the world in the greatest counterproliferation effort,Claim,"(23478, 23549)",Support
+so there's less rotation,Premise,"(26470, 26494)",we're withdrawing manpower so they can be stationed here in America,Premise,"(26401, 26468)",Support
+Wrong choice,Claim,"(32436, 32448)",This president chose a tax cut over homeland security,Claim,"(32381, 32434)",Attack
+I went to Washington to fix problems,Premise,"(37396, 37432)",in 2006 seniors are going to get prescription drug coverage for the first time in Medicare,Claim,"(37296, 37386)",Support
+"We found out today that over the past 13 months, we've added 1.9 million new jobs in the last 13 months",Premise,"(47313, 47416)","Small businesses begin to grow, and jobs are added",Premise,"(47261, 47311)",Support
+I haven't changed my mind,Claim,"(3399, 3424)",The president says I've changed my mind,Premise,"(3358, 3397)",Attack
+I'm a good steward of the land,Claim,"(58110, 58140)",More land being restored since I've been the president,Claim,"(58260, 58314)",Support
+the way I pay for it is I roll back the tax cut this president so fiercely wants to defend,Premise,"(62828, 62849)",I think you ought to get the break,Claim,"(62993, 63027)",Support
+I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)","because I think whoever is the president must guard your liberties, must not erode your rights in America.",Claim,"(67666, 67772)",Support
+I think we have to grab it,Claim,"(72232, 72258)",I think it is respecting life to reach for that cure,Claim,"(72003, 72055)",Support
+that's the kind of judge I'm going to put on there,Claim,"(75990, 76040)",No litmus test except for how they interpret the Constitution,Claim,"(76042, 76103)",Support
+"that means being smart about allowing people to be fully educated, to know what their options are in life",Claim,"(79116, 79221)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+The Duelfer report confirmed that decision today,Premise,"(83516, 83564)",It was the right decision,Claim,"(83489, 83514)",Support
+I have a plan to protect the environment so that we leave this place in better shape to our children than we were handed it by our parents,Claim,"(88668, 88806)",I believe America's best days are ahead of us,Claim,"(88825, 88870)",Support
+He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs,Premise,"(7587, 7680)","as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions",Premise,"(7468, 7585)",Support
+Were they silent? Yes,Premise,"(12701, 12722)","Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort",Premise,"(12724, 12853)",Attack
+That was unpopular,Premise,"(17986, 18004)",I don't think we ought to join that,Claim,"(17949, 17984)",Support
+I'm going to lead the world in the greatest counterproliferation effort,Claim,"(23478, 23549)",It's very hard to get other countries to give up their weapons when you're busy developing a new one,Premise,"(23376, 23476)",Attack
+so life is easier on their families,Premise,"(26496, 26531)",we're withdrawing manpower so they can be stationed here in America,Premise,"(26401, 26468)",Support
+He chose a tax cut for the wealthiest Americans over getting that equipment out into the homeland as fast as possible,Claim,"(32045, 32162)",This president chose a tax cut over homeland security,Claim,"(32381, 32434)",Support
+"Medicare -- the issue of Medicare used to be called ""Mediscare.""",Premise,"(37434, 37498)",People didn't want to touch it for fear of getting hurt politically,Claim,"(37499, 37566)",Support
+"Non-homeland, non-defense discretionary spending was raising at 15 percent a year when I got into office",Premise,"(47592, 47696)","today it's less than 1 percent, because we're working together to try to bring this deficit under control",Claim,"(47702, 47807)",Support
+I haven't changed my mind,Claim,"(3399, 3424)",I support the goals,Claim,"(2988, 3007)",Support
+"I proposed to the United States Congress a Clear Skies Initiative to reduce sulfur dioxide, nitrogen oxide and mercury by 70 percent",Claim,"(56718, 56850)",The quality of the air's cleaner since I've been the president,Claim,"(58142, 58204)",Support
+"it's a plan that lowers cost for everybody, covers all children",Claim,"(62759, 62822)",I think you ought to get the break,Claim,"(62993, 63027)",Support
+I can remember being in upstate New York talking to FBI agents that helped bust a Lackawanna cell up there,Premise,"(68280, 68386)","they told me they could not have performed their duty, the duty we all expect of them, if they did not have the ability to communicate with each other under the Patriot Act",Premise,"(68392, 68564)",Support
+I think we have to grab it,Claim,"(72232, 72258)",the president has chosen a policy that makes it impossible for our scientists to do that,Premise,"(72119, 72207)",Attack
+No litmus test except for how they interpret the Constitution,Claim,"(76042, 76103)",I would pick somebody who would strictly interpret the Constitution of the United States,Claim,"(74889, 74977)",Support
+making certain that you don't deny a poor person the right to be able to have whatever the constitution affords them if they can't afford it otherwise,Claim,"(79227, 79377)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+"On the tax cut, it's a big decision",Premise,"(83872, 83907)",I did the right decision,Claim,"(83909, 83933)",Support
+"been through a recession, corporate scandals, war",Premise,"(89413, 89462)",We've been through a lot together as a country,Claim,"(89363, 89409)",Support
+"I tried diplomacy, went to the United Nations",Premise,"(7417, 7462)","as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions",Premise,"(7468, 7585)",Support
+Did our administration push for the total training of Iraq? No,Premise,"(12637, 12699)","Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort",Premise,"(12724, 12853)",Support
+I don't think we ought to join that,Claim,"(17949, 17984)",sometimes in this world you make unpopular decisions because you think they're right,Claim,"(18047, 18131)",Support
+It's naive and dangerous to say that,Claim,"(23772, 23808)","He keeps talking about, ""Let the inspectors do their job.""",Premise,"(23713, 23771)",Attack
+we're withdrawing manpower so they can be stationed here in America,Premise,"(26401, 26468)",we'll be more likely to be able to keep people in the all-volunteer army,Claim,"(26567, 26639)",Support
+95 percent of our containers coming into this country are not inspected today,Premise,"(31729, 31806)","This president in the last debate said, ""Well, that would be a big tax gap if we did that.""",Premise,"(31912, 32003)",Attack
+I wanted to get something done,Claim,"(37568, 37598)",People didn't want to touch it for fear of getting hurt politically,Claim,"(37499, 37566)",Attack
+"today it's less than 1 percent, because we're working together to try to bring this deficit under control",Claim,"(47702, 47807)","I haven't vetoed any spending bills, because we work together",Claim,"(47529, 47590)",Support
+I haven't changed my mind,Claim,"(3399, 3424)",I'm going to fully fund it,Claim,"(3426, 3452)",Support
+We've got an aggressive brown field program to refurbish inner-city sore spots to useful pieces of property,Claim,"(56609, 56716)",More land being restored since I've been the president,Claim,"(58260, 58314)",Support
+"it's a plan that lowers cost for everybody, covers all children",Claim,"(62759, 62822)",I want to lower your cost to health care,Claim,"(63029, 63069)",Support
+"they told me they could not have performed their duty, the duty we all expect of them, if they did not have the ability to communicate with each other under the Patriot Act",Premise,"(68392, 68564)",The Patriot Act is necessary,Claim,"(67773, 67801)",Support
+Embryonic stem-cell research requires the destruction of life to create a stem cell,Premise,"(72310, 72393)",I'm the first president ever to allow funding -- federal funding -- for embryonic stem-cell research,Premise,"(72395, 72495)",Support
+"A few years ago when he came to office, the president said -- these are his words -- ""What we need are some good conservative judges on the courts.""",Premise,"(76187, 76335)",he said also that his two favorite justices are Justice Scalia and Justice Thomas,Premise,"(76340, 76421)",Support
+I think it's important,Claim,"(79390, 79412)","I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)",Support
+Our recession was one of the shallowest in modern history,Premise,"(83935, 83992)",I did the right decision,Claim,"(83909, 83933)",Support
+Homeownership rate is at an all-time high in America,Premise,"(89620, 89672)",We're on the move,Claim,"(89674, 89691)",Support
+He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs,Premise,"(7587, 7680)",We all thought there was weapons there,Claim,"(7682, 7720)",Support
+Were they silent? Yes,Premise,"(12701, 12722)",Did our administration push for the total training of Iraq? No,Premise,"(12637, 12699)",Attack
+it was the right thing to do,Claim,"(17565, 17593)",sometimes in this world you make unpopular decisions because you think they're right,Claim,"(18047, 18131)",Support
+That's what the Duelfer report showed,Premise,"(23810, 23847)",It's naive and dangerous to say that,Claim,"(23772, 23808)",Support
+One of the things we've done is we've taken the -- we're beginning to transform our military,Claim,"(25841, 25933)",One of the more important things we're doing in this administration is transformation,Claim,"(26641, 26726)",Support
+This president chose a tax cut over homeland security,Claim,"(32381, 32434)","This president in the last debate said, ""Well, that would be a big tax gap if we did that.""",Premise,"(31912, 32003)",Attack
+I went to Washington to fix problems,Premise,"(37396, 37432)",People didn't want to touch it for fear of getting hurt politically,Claim,"(37499, 37566)",Attack
+I am not going to shortchange our troops in harm's way,Claim,"(47856, 47910)",I'm concerned about the deficit,Premise,"(47819, 47850)",Attack
+I've argued that we should fully funded it,Premise,"(3314, 3356)",I'm going to fully fund it,Claim,"(3426, 3452)",Support
+I've got a plan to increase the wetlands by 3 million,Claim,"(56554, 56607)",I'm a good steward of the land,Claim,"(58110, 58140)",Support
+I want to lower your cost to health care,Claim,"(63029, 63069)",I think you ought to get the break,Claim,"(62993, 63027)",Support
+"they told me they could not have performed their duty, the duty we all expect of them, if they did not have the ability to communicate with each other under the Patriot Act",Premise,"(68392, 68564)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Support
+I'm the first president ever to allow funding -- federal funding -- for embryonic stem-cell research,Premise,"(72395, 72495)",I too hope that we'll discover cures from the stem cells and from the research derived,Premise,"(72514, 72600)",Support
+he said also that his two favorite justices are Justice Scalia and Justice Thomas,Premise,"(76340, 76421)",you get a pretty good sense of where he's heading if he were to appoint somebody,Claim,"(76426, 76506)",Support
+"I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights",Claim,"(78985, 79110)","I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning",Claim,"(79425, 79626)",Support
+I'll take responsibility for them,Claim,"(83024, 83057)",I'm fully prepared to accept any mistakes that history judges to my administration,Claim,"(84200, 84282)",Support
+Small businesses are flourishing,Premise,"(89586, 89618)",We're on the move,Claim,"(89674, 89691)",Support
+My opponent thought there was weapons there,Claim,"(7729, 7772)",We all thought there was weapons there,Claim,"(7682, 7720)",Support
+I would reach out to our allies in a way that this president hasn't,Claim,"(12261, 12328)","Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort",Premise,"(12724, 12853)",Attack
+I've made some decisions on Israel that's unpopular,Claim,"(17265, 17316)",sometimes in this world you make unpopular decisions because you think they're right,Claim,"(18047, 18131)",Support
+He was deceiving the inspectors,Premise,"(23849, 23880)",That's what the Duelfer report showed,Premise,"(23810, 23847)",Support
+There are some really interesting technologies,Premise,"(26728, 26774)","For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States",Premise,"(26776, 26892)",Support
+I'm going to put in place a better homeland security effort,Claim,"(31662, 31721)",We have bridges and tunnels that aren't being secured,Premise,"(32164, 32217)",Attack
+I went to Washington to fix problems,Premise,"(37396, 37432)",I wanted to get something done,Claim,"(37568, 37598)",Support
+"today it's less than 1 percent, because we're working together to try to bring this deficit under control",Claim,"(47702, 47807)",I'm concerned about the deficit,Premise,"(47819, 47850)",Support
+The first president in 72 years to lose jobs,Premise,"(3567, 3611)",the president has presided over an economy where we've lost 1.6 million jobs,Premise,"(3489, 3565)",Support
+Off-road diesel engines -- we have reached an agreement to reduce pollution from off-road diesel engines by 90 percent,Premise,"(56434, 56552)",The quality of the air's cleaner since I've been the president,Claim,"(58142, 58204)",Support
+"96,000 Missourians have lost their health care under President Bush",Premise,"(62650, 62717)",what's really hurting American business more than anything else is the cost of health care,Claim,"(62343, 62433)",Support
+"Former Governor Racicot, as chairman of the Republican Party, said he thought that the Patriot Act has to be changed and fixed",Premise,"(68617, 68743)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Attack
+I think we've got to be very careful in balancing the ethics and the science,Claim,"(72606, 72682)",I too hope that we'll discover cures from the stem cells and from the research derived,Premise,"(72514, 72600)",Attack
+you get a pretty good sense of where he's heading if he were to appoint somebody,Claim,"(76426, 76506)",No litmus test except for how they interpret the Constitution,Claim,"(76042, 76103)",Attack
+You'll help prevent AIDS,Premise,"(79628, 79652)","I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning",Claim,"(79425, 79626)",Support
+the president makes the decisions,Premise,"(84292, 84325)",I'm fully prepared to accept any mistakes that history judges to my administration,Claim,"(84200, 84282)",Support
+The farm income in America is high,Premise,"(89550, 89584)",We're on the move,Claim,"(89674, 89691)",Support
+That's why he called him a grave threat,Premise,"(7774, 7813)",My opponent thought there was weapons there,Claim,"(7729, 7772)",Support
+"You know, they even had the Defense Department issue a memorandum saying, ""Don't bother applying for assistance or for being part of the reconstruction if you weren't part of our original coalition.""",Premise,"(12855, 13054)",that's not a good way to build support and reduce the risk for our troops and make America safer,Premise,"(13060, 13156)",Support
+"there is 30 nations involved in Iraq, some 40 nations involved in Afghanistan",Premise,"(18170, 18247)",Sometimes they don't like the decisions made by America,Premise,"(18270, 18325)",Support
+we've been involved with Iran,Premise,"(23902, 23931)",I fully understand the threat,Premise,"(23933, 23962)",Support
+That saves manpower,Premise,"(26894, 26913)","For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States",Premise,"(26776, 26892)",Support
+I'm going to put in place a better homeland security effort,Claim,"(31662, 31721)","chemical plants, nuclear plants that aren't secured",Premise,"(32219, 32270)",Attack
+I wanted to get something done,Claim,"(37568, 37598)",I think our seniors deserve a modern medical system,Claim,"(37600, 37651)",Support
+"I'm not going to run up taxes, which will cost this economy jobs",Claim,"(47916, 47980)","Everybody got tax relief, so that they get out of the recession",Claim,"(46979, 47042)",Support
+I have a plan to put people back to work,Claim,"(3613, 3653)",the president has presided over an economy where we've lost 1.6 million jobs,Premise,"(3489, 3565)",Attack
+"But if you're a president, it's not",Claim,"(58556, 58591)","Now, if you're a Red Sox fan, that's OK.",Premise,"(58515, 58555)",Attack
+what's really hurting American business more than anything else is the cost of health care,Claim,"(62343, 62433)",I have a plan to cover those folks,Claim,"(62719, 62753)",Support
+"Congressman Jim Sensenbrenner, he is the chairman of the House Judiciary Committee, said over his dead body before it gets renewed without being thoroughly rechecked",Premise,"(68745, 68910)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Attack
+I think we've got to be very careful in balancing the ethics and the science,Claim,"(72606, 72682)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Support
+I subscribe to the Justice Potter Stewart standard,Premise,"(76717, 76767)",He was a justice on the Supreme Court of the United States,Premise,"(76769, 76827)",Support
+"You'll help prevent unwanted children, unwanted pregnancies",Premise,"(79654, 79713)","I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning",Claim,"(79425, 79626)",Support
+the president has to take the responsibility,Premise,"(84327, 84371)",I'm fully prepared to accept any mistakes that history judges to my administration,Claim,"(84200, 84282)",Support
+Added 1.9 million new jobs over the past 13 months,Premise,"(89498, 89548)",We're on the move,Claim,"(89674, 89691)",Support
+we've got an intelligence group together to figure out why,Premise,"(7874, 7932)",I wasn't happy when we found out there wasn't weapons,Premise,"(7815, 7868)",Support
+I would reach out to our allies in a way that this president hasn't,Claim,"(12261, 12328)",that's not a good way to build support and reduce the risk for our troops and make America safer,Premise,"(13060, 13156)",Attack
+People love America,Premise,"(18249, 18268)",Sometimes they don't like the decisions made by America,Premise,"(18270, 18325)",Support
+I fully understand the threat,Premise,"(23933, 23962)","we're doing what he suggested we do: Get the Brits, the Germans and the French to go make it very clear to the Iranians that if they expect to be a party to the world to give up their nuclear ambitions",Claim,"(23979, 24180)",Support
+it saves equipment,Premise,"(26919, 26937)","For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States",Premise,"(26776, 26892)",Support
+I'm going to put in place a better homeland security effort,Claim,"(31662, 31721)",hospitals that are overcrowded with their emergency rooms,Premise,"(32272, 32329)",Attack
+in 2006 seniors are going to get prescription drug coverage for the first time in Medicare,Claim,"(37296, 37386)",I think our seniors deserve a modern medical system,Claim,"(37600, 37651)",Support
+I am not going to shortchange our troops in harm's way,Claim,"(47856, 47910)",We've got to pay our troops more,Claim,"(46653, 46685)",Support
+I have a plan to put people back to work,Claim,"(3613, 3653)",The first president in 72 years to lose jobs,Premise,"(3567, 3611)",Attack
+"Now, if you're a Red Sox fan, that's OK.",Premise,"(58515, 58555)","the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",Support
+"I want to fully fund education, No Child Left Behind, special-needs education",Claim,"(63071, 63148)","that's how we're going to be more competitive, by making sure our kids are graduating from school and college",Claim,"(63154, 63263)",Support
+A whole bunch of folks in America are concerned about the way the Patriot Act has been applied,Claim,"(68912, 69006)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Attack
+"science is important, but so is ethics",Premise,"(72804, 72842)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Support
+I don't believe we need a good liberal judge,Claim,"(76591, 76635)",I don't believe we need a good judge of that kind of definition on either side,Claim,"(76637, 76715)",Support
+"You'll actually do a better job, I think, of passing on the moral responsibility that is expressed in your question",Claim,"(79715, 79830)","I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning",Claim,"(79425, 79626)",Support
+"I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort",Claim,"(84424, 84689)",I'm fully prepared to accept any mistakes that history judges to my administration,Claim,"(84200, 84282)",Attack
+what to do to keep this economy going: keep the taxes low,Claim,"(89736, 89793)",it requires a president who is steadfast and strong and determined,Claim,"(90096, 90162)",Support
+Saddam Hussein was a unique threat,Claim,"(7938, 7972)",the world is better off without him in power,Claim,"(7978, 8022)",Support
+I'm going to get the training done for our troops,Claim,"(13158, 13207)",I'm going to get the training of Iraqis done faster,Claim,"(13209, 13260)",Support
+Sometimes they don't like the decisions made by America,Premise,"(18270, 18325)",I don't think you want a president who tries to become popular and does the wrong thing,Claim,"(18331, 18418)",Support
+We've been doing that,Claim,"(24182, 24203)","we're doing what he suggested we do: Get the Brits, the Germans and the French to go make it very clear to the Iranians that if they expect to be a party to the world to give up their nuclear ambitions",Claim,"(23979, 24180)",Support
+"For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States",Premise,"(26776, 26892)",One of the more important things we're doing in this administration is transformation,Claim,"(26641, 26726)",Support
+I'm going to put in place a better homeland security effort,Claim,"(31662, 31721)",95 percent of our containers coming into this country are not inspected today,Premise,"(31729, 31806)",Support
+"in 2006, our seniors will get prescription drug coverage",Claim,"(37657, 37713)",I think our seniors deserve a modern medical system,Claim,"(37600, 37651)",Support
+It is not a government takeover,Claim,"(48147, 48178)",my health-care plan is not what the president described,Claim,"(48090, 48145)",Attack
+I'm going to close the loopholes that actually encourage companies to go overseas,Claim,"(3680, 3761)",That's not wishy- washy,Claim,"(3655, 3678)",Support
+"the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",More land being restored since I've been the president,Claim,"(58260, 58314)",Attack
+I want to lower your cost to health care,Claim,"(63029, 63069)",there are a lot of ways to be competitive,Claim,"(61646, 61687)",Support
+"Former Governor Racicot, as chairman of the Republican Party, said he thought that the Patriot Act has to be changed and fixed",Premise,"(68617, 68743)",A whole bunch of folks in America are concerned about the way the Patriot Act has been applied,Claim,"(68912, 69006)",Support
+so is balancing life,Premise,"(72844, 72864)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Support
+I don't believe we need a good conservative judge,Claim,"(76536, 76585)",I don't believe we need a good judge of that kind of definition on either side,Claim,"(76637, 76715)",Support
+I truly respect it,Claim,"(79836, 79854)","I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning",Claim,"(79425, 79626)",Support
+Was this really going to war as a last resort?,Premise,"(84777, 84823)",The president rushed our nation to war without a plan to win the peace,Premise,"(84824, 84894)",Support
+don't increase the scope of the federal government,Claim,"(89795, 89845)",it requires a president who is steadfast and strong and determined,Claim,"(90096, 90162)",Support
+"that was the serious, serious threat",Claim,"(7376, 7412)",Saddam Hussein was a unique threat,Claim,"(7938, 7972)",Support
+I'm going to get the training of Iraqis done faster,Claim,"(13209, 13260)",I'm going to get our allies back to the table,Claim,"(13266, 13311)",Support
+You don't want to join the International Criminal Court just because it's popular in certain capitals in Europe,Claim,"(18420, 18531)",I don't think you want a president who tries to become popular and does the wrong thing,Claim,"(18331, 18418)",Support
+"It is naive and dangerous to take a policy that he suggested the other day, which is to have bilateral relations with North Korea",Claim,"(24236, 24365)",he's the person who's accusing me of not acting multilaterally,Premise,"(24377, 24439)",Attack
+we can target things easier and move more quickly,Claim,"(26958, 27007)",we need to be lighter and quicker and more facile and highly trained,Claim,"(27021, 27089)",Support
+we've tripled the homeland security budget from $10 billion to $30 billion,Premise,"(32513, 32587)",That's an odd thing to say,Claim,"(32479, 32505)",Support
+"in 2006, our seniors will get prescription drug coverage",Claim,"(37657, 37713)",in 2006 seniors are going to get prescription drug coverage for the first time in Medicare,Claim,"(37296, 37386)",Support
+It is not a government takeover,Claim,"(48147, 48178)",You have choice,Claim,"(48180, 48195)",Support
+I have a plan to put people back to work,Claim,"(3613, 3653)",That's not wishy- washy,Claim,"(3655, 3678)",Support
+"the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",I'm a good steward of the land,Claim,"(58110, 58140)",Attack
+"that's how we're going to be more competitive, by making sure our kids are graduating from school and college",Claim,"(63154, 63263)",there are a lot of ways to be competitive,Claim,"(61646, 61687)",Support
+"Congressman Jim Sensenbrenner, he is the chairman of the House Judiciary Committee, said over his dead body before it gets renewed without being thoroughly rechecked",Premise,"(68745, 68910)",A whole bunch of folks in America are concerned about the way the Patriot Act has been applied,Claim,"(68912, 69006)",Support
+to balance science and the concerns for life,Premise,"(73296, 73340)",the approach I took is one that I think is a balanced and necessary approach,Claim,"(73218, 73294)",Support
+He was a justice on the Supreme Court of the United States,Premise,"(76769, 76827)","he said the mark of a good judge, good justice, is that when you're reading their decision, their opinion, you can't tell if it's written by a man or woman, a liberal or a conservative, a Muslim, a Jew or a Christian",Premise,"(76833, 77049)",Support
+certainly reasonable people can agree on how to reduce abortions in America,Premise,"(80045, 80120)",It's one way to help reduce abortions,Claim,"(80211, 80248)",Support
+The president rushed our nation to war without a plan to win the peace,Premise,"(84824, 84894)","I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort",Claim,"(84424, 84689)",Support
+"keep regulations down, legal reform, a health- care policy that does not empower the federal government but empowers individuals, and an energy plan that will help us become less dependent on foreign sources of energy",Claim,"(89847, 90064)",it requires a president who is steadfast and strong and determined,Claim,"(90096, 90162)",Support
+the world is better off without him in power,Claim,"(7978, 8022)","my opponent's plans lead me to conclude that Saddam Hussein would still be in power, and the world would be more dangerous",Premise,"(8028, 8150)",Attack
+I'm going to get our allies back to the table,Claim,"(13266, 13311)",I would reach out to our allies in a way that this president hasn't,Claim,"(12261, 12328)",Support
+"The president stood right here in this hall four years ago, and he was asked a question by somebody just like you, ""Under what circumstances would you send people to war?""",Premise,"(18860, 19031)",every part of the president's answer just now promises you more of the same over the next four years,Claim,"(18758, 18858)",Support
+"He now wants to take the six-party talks we have -- China, North Korea, South Korea, Russia, Japan and the United States -- and undermine them by having bilateral talks",Premise,"(24441, 24609)","It is naive and dangerous to take a policy that he suggested the other day, which is to have bilateral relations with North Korea",Claim,"(24236, 24365)",Support
+we need to be lighter and quicker and more facile and highly trained,Claim,"(27021, 27089)",One of the more important things we're doing in this administration is transformation,Claim,"(26641, 26726)",Support
+That's an odd thing to say,Claim,"(32479, 32505)",This president chose a tax cut over homeland security,Claim,"(32381, 32434)",Attack
+the president just didn't level with you right now again,Claim,"(38157, 38213)",He did block it,Claim,"(38215, 38230)",Support
+Choose your doctor,Premise,"(48197, 48215)",You have choice,Claim,"(48180, 48195)",Support
+That's not wishy- washy,Claim,"(3655, 3678)",The president wants to keep them open,Premise,"(3763, 3800)",Attack
+"the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",The quality of the air's cleaner since I've been the president,Claim,"(58142, 58204)",Attack
+"that's how we're going to be more competitive, by making sure our kids are graduating from school and college",Claim,"(63154, 63263)",China and India are graduating more graduates in technology and science than we are,Premise,"(63265, 63348)",Attack
+the inspector general of the Justice Department found that John Ashcroft had twice applied it in ways that were inappropriate,Premise,"(69017, 69142)",A whole bunch of folks in America are concerned about the way the Patriot Act has been applied,Claim,"(68912, 69006)",Support
+To destroy life to save life is -- it's one of the real ethical dilemmas that we face,Premise,"(72866, 72951)",I think we've got to be very careful in balancing the ethics and the science,Claim,"(72606, 72682)",Support
+"he said the mark of a good judge, good justice, is that when you're reading their decision, their opinion, you can't tell if it's written by a man or woman, a liberal or a conservative, a Muslim, a Jew or a Christian",Premise,"(76833, 77049)",You just know you're reading a good judicial decision,Claim,"(77051, 77104)",Support
+It's a brutal practice,Premise,"(80187, 80209)",I signed the partial-birth -- the ban on partial-birth abortion,Premise,"(80122, 80185)",Support
+simple things weren't done,Premise,"(84900, 84926)",That's why Senator Lugar says: incompetent in the delivery of services,Premise,"(84928, 84998)",Support
+"abroad, we're at war",Premise,"(90070, 90090)",it requires a president who is steadfast and strong and determined,Claim,"(90096, 90162)",Support
+The world is more dangerous today,Claim,"(8340, 8373)",The world is more dangerous today,Claim,"(8340, 8373)",Support
+I'm going to get our allies back to the table,Claim,"(13266, 13311)","Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort",Premise,"(12724, 12853)",Attack
+"his answer was, ""With a viable exit strategy and only with enough forces to get the job done.""",Premise,"(19036, 19130)","The president stood right here in this hall four years ago, and he was asked a question by somebody just like you, ""Under what circumstances would you send people to war?""",Premise,"(18860, 19031)",Support
+That's what President Clinton did,Premise,"(24611, 24644)","He now wants to take the six-party talks we have -- China, North Korea, South Korea, Russia, Japan and the United States -- and undermine them by having bilateral talks",Premise,"(24441, 24609)",Support
+We're not going to have a draft,Claim,"(25424, 25455)",We're not going to have a draft so long as I am the president,Claim,"(27132, 27193)",Support
+we've tripled the homeland security budget from $10 billion to $30 billion,Premise,"(32513, 32587)",we'll do everything we can to protect the homeland,Claim,"(32597, 32647)",Support
+we passed it in the United States Senate,Premise,"(38240, 38280)",He did block it,Claim,"(38215, 38230)",Support
+choose your plan,Premise,"(48217, 48233)",You have choice,Claim,"(48180, 48195)",Support
+I think I'm right,Claim,"(3802, 3819)",That's not wishy- washy,Claim,"(3655, 3678)",Support
+"the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",Fewer water complaints since I've been the president,Claim,"(58206, 58258)",Attack
+we're going to free ourselves from this dependency on Mideast oil,Claim,"(63628, 63693)",we're going to get the great entrepreneurial spirit of this country,Claim,"(63555, 63622)",Support
+the inspector general of the Justice Department found that John Ashcroft had twice applied it in ways that were inappropriate,Premise,"(69017, 69142)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Attack
+"There is going to be hundreds of experiments off the 22 lines that now exist that are active, and hopefully we find a cure",Premise,"(72953, 73075)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Support
+"The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law",Claim,"(77273, 77416)","the Supreme Court of the United States is at stake in this race, ladies and gentlemen",Claim,"(77186, 77271)",Attack
+I signed the partial-birth -- the ban on partial-birth abortion,Premise,"(80122, 80185)",It's one way to help reduce abortions,Claim,"(80211, 80248)",Support
+That's why Senator Lugar says: incompetent in the delivery of services,Premise,"(84928, 84998)","That's why Senator Hagel, Republican, says, you know: beyond pitiful, beyond embarrassing, in the zone of dangerous",Premise,"(85000, 85115)",Support
+The 9/11 Commission put out a report that said America is safer but not yet safe,Premise,"(90290, 90370)",I vowed to the American people after that fateful day of September the 11th that we would not rest nor tire until we're safe,Premise,"(90164, 90288)",Support
+the president didn't make the right judgments,Premise,"(8417, 8462)",The world is more dangerous today,Claim,"(8340, 8373)",Support
+I'm going to get the training of Iraqis done faster,Claim,"(13209, 13260)",Did our administration push for the total training of Iraq? No,Premise,"(12637, 12699)",Attack
+He didn't do that,Premise,"(19131, 19148)","his answer was, ""With a viable exit strategy and only with enough forces to get the job done.""",Premise,"(19036, 19130)",Attack
+He had bilateral talks with the North Koreans,Premise,"(24646, 24691)",That's what President Clinton did,Premise,"(24611, 24644)",Support
+I don't support a draft,Claim,"(27254, 27277)",We're not going to have a draft so long as I am the president,Claim,"(27132, 27193)",Support
+It's also a curious thing for him to say,Claim,"(32697, 32737)",right after 1993 he voted to cut the intelligence budget by $7.5 billion,Premise,"(32744, 32816)",Attack
+He did block it,Claim,"(38215, 38230)","Now, the president said, ""I'm not blocking that.""",Premise,"(38085, 38134)",Attack
+You have choice,Claim,"(48180, 48195)",The government has nothing to do with it,Premise,"(48235, 48275)",Attack
+I think I'm right,Claim,"(3802, 3819)",I think he's wrong,Claim,"(3821, 3839)",Support
+Labels don't mean anything,Claim,"(58660, 58686)",Labels don't fit,Claim,"(59002, 59018)",Support
+we're going to put our laboratories and our colleges and our universities to work,Claim,"(63468, 63549)",I have a plan for energy independence within 10 years,Claim,"(63409, 63462)",Support
+People's rights have been abused,Claim,"(69144, 69176)",I don't think the Patriot Act abridges your rights at all,Claim,"(68194, 68251)",Attack
+I helped double the NIH budget to $28 billion a year to find cures,Premise,"(73146, 73212)",the approach I took is one that I think is a balanced and necessary approach,Claim,"(73218, 73294)",Support
+Will we have equal opportunity?,Premise,"(77418, 77449)","The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law",Claim,"(77273, 77416)",Support
+we're not going to spend taxpayers' money on abortion,Claim,"(79947, 80000)",It's one way to help reduce abortions,Claim,"(80211, 80248)",Support
+"We didn't guard 850,000 tons of ammo",Premise,"(85117, 85153)",That's why Senator Lugar says: incompetent in the delivery of services,Premise,"(84928, 84998)",Support
+There is more work to be done,Claim,"(90372, 90401)",The 9/11 Commission put out a report that said America is safer but not yet safe,Premise,"(90290, 90370)",Attack
+He wants you to believe that because he can't come here and tell you that he's created new jobs for America,Claim,"(8518, 8625)",He's lost jobs,Premise,"(8627, 8641)",Attack
+"Two days ago in the Oval Office, I met with the finance minister from Iraq",Premise,"(13319, 13393)",he talked about how optimistic he was and the country was about heading toward elections,Claim,"(13418, 13506)",Support
+He broke that promise,Premise,"(19150, 19171)",He didn't do that,Premise,"(19131, 19148)",Support
+He was enriching uranium,Premise,"(24749, 24773)",He didn't honor the agreement,Premise,"(24718, 24747)",Support
+"I am very proud in this race to have the support of General John Shalikashvili, former chairman of the Joint Chiefs of Staff; Admiral William Crowe, former chairman of the Joint Chiefs of Staff; General Tony McPeak, who ran the air war for the president's father and did a brilliant job, supporting me",Premise,"(27395, 27696)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+we need good intelligence,Claim,"(32670, 32695)",It's also a curious thing for him to say,Claim,"(32697, 32737)",Attack
+the president just didn't level with you right now again,Claim,"(38157, 38213)","Now, the president said, ""I'm not blocking that.""",Premise,"(38085, 38134)",Attack
+You have choice,Claim,"(48180, 48195)","In fact, it doesn't ask you to do anything -- if you don't want to take it, you don't have to",Premise,"(48277, 48370)",Support
+I'm going to give you a tax cut,Claim,"(3841, 3872)","The president gave the top 1 percent of income-earners in America, got $89 billion last year, more than the 80 percent of people who earn $100,000 or less all put together",Premise,"(3874, 4045)",Attack
+I supported welfare reform,Premise,"(58688, 58714)",Labels don't mean anything,Claim,"(58660, 58686)",Support
+We've got to create the products of the future,Premise,"(63350, 63396)",we're going to get the great entrepreneurial spirit of this country,Claim,"(63555, 63622)",Support
+"finally, Senator Dick Durbin of Illinois intervened and was able to get him out",Premise,"(69289, 69368)","I met a man who spent eight months in prison, wasn't even allowed to call his lawyer",Premise,"(69178, 69262)",Support
+we need to continue to pursue adult stem-cell research,Claim,"(73090, 73144)",the approach I took is one that I think is a balanced and necessary approach,Claim,"(73218, 73294)",Support
+"Will we have equal pay for women, which is going backwards?",Premise,"(77484, 77543)","The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law",Claim,"(77273, 77416)",Support
+It's one way to help reduce abortions,Claim,"(80211, 80248)",My opponent voted against the ban,Premise,"(80250, 80283)",Attack
+That ammo is now being used against our kids,Premise,"(85155, 85199)","We didn't guard 850,000 tons of ammo",Premise,"(85117, 85153)",Support
+We'll stay on the hunt on Al Qaida,Claim,"(90403, 90437)",There is more work to be done,Claim,"(90372, 90401)",Support
+He can't come here and tell you that he's created health care for Americans,Claim,"(8643, 8718)","we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri",Premise,"(8734, 8834)",Attack
+Think about it: They're going from tyranny to elections,Premise,"(13508, 13563)",He talked about the reconstruction efforts that are beginning to take hold,Premise,"(13565, 13639)",Support
+We didn't have enough forces,Claim,"(19173, 19201)","his answer was, ""With a viable exit strategy and only with enough forces to get the job done.""",Premise,"(19036, 19130)",Attack
+That is a bad policy,Claim,"(24775, 24795)",He didn't honor the agreement,Premise,"(24718, 24747)",Attack
+Our Guard and reserves have been turned into almost active duty,Premise,"(27936, 27999)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+we need good intelligence,Claim,"(32670, 32695)",You've got to have the best intelligence in the world,Claim,"(31169, 31222)",Support
+you heard the president just say that he thought he might try to be for it,Premise,"(37788, 37862)","Four years ago, right here in this forum, he was asked the same question: Can't people be able to import drugs from Canada?",Premise,"(37864, 37987)",Support
+You have choice,Claim,"(48180, 48195)","If you like your high premiums, you keep them",Premise,"(48372, 48417)",Support
+I think that's wrong,Claim,"(4047, 4067)","The president gave the top 1 percent of income-earners in America, got $89 billion last year, more than the 80 percent of people who earn $100,000 or less all put together",Premise,"(3874, 4045)",Attack
+"I led the fight to put 100,000 cops on the streets of America",Premise,"(58716, 58777)",Labels don't mean anything,Claim,"(58660, 58686)",Support
+we're going to get the great entrepreneurial spirit of this country,Claim,"(63555, 63622)",I have a plan for energy independence within 10 years,Claim,"(63409, 63462)",Support
+"I met a man who spent eight months in prison, wasn't even allowed to call his lawyer",Premise,"(69178, 69262)",People's rights have been abused,Claim,"(69144, 69176)",Support
+the approach I took is one that I think is a balanced and necessary approach,Claim,"(73218, 73294)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Support
+Will women's rights be protected?,Premise,"(77450, 77483)","The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law",Claim,"(77273, 77416)",Support
+I think there ought to be parental notification laws,Claim,"(80285, 80337)",He's against them,Premise,"(80339, 80356)",Attack
+The president rushed our nation to war without a plan to win the peace,Premise,"(84824, 84894)","I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort",Claim,"(84424, 84689)",Support
+We'll deny sanctuary to these terrorists,Claim,"(90439, 90479)",There is more work to be done,Claim,"(90372, 90401)",Support
+He can't come here and tell you that he's left no child behind,Claim,"(8836, 8898)",he didn't fund no child left behind,Premise,"(8907, 8942)",Attack
+He talked about the reconstruction efforts that are beginning to take hold,Premise,"(13565, 13639)",he talked about how optimistic he was and the country was about heading toward elections,Claim,"(13418, 13506)",Support
+He broke that promise,Premise,"(19150, 19171)",We didn't have enough forces,Claim,"(19173, 19201)",Support
+He didn't honor the agreement,Premise,"(24718, 24747)",He had bilateral talks with the North Koreans,Premise,"(24646, 24691)",Attack
+You've got people doing two and three rotations,Premise,"(28001, 28048)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+The Patriot Act is vital,Claim,"(33161, 33185)",the Patriot Act was important,Claim,"(33130, 33159)",Support
+"Four years ago, right here in this forum, he was asked the same question: Can't people be able to import drugs from Canada?",Premise,"(37864, 37987)","You know what he said? ""I think that makes sense. I think that's a good idea"" -- four years ago",Premise,"(37988, 38083)",Support
+That's the way we leave it,Premise,"(48419, 48445)","If you like your high premiums, you keep them",Premise,"(48372, 48417)",Support
+"that's what I'm fighting for, you",Claim,"(4097, 4130)",That's not wishy-washy,Claim,"(4069, 4091)",Support
+I've been for faith-based initiatives helping to intervene in the lives of young children for years,Premise,"(58779, 58878)",Labels don't mean anything,Claim,"(58660, 58686)",Support
+I have a plan for energy independence within 10 years,Claim,"(63409, 63462)",That's how you create jobs and become competitive,Claim,"(63695, 63744)",Support
+People's rights have been abused,Claim,"(69144, 69176)",A whole bunch of folks in America are concerned about the way the Patriot Act has been applied,Claim,"(68912, 69006)",Support
+I don't know how you draw that line.,Premise,"(73578, 73614)","he says he's allowed it, which means he's going to allow the destruction of life up to a certain amount and then he isn't going to allow it",Premise,"(73437, 73576)",Attack
+Will a woman's right to choose be protected?,Premise,"(77544, 77588)","The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law",Claim,"(77273, 77416)",Support
+I signed a bill called the Unborn Victims of Violence Act,Premise,"(80358, 80415)","In other words, if you're a mom and you're pregnant and you get killed, the murderer gets tried for two cases, not just one",Premise,"(80417, 80540)",Support
+that's an excuse,Claim,"(85661, 85677)","you can't say, because Saddam might have done it 10 years from now, that's a reason",Claim,"(85576, 85659)",Attack
+We'll make sure they do not end up with weapons of mass destruction,Claim,"(90481, 90548)",There is more work to be done,Claim,"(90372, 90401)",Support
+He wants you to believe that because he can't come here and tell you that he's created new jobs for America,Claim,"(8518, 8625)",the president wishes that I had changed my mind,Claim,"(8469, 8516)",Support
+He talked about the fact that Iraqis love to be free,Premise,"(13641, 13693)",he talked about how optimistic he was and the country was about heading toward elections,Claim,"(13418, 13506)",Support
+He didn't do that,Premise,"(19131, 19148)",We didn't have enough forces,Claim,"(19173, 19201)",Support
+we're paying attention to these,Claim,"(24808, 24839)",we're paying attention to it,Claim,"(24982, 25010)",Support
+"You've got stop-loss policies, so people can't get out when they were supposed to",Premise,"(28050, 28131)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+My opponent says he hadn't changed his position on it,Premise,"(33280, 33333)",he's for weakening it,Claim,"(33343, 33364)",Attack
+"You know what he said? ""I think that makes sense. I think that's a good idea"" -- four years ago",Premise,"(37988, 38083)","Now, the president said, ""I'm not blocking that.""",Premise,"(38085, 38134)",Support
+That's where he was when he came into office,Premise,"(48552, 48596)","the president was handed a $5.6 trillion surplus, ladies and gentlemen",Premise,"(48480, 48550)",Support
+I think that's wrong,Claim,"(4047, 4067)",That's not wishy-washy,Claim,"(4069, 4091)",Support
+"I was -- broke with my party in 1985, one of the first three Democrats to fight for a balanced budget when it was heresy",Premise,"(58880, 59000)",Labels don't mean anything,Claim,"(58660, 58686)",Support
+there are a lot of ways to be competitive,Claim,"(61646, 61687)",That's how you create jobs and become competitive,Claim,"(63695, 63744)",Support
+They've got sneak-and-peek searches that are allowed,Premise,"(69431, 69483)",People's rights have been abused,Claim,"(69144, 69176)",Support
+"the lines of stem cells that he's made available, every scientist in the country will tell you, ""Not adequate,"" because they're contaminated by mouse cells, and because there aren't 60 or 70 -- they're are only about 11 to 20 now -- and there aren't enough to be able to do the research because they're contaminated",Premise,"(73649, 73964)","I made the decision we wouldn't spend any more money beyond the 70 lines, 22 of which are now in action",Claim,"(72691, 72794)",Attack
+Will a woman's right to choose be protected?,Premise,"(77544, 77588)",These are constitutional rights,Premise,"(77589, 77620)",Support
+"In other words, if you're a mom and you're pregnant and you get killed, the murderer gets tried for two cases, not just one",Premise,"(80417, 80540)",My opponent was against that,Premise,"(80542, 80570)",Attack
+There is no bigger judgment for a president of the United states than how you take a nation to war,Claim,"(85472, 85570)","you can't say, because Saddam might have done it 10 years from now, that's a reason",Claim,"(85576, 85659)",Attack
+It's the great nexus,Premise,"(90550, 90570)",The great threat to our country is that these haters end up with weapons of mass destruction,Premise,"(90572, 90664)",Support
+He can't come here and tell you that he's created health care for Americans,Claim,"(8643, 8718)",the president wishes that I had changed my mind,Claim,"(8469, 8516)",Support
+"this is guy a who, along with others, has taken great risk for great freedom",Premise,"(13849, 13925)",we need to stand with him,Claim,"(13931, 13956)",Support
+"General Shinseki, the Army chief of staff, told him he was going to need several hundred thousand",Premise,"(19203, 19300)",They retired General Shinseki for telling him that,Premise,"(19318, 19368)",Support
+we're making progress,Claim,"(25016, 25037)",we're paying attention to it,Claim,"(24982, 25010)",Support
+You've got a back-door draft right now,Premise,"(28133, 28171)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+It's a tool that law enforcement now uses to be able to talk between each other,Premise,"(33199, 33278)",The Patriot Act is vital,Claim,"(33161, 33185)",Support
+"We sent it over to the House, that you could import drugs",Premise,"(38282, 38339)",we passed it in the United States Senate,Premise,"(38240, 38280)",Support
+"the president was handed a $5.6 trillion surplus, ladies and gentlemen",Premise,"(48480, 48550)",We now have a $2.6 trillion deficit,Premise,"(48598, 48633)",Attack
+That's not wishy- washy,Claim,"(3655, 3678)",That's not wishy-washy,Claim,"(4069, 4091)",Support
+"when it comes to the issue of the environment, this is one of the worst administrations in modern history",Claim,"(59047, 59152)","the president, I don't think, is living in a world of reality with respect to the environment",Claim,"(58420, 58513)",Support
+how to control the cost of health care: medical liability reform,Claim,"(63812, 63876)",which he's opposed,Claim,"(63892, 63910)",Attack
+They've got people allowed to go into churches now and political meetings without any showing of potential criminal activity or otherwise,Premise,"(69485, 69622)",People's rights have been abused,Claim,"(69144, 69176)",Support
+We've got to open up the possibilities of this research,Claim,"(73966, 74021)","the lines of stem cells that he's made available, every scientist in the country will tell you, ""Not adequate,"" because they're contaminated by mouse cells, and because there aren't 60 or 70 -- they're are only about 11 to 20 now -- and there aren't enough to be able to do the research because they're contaminated",Premise,"(73649, 73964)",Attack
+"Will we have equal pay for women, which is going backwards?",Premise,"(77484, 77543)",These are constitutional rights,Premise,"(77589, 77620)",Support
+I think there ought to be parental notification laws,Claim,"(80285, 80337)",These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",Support
+That's why Senator Lugar says: incompetent in the delivery of services,Premise,"(84928, 84998)","I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort",Claim,"(84424, 84689)",Support
+our long-term security depends on our deep faith in liberty,Claim,"(90670, 90729)",we'll continue to promote freedom around the world,Claim,"(90735, 90785)",Support
+He can't come here and tell you that he's left no child behind,Claim,"(8836, 8898)",the president wishes that I had changed my mind,Claim,"(8469, 8516)",Support
+he talked about how optimistic he was and the country was about heading toward elections,Claim,"(13418, 13506)","he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic",Premise,"(13703, 13842)",Attack
+They retired General Shinseki for telling him that,Premise,"(19318, 19368)",This president hasn't listened,Claim,"(19370, 19400)",Support
+"There's an ""Axis of Evil,"" Iraq, Iran and North Korea",Claim,"(24923, 24976)",we're paying attention to it,Claim,"(24982, 25010)",Support
+a lot of our military are underpaid,Premise,"(28177, 28212)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+We got to be right 100 percent of the time here at home,Claim,"(32901, 32956)",The best way to defend America in this world we live in is to stay on the offense,Claim,"(32818, 32899)",Support
+We took care of the safety issues,Premise,"(38341, 38374)","We sent it over to the House, that you could import drugs",Premise,"(38282, 38339)",Support
+This is the biggest turnaround in the history of the country,Premise,"(48635, 48695)",We now have a $2.6 trillion deficit,Premise,"(48598, 48633)",Attack
+"I can see why people at your workplace think he changes positions a lot, because he does",Claim,"(4296, 4384)",That's not wishy- washy,Claim,"(3655, 3678)",Attack
+"The Clear Skies bill that he just talked about, it's one of those Orwellian names you pull out of the sky, slap it onto something, like ""No Child Left Behind"" but you leave millions of children behind",Premise,"(59154, 59354)",The quality of the air's cleaner since I've been the president,Claim,"(58142, 58204)",Attack
+You own your own account,Premise,"(64155, 64179)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+Ninety-nine United States senators voted for it,Premise,"(69658, 69705)",I voted for the Patriot Act,Premise,"(69629, 69656)",Support
+we have to,Premise,"(15371, 15381)","when I am president, I'm going to do it",Claim,"(74027, 74066)",Support
+Will women's rights be protected?,Premise,"(77450, 77483)",These are constitutional rights,Premise,"(77589, 77620)",Support
+I signed a bill called the Unborn Victims of Violence Act,Premise,"(80358, 80415)",These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",Support
+"That's why Senator Hagel, Republican, says, you know: beyond pitiful, beyond embarrassing, in the zone of dangerous",Premise,"(85000, 85115)","I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort",Claim,"(84424, 84689)",Support
+Freedom is on the march,Claim,"(90787, 90810)",we'll continue to promote freedom around the world,Claim,"(90735, 90785)",Support
+He's trying to attack me,Claim,"(8964, 8988)",He wants you to believe that I can't be president,Claim,"(8990, 9039)",Support
+My opponent says he has a plan,Premise,"(13958, 13988)",it sounds familiar,Claim,"(13990, 14008)",Support
+I went to meet with the members of the Security Council in the week before we voted,Premise,"(19402, 19485)",I went to New York,Premise,"(19487, 19505)",Support
+These are families that get hurt,Premise,"(28214, 28246)",our military is overextended under the president,Claim,"(27886, 27934)",Support
+they got to be right once,Premise,"(32962, 32987)",The best way to defend America in this world we live in is to stay on the offense,Claim,"(32818, 32899)",Support
+We're not talking about third-world drugs,Premise,"(38376, 38417)",We took care of the safety issues,Premise,"(38341, 38374)",Support
+He's the first president in 72 years to lose jobs,Premise,"(48697, 48746)",This is the biggest turnaround in the history of the country,Premise,"(48635, 48695)",Support
+that sends a confusing signal to people,Premise,"(4479, 4518)","He said he voted for the $87 billion, and voted against it right before he voted for it",Premise,"(4386, 4473)",Support
+"The Clear Skies bill that he just talked about, it's one of those Orwellian names you pull out of the sky, slap it onto something, like ""No Child Left Behind"" but you leave millions of children behind",Premise,"(59154, 59354)",Here they're leaving the skies and the environment behind,Claim,"(59356, 59413)",Support
+You can save tax-free,Premise,"(64181, 64202)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+that's not a flip-flop,Claim,"(69869, 69891)","the president's been very busy running around the country using what I just described to you as a reason to say I'm wishy-washy, that I'm a flip-flopper",Premise,"(69711, 69863)",Attack
+We've got to open up the possibilities of this research,Claim,"(73966, 74021)","when I am president, I'm going to do it",Claim,"(74027, 74066)",Support
+Will we have equal opportunity?,Premise,"(77418, 77449)",These are constitutional rights,Premise,"(77589, 77620)",Support
+"In other words, if you're a mom and you're pregnant and you get killed, the murderer gets tried for two cases, not just one",Premise,"(80417, 80540)",These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",Support
+"I visited some of those kids with no limbs today, because they didn't have the armor on those vehicles",Premise,"(85252, 85354)","Ten thousand out of 12,000 Humvees aren't armored",Premise,"(85201, 85250)",Support
+our long-term security depends on our deep faith in liberty,Claim,"(90670, 90729)",The great threat to our country is that these haters end up with weapons of mass destruction,Premise,"(90572, 90664)",Attack
+he's trying to make you believe it,Claim,"(9045, 9079)",He wants you to believe that I can't be president,Claim,"(8990, 9039)",Support
+it sounds familiar,Claim,"(13990, 14008)",it's called the Bush plan,Premise,"(14018, 14043)",Support
+I went to New York,Premise,"(19487, 19505)",I talked to all of them to find out how serious they were about really holding Saddam Hussein accountable,Premise,"(19507, 19612)",Support
+These are families that get hurt,Premise,"(28214, 28246)",It hurts the middle class,Claim,"(28248, 28273)",Support
+there's a lot of good people working hard,Premise,"(33017, 33058)",We're doing the best we possibly can to share information,Claim,"(33060, 33117)",Support
+We're talking about drugs made right here in the United States of America that have American brand names on them and American bottles,Premise,"(38419, 38552)",We're not talking about third-world drugs,Premise,"(38376, 38417)",Support
+This is the first time the United States of America has ever had a tax cut when we're at war,Premise,"(48769, 48861)",This is the biggest turnaround in the history of the country,Premise,"(48635, 48695)",Support
+"He said he voted for the $87 billion, and voted against it right before he voted for it",Premise,"(4386, 4473)","I can see why people at your workplace think he changes positions a lot, because he does",Claim,"(4296, 4384)",Support
+the air would be cleaner than it is if you pass the Clear Skies act,Claim,"(59493, 59560)","If they just left the Clean Air Act all alone the way it is today, no change",Premise,"(59415, 59491)",Attack
+You get a catastrophic plan to help you on it,Premise,"(64204, 64249)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+that's not a flip-flop,Claim,"(69869, 69891)",I believe in the Patriot Act,Claim,"(69893, 69921)",Support
+The embryo had already been destroyed prior to my decision,Premise,"(74202, 74260)","I had to make the decision to destroy more life, so do we continue to destroy life",Premise,"(74262, 74344)",Support
+These are constitutional rights,Premise,"(77589, 77620)",I want to make sure we have judges who interpret the Constitution of the United States according to the law,Claim,"(77626, 77733)",Support
+These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",I think it is a worthy goal in America to have every child protected by law and welcomed in life,Claim,"(80644, 80740)",Support
+They didn't have the right body armor,Premise,"(85356, 85393)","I visited some of those kids with no limbs today, because they didn't have the armor on those vehicles",Premise,"(85252, 85354)",Support
+"Tomorrow, Afghanistan will be voting for a president",Premise,"(90812, 90864)",Freedom is on the march,Claim,"(90787, 90810)",Support
+he wants you to think I change my mind,Claim,"(9088, 9126)",he's trying to make you believe it,Claim,"(9045, 9079)",Support
+"We'll have 125,000 trained by the end of December",Claim,"(14086, 14135)","We're going to train troops, and we are",Claim,"(14045, 14084)",Support
+if we worked at it,Premise,"(19642, 19660)",if we were ready to work and letting Hans Blix do his job and thoroughly go through the inspections,Premise,"(19662, 19761)",Support
+It hurts the middle class,Claim,"(28248, 28273)",It hurts communities,Claim,"(28275, 28295)",Support
+We're doing the best we possibly can to share information,Claim,"(33060, 33117)",the Patriot Act was important,Claim,"(33130, 33159)",Support
+we're asking to be able to allow you to get them,Premise,"(38558, 38606)",We're talking about drugs made right here in the United States of America that have American brand names on them and American bottles,Premise,"(38419, 38552)",Support
+"Franklin Roosevelt, Harry Truman, others, knew how to lead",Claim,"(48863, 48921)",This is the first time the United States of America has ever had a tax cut when we're at war,Premise,"(48769, 48861)",Attack
+that sends a confusing signal to people,Premise,"(4479, 4518)","I can see why people think that he changes position quite often, because he does",Claim,"(4648, 4728)",Support
+the air would be cleaner than it is if you pass the Clear Skies act,Claim,"(59493, 59560)",We're going backwards,Claim,"(59562, 59583)",Support
+Robert Rubin looked at his plan and said it won't work,Premise,"(64443, 64497)",You know he calls it an outsourcing to keep -- stop outsourcing,Premise,"(64378, 64441)",Attack
+I voted for the Patriot Act,Premise,"(69629, 69656)",I believe in the Patriot Act,Claim,"(69893, 69921)",Support
+"I had to make the decision to destroy more life, so do we continue to destroy life",Premise,"(74262, 74344)",I made the decision to balance science and ethics,Claim,"(74348, 74397)",Support
+You just know you're reading a good judicial decision,Claim,"(77051, 77104)",I want to make sure we have judges who interpret the Constitution of the United States according to the law,Claim,"(77626, 77733)",Support
+I also think we ought to continue to have good adoption law as an alternative to abortion,Claim,"(80742, 80831)",These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",Support
+I've met parents who've on the Internet gotten the armor to send their kids,Premise,"(85395, 85470)",They didn't have the right body armor,Premise,"(85356, 85393)",Support
+"In Iraq, we'll be having free elections",Premise,"(90866, 90905)",Freedom is on the march,Claim,"(90787, 90810)",Support
+So what does he do?,Premise,"(8944, 8963)",He's trying to attack me,Claim,"(8964, 8988)",Support
+We're spending about $7 billion,Premise,"(14137, 14168)","We're going to train troops, and we are",Claim,"(14045, 14084)",Support
+if we were ready to work and letting Hans Blix do his job and thoroughly go through the inspections,Premise,"(19662, 19761)",if push came to shove,Premise,"(19768, 19789)",Support
+these are our first responders,Premise,"(28305, 28335)",It hurts communities,Claim,"(28275, 28295)",Support
+the Patriot Act was important,Claim,"(33130, 33159)",The best way to defend America in this world we live in is to stay on the offense,Claim,"(32818, 32899)",Support
+The president blocked it,Claim,"(38608, 38632)",He did block it,Claim,"(38215, 38230)",Support
+"Franklin Roosevelt, Harry Truman, others, knew how to lead",Claim,"(48863, 48921)",They knew how to ask the American people for the right things,Claim,"(48923, 48984)",Support
+"He said he thought Saddam Hussein was a grave threat, and now he said it was a mistake to remove Saddam Hussein from power",Premise,"(4520, 4642)","I can see why people think that he changes position quite often, because he does",Claim,"(4648, 4728)",Support
+his environmental enforcement chief air-quality person at the EPA resigned in protest over what they're doing to what they are calling the new source performance standards for air quality,Premise,"(59594, 59781)",We're going backwards,Claim,"(59562, 59583)",Support
+Robert Rubin looked at his plan and said it won't work,Premise,"(64443, 64497)","The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",Support
+We need the things in it that coordinate the FBI and the CIA,Claim,"(69923, 69983)",I believe in the Patriot Act,Claim,"(69893, 69921)",Support
+I made the decision to balance science and ethics,Claim,"(74348, 74397)",Those stem- cells lines already existed,Claim,"(74161, 74200)",Support
+we need to promote maternity group homes,Claim,"(80837, 80877)",These are reasonable ways to help promote a culture of life in America,Claim,"(80572, 80642)",Support
+"Ten thousand out of 12,000 Humvees aren't armored",Premise,"(85201, 85250)",That's why Senator Lugar says: incompetent in the delivery of services,Premise,"(84928, 84998)",Support
+Freedom is on the march,Claim,"(90787, 90810)",a free society will make this world more peaceful,Claim,"(90911, 90960)",Support
+I've never changed my mind about Iraq,Claim,"(9163, 9200)",he wants you to think I change my mind,Claim,"(9088, 9126)",Attack
+He talks about a grand idea: Let's have a summit; we're going to solve the problem in Iraq by holding a summit,Premise,"(14170, 14280)",what is he going to say to those people that show up at the summit? Join me in the wrong war at the wrong time at the wrong place,Premise,"(14286, 14415)",Support
+if push came to shove,Premise,"(19768, 19789)",they'd be there with us,Claim,"(19791, 19814)",Support
+"they're over there, not over here",Premise,"(28364, 28397)",It hurts communities,Claim,"(28275, 28295)",Support
+I really don't,Claim,"(33448, 33462)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Support
+The president blocked it,Claim,"(38608, 38632)",we're asking to be able to allow you to get them,Premise,"(38558, 38606)",Attack
+"Franklin Roosevelt, Harry Truman, others, knew how to lead",Claim,"(48863, 48921)","One percent of America, the highest one percent of income earners in America, got $89 billion of tax cut last year",Premise,"(48986, 49100)",Attack
+"I can see why people at your workplace think he changes positions a lot, because he does",Claim,"(4296, 4384)","I can see why people think that he changes position quite often, because he does",Claim,"(4648, 4728)",Support
+the air would be cleaner than it is if you pass the Clear Skies act,Claim,"(59493, 59560)",his environmental enforcement chief air-quality person at the EPA resigned in protest over what they're doing to what they are calling the new source performance standards for air quality,Premise,"(59594, 59781)",Attack
+"The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",You know he calls it an outsourcing to keep -- stop outsourcing,Premise,"(64378, 64441)",Attack
+We need to be stronger on terrorism,Claim,"(69985, 70020)",I believe in the Patriot Act,Claim,"(69893, 69921)",Support
+The embryo had already been destroyed prior to my decision,Premise,"(74202, 74260)",Those stem- cells lines already existed,Claim,"(74161, 74200)",Support
+Culture of life is really important for a country to have,Claim,"(80913, 80970)",I also think we ought to continue to have good adoption law as an alternative to abortion,Claim,"(80742, 80831)",Support
+"He complains about the fact our troops don't have adequate equipment, yet he voted against the $87 billion supplemental I sent to the Congress",Premise,"(85708, 85850)","I visited some of those kids with no limbs today, because they didn't have the armor on those vehicles",Premise,"(85252, 85354)",Attack
+I vowed to the American people after that fateful day of September the 11th that we would not rest nor tire until we're safe,Premise,"(90164, 90288)",it requires a president who is steadfast and strong and determined,Claim,"(90096, 90162)",Support
+I do believe Saddam Hussein was a threat,Premise,"(9202, 9242)",I've never changed my mind about Iraq,Claim,"(9163, 9200)",Support
+Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake,Claim,"(14468, 14599)",Risk your troops in a war you've called a mistake,Premise,"(14417, 14466)",Attack
+I talked to all of them to find out how serious they were about really holding Saddam Hussein accountable,Premise,"(19507, 19612)",they'd be there with us,Claim,"(19791, 19814)",Support
+"I'm going to add 40,000 active duty forces to the military",Claim,"(28404, 28462)","I'm going to make people feel good about being safe in our military, and not overextended",Claim,"(28468, 28557)",Support
+there would be money and the world would be much more dangerous,Premise,"(33578, 33641)","if Iraq were to fail, it'd be a haven for terrorists",Claim,"(33520, 33572)",Support
+he could have lowered the cost of Medicare and lowered your taxes and lowered the costs to seniors,Premise,"(38694, 38792)","He made it illegal, illegal for Medicare to do what the V.A. does, which is bulk purchase drugs so that you can lower the price and get them out to you lower",Premise,"(38816, 38973)",Attack
+"One percent of America, the highest one percent of income earners in America, got $89 billion of tax cut last year",Premise,"(48986, 49100)","One percent of America got more than the 80 percent of America that earned from $100,000 down",Premise,"(49102, 49195)",Support
+"I can see why people think that he changes position quite often, because he does",Claim,"(4648, 4728)","I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics",Claim,"(4960, 5089)",Support
+They're going backwards on the definition for wetlands,Claim,"(59783, 59837)",We're going backwards,Claim,"(59562, 59583)",Support
+It encourages the use of renewables like ethanol and biodiesel,Premise,"(64742, 64804)","I proposed one to the Congress two years ago, encourages conservation, encourages technology to explore for environmentally friendly ways for coal -- to use coal and gas",Premise,"(64571, 64740)",Support
+I believe in the Patriot Act,Claim,"(69893, 69921)",what we also need to do as Americans is never let the terrorists change the Constitution of the United States in a way that disadvantages our rights,Claim,"(70035, 70183)",Attack
+if it's going to be a hospitable society,Premise,"(80971, 81011)",Culture of life is really important for a country to have,Claim,"(80913, 80970)",Support
+"He complains about the fact our troops don't have adequate equipment, yet he voted against the $87 billion supplemental I sent to the Congress",Premise,"(85708, 85850)","then issued one of the most amazing quotes in political history: ""I actually did vote for the $87 billion before I voted against it.""",Premise,"(85855, 85988)",Attack
+There is more work to be done,Claim,"(90372, 90401)",The great threat to our country is that these haters end up with weapons of mass destruction,Premise,"(90572, 90664)",Attack
+I always believed he was a threat,Premise,"(9244, 9277)",I do believe Saddam Hussein was a threat,Premise,"(9202, 9242)",Support
+Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake,Claim,"(14468, 14599)",what is he going to say to those people that show up at the summit? Join me in the wrong war at the wrong time at the wrong place,Premise,"(14286, 14415)",Attack
+"the president just arbitrarily brought the hammer down and said, ""Nope. Sorry, time for diplomacy is over. We're going.""",Premise,"(19820, 19940)",they'd be there with us,Claim,"(19791, 19814)",Attack
+"I'm going to run a foreign policy that actually does what President Reagan did, President Eisenhower did, and others",Claim,"(28567, 28683)","I'm going to make people feel good about being safe in our military, and not overextended",Claim,"(28468, 28557)",Support
+I don't think he can succeed in Iraq,Claim,"(33478, 33514)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Support
+He put $139 billion of windfall profit into the pockets of the drug companies right out of your pockets,Premise,"(38975, 39078)",he could have lowered the cost of Medicare and lowered your taxes and lowered the costs to seniors,Premise,"(38694, 38792)",Support
+The president thinks it's more important to fight for that top 1 percent than to fight for fiscal responsibility and to fight for you,Claim,"(49197, 49330)","One percent of America got more than the 80 percent of America that earned from $100,000 down",Premise,"(49102, 49195)",Attack
+"He saw the wisdom -- until the Democrat primary came along and Howard Dean, the anti-war candidate, began to gain on him, and he changed positions",Premise,"(4812, 4958)",for a while he was a strong supporter of getting rid of Saddam Hussein,Premise,"(4740, 4810)",Attack
+They're going backwards on the water quality,Claim,"(59839, 59883)",We're going backwards,Claim,"(59562, 59583)",Support
+"I proposed one to the Congress two years ago, encourages conservation, encourages technology to explore for environmentally friendly ways for coal -- to use coal and gas",Premise,"(64571, 64740)","The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",Support
+I'm against the partial-birth abortion,Claim,"(81251, 81289)",My opponent voted against the ban,Premise,"(80250, 80283)",Attack
+Saddam Hussein was a risk to our country,Claim,"(85989, 86029)",that's an excuse,Claim,"(85661, 85677)",Attack
+Believed it in 1998 when Clinton was president,Premise,"(9279, 9325)",I always believed he was a threat,Premise,"(9244, 9277)",Support
+I meet with them all the time,Premise,"(14632, 14661)",I know how these people think,Claim,"(14601, 14630)",Support
+"Ladies and gentleman, he gave you a speech and told you he'd plan carefully",Premise,"(19991, 20066)",He rushed to war without a plan to win the peace,Premise,"(19941, 19989)",Support
+"I'm going to make people feel good about being safe in our military, and not overextended",Claim,"(28468, 28557)",our military is overextended under the president,Claim,"(27886, 27934)",Attack
+you don't believe we should be there in the first place,Premise,"(33682, 33737)",I don't see how you can win in Iraq,Claim,"(33643, 33678)",Support
+He put $139 billion of windfall profit into the pockets of the drug companies right out of your pockets,Premise,"(38975, 39078)","The president sides with the power companies, the oil companies, the drug companies",Claim,"(39114, 39197)",Support
+I want to put money in your pocket,Claim,"(49332, 49366)",The president thinks it's more important to fight for that top 1 percent than to fight for fiscal responsibility and to fight for you,Claim,"(49197, 49330)",Attack
+"I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics",Claim,"(4960, 5089)","He saw the wisdom -- until the Democrat primary came along and Howard Dean, the anti-war candidate, began to gain on him, and he changed positions",Premise,"(4812, 4958)",Attack
+didn't even accept the science,Premise,"(59942, 59972)",They pulled out of the global warming,Premise,"(59885, 59922)",Support
+"I proposed one to the Congress two years ago, encourages conservation, encourages technology to explore for environmentally friendly ways for coal -- to use coal and gas",Premise,"(64571, 64740)",It's stuck in the Senate,Premise,"(45565, 45589)",Attack
+it's just not that simple,Claim,"(81211, 81236)","categorically, my opponent is against this, my opponent is against that.",Premise,"(81128, 81200)",Attack
+"Not necessarily be in power, but here's what I'll say about the $87 billion",Premise,"(86342, 86417)",Saddam would still be in power if he were the president of the United States,Claim,"(86174, 86250)",Attack
+I wanted to give Clinton the power to use force if necessary,Premise,"(9327, 9387)",Believed it in 1998 when Clinton was president,Premise,"(9279, 9325)",Support
+I talk to Tony Blair all the time,Premise,"(14663, 14696)",I know how these people think,Claim,"(14601, 14630)",Support
+take every precaution,Premise,"(20068, 20089)","Ladies and gentleman, he gave you a speech and told you he'd plan carefully",Premise,"(19991, 20066)",Support
+We're not going to go alone like this president did,Claim,"(28753, 28804)","I'm going to run a foreign policy that actually does what President Reagan did, President Eisenhower did, and others",Claim,"(28567, 28683)",Support
+I don't see how you can win in Iraq,Claim,"(33643, 33678)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Attack
+"The president sides with the power companies, the oil companies, the drug companies",Claim,"(39114, 39197)","He made it illegal, illegal for Medicare to do what the V.A. does, which is bulk purchase drugs so that you can lower the price and get them out to you lower",Premise,"(38816, 38973)",Attack
+"I have a proposal for a tax cut for all people earning less than the $200,000",Premise,"(49376, 49453)",I want to put money in your pocket,Claim,"(49332, 49366)",Support
+He just brought up the tax cut,Premise,"(5091, 5121)","You remember we increased that child credit by $1,000",Premise,"(5123, 5176)",Support
+declared it dead,Premise,"(59924, 59940)",They pulled out of the global warming,Premise,"(59885, 59922)",Support
+It's stuck in the Senate,Premise,"(45565, 45589)",He and his running-mate didn't show up to vote when they could have got it going in the Senate,Premise,"(64832, 64926)",Attack
+you've got to have an exception for the life of the mother and the health of the mother under the strictest test of bodily injury to the mother,Claim,"(81295, 81438)",I'm against the partial-birth abortion,Claim,"(81251, 81289)",Attack
+"Not necessarily be in power, but here's what I'll say about the $87 billion",Premise,"(86342, 86417)",I made a mistake in the way I talk about it,Claim,"(86419, 86462)",Attack
+I would have used that force wisely,Claim,"(9393, 9428)",I would have used that authority wisely,Claim,"(9430, 9469)",Support
+I talk to Silvio Berlusconi,Premise,"(14698, 14725)",I know how these people think,Claim,"(14601, 14630)",Support
+take our allies with us,Premise,"(20091, 20114)","Ladies and gentleman, he gave you a speech and told you he'd plan carefully",Premise,"(19991, 20066)",Support
+We're going to build alliances,Claim,"(28685, 28715)",We're not going to go unilaterally,Claim,"(28717, 28751)",Support
+you say it's the wrong war at the wrong place at the wrong time,Premise,"(33778, 33841)",I don't see how you can lead troops,Claim,"(33739, 33774)",Support
+I'm fighting to let you get those drugs from Canada,Claim,"(39203, 39254)",I'm fighting to let Medicare survive,Claim,"(39260, 39296)",Support
+The only people affected by my plan are the top income earners of America,Premise,"(49455, 49528)",I want to put money in your pocket,Claim,"(49332, 49366)",Support
+"You remember we increased that child credit by $1,000",Premise,"(5123, 5176)",reduced the marriage penalty,Premise,"(5178, 5206)",Support
+They pulled out of the global warming,Premise,"(59885, 59922)",We're going backwards,Claim,"(59562, 59583)",Support
+spread what's called health savings accounts,Claim,"(64060, 64104)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+I'm not going to require a 16-or 17-year-old kid who's been raped by her father and who's pregnant to have to notify her father,Claim,"(81489, 81616)",you got to have a judicial intervention,Claim,"(81621, 81660)",Support
+He made a mistake in invading Iraq,Claim,"(86464, 86498)",I'm fully prepared to accept any mistakes that history judges to my administration,Claim,"(84200, 84282)",Attack
+I would have used that force wisely,Claim,"(9393, 9428)",not rushed to war without a plan to win the peace,Claim,"(9471, 9520)",Attack
+I know how these people think,Claim,"(14601, 14630)",They're not going to follow an American president who says follow me into a mistake,Claim,"(14727, 14810)",Support
+He didn't,Premise,"(10866, 10875)","Ladies and gentleman, he gave you a speech and told you he'd plan carefully",Premise,"(19991, 20066)",Attack
+We're not going to go unilaterally,Claim,"(28717, 28751)",We're not going to go alone like this president did,Claim,"(28753, 28804)",Support
+I don't see how you can lead troops,Claim,"(33739, 33774)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Attack
+I'm fighting to let Medicare survive,Claim,"(39260, 39296)",I'm fighting for the middle class,Claim,"(39298, 39331)",Support
+"It was the largest stock market correction -- one of the largest in history, which foretold a recession",Premise,"(50007, 50110)",The stock market was declining six months prior to my arrival,Claim,"(49944, 50005)",Support
+reduced the marriage penalty,Premise,"(5178, 5206)",created a 10 percent tax bracket for the lower-income Americans,Premise,"(5208, 5271)",Support
+I'm going to be a president who believes in science,Claim,"(59974, 60025)",They pulled out of the global warming,Premise,"(59885, 59922)",Attack
+allow small businesses to pool together so they can share risk and buy insurance at the same discounts big businesses get to do,Claim,"(63922, 64049)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+you got to have a judicial intervention,Claim,"(81621, 81660)",He's against them,Premise,"(80339, 80356)",Attack
+I didn't want to give a slush fund to Halliburton,Premise,"(86628, 86677)",I voted the way I voted because I saw that he had the policy wrong and I wanted accountability,Claim,"(86532, 86626)",Support
+I would have used that authority wisely,Claim,"(9430, 9469)",not rushed to war without a plan to win the peace,Claim,"(9471, 9520)",Attack
+Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake,Claim,"(14468, 14599)",They're not going to follow an American president who says follow me into a mistake,Claim,"(14727, 14810)",Support
+He didn't,Premise,"(10866, 10875)",He broke his word,Claim,"(20127, 20144)",Support
+You tell Tony Blair we're going alone,Premise,"(29113, 29150)",Tell Tony Blair we're going alone,Premise,"(29152, 29185)",Support
+all they hear is that it was a mistake to be there in the first place,Premise,"(33928, 33997)",I don't see how the Iraqis are going to have confidence in the American president,Claim,"(33843, 33924)",Support
+I'm fighting to let you get those drugs from Canada,Claim,"(39203, 39254)",He did block it,Claim,"(38215, 38230)",Attack
+"we ran up the child credit by $1,000",Premise,"(50159, 50195)",Because we cut taxes on everybody the recession was one of the shortest in our nation's history,Claim,"(50112, 50146)",Support
+created a 10 percent tax bracket for the lower-income Americans,Premise,"(5208, 5271)",That's right at the middle class,Premise,"(5273, 5305)",Support
+"had we joined the Kyoto treaty, which I guess he's referring to, it would have cost America a lot of jobs",Claim,"(60062, 60167)","It's one of these deals where, in order to be popular in the halls of Europe, you sign a treaty",Premise,"(60169, 60264)",Attack
+how to control the cost of health care: medical liability reform,Claim,"(63812, 63876)","It's good for small businesses, good for owners",Claim,"(64106, 64153)",Support
+"because they didn't have a judicial intervention where she could go somewhere and get help, I voted against it",Premise,"(81666, 81776)",you got to have a judicial intervention,Claim,"(81621, 81660)",Support
+I also thought the wealthiest people in America ought to pay for it,Claim,"(86679, 86746)",He wants your kids to pay for it,Claim,"(86770, 86802)",Attack
+I would have brought our allies to our side,Claim,"(9522, 9565)",not rushed to war without a plan to win the peace,Claim,"(9471, 9520)",Attack
+They're not going to follow an American president who says follow me into a mistake,Claim,"(14727, 14810)",Risk your troops in a war you've called a mistake,Premise,"(14417, 14466)",Attack
+He didn't,Premise,"(10866, 10875)",take every precaution,Premise,"(20068, 20089)",Attack
+Tell Tony Blair we're going alone,Premise,"(29152, 29185)",Tell Silvio Berlusconi we're going alone,Premise,"(29187, 29227)",Support
+I don't see how the Iraqis are going to have confidence in the American president,Claim,"(33843, 33924)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Attack
+"If they're safe, they're coming",Claim,"(39363, 39394)",it wasn't just my administration that made the decision on safety,Claim,"(39422, 39487)",Attack
+"He lost 1.6 million, ladies and gentlemen",Premise,"(50538, 50579)","After 9/11, after the recession had ended, the president asked for another tax cut and promised 5.6 million jobs would be created",Premise,"(50407, 50536)",Attack
+That's right at the middle class,Premise,"(5273, 5305)",He voted against it,Premise,"(5307, 5326)",Attack
+"had we joined the Kyoto treaty, which I guess he's referring to, it would have cost America a lot of jobs",Claim,"(60062, 60167)",I think there's a better way to do it,Claim,"(60303, 60340)",Support
+You get a catastrophic plan to help you on it,Premise,"(64204, 64249)","This is different from saying, ""OK, let me incent you to go on the government.""",Claim,"(64251, 64330)",Attack
+you got to have a judicial intervention,Claim,"(81621, 81660)",It's never quite as simple as the president wants you to believe,Claim,"(81778, 81842)",Support
+I don't think that's a bad decision,Claim,"(86851, 86886)",I wanted us to pay for it,Claim,"(86804, 86829)",Support
+I would have fought to make certain our troops had everybody possible to help them win the mission,Claim,"(9567, 9665)",not rushed to war without a plan to win the peace,Claim,"(9471, 9520)",Attack
+We're going to make elections,Claim,"(14833, 14862)",Our plan is working,Claim,"(14812, 14831)",Support
+He didn't,Premise,"(10866, 10875)",take our allies with us,Premise,"(20091, 20114)",Attack
+Tell Silvio Berlusconi we're going alone,Premise,"(29187, 29227)",Tell Aleksander Kwasniewski of Poland we're going alone,Premise,"(29229, 29284)",Support
+"This war is a long, long war",Premise,"(33999, 34027)",it requires steadfast determination,Claim,"(34033, 34068)",Support
+President Clinton did the same thing,Premise,"(39489, 39525)",it wasn't just my administration that made the decision on safety,Claim,"(39422, 39487)",Support
+most of that tax cut went to the wealthiest people in the country,Premise,"(50585, 50650)","After 9/11, after the recession had ended, the president asked for another tax cut and promised 5.6 million jobs would be created",Premise,"(50407, 50536)",Attack
+That's right at the middle class,Premise,"(5273, 5305)",yet he tells you he's for a middle- class tax cut,Premise,"(5332, 5381)",Attack
+I just told you the facts,Claim,"(60346, 60371)",I think there's a better way to do it,Claim,"(60303, 60340)",Support
+He's talking about his plan to keep jobs here,Premise,"(64331, 64376)","This is different from saying, ""OK, let me incent you to go on the government.""",Claim,"(64251, 64330)",Support
+It's never quite as simple as the president wants you to believe,Claim,"(81778, 81842)",it's just not that simple,Claim,"(81211, 81236)",Support
+we're at war,Premise,"(46532, 46544)",I wanted us to pay for it,Claim,"(86804, 86829)",Support
+I would have brought our allies to our side,Claim,"(9522, 9565)",pushed our allies aside,Premise,"(9697, 9720)",Attack
+Iraq is going to be free,Claim,"(14868, 14892)",Our plan is working,Claim,"(14812, 14831)",Support
+"I remember sitting in the White House looking at those generals, saying, ""Do you have what you need in this war? Do you have what it takes?""",Premise,"(20175, 20315)","I remember going down to the basement of the White House the day we committed our troops as last resort, looking at Tommy Franks and the generals on the ground, asking them, ""Do we have the right plan with the right troop level?""",Premise,"(20316, 20545)",Support
+Tell Aleksander Kwasniewski of Poland we're going alone,Premise,"(29229, 29284)",There are 30 countries there,Premise,"(29286, 29314)",Support
+it requires steadfast determination,Claim,"(34033, 34068)",it requires a complete understanding that we not only chase down Al Qaida but we disrupt terrorist safe havens as well as people who could provide the terrorists with support,Claim,"(34073, 34247)",Support
+we have an obligation to protect you,Premise,"(39535, 39571)",President Clinton did the same thing,Premise,"(39489, 39525)",Support
+we wanted a tax cut to kick the economy into gear,Premise,"(50687, 50736)",He came and asked for a tax cut,Premise,"(50652, 50683)",Support
+"I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics",Claim,"(4960, 5089)",you've got to be consistent when you're the president,Claim,"(5391, 5444)",Support
+The quality of the air is cleaner since I've been the president of the United States,Claim,"(60378, 60462)",I just told you the facts,Claim,"(60346, 60371)",Support
+"It's good for small businesses, good for owners",Claim,"(64106, 64153)",You know he calls it an outsourcing to keep -- stop outsourcing,Premise,"(64378, 64441)",Attack
+that's just the way it is,Premise,"(82041, 82066)","he was given a chance to vote, and he voted no",Premise,"(81989, 82035)",Support
+I wanted us to pay for it,Claim,"(86804, 86829)",He wants your kids to pay for it,Claim,"(86770, 86802)",Attack
+not rushed to war without a plan to win the peace,Claim,"(9471, 9520)",This president rushed to war,Premise,"(9667, 9695)",Attack
+Our plan is working,Claim,"(14812, 14831)",America will be better off for it,Claim,"(14898, 14931)",Support
+"I remember going down to the basement of the White House the day we committed our troops as last resort, looking at Tommy Franks and the generals on the ground, asking them, ""Do we have the right plan with the right troop level?""",Premise,"(20316, 20545)","they looked me in the eye and said, ""Yes, sir, Mr. President.""",Premise,"(20550, 20612)",Support
+There are 30 countries there,Premise,"(29286, 29314)","It denigrates an alliance to say we're going alone, to discount their sacrifices",Claim,"(29316, 29396)",Support
+it requires a complete understanding that we not only chase down Al Qaida but we disrupt terrorist safe havens as well as people who could provide the terrorists with support,Claim,"(34073, 34247)",I don't think my opponent has got the right view about the world to make us safe,Claim,"(33366, 33446)",Attack
+"If they're safe, they're coming",Claim,"(39363, 39394)",I'm fighting to let you get those drugs from Canada,Claim,"(39203, 39254)",Attack
+Do you know what he presented us with? A $25 billion giveaway to the biggest corporations in America,Claim,"(50738, 50838)",He came and asked for a tax cut,Premise,"(50652, 50683)",Attack
+you've got to be consistent when you're the president,Claim,"(5391, 5444)",He voted against it,Premise,"(5307, 5326)",Attack
+we'll continue to spend money on research and development,Claim,"(60468, 60525)",I just told you the facts,Claim,"(60346, 60371)",Support
+"900,000 small businesses will be taxed under his plan",Claim,"(65097, 65150)",he says he's only going to tax the rich,Premise,"(65040, 65079)",Attack
+That's a vote,Premise,"(82068, 82081)","he was given a chance to vote, and he voted no",Premise,"(81989, 82035)",Support
+Which is a worse decision,Premise,"(86500, 86525)",He made a mistake in invading Iraq,Claim,"(86464, 86498)",Attack
+This president rushed to war,Premise,"(9667, 9695)","Iran now is more dangerous, and so is North Korea, with nuclear weapons",Claim,"(9726, 9797)",Support
+That was the right place,Claim,"(15074, 15098)",the right war was Osama bin Laden and Afghanistan,Claim,"(15023, 15072)",Support
+"they looked me in the eye and said, ""Yes, sir, Mr. President.""",Premise,"(20550, 20612)",I listen to our generals,Claim,"(20624, 20648)",Support
+"You cannot lead an alliance if you say, you know, you're going alone",Claim,"(29398, 29466)","It denigrates an alliance to say we're going alone, to discount their sacrifices",Claim,"(29316, 29396)",Support
+I accept what the president has said,Claim,"(34631, 34667)",the president and his experts have told America that it's not a question of if; it's a question of when,Premise,"(34522, 34625)",Support
+Show me one accomplishment toward Medicare that he accomplished,Premise,"(39651, 39714)",He's been in the United States Senate 20 years,Premise,"(39603, 39649)",Attack
+including a $254 million refund check to Enron,Premise,"(50840, 50886)",Do you know what he presented us with? A $25 billion giveaway to the biggest corporations in America,Claim,"(50738, 50838)",Support
+There's a lot of pressures,Premise,"(5446, 5472)",you've got to be firm and consistent,Claim,"(5478, 5514)",Support
+"I truly believe that's the way to get from how we live today to being able to live a standard of living that we're accustomed to and being able to protect our environment better, the use of technologies",Premise,"(60535, 60737)",we'll continue to spend money on research and development,Claim,"(60468, 60525)",Support
+"most small businesses are Subchapter S corps or limited partnerships, and they pay tax at the individual income tax level",Premise,"(65159, 65280)","900,000 small businesses will be taxed under his plan",Claim,"(65097, 65150)",Support
+It came right up,Premise,"(82083, 82099)","he was given a chance to vote, and he voted no",Premise,"(81989, 82035)",Support
+I also thought the wealthiest people in America ought to pay for it,Claim,"(86679, 86746)",I voted the way I voted because I saw that he had the policy wrong and I wanted accountability,Claim,"(86532, 86626)",Support
+pushed our allies aside,Premise,"(9697, 9720)","Iran now is more dangerous, and so is North Korea, with nuclear weapons",Claim,"(9726, 9797)",Support
+we had him cornered in the mountains,Premise,"(15139, 15175)",the right time was Tora Bora,Claim,"(15104, 15132)",Support
+That's what a president does,Claim,"(20650, 20678)",I listen to our generals,Claim,"(20624, 20648)",Support
+people listen,Premise,"(29472, 29485)",They're sacrificing with us,Premise,"(29487, 29514)",Support
+These terrorists are serious,Premise,"(34669, 34697)",I accept what the president has said,Claim,"(34631, 34667)",Support
+"I've been in Washington, D.C., three and a half years and led the Congress to reform Medicare so our seniors have got a modern health care system",Claim,"(39716, 39861)",He's been in the United States Senate 20 years,Premise,"(39603, 39649)",Attack
+You are my priority,Claim,"(50906, 50925)",Wrong priorities,Claim,"(50888, 50904)",Attack
+you've got to be firm and consistent,Claim,"(5478, 5514)",you've got to be consistent when you're the president,Claim,"(5391, 5444)",Support
+the Kyoto treaty was flawed,Claim,"(60798, 60825)","had we joined the Kyoto treaty, which I guess he's referring to, it would have cost America a lot of jobs",Claim,"(60062, 60167)",Attack
+"when you're running up the taxes like that, you're taxing job creators",Premise,"(65289, 65359)",that's not how you keep jobs here,Claim,"(65365, 65398)",Support
+It's clear for everybody to see,Premise,"(82101, 82132)","he was given a chance to vote, and he voted no",Premise,"(81989, 82035)",Support
+I wanted us to pay for it,Claim,"(86804, 86829)",I also thought the wealthiest people in America ought to pay for it,Claim,"(86679, 86746)",Support
+That's the kind of mindset that says sanctions were working,Premise,"(10275, 10334)",My opponent said that America must pass a global test before we used force to protect ourselves,Premise,"(10178, 10273)",Support
+the right time was Tora Bora,Claim,"(15104, 15132)",the right war was Osama bin Laden and Afghanistan,Claim,"(15023, 15072)",Support
+I listen to our generals,Claim,"(20624, 20648)",A president sets the strategy and relies upon good military people to execute that strategy,Claim,"(20680, 20771)",Support
+They're sacrificing with us,Premise,"(29487, 29514)","It denigrates an alliance to say we're going alone, to discount their sacrifices",Claim,"(29316, 29396)",Support
+they're deadly,Premise,"(34699, 34713)",I accept what the president has said,Claim,"(34631, 34667)",Support
+That's what leadership is all about.,Premise,"(39863, 39899)","I've been in Washington, D.C., three and a half years and led the Congress to reform Medicare so our seniors have got a modern health care system",Claim,"(39716, 39861)",Support
+Wrong priorities,Claim,"(50888, 50904)",Do you know what he presented us with? A $25 billion giveaway to the biggest corporations in America,Claim,"(50738, 50838)",Attack
+I was in Kyoto,Premise,"(60827, 60841)",I was part of that,Premise,"(60847, 60865)",Support
+"900,000 small businesses will be taxed under his plan",Claim,"(65097, 65150)",that's not how you keep jobs here,Claim,"(65365, 65398)",Attack
+"he was given a chance to vote, and he voted no",Premise,"(81989, 82035)",You can run but you can't hide the reality,Claim,"(82149, 82191)",Support
+I don't think that's a bad decision,Claim,"(86851, 86886)",I voted the way I voted because I saw that he had the policy wrong and I wanted accountability,Claim,"(86532, 86626)",Support
+"That's the kind of mindset that said, ""Let's keep it at the United Nations and hope things go well.""",Premise,"(10336, 10436)",My opponent said that America must pass a global test before we used force to protect ourselves,Premise,"(10178, 10273)",Support
+everyone in the world knows that there were no weapons of mass destruction,Claim,"(15182, 15256)",That was the reason Congress gave him the authority to use force,Claim,"(15258, 15322)",Support
+That's what a president does,Claim,"(20650, 20678)",A president sets the strategy and relies upon good military people to execute that strategy,Claim,"(20680, 20771)",Support
+"It denigrates an alliance to say we're going alone, to discount their sacrifices",Claim,"(29316, 29396)",We're not going to go alone like this president did,Claim,"(28753, 28804)",Attack
+they know nothing except trying to kill,Premise,"(34719, 34758)",I accept what the president has said,Claim,"(34631, 34667)",Support
+"in 1997 we fixed Medicare, and I was one of the people involved in it",Claim,"(39932, 40001)","I've been in Washington, D.C., three and a half years and led the Congress to reform Medicare so our seniors have got a modern health care system",Claim,"(39716, 39861)",Attack
+I have a tax cut,Claim,"(51477, 51493)",I am not going to raise taxes,Claim,"(51446, 51475)",Support
+I was part of that,Premise,"(60847, 60865)",I know what happened,Premise,"(60867, 60887)",Support
+Less regulations if we want jobs here,Claim,"(64928, 64965)","The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",Support
+You can run but you can't hide the reality,Claim,"(82149, 82191)",it's just not that simple,Claim,"(81211, 81236)",Attack
+I made a mistake in the way I talk about it,Claim,"(86419, 86462)","then issued one of the most amazing quotes in political history: ""I actually did vote for the $87 billion before I voted against it.""",Premise,"(85855, 85988)",Attack
+he could have given weapons of mass destruction to terrorist enemies,Premise,"(10473, 10541)",Saddam Hussein was a threat,Claim,"(9215, 9242)",Support
+That was the reason Congress gave him the authority to use force,Claim,"(15258, 15322)",not after excuse to get rid of the regime,Premise,"(15324, 15365)",Attack
+winning the peace is larger than just the military component,Claim,"(20885, 20945)",You rely on good military people to execute the military component of the strategy,Premise,"(20797, 20879)",Attack
+"countries are leaving the coalition, not joining",Claim,"(29555, 29603)",There are 30 countries there,Premise,"(29286, 29314)",Attack
+I accept what the president has said,Claim,"(34631, 34667)",I will never stop at anything to hunt down and kill the terrorists,Claim,"(34790, 34856)",Support
+"in 1997 we fixed Medicare, and I was one of the people involved in it",Claim,"(39932, 40001)",We not only fixed Medicare and took it way out into the future,Claim,"(40003, 40065)",Support
+to help them be able to take care of their kids,Premise,"(51571, 51618)","I raise the child-care credit by $1,000 for families",Claim,"(51518, 51570)",Support
+I know what happened,Premise,"(60867, 60887)",the Kyoto treaty was flawed,Claim,"(60798, 60825)",Support
+legal reform if we want jobs here,Claim,"(64967, 65000)","The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",Support
+Saddam Hussein was a threat,Claim,"(9215, 9242)",Sanctions were not working,Claim,"(10543, 10569)",Support
+I've always said that,Premise,"(15391, 15412)",I have been consistent,Claim,"(15414, 15436)",Support
+The military's job is to win the war,Premise,"(21060, 21096)","General Shinseki had the wisdom to say, ""You're going to need several hundred thousand troops to win the peace.""",Premise,"(20947, 21059)",Support
+Eight countries have left it,Premise,"(29605, 29633)","countries are leaving the coalition, not joining",Claim,"(29555, 29603)",Support
+the test is not if you've added money,Claim,"(34933, 34970)",you heard the president just say to you that we've added money,Premise,"(34862, 34924)",Attack
+We balanced the budget.,Claim,"(40115, 40138)",we did something that you don't know how to do,Claim,"(40067, 40113)",Attack
+"I raise the child-care credit by $1,000 for families",Claim,"(51518, 51570)",I have a tax cut,Claim,"(51477, 51493)",Support
+the Kyoto treaty was flawed,Claim,"(60798, 60825)",this president didn't try to fix it,Claim,"(60893, 60928)",Attack
+we've got to keep taxes low,Claim,"(65006, 65033)","900,000 small businesses will be taxed under his plan",Claim,"(65097, 65150)",Attack
+Sanctions were not working,Claim,"(10543, 10569)",The United Nations was not effective at removing Saddam Hussein,Claim,"(10571, 10634)",Support
+I've always said that,Premise,"(15391, 15412)",we have to succeed,Claim,"(15371, 15389)",Support
+A president's job is to win the peace,Premise,"(21098, 21135)","General Shinseki had the wisdom to say, ""You're going to need several hundred thousand troops to win the peace.""",Premise,"(20947, 21059)",Support
+"If Missouri, just given the number of people from Missouri who are in the military over there today, were a country, it would be the third largest country in the coalition, behind Great Britain and the United States",Premise,"(29635, 29850)",That's not a grand coalition,Claim,"(29852, 29880)",Support
+the test is not if you've added money,Claim,"(34933, 34970)",the test is that you've done everything possible to make America secure,Claim,"(34972, 35043)",Support
+we paid down the debt of our nation for two years in a row,Premise,"(40143, 40201)",We balanced the budget.,Claim,"(40115, 40138)",Support
+"I have a $4,000 tuition tax credit that goes to parents -- and kids, if they're earning for themselves -- to be able to pay for college",Claim,"(51620, 51755)",I have a tax cut,Claim,"(51477, 51493)",Support
+this president didn't try to fix it,Claim,"(60893, 60928)",He just declared it dead,Premise,"(60930, 60954)",Attack
+we've got to keep taxes low,Claim,"(65006, 65033)","The best way to keep jobs here in America is, one, have an energy plan",Claim,"(64499, 64569)",Support
+The United Nations was not effective at removing Saddam Hussein,Claim,"(10571, 10634)","That's the kind of mindset that said, ""Let's keep it at the United Nations and hope things go well.""",Premise,"(10336, 10436)",Attack
+we have to succeed,Claim,"(15371, 15389)",we have to succeed,Claim,"(15371, 15389)",Support
+The president did not do what was necessary,Claim,"(21137, 21180)","General Shinseki had the wisdom to say, ""You're going to need several hundred thousand troops to win the peace.""",Premise,"(20947, 21059)",Attack
+That's not a grand coalition,Claim,"(29852, 29880)",There are 30 countries there,Premise,"(29286, 29314)",Attack
+the test is that you've done everything possible to make America secure,Claim,"(34972, 35043)",He chose a tax cut for wealthy Americans over the things that I listed to you,Premise,"(35045, 35122)",Attack
+we created 23 million new jobs at the same time,Premise,"(40207, 40254)",we paid down the debt of our nation for two years in a row,Premise,"(40143, 40201)",Support
+I lower the cost of health care in the way that I described to you,Claim,"(51761, 51827)",I have a tax cut,Claim,"(51477, 51493)",Support
+this president didn't try to fix it,Claim,"(60893, 60928)",we walked away from the work of 160 nations over 10 years,Premise,"(60982, 61039)",Attack
+I've never promised that,Premise,"(65690, 65714)",You can't stop all outsourcing,Claim,"(65649, 65679)",Attack
+Sanctions were not working,Claim,"(10543, 10569)",That's the kind of mindset that says sanctions were working,Premise,"(10275, 10334)",Attack
+we have to succeed,Claim,"(15371, 15389)",I have a better plan to help us do it,Claim,"(15467, 15504)",Support
+Didn't bring in enough nation,Premise,"(21182, 21211)",The president did not do what was necessary,Claim,"(21137, 21180)",Support
+Ninety percent of the casualties are American,Premise,"(29882, 29927)",Ninety percent of the costs are coming out of your pockets,Premise,"(29929, 29987)",Support
+I'm worried,Claim,"(35232, 35243)",I'm worried.,Claim,"(35232, 35244)",Support
+We balanced the budget.,Claim,"(40115, 40138)",it's the president's fiscal policies that have driven up the biggest deficits in American history,Claim,"(40260, 40357)",Attack
+Every part of my program I've shown how I'm going to pay for it,Premise,"(51829, 51892)","I've gotten good people, like former Secretary of the Treasury Bob Rubin, for instance, who showed how to balance budgets and give you a good economy, to help me crunch these numbers and make them work",Premise,"(51898, 52099)",Support
+I will,Claim,"(5608, 5614)",The president's done nothing to try to fix it,Claim,"(61177, 61222)",Attack
+You can't stop all outsourcing,Claim,"(65649, 65679)",You know he calls it an outsourcing to keep -- stop outsourcing,Premise,"(64378, 64441)",Attack
+"The goal of the sanctions was not to remove Saddam Hussein, it was to remove the weapons of mass destruction",Claim,"(10660, 10768)",Sanctions were not working,Claim,"(10543, 10569)",Attack
+we didn't find out he didn't have weapons until we got there,Claim,"(15526, 15586)",my opponent thought he had weapons and told everybody he thought he had weapons,Premise,"(15592, 15671)",Attack
+Didn't deliver the help,Premise,"(21213, 21236)",The president did not do what was necessary,Claim,"(21137, 21180)",Support
+Ninety percent of the costs are coming out of your pockets,Premise,"(29929, 29987)",That's not a grand coalition,Claim,"(29852, 29880)",Support
+I'm worried.,Claim,"(35232, 35244)",I'm worried about our country,Claim,"(35258, 35287)",Support
+He's added more debt to the debt of the United States in four years than all the way from George Washington to Ronald Reagan put together,Premise,"(40359, 40496)",it's the president's fiscal policies that have driven up the biggest deficits in American history,Claim,"(40260, 40357)",Support
+"because the president's deficit keeps growing and I've said as a pledge, ""I'm going to cut the deficit in half in four years.""",Premise,"(52240, 52366)","I've even scaled back some of my favorite programs already, like the child-care program I wanted to fund and the national service program",Claim,"(52101, 52238)",Support
+The president's done nothing to try to fix it,Claim,"(61177, 61222)",this president didn't try to fix it,Claim,"(60893, 60928)",Support
+I'm not going to,Claim,"(47916, 47932)",I've never promised that,Premise,"(65690, 65714)",Attack
+just yesterday the Duelfer report told you and the whole world they worked,Premise,"(10790, 10864)","The goal of the sanctions was not to remove Saddam Hussein, it was to remove the weapons of mass destruction",Claim,"(10660, 10768)",Support
+my opponent thought he had weapons and told everybody he thought he had weapons,Premise,"(15592, 15671)",everyone in the world knows that there were no weapons of mass destruction,Claim,"(15182, 15256)",Attack
+Didn't close off the borders,Premise,"(21238, 21266)",The president did not do what was necessary,Claim,"(21137, 21180)",Support
+Ninety percent of the casualties are American,Premise,"(29882, 29927)",That's not a grand coalition,Claim,"(29852, 29880)",Support
+there's a vicious enemy that has an ideology of hate,Premise,"(35438, 35490)",I'm worried,Claim,"(35232, 35243)",Support
+John Edwards is the author of the Patients' Bill of Rights,Premise,"(40866, 40924)",He wanted to give people rights,Claim,"(40926, 40957)",Support
+We're going to do it like you do it,Premise,"(52456, 52491)","I'm going to restore what we did in the 1990s, ladies and gentlemen: pay as you go",Claim,"(52372, 52454)",Support
+that would be pandering,Premise,"(65742, 65765)",I'm not going to,Claim,"(47916, 47932)",Support
+just yesterday the Duelfer report told you and the whole world they worked,Premise,"(10790, 10864)",Sanctions were not working,Claim,"(10543, 10569)",Attack
+we didn't find out he didn't have weapons until we got there,Claim,"(15526, 15586)",everyone in the world knows that there were no weapons of mass destruction,Claim,"(15182, 15256)",Attack
+Didn't even guard the ammo dumps,Premise,"(21268, 21300)",The president did not do what was necessary,Claim,"(21137, 21180)",Support
+I could do a better job,Claim,"(29989, 30012)","countries are leaving the coalition, not joining",Claim,"(29555, 29603)",Attack
+that's what's happening in Afghanistan and Iraq,Premise,"(35595, 35642)",Liberty can change habits,Claim,"(35564, 35589)",Support
+John Edwards and I support tort reform,Claim,"(40959, 40997)",He wanted to give people rights,Claim,"(40926, 40957)",Support
+We're going to do it like you do it,Premise,"(52456, 52491)",The president broke the pay-as-you-go rule,Premise,"(52493, 52535)",Attack
+that's just not true what he said,Claim,"(65941, 65974)","900,000 small businesses will be taxed under his plan",Claim,"(65097, 65150)",Attack
+He didn't have weapons of mass destruction,Premise,"(10866, 10908)",That was the objective,Premise,"(10925, 10947)",Support
+it's a fundamental misunderstanding to say that the war on terror is only Osama bin Laden,Claim,"(15687, 15776)",the right war was Osama bin Laden and Afghanistan,Claim,"(15023, 15072)",Attack
+now our kids are being killed with ammos right out of that dump,Premise,"(21306, 21369)",Didn't even guard the ammo dumps,Premise,"(21268, 21300)",Support
+My plan does a better job,Claim,"(30014, 30039)",I could do a better job,Claim,"(29989, 30012)",Support
+I'm worried,Claim,"(35232, 35243)",I'm worried about our country,Claim,"(35258, 35287)",Support
+He wanted to give people rights,Claim,"(40926, 40957)",I believe that we will be able to get a fix that has alluded everybody else,Claim,"(41058, 41133)",Support
+I will not raise taxes,Claim,"(52831, 52853)","I'm giving a tax cut to the people earning less than $200,000 a year",Claim,"(52855, 52923)",Support
+That's just not right,Claim,"(66272, 66293)",that's just not true what he said,Claim,"(65941, 65974)",Support
+That was the objective,Premise,"(10925, 10947)",if we'd used smart diplomacy,Premise,"(10953, 10981)",Support
+it's a fundamental misunderstanding to say that the war on terror is only Osama bin Laden,Claim,"(15687, 15776)",The war on terror is to make sure that these terrorist organizations do not end up with weapons of mass destruction,Claim,"(15778, 15893)",Support
+I could do a better job,Claim,"(29989, 30012)",I'll be a better commander in chief,Claim,"(30056, 30091)",Support
+"the way to defeat them long-term, by the way, is to spread freedom",Claim,"(35496, 35562)",there's a vicious enemy that has an ideology of hate,Premise,"(35438, 35490)",Attack
+we know how to do it,Premise,"(41142, 41162)",I believe that we will be able to get a fix that has alluded everybody else,Claim,"(41058, 41133)",Support
+I am not going to raise taxes,Claim,"(51446, 51475)",I will not raise taxes,Claim,"(52831, 52853)",Support
+what you can do is create a fair playing field,Claim,"(65782, 65828)",I've never promised that,Premise,"(65690, 65714)",Attack
+if we'd used smart diplomacy,Premise,"(10953, 10981)",we could have saved $200 billion and an invasion of Iraq,Claim,"(10983, 11039)",Support
+The war on terror is to make sure that these terrorist organizations do not end up with weapons of mass destruction,Claim,"(15778, 15893)",That's what the war on terror is about,Claim,"(15895, 15933)",Support
+Liberty can change habits,Claim,"(35564, 35589)","the way to defeat them long-term, by the way, is to spread freedom",Claim,"(35496, 35562)",Support
+Go to johnkerry.com,Premise,"(41197, 41216)",It's in my health-care proposal,Claim,"(41164, 41195)",Support
+I have a tax cut,Claim,"(51477, 51493)","I'm giving a tax cut to the people earning less than $200,000 a year",Claim,"(52855, 52923)",Support
+The Wall Street Journal said 96 percent of small businesses are not affected at all by my plan,Premise,"(65976, 66070)",that's just not true what he said,Claim,"(65941, 65974)",Support
+we could have saved $200 billion and an invasion of Iraq,Claim,"(10983, 11039)",The United Nations was not effective at removing Saddam Hussein,Claim,"(10571, 10634)",Attack
+We've already 75 percent of his people,Premise,"(15983, 16021)",we're going to find Osama bin Laden,Claim,"(15946, 15981)",Support
+You can pull it off of the Internet,Premise,"(41218, 41253)",It's in my health-care proposal,Claim,"(41164, 41195)",Support
+"for the people earning more than $200,000 a year, you're going to see a rollback to the level we were at with Bill Clinton",Claim,"(52930, 53052)","I'm giving a tax cut to the people earning less than $200,000 a year",Claim,"(52855, 52923)",Support
+Dick Cheney's counted as a small business,Premise,"(66202, 66243)",That's how they do things,Premise,"(66245, 66270)",Support
+we could have saved $200 billion and an invasion of Iraq,Claim,"(10983, 11039)","right now, Osama bin Laden might be in jail or dead",Premise,"(11045, 11096)",Attack
+we're on the hunt for him,Premise,"(16027, 16052)",we're going to find Osama bin Laden,Claim,"(15946, 15981)",Support
+you'll find a tort reform plan,Premise,"(41259, 41289)",It's in my health-care proposal,Claim,"(41164, 41195)",Support
+people made a lot of money,Premise,"(53059, 53085)","for the people earning more than $200,000 a year, you're going to see a rollback to the level we were at with Bill Clinton",Claim,"(52930, 53052)",Support
+"you know why he gets that count? The president got $84 from a timber company that owns, and he's counted as a small business",Premise,"(66076, 66200)",Dick Cheney's counted as a small business,Premise,"(66202, 66243)",Support
+we could have saved $200 billion and an invasion of Iraq,Claim,"(10983, 11039)",That's the war against terror,Premise,"(11098, 11127)",Attack
+That's what the war on terror is about,Claim,"(15895, 15933)",this is a global conflict that requires firm resolve,Claim,"(16058, 16110)",Support
+John Edwards and I support tort reform,Claim,"(40959, 40997)",It's in my health-care proposal,Claim,"(41164, 41195)",Support
+"I'm giving a tax cut to the people earning less than $200,000 a year",Claim,"(52855, 52923)","looking around here, at this group here, I suspect there are only three people here who are going to be affected: the president, me, and, Charlie, I'm sorry, you too",Premise,"(53091, 53256)",Attack
+that's just not true what he said,Claim,"(65941, 65974)","you know why he gets that count? The president got $84 from a timber company that owns, and he's counted as a small business",Premise,"(66076, 66200)",Attack
+"Do we need to fix it, particularly for OGBYNs (sic) and for brain surgeons and others? Yes",Claim,"(41445, 41535)",it's a problem,Claim,"(41429, 41443)",Attack
+He's just not credible,Claim,"(53310, 53332)",He's just not credible when he talks about being fiscally conservative,Claim,"(53310, 53380)",Support
+That's just not right,Claim,"(66272, 66293)","you know why he gets that count? The president got $84 from a timber company that owns, and he's counted as a small business",Premise,"(66076, 66200)",Attack
+it's less than 1 percent of the total cost of health care,Premise,"(41541, 41598)",the president and his friends try to make a big deal out of it,Claim,"(41343, 41405)",Attack
+He's just not credible when he talks about being fiscally conservative,Claim,"(53310, 53380)",I will not raise taxes,Claim,"(52831, 52853)",Attack
+They just are,Claim,"(66439, 66452)",Most small businesses are Subchapter S corps,Claim,"(66393, 66437)",Support
+Your premiums are going up,Premise,"(41600, 41626)","You've gone up, in Missouri, about $3,500",Premise,"(41628, 41669)",Support
+"here he says he's going to be a fiscal conservative, all of a sudden",Premise,"(53518, 53586)","If you look at his record in the Senate, he voted to break the caps -- the spending caps -- over 200 times",Premise,"(53406, 53512)",Attack
+"I met Grant Milliron, Mansfield, Ohio",Premise,"(66454, 66491)",He's creating jobs,Premise,"(66493, 66511)",Support
+"You've gone up, in Missouri, about $3,500",Premise,"(41628, 41669)",You've gone up 64 percent,Premise,"(41671, 41696)",Support
+He's just not credible,Claim,"(53310, 53332)","If you look at his record in the Senate, he voted to break the caps -- the spending caps -- over 200 times",Premise,"(53406, 53512)",Attack
+He's creating jobs,Premise,"(66493, 66511)",70 percent of the new jobs in America are created by small businesses,Premise,"(66538, 66607)",Support
+You've gone up 64 percent,Premise,"(41671, 41696)","You've seen co-pays go up, deductibles go up",Premise,"(41698, 41742)",Support
+It's just not credible,Claim,"(53588, 53610)",He's just not credible,Claim,"(53310, 53332)",Support
+70 percent of the new jobs in America are created by small businesses,Premise,"(66538, 66607)",Most small businesses are Subchapter S corps,Claim,"(66393, 66437)",Support
+"You've seen co-pays go up, deductibles go up",Premise,"(41698, 41742)",Everything's gone up,Claim,"(41744, 41764)",Support
+he's going to raise your taxes,Claim,"(53649, 53679)",I will not raise taxes,Claim,"(52831, 52853)",Attack
+70 percent of the new jobs in America are created by small businesses,Premise,"(66538, 66607)",Taxes are going up when you run up the top two brackets,Claim,"(66609, 66664)",Support
+Five million people have lost their health insurance under this president,Premise,"(41766, 41839)",Everything's gone up,Claim,"(41744, 41764)",Support
+he's proposed $2.2 trillion of new spending,Premise,"(53690, 53733)",he's going to raise your taxes,Claim,"(53649, 53679)",Support
+It's a fact,Claim,"(66666, 66677)",Taxes are going up when you run up the top two brackets,Claim,"(66609, 66664)",Support
+Five million people have lost their health insurance under this president,Premise,"(41766, 41839)",He's done nothing about it,Premise,"(41841, 41867)",Attack
+You cannot believe it,Claim,"(53612, 53633)",It's just not credible,Claim,"(53588, 53610)",Support
+Everything's gone up,Claim,"(41744, 41764)",He's done nothing about it,Premise,"(41841, 41867)",Attack
+"That raises, he says $800 billion; we say $600 billion",Premise,"(53892, 53946)","He says, well, he's going to raise the taxes on the rich -- that's what he said -- the top two brackets",Premise,"(53787, 53890)",Attack
+I have a plan,Claim,"(3613, 3626)",He's done nothing about it,Premise,"(41841, 41867)",Attack
+We've got battling green eye shades,Premise,"(53948, 53983)","That raises, he says $800 billion; we say $600 billion",Premise,"(53892, 53946)",Support
+I have a plan to lower the cost of health care for you,Claim,"(41884, 41938)",I have a plan,Claim,"(3613, 3626)",Support
+"He says, well, he's going to raise the taxes on the rich -- that's what he said -- the top two brackets",Premise,"(53787, 53890)",he's going to raise your taxes,Claim,"(53649, 53679)",Support
+I have a plan to cover all children,Claim,"(41940, 41975)",I have a plan,Claim,"(3613, 3626)",Support
+Somewhere in between those numbers,Premise,"(53985, 54019)",We've got battling green eye shades,Premise,"(53948, 53983)",Support
+I have a plan to let you buy into the same health care senators and congressmen give themselves,Claim,"(41977, 42072)",I have a plan,Claim,"(3613, 3626)",Support
+"there's a difference, what he's promised and what he can raise",Claim,"(54030, 54092)",Somewhere in between those numbers,Premise,"(53985, 54019)",Attack
+I have a plan that's going to allow people 55 to 64 to buy into Medicare early,Claim,"(42074, 42152)",I have a plan,Claim,"(3613, 3626)",Support
+given his record,Premise,"(54220, 54236)",he's going to raise taxes,Claim,"(54178, 54203)",Support
+"I have a plan that will take the catastrophic cases out of the system, off your backs",Claim,"(42158, 42243)",I have a plan,Claim,"(3613, 3626)",Support
+he's going to raise taxes,Claim,"(54178, 54203)",either he's going to break all these wonderful promises he's told you about or he's going to raise taxes,Claim,"(54099, 54203)",Support
+pay for it out of a federal fund,Claim,"(42245, 42277)","I have a plan that will take the catastrophic cases out of the system, off your backs",Claim,"(42158, 42243)",Support
+either he's going to break all these wonderful promises he's told you about or he's going to raise taxes,Claim,"(54099, 54203)",he's going to raise your taxes,Claim,"(53649, 53679)",Support
+which lowers the premiums for everybody in America,Claim,"(42279, 42329)",pay for it out of a federal fund,Claim,"(42245, 42277)",Support
+is have an energy plan,Claim,"(54442, 54464)",I think that the way to grow this economy is to keep taxes low,Claim,"(54378, 54440)",Support
+which lowers the premiums for everybody in America,Claim,"(42279, 42329)",makes American business more competitive,Claim,"(42331, 42371)",Support
+is to have litigation reform,Claim,"(54466, 54494)",I think that the way to grow this economy is to keep taxes low,Claim,"(54378, 54440)",Support
+makes American business more competitive,Claim,"(42331, 42371)",makes health care more affordable,Claim,"(42376, 42409)",Support
+We're growing,Premise,"(54606, 54619)","we've just got a report that said over the past 13 months, we've created 1.9 million new jobs",Premise,"(54511, 54604)",Support
+makes health care more affordable,Claim,"(42376, 42409)",I have a plan,Claim,"(3613, 3626)",Support
+"we've just got a report that said over the past 13 months, we've created 1.9 million new jobs",Premise,"(54511, 54604)",the fundamental question of this campaign is: Who's going to keep the economy growing so people can work?,Claim,"(54628, 54733)",Support
+all of that can happen,Claim,"(42416, 42438)","Join me in rolling back the president's unaffordable tax cut for people earning more than $200,000 a year",Premise,"(42479, 42584)",Attack
+I think that the way to grow this economy is to keep taxes low,Claim,"(54378, 54440)",the fundamental question of this campaign is: Who's going to keep the economy growing so people can work?,Claim,"(54628, 54733)",Support
+I have a plan,Claim,"(3613, 3626)",all of that can happen,Claim,"(42416, 42438)",Support
+That's the fundamental question,Claim,"(54734, 54765)",the fundamental question of this campaign is: Who's going to keep the economy growing so people can work?,Claim,"(54628, 54733)",Support
+I'm giving you health care,Claim,"(42660, 42686)","Ninety-eight percent of America, I'm giving you a tax cut",Claim,"(42598, 42655)",Support
+the president's figures of $2.2 trillion just aren't accurate,Claim,"(54952, 55013)",he's proposed $2.2 trillion of new spending,Premise,"(53690, 53733)",Attack
+"Ninety-eight percent of America, I'm giving you a tax cut",Claim,"(42598, 42655)",all of that can happen,Claim,"(42416, 42438)",Support
+Those are the fuzzy math figures put together by some group that works for the campaign,Premise,"(55015, 55102)",the president's figures of $2.2 trillion just aren't accurate,Claim,"(54952, 55013)",Support
+that's saying something in that bunch,Premise,"(42857, 42894)",the National Journal named Senator Kennedy the most liberal senator of all,Premise,"(42777, 42851)",Support
+the president's figures of $2.2 trillion just aren't accurate,Claim,"(54952, 55013)",That's not the number,Claim,"(55104, 55125)",Attack
+he's proposed $2.2 trillion in new spending,Premise,"(42978, 43021)",he says he going to tax the rich to close the tax gap,Premise,"(43027, 43080)",Support
+"John McCain and I have a proposal, jointly, for a commission that closes corporate giveaway loopholes",Claim,"(55139, 55240)",We've got $40 billion going to Bermuda,Premise,"(55242, 55280)",Attack
+He can't,Claim,"(8643, 8651)",he says he going to tax the rich to close the tax gap,Premise,"(43027, 43080)",Attack
+"John McCain and I have a proposal, jointly, for a commission that closes corporate giveaway loopholes",Claim,"(55139, 55240)",We've got all kinds of giveaways,Premise,"(55282, 55314)",Attack
+That's just reality,Premise,"(43147, 43166)",He's going to tax everybody here to fund his programs,Claim,"(43092, 43145)",Support
+We ought to be shutting those down,Claim,"(55316, 55350)","John McCain and I have a proposal, jointly, for a commission that closes corporate giveaway loopholes",Claim,"(55139, 55240)",Support
+He's going to tax everybody here to fund his programs,Claim,"(43092, 43145)","Ninety-eight percent of America, I'm giving you a tax cut",Claim,"(42598, 42655)",Attack
+I voted for the balanced budget in '93 and '97,Premise,"(55468, 55514)","Ladies and gentlemen, in 1985, I was one of the first Democrats to move to balance the budget",Claim,"(55373, 55466)",Support
+if he's so much for it,Premise,"(43377, 43399)",There's a bill on the floor of the United States Senate that he could have showed up and voted for,Claim,"(43278, 43376)",Support
+We did it,Premise,"(55516, 55525)",We did it,Claim,"(55516, 55525)",Support
+There's a bill on the floor of the United States Senate that he could have showed up and voted for,Claim,"(43278, 43376)","he says he's for medical liability reform, particularly for OB/GYNs",Premise,"(43209, 43276)",Attack
+"Ladies and gentlemen, in 1985, I was one of the first Democrats to move to balance the budget",Claim,"(55373, 55466)",We did it,Claim,"(55516, 55525)",Support
+That shows a lack of understanding,Claim,"(43481, 43515)",he says that medical liability costs only cause a 1 percent increase,Premise,"(43411, 43479)",Attack
+I was there,Premise,"(55542, 55553)",We did it,Claim,"(55516, 55525)",Support
+Doctors practice defensive medicine because of all the frivolous lawsuits that cost our government $28 billion a year,Premise,"(43517, 43634)",That shows a lack of understanding,Claim,"(43481, 43515)",Support
+"Ladies and gentlemen, in 1985, I was one of the first Democrats to move to balance the budget",Claim,"(55373, 55466)",It's just not credible,Claim,"(53588, 53610)",Attack
+It's the largest increase in federal government health care ever,Premise,"(43766, 43830)",he said he's going to have a novel health care plan,Premise,"(43649, 43700)",Attack
+It's been there for 20 years,Premise,"(55659, 55687)",he's got a record,Claim,"(55640, 55657)",Support
+he said he's going to have a novel health care plan,Premise,"(43649, 43700)",The federal government is going to run it,Claim,"(43723, 43764)",Support
+he's got a record,Claim,"(55640, 55657)",He voted 98 times to raise taxes,Premise,"(55722, 55754)",Attack
+he said he's going to have a novel health care plan,Premise,"(43649, 43700)",It's the largest increase in federal government health care ever,Premise,"(43766, 43830)",Attack
+these aren't make-up figures,Premise,"(55764, 55792)",He voted 98 times to raise taxes,Premise,"(55722, 55754)",Support
+it fits with his philosophy,Premise,"(43836, 43863)",That's what liberals do,Claim,"(43937, 43960)",Support
+"You can run, but you can't hide",Claim,"(55689, 55720)",He voted 98 times to raise taxes,Premise,"(55722, 55754)",Attack
+That's what liberals do,Claim,"(43937, 43960)",They create government-sponsored health care,Claim,"(43962, 44006)",Support
+he's got a record,Claim,"(55640, 55657)",people are going to have to look at the record,Claim,"(55801, 55847)",Support
+I don't,Claim,"(4960, 4967)",They create government-sponsored health care,Claim,"(43962, 44006)",Attack
+people are going to have to look at the record,Claim,"(55801, 55847)",Look at the record of the man running for the president,Claim,"(55849, 55904)",Support
+I don't,Claim,"(4960, 4967)",Government-sponsored health care would lead to rationing,Premise,"(44051, 44107)",Attack
+They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings,Claim,"(55906, 56014)",Look at the record of the man running for the president,Claim,"(55849, 55904)",Attack
+They create government-sponsored health care,Claim,"(43962, 44006)",Government-sponsored health care would lead to rationing,Premise,"(44051, 44107)",Support
+it's reality,Claim,"(56057, 56069)",They named him because of his votes,Claim,"(56016, 56051)",Support
+I don't,Claim,"(4960, 4967)",It would ruin the quality of health care in America,Premise,"(44109, 44160)",Attack
+They named him because of his votes,Claim,"(56016, 56051)",They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings,Claim,"(55906, 56014)",Support
+Government-sponsored health care would lead to rationing,Premise,"(44051, 44107)",It would ruin the quality of health care in America,Premise,"(44109, 44160)",Support
+They don't name him the most liberal in the United States Senate because he hasn't shown up to many meetings,Claim,"(55906, 56014)",It's just not credible to say he's going to keep taxes down and balance budgets,Claim,"(56071, 56150)",Support
+the president is just trying to scare everybody here with throwing labels around,Claim,"(44601, 44681)",the National Journal named Senator Kennedy the most liberal senator of all,Premise,"(42777, 42851)",Attack
+It's just not credible to say he's going to keep taxes down and balance budgets,Claim,"(56071, 56150)","Ladies and gentlemen, in 1985, I was one of the first Democrats to move to balance the budget",Claim,"(55373, 55466)",Attack
+the president is just trying to scare everybody here with throwing labels around,Claim,"(44601, 44681)",labels don't mean anything,Claim,"(44943, 44969)",Support
+labels don't mean anything,Claim,"(44943, 44969)","I mean, ""compassionate conservative,"" what does that mean?",Premise,"(44683, 44741)",Attack
+"Mr. President, you're batting 0 for 2.",Claim,"(44883, 44921)","Cutting 500,000 kids from after-school programs",Premise,"(44742, 44789)",Attack
+"Mr. President, you're batting 0 for 2.",Claim,"(44883, 44921)","cutting 365,000 kids from health care",Premise,"(44791, 44828)",Attack
+"Mr. President, you're batting 0 for 2.",Claim,"(44883, 44921)",running up the biggest deficits in American history,Premise,"(44830, 44881)",Attack
+labels don't mean anything,Claim,"(44943, 44969)",What means something is: Do you have a plan?,Claim,"(44971, 45015)",Support
+what does matter is a plan,Claim,"(45173, 45199)",What means something is: Do you have a plan?,Claim,"(44971, 45015)",Support
+That's odd,Premise,"(45262, 45272)",He said he's for -- you're now for capping punitive damages?,Premise,"(45201, 45261)",Attack
+That's odd,Premise,"(45262, 45272)",You should have shown up on the floor in the Senate and voted for it then,Premise,"(45274, 45347)",Attack
+"Medical liability issues are a problem, a significant problem",Premise,"(45349, 45410)",He's been in the United States Senate for 20 years and he hasn't addressed it,Premise,"(45412, 45489)",Attack
+the trial lawyers won't act on it,Premise,"(45599, 45632)",It's stuck in the Senate,Claim,"(45565, 45589)",Support
+We passed it out of the House of Representatives,Premise,"(45491, 45539)",It's stuck in the Senate,Claim,"(45565, 45589)",Attack
+It's stuck in the Senate,Claim,"(45565, 45589)",he put a trial lawyer on the ticket,Premise,"(45638, 45673)",Attack
+the trial lawyers won't act on it,Premise,"(45599, 45632)",he put a trial lawyer on the ticket,Premise,"(45638, 45673)",Support
