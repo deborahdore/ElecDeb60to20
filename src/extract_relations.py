@@ -11,10 +11,9 @@ Output directory: data/relations/
 
 import logging
 import os
-import tempfile
+import re
 
 import pandas as pd
-from brat_parser import get_entities_relations_attributes_groups
 
 logging.basicConfig(
     level=logging.INFO,
@@ -40,31 +39,49 @@ def parse_ann_file(ann_path: str) -> list[dict]:
         obj_span    – character span tuple of the object
         relation    – relation type label
     """
-    # brat_parser chokes on '*' equivalence-group lines (e.g. "* Equivalent T1 T2"),
-    # which have 4 whitespace-separated tokens instead of the 3 it expects.
-    # Strip those lines into a temporary file before parsing.
+    entities: dict[str, dict] = {}
+    raw_relations: list[tuple[str, str, str]] = []  # (rel_type, subj_id, obj_id)
+
     with open(ann_path) as f:
-        clean_lines = [l for l in f if not l.startswith("*")]
+        for line in f:
+            line = line.rstrip("\n")
+            if not line or line.startswith("*") or line.startswith("#"):
+                continue
 
-    with tempfile.NamedTemporaryFile(mode="w", suffix=".ann", delete=False) as tmp:
-        tmp.writelines(clean_lines)
-        tmp_path = tmp.name
+            parts = line.split("\t", 2)
+            if len(parts) < 2:
+                continue
 
-    try:
-        entities, relations, _, _ = get_entities_relations_attributes_groups(tmp_path)
-    finally:
-        os.unlink(tmp_path)
+            ann_id, rest = parts[0], parts[1]
+
+            # Entity line: T1   Claim 1375 1537   text...
+            if ann_id.startswith("T"):
+                m = re.match(r"(\S+)\s+(\d+)\s+(\d+)", rest)
+                if m:
+                    etype = m.group(1)
+                    start, end = int(m.group(2)), int(m.group(3))
+                    text = parts[2] if len(parts) == 3 else ""
+                    entities[ann_id] = {"type": etype, "span": (start, end), "text": text}
+
+            # Relation line: R1   Support Arg1:T1 Arg2:T43
+            elif ann_id.startswith("R"):
+                tokens = rest.split()
+                if len(tokens) >= 3:
+                    rel_type = tokens[0]
+                    arg1 = arg2 = None
+                    for tok in tokens[1:]:
+                        if tok.startswith("Arg1:"):
+                            arg1 = tok[5:]
+                        elif tok.startswith("Arg2:"):
+                            arg2 = tok[5:]
+                    if arg1 and arg2:
+                        raw_relations.append((rel_type, arg1, arg2))
 
     # Build a quick-lookup dict keyed by entity id
-    components: dict[str, dict] = {
-        eid: {"text": e.text, "type": e.type, "span": e.span}
-        for eid, e in entities.items()
-    }
+    components: dict[str, dict] = entities
 
     rows = []
-    for _, relation in relations.items():
-        subj_id = relation.subj
-        obj_id = relation.obj
+    for rel_type, subj_id, obj_id in raw_relations:
 
         # Skip any relation whose endpoints are not present in the entity index
         if subj_id not in components:
@@ -81,7 +98,7 @@ def parse_ann_file(ann_path: str) -> list[dict]:
             "obj": components[obj_id]["text"],
             "obj_type": components[obj_id]["type"],
             "obj_span": components[obj_id]["span"],
-            "relation": relation.type,
+            "relation": rel_type,
         })
 
     return rows
@@ -99,15 +116,16 @@ def process_all(ann_dir: str, out_dir: str) -> None:
 
     logger.info("Found %d .ann file(s) in %s", len(ann_files), ann_dir)
 
-    out_path = os.path.join(out_dir, f"{ann_dir.split('/')[-1]}_{ann_dir.split('/')[-2]}.csv")
+    out_path = os.path.join(out_dir, f"{os.path.basename(ann_dir)}.csv")
     ok = skipped = 0
     rows = []
     for filename in sorted(ann_files):
         ann_path = os.path.join(ann_dir, filename)
 
         try:
-            rows.append(parse_ann_file(ann_path))
-            logger.info("  ✓  %s  →  %s  (%d relation(s))", filename, out_path, len(rows))
+            file_rows = parse_ann_file(ann_path)
+            rows.extend(file_rows)
+            logger.info("  ✓  %s  →  %s  (%d relation(s))", filename, out_path, len(file_rows))
             ok += 1
         except Exception as exc:  # noqa: BLE001
             logger.error("  ✗  %s  –  %s", filename, exc)
@@ -118,7 +136,4 @@ def process_all(ann_dir: str, out_dir: str) -> None:
 
 
 if __name__ == "__main__":
-    years = [folder for folder in os.listdir(ANN_DIR) if os.path.isdir(os.path.join(ANN_DIR, folder))]
-    for year in years:
-        for number in os.listdir(os.path.join(ANN_DIR, year)):
-            process_all(os.path.join(ANN_DIR, str(year), str(number)), OUT_DIR)
+    process_all(ANN_DIR, OUT_DIR)
