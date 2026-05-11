@@ -44,13 +44,13 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2016,"Typical politician. All talk, no action.",Ad Hominem,TRUMP,26 9 2016,T289,27851 27870,"All talk, no action",41_2016
 2016,"First, maybe he's not as rich as he says he is.",Ad Hominem,CLINTON,26 9 2016,T325,32264 32303,maybe he’s not as rich as he says he is,41_2016
 2016,"Second, maybe he's not as charitable as he claims to be.Third",Ad Hominem,CLINTON,26 9 2016,T326,32313 32360,maybe he’s not as charitable as he claims to be,41_2016
-2016,"The biggest complaint they have—it's with all of the problems going on in the world, many of the problems caused by Hillary Clinton and by Barack Obama .",Ad Hominem,CLINTON,19 10 2016,,"","",""
+2016,"The biggest complaint they have—it's with all of the problems going on in the world, many of the problems caused by Hillary Clinton and by Barack Obama .",Ad Hominem,CLINTON,19 10 2016,,,,
 1980,"It seems to totally belie the claim that I heard President Carter make a few days ago, that he was the first President that had come forth with a real urban strategy to meet the problems of urban America.",Ad Hominem,ANDERSON,21 9 1980,T195,29912 30115,"It seems to totally belie the claim that I heard President Carter make a few days ago, that he was the first President that had come forth with a real urban strategy to meet the problems of urban America",8_1980
 1996,It seems to me that you have a selective memory.,Ad Hominem,DOLE,6 10 1996,T296,24650 24677,you have a selective memory,22_1996
 2016,Bernie Sanders said that Hillary Clinton has very bad judgment.,Ad Hominem,TRUMP,9 10 2016,T223,30726 30788,Bernie Sanders said that Hillary Clinton has very bad judgment,42_2016
 1976,Mr. Ford is - is uh changing uh considerably his previous philosophy.,Ad Hominem,CARTER,23 9 1976,T202,12130 12198,Mr. Ford is - is uh changing uh considerably his previous philosophy,5_1976
 2008,"one of the greatest frauds in voter history in this country, maybe destroying the fabric of democracy",Ad Hominem,MCCAIN,15 10 2008,T309,34933 35080,"who is now on the verge of maybe perpetrating one of the greatest frauds in voter history in this country, maybe destroying the fabric of democracy",36_2008
-2016,Donald thinks belittling women makes him bigger .,Ad Hominem,TRUMP,19 10 2016,,"","",""
+2016,Donald thinks belittling women makes him bigger .,Ad Hominem,TRUMP,19 10 2016,,,,
 2000,It's a scaring -- he's trying to scare people in the voting booth.,Ad Hominem,BUSH,3 10 2000,T347,15823 15870,he's trying to scare people in the voting booth,25_2000
 2004,I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war. And he has.,Ad Hominem,BUSH,30 9 2004,T477,37846 37963,I think what is misleading is to say you can lead and succeed in Iraq if you keep changing your positions on this war,29_2004
 1976,"Senator Mondale made a very derogatory, very personal comment about General Brown uh - after the news story that uh - broke about General Brown.",Ad Hominem,FORD,22 10 1976,T486,27131 27328,"I was uh - very, very surprised when I read that uh - Senator Mondale made a very derogatory, very personal comment about General Brown uh - after the news story that uh - broke about General Brown",7_1976
@@ -61,26 +61,26 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2000,"For those of you who he wants to scare into the voting booth to vote for him, hear me loud and clear.",Ad Hominem,BUSH,3 10 2000,T154,74359 74459,"For those of you who he wants to scare into the voting booth to vote for him, hear me loud and clear",25_2000
 1992,Bill Clinton has trouble telling the truth.,Ad Hominem,QUAYLE,13 10 1992,T319,33813 33855,Bill Clinton has trouble telling the truth,18_1992
 1992,"And he will have a very difficult time dealing with somebody like President Yeltsin or Chancellor Kohl or Prime Minister Major or President Mitterrand, because truth and integrity are prerequisites to being president of the US.",Ad Hominem,QUAYLE,13 10 1992,T320,33861 34007,he will have a very difficult time dealing with somebody like President Yeltsin or Chancellor Kohl or Prime Minister Major or President Mitterrand,18_1992
-2020,He has the ability to lock himself up.,Ad Hominem,TRUMP,22 10 2020,,"","",""
-2020,he has this thing about living in a basement.,Ad Hominem,TRUMP,22 10 2020,,"","",""
-2020,you’re the one that takes the money from Wall Street,Ad Hominem,TRUMP,22 10 2020,,"","",""
-2020,while he was selling pillows and sheets,Ad Hominem,TRUMP,22 10 2020,,"","",""
+2020,He has the ability to lock himself up.,Ad Hominem,TRUMP,22 10 2020,,10139 10177,He has the ability to lock himself up.,46_2020
+2020,he has this thing about living in a basement.,Ad Hominem,TRUMP,22 10 2020,,10178 10288,"I don't know, he's obviously made a lot of money, someplace, but he has this thing about living in a basement.",46_2020
+2020,you’re the one that takes the money from Wall Street,Ad Hominem,TRUMP,22 10 2020,,23551 23620,"Because you're the one that takes the money from Wall Street, not me.",46_2020
+2020,while he was selling pillows and sheets,Ad Hominem,TRUMP,22 10 2020,,27847 27931,I sold -- while he was selling pillows and sheets -- I sold tank busters to Ukraine.,46_2020
 2020,100% dishonest,Ad Hominem,,22 10 2020,T88,35555 35577,That's 100% dishonest.,46_2020
 2020,you did a poor job,Ad Hominem,TRUMP,22 10 2020,T249,77531 77549,you did a poor job,46_2020
-2020,This guy has a dog whistle about as big as a fog horn,Ad Hominem,,22 10 2020,,"","",""
-2020,you’re all talk and no action,Ad Hominem,,22 10 2020,,"","",""
+2020,This guy has a dog whistle about as big as a fog horn,Ad Hominem,,22 10 2020,,81801 81855,This guy has a dog whistle about as big as a fog horn.,46_2020
+2020,you’re all talk and no action,Ad Hominem,,22 10 2020,,84329 84416,"Now, you're saying you're gonna get it done because you're all talk and no action, Joe.",46_2020
 2020,I’m not sure he knows what it represents or means,Ad Hominem,TRUMP,22 10 2020,T334,38111 38118,I'm not,31_2004
-2020,he’s flat lying,Ad Hominem,,22 10 2020,,"","",""
+2020,he’s flat lying,Ad Hominem,,22 10 2020,,93359 93401,The fact of the matter is he's flat lying.,46_2020
 2020,he doesn’t know how to do that,Ad Hominem,,29 9 2020,T306,41920 41930,he doesn't,42_2016
-2020,this man doesn’t know what he’s talking about.,Ad Hominem,,29 9 2020,,"","",""
+2020,this man doesn’t know what he’s talking about.,Ad Hominem,,29 9 2020,,17141 17203,And the fact is this man doesn't know what he's talking about.,44_2020
 2020,You should get out of your bunker and get out of the sand trap in your golf course,Ad Hominem,BIDEN,29 9 2020,T97,21416 21449,You should get out of your bunker,44_2020
 2020,You don’t have it in your blood,Ad Hominem,TRUMP,29 9 2020,T344,17140 17146,You do,38_2012
-2020,You graduated either the lowest or almost the lowest in your class.,Ad Hominem,TRUMP,29 9 2020,,"","",""
-2020,There’s nothing smart about you,Ad Hominem,TRUMP,29 9 2020,,"","",""
-2020,You can’t even say the word law enforcement.,Ad Hominem,TRUMP,29 9 2020,,"","",""
+2020,You graduated either the lowest or almost the lowest in your class.,Ad Hominem,TRUMP,29 9 2020,,29808 29875,You graduated either the lowest or almost the lowest in your class.,44_2020
+2020,There’s nothing smart about you,Ad Hominem,TRUMP,29 9 2020,,29969 30036,"Because you know what? There's nothing smart about you, Joe.",44_2020
+2020,You can’t even say the word law enforcement.,Ad Hominem,TRUMP,29 9 2020,,60578 60668,You can't even say the word law enforcement.,44_2020
 2020,He wouldn’t know a suburb unless you took a wrong turn.,Ad Hominem,BIDEN,29 9 2020,T338,68810 68865,He wouldn't know a suburb unless you took a wrong turn.,44_2020
-2020,He has no idea what he’s talking about,Ad Hominem,BIDEN,29 9 2020,,"","",""
-2020,"plagiarism, which is something Joe Biden knows a little bit about.",Ad Hominem,PENCE,7 10 2020,,"","",""
+2020,He has no idea what he’s talking about,Ad Hominem,BIDEN,29 9 2020,,108450 108496,He has no idea what he's talking about.,44_2020
+2020,"plagiarism, which is something Joe Biden knows a little bit about.",Ad Hominem,PENCE,7 10 2020,,6941 7160,"And quite frankly, when I look at their plan that talks about advancing testing, creating new PPE, developing a vaccine, umm, it looks a little bit like plagiarism, which is something Joe Biden knows a little bit about.",45_2020
 2020,"you’ve had 308,000 military people dying because you couldn’t provide them proper healthcare in the military",Ad Hominem,TRUMP,29 9 2020,T26,8044 8084,"you've had 308,000 military people dying",44_2020
 1992,If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races,Ad Hominem,CLINTON,15 10 1992,T743,2289 2556,"If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair figh",21_1992
 1980,He wants to put all our eggs in one basket and give that basket to the major oil companies.,Ad Hominem,CARTER,28 10 1980,T380,58826 58916,He wants to put all our eggs in one basket and give that basket to the major oil companies,9_1980
@@ -153,29 +153,29 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2020,buddy,Ad Hominem,BIDEN,22 10 2020,T529,57344 57392,"my old buddy, Joe, Joe the plumber, is out there",36_2008
 2020,Russian pawn,Ad Hominem,BIDEN,22 10 2020,T53,25776 25810,He's being used as a Russian pawn.,46_2020
 2020,big man,Ad Hominem,TRUMP,22 10 2020,T65,31117 31145,"You're the big man, I think.",46_2020
-2020,vacuum cleaner,Ad Hominem,TRUMP,22 10 2020,,"","",""
+2020,vacuum cleaner,Ad Hominem,TRUMP,22 10 2020,,36971 37134,"He is the Vice President of the United States, and his son, his brother and his other brother are getting rich, they're like a vacuum cleaner, there's something --",46_2020
 2020,thugs,Ad Hominem,BIDEN,22 10 2020,T556,46621 46711,in this case we can't enhance the penalty any more than putting those three thugs to death,27_2000
-2020,super predators,Ad Hominem,TRUMP,22 10 2020,,"","",""
+2020,super predators,Ad Hominem,TRUMP,22 10 2020,,73546 73604,"And they were called, and he called them, super predators.",46_2020
 2020,baby,Ad Hominem,TRUMP,22 10 2020,T659,39429 39489,"we lost a baby, lived about twenty minutes after it was born",15_1988
-2020,laptop from hell,Ad Hominem,,22 10 2020,,"","",""
+2020,laptop from hell,Ad Hominem,,22 10 2020,,78725 78758,It's the laptop from hell.,46_2020
 2020,old buddy,Ad Hominem,,29 9 2020,T529,57344 57392,"my old buddy, Joe, Joe the plumber, is out there",36_2008
 2020,liar,Ad Hominem,,29 9 2020,T55,14090 14118,Everybody knows he's a liar.,44_2020
 2020,liar,Ad Hominem,TRUMP,29 9 2020,T55,14090 14118,Everybody knows he's a liar.,44_2020
 2020,disaster,Ad Hominem,TRUMP,29 9 2020,T7,8385 8408,it was a total disaster,46_2020
 2020,irresponsible,Ad Hominem,BIDEN,29 9 2020,T169,36591 36736,"He's been totally irresponsible the way in which he has handled the social distancing and people wearing masks, basically encouraged them not to.",44_2020
-2020,clown,Ad Hominem,BIDEN,29 9 2020,,"","",""
+2020,clown,Ad Hominem,BIDEN,29 9 2020,,54195 54253,"Well, it's hard to get any word in with this clown.",44_2020
 2020,racist,Ad Hominem,,29 9 2020,T17,13271 13304,"I think he called me racist, even",46_2020
 2020,Putin’s puppy,Ad Hominem,BIDEN,29 9 2020,T390,79899 79918,He's Putin's puppy.,44_2020
-2020,old slugs,Ad Hominem,TRUMP,29 9 2020,,"","",""
+2020,old slugs,Ad Hominem,TRUMP,29 9 2020,,86599 86657,"We have the old slugs out there that are 10, 12 years old.",44_2020
 2020,disgrace,Ad Hominem,TRUMP,29 9 2020,T314,80113 80128,it's a disgrace,15_1988
 2020,cheerleader,Ad Hominem,PENCE,7 10 2020,T75,43452 43542,Joe Biden has been a cheerleader for Communist China through over the last several decades,45_2020
 2020,dictators,Ad Hominem,HARRIS,7 10 2020,T595,66492 66584,What explains this administration cozying up to the Argentine dictators after they took over,12_1984
 2020,white supremacists,Ad Hominem,,7 10 2020,T117,73373 73502,the President of the United States took a debate stage in front of 70 million Americans and refused to condemn white supremacists,45_2020
 2020,rapists,Ad Hominem,HARRIS,7 10 2020,T262,81452 81557,He started off his campaign coming down the escalator saying he's gonna get rid of those Mexican rapists.,46_2020
 2020,criminals,Ad Hominem,HARRIS,7 10 2020,T8,2965 3173,"I think the lesson in Central America, this recent embarrassment in Nicaragua where we are giving instructions for hired assassins, hiring criminals, and the rest -- all of this has strengthened our opponents",12_1984
-2020,neo-Nazis,Ad Hominem,HARRIS,7 10 2020,,"","",""
-2020,anti semitic slurs,Ad Hominem,HARRIS,7 10 2020,,"","",""
-2020,neo-Nazis,Ad Hominem,PENCE,7 10 2020,,"","",""
+2020,neo-Nazis,Ad Hominem,HARRIS,7 10 2020,,73823 74070,"He, on the issue of Charlottesville, where people were peacefully protesting the need for racial justice, where a young woman was killed and on the other side there were neo-Nazis carrying tiki torches shouting racial epithets, anti semitic slurs.",45_2020
+2020,anti semitic slurs,Ad Hominem,HARRIS,7 10 2020,,73823 74070,"He, on the issue of Charlottesville, where people were peacefully protesting the need for racial justice, where a young woman was killed and on the other side there were neo-Nazis carrying tiki torches shouting racial epithets, anti semitic slurs.",45_2020
+2020,neo-Nazis,Ad Hominem,PENCE,7 10 2020,,73823 74070,"He, on the issue of Charlottesville, where people were peacefully protesting the need for racial justice, where a young woman was killed and on the other side there were neo-Nazis carrying tiki torches shouting racial epithets, anti semitic slurs.",45_2020
 2020,white supremacists,Ad Hominem,PENCE,7 10 2020,T117,73373 73502,the President of the United States took a debate stage in front of 70 million Americans and refused to condemn white supremacists,45_2020
 2020,thug,Appeal to Emotion,BIDEN,22 10 2020,T556,46621 46711,in this case we can't enhance the penalty any more than putting those three thugs to death,27_2000
 2020,xenophobic,Appeal to Emotion,TRUMP,29 9 2020,T9,9016 9032,he is xenophobic,46_2020
@@ -192,7 +192,7 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1992,You wrote a letter saying that you oppose taxpayer funding of abortion. Bill Clinton has the same type of a record.,Ad Hominem,QUAYLE,13 10 1992,T581,60369 60439,You wrote a letter saying that you oppose taxpayer funding of abortion,18_1992
 2016,"Well, why didn’t she change it? Why didn’t you change it when you were a senator? The reason you didn’t is that all your friends take the same advantage that I do. And I do.",Ad Hominem,TRUMP,9 10 2016,T451,47846 47871,why didn't she change it?,42_2016
 1980,"Now, as to why I should be and he shouldn't be, when he was a candidate in 1976, President Carter invented a thing he called the misery index. He added the rate of unemployment and the rate of inflation, and it came, at that time, to 12.5% under President Ford. He said that no man with that size misery index has a right to seek reelection to the Presidency. Today, by his own decision, the misery index is in excess of 20%, and I think this must suggest something.",Ad Hominem,REAGAN,28 10 1980,T488,74822 74915,"when he was a candidate in 1976, President Carter invented a thing he called the misery index",9_1980
-2016,Hillary Clinton wanted the wall .,Ad Hominem,WALLACE,19 10 2016,,"","",""
+2016,Hillary Clinton wanted the wall .,Ad Hominem,WALLACE,19 10 2016,,,,
 2004,The reason they keep trying to attack Halliburton is because they want to obscure their own record.,Ad Hominem,CHENEY,5 10 2004,T637,44639 44677,they keep trying to attack Halliburton,30_2004
 2004,"The vice president, I'm surprised to hear him talk about records.",Ad Hominem,EDWARDS,5 10 2004,T658,46359 46403,I'm surprised to hear him talk about records,30_2004
 1996,"Secondly, Senator Dole had some pretty harsh comments about special interest money, but it wasn't me who opposed what we tried to do to save the lives of children who were subject to tobacco and then went to the tobacco growers and bragged about standing up for the Federal government when we tried to stop the advertising, marketing, and sales of tobacco to children. And it wasn't me that let the polluters actually come into the halls of Congress, into the rooms, and rewrite the environmental laws. That's what Speaker Gingrich and Senator Dole did, not me.",Ad Hominem,CLINTON,6 10 1996,T262,22423 22472,That's what Speaker Gingrich and Senator Dole did,22_1996
@@ -200,14 +200,14 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2004,"First of all, what my opponent wants you to forget is that he voted to authorize the use of force and now says it's the wrong war at the wrong time at the wrong place.",Ad Hominem,BUSH,30 9 2004,T180,15663 15741,my opponent wants you to forget is that he voted to authorize the use of force,29_2004
 1960,"And in the special session in which Senator Kennedy was calling the signals, along with Senator Johnson, they turned it down and he himself voted against giving us the powers despite the fact that the bill had already been considered before, that it already had hearings on, and the Congress already knew what it had before it.",Ad Hominem,NIXON,7 10 1960,T307,19652 19772,"in the special session in which Senator Kennedy was calling the signals, along with Senator Johnson, they turned it down",2_1960
 1960,"Now when they talk about our record here, it is well that they recognize that they have to stand up for their record as well.",Ad Hominem,NIXON,7 10 1960,T325,22953 23035,it is well that they recognize that they have to stand up for their record as well,2_1960
-2020,The Bishop of that very church said that it was a disgrace.,Appeal to Authority,BIDEN,29 9 2020,,"","",""
+2020,The Bishop of that very church said that it was a disgrace.,Appeal to Authority,BIDEN,29 9 2020,,58428 58487,The Bishop of that very church said that it was a disgrace.,44_2020
 2008,I don't think that Senator Obama understands that there was a failed state in Pakistan when Musharraf came to power.,Appeal to Authority,MCCAIN,26 9 2008,T538,53237 53352,I don't think that Senator Obama understands that there was a failed state in Pakistan when Musharraf came to power,33_2008
-2020,the heads of many countries,Appeal to Authority,TRUMP,22 10 2020,,"","",""
+2020,the heads of many countries,Appeal to Authority,TRUMP,22 10 2020,,3259 3519,"This is a worldwide problem, but I've been congratulated by the heads of many countries on what we've been able to do with the -- if you take a look at what we've done in terms of goggles and masks and gowns and everything else, and in particular, ventilators.",46_2020
 2020,"18 angry Democrats, and FBI agents",Appeal to Authority,TRUMP,22 10 2020,T77,33159 33243,"Mueller and 18 angry Democrats, and FBI agents all over the place spent $48 million.",46_2020
-2020,"auci said, “President Trump saved thousands of lives.” Many of your Democrat Governors said, “President Trump did a phenomenal job.”",Appeal to Authority,TRUMP,29 9 2020,,"","",""
-2020,"we just got the support of 200–250 military leaders and generals, total support.",Appeal to Authority,TRUMP,29 9 2020,,"","",""
-2020,"I was with the head of a major country, it’s a forest city",Appeal to Authority,TRUMP,29 9 2020,,"","",""
-2020,"Obama would be – I think, the first to say — it was the single biggest problem, he thought, that our country had.",Appeal to Authority,TRUMP,22 10 2020,,"","",""
+2020,"auci said, “President Trump saved thousands of lives.” Many of your Democrat Governors said, “President Trump did a phenomenal job.”",Appeal to Authority,TRUMP,29 9 2020,,22648 22810,"Fauci said, ""President Trump saved thousands of lives."" Many of your Democrat Governors said, ""President Trump did a phenomenal job."" We worked with the Governor.",44_2020
+2020,"we just got the support of 200–250 military leaders and generals, total support.",Appeal to Authority,TRUMP,29 9 2020,,60194 60351,"As far as the church is concerned, and as far as the generals are concerned, we just got the support of 200-250 military leaders and generals, total support.",44_2020
+2020,"I was with the head of a major country, it’s a forest city",Appeal to Authority,TRUMP,29 9 2020,,85452 85537,"They manage their forest. I was with the head of a major country, it's a forest city.",44_2020
+2020,"Obama would be – I think, the first to say — it was the single biggest problem, he thought, that our country had.",Appeal to Authority,TRUMP,22 10 2020,,46264 46403,"They left us a mess, and Obama would be - I think, the first to say -- it was the single biggest problem, he thought, that our country had.",46_2020
 2020,They’re dying in the suburbs,Appeal to Authority,BIDEN,29 9 2020,T375,38750 38776,they are being slaughtered,43_2016
 1992,Till you change it you're gonna be unhappy.,Appeal to Emotion,PEROT,15 10 1992,T822,7802 7844,Till you change it you're gonna be unhappy,21_1992
 1984,they know that people's lives and health are being risked,Appeal to Emotion,MONDALE,7 10 1984,T258,32708 32765,they know that people's lives and health are being risked,10_1984
@@ -287,21 +287,21 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2000,It's the end of a reign of terror.,Appeal to Emotion,LIEBERMAN,5 10 2000,T441,23914 23947,It's the end of a reign of terror,26_2000
 2000,"That is a legitimate concern, this is a very important area.",Appeal to Emotion,CHENEY,5 10 2000,T491,29244 29303,"That is a legitimate concern, this is a very important area",26_2000
 1960,"And that will always be the case as long as the Communists are on the international scene, in the aggressive tac- uh - tendencies that they presently are following.",Appeal to Emotion,NIXON,7 10 1960,T350,20797 20956,"that will always be the case as long as the Communists are on the international scene, in the aggressive tac- uh - tendencies that they presently are following",2_1960
-2020,"we’ll have another 200,000 Americans dead by the time",Appeal to Emotion,BIDEN,22 10 2020,,"","",""
+2020,"we’ll have another 200,000 Americans dead by the time",Appeal to Emotion,BIDEN,22 10 2020,,4471 4581,"The expectation is we'll have another 200,000 Americans dead by the time, between now and the end of the year.",46_2020
 2020,That’s why so many people in my state were dying and getting cancer,Appeal to Emotion,BIDEN,22 10 2020,T352,96231 96299,That's why so many people in my state were dying and getting cancer.,46_2020
-2020,He will kill it.,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
-2020,How many of you got up this morning and had an empty chair at the kitchen table because someone died of COVID?,Appeal to Emotion,BIDEN,29 9 2020,,"","",""
-2020,"How many of you are in a situation where you lost your mom or dad and you couldn’t even speak to them, you had a nurse holding a phone up so you could in fact say goodbye?",Appeal to Emotion,,29 9 2020,,"","",""
-2020,"A lot of people died and a lot more are going to die unless he gets a lot smarter, a lot quicker",Appeal to Emotion,,29 9 2020,,"","",""
-2020,He will destroy this country,Appeal to Emotion,,29 9 2020,,"","",""
-2020,There’s fraud. They found ’em in creeks.,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,This is going to be a fraud like you’ve never seen.,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,It’s a rigged election.,Appeal to Emotion,,29 9 2020,,"","",""
+2020,He will kill it.,Appeal to Emotion,TRUMP,22 10 2020,,99524 99540,He will kill it.,46_2020
+2020,How many of you got up this morning and had an empty chair at the kitchen table because someone died of COVID?,Appeal to Emotion,BIDEN,29 9 2020,,24255 24537,"How many of you got up this morning and had an empty chair at the kitchen table because someone died of COVID? How many of you are in a situation where you lost your mom or dad and you couldn't even speak to them, you had a nurse holding a phone up so you could in fact say goodbye?",44_2020
+2020,"How many of you are in a situation where you lost your mom or dad and you couldn’t even speak to them, you had a nurse holding a phone up so you could in fact say goodbye?",Appeal to Emotion,,29 9 2020,,24255 24537,"How many of you got up this morning and had an empty chair at the kitchen table because someone died of COVID? How many of you are in a situation where you lost your mom or dad and you couldn't even speak to them, you had a nurse holding a phone up so you could in fact say goodbye?",44_2020
+2020,"A lot of people died and a lot more are going to die unless he gets a lot smarter, a lot quicker",Appeal to Emotion,,29 9 2020,,29537 29634,"A lot of people died and a lot more are going to die unless he gets a lot smarter, a lot quicker-",44_2020
+2020,He will destroy this country,Appeal to Emotion,,29 9 2020,,38264 38293,He will destroy this country.,44_2020
+2020,There’s fraud. They found ’em in creeks.,Appeal to Emotion,TRUMP,29 9 2020,,99310 99435,If you have an unsolicited-they're sending millions of ballots all over the country. There's fraud. They found 'em in creeks.,44_2020
+2020,This is going to be a fraud like you’ve never seen.,Appeal to Emotion,TRUMP,29 9 2020,,99662 99740,Everybody got two ballots. This is going to be a fraud like you've never seen.,44_2020
+2020,It’s a rigged election.,Appeal to Emotion,,29 9 2020,,100767 100797,It's a rigged election.,44_2020
 2020,This is not going to end well,Appeal to Emotion,,29 9 2020,T496,102795 102825,This is not going to end well.,44_2020
 2020,they’re coming for you.,Appeal to Emotion,HARRIS,7 10 2020,T57,33016 33039,they're coming for you.,45_2020
 2020,they’re coming for you,Appeal to Emotion,HARRIS,7 10 2020,T57,33016 33039,they're coming for you.,45_2020
 2020,they’re coming for you,Appeal to Emotion,,7 10 2020,T57,33016 33039,they're coming for you.,45_2020
-2020,made America less safe,Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,made America less safe,Appeal to Emotion,HARRIS,7 10 2020,,51169 51424,"We were in that deal, guys, we were in the Iran nuclear deal with friends, with allies around the country, and because of Donald Trump's unilateral approach to foreign policy, coupled with his isolationism, he pulled us out and has made America less safe.",45_2020
 2020,We’re dying with it,Slippery Slope,BIDEN,22 10 2020,T422,42641 42661,I disagreed with him,43_2016
 1980,"But whether I agree or disagree with some individual, or what he may say, or how he may say it, I don't think there's any way that we can suggest that because people believe in God and go to church, that they should not want reflected in those people and those causes they support, their own belief in morality, and in the high traditions and principles which we've abandoned so much in this country.",Appeal to Authority,REAGAN,21 9 1980,T320,44320 44623,"I don't think there's any way that we can suggest that because people believe in God and go to church, that they should not want reflected in those people and those causes they support, their own belief in morality, and in the high traditions and principles which we've abandoned so much in this country",8_1980
 1992,"I think the American people want it now. Every place I go I talk about it, and I think they want it done.",Appeal to Authority,BUSH,15 10 1992,T721,1112 1151,I think the American people want it now,21_1992
@@ -348,8 +348,8 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2004,But people know where I stand.,Appeal to Authority,BUSH,30 9 2004,T39,5429 5454,people know where I stand,29_2004
 2004,People out there listening know what I believe.,Appeal to Authority,BUSH,30 9 2004,T40,5456 5502,People out there listening know what I believe,29_2004
 1992,And I'm interested in what we can trust him to do and what you can trust me to do and what you can trust Mr. Perot to do for the next 4 years. So I think you're right and I hope the rest of the night belongs to you.,Appeal to Authority,CLINTON,15 10 1992,T512,6017 6037,I think you're right,21_1992
-2016,"I feel strongly that the Supreme Court needs to stand on the side of the American people, not on the side of the powerful corporations and the wealthy.",Appeal to Authority,CLINTON,19 10 2016,,"","",""
-2016,"And I feel strongly that the Supreme Court needs to stand on the side of the American people, not on the side of the powerful corporations and the wealthy.",Appeal to Authority,CLINTON,19 10 2016,,"","",""
+2016,"I feel strongly that the Supreme Court needs to stand on the side of the American people, not on the side of the powerful corporations and the wealthy.",Appeal to Authority,CLINTON,19 10 2016,,,,
+2016,"And I feel strongly that the Supreme Court needs to stand on the side of the American people, not on the side of the powerful corporations and the wealthy.",Appeal to Authority,CLINTON,19 10 2016,,,,
 1988,"Well, I hope all of those Americans out there who are watching us, listening to us and trying to make up their mind about which one of us ought to be president of the United States listen to the Vice President very carefully.",Appeal to Authority,DUKAKIS,25 9 1988,T376,16672 16890,"I hope all of those Americans out there who are watching us, listening to us and trying to make up their mind about which one of us ought to be president of the United States listen to the Vice President very carefully",13_1988
 1988,Because has won the support of a great many people all over the state and I think it's a model for what I hope we can do across the country.,Appeal to Authority,DUKAKIS,25 9 1988,T437,22192 22253,has won the support of a great many people all over the state,13_1988
 1988,"I've talked to bankers and builders and developers, the housing advocates, community development agencies, and they want leadership from Washington.",Appeal to Authority,DUKAKIS,25 9 1988,T616,36357 36462,"I've talked to bankers and builders and developers, the housing advocates, community development agencies",13_1988
@@ -398,19 +398,19 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2012,"Katherine, I just want to point out that when Governor Romney's campaign was asked about the Lilly Ledbetter bill, whether he supported it? He said, ""I'll get back to you."" And that's not the kind of advocacy that women need in any economy.",Appeal to Authority,OBAMA,16 10 2012,T564,42620 42682,that's not the kind of advocacy that women need in any economy,39_2012
 1996,"In fact, I used to go home, my mother would tell me, Bob, all I've got is my Social Security and my Medicare, don't cut it. I wouldn't violate anything my mother said. In fact, we had a conversation about our mothers one day, a very poignant conversation in the White House. I'm concerned about healthcare.",Appeal to Authority,DOLE,6 10 1996,T168,13548 13661,"I used to go home, my mother would tell me, Bob, all I've got is my Social Security and my Medicare, don't cut it",22_1996
 1992,"And you know, according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time.",Appeal to Authority,CLINTON,15 10 1992,T341,1296 1428,"according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time",21_1992
-1984,"I want to quote somebody a little closer to home, Harry Truman. He said, ""The buck stops here.''",Appeal to Authority,MONDALE,21 10 1984,,"","",""
+1984,"I want to quote somebody a little closer to home, Harry Truman. He said, ""The buck stops here.''",Appeal to Authority,MONDALE,21 10 1984,,33372 33581,"I want to quote somebody a little closer to home, Harry Truman. He said, ""The buck stops here.'' We just heard the President's answer for the problems at the barracks in Lebanon, where 241 marines were killed.",12_1984
 1976,"I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes. He tends to distort on a number of occasions.",Appeal to Authority,FORD,22 10 1976,T227,67099 67323,"I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes",7_1976
 2000,"Secretary Bill Cohen, a good republican, and Gen. Shelton the chairman of the Joint Chiefs of Staff, will both tell you the American military is ready to meet any threat we may face in the world today.",Appeal to Authority,LIEBERMAN,5 10 2000,T503,30103 30303,"Secretary Bill Cohen, a good republican, and Gen. Shelton the chairman of the Joint Chiefs of Staff, will both tell you the American military is ready to meet any threat we may face in the world today",26_2000
 2000,"That was in an ad, Jim, that was knocked down by the journalists who analyzed the ad and said it was misleading.",Appeal to Authority,GORE,17 10 2000,T692,31401 31513,"That was in an ad, Jim, that was knocked down by the journalists who analyzed the ad and said it was misleading.",28_2000
-2020,"people that would not be necessarily on my side said that, “President Trump did a phenomenal job.”",Appeal to Authority,TRUMP,29 9 2020,,"","",""
+2020,"people that would not be necessarily on my side said that, “President Trump did a phenomenal job.”",Appeal to Authority,TRUMP,29 9 2020,,22905 23020,"In fact, people that would not be necessarily on my side said that, ""President Trump did a phenomenal job."" We did.",44_2020
 2020,"you folks at home, you folks living in Scranton and Claymont and all the small towns and working class towns in America, how well are you doing",Appeal to Authority,BIDEN,29 9 2020,T121,24236 24253,you folks at home,44_2020
-2020,people of Ohio are very proud of me.,Appeal to Authority,TRUMP,29 9 2020,,"","",""
-2020,the American people have witnessed what is the greatest failure of any presidential administration in the history of our country.,Appeal to Authority,HARRIS,7 10 2020,,"","",""
-2020,"I think the American people know that this is a president who has put the health of America first and the American people, I believe with my heart, can be proud of the sacrifices they have made.",Appeal to Authority,PENCE,7 10 2020,,"","",""
+2020,people of Ohio are very proud of me.,Appeal to Authority,TRUMP,29 9 2020,,42816 42856,and people of Ohio are very proud of me.,44_2020
+2020,the American people have witnessed what is the greatest failure of any presidential administration in the history of our country.,Appeal to Authority,HARRIS,7 10 2020,,2849 2984,"Well, the American people have witnessed what is the greatest failure of any presidential administration in the history of our country.",45_2020
+2020,"I think the American people know that this is a president who has put the health of America first and the American people, I believe with my heart, can be proud of the sacrifices they have made.",Appeal to Authority,PENCE,7 10 2020,,7161 7355,"I think the American people know that this is a president who has put the health of America first and the American people, I believe with my heart, can be proud of the sacrifices they have made.",45_2020
 2020,"when you say what the American people have done over these last eight months hasn’t worked, that’s a great disservice to the sacrifices the American people have made.",Appeal to Authority,,7 10 2020,T11,9187 9277,when you say what the American people have done over these last eight months hasn't worked,45_2020
-2020,’m going to speak up on behalf of what the American people have done.,Appeal to Authority,,7 10 2020,,"","",""
-2020,The American people who have had to sacrifice far too much because of the incompetence of this administration.,Appeal to Authority,HARRIS,7 10 2020,,"","",""
-2020,But I think the American people know the answer.,Appeal to Authority,PENCE,7 10 2020,,"","",""
+2020,’m going to speak up on behalf of what the American people have done.,Appeal to Authority,,7 10 2020,,10548 10631,and I'm going to speak up on behalf of what the American people have done.,45_2020
+2020,The American people who have had to sacrifice far too much because of the incompetence of this administration.,Appeal to Authority,HARRIS,7 10 2020,,13546 13656,The American people who have had to sacrifice far too much because of the incompetence of this administration.,45_2020
+2020,But I think the American people know the answer.,Appeal to Authority,PENCE,7 10 2020,,68021 68069,But I think the American people know the answer.,45_2020
 1988,"But I don't know of any reputable scientist who believed that this system, at least as originally conceived could possibly work, this notion of some kind of astrodome over ourselves that could protect us from enemy attack.",Appeal to Authority,DUKAKIS,25 9 1988,T940,63978 64195,"I don't know of any reputable scientist who believed that this system, at least as originally conceived could possibly work, this notion of some kind of astrodome over ourselves that could protect us from enemy attack",13_1988
 1988,"An Air Force General not too long ago in Europe who said that pretty soon we'd have airplanes without engines, tank commanders who can't drive their tanks more than three-quarters of a mile, because they don't have enough fuel. Coast Guard cutters tied up at the dock this summer, not patrolling.",Appeal to Authority,DUKAKIS,25 9 1988,T948,64996 65063,"Coast Guard cutters tied up at the dock this summer, not patrolling",13_1988
 1988,Every single one of the Joint Chiefs will testify to the fact that readiness is in an historic high.,Appeal to Authority,BUSH,25 9 1988,T965,66526 66625,Every single one of the Joint Chiefs will testify to the fact that readiness is in an historic high,13_1988
@@ -473,9 +473,9 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2000,"And the budget plan that I've put out, according to the ""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years.",Appeal to Authority,GORE,11 10 2000,T722,61179 61397,"the budget plan that I've put out, according to the ""Los Angeles Times"" again, the way these things are typically measured as a percentage of the GDP, will bring government spending down to the lowest level in 50 years",27_2000
 2000,There is now a federal judge's opinion about the current management of this program ordering the State of Texas to do -- you should read that judge's language about this.,Appeal to Authority,GORE,11 10 2000,T752,64466 64583,There is now a federal judge's opinion about the current management of this program ordering the State of Texas to do,27_2000
 2000,"And I was able to do so with a lot of Democrat votes, nearly 50% of the Hispanic vote, about 27% of the African-American vote, because people know I'm a conservative person and a compassionate person.",Appeal to Authority,BUSH,11 10 2000,T764,66060 66124,people know I'm a conservative person and a compassionate person,27_2000
-2016,"The border—as you know, the Border Patrol agents, 16,500-plus ICE last week, endorsed me .",Appeal to Authority,CLINTON,19 10 2016,,"","",""
+2016,"The border—as you know, the Border Patrol agents, 16,500-plus ICE last week, endorsed me .",Appeal to Authority,CLINTON,19 10 2016,,41755 41964,"They've never endorsed a presidential candidate. The Border Patrol agents, 16,500, just recently endorsed me, and they endorsed me because I understand the border. She doesn't. She wants amnesty for everybody.",42_2016
 2016,"to sign immigration reform, and George W .  Bush supported it, as well .",Appeal to Authority,TRUMP,19 10 2016,T260,20382 20394,supported it,27_2000
-2016,"This has come from the highest levels of the Russian government, clearly, from Putin himself, in an effort, as 17 of our intelligence agencies have confirmed, to influence our election .",Appeal to Authority,CLINTON,19 10 2016,,"","",""
+2016,"This has come from the highest levels of the Russian government, clearly, from Putin himself, in an effort, as 17 of our intelligence agencies have confirmed, to influence our election .",Appeal to Authority,CLINTON,19 10 2016,,,,
 1996,"You're putting a lot of business people out of business. Small businessmen and businesswomen who paid 70 percent of your ninteen , your$265 billion tax increase, the largest tax increase in the history of America. I said that one day and Pat Moynihan, a Democrat, say, no, he said, in the history of the world. So I modified it, the largest tax increase in the history of the world.",Appeal to Authority,DOLE,6 10 1996,T253,21182 21237,You're putting a lot of business people out of business,22_1996
 1984,"What happens in South Africa, where, for example, the Nobel Prize winner, 2 days ago, said this administration is seen as working with the oppressive government of South Africa.",Appeal to Authority,REAGAN,21 10 1984,T556,66715 66891,"What happens in South Africa, where, for example, the Nobel Prize winner, 2 days ago, said this administration is seen as working with the oppressive government of South Africa",12_1984
 1976,I think he said that Israel was a - a military burden on us and that Iran hoped to reestablish the Persian Empire. Ah - I'm not uh - sure that I remembered earlier that President Ford had - had expressed uh - his concern about the statement or apologized for it.,Appeal to Authority,CARTER,22 10 1976,T442,22685 22790,he said that Israel was a - a military burden on us and that Iran hoped to reestablish the Persian Empire,7_1976
@@ -506,8 +506,8 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1988,"You see, I'd have found a way to sign that bill. Governor Thompson of Illinois did.",Appeal to Authority,BUSH,25 9 1988,T500,29093 29126,Governor Thompson of Illinois did,13_1988
 2004,"Specifically, look at George Tenet, the CIA director's testimony before the Committee on Foreign Relations two years ago when he talked about a 10-year relationship.",Appeal to Authority,CHENEY,5 10 2004,T198,3288 3452,"Specifically, look at George Tenet, the CIA director's testimony before the Committee on Foreign Relations two years ago when he talked about a 10-year relationship",30_2004
 2004,"There are Republican leaders, like John McCain, like Richard Lugar, like Chuck Hagel, who have said Iraq is a mess and it's getting worse.",Appeal to Authority,EDWARDS,5 10 2004,T23,4945 5082,"There are Republican leaders, like John McCain, like Richard Lugar, like Chuck Hagel, who have said Iraq is a mess and it's getting worse",30_2004
-2016,"And that's why 10 people who have had that awesome responsibility have come out and, in an unprecedented way, said they would not trust Donald Trump with the nuclear codes or to have his finger on the nuclear button .",Appeal to Authority,CLINTON,19 10 2016,,"","",""
-2016,"and admirals, 21 endorsing me, 21 congressional Medal of Honor recipients .",Appeal to Authority,TRUMP,19 10 2016,,"","",""
+2016,"And that's why 10 people who have had that awesome responsibility have come out and, in an unprecedented way, said they would not trust Donald Trump with the nuclear codes or to have his finger on the nuclear button .",Appeal to Authority,CLINTON,19 10 2016,,,,
+2016,"and admirals, 21 endorsing me, 21 congressional Medal of Honor recipients .",Appeal to Authority,TRUMP,19 10 2016,,16291 16365,"and admirals, 21 endorsing me, 21 congressional Medal of Honor recipients.",43_2016
 1996,"It's his trustees, the President's trustees, not mine, who says it's going to go broke.",Appeal to Authority,DOLE,6 10 1996,T175,13969 14055,"It's his trustees, the President's trustees, not mine, who says it's going to go broke",22_1996
 1996,His running mate Jack Kemp once said that Bob Dole never met a tax he didn't hike.,Appeal to Authority,CLINTON,6 10 1996,T562,45209 45290,His running mate Jack Kemp once said that Bob Dole never met a tax he didn't hike,22_1996
 1996,"Well, the president's own CIA director says Saddam is stronger now than he was.",Appeal to Authority,DOLE,6 10 1996,T678,50902 50974,the president's own CIA director says Saddam is stronger now than he was,22_1996
@@ -523,16 +523,16 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1996,"That's just unacceptable, and for Al Gore to keep suggesting that we can't afford to reduce the tax rates across-the-board on the American people and on the formation of the capital necessary to create the new jobs for America is just totally at odds with the experience of both Ronald Reagan, John F. Kennedy and other times in this century.",Appeal to Authority,KEMP,9 10 1996,T517,58009 58033,That's just unacceptable,23_1996
 1996,"Well, to say that this is the best economy in 30 years just staggers the imagination. We have a growth rate of the last four years of about two and a half percent. My friend Al Gore says it  's better than the Reagan years. It isn't.",Appeal to Authority,KEMP,9 10 1996,T553,62011 62089,to say that this is the best economy in 30 years just staggers the imagination,23_1996
 1960,Governor Rockefeller has been far more critical in June of our position in the world than I have been.,Appeal to Authority,KENNEDY,7 10 1960,T344,24724 24825,Governor Rockefeller has been far more critical in June of our position in the world than I have been,2_1960
-2020,"not that many of you are going to die, so don’t worry about it.",Appeal to Emotion,BIDEN,22 10 2020,,"","",""
+2020,"not that many of you are going to die, so don’t worry about it.",Appeal to Emotion,BIDEN,22 10 2020,,18303 18412,"And by the way, all you teachers out there -- not that many of you are going to die, so don't worry about it.",46_2020
 2020,"They are the states in the Midwest, they are the states in the upper Midwest, that’s where the spike is occurring significantly, but they’re all Americans.",Appeal to Emotion,BIDEN,22 10 2020,T37,19493 19526,hey are the states in the Midwest,46_2020
-2020,I love some of those guys,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
+2020,I love some of those guys,Appeal to Emotion,TRUMP,22 10 2020,,74761 74874,"After three years of coming to the office, I love some of those guys, they were great, they came into the office.",46_2020
 2020,"Close your eyes, remember what those people look like coming out of the fields, carrying torches, their veins bulging, spewing–just spewing anti-Semitic bile and accompanied by the Ku Klux Klan.",Appeal to Emotion,BIDEN,29 9 2020,T196,11366 11369,yes,22_1996
 2020,And I’m proud of him. I’m proud of my son,Appeal to Emotion,,29 9 2020,T401,82289 82306,I'm proud of him.,44_2020
 2020,We’re about freedom and respecting the freedom of the American people.,Appeal to Emotion,,7 10 2020,T15,12776 12845,We're about freedom and respecting the freedom of the American people,45_2020
 2020,"I, you know, I thought about my mother, who came to the United States at the age of 19, gave birth to me at the age of 25 at Kaiser Hospital in Oakland, California. And the thought that I’d be sitting here right now I know would make her proud and she must be looking down on this. You know Joe and I were raised in a very similar way. We were raised with values that are about hard work, about the value and the dignity of public service and about the importance of fighting for the dignity of all people.",Appeal to Emotion,HARRIS,7 10 2020,T582,26135 26141,I know,9_1980
-2020,"I was elected the first woman of color, and black woman",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
-2020,the second black woman,Appeal to Emotion,HARRIS,7 10 2020,,"","",""
-2020,"our heart breaks for the loss of any innocent American life, and the family of Breonna Taylor has our sympathies.",Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,"I was elected the first woman of color, and black woman",Appeal to Emotion,HARRIS,7 10 2020,,19107 19353,"I was elected the first woman of color, and black woman, to be elected Attorney General of the state of California, where I ran the second largest Department of Justice in the United States, second only to the United States Department of Justice.",45_2020
+2020,the second black woman,Appeal to Emotion,HARRIS,7 10 2020,,19546 19679,"And then, of course, now I serve in the United States Senate as only the second black woman ever elected to the United States Senate.",45_2020
+2020,"our heart breaks for the loss of any innocent American life, and the family of Breonna Taylor has our sympathies.",Appeal to Emotion,PENCE,7 10 2020,,70710 70835,"Well our heart breaks for the loss of any innocent American life, and the family of Breonna Taylor has our sympathies.",45_2020
 2020,"when the debate is over, we come together as Americans",Appeal to Emotion,PENCE,7 10 2020,T124,84705 84728,when the debate is over,45_2020
 2020,"we’re going to work every day to have a government as good as our people, the American people, each and every day",Appeal to Emotion,PENCE,7 10 2020,T918,10683 10697,we're going to,40_2012
 1960,I resent that comment.,Appeal to Emotion,NIXON,13 10 1960,T11,3569 3590,I resent that comment,3_1960
@@ -638,26 +638,26 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1996,That is morally and socially unacceptable in a modern day economy.,Appeal to Emotion,KEMP,9 10 1996,T537,60455 60520,That is morally and socially unacceptable in a modern day economy,23_1996
 1996,We're treading water. We have families that are hurting. We have people who are unemployed. We have people with no property. We have an administration that is demolishing public housing in our inner cities and not providing anything else but more public housing.,Appeal to Emotion,KEMP,9 10 1996,T555,62433 62453,We're treading water,23_1996
 1996,"I remember getting my future back from doctors and nurses and a doctor in Chicago named Dr. Kalikian . And ever since that time, I've tried to give something back to my country, to the people who are watching us tonight.",Appeal to Emotion,DOLE,6 10 1996,T15,3593 3693,I remember getting my future back from doctors and nurses and a doctor in Chicago named Dr. Kalikian,22_1996
-2020,"You folks home will have an empty chair at the kitchen table this morning. That man or wife going to bed tonight and reaching over to try to touch their, out of habit, where their wife or husband was, is gone.",Appeal to Emotion,BIDEN,22 10 2020,,"","",""
-2020,"People are losing their jobs, they’re committing suicide. There’s depression, alcohol, drugs at a level that nobody’s ever seen before. There’s abuse, tremendous abuse.",Appeal to Emotion,TRUMP,22 10 2020,,"","",""
+2020,"You folks home will have an empty chair at the kitchen table this morning. That man or wife going to bed tonight and reaching over to try to touch their, out of habit, where their wife or husband was, is gone.",Appeal to Emotion,BIDEN,22 10 2020,,11514 11723,"You folks home will have an empty chair at the kitchen table this morning. That man or wife going to bed tonight and reaching over to try to touch their, out of habit, where their wife or husband was, is gone.",46_2020
+2020,"People are losing their jobs, they’re committing suicide. There’s depression, alcohol, drugs at a level that nobody’s ever seen before. There’s abuse, tremendous abuse.",Appeal to Emotion,TRUMP,22 10 2020,,17071 17287,"It is a massive country with a massive economy. People are losing their jobs, they're committing suicide. There's depression, alcohol, drugs at a level that nobody's ever seen before. There's abuse, tremendous abuse.",46_2020
 2020,"we have to protect our seniors, we have to protect our elderly, we have to protect, especially, our seniors with heart problems and diabetes problems, and we will protect them.",Appeal to Emotion,TRUMP,22 10 2020,T248,15371 15381,we have to,31_2004
 2020,I get treated worse than the Tea Party got treated,Appeal to Emotion,,22 10 2020,T69,31653 31703,I get treated worse than the Tea Party got treated,46_2020
 2020,"A lot of people in there, deep down in the IRS, they treat me horribly",Appeal to Emotion,TRUMP,22 10 2020,T70,31705 31776,"A lot of people in there, deep down in the IRS, they treat me horribly.",46_2020
-2020,"I get treated very badly by the IRS, very unfairly",Appeal to Emotion,TRUMP,22 10 2020,,"","",""
-2020,I was put through a phony witch hunt for three years,Appeal to Emotion,,22 10 2020,,"","",""
+2020,"I get treated very badly by the IRS, very unfairly",Appeal to Emotion,TRUMP,22 10 2020,,31851 31930,"I get treated very badly by the IRS, very unfairly, but we had a deal all done.",46_2020
+2020,I was put through a phony witch hunt for three years,Appeal to Emotion,,22 10 2020,,32946 33006,I was put through a phony witch hunt for three years.,46_2020
 2020,No president should ever have to go through what I went through,Appeal to Emotion,TRUMP,22 10 2020,T188,7462 7464,No,11_1984
 2020,"You’re sitting at the kitchen table this morning deciding, well, we can’t get new tires, they’re bald, because we have to wait another month or so. Or are we going to be able to pay the mortgage? Who’s going to tell her, she can’t go back to community college?",Appeal to Emotion,BIDEN,22 10 2020,T367,14318 14324,we can,22_1996
-2020,he left me a mess,Appeal to Emotion,,22 10 2020,,"","",""
+2020,he left me a mess,Appeal to Emotion,,22 10 2020,,45914 45959,"Excuse me, he left me a mess, Kristen.",46_2020
 2020,They left me a mess.,Appeal to Emotion,TRUMP,22 10 2020,T117,45960 45980,They left me a mess.,46_2020
-2020,very liberal people that cried in my office–they cried in the Oval Office.,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
-2020,"My son was in Iraq. He spent a year there. He got, he got the Bronze Star. He got the Conspicuous Service Medal. He was not a loser.",Appeal to Emotion,BIDEN,29 9 2020,,"","",""
+2020,very liberal people that cried in my office–they cried in the Oval Office.,Appeal to Emotion,TRUMP,22 10 2020,,74192 74304,And everybody knows it including some very liberal people that cried in my office-they cried in the Oval Office.,46_2020
+2020,"My son was in Iraq. He spent a year there. He got, he got the Bronze Star. He got the Conspicuous Service Medal. He was not a loser.",Appeal to Emotion,BIDEN,29 9 2020,,81206 81338,"My son was in Iraq. He spent a year there. He got, he got the Bronze Star. He got the Conspicuous Service Medal. He was not a loser.",44_2020
 2020,"They came after me spying on my campaign. They started from the day I won, and even before I won.",Appeal to Emotion,TRUMP,29 9 2020,T472,98566 98607,They came after me spying on my campaign.,44_2020
-2020,"American lives that have been lost, families that are grieving that loss.",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,"American lives that have been lost, families that are grieving that loss.",Appeal to Emotion,HARRIS,7 10 2020,,7553 7783,"Whatever the Vice President's claiming the administration has done, clearly it hasn't worked when you're looking at over 210,000 dead bodies in our country, American lives that have been lost, families that are grieving that loss.",45_2020
 2020,You know there’s not a day gone by that I haven’t thought of every American family that’s lost a loved one. And I want all of you to know that you’ll always be in our hearts and in our prayers.,Appeal to Emotion,,7 10 2020,T265,2131 2137,I have,14_1988
-2020,how moved we’ve all been by the outpouring of prayers and concern for the President.,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,Breaks my heart to reflect on it,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,with a heart that broke the heart of every American,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,"you have to know Joe’s story to know that Joe has known pain, he has known suffering, and he has known love.",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,how moved we’ve all been by the outpouring of prayers and concern for the President.,Appeal to Emotion,PENCE,7 10 2020,,20698 20852,"And let me, let me say on behalf of the President and the First Lady, how moved we've all been by the outpouring of prayers and concern for the President.",45_2020
+2020,Breaks my heart to reflect on it,Appeal to Emotion,PENCE,7 10 2020,,53090 53185,"Breaks my heart to reflect on it, but the military came into the Oval Office, presented a plan.",45_2020
+2020,with a heart that broke the heart of every American,Appeal to Emotion,PENCE,7 10 2020,,53374 53630,"And when Armed Forces finally went in, it was clear she'd been moved two days earlier, and her family says -- with a heart that broke the heart of every American -- that if President Donald Trump had been president, they believe Kayla would be alive today.",45_2020
+2020,"you have to know Joe’s story to know that Joe has known pain, he has known suffering, and he has known love.",Appeal to Emotion,HARRIS,7 10 2020,,86239 86356,"You mean you have to know Joe's story to know that Joe has known pain, he has known suffering, and he has known love.",45_2020
 2008,America needs a new direction.,Appeal to Emotion,MCCAIN,15 10 2008,T801,84385 84414,America needs a new direction,36_2008
 2008,I think we all know America is going through tough times right now.,Appeal to Emotion,OBAMA,15 10 2008,T822,85963 86021,we all know America is going through tough times right now,36_2008
 1976,"But I do make a pledge that in the next ten days when we're asking the American people to make one of the most important decisions in their lifetime, because I think this election is one of the mast vital in the history of America, that uh - we do together what we can to stimulate voter participation.",Appeal to Emotion,FORD,22 10 1976,T372,12794 12866,I think this election is one of the mast vital in the history of America,7_1976
@@ -794,23 +794,23 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1988,"They made sure their sons understood that this was the greatest country in the world, that those of us especially who were the sons and daughters of immigrants had a special responsibility to give something to the country that had opened up its arms to our parents and given so much to them.I believe in the American dream.",Appeal to Emotion,DUKAKIS,25 9 1988,T292,2449 2533,They made sure their sons understood that this was the greatest country in the world,13_1988
 1996,"I believe, and Bob Dole believes, is causing not only problems for this country throughout the world, but particularly here at home.",Appeal to Emotion,KEMP,9 10 1996,T402,45175 45375,"the mixed message, the ambiguities of U.S. foreign policy, uh are -- I believe, and Bob Dole believes, is causing not only problems for this country throughout the world, but particularly here at home",23_1996
 2000,I think this is an opportunity for the United States to test President Putin of Russia.,Appeal to Emotion,CHENEY,5 10 2000,T454,26934 27020,I think this is an opportunity for the United States to test President Putin of Russia,26_2000
-2020,They’re all the United States.,Appeal to Emotion,BIDEN,22 10 2020,,"","",""
+2020,They’re all the United States.,Appeal to Emotion,BIDEN,22 10 2020,,19283 19395,"And I don't look at this in terms of the way he does, blue states and red states. They're all the United States.",46_2020
 2020,They’re the red states.,Appeal to Emotion,BIDEN,22 10 2020,T36,19468 19491,They're the red states.,46_2020
-2020,Will you remember that Texas? Will you remember that Pennsylvania? Oklahoma? Ohio?,Appeal to Emotion,,22 10 2020,,"","",""
-2020,The American people have a right to have a say in who the Supreme Court nominee is and that say occurs when they vote for United States Senators and when they vote for the President of United States.,Appeal to Emotion,,29 9 2020,,"","",""
-2020,American people should speak. You should go out and vote. You’re voting now. Vote and let your Senators know how strongly you feel.,Appeal to Emotion,,29 9 2020,,"","",""
+2020,Will you remember that Texas? Will you remember that Pennsylvania? Oklahoma? Ohio?,Appeal to Emotion,,22 10 2020,,97636 97718,Will you remember that Texas? Will you remember that Pennsylvania? Oklahoma? Ohio?,46_2020
+2020,The American people have a right to have a say in who the Supreme Court nominee is and that say occurs when they vote for United States Senators and when they vote for the President of United States.,Appeal to Emotion,,29 9 2020,,3774 3980,The American people have a right to have a say in who the Supreme Court nominee is and that say occurs when they vote for United States Senators and when they vote for the President of United States.,44_2020
+2020,American people should speak. You should go out and vote. You’re voting now. Vote and let your Senators know how strongly you feel.,Appeal to Emotion,,29 9 2020,,17997 18145,The issue is the American people should speak. You should go out and vote. You're voting now. Vote and let your Senators know how strongly you feel.,44_2020
 2020,"It’s about your family, the American people",Appeal to Emotion,BIDEN,29 9 2020,T274,55213 55228,It's about you.,44_2020
 2020,"You, the American people. It’s about you. That’s what we’re talking about here.",Appeal to Emotion,BIDEN,29 9 2020,T274,55213 55228,It's about you.,44_2020
-2020,"people left behind, there, were heroes.",Appeal to Emotion,,29 9 2020,,"","",""
+2020,"people left behind, there, were heroes.",Appeal to Emotion,,29 9 2020,,81339 81403,"He was a patriot and the people left behind, there, were heroes.",44_2020
 2020,"So I want to ask the American people, how calm were you when you were panicked about where you’re going to get your next roll of toilet paper? How calm were you when your kids were sent home from school and you didn’t know when they could go back?",Appeal to Emotion,,7 10 2020,T498,39957 39964,you did,22_1996
-2020,How calm were you when your children couldn’t see your parents because you were afraid they could kill them?,Appeal to Emotion,,7 10 2020,,"","",""
+2020,How calm were you when your children couldn’t see your parents because you were afraid they could kill them?,Appeal to Emotion,,7 10 2020,,8752 8868,How calm were you when your children couldn't see your parents because you were afraid they could kill them?,45_2020
 2020,"the American people, I believe, deserve credit for the sacrifices that they have made, putting the health of their family and their neighbors first, our doctors, our nurses, our first responders",Appeal to Emotion,,7 10 2020,T14,10311 10505,"the American people, I believe, deserve credit for the sacrifices that they have made, putting the health of their family and their neighbors first, our doctors, our nurses, our first responders",45_2020
-2020,the American people and their ability to take that information and put it into practice.,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,We told the American people what needed to be done and the American people made the sacrifices.,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,President Trump and I trust the American people to make choices in the best interest of their health.,Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,the American people and their ability to take that information and put it into practice.,Appeal to Emotion,PENCE,7 10 2020,,11304 11439,President Trump and I have great confidence in the American people and their ability to take that information and put it into practice.,45_2020
+2020,We told the American people what needed to be done and the American people made the sacrifices.,Appeal to Emotion,PENCE,7 10 2020,,11618 11713,We told the American people what needed to be done and the American people made the sacrifices.,45_2020
+2020,President Trump and I trust the American people to make choices in the best interest of their health.,Appeal to Emotion,PENCE,7 10 2020,,12307 12520,"And it was an outdoor event, which all of our scientists regularly and routinely advise, the difference here is President Trump and I trust the American people to make choices in the best interest of their health.",45_2020
 2020,"the American people, I’m gonna say again, can be proud of what we have done",Appeal to Emotion,,7 10 2020,T851,2493 2500,we have,39_2012
-2020,"And people around our country, of every race, of every age, of every gender – perfect strangers to each other – marched shoulder to shoulder, arm and arm, fighting for us to finally achieve that ideal of equal justice under law.",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
-2020,"America, you deserve better",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,"And people around our country, of every race, of every age, of every gender – perfect strangers to each other – marched shoulder to shoulder, arm and arm, fighting for us to finally achieve that ideal of equal justice under law.",Appeal to Emotion,HARRIS,7 10 2020,,69142 69574,"And it just, it brings me to, you know, the eight minutes and 46 seconds that America witnessed, during which an American man was tortured and killed under the knee of an armed, uniformed police officer. And people around our country, of every race, of every age, of every gender - perfect strangers to each other - marched shoulder to shoulder, arm and arm, fighting for us to finally achieve that ideal of equal justice under law.",45_2020
+2020,"America, you deserve better",Appeal to Emotion,HARRIS,7 10 2020,,74212 74244,"And America, you deserve better.",45_2020
 1988,"What we're talking about is a combination of a strong and effective and credible nuclear deterrent. Strong, well-equipped, well-trained, well-maintained conventional forces. And at the same time a willingness to move forward steadily, thoughtfully cautiously.",Appeal to Emotion,DUKAKIS,25 9 1988,T975,62316 62414,What we're talking about is a combination of a strong and effective and credible nuclear deterrent,13_1988
 1988,We cannot be strong militarily when we're teeter-tottering on top of a mountain of debt which has been created in the past eight years.,Appeal to Emotion,DUKAKIS,25 9 1988,T929,63175 63309,We cannot be strong militarily when we're teeter-tottering on top of a mountain of debt which has been created in the past eight years,13_1988
 1988,"We need a strong, credible, effective nuclear deterrent.",Appeal to Emotion,DUKAKIS,25 9 1988,T953,65449 65504,"We need a strong, credible, effective nuclear deterrent",13_1988
@@ -825,7 +825,7 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1992,strongly,Appeal to Emotion,BUSH,15 10 1992,T502,4566 4650,I believe so strongly in the question you asked that I suggested this format tonight,21_1992
 1992,a sorry little post office,Appeal to Emotion,BUSH,15 10 1992,T715,612 837,"For 38 years one party has controlled the House of Representatives, and the result, a sorry little post office that can't do anything right and a bank that has more overdrafts than all the Chase Bank and Citibank put together",21_1992
 1992,strongly favor,Appeal to Emotion,BUSH,15 10 1992,T717,978 1014,"I favor, strongly favor, term limits",21_1992
-1992,an unfair fight,Appeal to Emotion,CLINTON,15 10 1992,,"","",""
+1992,an unfair fight,Appeal to Emotion,CLINTON,15 10 1992,,40434 40703,"If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair fight.",20_1992
 1992,"I don't think there are any villains, but, boy, is the system rotten",Appeal to Emotion,PEROT,15 10 1992,T737,3918 3986,"I don't think there are any villains, but, boy, is the system rotten",21_1992
 1980,a very bright vista,Appeal to Emotion,CARTER,28 10 1980,T339,53928 54012,This commitment has been opening up a very bright vista for our nation in the future,9_1980
 1980,an unequaled record in the history of our country,Appeal to Emotion,CARTER,28 10 1980,T370,57698 57841,"we have this year the opportunity, which we'll realize, to produce 800 million tons of coal - an unequaled record in the history of our country",9_1980
@@ -997,9 +997,9 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2004,"I don't know how you can govern in this country when you look at New York City and you see that 50 percent of the black males there are unemployed, when you see 40 percent of Hispanic children -- of black children in some cities -- dropping out of high school.",Appeal to Emotion,KERRY,13 10 2004,T111,58184 58330,I don't know how you can govern in this country when you look at New York City and you see that 50 percent of the black males there are unemployed,32_2004
 2004,"And secondly, only a liberal senator from Massachusetts would say that a 49 percent increase in funding for education was not enough.",Appeal to Emotion,BUSH,13 10 2004,T119,59177 59295,only a liberal senator from Massachusetts would say that a 49 percent increase in funding for education was not enough,32_2004
 2016,"Well, I strongly support Roe v .  Wade, which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine .",Appeal to Emotion,TRUMP,19 10 2016,T28,5586 5610,I strongly support Roe v,43_2016
-2016,"So many states are putting very stringent regulations on women that block them from exercising that choice to the extent that they are defunding Planned Parenthood, which, of course, provides all kinds of cancer screenings and other benefits for women in our country .",Appeal to Emotion,TRUMP,19 10 2016,,"","",""
+2016,"So many states are putting very stringent regulations on women that block them from exercising that choice to the extent that they are defunding Planned Parenthood, which, of course, provides all kinds of cancer screenings and other benefits for women in our country .",Appeal to Emotion,TRUMP,19 10 2016,,,,
 2016,And I could just not be more opposed to that kind of thinking .,Appeal to Emotion,CLINTON,19 10 2016,T32,6105 6162,I could just not be more opposed to that kind of thinking,43_2016
-2016,"The kinds of cases that fall at the end of pregnancy are often the most heartbreaking, painful decisions for families to make .",Appeal to Emotion,CLINTON,19 10 2016,,"","",""
+2016,"The kinds of cases that fall at the end of pregnancy are often the most heartbreaking, painful decisions for families to make .",Appeal to Emotion,CLINTON,19 10 2016,,,,
 2016,"Well, I think it's terrible .",Appeal to Emotion,TRUMP,19 10 2016,T37,6828 6849,I think it's terrible,43_2016
 2016,And that's not acceptable .,Appeal to Emotion,CLINTON,19 10 2016,T193,21498 21526,that will be as bad as NAFTA,43_2016
 2016,And using that kind of scare rhetoric is just terribly unfortunate .,Appeal to Emotion,CLINTON,19 10 2016,T44,7076 7138,using that kind of scare rhetoric is just terribly unfortunate,43_2016
@@ -1052,7 +1052,7 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2008,"And the -- the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug, because it's a gateway.",Appeal to Emotion,MCCAIN,26 9 2008,T94,12312 12411,"the worst symptom on this disease is what my friend, Tom Coburn, calls earmarking as a gateway drug",33_2008
 2008,out-of-control spending and corruption,Appeal to Emotion,MCCAIN,26 9 2008,T96,12437 12493,It's a gateway to out-of-control spending and corruption,33_2008
 2008,And we have former members of Congress now residing in federal prison because of the evils of this earmarking and pork-barrel spending.,Appeal to Emotion,MCCAIN,26 9 2008,T97,12499 12564,we have former members of Congress now residing in federal prison,33_2008
-2008,"look at them, my friends. Look at them. You'll be appalled.",Appeal to Emotion,MCCAIN,26 9 2008,,"","",""
+2008,"look at them, my friends. Look at them. You'll be appalled.",Appeal to Emotion,MCCAIN,26 9 2008,,18424 18614,"The United States Senate will take up a continuing resolution tomorrow or the next day, sometime next week, with 2,000 -- 2,000 -- look at them, my friends. Look at them. You'll be appalled.",33_2008
 2008,wasteful and earmark spending,Appeal to Emotion,MCCAIN,26 9 2008,T184,21428 21476,Who fought against wasteful and earmark spending,33_2008
 2008,unnecessary and wasteful spending,Appeal to Emotion,MCCAIN,26 9 2008,T313,34348 34417,I got plans to reduce and eliminate unnecessary and wasteful spending,33_2008
 2008,orgy of spending and enormous deficits,Appeal to Emotion,OBAMA,26 9 2008,T316,34766 34849,This orgy of spending and enormous deficits you voted for almost all of his budgets,33_2008
@@ -1161,11 +1161,11 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2016,disgraceful,Appeal to Emotion,TRUMP,26 9 2016,T347,34482 34506,I think it’s disgraceful,41_2016
 2016,an unbelievable company,Appeal to Emotion,TRUMP,26 9 2016,T400,39381 39409,It’s an unbelievable company,41_2016
 2016,"Well, first of all, she wants to give amnesty, which is a disaster and very unfair to all of the people that are waiting on line for many, many years .",Appeal to Emotion,CLINTON,19 10 2016,T61,8338 8467,"she wants to give amnesty, which is a disaster and very unfair to all of the people that are waiting on line for many, many years",43_2016
-2016,Drugs are pouring in through the border .,Appeal to Emotion,CLINTON,19 10 2016,,"","",""
-2016,It's just pouring and destroying their youth .  It's poisoning the blood of their youth and plenty of other people .,Appeal to Emotion,CLINTON,19 10 2016,,"","",""
-2016,It's just pouring and destroying their youth .  It's poisoning the blood of their youth and plenty of other people .,Appeal to Emotion,TRUMP,19 10 2016,,"","",""
+2016,Drugs are pouring in through the border .,Appeal to Emotion,CLINTON,19 10 2016,,,,
+2016,It's just pouring and destroying their youth .  It's poisoning the blood of their youth and plenty of other people .,Appeal to Emotion,CLINTON,19 10 2016,,,,
+2016,It's just pouring and destroying their youth .  It's poisoning the blood of their youth and plenty of other people .,Appeal to Emotion,TRUMP,19 10 2016,,,,
 2016,"some bad, bad people",Appeal to Emotion,TRUMP,19 10 2016,T279,29093 29124,"People contribute, I contribute",43_2016
-2016,"The NAFTA deal signed by her husband is one of the worst deals ever made of any kind, signed by anybody .  It's a disaster .",Appeal to Emotion,TRUMP,19 10 2016,,"","",""
+2016,"The NAFTA deal signed by her husband is one of the worst deals ever made of any kind, signed by anybody .  It's a disaster .",Appeal to Emotion,TRUMP,19 10 2016,,9542 9646,"The NAFTA deal signed by her husband is one of the worst deals ever made of any kind, signed by anybody.",43_2016
 2016,We've never had anything like this happen in any of our elections before .,Appeal to Emotion,CLINTON,19 10 2016,T93,12496 12568,We've never had anything like this happen in any of our elections before,43_2016
 2004,We've got battling green eye shades.,Appeal to Emotion,BUSH,8 10 2004,T1070,53948 53983,We've got battling green eye shades,31_2004
 2004,terrorist safe havens,Appeal to Emotion,BUSH,8 10 2004,T813,34073 34247,it requires a complete understanding that we not only chase down Al Qaida but we disrupt terrorist safe havens as well as people who could provide the terrorists with support,31_2004
@@ -1254,12 +1254,12 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1992,But the big argument I have with the governor on this is this taking different positions on different issues -- trying to be one thing to one person here that's opposing the NAFTA agreement and then for it -- what we call waffling. And I do think that you can't turn the White House into the Waffle House.,Appeal to Emotion,BUSH,15 10 1992,T489,4123 4191,I do think that you can't turn the White House into the Waffle House,21_1992
 1992,I've been disturbed by the tone and the tenor of this campaign.,Appeal to Emotion,CLINTON,15 10 1992,T506,4877 4939,I've been disturbed by the tone and the tenor of this campaign,21_1992
 2016,"Our country is so, so—it's just so imperative that we have the right justices.",Appeal to Emotion,WALLACE,19 10 2016,T851,2493 2500,we have,39_2012
-2016,"some very, very inappropriate statements",Appeal to Emotion,TRUMP,19 10 2016,,"","",""
-2016,"many, many millions of people",Appeal to Emotion,TRUMP,19 10 2016,,"","",""
+2016,"some very, very inappropriate statements",Appeal to Emotion,TRUMP,19 10 2016,,91743 91762,It’s inappropriate.,41_2016
+2016,"many, many millions of people",Appeal to Emotion,TRUMP,19 10 2016,,,,
 2016,"But I feel that it's absolutely important that we uphold, because of the fact that it is under such trauma.",Appeal to Emotion,TRUMP,19 10 2016,T682,45650 45660,absolutely,25_2000
 2016,"And I believe that's very, very important.",Appeal to Emotion,TRUMP,19 10 2016,T588,2308 2322,I believe that,32_2004
-2016,such trauma,Appeal to Emotion,TRUMP,19 10 2016,,"","",""
-2016,a tremendous number,Appeal to Emotion,TRUMP,19 10 2016,,"","",""
+2016,such trauma,Appeal to Emotion,TRUMP,19 10 2016,,,,
+2016,a tremendous number,Appeal to Emotion,TRUMP,19 10 2016,,,,
 2016,"very, very important",Appeal to Emotion,TRUMP,19 10 2016,T497,54744 54893,"We think that the protection of job safety in the workplace is very, very important, but what we've said is look, start, start measuring the results.",23_1996
 2000,But thank goodness we've always had enough people who have been willing in every generation to push past the fear of a broken heart and become deeply involved in forming a more perfect union.,Appeal to Emotion,GORE,17 10 2000,T129,59907 60093,thank goodness we've always had enough people who have been willing in every generation to push past the fear of a broken heart and become deeply involved in forming a more perfect union,28_2000
 2000,And we can renew and rekindle the American spirit and make our future what our founders dreamed it could be. We can.,Appeal to Emotion,GORE,17 10 2000,T109,20356 20362,We can,28_2000
@@ -1367,45 +1367,45 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 1996,"But I do think we are right when we try to, for example, give mothers and newborns 48 hours before they can be kicked out of the hospital, ending these drive-by deliveries.",Appeal to Emotion,CLINTON,6 10 1996,T55,7473 7640,"I do think we are right when we try to, for example, give mothers and newborns 48 hours before they can be kicked out of the hospital, ending these drive-by deliveries",22_1996
 1984,pure,Appeal to Emotion,MONDALE,7 10 1984,T106,19915 20056,it has been pure demagoguery that we have in some way shut off all the charitable programs or many of them for the people who have real need.,10_1984
 1984,unpolluted,Appeal to Emotion,MONDALE,7 10 1984,T185,26894 26978,faith in the United States is pure and unpolluted by the intervention of politicians,10_1984
-2020,horrible disease,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
-2020,"dark winter, a dark winter",Appeal to Emotion,BIDEN,22 10 2020,,"","",""
+2020,horrible disease,Appeal to Emotion,TRUMP,22 10 2020,,1855 1963,We closed up the greatest economy in the world in order to fight this horrible disease that came from China.,46_2020
+2020,"dark winter, a dark winter",Appeal to Emotion,BIDEN,22 10 2020,,7537 7755,"We're about to go into a dark winter, a dark winter, and he has no clear plan and there's no prospect that there's going to be a vaccine available for the majority of the American people before the middle of next year.",46_2020
 2020,horrible,Appeal to Emotion,TRUMP,22 10 2020,T279,22073 22100,It was a horrible situation,27_2000
-2020,ghost town,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
-2020,my wonderful city,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
+2020,ghost town,Appeal to Emotion,TRUMP,22 10 2020,,18504 18609,"By the way, I will say this, if you go and look at what's happened to New York, it's a ghost town.",46_2020
+2020,my wonderful city,Appeal to Emotion,TRUMP,22 10 2020,,18978 19043,Take a look at New York and what's happened to my wonderful city.,46_2020
 2020,dying.,Appeal to Emotion,TRUMP,22 10 2020,T26,8044 8084,"you've had 308,000 military people dying",44_2020
 2020,tremendous amounts,Appeal to Emotion,TRUMP,22 10 2020,T47,23088 23148,"You have raised a lot of money, tremendous amounts of money.",46_2020
 2020,terrible,Appeal to Emotion,,22 10 2020,T68,31289 31303,It's terrible.,46_2020
 2020,"one, single, solitary thing was out of line",Appeal to Emotion,BIDEN,22 10 2020,T84,34530 34578,"Not one, single, solitary thing was out of line.",46_2020
-2020,innocent baby,Appeal to Emotion,TRUMP,22 10 2020,,"","",""
+2020,innocent baby,Appeal to Emotion,TRUMP,22 10 2020,,78501 78564,So don't give me the stuff about how you're this innocent baby.,46_2020
 2020,pure drug offense,Appeal to Emotion,BIDEN,22 10 2020,T269,83434 83492,we should not send anyone to jail for a pure drug offense.,46_2020
-2020,"little tiny, small",Appeal to Emotion,TRUMP,22 10 2020,,"","",""
+2020,"little tiny, small",Appeal to Emotion,TRUMP,22 10 2020,,90911 91023,"They want to knock down buildings and build new buildings with little tiny, small windows and many other things.",46_2020
 2020,beautiful,Appeal to Emotion,TRUMP,22 10 2020,T67,6311 6463,I'm intrigued when I hear Vice-President Bush talk about his support of the president's economic program and how everything is just going so beautifully,11_1984
 2020,enormous,Appeal to Emotion,BIDEN,22 10 2020,T373,100188 100265,"we have enormous opportunities, enormous opportunities to make things better.",46_2020
-2020,"very powerfully, very strongly",Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,"very powerfully, very strongly",Appeal to Emotion,TRUMP,29 9 2020,,5843 6048,"Okay, Justice Ginsburg said very powerfully, very strongly, at some point 10 years ago or so, she said a President and the Senate is elected for a period of time, but a President is elected for four years.",44_2020
 2020,sad thing,Appeal to Emotion,TRUMP,29 9 2020,T181,39294 39322,"It's a very, very sad thing.",44_2020
-2020,ghost town,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,ghost town,Appeal to Emotion,TRUMP,29 9 2020,,42356 42454,"It's almost like a ghost town, and I'm not sure it can ever recover what they've done to New York.",44_2020
 2020,worst,Appeal to Emotion,BIDEN,29 9 2020,T121,47275 47326,"That is the worst part of Obamacare, as we call it.",46_2020
 2020,art of the deal,Appeal to Emotion,BIDEN,29 9 2020,T248,51174 51209,He talks about the art of the deal.,44_2020
-2020,art of the steal,Appeal to Emotion,BIDEN,29 9 2020,,"","",""
+2020,art of the steal,Appeal to Emotion,BIDEN,29 9 2020,,51210 51249,China's perfected the art of the steal.,44_2020
 2020,dog whistle,Appeal to Emotion,BIDEN,29 9 2020,T280,58591 58703,"This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division.",44_2020
 2020,racist hatred,Appeal to Emotion,BIDEN,29 9 2020,T280,58591 58703,"This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division.",44_2020
 2020,racist division,Appeal to Emotion,BIDEN,29 9 2020,T280,58591 58703,"This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division.",44_2020
 2020,"good, decent, honorable men and women",Appeal to Emotion,BIDEN,29 9 2020,T301,62152 62231,"the vast majority of police officers are good, decent, honorable men and women.",44_2020
-2020,very bad ideas,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,very sick ideas,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,horrible place,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,racist place,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,very bad ideas,Appeal to Emotion,TRUMP,29 9 2020,,64455 64592,"And if you look at the people, we would pay people hundreds of thousands of dollars to teach very bad ideas and frankly, very sick ideas.",44_2020
+2020,very sick ideas,Appeal to Emotion,TRUMP,29 9 2020,,64455 64592,"And if you look at the people, we would pay people hundreds of thousands of dollars to teach very bad ideas and frankly, very sick ideas.",44_2020
+2020,horrible place,Appeal to Emotion,TRUMP,29 9 2020,,64781 64844,They were teaching people that our country is a horrible place.,44_2020
+2020,racist place,Appeal to Emotion,TRUMP,29 9 2020,,64845 64865,It's a racist place.,44_2020
 2020,tremendous,Appeal to Emotion,TRUMP,29 9 2020,T47,23088 23148,"You have raised a lot of money, tremendous amounts of money.",46_2020
 2020,hatred,Appeal to Emotion,TRUMP,29 9 2020,T280,58591 58703,"This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division.",44_2020
 2020,ridiculous,Appeal to Emotion,,29 9 2020,T329,66619 66638,This is ridiculous.,44_2020
 2020,Absolutely ridiculous,Appeal to Emotion,,29 9 2020,T330,66702 66724,Absolutely ridiculous.,44_2020
-2020,Violent crime,Appeal to Emotion,,29 9 2020,,"","",""
+2020,Violent crime,Appeal to Emotion,,29 9 2020,,66787 66808,Violent crime.,44_2020
 2020,dangerous radical group.,Appeal to Emotion,,29 9 2020,T5,1934 1970,they are important and dangerous now,1_1960
 2020,whole big con job,Appeal to Emotion,TRUMP,29 9 2020,T378,77453 77576,"that's despite the impeachment hoax and you saw what happened today with Hillary Clinton, where it was a whole big con job.",44_2020
-2020,"weaker, sicker, poorer, more divided and more violent",Appeal to Emotion,BIDEN,29 9 2020,,"","",""
-2020,dishonorably discharged,Appeal to Emotion,,29 9 2020,,"","",""
-2020,crystal clean,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,beautiful clean,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,"weaker, sicker, poorer, more divided and more violent",Appeal to Emotion,BIDEN,29 9 2020,,79515 79608,"Under this President, we become weaker, sicker, poorer, more divided and more violent.",44_2020
+2020,dishonorably discharged,Appeal to Emotion,,29 9 2020,,81655 81697,He was thrown out dishonorably discharged.,44_2020
+2020,crystal clean,Appeal to Emotion,TRUMP,29 9 2020,,83808 83850,I want crystal clean water and air.,44_2020
+2020,beautiful clean,Appeal to Emotion,TRUMP,29 9 2020,,83851 83878,I want beautiful clean air.,44_2020
 2020,much less expensive,Appeal to Emotion,TRUMP,29 9 2020,T853,36831 36960,"Pharmaceuticals were using loopholes to keep brand -- brand drugs in place, and generics are much less expensive than brand drugs",31_2004
 2020,much safer,Appeal to Emotion,TRUMP,29 9 2020,T435,92216 92258,It's going to make the economy much safer.,44_2020
 2020,absolutely wrong,Appeal to Emotion,BIDEN,29 9 2020,T383,17218 17313,the number of 50 million Americans not benefitting from our tax cut program is absolutely wrong,26_2000
@@ -1413,28 +1413,28 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2020,most ridiculous,Appeal to Emotion,TRUMP,29 9 2020,T329,66619 66638,This is ridiculous.,44_2020
 2020,much safer,Appeal to Emotion,BIDEN,29 9 2020,T435,92216 92258,It's going to make the economy much safer.,44_2020
 2020,"hard, hard, good jobs",Appeal to Emotion,BIDEN,29 9 2020,T439,92622 92768,"we're going to be in a position where we can create hard, hard, good jobs by making sure the environment is clean, and we all are in better shape.",44_2020
-2020,solicited ballot,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,solicited ballot,Appeal to Emotion,TRUMP,29 9 2020,,99181 99226,"A solicited ballot, okay, solicited, is okay.",44_2020
 2020,fraud,Appeal to Emotion,TRUMP,29 9 2020,T527,108050 108172,"No one has established at all that there is fraud related to mail-in ballots, that the, somehow it's a fraudulent process.",44_2020
 2020,shame,Appeal to Emotion,TRUMP,29 9 2020,T615,84339 84412,I think their record on the environment is inexcusable and often shameful,10_1984
 2020,horrible thing,Appeal to Emotion,TRUMP,29 9 2020,T51,4257 4489,"When I watch the deals being made, when I watch what's happening with some horrible things like Obamacare, where your health insurance and health care is going up by numbers that are astronomical, 68 percent, 59 percent, 71 percent,",42_2016
 2020,"very safe, very nice thing",Appeal to Emotion,TRUMP,29 9 2020,T512,106176 106235,"They're called poll watchers, a very safe, very nice thing.",44_2020
 2020,bad things,Appeal to Emotion,TRUMP,29 9 2020,T515,106311 106345,bad things happen in Philadelphia.,44_2020
-2020,Bad things,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
-2020,fraudulent election,Appeal to Emotion,TRUMP,29 9 2020,,"","",""
+2020,Bad things,Appeal to Emotion,TRUMP,29 9 2020,,106303 106345,Because bad things happen in Philadelphia.,44_2020
+2020,fraudulent election,Appeal to Emotion,TRUMP,29 9 2020,,106882 106929,It means you have a fraudulent election.,44_2020
 2020,fraudulent,Appeal to Emotion,BIDEN,29 9 2020,T527,108050 108172,"No one has established at all that there is fraud related to mail-in ballots, that the, somehow it's a fraudulent process.",44_2020
 2020,fraudulent process,Appeal to Emotion,,29 9 2020,T527,108050 108172,"No one has established at all that there is fraud related to mail-in ballots, that the, somehow it's a fraudulent process.",44_2020
 2020,honest ballot count,Appeal to Emotion,,29 9 2020,T536,108939 108980,I want to see an honest ballot count. . .,44_2020
-2020,xenophobic and hysterical,Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,xenophobic and hysterical,Appeal to Emotion,PENCE,7 10 2020,,5894 6143,"He said it was xenophobic and hysterical, but I can tell you, having led the White House Coronavirus Task Force, that that decision alone by President Trump bought us invaluable time to stand up the greatest national mobilization since World War II.",45_2020
 2020,greatest,Appeal to Emotion,PENCE,7 10 2020,T139,30208 30273,I had to close the greatest economy in the history of our country,44_2020
 2020,hundreds of thousands,Appeal to Emotion,PENCE,7 10 2020,T9,6148 6208,I believe it's saved hundreds of thousands of American lives,45_2020
 2020,awful lot,Appeal to Emotion,PENCE,7 10 2020,T69,8137 8222,the other 99% have had an awful lot to do with building the surplus in our prosperity,25_2000
-2020,plagiarism,Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,plagiarism,Appeal to Emotion,PENCE,7 10 2020,,6941 7160,"And quite frankly, when I look at their plan that talks about advancing testing, creating new PPE, developing a vaccine, umm, it looks a little bit like plagiarism, which is something Joe Biden knows a little bit about.",45_2020
 2020,heartbreaking,Appeal to Emotion,PENCE,7 10 2020,T291,24282 24355,"I think it was the right thing not to jump in, as heartbreaking as it was",27_2000
-2020,record time,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,in unheard of time,Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,record time,Appeal to Emotion,PENCE,7 10 2020,,15803 15927,"Because the reality is that we're going to have a vaccine, Senator, in record time, in unheard of time, in less than a year.",45_2020
+2020,in unheard of time,Appeal to Emotion,PENCE,7 10 2020,,15803 15927,"Because the reality is that we're going to have a vaccine, Senator, in record time, in unheard of time, in less than a year.",45_2020
 2020,tens of millions,Appeal to Emotion,PENCE,7 10 2020,T29,23692 23770,"He's paid tens of millions of dollars in taxes, payroll taxes, property taxes.",45_2020
 2020,just unacceptable,Appeal to Emotion,PENCE,7 10 2020,T324,35835 36088,to think that this administration vetoed the one chance they had to ban that practice without working with people in the Congress who would have loved to have had the opportunity to stop that gruesome practice is just unacceptable to the American people,23_1996
-2020,most memorable,Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,most memorable,Appeal to Emotion,HARRIS,7 10 2020,,18122 18343,"So let me tell you first of all, on the day I got the call from Joe Biden, it was actually a Zoom call, asking me to serve with him on this ticket was probably one of the most memorable, memorable days of my life.",45_2020
 2020,exceptional,Appeal to Emotion,PENCE,7 10 2020,T273,79727 79795,That worldview that says that America is a nation of exceptionalism.,34_2008
 2020,fundamental,Appeal to Emotion,HARRIS,7 10 2020,T201,25896 25913,It is fundamental,10_1984
 2020,hardworking,Appeal to Emotion,PENCE,7 10 2020,T12,2793 2851,"they're good, average, middle-class, hardworking Americans",24_1996
@@ -1443,15 +1443,15 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2020,catastrophe,Appeal to Emotion,HARRIS,7 10 2020,T885,63869 63936,"as governor, one of the things you have to deal with is catastrophe",25_2000
 2020,failure,Appeal to Emotion,HARRIS,7 10 2020,T319,51001 51024,It's been a big failure,10_1984
 2020,Communist,Appeal to Emotion,PENCE,7 10 2020,T75,43452 43542,Joe Biden has been a cheerleader for Communist China through over the last several decades,45_2020
-2020,isolationism,Appeal to Emotion,HARRIS,7 10 2020,,"","",""
+2020,isolationism,Appeal to Emotion,HARRIS,7 10 2020,,51169 51424,"We were in that deal, guys, we were in the Iran nuclear deal with friends, with allies around the country, and because of Donald Trump's unilateral approach to foreign policy, coupled with his isolationism, he pulled us out and has made America less safe.",45_2020
 2020,great,Appeal to Emotion,HARRIS,7 10 2020,T139,30208 30273,I had to close the greatest economy in the history of our country,44_2020
 2020,awful,Appeal to Emotion,HARRIS,7 10 2020,T617,74131 74230,pick a President who will fight to avoid the day when that God-awful decision ever needs to be made,12_1984
 2020,great American hero,Appeal to Emotion,HARRIS,7 10 2020,T639,39707 39872,"I am thankful that that is part of the plan implemented under a great American hero, General Petraeus, and pushed hard by another great American, Senator John McCain",34_2008
-2020,brilliant woman,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,insulting,Appeal to Emotion,PENCE,7 10 2020,,"","",""
-2020,unjustifiably and tragically and violently,Appeal to Emotion,HARRIS,7 10 2020,,"","",""
-2020,"armed, uniformed",Appeal to Emotion,HARRIS,7 10 2020,,"","",""
-2020,great insult,Appeal to Emotion,PENCE,7 10 2020,,"","",""
+2020,brilliant woman,Appeal to Emotion,PENCE,7 10 2020,,59175 59317,"She's a brilliant woman, and she will bring a lifetime of experience and a sizable American family, to the Supreme Court of the United States.",45_2020
+2020,insulting,Appeal to Emotion,PENCE,7 10 2020,,60733 60914,"And it's insulting to suggest that we would knock anyone for their faith, and in fact, Joe if elected will be only the second practicing Catholic, as President of the United States.",45_2020
+2020,unjustifiably and tragically and violently,Appeal to Emotion,HARRIS,7 10 2020,,69074 69141,"And her life was taken, unjustifiably and tragically and violently.",45_2020
+2020,"armed, uniformed",Appeal to Emotion,HARRIS,7 10 2020,,69142 69345,"And it just, it brings me to, you know, the eight minutes and 46 seconds that America witnessed, during which an American man was tortured and killed under the knee of an armed, uniformed police officer.",45_2020
+2020,great insult,Appeal to Emotion,PENCE,7 10 2020,,71681 71852,"That as Joe Biden said, that he believes that law enforcement has an implicit bias against minorities, is a great insult to the men and women who serve in law enforcement.",45_2020
 2020,wonderful,Appeal to Emotion,PENCE,7 10 2020,T375,39407 39473,He's been wonderful about it in absolutely everything that happens,11_1984
 2020,freest,Appeal to Emotion,PENCE,7 10 2020,T123,83962 84061,it's how we've created literally the freest and most prosperous nation in the history of the world.,45_2020
 2020,most prosperous,Appeal to Emotion,PENCE,7 10 2020,T123,83962 84061,it's how we've created literally the freest and most prosperous nation in the history of the world.,45_2020
@@ -1572,7 +1572,7 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2000,"Now, because the governor has all this money for a tax cut mostly to the wealthy, there is no money left over, so schools get testing and lawsuit reform and not much else.",Slippery Slope,GORE,17 10 2000,T219,4415 4417,No,28_2000
 2020,"we can’t close up our nation, or you’re not going to have a nation.",Slippery Slope,,22 10 2020,T367,14318 14324,we can,22_1996
 2020,"I could call the heads of Wall Street, the heads of every company in America, I would blow away every record.",Slippery Slope,TRUMP,22 10 2020,T167,15362 15369,I would,12_1984
-2020,"They’d impose the Green New Deal, which would crush American energy, would increase the energy cost of American families in their homes and literally would crush American jobs",Slippery Slope,PENCE,7 10 2020,,"","",""
+2020,"They’d impose the Green New Deal, which would crush American energy, would increase the energy cost of American families in their homes and literally would crush American jobs",Slippery Slope,PENCE,7 10 2020,,35671 35927,"Now Joe Biden and Kamala Harris, would put us back in the Paris Climate Accord. They'd impose the Green New Deal, which would crush American energy, would increase the energy cost of American families in their homes and literally would crush American jobs.",45_2020
 1960,"that once you do this - follow this course of action - of indicating that you are not going to defend a particular area, the inevitable result is that it encourages a man who is determined to conquer the world to press you to the point of no return. And that means war.",Slippery Slope,NIXON,13 10 1960,T275,16418 16432,that means war,3_1960
 1980,separation of church and state,Slogans,ANDERSON,21 9 1980,T292,46210 46394,"to try to tell the parishioners of any church, of any denomination, how they should vote, or for whom they should vote, I think violates the principle of separation of church and state",8_1980
 1980,freedom of choice,Slogans,ANDERSON,21 9 1980,T297,47144 47174,I believe in freedom of choice,8_1980
@@ -1624,7 +1624,7 @@ year,text,fallacy,speaker,complete_date,component_id,component_span,component_te
 2012,I want to get America's economy going again.,Slogans,ROMNEY,16 10 2012,T449,30757 30800,I want to get America's economy going again,39_2012
 2000,"person-to-person, person-by-person, unit-by-unit",Slogans,LIEBERMAN,5 10 2000,T555,35596 35694,"person-to-person, person-by-person, unit-by-unit, this is the most powerful and effective military",26_2000
 1984,separation of church and state,Slogans,REAGAN,7 10 1984,T187,28624 28724,"I, too, want that wall that is in the Constitution of separation of church and state to remain there",10_1984
-2020,Our character is on the ballot,Slogans,BIDEN,22 10 2020,,"","",""
-2020,Show up and vote,Slogans,BIDEN,29 9 2020,,97265 97281,Show up and vote,44_2020
+2020,Our character is on the ballot,Slogans,BIDEN,22 10 2020,,78191 78222,Our character is on the ballot.,46_2020
+2020,Show up and vote,Slogans,BIDEN,29 9 2020,,97265 97282,Show up and vote.,44_2020
 2016,I don't believe that Hillary has the stamina.,Ad Hominem,TRUMP,26 9 2016,T971,89147 89191,I don’t believe that Hillary has the stamina,41_2016
-2016,But Hillary Clinton wanted the wall .,Ad Hominem,WALLACE,19 10 2016,,"","",""
+2016,But Hillary Clinton wanted the wall .,Ad Hominem,WALLACE,19 10 2016,,,,
