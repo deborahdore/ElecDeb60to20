@@ -32,11 +32,11 @@ import csv
 import os
 import re
 
-CSV_IN  = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fallacies_v2.csv"
+CSV_IN = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fallacies_v2.csv"
 ANN_DIR = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/relations"
 CSV_OUT = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fallacies_v3.csv"
 
-MAX_EDIT_DIST = 5   # strictly less-than threshold (edit distance < 5)
+MAX_EDIT_DIST = 5  # strictly less-than threshold (edit distance < 5)
 
 
 # ── Normalisation ─────────────────────────────────────────────────────────────
@@ -94,9 +94,9 @@ def load_ann(filename: str) -> list[tuple[str, int, int, str]]:
             for line in fh:
                 m = _T_LINE.match(line.rstrip('\n'))
                 if m:
-                    tid       = m.group(1)
-                    start     = int(m.group(2))
-                    end       = int(m.group(3))
+                    tid = m.group(1)
+                    start = int(m.group(2))
+                    end = int(m.group(3))
                     norm_text = _normalise(m.group(4))
                     components.append((tid, start, end, norm_text))
         _ann_cache[filename] = components
@@ -119,8 +119,8 @@ def _levenshtein(s: str, t: str) -> int:
 
 
 def _best_candidate(
-    fallacy_norm: str,
-    candidates: list[tuple[str, str]],   # (tid, comp_norm)
+        fallacy_norm: str,
+        candidates: list[tuple[str, str]],  # (tid, comp_norm)
 ) -> str:
     """Return the T-ID whose normalised text is closest to fallacy_norm."""
     return min(
@@ -130,9 +130,9 @@ def _best_candidate(
 
 
 def by_span(
-    f_start: int,
-    f_end: int,
-    components: list[tuple[str, int, int, str]],
+        f_start: int,
+        f_end: int,
+        components: list[tuple[str, int, int, str]],
 ) -> list[tuple[str, str]]:
     """Return (tid, norm_text) pairs for all components overlapping [f_start, f_end)."""
     return [
@@ -143,9 +143,9 @@ def by_span(
 
 
 def by_text(
-    fallacy_norm: str,
-    components: list[tuple[str, int, int, str]],
-    max_dist: int = MAX_EDIT_DIST,
+        fallacy_norm: str,
+        components: list[tuple[str, int, int, str]],
+        max_dist: int = MAX_EDIT_DIST,
 ) -> list[tuple[str, str]]:
     """
     Return (tid, norm_text) pairs for components whose normalised text is
@@ -169,9 +169,8 @@ def by_text(
 stats = {"total": 0, "span": 0, "text": 0, "none": 0, "no_span": 0}
 
 with open(CSV_IN, newline="", encoding="utf-8") as f_in, \
-     open(CSV_OUT, "w", newline="", encoding="utf-8") as f_out:
-
-    reader    = csv.DictReader(f_in, delimiter=";")
+        open(CSV_OUT, "w", newline="", encoding="utf-8") as f_out:
+    reader = csv.DictReader(f_in, delimiter=";")
     fieldnames = list(reader.fieldnames) + [
         "component_id", "has_overlap", "match_method"
     ]
@@ -182,13 +181,13 @@ with open(CSV_IN, newline="", encoding="utf-8") as f_in, \
 
     for row in reader:
         stats["total"] += 1
-        found_span   = row.get("span", "") or row.get("span", "")
+        found_span = row.get("span", "") or row.get("span", "")
         fallacy_text = row.get("text", "")
 
         if found_span in ("TEXT_NOT_FOUND", "FILE_NOT_FOUND", ""):
-            row["component_id"]  = ""
-            row["has_overlap"]   = "False"
-            row["match_method"]  = ""
+            row["component_id"] = ""
+            row["has_overlap"] = "False"
+            row["match_method"] = ""
             stats["no_span"] += 1
             writer.writerow(row)
             continue
@@ -200,7 +199,7 @@ with open(CSV_IN, newline="", encoding="utf-8") as f_in, \
             components = load_ann(filename)
         except FileNotFoundError:
             row["component_id"] = "ANN_NOT_FOUND"
-            row["has_overlap"]  = "False"
+            row["has_overlap"] = "False"
             row["match_method"] = ""
             writer.writerow(row)
             continue
@@ -209,12 +208,12 @@ with open(CSV_IN, newline="", encoding="utf-8") as f_in, \
 
         # Strategy 1: span overlap → pick closest by edit distance
         candidates = by_span(f_start, f_end, components)
-        method     = "span" if candidates else ""
+        method = "span" if candidates else ""
 
         # Strategy 2: text similarity fallback → pick closest by edit distance
         if not candidates:
             candidates = by_text(fallacy_norm, components)
-            method     = "text" if candidates else ""
+            method = "text" if candidates else ""
 
         if candidates:
             best_id = _best_candidate(fallacy_norm, candidates)
@@ -223,9 +222,9 @@ with open(CSV_IN, newline="", encoding="utf-8") as f_in, \
             best_id = ""
             stats["none"] += 1
 
-        row["component_id"]  = best_id
-        row["has_overlap"]   = str(bool(best_id))
-        row["match_method"]  = method
+        row["component_id"] = best_id
+        row["has_overlap"] = str(bool(best_id))
+        row["match_method"] = method
 
         writer.writerow(row)
 

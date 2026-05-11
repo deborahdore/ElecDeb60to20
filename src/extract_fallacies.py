@@ -32,9 +32,9 @@ from collections import defaultdict
 # ── paths ────────────────────────────────────────────────────────────────────
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-CSV_PATH = os.path.join(BASE, "data", "annotations", "fallacies", "fallacies_v3.csv")
-TXT_DIR  = os.path.join(BASE, "data", "annotations", "txt")
-OUT_DIR  = os.path.join(BASE, "data", "fallacies", "conll")
+CSV_PATH = os.path.join(BASE, "data", "annotations", "fallacies", "fallacies_with_components_v2.csv")
+TXT_DIR = os.path.join(BASE, "data", "annotations", "txt")
+OUT_DIR = os.path.join(BASE, "data", "fallacies", "conll")
 
 # Speaker label detection (character-level, independent of tokenisation):
 #   One or more ALL-CAPS words (letters, dots, hyphens) separated by single
@@ -58,12 +58,12 @@ def load_fallacies(csv_path):
     """
     groups = defaultdict(list)
     with open(csv_path, encoding="utf-8") as fh:
-        reader = csv.DictReader(fh, delimiter=";")
+        reader = csv.DictReader(fh, delimiter=",")
         for row in reader:
-            filename = row["filename"].strip()
-            raw_label = row["fallacy_type"].strip()
+            filename = row["source_filename"].strip()
+            raw_label = row["fallacy"].strip()
             label = raw_label.replace(" ", "_")
-            span_str = row["span"].strip()
+            span_str = row["component_span"].strip()
             coords = span_str.split()
             if len(coords) != 2:
                 continue

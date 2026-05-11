@@ -30,17 +30,17 @@ Output: fallacies_with_spans.csv  (same columns + "span": "start end")
 """
 
 import csv
-import re
 import os
+import re
 
 CSV_PATH = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fallacies.csv"
-TXT_DIR  = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/txt"
+TXT_DIR = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/txt"
 OUT_PATH = "/Users/ddore/Documents/ElecDeb60to20/data/annotations/fallacies/fallacies_v2.csv"
 
-ANCHOR_N      = 6    # words used for start/end anchors
-MIN_ANCHOR    = 3    # minimum anchor size when shrinking
-MAX_GAP       = 50   # max non-word chars allowed between consecutive words
-MAX_EDIT_DIST = 5    # maximum Levenshtein distance (edit distance < 5)
+ANCHOR_N = 6  # words used for start/end anchors
+MIN_ANCHOR = 3  # minimum anchor size when shrinking
+MAX_GAP = 50  # max non-word chars allowed between consecutive words
+MAX_EDIT_DIST = 5  # maximum Levenshtein distance (edit distance < 5)
 
 
 # ── Normalisation ─────────────────────────────────────────────────────────────
@@ -48,8 +48,8 @@ MAX_EDIT_DIST = 5    # maximum Levenshtein distance (edit distance < 5)
 def _normalise(s: str) -> str:
     """Lowercase, strip punctuation, collapse whitespace."""
     # s = s.lower()
-    s = re.sub(r'[^\w\s]', '', s)   # remove punctuation
-    s = re.sub(r'\s+', ' ', s)       # collapse whitespace
+    s = re.sub(r'[^\w\s]', '', s)  # remove punctuation
+    s = re.sub(r'\s+', ' ', s)  # collapse whitespace
     return s.strip()
 
 
@@ -61,7 +61,7 @@ def _build_norm_map(content: str) -> tuple[str, list[int]]:
     Used to map a match on the normalised string back to the original offsets.
     """
     norm_chars: list[str] = []
-    orig_pos:   list[int] = []
+    orig_pos: list[int] = []
     prev_space = True  # avoids leading space
     for i, c in enumerate(content):
         lc = c
@@ -78,8 +78,8 @@ def _build_norm_map(content: str) -> tuple[str, list[int]]:
     return ''.join(norm_chars), orig_pos
 
 
-_norm_cache:     dict[str, tuple[str, list[int]]] = {}
-_content_cache:  dict[str, str] = {}
+_norm_cache: dict[str, tuple[str, list[int]]] = {}
+_content_cache: dict[str, str] = {}
 
 
 def load_file(filename: str) -> str:
@@ -100,10 +100,10 @@ def load_norm(filename: str) -> tuple[str, list[int]]:
 # ── Span helpers ──────────────────────────────────────────────────────────────
 
 def _norm_to_orig_span(
-    norm_start: int,
-    norm_end: int,
-    orig_positions: list[int],
-    content: str,
+        norm_start: int,
+        norm_end: int,
+        orig_positions: list[int],
+        content: str,
 ) -> tuple[int, int]:
     """
     Convert a [norm_start, norm_end) span in normalised text to an
@@ -113,7 +113,7 @@ def _norm_to_orig_span(
     """
     orig_start = orig_positions[norm_start]
     # Last alphanumeric char in original
-    orig_last  = orig_positions[min(norm_end - 1, len(orig_positions) - 1)]
+    orig_last = orig_positions[min(norm_end - 1, len(orig_positions) - 1)]
     # Advance to end of the word/token
     orig_end = orig_last + 1
     while orig_end < len(content) and not content[orig_end].isspace():
@@ -150,10 +150,10 @@ def get_speaker_at(filename: str, content: str, pos: int) -> str:
 # ── Candidate picking ─────────────────────────────────────────────────────────
 
 def pick_best(
-    candidates: list[tuple[int, int]],
-    filename: str,
-    content: str,
-    speaker: str,
+        candidates: list[tuple[int, int]],
+        filename: str,
+        content: str,
+        speaker: str,
 ) -> tuple[int, int]:
     if len(candidates) == 1:
         return candidates[0]
@@ -200,7 +200,7 @@ def _word_pattern(words: list[str], max_gap: int = MAX_GAP) -> str:
 
 
 def strategy_exact(
-    content: str, filename: str, text: str
+        content: str, filename: str, text: str
 ) -> list[tuple[int, int]]:
     """Exact match on normalised text, mapped back to original offsets."""
     norm_content, orig_pos = load_norm(filename)
@@ -219,7 +219,7 @@ def strategy_exact(
 
 
 def strategy_full_word_anchor(
-    content: str, filename: str, text: str
+        content: str, filename: str, text: str
 ) -> list[tuple[int, int]]:
     """All words joined by \\W{1,MAX_GAP}, case- and punct-insensitive."""
     words = re.findall(r'\w+', text)
@@ -234,7 +234,7 @@ def strategy_full_word_anchor(
 
 
 def strategy_start_end_anchor(
-    content: str, filename: str, text: str
+        content: str, filename: str, text: str
 ) -> list[tuple[int, int]]:
     """First ANCHOR_N words fix start, last N words fix end."""
     words = re.findall(r'\w+', text)
@@ -261,8 +261,8 @@ def strategy_start_end_anchor(
 
 
 def strategy_edit_distance(
-    content: str, filename: str, text: str,
-    max_dist: int = MAX_EDIT_DIST,
+        content: str, filename: str, text: str,
+        max_dist: int = MAX_EDIT_DIST,
 ) -> list[tuple[int, int]]:
     """
     Sliding-window Levenshtein on normalised text.
@@ -283,7 +283,7 @@ def strategy_edit_distance(
         for m in re.finditer(r'(?<= )\w', norm_content)
     ]
 
-    best_dist = max_dist     # strictly less-than threshold
+    best_dist = max_dist  # strictly less-than threshold
     results: list[tuple[int, int, int]] = []  # (orig_start, orig_end, dist)
 
     for ws in word_starts:
@@ -313,10 +313,10 @@ def strategy_edit_distance(
 # ── Top-level span finder ─────────────────────────────────────────────────────
 
 def find_span(
-    content: str,
-    filename: str,
-    text: str,
-    speaker: str,
+        content: str,
+        filename: str,
+        text: str,
+        speaker: str,
 ) -> tuple[int, int] | None:
     strategies = (
         strategy_exact,
@@ -340,14 +340,14 @@ strategy_used: dict[str, int] = {
 
 
 def find_span_with_stats(
-    content: str, filename: str, text: str, speaker: str
+        content: str, filename: str, text: str, speaker: str
 ) -> tuple[tuple[int, int] | None, str]:
     """Like find_span but also reports which strategy succeeded."""
     for name, strategy in [
-        ("exact",       strategy_exact),
+        ("exact", strategy_exact),
         ("word_anchor", strategy_full_word_anchor),
-        ("start_end",   strategy_start_end_anchor),
-        ("edit_dist",   strategy_edit_distance),
+        ("start_end", strategy_start_end_anchor),
+        ("edit_dist", strategy_edit_distance),
     ]:
         candidates = strategy(content, filename, text)
         if candidates:
@@ -356,8 +356,7 @@ def find_span_with_stats(
 
 
 with open(CSV_PATH, newline="", encoding="utf-8") as f_in, \
-     open(OUT_PATH, "w", newline="", encoding="utf-8") as f_out:
-
+        open(OUT_PATH, "w", newline="", encoding="utf-8") as f_out:
     reader = csv.DictReader(f_in, delimiter=";")
     fieldnames = list(reader.fieldnames) + ["span"]
     writer = csv.DictWriter(
@@ -366,9 +365,9 @@ with open(CSV_PATH, newline="", encoding="utf-8") as f_in, \
     writer.writeheader()
 
     for line_num, row in enumerate(reader, start=2):
-        text     = row["text"]
+        text = row["text"]
         filename = row["filename"]
-        speaker  = row["speaker"]
+        speaker = row["speaker"]
 
         try:
             content = load_file(filename)
@@ -390,7 +389,7 @@ with open(CSV_PATH, newline="", encoding="utf-8") as f_in, \
         writer.writerow(row)
 
 # ── Report ────────────────────────────────────────────────────────────────────
-total   = sum(1 for _ in open(CSV_PATH)) - 1
+total = sum(1 for _ in open(CSV_PATH)) - 1
 matched = total - len(not_found_rows)
 print(f"Processed  : {total} rows")
 print(f"Matched    : {matched} ({100 * matched / total:.1f}%)")

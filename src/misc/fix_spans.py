@@ -36,7 +36,6 @@ import re
 import sys
 from pathlib import Path
 
-
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -161,7 +160,7 @@ def levenshtein_bounded(a: str, b: str, max_dist: int) -> int:
 
 
 def find_in_txt_fuzzy(
-    txt: str, ann_text: str, original_start: int, max_dist: int = 8
+        txt: str, ann_text: str, original_start: int, max_dist: int = 8
 ) -> list:
     """
     Approximate search: slide a window over txt checking every substring whose
@@ -176,7 +175,7 @@ def find_in_txt_fuzzy(
 
     for length in range(max(1, n - max_dist), n + max_dist + 1):
         for start in range(len(txt) - length + 1):
-            window = txt[start : start + length]
+            window = txt[start: start + length]
             dist = levenshtein_bounded(ann_text, window, max_dist)
             if dist <= max_dist:
                 if start not in best or dist < best[start][2]:
@@ -419,12 +418,12 @@ def main():
     if args.dry_run:
         print("(DRY-RUN — file will NOT be modified)\n")
 
-    fixed_span = []       # continuous: span offsets updated (punct-insensitive)
-    fixed_fuzzy = []      # continuous: span offsets updated (edit-distance fallback)
-    fixed_disc = []       # discontinuous: span boundaries nudged
+    fixed_span = []  # continuous: span offsets updated (punct-insensitive)
+    fixed_fuzzy = []  # continuous: span offsets updated (edit-distance fallback)
+    fixed_disc = []  # discontinuous: span boundaries nudged
     fixed_text_only = []  # span was correct, only ann_text punctuation updated
-    already_ok = []       # span and ann_text both correct
-    unfixable = []        # could not be resolved
+    already_ok = []  # span and ann_text both correct
+    unfixable = []  # could not be resolved
     new_lines = []
 
     for raw in ann_lines:
