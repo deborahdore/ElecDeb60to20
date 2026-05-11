@@ -74356,8 +74356,8 @@ term	_	_	I-Appeal_to_Emotion
 radical	_	_	I-Appeal_to_Emotion
 Islamic	_	_	I-Appeal_to_Emotion
 terrorism	_	_	I-Appeal_to_Emotion
-.	_	_	I-Appeal_to_Emotion
-”	_	_	I-Appeal_to_Emotion
+.	_	_	O
+”	_	_	O
 Now	_	_	O
 ,	_	_	O
 to	_	_	O
@@ -75598,7 +75598,7 @@ a	_	_	I-Ad_Hominem
 war	_	_	I-Ad_Hominem
 between	_	_	I-Ad_Hominem
 us	_	_	I-Ad_Hominem
-.	_	_	I-Ad_Hominem
+.	_	_	O
 And	_	_	O
 the	_	_	O
 final	_	_	O
@@ -77232,7 +77232,7 @@ didn't	_	_	I-Ad_Hominem
 she	_	_	I-Ad_Hominem
 change	_	_	I-Ad_Hominem
 it	_	_	I-Ad_Hominem
-?	_	_	I-Ad_Hominem
+?	_	_	O
 Why	_	_	O
 didn't	_	_	O
 you	_	_	O
@@ -77359,7 +77359,7 @@ stuff	_	_	O
 She	_	_	B-Ad_Hominem
 never	_	_	I-Ad_Hominem
 changed	_	_	I-Ad_Hominem
-.	_	_	I-Ad_Hominem
+.	_	_	O
 And	_	_	O
 she	_	_	O
 never	_	_	O
@@ -79013,7 +79013,7 @@ Children's	_	_	I-False_Cause
 Health	_	_	I-False_Cause
 Insurance	_	_	I-False_Cause
 Program	_	_	I-False_Cause
-.	_	_	I-False_Cause
+.	_	_	O
 Hundreds	_	_	B-False_Cause
 of	_	_	I-False_Cause
 thousands	_	_	I-False_Cause
@@ -80963,7 +80963,7 @@ stupid	_	_	I-Appeal_to_Emotion
 is	_	_	I-Appeal_to_Emotion
 our	_	_	I-Appeal_to_Emotion
 country	_	_	I-Appeal_to_Emotion
-?	_	_	I-Appeal_to_Emotion
+?	_	_	O
 
 There	_	_	O
 are	_	_	O
@@ -83033,11 +83033,11 @@ to	_	_	O
 respond	_	_	O
 .	_	_	O
 
-We	_	_	O
-have	_	_	O
-a	_	_	O
-divided	_	_	O
-nation	_	_	O
+We	_	_	B-Ad_Hominem
+have	_	_	I-Ad_Hominem
+a	_	_	I-Ad_Hominem
+divided	_	_	I-Ad_Hominem
+nation	_	_	I-Ad_Hominem
 .	_	_	O
 We	_	_	O
 have	_	_	O
@@ -83098,11 +83098,11 @@ in	_	_	O
 45	_	_	O
 years	_	_	O
 .	_	_	O
-We	_	_	B-Ad_Hominem
-have	_	_	I-Ad_Hominem
-a	_	_	I-Ad_Hominem
-divided	_	_	I-Ad_Hominem
-nation	_	_	I-Ad_Hominem
+We	_	_	O
+have	_	_	O
+a	_	_	O
+divided	_	_	O
+nation	_	_	O
 ,	_	_	O
 because	_	_	O
 people	_	_	O
