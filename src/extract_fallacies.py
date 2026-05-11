@@ -29,12 +29,15 @@ import re
 import sys
 from collections import defaultdict
 
+import pandas as pd
+
 # ── paths ────────────────────────────────────────────────────────────────────
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CSV_PATH = os.path.join(BASE, "data", "annotations", "fallacies", "fallacies_with_components_v2.csv")
 TXT_DIR = os.path.join(BASE, "data", "annotations", "txt")
 OUT_DIR = os.path.join(BASE, "data", "fallacies", "conll")
+CSV_OUT_DIR = os.path.join(BASE, "data", "fallacies", "csv")
 
 # Speaker label detection (character-level, independent of tokenisation):
 #   One or more ALL-CAPS words (letters, dots, hyphens) separated by single
@@ -221,6 +224,18 @@ def convert(annotations, txt_path, out_path):
 
 
 # ── main ─────────────────────────────────────────────────────────────────────
+def export_csv_per_debate(csv_path: str, csv_out_dir: str) -> None:
+    """Read the master fallacies CSV and write one CSV per debate to *csv_out_dir*."""
+    os.makedirs(csv_out_dir, exist_ok=True)
+    df = pd.read_csv(csv_path)
+    groups = df.groupby("source_filename", sort=True)
+    for filename, group in groups:
+        out_path = os.path.join(csv_out_dir, str(filename) + ".csv")
+        group.to_csv(out_path, index=False)
+        print(f"  [CSV]  {filename}  →  {filename}.csv  ({len(group)} row(s))", flush=True)
+    print(f"CSV export done: {len(groups)} file(s) written to {csv_out_dir}\n")
+
+
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -248,6 +263,8 @@ def main():
 
     print(f"\nDone: {ok} converted, {skipped} skipped.")
     print(f"Output directory: {OUT_DIR}")
+
+    export_csv_per_debate(CSV_PATH, CSV_OUT_DIR)
 
 
 if __name__ == "__main__":
