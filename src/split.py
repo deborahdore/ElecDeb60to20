@@ -10,7 +10,6 @@ FALLACY_DIR = os.path.join(BASE, "data", "fallacies")
 
 COMPONENT_CONLL_DIR = os.path.join(COMPONENT_DIR, "conll")
 RELATION_CSV_DIR = os.path.join(RELATION_DIR, "csv")
-FALLACY_CONLL_DIR = os.path.join(FALLACY_DIR, "conll")
 FALLACY_CSV_DIR = os.path.join(FALLACY_DIR, "csv")
 
 
@@ -67,17 +66,6 @@ if __name__ == '__main__':
                 os.path.join(RELATION_DIR, split_name + ".csv"), index=False
             )
 
-        # ── Fallacies (CoNLL) ───────────────────────────────────────────────
-        fallacy_parts = []
-        for f in split_files:
-            path = os.path.join(FALLACY_CONLL_DIR, f + ".conll")
-            if os.path.exists(path):
-                fallacy_parts.append(load_conll(path))
-        save_conll(
-            os.path.join(FALLACY_DIR, split_name + ".conll"),
-            "\n".join(fallacy_parts),
-        )
-
         # ── Fallacies (CSV) ─────────────────────────────────────────────────
         fallacy_dfs = []
         for f in split_files:
@@ -95,6 +83,5 @@ if __name__ == '__main__':
         print(
             f"[{split_name}] {len(component_parts)} components | "
             f"{len(relation_dfs)} relations | "
-            f"{len(fallacy_parts)} fallacies (conll) | "
             f"{len(fallacy_dfs)} fallacies (csv)"
         )
