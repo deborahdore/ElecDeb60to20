@@ -1,57 +1,121 @@
-#!/usr/bin/env python3
-"""
-extract_fallacies.py
-Split the master fallacies CSV into one CSV file per debate.
-
-Input:
-  - fallacies CSV (CSV_PATH) with columns including 'debate_id'
-
-Output:
-  - one .csv file per debate written to CSV_OUT_DIR, named <debate_id>.csv
-    e.g. data/fallacies/csv/1_1960.csv
-"""
-
+import ast
 import os
-import sys
 
 import pandas as pd
 
 # ── paths ────────────────────────────────────────────────────────────────────
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-CSV_PATH    = os.path.join(BASE, "data", "annotations", "fallacies", "fallacies.csv")
+CSV_PATH = os.path.join(BASE, "data", "annotations", "fallacies", "fallacies_with_span.csv")
 CSV_OUT_DIR = os.path.join(BASE, "data", "fallacies", "csv")
+TXT_DIR = os.path.join(BASE, "data", "annotations", "txt")
 
 
-# ── main ─────────────────────────────────────────────────────────────────────
-def export_csv_per_debate(csv_path: str, csv_out_dir: str) -> None:
-    """Read the master fallacies CSV and write one CSV per debate to *csv_out_dir*."""
+def parse_turns(text: str):
+    turns = []
+    cursor = 0
+
+    for line in text.splitlines(keepends=True):
+        raw_line = line.rstrip("\n")
+
+        # Skip empty lines
+        if not raw_line.strip():
+            cursor += len(line)
+            continue
+
+        start = cursor
+        end = cursor + len(raw_line)
+
+        speaker = None
+        speech_text = raw_line
+
+        # Extract speaker if present
+        if ":" in raw_line:
+            possible_speaker, possible_text = raw_line.split(":", 1)
+
+            # Treat leading uppercase token as speaker
+            if possible_speaker.strip():
+                speaker = possible_speaker.strip()
+                speech_text = possible_text.lstrip()
+
+                # Adjust start position to exclude speaker prefix
+                speech_start_offset = raw_line.index(":") + 1
+                while (
+                        speech_start_offset < len(raw_line)
+                        and raw_line[speech_start_offset] == " "
+                ):
+                    speech_start_offset += 1
+
+                start = cursor + speech_start_offset
+
+        turns.append({
+            "start": start,
+            "end": end,
+            "speaker": speaker,
+            "text": speech_text
+        })
+
+        cursor += len(line)
+
+    return turns
+
+
+# ── main logic ───────────────────────────────────────────────────────────────
+def main(csv_path: str, csv_out_dir: str) -> None:
+    """Read master fallacies CSV and write one CSV per debate."""
+    os.makedirs(csv_out_dir, exist_ok=True)
     df = pd.read_csv(csv_path)
 
-    if "debate_id" not in df.columns:
-        print("ERROR: 'debate_id' column not found in the CSV.", file=sys.stderr)
-        sys.exit(1)
+    debates = sorted(df["debate_id"].unique())
 
-    # Drop rows with no debate_id
-    missing = df["debate_id"].isna() | (df["debate_id"].astype(str).str.strip() == "")
-    if missing.any():
-        print(f"  [WARN] {missing.sum()} row(s) have no debate_id and will be skipped.")
-        df = df[~missing]
+    for debate in debates:
+        txt_path = os.path.join(TXT_DIR, f"{debate}.txt")
 
-    os.makedirs(csv_out_dir, exist_ok=True)
+        with open(txt_path, "r", encoding="utf-8") as f:
+            txt = f.read()
 
-    groups = df.groupby("debate_id", sort=True)
-    for debate_id, group in groups:
-        out_path = os.path.join(csv_out_dir, f"{debate_id}.csv")
-        group.to_csv(out_path, index=False)
-        print(f"  [OK]  {debate_id}  →  {debate_id}.csv  ({len(group)} row(s))", flush=True)
+        fallacy_tags = ["O"] * len(txt)
+        components_tags = ["O"] * len(txt)
 
-    print(f"\nDone: {len(groups)} CSV file(s) written to {csv_out_dir}")
+        fallacies = df[df["debate_id"] == debate]
 
+        for _, row in fallacies.iterrows():
+            spans = ast.literal_eval(str(row["text_span"]))
+            start, end = spans
 
-def main():
-    export_csv_per_debate(CSV_PATH, CSV_OUT_DIR)
+            for i in range(start, end):
+                fallacy_tags[i] = str(row["fallacy"])
+                components_tags[i] = str(row["component_type"])
+
+        turns = parse_turns(txt)
+
+        rows = []
+
+        for turn_id, turn in enumerate(turns):
+            start = turn["start"]
+            end = turn["end"]
+            speaker = turn["speaker"]
+
+            turn_text = txt[start:end]
+            turn_fallacy_labels = fallacy_tags[start:end]
+            turn_components_labels = components_tags[start:end]
+
+            rows.append({
+                "id": turn_id,
+                "speech_turn": turn_text,
+                "fallacy_labels": turn_fallacy_labels,
+                "components_labels": turn_components_labels,
+                "speaker":speaker,
+                "year": debate.split("_")[-1],
+            })
+
+        # Save debate CSV
+        out_path = os.path.join(csv_out_dir, f"{debate}.csv")
+        out_df = pd.DataFrame(rows)
+        out_df.to_csv(out_path, index=False, encoding="utf-8")
+
+        print(f"Saved: {out_path}")
 
 
 if __name__ == "__main__":
-    main()
+    main(CSV_PATH, CSV_OUT_DIR)
